@@ -1,0 +1,12 @@
+{
+  "crop_count": 60,
+  "buildings": 12,
+  "manual_visual_check": "Both contact sheets inspected; roofs present; fine alignment not independently certified",
+  "background_isolation": "Full-image outside-polygon pixels set to RGB128 before crop; nearest-neighbor output resizing",
+  "future_target_uas_in_main_inputs": false,
+  "qa_only_sources": [
+    "NOAA raw georeferencing",
+    "NOAA local adjustment"
+  ],
+  "model_revision": "7e3e67edbbed1bf9888184d9df282b700a323964"
+}

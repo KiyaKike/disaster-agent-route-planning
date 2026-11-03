@@ -1,0 +1,759 @@
+{
+  "rows": [
+    {
+      "building_id": "06162f1f87754cc0b9de8f61c00911a5",
+      "display_id": "B01",
+      "crops": {
+        "pre": {
+          "path": "crops/06162f1f87754cc0b9de8f61c00911a5/pre.png",
+          "sha256": "e8309b9031b46dfe13200dc285c2f4d66febd602b8bcea76571cd57289c87ec7",
+          "roi_box": [
+            357,
+            456,
+            493,
+            609
+          ],
+          "mask_pixels": 10640
+        },
+        "post": {
+          "path": "crops/06162f1f87754cc0b9de8f61c00911a5/post.png",
+          "sha256": "c81f7fc0fcb5d2e99269ba23dce0a7c8bd2f7ec4f729e9157791135617fd58e0",
+          "roi_box": [
+            357,
+            456,
+            493,
+            609
+          ],
+          "mask_pixels": 10640
+        },
+        "uas": {
+          "path": "crops/06162f1f87754cc0b9de8f61c00911a5/uas.png",
+          "sha256": "fe43d904b6c87da9082703451ebc264198c14033439bb67e0c2f71c844ecc445",
+          "roi_box": [
+            357,
+            456,
+            493,
+            609
+          ],
+          "mask_pixels": 10640
+        },
+        "noaa_raw_qa_only": {
+          "path": "crops/06162f1f87754cc0b9de8f61c00911a5/noaa_raw_qa_only.png",
+          "sha256": "c2d06d57c7d199cac7e42857dcf3b312043a5c3d761dd64a535c255a4cf53d89",
+          "roi_box": [
+            357,
+            456,
+            493,
+            609
+          ],
+          "mask_pixels": 10640
+        },
+        "noaa_aligned_qa_only": {
+          "path": "crops/06162f1f87754cc0b9de8f61c00911a5/noaa_aligned_qa_only.png",
+          "sha256": "efa782d91d40b737233a2399374840becdae34c34cc46e49bf6850b3fbe7ac02",
+          "roi_box": [
+            357,
+            456,
+            493,
+            609
+          ],
+          "mask_pixels": 10640
+        }
+      }
+    },
+    {
+      "building_id": "0dc64e37785b4a468be551153e403ebe",
+      "display_id": "B02",
+      "crops": {
+        "pre": {
+          "path": "crops/0dc64e37785b4a468be551153e403ebe/pre.png",
+          "sha256": "87e2d8ede8a9995bcb0c41c3dd50771d1bb395a7e87f5c5c8bfa51838aabe806",
+          "roi_box": [
+            441,
+            350,
+            607,
+            497
+          ],
+          "mask_pixels": 11975
+        },
+        "post": {
+          "path": "crops/0dc64e37785b4a468be551153e403ebe/post.png",
+          "sha256": "aa57a6e457649a15d2742fdda1261ca54a6da8fa63618e6570095bce02335263",
+          "roi_box": [
+            441,
+            350,
+            607,
+            497
+          ],
+          "mask_pixels": 11975
+        },
+        "uas": {
+          "path": "crops/0dc64e37785b4a468be551153e403ebe/uas.png",
+          "sha256": "397e6332fb6e5f9b2675a0063e5f2746c77fc7e64d4232fa401b8a0fa7f2ce21",
+          "roi_box": [
+            441,
+            350,
+            607,
+            497
+          ],
+          "mask_pixels": 11975
+        },
+        "noaa_raw_qa_only": {
+          "path": "crops/0dc64e37785b4a468be551153e403ebe/noaa_raw_qa_only.png",
+          "sha256": "054b788787539b303410d728c94f3b85a7b3502a7dd4dfde803670f3f7ccb58f",
+          "roi_box": [
+            441,
+            350,
+            607,
+            497
+          ],
+          "mask_pixels": 11975
+        },
+        "noaa_aligned_qa_only": {
+          "path": "crops/0dc64e37785b4a468be551153e403ebe/noaa_aligned_qa_only.png",
+          "sha256": "41ee5cf133254270d3136a9607a6892ac5b1ce48699b919a69659886dd15f06c",
+          "roi_box": [
+            441,
+            350,
+            607,
+            497
+          ],
+          "mask_pixels": 11975
+        }
+      }
+    },
+    {
+      "building_id": "24fd756ce06b4f75adbc71d39946b8ba",
+      "display_id": "B03",
+      "crops": {
+        "pre": {
+          "path": "crops/24fd756ce06b4f75adbc71d39946b8ba/pre.png",
+          "sha256": "f59fc5e97c003cc518f7b81b5ee2c208de635a3920a8e3a569d8014e36ae805d",
+          "roi_box": [
+            646,
+            124,
+            829,
+            321
+          ],
+          "mask_pixels": 18417
+        },
+        "post": {
+          "path": "crops/24fd756ce06b4f75adbc71d39946b8ba/post.png",
+          "sha256": "4f2dcba912b63a6086635af07fef47f8649026de1ee46fe32e1105136a2c6860",
+          "roi_box": [
+            646,
+            124,
+            829,
+            321
+          ],
+          "mask_pixels": 18417
+        },
+        "uas": {
+          "path": "crops/24fd756ce06b4f75adbc71d39946b8ba/uas.png",
+          "sha256": "dbe02054d9dabb07f31c4ad87377dc77fb08a15e52e77a349000531383cf092a",
+          "roi_box": [
+            646,
+            124,
+            829,
+            321
+          ],
+          "mask_pixels": 18417
+        },
+        "noaa_raw_qa_only": {
+          "path": "crops/24fd756ce06b4f75adbc71d39946b8ba/noaa_raw_qa_only.png",
+          "sha256": "ad27410b60e70a2f26002ec34bfa00f3b881d5f1ac2a6456026be60615f5666a",
+          "roi_box": [
+            646,
+            124,
+            829,
+            321
+          ],
+          "mask_pixels": 18417
+        },
+        "noaa_aligned_qa_only": {
+          "path": "crops/24fd756ce06b4f75adbc71d39946b8ba/noaa_aligned_qa_only.png",
+          "sha256": "deeede11f2d0874f8cb7c36e26355c7d31986f92309e97822c860983fc6c91f6",
+          "roi_box": [
+            646,
+            124,
+            829,
+            321
+          ],
+          "mask_pixels": 18417
+        }
+      }
+    },
+    {
+      "building_id": "456e6368a048451090081f0aebfc6c65",
+      "display_id": "B04",
+      "crops": {
+        "pre": {
+          "path": "crops/456e6368a048451090081f0aebfc6c65/pre.png",
+          "sha256": "03e3db60b5e1559789d7e6655613207edb7f9a7a2a38f9a89d7c0a276ee5f898",
+          "roi_box": [
+            190,
+            492,
+            383,
+            690
+          ],
+          "mask_pixels": 18902
+        },
+        "post": {
+          "path": "crops/456e6368a048451090081f0aebfc6c65/post.png",
+          "sha256": "df14920e6ba0f86283cc12a46316bd56241dda79b528e06f1568fcf94f77fe4d",
+          "roi_box": [
+            190,
+            492,
+            383,
+            690
+          ],
+          "mask_pixels": 18902
+        },
+        "uas": {
+          "path": "crops/456e6368a048451090081f0aebfc6c65/uas.png",
+          "sha256": "0a43e0f249892eef52d15b1fd063c03e80756716923c5ba6588d643f2d0daf9d",
+          "roi_box": [
+            190,
+            492,
+            383,
+            690
+          ],
+          "mask_pixels": 18902
+        },
+        "noaa_raw_qa_only": {
+          "path": "crops/456e6368a048451090081f0aebfc6c65/noaa_raw_qa_only.png",
+          "sha256": "66d436de0062f39d4abf5d8c1cc5fecebe9fad56ef85d90ab6f1c2fe4656a42b",
+          "roi_box": [
+            190,
+            492,
+            383,
+            690
+          ],
+          "mask_pixels": 18902
+        },
+        "noaa_aligned_qa_only": {
+          "path": "crops/456e6368a048451090081f0aebfc6c65/noaa_aligned_qa_only.png",
+          "sha256": "6fc71e96e361a062ba775eea04e8ec43374674368b46551af5c30cd33a963ecf",
+          "roi_box": [
+            190,
+            492,
+            383,
+            690
+          ],
+          "mask_pixels": 18902
+        }
+      }
+    },
+    {
+      "building_id": "635289b3a1854c73b0c9685397e13e72",
+      "display_id": "B05",
+      "crops": {
+        "pre": {
+          "path": "crops/635289b3a1854c73b0c9685397e13e72/pre.png",
+          "sha256": "5fabaa16a067c02320d4483c77d58fa9db6257abb7650ca44b6d065b4a30c0d6",
+          "roi_box": [
+            487,
+            768,
+            695,
+            1006
+          ],
+          "mask_pixels": 23477
+        },
+        "post": {
+          "path": "crops/635289b3a1854c73b0c9685397e13e72/post.png",
+          "sha256": "ae575b3ab0c098003ac744d7ddfd433f486a4cbbf2cfcbd0191b3312bb9aedb4",
+          "roi_box": [
+            487,
+            768,
+            695,
+            1006
+          ],
+          "mask_pixels": 23477
+        },
+        "uas": {
+          "path": "crops/635289b3a1854c73b0c9685397e13e72/uas.png",
+          "sha256": "4273a574bb158e8f5b83d004592809a86e25b95811f166a0139355a12ad1a6bc",
+          "roi_box": [
+            487,
+            768,
+            695,
+            1006
+          ],
+          "mask_pixels": 23477
+        },
+        "noaa_raw_qa_only": {
+          "path": "crops/635289b3a1854c73b0c9685397e13e72/noaa_raw_qa_only.png",
+          "sha256": "50b2c3034332e5f2f35cc0427edba16850d4856d47ebc29aa717c73223b0592e",
+          "roi_box": [
+            487,
+            768,
+            695,
+            1006
+          ],
+          "mask_pixels": 23477
+        },
+        "noaa_aligned_qa_only": {
+          "path": "crops/635289b3a1854c73b0c9685397e13e72/noaa_aligned_qa_only.png",
+          "sha256": "22849ab0abff413499501f339410b467dd36e094da77f3b730e6efe9645e3c77",
+          "roi_box": [
+            487,
+            768,
+            695,
+            1006
+          ],
+          "mask_pixels": 23477
+        }
+      }
+    },
+    {
+      "building_id": "696be859b1fb46d7aec707f2a299b6c2",
+      "display_id": "B06",
+      "crops": {
+        "pre": {
+          "path": "crops/696be859b1fb46d7aec707f2a299b6c2/pre.png",
+          "sha256": "ff125209b694845afbb941a881d4d51ab11c17fc75f5ac00b78a12b849d75765",
+          "roi_box": [
+            754,
+            23,
+            944,
+            222
+          ],
+          "mask_pixels": 19445
+        },
+        "post": {
+          "path": "crops/696be859b1fb46d7aec707f2a299b6c2/post.png",
+          "sha256": "a9a2f8ca495f1f79139c943b7a966b480cb21f1a28ba224fd8671e6324fe7637",
+          "roi_box": [
+            754,
+            23,
+            944,
+            222
+          ],
+          "mask_pixels": 19445
+        },
+        "uas": {
+          "path": "crops/696be859b1fb46d7aec707f2a299b6c2/uas.png",
+          "sha256": "3d1b10b2a096fd61817371097de299a1a37dfdd3ef3a3faba7684f65fee6eaaa",
+          "roi_box": [
+            754,
+            23,
+            944,
+            222
+          ],
+          "mask_pixels": 19445
+        },
+        "noaa_raw_qa_only": {
+          "path": "crops/696be859b1fb46d7aec707f2a299b6c2/noaa_raw_qa_only.png",
+          "sha256": "11f3e7a961f9f602dec682e55f4b56e7461de4c408edf6f540dacfc05f510bfc",
+          "roi_box": [
+            754,
+            23,
+            944,
+            222
+          ],
+          "mask_pixels": 19445
+        },
+        "noaa_aligned_qa_only": {
+          "path": "crops/696be859b1fb46d7aec707f2a299b6c2/noaa_aligned_qa_only.png",
+          "sha256": "2360e3a945e580cfe7abc145f69302396bee4bb0607d66c7a709d46ab3046f87",
+          "roi_box": [
+            754,
+            23,
+            944,
+            222
+          ],
+          "mask_pixels": 19445
+        }
+      }
+    },
+    {
+      "building_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+      "display_id": "B07",
+      "crops": {
+        "pre": {
+          "path": "crops/8b22dfaa54eb4bd09bfd31a68e5dd2c9/pre.png",
+          "sha256": "47c333d15dae4571df8b07594a719c5046c8327805b9d54de37c9b20e7837d8d",
+          "roi_box": [
+            835,
+            496,
+            1024,
+            680
+          ],
+          "mask_pixels": 17639
+        },
+        "post": {
+          "path": "crops/8b22dfaa54eb4bd09bfd31a68e5dd2c9/post.png",
+          "sha256": "faf550ff7a04c2afda35cd74972a6542427aeb51d352a14f93d52f33cad61564",
+          "roi_box": [
+            835,
+            496,
+            1024,
+            680
+          ],
+          "mask_pixels": 17639
+        },
+        "uas": {
+          "path": "crops/8b22dfaa54eb4bd09bfd31a68e5dd2c9/uas.png",
+          "sha256": "81f0fcde2593f73ca4c7741d116a7f57f083b9c8e05ae70bd501e9c977c3bd05",
+          "roi_box": [
+            835,
+            496,
+            1024,
+            680
+          ],
+          "mask_pixels": 17639
+        },
+        "noaa_raw_qa_only": {
+          "path": "crops/8b22dfaa54eb4bd09bfd31a68e5dd2c9/noaa_raw_qa_only.png",
+          "sha256": "62af0186ce902500fd64bcb9403dda3870a397c164892bdb615441cea704d01c",
+          "roi_box": [
+            835,
+            496,
+            1024,
+            680
+          ],
+          "mask_pixels": 17639
+        },
+        "noaa_aligned_qa_only": {
+          "path": "crops/8b22dfaa54eb4bd09bfd31a68e5dd2c9/noaa_aligned_qa_only.png",
+          "sha256": "76aef95f1a2ea675bb6067218f9db86170fa81db826330bc87737583d9f37148",
+          "roi_box": [
+            835,
+            496,
+            1024,
+            680
+          ],
+          "mask_pixels": 17639
+        }
+      }
+    },
+    {
+      "building_id": "96caf68be1db41e58ba409062ca05cec",
+      "display_id": "B08",
+      "crops": {
+        "pre": {
+          "path": "crops/96caf68be1db41e58ba409062ca05cec/pre.png",
+          "sha256": "1e2956b921d3adf82891d9feacdc1f07014c920cc7070d09f2357898b4f8bf0e",
+          "roi_box": [
+            30,
+            36,
+            224,
+            237
+          ],
+          "mask_pixels": 20126
+        },
+        "post": {
+          "path": "crops/96caf68be1db41e58ba409062ca05cec/post.png",
+          "sha256": "34b28aa8d5614376d68d8cd33aae691b3a2fc0cf0159fe221b8fcdf2a386cab5",
+          "roi_box": [
+            30,
+            36,
+            224,
+            237
+          ],
+          "mask_pixels": 20126
+        },
+        "uas": {
+          "path": "crops/96caf68be1db41e58ba409062ca05cec/uas.png",
+          "sha256": "284efc540ed4d53c3f53fe61f18465089545e8d278778f1ad7302ebc53d26ed1",
+          "roi_box": [
+            30,
+            36,
+            224,
+            237
+          ],
+          "mask_pixels": 20126
+        },
+        "noaa_raw_qa_only": {
+          "path": "crops/96caf68be1db41e58ba409062ca05cec/noaa_raw_qa_only.png",
+          "sha256": "e6eec897179756fbfdee753a2251731c7d00313b3210a2aeda9d4840758daebb",
+          "roi_box": [
+            30,
+            36,
+            224,
+            237
+          ],
+          "mask_pixels": 20126
+        },
+        "noaa_aligned_qa_only": {
+          "path": "crops/96caf68be1db41e58ba409062ca05cec/noaa_aligned_qa_only.png",
+          "sha256": "3cd4f4dfaeb6d1ec11fd1780bfc8687644f1dbb2a5f1a19d5fe4aba6a10d4ad6",
+          "roi_box": [
+            30,
+            36,
+            224,
+            237
+          ],
+          "mask_pixels": 20126
+        }
+      }
+    },
+    {
+      "building_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+      "display_id": "B09",
+      "crops": {
+        "pre": {
+          "path": "crops/9c11b326de2a4e4aa731385dc2fb3baf/pre.png",
+          "sha256": "80e1a788cc25efd109711921ac9dd7fdf70aada277ecc46e3933296017d45b38",
+          "roi_box": [
+            651,
+            636,
+            854,
+            846
+          ],
+          "mask_pixels": 21393
+        },
+        "post": {
+          "path": "crops/9c11b326de2a4e4aa731385dc2fb3baf/post.png",
+          "sha256": "7d00761c09274a4e6888953407dff4709c7fc4a4f21233b519c0513debd12741",
+          "roi_box": [
+            651,
+            636,
+            854,
+            846
+          ],
+          "mask_pixels": 21393
+        },
+        "uas": {
+          "path": "crops/9c11b326de2a4e4aa731385dc2fb3baf/uas.png",
+          "sha256": "a374c7886193ea544b969eacab99338051adc5be20d40b3a9a018452a2e09150",
+          "roi_box": [
+            651,
+            636,
+            854,
+            846
+          ],
+          "mask_pixels": 21393
+        },
+        "noaa_raw_qa_only": {
+          "path": "crops/9c11b326de2a4e4aa731385dc2fb3baf/noaa_raw_qa_only.png",
+          "sha256": "a4173ee38f43b29ad3b501985c6b503ad9a4a08f203924d761e124e630726b27",
+          "roi_box": [
+            651,
+            636,
+            854,
+            846
+          ],
+          "mask_pixels": 21393
+        },
+        "noaa_aligned_qa_only": {
+          "path": "crops/9c11b326de2a4e4aa731385dc2fb3baf/noaa_aligned_qa_only.png",
+          "sha256": "807e77e60a54f4ff818340c008011dd095ceffb807088929121295969b862090",
+          "roi_box": [
+            651,
+            636,
+            854,
+            846
+          ],
+          "mask_pixels": 21393
+        }
+      }
+    },
+    {
+      "building_id": "d9396c94b4a747e0bc91d7cd234908eb",
+      "display_id": "B10",
+      "crops": {
+        "pre": {
+          "path": "crops/d9396c94b4a747e0bc91d7cd234908eb/pre.png",
+          "sha256": "7c8c996cb011cdc63bd6d202468fce1edd1e1279e6ee33adda1d93a4ea37d53d",
+          "roi_box": [
+            560,
+            256,
+            718,
+            416
+          ],
+          "mask_pixels": 12624
+        },
+        "post": {
+          "path": "crops/d9396c94b4a747e0bc91d7cd234908eb/post.png",
+          "sha256": "4355f61be16bf5019d2004c5829a8b49cf781cfca42c3d4cdad39d53ec2e36c3",
+          "roi_box": [
+            560,
+            256,
+            718,
+            416
+          ],
+          "mask_pixels": 12624
+        },
+        "uas": {
+          "path": "crops/d9396c94b4a747e0bc91d7cd234908eb/uas.png",
+          "sha256": "faf068e07212b2e34917ca25700133d4c0be2b017515148b1060094e8c9a72da",
+          "roi_box": [
+            560,
+            256,
+            718,
+            416
+          ],
+          "mask_pixels": 12624
+        },
+        "noaa_raw_qa_only": {
+          "path": "crops/d9396c94b4a747e0bc91d7cd234908eb/noaa_raw_qa_only.png",
+          "sha256": "ec59ae093bc7bb209963b94156b428b07c0c6d28acbdad5fb15bddf07bffb450",
+          "roi_box": [
+            560,
+            256,
+            718,
+            416
+          ],
+          "mask_pixels": 12624
+        },
+        "noaa_aligned_qa_only": {
+          "path": "crops/d9396c94b4a747e0bc91d7cd234908eb/noaa_aligned_qa_only.png",
+          "sha256": "65d3ada3c3d06a52dc2a745bc08395b04b89f2caac7ea46b088b333076cca64e",
+          "roi_box": [
+            560,
+            256,
+            718,
+            416
+          ],
+          "mask_pixels": 12624
+        }
+      }
+    },
+    {
+      "building_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+      "display_id": "B11",
+      "crops": {
+        "pre": {
+          "path": "crops/ee1662cd6cbd4f4bbaca03d6250a0a68/pre.png",
+          "sha256": "79f802fa609a683f2e3e49775f9127db17f7cacc56dbf1ed1833de26419d8f10",
+          "roi_box": [
+            88,
+            602,
+            251,
+            782
+          ],
+          "mask_pixels": 13998
+        },
+        "post": {
+          "path": "crops/ee1662cd6cbd4f4bbaca03d6250a0a68/post.png",
+          "sha256": "4fe5dee39b5a372e57d3142d4747b2c184b46df2aad1c19a9869f5693a8f5419",
+          "roi_box": [
+            88,
+            602,
+            251,
+            782
+          ],
+          "mask_pixels": 13998
+        },
+        "uas": {
+          "path": "crops/ee1662cd6cbd4f4bbaca03d6250a0a68/uas.png",
+          "sha256": "d6e2949b1e67f4daec73c6a4259f150b627b2b8a9123e82e1b47b79933f58362",
+          "roi_box": [
+            88,
+            602,
+            251,
+            782
+          ],
+          "mask_pixels": 13998
+        },
+        "noaa_raw_qa_only": {
+          "path": "crops/ee1662cd6cbd4f4bbaca03d6250a0a68/noaa_raw_qa_only.png",
+          "sha256": "8df2ea50ec5412717dff66a64bebb758c880e5793c8b94c2bac7ccd4708b90c6",
+          "roi_box": [
+            88,
+            602,
+            251,
+            782
+          ],
+          "mask_pixels": 13998
+        },
+        "noaa_aligned_qa_only": {
+          "path": "crops/ee1662cd6cbd4f4bbaca03d6250a0a68/noaa_aligned_qa_only.png",
+          "sha256": "ea1d6dd28c0e90a7717e10160abebbb8dc842172032165a07fbdc44061ba5aa4",
+          "roi_box": [
+            88,
+            602,
+            251,
+            782
+          ],
+          "mask_pixels": 13998
+        }
+      }
+    },
+    {
+      "building_id": "eeb2077a2d8a447a8020fd1dea437511",
+      "display_id": "B12",
+      "crops": {
+        "pre": {
+          "path": "crops/eeb2077a2d8a447a8020fd1dea437511/pre.png",
+          "sha256": "52819c26540a73ce815a2594cc8c2ea4845a668bb57cfb7453e77a457abe22c0",
+          "roi_box": [
+            142,
+            0,
+            333,
+            159
+          ],
+          "mask_pixels": 16923
+        },
+        "post": {
+          "path": "crops/eeb2077a2d8a447a8020fd1dea437511/post.png",
+          "sha256": "34808d4a051d59759844e779d3fa552c5225afa7def7a9396daacb2b193d1de1",
+          "roi_box": [
+            142,
+            0,
+            333,
+            159
+          ],
+          "mask_pixels": 16923
+        },
+        "uas": {
+          "path": "crops/eeb2077a2d8a447a8020fd1dea437511/uas.png",
+          "sha256": "87918f1de18601a14a3c23ccd2deaf99bee919c36599866e4293033b825d61ac",
+          "roi_box": [
+            142,
+            0,
+            333,
+            159
+          ],
+          "mask_pixels": 16923
+        },
+        "noaa_raw_qa_only": {
+          "path": "crops/eeb2077a2d8a447a8020fd1dea437511/noaa_raw_qa_only.png",
+          "sha256": "6d35c839f9ef8bb11fd4cfea978800b7ad4d91aea36bdbe1f2006f598c9b09d0",
+          "roi_box": [
+            142,
+            0,
+            333,
+            159
+          ],
+          "mask_pixels": 16923
+        },
+        "noaa_aligned_qa_only": {
+          "path": "crops/eeb2077a2d8a447a8020fd1dea437511/noaa_aligned_qa_only.png",
+          "sha256": "26a2df1683a4927c41f8031a692f56c2db1f5e858ed1ace3fbca480340cabad8",
+          "roi_box": [
+            142,
+            0,
+            333,
+            159
+          ],
+          "mask_pixels": 16923
+        }
+      }
+    }
+  ],
+  "source_images": {
+    "pre": {
+      "path": "output/disaster_route_crasar_region_rank2_v1/pre_roi.png",
+      "sha256": "2ba92834c39412ea83ff4fe12da8388568735dd24f8832a3ad5acf6e77121ae3"
+    },
+    "post": {
+      "path": "output/disaster_route_crasar_region_rank2_v1/post_roi.png",
+      "sha256": "1ce695b0814b63c206f075a8fd30f9d86fc3fd9896af9049056ea1ead9ab01ad"
+    },
+    "uas": {
+      "path": "output/disaster_route_crasar_region_rank2_v1/uas_roi.png",
+      "sha256": "6e71c4d25158b9fc2c07dfe37b692bb6ccdbee651b1d7cdb245d730bc935731b"
+    },
+    "noaa_raw_qa_only": {
+      "path": "output/disaster_route_noaa_entry_v1/crewed_raw_georef_roi.png",
+      "sha256": "1e31486840724317ce4099757b1ff8c1fd9a83fe3525017f8cdb39b0c6ef9b6e"
+    },
+    "noaa_aligned_qa_only": {
+      "path": "output/disaster_route_noaa_entry_v1/crewed_aligned_roi.png",
+      "sha256": "e0cab07afb9321338c2b450794fc5f033df69c57adea6db22841222cd62d54ff"
+    }
+  },
+  "scope": "Footprint-masked crops; no independent registration certification"
+}

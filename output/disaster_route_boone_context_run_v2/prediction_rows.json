@@ -1,0 +1,3962 @@
+[
+  {
+    "anchor_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "target_id": "0dc64e37785b4a468be551153e403ebe",
+    "method": "S0_no_update",
+    "score": 0.3803792893886566
+  },
+  {
+    "anchor_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "target_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "method": "S0_no_update",
+    "score": 0.4033396542072296
+  },
+  {
+    "anchor_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "target_id": "456e6368a048451090081f0aebfc6c65",
+    "method": "S0_no_update",
+    "score": 0.331756591796875
+  },
+  {
+    "anchor_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "target_id": "635289b3a1854c73b0c9685397e13e72",
+    "method": "S0_no_update",
+    "score": 0.3750920593738556
+  },
+  {
+    "anchor_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "target_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "method": "S0_no_update",
+    "score": 0.4077887535095215
+  },
+  {
+    "anchor_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "target_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "method": "S0_no_update",
+    "score": 0.362665593624115
+  },
+  {
+    "anchor_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "target_id": "96caf68be1db41e58ba409062ca05cec",
+    "method": "S0_no_update",
+    "score": 0.38071998953819275
+  },
+  {
+    "anchor_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "target_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "method": "S0_no_update",
+    "score": 0.3778700828552246
+  },
+  {
+    "anchor_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "target_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "method": "S0_no_update",
+    "score": 0.37108680605888367
+  },
+  {
+    "anchor_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "target_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "method": "S0_no_update",
+    "score": 0.39963212609291077
+  },
+  {
+    "anchor_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "target_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "method": "S0_no_update",
+    "score": 0.3492357134819031
+  },
+  {
+    "anchor_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "target_id": "0dc64e37785b4a468be551153e403ebe",
+    "method": "S1_spatial",
+    "score": 0.19265128280476804
+  },
+  {
+    "anchor_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "target_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "method": "S1_spatial",
+    "score": 0.2994096533523328
+  },
+  {
+    "anchor_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "target_id": "456e6368a048451090081f0aebfc6c65",
+    "method": "S1_spatial",
+    "score": 0.14322155921951898
+  },
+  {
+    "anchor_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "target_id": "635289b3a1854c73b0c9685397e13e72",
+    "method": "S1_spatial",
+    "score": 0.24865585456488795
+  },
+  {
+    "anchor_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "target_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "method": "S1_spatial",
+    "score": 0.3428428659762805
+  },
+  {
+    "anchor_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "target_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "method": "S1_spatial",
+    "score": 0.28221402261430956
+  },
+  {
+    "anchor_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "target_id": "96caf68be1db41e58ba409062ca05cec",
+    "method": "S1_spatial",
+    "score": 0.2839781830982844
+  },
+  {
+    "anchor_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "target_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "method": "S1_spatial",
+    "score": 0.25366439220173476
+  },
+  {
+    "anchor_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "target_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "method": "S1_spatial",
+    "score": 0.2204307278309883
+  },
+  {
+    "anchor_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "target_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "method": "S1_spatial",
+    "score": 0.2456512724327304
+  },
+  {
+    "anchor_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "target_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "method": "S1_spatial",
+    "score": 0.25730127890206644
+  },
+  {
+    "anchor_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "target_id": "0dc64e37785b4a468be551153e403ebe",
+    "method": "S2_visual_spatial",
+    "score": 0.3130776277420522
+  },
+  {
+    "anchor_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "target_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "method": "S2_visual_spatial",
+    "score": 0.3651856750989352
+  },
+  {
+    "anchor_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "target_id": "456e6368a048451090081f0aebfc6c65",
+    "method": "S2_visual_spatial",
+    "score": 0.2862436343339497
+  },
+  {
+    "anchor_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "target_id": "635289b3a1854c73b0c9685397e13e72",
+    "method": "S2_visual_spatial",
+    "score": 0.29861581454338165
+  },
+  {
+    "anchor_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "target_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "method": "S2_visual_spatial",
+    "score": 0.3716185632363781
+  },
+  {
+    "anchor_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "target_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "method": "S2_visual_spatial",
+    "score": 0.33836994393919095
+  },
+  {
+    "anchor_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "target_id": "96caf68be1db41e58ba409062ca05cec",
+    "method": "S2_visual_spatial",
+    "score": 0.3260944080105956
+  },
+  {
+    "anchor_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "target_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "method": "S2_visual_spatial",
+    "score": 0.31736391694314287
+  },
+  {
+    "anchor_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "target_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "method": "S2_visual_spatial",
+    "score": 0.29280649947455234
+  },
+  {
+    "anchor_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "target_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "method": "S2_visual_spatial",
+    "score": 0.297882787568354
+  },
+  {
+    "anchor_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "target_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "method": "S2_visual_spatial",
+    "score": 0.3127328372961977
+  },
+  {
+    "anchor_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "target_id": "0dc64e37785b4a468be551153e403ebe",
+    "method": "V1_vlm_history",
+    "score": 0.3235839903354645
+  },
+  {
+    "anchor_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "target_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "method": "V1_vlm_history",
+    "score": 0.3283005356788635
+  },
+  {
+    "anchor_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "target_id": "456e6368a048451090081f0aebfc6c65",
+    "method": "V1_vlm_history",
+    "score": 0.2909013628959656
+  },
+  {
+    "anchor_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "target_id": "635289b3a1854c73b0c9685397e13e72",
+    "method": "V1_vlm_history",
+    "score": 0.31636855006217957
+  },
+  {
+    "anchor_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "target_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "method": "V1_vlm_history",
+    "score": 0.3276519179344177
+  },
+  {
+    "anchor_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "target_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "method": "V1_vlm_history",
+    "score": 0.3138093948364258
+  },
+  {
+    "anchor_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "target_id": "96caf68be1db41e58ba409062ca05cec",
+    "method": "V1_vlm_history",
+    "score": 0.31187063455581665
+  },
+  {
+    "anchor_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "target_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "method": "V1_vlm_history",
+    "score": 0.31198135018348694
+  },
+  {
+    "anchor_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "target_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "method": "V1_vlm_history",
+    "score": 0.3066692650318146
+  },
+  {
+    "anchor_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "target_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "method": "V1_vlm_history",
+    "score": 0.3232998251914978
+  },
+  {
+    "anchor_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "target_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "method": "V1_vlm_history",
+    "score": 0.2936864197254181
+  },
+  {
+    "anchor_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "target_id": "0dc64e37785b4a468be551153e403ebe",
+    "method": "V2_vlm_label_only",
+    "score": 0.37843525409698486
+  },
+  {
+    "anchor_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "target_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "method": "V2_vlm_label_only",
+    "score": 0.3737785518169403
+  },
+  {
+    "anchor_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "target_id": "456e6368a048451090081f0aebfc6c65",
+    "method": "V2_vlm_label_only",
+    "score": 0.32178759574890137
+  },
+  {
+    "anchor_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "target_id": "635289b3a1854c73b0c9685397e13e72",
+    "method": "V2_vlm_label_only",
+    "score": 0.37280651926994324
+  },
+  {
+    "anchor_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "target_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "method": "V2_vlm_label_only",
+    "score": 0.3965061604976654
+  },
+  {
+    "anchor_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "target_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "method": "V2_vlm_label_only",
+    "score": 0.34864312410354614
+  },
+  {
+    "anchor_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "target_id": "96caf68be1db41e58ba409062ca05cec",
+    "method": "V2_vlm_label_only",
+    "score": 0.36505430936813354
+  },
+  {
+    "anchor_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "target_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "method": "V2_vlm_label_only",
+    "score": 0.3671576976776123
+  },
+  {
+    "anchor_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "target_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "method": "V2_vlm_label_only",
+    "score": 0.3468815088272095
+  },
+  {
+    "anchor_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "target_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "method": "V2_vlm_label_only",
+    "score": 0.3769264817237854
+  },
+  {
+    "anchor_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "target_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "method": "V2_vlm_label_only",
+    "score": 0.3312914967536926
+  },
+  {
+    "anchor_id": "0dc64e37785b4a468be551153e403ebe",
+    "target_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "method": "S0_no_update",
+    "score": 0.39978012442588806
+  },
+  {
+    "anchor_id": "0dc64e37785b4a468be551153e403ebe",
+    "target_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "method": "S0_no_update",
+    "score": 0.4033396542072296
+  },
+  {
+    "anchor_id": "0dc64e37785b4a468be551153e403ebe",
+    "target_id": "456e6368a048451090081f0aebfc6c65",
+    "method": "S0_no_update",
+    "score": 0.331756591796875
+  },
+  {
+    "anchor_id": "0dc64e37785b4a468be551153e403ebe",
+    "target_id": "635289b3a1854c73b0c9685397e13e72",
+    "method": "S0_no_update",
+    "score": 0.3750920593738556
+  },
+  {
+    "anchor_id": "0dc64e37785b4a468be551153e403ebe",
+    "target_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "method": "S0_no_update",
+    "score": 0.4077887535095215
+  },
+  {
+    "anchor_id": "0dc64e37785b4a468be551153e403ebe",
+    "target_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "method": "S0_no_update",
+    "score": 0.362665593624115
+  },
+  {
+    "anchor_id": "0dc64e37785b4a468be551153e403ebe",
+    "target_id": "96caf68be1db41e58ba409062ca05cec",
+    "method": "S0_no_update",
+    "score": 0.38071998953819275
+  },
+  {
+    "anchor_id": "0dc64e37785b4a468be551153e403ebe",
+    "target_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "method": "S0_no_update",
+    "score": 0.3778700828552246
+  },
+  {
+    "anchor_id": "0dc64e37785b4a468be551153e403ebe",
+    "target_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "method": "S0_no_update",
+    "score": 0.37108680605888367
+  },
+  {
+    "anchor_id": "0dc64e37785b4a468be551153e403ebe",
+    "target_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "method": "S0_no_update",
+    "score": 0.39963212609291077
+  },
+  {
+    "anchor_id": "0dc64e37785b4a468be551153e403ebe",
+    "target_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "method": "S0_no_update",
+    "score": 0.3492357134819031
+  },
+  {
+    "anchor_id": "0dc64e37785b4a468be551153e403ebe",
+    "target_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "method": "S1_spatial",
+    "score": 0.22116232584154072
+  },
+  {
+    "anchor_id": "0dc64e37785b4a468be551153e403ebe",
+    "target_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "method": "S1_spatial",
+    "score": 0.2640664030465862
+  },
+  {
+    "anchor_id": "0dc64e37785b4a468be551153e403ebe",
+    "target_id": "456e6368a048451090081f0aebfc6c65",
+    "method": "S1_spatial",
+    "score": 0.18198115871479503
+  },
+  {
+    "anchor_id": "0dc64e37785b4a468be551153e403ebe",
+    "target_id": "635289b3a1854c73b0c9685397e13e72",
+    "method": "S1_spatial",
+    "score": 0.2716491249348908
+  },
+  {
+    "anchor_id": "0dc64e37785b4a468be551153e403ebe",
+    "target_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "method": "S1_spatial",
+    "score": 0.30910549475009086
+  },
+  {
+    "anchor_id": "0dc64e37785b4a468be551153e403ebe",
+    "target_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "method": "S1_spatial",
+    "score": 0.2642181217940271
+  },
+  {
+    "anchor_id": "0dc64e37785b4a468be551153e403ebe",
+    "target_id": "96caf68be1db41e58ba409062ca05cec",
+    "method": "S1_spatial",
+    "score": 0.29285685472662915
+  },
+  {
+    "anchor_id": "0dc64e37785b4a468be551153e403ebe",
+    "target_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "method": "S1_spatial",
+    "score": 0.2566306944744248
+  },
+  {
+    "anchor_id": "0dc64e37785b4a468be551153e403ebe",
+    "target_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "method": "S1_spatial",
+    "score": 0.19535944805956137
+  },
+  {
+    "anchor_id": "0dc64e37785b4a468be551153e403ebe",
+    "target_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "method": "S1_spatial",
+    "score": 0.2929487975890637
+  },
+  {
+    "anchor_id": "0dc64e37785b4a468be551153e403ebe",
+    "target_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "method": "S1_spatial",
+    "score": 0.25343289030051985
+  },
+  {
+    "anchor_id": "0dc64e37785b4a468be551153e403ebe",
+    "target_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "method": "S2_visual_spatial",
+    "score": 0.33574452918819386
+  },
+  {
+    "anchor_id": "0dc64e37785b4a468be551153e403ebe",
+    "target_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "method": "S2_visual_spatial",
+    "score": 0.28145389283091904
+  },
+  {
+    "anchor_id": "0dc64e37785b4a468be551153e403ebe",
+    "target_id": "456e6368a048451090081f0aebfc6c65",
+    "method": "S2_visual_spatial",
+    "score": 0.2246211675276427
+  },
+  {
+    "anchor_id": "0dc64e37785b4a468be551153e403ebe",
+    "target_id": "635289b3a1854c73b0c9685397e13e72",
+    "method": "S2_visual_spatial",
+    "score": 0.30784111178798723
+  },
+  {
+    "anchor_id": "0dc64e37785b4a468be551153e403ebe",
+    "target_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "method": "S2_visual_spatial",
+    "score": 0.3399326700585757
+  },
+  {
+    "anchor_id": "0dc64e37785b4a468be551153e403ebe",
+    "target_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "method": "S2_visual_spatial",
+    "score": 0.28076901932126896
+  },
+  {
+    "anchor_id": "0dc64e37785b4a468be551153e403ebe",
+    "target_id": "96caf68be1db41e58ba409062ca05cec",
+    "method": "S2_visual_spatial",
+    "score": 0.3356840667139653
+  },
+  {
+    "anchor_id": "0dc64e37785b4a468be551153e403ebe",
+    "target_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "method": "S2_visual_spatial",
+    "score": 0.29436331426662266
+  },
+  {
+    "anchor_id": "0dc64e37785b4a468be551153e403ebe",
+    "target_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "method": "S2_visual_spatial",
+    "score": 0.2531563290695425
+  },
+  {
+    "anchor_id": "0dc64e37785b4a468be551153e403ebe",
+    "target_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "method": "S2_visual_spatial",
+    "score": 0.336821651275288
+  },
+  {
+    "anchor_id": "0dc64e37785b4a468be551153e403ebe",
+    "target_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "method": "S2_visual_spatial",
+    "score": 0.2824798786413881
+  },
+  {
+    "anchor_id": "0dc64e37785b4a468be551153e403ebe",
+    "target_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "method": "V1_vlm_history",
+    "score": 0.34753745794296265
+  },
+  {
+    "anchor_id": "0dc64e37785b4a468be551153e403ebe",
+    "target_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "method": "V1_vlm_history",
+    "score": 0.3455694019794464
+  },
+  {
+    "anchor_id": "0dc64e37785b4a468be551153e403ebe",
+    "target_id": "456e6368a048451090081f0aebfc6c65",
+    "method": "V1_vlm_history",
+    "score": 0.3115529716014862
+  },
+  {
+    "anchor_id": "0dc64e37785b4a468be551153e403ebe",
+    "target_id": "635289b3a1854c73b0c9685397e13e72",
+    "method": "V1_vlm_history",
+    "score": 0.3318322002887726
+  },
+  {
+    "anchor_id": "0dc64e37785b4a468be551153e403ebe",
+    "target_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "method": "V1_vlm_history",
+    "score": 0.34282517433166504
+  },
+  {
+    "anchor_id": "0dc64e37785b4a468be551153e403ebe",
+    "target_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "method": "V1_vlm_history",
+    "score": 0.33559346199035645
+  },
+  {
+    "anchor_id": "0dc64e37785b4a468be551153e403ebe",
+    "target_id": "96caf68be1db41e58ba409062ca05cec",
+    "method": "V1_vlm_history",
+    "score": 0.33142557740211487
+  },
+  {
+    "anchor_id": "0dc64e37785b4a468be551153e403ebe",
+    "target_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "method": "V1_vlm_history",
+    "score": 0.3307233452796936
+  },
+  {
+    "anchor_id": "0dc64e37785b4a468be551153e403ebe",
+    "target_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "method": "V1_vlm_history",
+    "score": 0.327853262424469
+  },
+  {
+    "anchor_id": "0dc64e37785b4a468be551153e403ebe",
+    "target_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "method": "V1_vlm_history",
+    "score": 0.3396458029747009
+  },
+  {
+    "anchor_id": "0dc64e37785b4a468be551153e403ebe",
+    "target_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "method": "V1_vlm_history",
+    "score": 0.3155699372291565
+  },
+  {
+    "anchor_id": "0dc64e37785b4a468be551153e403ebe",
+    "target_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "method": "V2_vlm_label_only",
+    "score": 0.3818106949329376
+  },
+  {
+    "anchor_id": "0dc64e37785b4a468be551153e403ebe",
+    "target_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "method": "V2_vlm_label_only",
+    "score": 0.3737785518169403
+  },
+  {
+    "anchor_id": "0dc64e37785b4a468be551153e403ebe",
+    "target_id": "456e6368a048451090081f0aebfc6c65",
+    "method": "V2_vlm_label_only",
+    "score": 0.32178759574890137
+  },
+  {
+    "anchor_id": "0dc64e37785b4a468be551153e403ebe",
+    "target_id": "635289b3a1854c73b0c9685397e13e72",
+    "method": "V2_vlm_label_only",
+    "score": 0.37280651926994324
+  },
+  {
+    "anchor_id": "0dc64e37785b4a468be551153e403ebe",
+    "target_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "method": "V2_vlm_label_only",
+    "score": 0.3965061604976654
+  },
+  {
+    "anchor_id": "0dc64e37785b4a468be551153e403ebe",
+    "target_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "method": "V2_vlm_label_only",
+    "score": 0.34864312410354614
+  },
+  {
+    "anchor_id": "0dc64e37785b4a468be551153e403ebe",
+    "target_id": "96caf68be1db41e58ba409062ca05cec",
+    "method": "V2_vlm_label_only",
+    "score": 0.36505430936813354
+  },
+  {
+    "anchor_id": "0dc64e37785b4a468be551153e403ebe",
+    "target_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "method": "V2_vlm_label_only",
+    "score": 0.3671576976776123
+  },
+  {
+    "anchor_id": "0dc64e37785b4a468be551153e403ebe",
+    "target_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "method": "V2_vlm_label_only",
+    "score": 0.3468815088272095
+  },
+  {
+    "anchor_id": "0dc64e37785b4a468be551153e403ebe",
+    "target_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "method": "V2_vlm_label_only",
+    "score": 0.3769264817237854
+  },
+  {
+    "anchor_id": "0dc64e37785b4a468be551153e403ebe",
+    "target_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "method": "V2_vlm_label_only",
+    "score": 0.3312914967536926
+  },
+  {
+    "anchor_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "target_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "method": "S0_no_update",
+    "score": 0.39978012442588806
+  },
+  {
+    "anchor_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "target_id": "0dc64e37785b4a468be551153e403ebe",
+    "method": "S0_no_update",
+    "score": 0.3803792893886566
+  },
+  {
+    "anchor_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "target_id": "456e6368a048451090081f0aebfc6c65",
+    "method": "S0_no_update",
+    "score": 0.331756591796875
+  },
+  {
+    "anchor_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "target_id": "635289b3a1854c73b0c9685397e13e72",
+    "method": "S0_no_update",
+    "score": 0.3750920593738556
+  },
+  {
+    "anchor_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "target_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "method": "S0_no_update",
+    "score": 0.4077887535095215
+  },
+  {
+    "anchor_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "target_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "method": "S0_no_update",
+    "score": 0.362665593624115
+  },
+  {
+    "anchor_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "target_id": "96caf68be1db41e58ba409062ca05cec",
+    "method": "S0_no_update",
+    "score": 0.38071998953819275
+  },
+  {
+    "anchor_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "target_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "method": "S0_no_update",
+    "score": 0.3778700828552246
+  },
+  {
+    "anchor_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "target_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "method": "S0_no_update",
+    "score": 0.37108680605888367
+  },
+  {
+    "anchor_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "target_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "method": "S0_no_update",
+    "score": 0.39963212609291077
+  },
+  {
+    "anchor_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "target_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "method": "S0_no_update",
+    "score": 0.3492357134819031
+  },
+  {
+    "anchor_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "target_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "method": "S1_spatial",
+    "score": 0.5548926636932606
+  },
+  {
+    "anchor_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "target_id": "0dc64e37785b4a468be551153e403ebe",
+    "method": "S1_spatial",
+    "score": 0.5988423564256365
+  },
+  {
+    "anchor_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "target_id": "456e6368a048451090081f0aebfc6c65",
+    "method": "S1_spatial",
+    "score": 0.4317700510386281
+  },
+  {
+    "anchor_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "target_id": "635289b3a1854c73b0c9685397e13e72",
+    "method": "S1_spatial",
+    "score": 0.4494677666783868
+  },
+  {
+    "anchor_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "target_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "method": "S1_spatial",
+    "score": 0.6872917137856845
+  },
+  {
+    "anchor_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "target_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "method": "S1_spatial",
+    "score": 0.53635669756579
+  },
+  {
+    "anchor_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "target_id": "96caf68be1db41e58ba409062ca05cec",
+    "method": "S1_spatial",
+    "score": 0.4590451676405845
+  },
+  {
+    "anchor_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "target_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "method": "S1_spatial",
+    "score": 0.5070675773726927
+  },
+  {
+    "anchor_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "target_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "method": "S1_spatial",
+    "score": 0.6473864903907993
+  },
+  {
+    "anchor_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "target_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "method": "S1_spatial",
+    "score": 0.4521556969930366
+  },
+  {
+    "anchor_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "target_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "method": "S1_spatial",
+    "score": 0.46527839394219933
+  },
+  {
+    "anchor_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "target_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "method": "S2_visual_spatial",
+    "score": 0.4567238416775077
+  },
+  {
+    "anchor_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "target_id": "0dc64e37785b4a468be551153e403ebe",
+    "method": "S2_visual_spatial",
+    "score": 0.5715684591431056
+  },
+  {
+    "anchor_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "target_id": "456e6368a048451090081f0aebfc6c65",
+    "method": "S2_visual_spatial",
+    "score": 0.41061345624891304
+  },
+  {
+    "anchor_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "target_id": "635289b3a1854c73b0c9685397e13e72",
+    "method": "S2_visual_spatial",
+    "score": 0.43216524358722125
+  },
+  {
+    "anchor_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "target_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "method": "S2_visual_spatial",
+    "score": 0.6248181410905268
+  },
+  {
+    "anchor_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "target_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "method": "S2_visual_spatial",
+    "score": 0.5080710204129039
+  },
+  {
+    "anchor_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "target_id": "96caf68be1db41e58ba409062ca05cec",
+    "method": "S2_visual_spatial",
+    "score": 0.4272605401107519
+  },
+  {
+    "anchor_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "target_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "method": "S2_visual_spatial",
+    "score": 0.48505016978050275
+  },
+  {
+    "anchor_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "target_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "method": "S2_visual_spatial",
+    "score": 0.5532925644064133
+  },
+  {
+    "anchor_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "target_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "method": "S2_visual_spatial",
+    "score": 0.4358377182914196
+  },
+  {
+    "anchor_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "target_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "method": "S2_visual_spatial",
+    "score": 0.41797421454418426
+  },
+  {
+    "anchor_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "target_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "method": "V1_vlm_history",
+    "score": 0.5825030207633972
+  },
+  {
+    "anchor_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "target_id": "0dc64e37785b4a468be551153e403ebe",
+    "method": "V1_vlm_history",
+    "score": 0.5589722990989685
+  },
+  {
+    "anchor_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "target_id": "456e6368a048451090081f0aebfc6c65",
+    "method": "V1_vlm_history",
+    "score": 0.5188679695129395
+  },
+  {
+    "anchor_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "target_id": "635289b3a1854c73b0c9685397e13e72",
+    "method": "V1_vlm_history",
+    "score": 0.5405842661857605
+  },
+  {
+    "anchor_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "target_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "method": "V1_vlm_history",
+    "score": 0.564087986946106
+  },
+  {
+    "anchor_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "target_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "method": "V1_vlm_history",
+    "score": 0.5372703075408936
+  },
+  {
+    "anchor_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "target_id": "96caf68be1db41e58ba409062ca05cec",
+    "method": "V1_vlm_history",
+    "score": 0.5304262042045593
+  },
+  {
+    "anchor_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "target_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "method": "V1_vlm_history",
+    "score": 0.5406932234764099
+  },
+  {
+    "anchor_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "target_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "method": "V1_vlm_history",
+    "score": 0.5635787844657898
+  },
+  {
+    "anchor_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "target_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "method": "V1_vlm_history",
+    "score": 0.5586299300193787
+  },
+  {
+    "anchor_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "target_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "method": "V1_vlm_history",
+    "score": 0.5179516673088074
+  },
+  {
+    "anchor_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "target_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "method": "V2_vlm_label_only",
+    "score": 0.45302510261535645
+  },
+  {
+    "anchor_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "target_id": "0dc64e37785b4a468be551153e403ebe",
+    "method": "V2_vlm_label_only",
+    "score": 0.4402669072151184
+  },
+  {
+    "anchor_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "target_id": "456e6368a048451090081f0aebfc6c65",
+    "method": "V2_vlm_label_only",
+    "score": 0.3933258652687073
+  },
+  {
+    "anchor_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "target_id": "635289b3a1854c73b0c9685397e13e72",
+    "method": "V2_vlm_label_only",
+    "score": 0.43224096298217773
+  },
+  {
+    "anchor_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "target_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "method": "V2_vlm_label_only",
+    "score": 0.472747802734375
+  },
+  {
+    "anchor_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "target_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "method": "V2_vlm_label_only",
+    "score": 0.408260315656662
+  },
+  {
+    "anchor_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "target_id": "96caf68be1db41e58ba409062ca05cec",
+    "method": "V2_vlm_label_only",
+    "score": 0.43029093742370605
+  },
+  {
+    "anchor_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "target_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "method": "V2_vlm_label_only",
+    "score": 0.4374622702598572
+  },
+  {
+    "anchor_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "target_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "method": "V2_vlm_label_only",
+    "score": 0.4374205470085144
+  },
+  {
+    "anchor_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "target_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "method": "V2_vlm_label_only",
+    "score": 0.44657373428344727
+  },
+  {
+    "anchor_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "target_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "method": "V2_vlm_label_only",
+    "score": 0.39899763464927673
+  },
+  {
+    "anchor_id": "456e6368a048451090081f0aebfc6c65",
+    "target_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "method": "S0_no_update",
+    "score": 0.39978012442588806
+  },
+  {
+    "anchor_id": "456e6368a048451090081f0aebfc6c65",
+    "target_id": "0dc64e37785b4a468be551153e403ebe",
+    "method": "S0_no_update",
+    "score": 0.3803792893886566
+  },
+  {
+    "anchor_id": "456e6368a048451090081f0aebfc6c65",
+    "target_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "method": "S0_no_update",
+    "score": 0.4033396542072296
+  },
+  {
+    "anchor_id": "456e6368a048451090081f0aebfc6c65",
+    "target_id": "635289b3a1854c73b0c9685397e13e72",
+    "method": "S0_no_update",
+    "score": 0.3750920593738556
+  },
+  {
+    "anchor_id": "456e6368a048451090081f0aebfc6c65",
+    "target_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "method": "S0_no_update",
+    "score": 0.4077887535095215
+  },
+  {
+    "anchor_id": "456e6368a048451090081f0aebfc6c65",
+    "target_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "method": "S0_no_update",
+    "score": 0.362665593624115
+  },
+  {
+    "anchor_id": "456e6368a048451090081f0aebfc6c65",
+    "target_id": "96caf68be1db41e58ba409062ca05cec",
+    "method": "S0_no_update",
+    "score": 0.38071998953819275
+  },
+  {
+    "anchor_id": "456e6368a048451090081f0aebfc6c65",
+    "target_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "method": "S0_no_update",
+    "score": 0.3778700828552246
+  },
+  {
+    "anchor_id": "456e6368a048451090081f0aebfc6c65",
+    "target_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "method": "S0_no_update",
+    "score": 0.37108680605888367
+  },
+  {
+    "anchor_id": "456e6368a048451090081f0aebfc6c65",
+    "target_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "method": "S0_no_update",
+    "score": 0.39963212609291077
+  },
+  {
+    "anchor_id": "456e6368a048451090081f0aebfc6c65",
+    "target_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "method": "S0_no_update",
+    "score": 0.3492357134819031
+  },
+  {
+    "anchor_id": "456e6368a048451090081f0aebfc6c65",
+    "target_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "method": "S1_spatial",
+    "score": 0.24332477304492756
+  },
+  {
+    "anchor_id": "456e6368a048451090081f0aebfc6c65",
+    "target_id": "0dc64e37785b4a468be551153e403ebe",
+    "method": "S1_spatial",
+    "score": 0.24974918254432335
+  },
+  {
+    "anchor_id": "456e6368a048451090081f0aebfc6c65",
+    "target_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "method": "S1_spatial",
+    "score": 0.34772991810557213
+  },
+  {
+    "anchor_id": "456e6368a048451090081f0aebfc6c65",
+    "target_id": "635289b3a1854c73b0c9685397e13e72",
+    "method": "S1_spatial",
+    "score": 0.27546893928843685
+  },
+  {
+    "anchor_id": "456e6368a048451090081f0aebfc6c65",
+    "target_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "method": "S1_spatial",
+    "score": 0.3767237867739954
+  },
+  {
+    "anchor_id": "456e6368a048451090081f0aebfc6c65",
+    "target_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "method": "S1_spatial",
+    "score": 0.31952162377445303
+  },
+  {
+    "anchor_id": "456e6368a048451090081f0aebfc6c65",
+    "target_id": "96caf68be1db41e58ba409062ca05cec",
+    "method": "S1_spatial",
+    "score": 0.2983847814459326
+  },
+  {
+    "anchor_id": "456e6368a048451090081f0aebfc6c65",
+    "target_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "method": "S1_spatial",
+    "score": 0.2950535637268116
+  },
+  {
+    "anchor_id": "456e6368a048451090081f0aebfc6c65",
+    "target_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "method": "S1_spatial",
+    "score": 0.27926021718211747
+  },
+  {
+    "anchor_id": "456e6368a048451090081f0aebfc6c65",
+    "target_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "method": "S1_spatial",
+    "score": 0.2456711322168857
+  },
+  {
+    "anchor_id": "456e6368a048451090081f0aebfc6c65",
+    "target_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "method": "S1_spatial",
+    "score": 0.28064887994795745
+  },
+  {
+    "anchor_id": "456e6368a048451090081f0aebfc6c65",
+    "target_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "method": "S2_visual_spatial",
+    "score": 0.3620113041970691
+  },
+  {
+    "anchor_id": "456e6368a048451090081f0aebfc6c65",
+    "target_id": "0dc64e37785b4a468be551153e403ebe",
+    "method": "S2_visual_spatial",
+    "score": 0.2869386520884581
+  },
+  {
+    "anchor_id": "456e6368a048451090081f0aebfc6c65",
+    "target_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "method": "S2_visual_spatial",
+    "score": 0.3594934613525053
+  },
+  {
+    "anchor_id": "456e6368a048451090081f0aebfc6c65",
+    "target_id": "635289b3a1854c73b0c9685397e13e72",
+    "method": "S2_visual_spatial",
+    "score": 0.3194261819940278
+  },
+  {
+    "anchor_id": "456e6368a048451090081f0aebfc6c65",
+    "target_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "method": "S2_visual_spatial",
+    "score": 0.388895010069992
+  },
+  {
+    "anchor_id": "456e6368a048451090081f0aebfc6c65",
+    "target_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "method": "S2_visual_spatial",
+    "score": 0.3284895248022004
+  },
+  {
+    "anchor_id": "456e6368a048451090081f0aebfc6c65",
+    "target_id": "96caf68be1db41e58ba409062ca05cec",
+    "method": "S2_visual_spatial",
+    "score": 0.346762593678039
+  },
+  {
+    "anchor_id": "456e6368a048451090081f0aebfc6c65",
+    "target_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "method": "S2_visual_spatial",
+    "score": 0.32530841061521154
+  },
+  {
+    "anchor_id": "456e6368a048451090081f0aebfc6c65",
+    "target_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "method": "S2_visual_spatial",
+    "score": 0.32987691767645855
+  },
+  {
+    "anchor_id": "456e6368a048451090081f0aebfc6c65",
+    "target_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "method": "S2_visual_spatial",
+    "score": 0.32344274849013566
+  },
+  {
+    "anchor_id": "456e6368a048451090081f0aebfc6c65",
+    "target_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "method": "S2_visual_spatial",
+    "score": 0.31916703467275803
+  },
+  {
+    "anchor_id": "456e6368a048451090081f0aebfc6c65",
+    "target_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "method": "V1_vlm_history",
+    "score": 0.32359883189201355
+  },
+  {
+    "anchor_id": "456e6368a048451090081f0aebfc6c65",
+    "target_id": "0dc64e37785b4a468be551153e403ebe",
+    "method": "V1_vlm_history",
+    "score": 0.31524282693862915
+  },
+  {
+    "anchor_id": "456e6368a048451090081f0aebfc6c65",
+    "target_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "method": "V1_vlm_history",
+    "score": 0.3179805874824524
+  },
+  {
+    "anchor_id": "456e6368a048451090081f0aebfc6c65",
+    "target_id": "635289b3a1854c73b0c9685397e13e72",
+    "method": "V1_vlm_history",
+    "score": 0.3049909770488739
+  },
+  {
+    "anchor_id": "456e6368a048451090081f0aebfc6c65",
+    "target_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "method": "V1_vlm_history",
+    "score": 0.322514146566391
+  },
+  {
+    "anchor_id": "456e6368a048451090081f0aebfc6c65",
+    "target_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "method": "V1_vlm_history",
+    "score": 0.3030301332473755
+  },
+  {
+    "anchor_id": "456e6368a048451090081f0aebfc6c65",
+    "target_id": "96caf68be1db41e58ba409062ca05cec",
+    "method": "V1_vlm_history",
+    "score": 0.30122479796409607
+  },
+  {
+    "anchor_id": "456e6368a048451090081f0aebfc6c65",
+    "target_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "method": "V1_vlm_history",
+    "score": 0.30271703004837036
+  },
+  {
+    "anchor_id": "456e6368a048451090081f0aebfc6c65",
+    "target_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "method": "V1_vlm_history",
+    "score": 0.3020934760570526
+  },
+  {
+    "anchor_id": "456e6368a048451090081f0aebfc6c65",
+    "target_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "method": "V1_vlm_history",
+    "score": 0.3131150007247925
+  },
+  {
+    "anchor_id": "456e6368a048451090081f0aebfc6c65",
+    "target_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "method": "V1_vlm_history",
+    "score": 0.2827267646789551
+  },
+  {
+    "anchor_id": "456e6368a048451090081f0aebfc6c65",
+    "target_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "method": "V2_vlm_label_only",
+    "score": 0.3818106949329376
+  },
+  {
+    "anchor_id": "456e6368a048451090081f0aebfc6c65",
+    "target_id": "0dc64e37785b4a468be551153e403ebe",
+    "method": "V2_vlm_label_only",
+    "score": 0.37843525409698486
+  },
+  {
+    "anchor_id": "456e6368a048451090081f0aebfc6c65",
+    "target_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "method": "V2_vlm_label_only",
+    "score": 0.3737785518169403
+  },
+  {
+    "anchor_id": "456e6368a048451090081f0aebfc6c65",
+    "target_id": "635289b3a1854c73b0c9685397e13e72",
+    "method": "V2_vlm_label_only",
+    "score": 0.37280651926994324
+  },
+  {
+    "anchor_id": "456e6368a048451090081f0aebfc6c65",
+    "target_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "method": "V2_vlm_label_only",
+    "score": 0.3965061604976654
+  },
+  {
+    "anchor_id": "456e6368a048451090081f0aebfc6c65",
+    "target_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "method": "V2_vlm_label_only",
+    "score": 0.34864312410354614
+  },
+  {
+    "anchor_id": "456e6368a048451090081f0aebfc6c65",
+    "target_id": "96caf68be1db41e58ba409062ca05cec",
+    "method": "V2_vlm_label_only",
+    "score": 0.36505430936813354
+  },
+  {
+    "anchor_id": "456e6368a048451090081f0aebfc6c65",
+    "target_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "method": "V2_vlm_label_only",
+    "score": 0.3671576976776123
+  },
+  {
+    "anchor_id": "456e6368a048451090081f0aebfc6c65",
+    "target_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "method": "V2_vlm_label_only",
+    "score": 0.3468815088272095
+  },
+  {
+    "anchor_id": "456e6368a048451090081f0aebfc6c65",
+    "target_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "method": "V2_vlm_label_only",
+    "score": 0.3769264817237854
+  },
+  {
+    "anchor_id": "456e6368a048451090081f0aebfc6c65",
+    "target_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "method": "V2_vlm_label_only",
+    "score": 0.3312914967536926
+  },
+  {
+    "anchor_id": "635289b3a1854c73b0c9685397e13e72",
+    "target_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "method": "S0_no_update",
+    "score": 0.39978012442588806
+  },
+  {
+    "anchor_id": "635289b3a1854c73b0c9685397e13e72",
+    "target_id": "0dc64e37785b4a468be551153e403ebe",
+    "method": "S0_no_update",
+    "score": 0.3803792893886566
+  },
+  {
+    "anchor_id": "635289b3a1854c73b0c9685397e13e72",
+    "target_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "method": "S0_no_update",
+    "score": 0.4033396542072296
+  },
+  {
+    "anchor_id": "635289b3a1854c73b0c9685397e13e72",
+    "target_id": "456e6368a048451090081f0aebfc6c65",
+    "method": "S0_no_update",
+    "score": 0.331756591796875
+  },
+  {
+    "anchor_id": "635289b3a1854c73b0c9685397e13e72",
+    "target_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "method": "S0_no_update",
+    "score": 0.4077887535095215
+  },
+  {
+    "anchor_id": "635289b3a1854c73b0c9685397e13e72",
+    "target_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "method": "S0_no_update",
+    "score": 0.362665593624115
+  },
+  {
+    "anchor_id": "635289b3a1854c73b0c9685397e13e72",
+    "target_id": "96caf68be1db41e58ba409062ca05cec",
+    "method": "S0_no_update",
+    "score": 0.38071998953819275
+  },
+  {
+    "anchor_id": "635289b3a1854c73b0c9685397e13e72",
+    "target_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "method": "S0_no_update",
+    "score": 0.3778700828552246
+  },
+  {
+    "anchor_id": "635289b3a1854c73b0c9685397e13e72",
+    "target_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "method": "S0_no_update",
+    "score": 0.37108680605888367
+  },
+  {
+    "anchor_id": "635289b3a1854c73b0c9685397e13e72",
+    "target_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "method": "S0_no_update",
+    "score": 0.39963212609291077
+  },
+  {
+    "anchor_id": "635289b3a1854c73b0c9685397e13e72",
+    "target_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "method": "S0_no_update",
+    "score": 0.3492357134819031
+  },
+  {
+    "anchor_id": "635289b3a1854c73b0c9685397e13e72",
+    "target_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "method": "S1_spatial",
+    "score": 0.2811518746865691
+  },
+  {
+    "anchor_id": "635289b3a1854c73b0c9685397e13e72",
+    "target_id": "0dc64e37785b4a468be551153e403ebe",
+    "method": "S1_spatial",
+    "score": 0.2783742002873384
+  },
+  {
+    "anchor_id": "635289b3a1854c73b0c9685397e13e72",
+    "target_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "method": "S1_spatial",
+    "score": 0.35658317471775297
+  },
+  {
+    "anchor_id": "635289b3a1854c73b0c9685397e13e72",
+    "target_id": "456e6368a048451090081f0aebfc6c65",
+    "method": "S1_spatial",
+    "score": 0.21912027288699215
+  },
+  {
+    "anchor_id": "635289b3a1854c73b0c9685397e13e72",
+    "target_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "method": "S1_spatial",
+    "score": 0.3826712768191666
+  },
+  {
+    "anchor_id": "635289b3a1854c73b0c9685397e13e72",
+    "target_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "method": "S1_spatial",
+    "score": 0.2647310029551002
+  },
+  {
+    "anchor_id": "635289b3a1854c73b0c9685397e13e72",
+    "target_id": "96caf68be1db41e58ba409062ca05cec",
+    "method": "S1_spatial",
+    "score": 0.3620623771041678
+  },
+  {
+    "anchor_id": "635289b3a1854c73b0c9685397e13e72",
+    "target_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "method": "S1_spatial",
+    "score": 0.21224709864025906
+  },
+  {
+    "anchor_id": "635289b3a1854c73b0c9685397e13e72",
+    "target_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "method": "S1_spatial",
+    "score": 0.2965605277953112
+  },
+  {
+    "anchor_id": "635289b3a1854c73b0c9685397e13e72",
+    "target_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "method": "S1_spatial",
+    "score": 0.2980325277926444
+  },
+  {
+    "anchor_id": "635289b3a1854c73b0c9685397e13e72",
+    "target_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "method": "S1_spatial",
+    "score": 0.3326007459825014
+  },
+  {
+    "anchor_id": "635289b3a1854c73b0c9685397e13e72",
+    "target_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "method": "S2_visual_spatial",
+    "score": 0.32802660189187965
+  },
+  {
+    "anchor_id": "635289b3a1854c73b0c9685397e13e72",
+    "target_id": "0dc64e37785b4a468be551153e403ebe",
+    "method": "S2_visual_spatial",
+    "score": 0.31406312252960256
+  },
+  {
+    "anchor_id": "635289b3a1854c73b0c9685397e13e72",
+    "target_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "method": "S2_visual_spatial",
+    "score": 0.3674604503141491
+  },
+  {
+    "anchor_id": "635289b3a1854c73b0c9685397e13e72",
+    "target_id": "456e6368a048451090081f0aebfc6c65",
+    "method": "S2_visual_spatial",
+    "score": 0.2688193989888531
+  },
+  {
+    "anchor_id": "635289b3a1854c73b0c9685397e13e72",
+    "target_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "method": "S2_visual_spatial",
+    "score": 0.38545659264579196
+  },
+  {
+    "anchor_id": "635289b3a1854c73b0c9685397e13e72",
+    "target_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "method": "S2_visual_spatial",
+    "score": 0.30592590629819644
+  },
+  {
+    "anchor_id": "635289b3a1854c73b0c9685397e13e72",
+    "target_id": "96caf68be1db41e58ba409062ca05cec",
+    "method": "S2_visual_spatial",
+    "score": 0.3668890423294103
+  },
+  {
+    "anchor_id": "635289b3a1854c73b0c9685397e13e72",
+    "target_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "method": "S2_visual_spatial",
+    "score": 0.23851199249227423
+  },
+  {
+    "anchor_id": "635289b3a1854c73b0c9685397e13e72",
+    "target_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "method": "S2_visual_spatial",
+    "score": 0.32785499165893023
+  },
+  {
+    "anchor_id": "635289b3a1854c73b0c9685397e13e72",
+    "target_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "method": "S2_visual_spatial",
+    "score": 0.3058029509729452
+  },
+  {
+    "anchor_id": "635289b3a1854c73b0c9685397e13e72",
+    "target_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "method": "S2_visual_spatial",
+    "score": 0.34020610511761934
+  },
+  {
+    "anchor_id": "635289b3a1854c73b0c9685397e13e72",
+    "target_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "method": "V1_vlm_history",
+    "score": 0.31187111139297485
+  },
+  {
+    "anchor_id": "635289b3a1854c73b0c9685397e13e72",
+    "target_id": "0dc64e37785b4a468be551153e403ebe",
+    "method": "V1_vlm_history",
+    "score": 0.3110075294971466
+  },
+  {
+    "anchor_id": "635289b3a1854c73b0c9685397e13e72",
+    "target_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "method": "V1_vlm_history",
+    "score": 0.3094055652618408
+  },
+  {
+    "anchor_id": "635289b3a1854c73b0c9685397e13e72",
+    "target_id": "456e6368a048451090081f0aebfc6c65",
+    "method": "V1_vlm_history",
+    "score": 0.27580979466438293
+  },
+  {
+    "anchor_id": "635289b3a1854c73b0c9685397e13e72",
+    "target_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "method": "V1_vlm_history",
+    "score": 0.311880886554718
+  },
+  {
+    "anchor_id": "635289b3a1854c73b0c9685397e13e72",
+    "target_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "method": "V1_vlm_history",
+    "score": 0.29947400093078613
+  },
+  {
+    "anchor_id": "635289b3a1854c73b0c9685397e13e72",
+    "target_id": "96caf68be1db41e58ba409062ca05cec",
+    "method": "V1_vlm_history",
+    "score": 0.2969309985637665
+  },
+  {
+    "anchor_id": "635289b3a1854c73b0c9685397e13e72",
+    "target_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "method": "V1_vlm_history",
+    "score": 0.2975853681564331
+  },
+  {
+    "anchor_id": "635289b3a1854c73b0c9685397e13e72",
+    "target_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "method": "V1_vlm_history",
+    "score": 0.2899341881275177
+  },
+  {
+    "anchor_id": "635289b3a1854c73b0c9685397e13e72",
+    "target_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "method": "V1_vlm_history",
+    "score": 0.3066391050815582
+  },
+  {
+    "anchor_id": "635289b3a1854c73b0c9685397e13e72",
+    "target_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "method": "V1_vlm_history",
+    "score": 0.2773686647415161
+  },
+  {
+    "anchor_id": "635289b3a1854c73b0c9685397e13e72",
+    "target_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "method": "V2_vlm_label_only",
+    "score": 0.3818106949329376
+  },
+  {
+    "anchor_id": "635289b3a1854c73b0c9685397e13e72",
+    "target_id": "0dc64e37785b4a468be551153e403ebe",
+    "method": "V2_vlm_label_only",
+    "score": 0.37843525409698486
+  },
+  {
+    "anchor_id": "635289b3a1854c73b0c9685397e13e72",
+    "target_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "method": "V2_vlm_label_only",
+    "score": 0.3737785518169403
+  },
+  {
+    "anchor_id": "635289b3a1854c73b0c9685397e13e72",
+    "target_id": "456e6368a048451090081f0aebfc6c65",
+    "method": "V2_vlm_label_only",
+    "score": 0.32178759574890137
+  },
+  {
+    "anchor_id": "635289b3a1854c73b0c9685397e13e72",
+    "target_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "method": "V2_vlm_label_only",
+    "score": 0.3965061604976654
+  },
+  {
+    "anchor_id": "635289b3a1854c73b0c9685397e13e72",
+    "target_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "method": "V2_vlm_label_only",
+    "score": 0.34864312410354614
+  },
+  {
+    "anchor_id": "635289b3a1854c73b0c9685397e13e72",
+    "target_id": "96caf68be1db41e58ba409062ca05cec",
+    "method": "V2_vlm_label_only",
+    "score": 0.36505430936813354
+  },
+  {
+    "anchor_id": "635289b3a1854c73b0c9685397e13e72",
+    "target_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "method": "V2_vlm_label_only",
+    "score": 0.3671576976776123
+  },
+  {
+    "anchor_id": "635289b3a1854c73b0c9685397e13e72",
+    "target_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "method": "V2_vlm_label_only",
+    "score": 0.3468815088272095
+  },
+  {
+    "anchor_id": "635289b3a1854c73b0c9685397e13e72",
+    "target_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "method": "V2_vlm_label_only",
+    "score": 0.3769264817237854
+  },
+  {
+    "anchor_id": "635289b3a1854c73b0c9685397e13e72",
+    "target_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "method": "V2_vlm_label_only",
+    "score": 0.3312914967536926
+  },
+  {
+    "anchor_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "target_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "method": "S0_no_update",
+    "score": 0.39978012442588806
+  },
+  {
+    "anchor_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "target_id": "0dc64e37785b4a468be551153e403ebe",
+    "method": "S0_no_update",
+    "score": 0.3803792893886566
+  },
+  {
+    "anchor_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "target_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "method": "S0_no_update",
+    "score": 0.4033396542072296
+  },
+  {
+    "anchor_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "target_id": "456e6368a048451090081f0aebfc6c65",
+    "method": "S0_no_update",
+    "score": 0.331756591796875
+  },
+  {
+    "anchor_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "target_id": "635289b3a1854c73b0c9685397e13e72",
+    "method": "S0_no_update",
+    "score": 0.3750920593738556
+  },
+  {
+    "anchor_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "target_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "method": "S0_no_update",
+    "score": 0.362665593624115
+  },
+  {
+    "anchor_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "target_id": "96caf68be1db41e58ba409062ca05cec",
+    "method": "S0_no_update",
+    "score": 0.38071998953819275
+  },
+  {
+    "anchor_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "target_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "method": "S0_no_update",
+    "score": 0.3778700828552246
+  },
+  {
+    "anchor_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "target_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "method": "S0_no_update",
+    "score": 0.37108680605888367
+  },
+  {
+    "anchor_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "target_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "method": "S0_no_update",
+    "score": 0.39963212609291077
+  },
+  {
+    "anchor_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "target_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "method": "S0_no_update",
+    "score": 0.3492357134819031
+  },
+  {
+    "anchor_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "target_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "method": "S1_spatial",
+    "score": 0.33353320291926475
+  },
+  {
+    "anchor_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "target_id": "0dc64e37785b4a468be551153e403ebe",
+    "method": "S1_spatial",
+    "score": 0.2745850881679688
+  },
+  {
+    "anchor_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "target_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "method": "S1_spatial",
+    "score": 0.21231277505071824
+  },
+  {
+    "anchor_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "target_id": "456e6368a048451090081f0aebfc6c65",
+    "method": "S1_spatial",
+    "score": 0.2935721385678306
+  },
+  {
+    "anchor_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "target_id": "635289b3a1854c73b0c9685397e13e72",
+    "method": "S1_spatial",
+    "score": 0.3477850976430144
+  },
+  {
+    "anchor_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "target_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "method": "S1_spatial",
+    "score": 0.2678533938169403
+  },
+  {
+    "anchor_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "target_id": "96caf68be1db41e58ba409062ca05cec",
+    "method": "S1_spatial",
+    "score": 0.34381339124880517
+  },
+  {
+    "anchor_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "target_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "method": "S1_spatial",
+    "score": 0.32134179478348146
+  },
+  {
+    "anchor_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "target_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "method": "S1_spatial",
+    "score": 0.21707953263487334
+  },
+  {
+    "anchor_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "target_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "method": "S1_spatial",
+    "score": 0.3821491116729648
+  },
+  {
+    "anchor_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "target_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "method": "S1_spatial",
+    "score": 0.2866432051196693
+  },
+  {
+    "anchor_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "target_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "method": "S2_visual_spatial",
+    "score": 0.3628853517633674
+  },
+  {
+    "anchor_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "target_id": "0dc64e37785b4a468be551153e403ebe",
+    "method": "S2_visual_spatial",
+    "score": 0.30763361563504127
+  },
+  {
+    "anchor_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "target_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "method": "S2_visual_spatial",
+    "score": 0.25501046816252604
+  },
+  {
+    "anchor_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "target_id": "456e6368a048451090081f0aebfc6c65",
+    "method": "S2_visual_spatial",
+    "score": 0.3085327696427947
+  },
+  {
+    "anchor_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "target_id": "635289b3a1854c73b0c9685397e13e72",
+    "method": "S2_visual_spatial",
+    "score": 0.35081320885114275
+  },
+  {
+    "anchor_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "target_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "method": "S2_visual_spatial",
+    "score": 0.306478234842544
+  },
+  {
+    "anchor_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "target_id": "96caf68be1db41e58ba409062ca05cec",
+    "method": "S2_visual_spatial",
+    "score": 0.34878105506106055
+  },
+  {
+    "anchor_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "target_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "method": "S2_visual_spatial",
+    "score": 0.32835750790054186
+  },
+  {
+    "anchor_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "target_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "method": "S2_visual_spatial",
+    "score": 0.27192368732103894
+  },
+  {
+    "anchor_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "target_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "method": "S2_visual_spatial",
+    "score": 0.3841994342442229
+  },
+  {
+    "anchor_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "target_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "method": "S2_visual_spatial",
+    "score": 0.306802782297229
+  },
+  {
+    "anchor_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "target_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "method": "V1_vlm_history",
+    "score": 0.34501728415489197
+  },
+  {
+    "anchor_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "target_id": "0dc64e37785b4a468be551153e403ebe",
+    "method": "V1_vlm_history",
+    "score": 0.3429300785064697
+  },
+  {
+    "anchor_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "target_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "method": "V1_vlm_history",
+    "score": 0.3420478403568268
+  },
+  {
+    "anchor_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "target_id": "456e6368a048451090081f0aebfc6c65",
+    "method": "V1_vlm_history",
+    "score": 0.30950912833213806
+  },
+  {
+    "anchor_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "target_id": "635289b3a1854c73b0c9685397e13e72",
+    "method": "V1_vlm_history",
+    "score": 0.32836610078811646
+  },
+  {
+    "anchor_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "target_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "method": "V1_vlm_history",
+    "score": 0.32916685938835144
+  },
+  {
+    "anchor_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "target_id": "96caf68be1db41e58ba409062ca05cec",
+    "method": "V1_vlm_history",
+    "score": 0.3298131227493286
+  },
+  {
+    "anchor_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "target_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "method": "V1_vlm_history",
+    "score": 0.3270817697048187
+  },
+  {
+    "anchor_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "target_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "method": "V1_vlm_history",
+    "score": 0.32592013478279114
+  },
+  {
+    "anchor_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "target_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "method": "V1_vlm_history",
+    "score": 0.3366031050682068
+  },
+  {
+    "anchor_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "target_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "method": "V1_vlm_history",
+    "score": 0.308442085981369
+  },
+  {
+    "anchor_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "target_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "method": "V2_vlm_label_only",
+    "score": 0.3818106949329376
+  },
+  {
+    "anchor_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "target_id": "0dc64e37785b4a468be551153e403ebe",
+    "method": "V2_vlm_label_only",
+    "score": 0.37843525409698486
+  },
+  {
+    "anchor_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "target_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "method": "V2_vlm_label_only",
+    "score": 0.3737785518169403
+  },
+  {
+    "anchor_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "target_id": "456e6368a048451090081f0aebfc6c65",
+    "method": "V2_vlm_label_only",
+    "score": 0.32178759574890137
+  },
+  {
+    "anchor_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "target_id": "635289b3a1854c73b0c9685397e13e72",
+    "method": "V2_vlm_label_only",
+    "score": 0.37280651926994324
+  },
+  {
+    "anchor_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "target_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "method": "V2_vlm_label_only",
+    "score": 0.34864312410354614
+  },
+  {
+    "anchor_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "target_id": "96caf68be1db41e58ba409062ca05cec",
+    "method": "V2_vlm_label_only",
+    "score": 0.36505430936813354
+  },
+  {
+    "anchor_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "target_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "method": "V2_vlm_label_only",
+    "score": 0.3671576976776123
+  },
+  {
+    "anchor_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "target_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "method": "V2_vlm_label_only",
+    "score": 0.3468815088272095
+  },
+  {
+    "anchor_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "target_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "method": "V2_vlm_label_only",
+    "score": 0.3769264817237854
+  },
+  {
+    "anchor_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "target_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "method": "V2_vlm_label_only",
+    "score": 0.3312914967536926
+  },
+  {
+    "anchor_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "target_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "method": "S0_no_update",
+    "score": 0.39978012442588806
+  },
+  {
+    "anchor_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "target_id": "0dc64e37785b4a468be551153e403ebe",
+    "method": "S0_no_update",
+    "score": 0.3803792893886566
+  },
+  {
+    "anchor_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "target_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "method": "S0_no_update",
+    "score": 0.4033396542072296
+  },
+  {
+    "anchor_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "target_id": "456e6368a048451090081f0aebfc6c65",
+    "method": "S0_no_update",
+    "score": 0.331756591796875
+  },
+  {
+    "anchor_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "target_id": "635289b3a1854c73b0c9685397e13e72",
+    "method": "S0_no_update",
+    "score": 0.3750920593738556
+  },
+  {
+    "anchor_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "target_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "method": "S0_no_update",
+    "score": 0.4077887535095215
+  },
+  {
+    "anchor_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "target_id": "96caf68be1db41e58ba409062ca05cec",
+    "method": "S0_no_update",
+    "score": 0.38071998953819275
+  },
+  {
+    "anchor_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "target_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "method": "S0_no_update",
+    "score": 0.3778700828552246
+  },
+  {
+    "anchor_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "target_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "method": "S0_no_update",
+    "score": 0.37108680605888367
+  },
+  {
+    "anchor_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "target_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "method": "S0_no_update",
+    "score": 0.39963212609291077
+  },
+  {
+    "anchor_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "target_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "method": "S0_no_update",
+    "score": 0.3492357134819031
+  },
+  {
+    "anchor_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "target_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "method": "S1_spatial",
+    "score": 0.5280370114464109
+  },
+  {
+    "anchor_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "target_id": "0dc64e37785b4a468be551153e403ebe",
+    "method": "S1_spatial",
+    "score": 0.5453303336972926
+  },
+  {
+    "anchor_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "target_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "method": "S1_spatial",
+    "score": 0.5888712005954108
+  },
+  {
+    "anchor_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "target_id": "456e6368a048451090081f0aebfc6c65",
+    "method": "S1_spatial",
+    "score": 0.4146400584490436
+  },
+  {
+    "anchor_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "target_id": "635289b3a1854c73b0c9685397e13e72",
+    "method": "S1_spatial",
+    "score": 0.5414967662927256
+  },
+  {
+    "anchor_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "target_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "method": "S1_spatial",
+    "score": 0.5559710576099866
+  },
+  {
+    "anchor_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "target_id": "96caf68be1db41e58ba409062ca05cec",
+    "method": "S1_spatial",
+    "score": 0.3997392865673758
+  },
+  {
+    "anchor_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "target_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "method": "S1_spatial",
+    "score": 0.637168915739609
+  },
+  {
+    "anchor_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "target_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "method": "S1_spatial",
+    "score": 0.5605370928515545
+  },
+  {
+    "anchor_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "target_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "method": "S1_spatial",
+    "score": 0.4478585788745445
+  },
+  {
+    "anchor_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "target_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "method": "S1_spatial",
+    "score": 0.37567459494188765
+  },
+  {
+    "anchor_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "target_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "method": "S2_visual_spatial",
+    "score": 0.4385125488846934
+  },
+  {
+    "anchor_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "target_id": "0dc64e37785b4a468be551153e403ebe",
+    "method": "S2_visual_spatial",
+    "score": 0.5175989173326786
+  },
+  {
+    "anchor_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "target_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "method": "S2_visual_spatial",
+    "score": 0.5586573018768325
+  },
+  {
+    "anchor_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "target_id": "456e6368a048451090081f0aebfc6c65",
+    "method": "S2_visual_spatial",
+    "score": 0.3974119098024704
+  },
+  {
+    "anchor_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "target_id": "635289b3a1854c73b0c9685397e13e72",
+    "method": "S2_visual_spatial",
+    "score": 0.47150080500335095
+  },
+  {
+    "anchor_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "target_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "method": "S2_visual_spatial",
+    "score": 0.4956041644218906
+  },
+  {
+    "anchor_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "target_id": "96caf68be1db41e58ba409062ca05cec",
+    "method": "S2_visual_spatial",
+    "score": 0.3892971522211158
+  },
+  {
+    "anchor_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "target_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "method": "S2_visual_spatial",
+    "score": 0.5326423002253801
+  },
+  {
+    "anchor_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "target_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "method": "S2_visual_spatial",
+    "score": 0.4776199717639037
+  },
+  {
+    "anchor_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "target_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "method": "S2_visual_spatial",
+    "score": 0.42376767095637025
+  },
+  {
+    "anchor_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "target_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "method": "S2_visual_spatial",
+    "score": 0.36314971155312775
+  },
+  {
+    "anchor_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "target_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "method": "V1_vlm_history",
+    "score": 0.6117691993713379
+  },
+  {
+    "anchor_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "target_id": "0dc64e37785b4a468be551153e403ebe",
+    "method": "V1_vlm_history",
+    "score": 0.5933794975280762
+  },
+  {
+    "anchor_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "target_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "method": "V1_vlm_history",
+    "score": 0.5891015529632568
+  },
+  {
+    "anchor_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "target_id": "456e6368a048451090081f0aebfc6c65",
+    "method": "V1_vlm_history",
+    "score": 0.5632966160774231
+  },
+  {
+    "anchor_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "target_id": "635289b3a1854c73b0c9685397e13e72",
+    "method": "V1_vlm_history",
+    "score": 0.5710506439208984
+  },
+  {
+    "anchor_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "target_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "method": "V1_vlm_history",
+    "score": 0.5993244051933289
+  },
+  {
+    "anchor_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "target_id": "96caf68be1db41e58ba409062ca05cec",
+    "method": "V1_vlm_history",
+    "score": 0.5655111074447632
+  },
+  {
+    "anchor_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "target_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "method": "V1_vlm_history",
+    "score": 0.5722575783729553
+  },
+  {
+    "anchor_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "target_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "method": "V1_vlm_history",
+    "score": 0.6053872108459473
+  },
+  {
+    "anchor_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "target_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "method": "V1_vlm_history",
+    "score": 0.593637228012085
+  },
+  {
+    "anchor_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "target_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "method": "V1_vlm_history",
+    "score": 0.561889111995697
+  },
+  {
+    "anchor_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "target_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "method": "V2_vlm_label_only",
+    "score": 0.45302510261535645
+  },
+  {
+    "anchor_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "target_id": "0dc64e37785b4a468be551153e403ebe",
+    "method": "V2_vlm_label_only",
+    "score": 0.4402669072151184
+  },
+  {
+    "anchor_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "target_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "method": "V2_vlm_label_only",
+    "score": 0.4544347822666168
+  },
+  {
+    "anchor_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "target_id": "456e6368a048451090081f0aebfc6c65",
+    "method": "V2_vlm_label_only",
+    "score": 0.3933258652687073
+  },
+  {
+    "anchor_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "target_id": "635289b3a1854c73b0c9685397e13e72",
+    "method": "V2_vlm_label_only",
+    "score": 0.43224096298217773
+  },
+  {
+    "anchor_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "target_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "method": "V2_vlm_label_only",
+    "score": 0.472747802734375
+  },
+  {
+    "anchor_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "target_id": "96caf68be1db41e58ba409062ca05cec",
+    "method": "V2_vlm_label_only",
+    "score": 0.43029093742370605
+  },
+  {
+    "anchor_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "target_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "method": "V2_vlm_label_only",
+    "score": 0.4374622702598572
+  },
+  {
+    "anchor_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "target_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "method": "V2_vlm_label_only",
+    "score": 0.4374205470085144
+  },
+  {
+    "anchor_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "target_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "method": "V2_vlm_label_only",
+    "score": 0.44657373428344727
+  },
+  {
+    "anchor_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "target_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "method": "V2_vlm_label_only",
+    "score": 0.39899763464927673
+  },
+  {
+    "anchor_id": "96caf68be1db41e58ba409062ca05cec",
+    "target_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "method": "S0_no_update",
+    "score": 0.39978012442588806
+  },
+  {
+    "anchor_id": "96caf68be1db41e58ba409062ca05cec",
+    "target_id": "0dc64e37785b4a468be551153e403ebe",
+    "method": "S0_no_update",
+    "score": 0.3803792893886566
+  },
+  {
+    "anchor_id": "96caf68be1db41e58ba409062ca05cec",
+    "target_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "method": "S0_no_update",
+    "score": 0.4033396542072296
+  },
+  {
+    "anchor_id": "96caf68be1db41e58ba409062ca05cec",
+    "target_id": "456e6368a048451090081f0aebfc6c65",
+    "method": "S0_no_update",
+    "score": 0.331756591796875
+  },
+  {
+    "anchor_id": "96caf68be1db41e58ba409062ca05cec",
+    "target_id": "635289b3a1854c73b0c9685397e13e72",
+    "method": "S0_no_update",
+    "score": 0.3750920593738556
+  },
+  {
+    "anchor_id": "96caf68be1db41e58ba409062ca05cec",
+    "target_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "method": "S0_no_update",
+    "score": 0.4077887535095215
+  },
+  {
+    "anchor_id": "96caf68be1db41e58ba409062ca05cec",
+    "target_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "method": "S0_no_update",
+    "score": 0.362665593624115
+  },
+  {
+    "anchor_id": "96caf68be1db41e58ba409062ca05cec",
+    "target_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "method": "S0_no_update",
+    "score": 0.3778700828552246
+  },
+  {
+    "anchor_id": "96caf68be1db41e58ba409062ca05cec",
+    "target_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "method": "S0_no_update",
+    "score": 0.37108680605888367
+  },
+  {
+    "anchor_id": "96caf68be1db41e58ba409062ca05cec",
+    "target_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "method": "S0_no_update",
+    "score": 0.39963212609291077
+  },
+  {
+    "anchor_id": "96caf68be1db41e58ba409062ca05cec",
+    "target_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "method": "S0_no_update",
+    "score": 0.3492357134819031
+  },
+  {
+    "anchor_id": "96caf68be1db41e58ba409062ca05cec",
+    "target_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "method": "S1_spatial",
+    "score": 0.30765063302458234
+  },
+  {
+    "anchor_id": "96caf68be1db41e58ba409062ca05cec",
+    "target_id": "0dc64e37785b4a468be551153e403ebe",
+    "method": "S1_spatial",
+    "score": 0.29243745685614947
+  },
+  {
+    "anchor_id": "96caf68be1db41e58ba409062ca05cec",
+    "target_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "method": "S1_spatial",
+    "score": 0.35336153650929797
+  },
+  {
+    "anchor_id": "96caf68be1db41e58ba409062ca05cec",
+    "target_id": "456e6368a048451090081f0aebfc6c65",
+    "method": "S1_spatial",
+    "score": 0.23726966873762545
+  },
+  {
+    "anchor_id": "96caf68be1db41e58ba409062ca05cec",
+    "target_id": "635289b3a1854c73b0c9685397e13e72",
+    "method": "S1_spatial",
+    "score": 0.35615450569024176
+  },
+  {
+    "anchor_id": "96caf68be1db41e58ba409062ca05cec",
+    "target_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "method": "S1_spatial",
+    "score": 0.3733319922729764
+  },
+  {
+    "anchor_id": "96caf68be1db41e58ba409062ca05cec",
+    "target_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "method": "S1_spatial",
+    "score": 0.35130416939605635
+  },
+  {
+    "anchor_id": "96caf68be1db41e58ba409062ca05cec",
+    "target_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "method": "S1_spatial",
+    "score": 0.35926585791618415
+  },
+  {
+    "anchor_id": "96caf68be1db41e58ba409062ca05cec",
+    "target_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "method": "S1_spatial",
+    "score": 0.2996892621926508
+  },
+  {
+    "anchor_id": "96caf68be1db41e58ba409062ca05cec",
+    "target_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "method": "S1_spatial",
+    "score": 0.3241342374712294
+  },
+  {
+    "anchor_id": "96caf68be1db41e58ba409062ca05cec",
+    "target_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "method": "S1_spatial",
+    "score": 0.17279035981494734
+  },
+  {
+    "anchor_id": "96caf68be1db41e58ba409062ca05cec",
+    "target_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "method": "S2_visual_spatial",
+    "score": 0.347758901866186
+  },
+  {
+    "anchor_id": "96caf68be1db41e58ba409062ca05cec",
+    "target_id": "0dc64e37785b4a468be551153e403ebe",
+    "method": "S2_visual_spatial",
+    "score": 0.3353030285490094
+  },
+  {
+    "anchor_id": "96caf68be1db41e58ba409062ca05cec",
+    "target_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "method": "S2_visual_spatial",
+    "score": 0.37364282911733077
+  },
+  {
+    "anchor_id": "96caf68be1db41e58ba409062ca05cec",
+    "target_id": "456e6368a048451090081f0aebfc6c65",
+    "method": "S2_visual_spatial",
+    "score": 0.2927874809599226
+  },
+  {
+    "anchor_id": "96caf68be1db41e58ba409062ca05cec",
+    "target_id": "635289b3a1854c73b0c9685397e13e72",
+    "method": "S2_visual_spatial",
+    "score": 0.3610535908298372
+  },
+  {
+    "anchor_id": "96caf68be1db41e58ba409062ca05cec",
+    "target_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "method": "S2_visual_spatial",
+    "score": 0.37796990564933675
+  },
+  {
+    "anchor_id": "96caf68be1db41e58ba409062ca05cec",
+    "target_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "method": "S2_visual_spatial",
+    "score": 0.35754191403888963
+  },
+  {
+    "anchor_id": "96caf68be1db41e58ba409062ca05cec",
+    "target_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "method": "S2_visual_spatial",
+    "score": 0.3646038059446516
+  },
+  {
+    "anchor_id": "96caf68be1db41e58ba409062ca05cec",
+    "target_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "method": "S2_visual_spatial",
+    "score": 0.32837285180865033
+  },
+  {
+    "anchor_id": "96caf68be1db41e58ba409062ca05cec",
+    "target_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "method": "S2_visual_spatial",
+    "score": 0.3440261975184254
+  },
+  {
+    "anchor_id": "96caf68be1db41e58ba409062ca05cec",
+    "target_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "method": "S2_visual_spatial",
+    "score": 0.2259597078673714
+  },
+  {
+    "anchor_id": "96caf68be1db41e58ba409062ca05cec",
+    "target_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "method": "V1_vlm_history",
+    "score": 0.3359770178794861
+  },
+  {
+    "anchor_id": "96caf68be1db41e58ba409062ca05cec",
+    "target_id": "0dc64e37785b4a468be551153e403ebe",
+    "method": "V1_vlm_history",
+    "score": 0.3322277367115021
+  },
+  {
+    "anchor_id": "96caf68be1db41e58ba409062ca05cec",
+    "target_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "method": "V1_vlm_history",
+    "score": 0.33251088857650757
+  },
+  {
+    "anchor_id": "96caf68be1db41e58ba409062ca05cec",
+    "target_id": "456e6368a048451090081f0aebfc6c65",
+    "method": "V1_vlm_history",
+    "score": 0.29759055376052856
+  },
+  {
+    "anchor_id": "96caf68be1db41e58ba409062ca05cec",
+    "target_id": "635289b3a1854c73b0c9685397e13e72",
+    "method": "V1_vlm_history",
+    "score": 0.31878671050071716
+  },
+  {
+    "anchor_id": "96caf68be1db41e58ba409062ca05cec",
+    "target_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "method": "V1_vlm_history",
+    "score": 0.3339941203594208
+  },
+  {
+    "anchor_id": "96caf68be1db41e58ba409062ca05cec",
+    "target_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "method": "V1_vlm_history",
+    "score": 0.32236355543136597
+  },
+  {
+    "anchor_id": "96caf68be1db41e58ba409062ca05cec",
+    "target_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "method": "V1_vlm_history",
+    "score": 0.31740835309028625
+  },
+  {
+    "anchor_id": "96caf68be1db41e58ba409062ca05cec",
+    "target_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "method": "V1_vlm_history",
+    "score": 0.3139672875404358
+  },
+  {
+    "anchor_id": "96caf68be1db41e58ba409062ca05cec",
+    "target_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "method": "V1_vlm_history",
+    "score": 0.32640326023101807
+  },
+  {
+    "anchor_id": "96caf68be1db41e58ba409062ca05cec",
+    "target_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "method": "V1_vlm_history",
+    "score": 0.30061259865760803
+  },
+  {
+    "anchor_id": "96caf68be1db41e58ba409062ca05cec",
+    "target_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "method": "V2_vlm_label_only",
+    "score": 0.3818106949329376
+  },
+  {
+    "anchor_id": "96caf68be1db41e58ba409062ca05cec",
+    "target_id": "0dc64e37785b4a468be551153e403ebe",
+    "method": "V2_vlm_label_only",
+    "score": 0.37843525409698486
+  },
+  {
+    "anchor_id": "96caf68be1db41e58ba409062ca05cec",
+    "target_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "method": "V2_vlm_label_only",
+    "score": 0.3737785518169403
+  },
+  {
+    "anchor_id": "96caf68be1db41e58ba409062ca05cec",
+    "target_id": "456e6368a048451090081f0aebfc6c65",
+    "method": "V2_vlm_label_only",
+    "score": 0.32178759574890137
+  },
+  {
+    "anchor_id": "96caf68be1db41e58ba409062ca05cec",
+    "target_id": "635289b3a1854c73b0c9685397e13e72",
+    "method": "V2_vlm_label_only",
+    "score": 0.37280651926994324
+  },
+  {
+    "anchor_id": "96caf68be1db41e58ba409062ca05cec",
+    "target_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "method": "V2_vlm_label_only",
+    "score": 0.3965061604976654
+  },
+  {
+    "anchor_id": "96caf68be1db41e58ba409062ca05cec",
+    "target_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "method": "V2_vlm_label_only",
+    "score": 0.34864312410354614
+  },
+  {
+    "anchor_id": "96caf68be1db41e58ba409062ca05cec",
+    "target_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "method": "V2_vlm_label_only",
+    "score": 0.3671576976776123
+  },
+  {
+    "anchor_id": "96caf68be1db41e58ba409062ca05cec",
+    "target_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "method": "V2_vlm_label_only",
+    "score": 0.3468815088272095
+  },
+  {
+    "anchor_id": "96caf68be1db41e58ba409062ca05cec",
+    "target_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "method": "V2_vlm_label_only",
+    "score": 0.3769264817237854
+  },
+  {
+    "anchor_id": "96caf68be1db41e58ba409062ca05cec",
+    "target_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "method": "V2_vlm_label_only",
+    "score": 0.3312914967536926
+  },
+  {
+    "anchor_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "target_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "method": "S0_no_update",
+    "score": 0.39978012442588806
+  },
+  {
+    "anchor_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "target_id": "0dc64e37785b4a468be551153e403ebe",
+    "method": "S0_no_update",
+    "score": 0.3803792893886566
+  },
+  {
+    "anchor_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "target_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "method": "S0_no_update",
+    "score": 0.4033396542072296
+  },
+  {
+    "anchor_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "target_id": "456e6368a048451090081f0aebfc6c65",
+    "method": "S0_no_update",
+    "score": 0.331756591796875
+  },
+  {
+    "anchor_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "target_id": "635289b3a1854c73b0c9685397e13e72",
+    "method": "S0_no_update",
+    "score": 0.3750920593738556
+  },
+  {
+    "anchor_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "target_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "method": "S0_no_update",
+    "score": 0.4077887535095215
+  },
+  {
+    "anchor_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "target_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "method": "S0_no_update",
+    "score": 0.362665593624115
+  },
+  {
+    "anchor_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "target_id": "96caf68be1db41e58ba409062ca05cec",
+    "method": "S0_no_update",
+    "score": 0.38071998953819275
+  },
+  {
+    "anchor_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "target_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "method": "S0_no_update",
+    "score": 0.37108680605888367
+  },
+  {
+    "anchor_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "target_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "method": "S0_no_update",
+    "score": 0.39963212609291077
+  },
+  {
+    "anchor_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "target_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "method": "S0_no_update",
+    "score": 0.3492357134819031
+  },
+  {
+    "anchor_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "target_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "method": "S1_spatial",
+    "score": 0.5930665619298368
+  },
+  {
+    "anchor_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "target_id": "0dc64e37785b4a468be551153e403ebe",
+    "method": "S1_spatial",
+    "score": 0.5786725528553809
+  },
+  {
+    "anchor_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "target_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "method": "S1_spatial",
+    "score": 0.5380521872693504
+  },
+  {
+    "anchor_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "target_id": "456e6368a048451090081f0aebfc6c65",
+    "method": "S1_spatial",
+    "score": 0.4870591101417829
+  },
+  {
+    "anchor_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "target_id": "635289b3a1854c73b0c9685397e13e72",
+    "method": "S1_spatial",
+    "score": 0.6497953245374286
+  },
+  {
+    "anchor_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "target_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "method": "S1_spatial",
+    "score": 0.4940293348687335
+  },
+  {
+    "anchor_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "target_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "method": "S1_spatial",
+    "score": 0.6157784960569357
+  },
+  {
+    "anchor_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "target_id": "96caf68be1db41e58ba409062ca05cec",
+    "method": "S1_spatial",
+    "score": 0.4111209278601006
+  },
+  {
+    "anchor_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "target_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "method": "S1_spatial",
+    "score": 0.5477289491664229
+  },
+  {
+    "anchor_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "target_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "method": "S1_spatial",
+    "score": 0.5152074724101688
+  },
+  {
+    "anchor_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "target_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "method": "S1_spatial",
+    "score": 0.3821441145168535
+  },
+  {
+    "anchor_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "target_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "method": "S2_visual_spatial",
+    "score": 0.4939386222743966
+  },
+  {
+    "anchor_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "target_id": "0dc64e37785b4a468be551153e403ebe",
+    "method": "S2_visual_spatial",
+    "score": 0.5169589099735521
+  },
+  {
+    "anchor_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "target_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "method": "S2_visual_spatial",
+    "score": 0.5150949251391311
+  },
+  {
+    "anchor_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "target_id": "456e6368a048451090081f0aebfc6c65",
+    "method": "S2_visual_spatial",
+    "score": 0.4303234013320162
+  },
+  {
+    "anchor_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "target_id": "635289b3a1854c73b0c9685397e13e72",
+    "method": "S2_visual_spatial",
+    "score": 0.6062322156215874
+  },
+  {
+    "anchor_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "target_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "method": "S2_visual_spatial",
+    "score": 0.48332603571527516
+  },
+  {
+    "anchor_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "target_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "method": "S2_visual_spatial",
+    "score": 0.5137455067835801
+  },
+  {
+    "anchor_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "target_id": "96caf68be1db41e58ba409062ca05cec",
+    "method": "S2_visual_spatial",
+    "score": 0.4023982517308494
+  },
+  {
+    "anchor_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "target_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "method": "S2_visual_spatial",
+    "score": 0.4704686499913698
+  },
+  {
+    "anchor_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "target_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "method": "S2_visual_spatial",
+    "score": 0.49859922844394744
+  },
+  {
+    "anchor_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "target_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "method": "S2_visual_spatial",
+    "score": 0.36795273092000463
+  },
+  {
+    "anchor_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "target_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "method": "V1_vlm_history",
+    "score": 0.5763434171676636
+  },
+  {
+    "anchor_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "target_id": "0dc64e37785b4a468be551153e403ebe",
+    "method": "V1_vlm_history",
+    "score": 0.5546424388885498
+  },
+  {
+    "anchor_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "target_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "method": "V1_vlm_history",
+    "score": 0.5482905507087708
+  },
+  {
+    "anchor_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "target_id": "456e6368a048451090081f0aebfc6c65",
+    "method": "V1_vlm_history",
+    "score": 0.5223037004470825
+  },
+  {
+    "anchor_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "target_id": "635289b3a1854c73b0c9685397e13e72",
+    "method": "V1_vlm_history",
+    "score": 0.5329194664955139
+  },
+  {
+    "anchor_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "target_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "method": "V1_vlm_history",
+    "score": 0.5609682202339172
+  },
+  {
+    "anchor_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "target_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "method": "V1_vlm_history",
+    "score": 0.5321912169456482
+  },
+  {
+    "anchor_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "target_id": "96caf68be1db41e58ba409062ca05cec",
+    "method": "V1_vlm_history",
+    "score": 0.5269390940666199
+  },
+  {
+    "anchor_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "target_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "method": "V1_vlm_history",
+    "score": 0.5675665140151978
+  },
+  {
+    "anchor_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "target_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "method": "V1_vlm_history",
+    "score": 0.5524585843086243
+  },
+  {
+    "anchor_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "target_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "method": "V1_vlm_history",
+    "score": 0.5175358653068542
+  },
+  {
+    "anchor_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "target_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "method": "V2_vlm_label_only",
+    "score": 0.45302510261535645
+  },
+  {
+    "anchor_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "target_id": "0dc64e37785b4a468be551153e403ebe",
+    "method": "V2_vlm_label_only",
+    "score": 0.4402669072151184
+  },
+  {
+    "anchor_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "target_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "method": "V2_vlm_label_only",
+    "score": 0.4544347822666168
+  },
+  {
+    "anchor_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "target_id": "456e6368a048451090081f0aebfc6c65",
+    "method": "V2_vlm_label_only",
+    "score": 0.3933258652687073
+  },
+  {
+    "anchor_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "target_id": "635289b3a1854c73b0c9685397e13e72",
+    "method": "V2_vlm_label_only",
+    "score": 0.43224096298217773
+  },
+  {
+    "anchor_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "target_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "method": "V2_vlm_label_only",
+    "score": 0.472747802734375
+  },
+  {
+    "anchor_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "target_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "method": "V2_vlm_label_only",
+    "score": 0.408260315656662
+  },
+  {
+    "anchor_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "target_id": "96caf68be1db41e58ba409062ca05cec",
+    "method": "V2_vlm_label_only",
+    "score": 0.43029093742370605
+  },
+  {
+    "anchor_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "target_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "method": "V2_vlm_label_only",
+    "score": 0.4374205470085144
+  },
+  {
+    "anchor_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "target_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "method": "V2_vlm_label_only",
+    "score": 0.44657373428344727
+  },
+  {
+    "anchor_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "target_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "method": "V2_vlm_label_only",
+    "score": 0.39899763464927673
+  },
+  {
+    "anchor_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "target_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "method": "S0_no_update",
+    "score": 0.39978012442588806
+  },
+  {
+    "anchor_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "target_id": "0dc64e37785b4a468be551153e403ebe",
+    "method": "S0_no_update",
+    "score": 0.3803792893886566
+  },
+  {
+    "anchor_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "target_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "method": "S0_no_update",
+    "score": 0.4033396542072296
+  },
+  {
+    "anchor_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "target_id": "456e6368a048451090081f0aebfc6c65",
+    "method": "S0_no_update",
+    "score": 0.331756591796875
+  },
+  {
+    "anchor_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "target_id": "635289b3a1854c73b0c9685397e13e72",
+    "method": "S0_no_update",
+    "score": 0.3750920593738556
+  },
+  {
+    "anchor_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "target_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "method": "S0_no_update",
+    "score": 0.4077887535095215
+  },
+  {
+    "anchor_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "target_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "method": "S0_no_update",
+    "score": 0.362665593624115
+  },
+  {
+    "anchor_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "target_id": "96caf68be1db41e58ba409062ca05cec",
+    "method": "S0_no_update",
+    "score": 0.38071998953819275
+  },
+  {
+    "anchor_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "target_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "method": "S0_no_update",
+    "score": 0.3778700828552246
+  },
+  {
+    "anchor_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "target_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "method": "S0_no_update",
+    "score": 0.39963212609291077
+  },
+  {
+    "anchor_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "target_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "method": "S0_no_update",
+    "score": 0.3492357134819031
+  },
+  {
+    "anchor_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "target_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "method": "S1_spatial",
+    "score": 0.25993704702619846
+  },
+  {
+    "anchor_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "target_id": "0dc64e37785b4a468be551153e403ebe",
+    "method": "S1_spatial",
+    "score": 0.20894486633702353
+  },
+  {
+    "anchor_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "target_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "method": "S1_spatial",
+    "score": 0.2314978884576099
+  },
+  {
+    "anchor_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "target_id": "456e6368a048451090081f0aebfc6c65",
+    "method": "S1_spatial",
+    "score": 0.22904383063363962
+  },
+  {
+    "anchor_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "target_id": "635289b3a1854c73b0c9685397e13e72",
+    "method": "S1_spatial",
+    "score": 0.3013615767439363
+  },
+  {
+    "anchor_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "target_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "method": "S1_spatial",
+    "score": 0.26764249711351523
+  },
+  {
+    "anchor_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "target_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "method": "S1_spatial",
+    "score": 0.2523585065917401
+  },
+  {
+    "anchor_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "target_id": "96caf68be1db41e58ba409062ca05cec",
+    "method": "S1_spatial",
+    "score": 0.31112898501566416
+  },
+  {
+    "anchor_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "target_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "method": "S1_spatial",
+    "score": 0.27250693137392556
+  },
+  {
+    "anchor_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "target_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "method": "S1_spatial",
+    "score": 0.3368840239209978
+  },
+  {
+    "anchor_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "target_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "method": "S1_spatial",
+    "score": 0.26067881518768793
+  },
+  {
+    "anchor_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "target_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "method": "S2_visual_spatial",
+    "score": 0.32711821060662105
+  },
+  {
+    "anchor_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "target_id": "0dc64e37785b4a468be551153e403ebe",
+    "method": "S2_visual_spatial",
+    "score": 0.26532979730587253
+  },
+  {
+    "anchor_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "target_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "method": "S2_visual_spatial",
+    "score": 0.2900186443772836
+  },
+  {
+    "anchor_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "target_id": "456e6368a048451090081f0aebfc6c65",
+    "method": "S2_visual_spatial",
+    "score": 0.2856612127267875
+  },
+  {
+    "anchor_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "target_id": "635289b3a1854c73b0c9685397e13e72",
+    "method": "S2_visual_spatial",
+    "score": 0.3323218766283464
+  },
+  {
+    "anchor_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "target_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "method": "S2_visual_spatial",
+    "score": 0.31755054881512584
+  },
+  {
+    "anchor_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "target_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "method": "S2_visual_spatial",
+    "score": 0.3006368504630216
+  },
+  {
+    "anchor_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "target_id": "96caf68be1db41e58ba409062ca05cec",
+    "method": "S2_visual_spatial",
+    "score": 0.3390868069041764
+  },
+  {
+    "anchor_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "target_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "method": "S2_visual_spatial",
+    "score": 0.31859099977495126
+  },
+  {
+    "anchor_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "target_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "method": "S2_visual_spatial",
+    "score": 0.3635922290381365
+  },
+  {
+    "anchor_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "target_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "method": "S2_visual_spatial",
+    "score": 0.29086906443695376
+  },
+  {
+    "anchor_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "target_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "method": "V1_vlm_history",
+    "score": 0.3436422049999237
+  },
+  {
+    "anchor_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "target_id": "0dc64e37785b4a468be551153e403ebe",
+    "method": "V1_vlm_history",
+    "score": 0.33999690413475037
+  },
+  {
+    "anchor_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "target_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "method": "V1_vlm_history",
+    "score": 0.3409484326839447
+  },
+  {
+    "anchor_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "target_id": "456e6368a048451090081f0aebfc6c65",
+    "method": "V1_vlm_history",
+    "score": 0.310782253742218
+  },
+  {
+    "anchor_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "target_id": "635289b3a1854c73b0c9685397e13e72",
+    "method": "V1_vlm_history",
+    "score": 0.32968613505363464
+  },
+  {
+    "anchor_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "target_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "method": "V1_vlm_history",
+    "score": 0.3485039472579956
+  },
+  {
+    "anchor_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "target_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "method": "V1_vlm_history",
+    "score": 0.3253597319126129
+  },
+  {
+    "anchor_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "target_id": "96caf68be1db41e58ba409062ca05cec",
+    "method": "V1_vlm_history",
+    "score": 0.3249295949935913
+  },
+  {
+    "anchor_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "target_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "method": "V1_vlm_history",
+    "score": 0.3271651864051819
+  },
+  {
+    "anchor_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "target_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "method": "V1_vlm_history",
+    "score": 0.3362794816493988
+  },
+  {
+    "anchor_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "target_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "method": "V1_vlm_history",
+    "score": 0.3061825633049011
+  },
+  {
+    "anchor_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "target_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "method": "V2_vlm_label_only",
+    "score": 0.3818106949329376
+  },
+  {
+    "anchor_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "target_id": "0dc64e37785b4a468be551153e403ebe",
+    "method": "V2_vlm_label_only",
+    "score": 0.37843525409698486
+  },
+  {
+    "anchor_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "target_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "method": "V2_vlm_label_only",
+    "score": 0.3737785518169403
+  },
+  {
+    "anchor_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "target_id": "456e6368a048451090081f0aebfc6c65",
+    "method": "V2_vlm_label_only",
+    "score": 0.32178759574890137
+  },
+  {
+    "anchor_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "target_id": "635289b3a1854c73b0c9685397e13e72",
+    "method": "V2_vlm_label_only",
+    "score": 0.37280651926994324
+  },
+  {
+    "anchor_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "target_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "method": "V2_vlm_label_only",
+    "score": 0.3965061604976654
+  },
+  {
+    "anchor_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "target_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "method": "V2_vlm_label_only",
+    "score": 0.34864312410354614
+  },
+  {
+    "anchor_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "target_id": "96caf68be1db41e58ba409062ca05cec",
+    "method": "V2_vlm_label_only",
+    "score": 0.36505430936813354
+  },
+  {
+    "anchor_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "target_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "method": "V2_vlm_label_only",
+    "score": 0.3671576976776123
+  },
+  {
+    "anchor_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "target_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "method": "V2_vlm_label_only",
+    "score": 0.3769264817237854
+  },
+  {
+    "anchor_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "target_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "method": "V2_vlm_label_only",
+    "score": 0.3312914967536926
+  },
+  {
+    "anchor_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "target_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "method": "S0_no_update",
+    "score": 0.39978012442588806
+  },
+  {
+    "anchor_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "target_id": "0dc64e37785b4a468be551153e403ebe",
+    "method": "S0_no_update",
+    "score": 0.3803792893886566
+  },
+  {
+    "anchor_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "target_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "method": "S0_no_update",
+    "score": 0.4033396542072296
+  },
+  {
+    "anchor_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "target_id": "456e6368a048451090081f0aebfc6c65",
+    "method": "S0_no_update",
+    "score": 0.331756591796875
+  },
+  {
+    "anchor_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "target_id": "635289b3a1854c73b0c9685397e13e72",
+    "method": "S0_no_update",
+    "score": 0.3750920593738556
+  },
+  {
+    "anchor_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "target_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "method": "S0_no_update",
+    "score": 0.4077887535095215
+  },
+  {
+    "anchor_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "target_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "method": "S0_no_update",
+    "score": 0.362665593624115
+  },
+  {
+    "anchor_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "target_id": "96caf68be1db41e58ba409062ca05cec",
+    "method": "S0_no_update",
+    "score": 0.38071998953819275
+  },
+  {
+    "anchor_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "target_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "method": "S0_no_update",
+    "score": 0.3778700828552246
+  },
+  {
+    "anchor_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "target_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "method": "S0_no_update",
+    "score": 0.37108680605888367
+  },
+  {
+    "anchor_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "target_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "method": "S0_no_update",
+    "score": 0.3492357134819031
+  },
+  {
+    "anchor_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "target_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "method": "S1_spatial",
+    "score": 0.24585627437409083
+  },
+  {
+    "anchor_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "target_id": "0dc64e37785b4a468be551153e403ebe",
+    "method": "S1_spatial",
+    "score": 0.2682962013288885
+  },
+  {
+    "anchor_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "target_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "method": "S1_spatial",
+    "score": 0.3681603324091304
+  },
+  {
+    "anchor_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "target_id": "456e6368a048451090081f0aebfc6c65",
+    "method": "S1_spatial",
+    "score": 0.14629604379448538
+  },
+  {
+    "anchor_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "target_id": "635289b3a1854c73b0c9685397e13e72",
+    "method": "S1_spatial",
+    "score": 0.2668453970832724
+  },
+  {
+    "anchor_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "target_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "method": "S1_spatial",
+    "score": 0.3906554359203867
+  },
+  {
+    "anchor_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "target_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "method": "S1_spatial",
+    "score": 0.33242583304279627
+  },
+  {
+    "anchor_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "target_id": "96caf68be1db41e58ba409062ca05cec",
+    "method": "S1_spatial",
+    "score": 0.30147176886555166
+  },
+  {
+    "anchor_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "target_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "method": "S1_spatial",
+    "score": 0.3036289635972642
+  },
+  {
+    "anchor_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "target_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "method": "S1_spatial",
+    "score": 0.3035118961730342
+  },
+  {
+    "anchor_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "target_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "method": "S1_spatial",
+    "score": 0.29239873066517585
+  },
+  {
+    "anchor_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "target_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "method": "S2_visual_spatial",
+    "score": 0.29806845343796734
+  },
+  {
+    "anchor_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "target_id": "0dc64e37785b4a468be551153e403ebe",
+    "method": "S2_visual_spatial",
+    "score": 0.3143896724654689
+  },
+  {
+    "anchor_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "target_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "method": "S2_visual_spatial",
+    "score": 0.37908981443026496
+  },
+  {
+    "anchor_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "target_id": "456e6368a048451090081f0aebfc6c65",
+    "method": "S2_visual_spatial",
+    "score": 0.23997929570102267
+  },
+  {
+    "anchor_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "target_id": "635289b3a1854c73b0c9685397e13e72",
+    "method": "S2_visual_spatial",
+    "score": 0.2751241933376345
+  },
+  {
+    "anchor_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "target_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "method": "S2_visual_spatial",
+    "score": 0.392664747754704
+  },
+  {
+    "anchor_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "target_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "method": "S2_visual_spatial",
+    "score": 0.3475317188298103
+  },
+  {
+    "anchor_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "target_id": "96caf68be1db41e58ba409062ca05cec",
+    "method": "S2_visual_spatial",
+    "score": 0.32235185529195326
+  },
+  {
+    "anchor_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "target_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "method": "S2_visual_spatial",
+    "score": 0.31429745528040287
+  },
+  {
+    "anchor_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "target_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "method": "S2_visual_spatial",
+    "score": 0.33227459164163575
+  },
+  {
+    "anchor_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "target_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "method": "S2_visual_spatial",
+    "score": 0.3207952440908953
+  },
+  {
+    "anchor_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "target_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "method": "V1_vlm_history",
+    "score": 0.3380025625228882
+  },
+  {
+    "anchor_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "target_id": "0dc64e37785b4a468be551153e403ebe",
+    "method": "V1_vlm_history",
+    "score": 0.3396356403827667
+  },
+  {
+    "anchor_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "target_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "method": "V1_vlm_history",
+    "score": 0.34030789136886597
+  },
+  {
+    "anchor_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "target_id": "456e6368a048451090081f0aebfc6c65",
+    "method": "V1_vlm_history",
+    "score": 0.3093370199203491
+  },
+  {
+    "anchor_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "target_id": "635289b3a1854c73b0c9685397e13e72",
+    "method": "V1_vlm_history",
+    "score": 0.32286298274993896
+  },
+  {
+    "anchor_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "target_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "method": "V1_vlm_history",
+    "score": 0.34181588888168335
+  },
+  {
+    "anchor_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "target_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "method": "V1_vlm_history",
+    "score": 0.3252429664134979
+  },
+  {
+    "anchor_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "target_id": "96caf68be1db41e58ba409062ca05cec",
+    "method": "V1_vlm_history",
+    "score": 0.3279997408390045
+  },
+  {
+    "anchor_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "target_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "method": "V1_vlm_history",
+    "score": 0.3267022371292114
+  },
+  {
+    "anchor_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "target_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "method": "V1_vlm_history",
+    "score": 0.32516321539878845
+  },
+  {
+    "anchor_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "target_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "method": "V1_vlm_history",
+    "score": 0.3092004060745239
+  },
+  {
+    "anchor_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "target_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "method": "V2_vlm_label_only",
+    "score": 0.3818106949329376
+  },
+  {
+    "anchor_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "target_id": "0dc64e37785b4a468be551153e403ebe",
+    "method": "V2_vlm_label_only",
+    "score": 0.37843525409698486
+  },
+  {
+    "anchor_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "target_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "method": "V2_vlm_label_only",
+    "score": 0.3737785518169403
+  },
+  {
+    "anchor_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "target_id": "456e6368a048451090081f0aebfc6c65",
+    "method": "V2_vlm_label_only",
+    "score": 0.32178759574890137
+  },
+  {
+    "anchor_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "target_id": "635289b3a1854c73b0c9685397e13e72",
+    "method": "V2_vlm_label_only",
+    "score": 0.37280651926994324
+  },
+  {
+    "anchor_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "target_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "method": "V2_vlm_label_only",
+    "score": 0.3965061604976654
+  },
+  {
+    "anchor_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "target_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "method": "V2_vlm_label_only",
+    "score": 0.34864312410354614
+  },
+  {
+    "anchor_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "target_id": "96caf68be1db41e58ba409062ca05cec",
+    "method": "V2_vlm_label_only",
+    "score": 0.36505430936813354
+  },
+  {
+    "anchor_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "target_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "method": "V2_vlm_label_only",
+    "score": 0.3671576976776123
+  },
+  {
+    "anchor_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "target_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "method": "V2_vlm_label_only",
+    "score": 0.3468815088272095
+  },
+  {
+    "anchor_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "target_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "method": "V2_vlm_label_only",
+    "score": 0.3312914967536926
+  },
+  {
+    "anchor_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "target_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "method": "S0_no_update",
+    "score": 0.39978012442588806
+  },
+  {
+    "anchor_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "target_id": "0dc64e37785b4a468be551153e403ebe",
+    "method": "S0_no_update",
+    "score": 0.3803792893886566
+  },
+  {
+    "anchor_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "target_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "method": "S0_no_update",
+    "score": 0.4033396542072296
+  },
+  {
+    "anchor_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "target_id": "456e6368a048451090081f0aebfc6c65",
+    "method": "S0_no_update",
+    "score": 0.331756591796875
+  },
+  {
+    "anchor_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "target_id": "635289b3a1854c73b0c9685397e13e72",
+    "method": "S0_no_update",
+    "score": 0.3750920593738556
+  },
+  {
+    "anchor_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "target_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "method": "S0_no_update",
+    "score": 0.4077887535095215
+  },
+  {
+    "anchor_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "target_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "method": "S0_no_update",
+    "score": 0.362665593624115
+  },
+  {
+    "anchor_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "target_id": "96caf68be1db41e58ba409062ca05cec",
+    "method": "S0_no_update",
+    "score": 0.38071998953819275
+  },
+  {
+    "anchor_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "target_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "method": "S0_no_update",
+    "score": 0.3778700828552246
+  },
+  {
+    "anchor_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "target_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "method": "S0_no_update",
+    "score": 0.37108680605888367
+  },
+  {
+    "anchor_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "target_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "method": "S0_no_update",
+    "score": 0.39963212609291077
+  },
+  {
+    "anchor_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "target_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "method": "S1_spatial",
+    "score": 0.3194690086590596
+  },
+  {
+    "anchor_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "target_id": "0dc64e37785b4a468be551153e403ebe",
+    "method": "S1_spatial",
+    "score": 0.29242032779244537
+  },
+  {
+    "anchor_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "target_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "method": "S1_spatial",
+    "score": 0.33541784812330483
+  },
+  {
+    "anchor_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "target_id": "456e6368a048451090081f0aebfc6c65",
+    "method": "S1_spatial",
+    "score": 0.2595561522669267
+  },
+  {
+    "anchor_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "target_id": "635289b3a1854c73b0c9685397e13e72",
+    "method": "S1_spatial",
+    "score": 0.35960379563108347
+  },
+  {
+    "anchor_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "target_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "method": "S1_spatial",
+    "score": 0.35418369665501387
+  },
+  {
+    "anchor_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "target_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "method": "S1_spatial",
+    "score": 0.3481780631566393
+  },
+  {
+    "anchor_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "target_id": "96caf68be1db41e58ba409062ca05cec",
+    "method": "S1_spatial",
+    "score": 0.2188660793897098
+  },
+  {
+    "anchor_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "target_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "method": "S1_spatial",
+    "score": 0.3593967887758546
+  },
+  {
+    "anchor_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "target_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "method": "S1_spatial",
+    "score": 0.28774449624198045
+  },
+  {
+    "anchor_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "target_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "method": "S1_spatial",
+    "score": 0.34996268524934965
+  },
+  {
+    "anchor_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "target_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "method": "S2_visual_spatial",
+    "score": 0.3678923260338005
+  },
+  {
+    "anchor_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "target_id": "0dc64e37785b4a468be551153e403ebe",
+    "method": "S2_visual_spatial",
+    "score": 0.3190890923143714
+  },
+  {
+    "anchor_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "target_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "method": "S2_visual_spatial",
+    "score": 0.36310580989122077
+  },
+  {
+    "anchor_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "target_id": "456e6368a048451090081f0aebfc6c65",
+    "method": "S2_visual_spatial",
+    "score": 0.3001036970028525
+  },
+  {
+    "anchor_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "target_id": "635289b3a1854c73b0c9685397e13e72",
+    "method": "S2_visual_spatial",
+    "score": 0.3666848920111903
+  },
+  {
+    "anchor_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "target_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "method": "S2_visual_spatial",
+    "score": 0.3714486267407676
+  },
+  {
+    "anchor_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "target_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "method": "S2_visual_spatial",
+    "score": 0.35504123662223663
+  },
+  {
+    "anchor_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "target_id": "96caf68be1db41e58ba409062ca05cec",
+    "method": "S2_visual_spatial",
+    "score": 0.26763849931170924
+  },
+  {
+    "anchor_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "target_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "method": "S2_visual_spatial",
+    "score": 0.3673631923181996
+  },
+  {
+    "anchor_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "target_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "method": "S2_visual_spatial",
+    "score": 0.316157021464154
+  },
+  {
+    "anchor_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "target_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "method": "S2_visual_spatial",
+    "score": 0.37477819926616807
+  },
+  {
+    "anchor_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "target_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "method": "V1_vlm_history",
+    "score": 0.331070214509964
+  },
+  {
+    "anchor_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "target_id": "0dc64e37785b4a468be551153e403ebe",
+    "method": "V1_vlm_history",
+    "score": 0.32822006940841675
+  },
+  {
+    "anchor_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "target_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "method": "V1_vlm_history",
+    "score": 0.3281005918979645
+  },
+  {
+    "anchor_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "target_id": "456e6368a048451090081f0aebfc6c65",
+    "method": "V1_vlm_history",
+    "score": 0.2989213466644287
+  },
+  {
+    "anchor_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "target_id": "635289b3a1854c73b0c9685397e13e72",
+    "method": "V1_vlm_history",
+    "score": 0.31349900364875793
+  },
+  {
+    "anchor_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "target_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "method": "V1_vlm_history",
+    "score": 0.3270217776298523
+  },
+  {
+    "anchor_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "target_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "method": "V1_vlm_history",
+    "score": 0.31790784001350403
+  },
+  {
+    "anchor_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "target_id": "96caf68be1db41e58ba409062ca05cec",
+    "method": "V1_vlm_history",
+    "score": 0.31710153818130493
+  },
+  {
+    "anchor_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "target_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "method": "V1_vlm_history",
+    "score": 0.3124030828475952
+  },
+  {
+    "anchor_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "target_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "method": "V1_vlm_history",
+    "score": 0.3119235932826996
+  },
+  {
+    "anchor_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "target_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "method": "V1_vlm_history",
+    "score": 0.3213719129562378
+  },
+  {
+    "anchor_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "target_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "method": "V2_vlm_label_only",
+    "score": 0.3818106949329376
+  },
+  {
+    "anchor_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "target_id": "0dc64e37785b4a468be551153e403ebe",
+    "method": "V2_vlm_label_only",
+    "score": 0.37843525409698486
+  },
+  {
+    "anchor_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "target_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "method": "V2_vlm_label_only",
+    "score": 0.3737785518169403
+  },
+  {
+    "anchor_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "target_id": "456e6368a048451090081f0aebfc6c65",
+    "method": "V2_vlm_label_only",
+    "score": 0.32178759574890137
+  },
+  {
+    "anchor_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "target_id": "635289b3a1854c73b0c9685397e13e72",
+    "method": "V2_vlm_label_only",
+    "score": 0.37280651926994324
+  },
+  {
+    "anchor_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "target_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "method": "V2_vlm_label_only",
+    "score": 0.3965061604976654
+  },
+  {
+    "anchor_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "target_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "method": "V2_vlm_label_only",
+    "score": 0.34864312410354614
+  },
+  {
+    "anchor_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "target_id": "96caf68be1db41e58ba409062ca05cec",
+    "method": "V2_vlm_label_only",
+    "score": 0.36505430936813354
+  },
+  {
+    "anchor_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "target_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "method": "V2_vlm_label_only",
+    "score": 0.3671576976776123
+  },
+  {
+    "anchor_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "target_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "method": "V2_vlm_label_only",
+    "score": 0.3468815088272095
+  },
+  {
+    "anchor_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "target_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "method": "V2_vlm_label_only",
+    "score": 0.3769264817237854
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "status": "SCORING_FORMAT_PROBE_ONLY",
+  "reason": "Bare A/B tokens omit high-probability leading-space answer tokens; no final method comparison may use these scores.",
+  "retained_forward_calls": 114,
+  "replacement": "output/disaster_route_boone_context_run_v2"
+}

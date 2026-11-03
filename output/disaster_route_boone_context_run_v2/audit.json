@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "checked_calls": {
+    "all": 276,
+    "full_history": 132,
+    "label_only": 132,
+    "initial": 12
+  },
+  "crop_hashes_verified": 60,
+  "prediction_rows": 660,
+  "independent_summary_metric_checks": 40,
+  "full_history_same_direction_anchor_cases": 12,
+  "minimum_answer_probability_mass": 0.950607419013977,
+  "scope": "Input access, crop hashes and metric audit; not independent georegistration or field-truth validation"
+}

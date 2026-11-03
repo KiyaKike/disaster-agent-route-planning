@@ -20,7 +20,7 @@ def main():
         for f in sorted(folder.rglob('*')):
             if not f.is_file():continue
             parts=f.relative_to(folder).parts
-            if any(s in ['__pycache__','attachments','.venv_inference'] for s in parts):
+            if any(s in ['__pycache__','attachments'] or s.startswith('.venv') for s in parts):
                 skipped['environment_checkpoint_external_attachment_files']+=1;continue
             if f.suffix.lower() not in ['.py','.md','.html','.json','.jl',''] or f.stat().st_size>2_000_000:
                 skipped['source_nontext_or_large']+=1;continue
@@ -79,13 +79,13 @@ def main():
 5. [最小机制筛选及止损](output/disaster_route_verification_screen_v1/README.md)
 6. [四区域强对照与观测增量诊断](output/disaster_route_crasar_batch4_v1/README.md)
 
-当前开发准备：[Boone最小对照协议](work/disaster_route/boone_context_pilot_v1.md)／[案例索引与状态](output/disaster_route_boone_context_pilot_v1/README.md)。协议和索引已完成；合法切片、视觉条件统计参考及VLM预测尚未完成。
+已完成[Boone真实切片与本地小VLM对照](output/disaster_route_boone_context_run_v2/README.md)：60张切片、276次正式前向；UAS视角AP不更新0.377、空间0.460、视觉统计0.436、VLM完整历史0.342。当前配置没有收益；下一项复用同一切片做较强VLM的固定锚点复核。
 
 ## 当前结论（2026-11-03快照）
 
 - 泛化的“路线分歧时考虑复核”在108个受控条件下与同策略空间精确贝叶斯参考收益一致，停止作为独立新方法扩展。
 - NOAA影像实际覆盖已有Boone区域，但共同现场真值、可靠校准模型和同状态UAS复访尚未建立；不能替代受控实验中的校准信号。
-- 用户本轮选择新的“在线上下文反馈”学习与筛选路线：固定VLM权重，用已付历史更新未访问建筑判断。当前从第一课开始，5节点教学程序、VLM调用及路线增益均尚未验证；不恢复旧传播或复核规则调参。
+- 用户本轮选择新的“在线上下文反馈”学习与筛选路线：固定VLM权重，用已付历史更新未访问建筑判断。5节点教学与VLM路线收益尚未完成；本地小VLM预测试验已完成，见上方实际结果；不恢复旧传播或复核规则调参。
 - 当前真实区域结果属于档案图像访问回放；运动与服务成本含假设，不宣称真实飞行验证。
 
 ## 代码和材料

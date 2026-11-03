@@ -1,0 +1,26 @@
+{
+  "model": "HuggingFaceTB/SmolVLM-256M-Instruct",
+  "revision": "7e3e67edbbed1bf9888184d9df282b700a323964",
+  "device": "mps",
+  "torch": "2.9.1",
+  "transformers": "4.57.1",
+  "score": "Class probability over bare and leading-space A versus B token variants",
+  "answer_token_forms": [
+    "A",
+    " A",
+    "B",
+    " B"
+  ],
+  "answer_token_ids": [
+    49,
+    330,
+    50,
+    389
+  ],
+  "dtype": "float32",
+  "training": false,
+  "processor_longest_edge": 512,
+  "image_splitting": false,
+  "external_api_calls": 0,
+  "gpu_rental": false
+}

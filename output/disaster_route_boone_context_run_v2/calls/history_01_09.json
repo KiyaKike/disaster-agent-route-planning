@@ -1,0 +1,19 @@
+{
+  "target_id": "d9396c94b4a747e0bc91d7cd234908eb",
+  "anchor_id": "0dc64e37785b4a468be551153e403ebe",
+  "label_only_history": false,
+  "score": 0.327853262424469,
+  "answer_set_probability_mass": 0.9829980731010437,
+  "unrestricted_top_token": " B",
+  "seconds": 1.5802209377288818,
+  "input_tokens": 499,
+  "image_paths": [
+    "crops/0dc64e37785b4a468be551153e403ebe/pre.png",
+    "crops/0dc64e37785b4a468be551153e403ebe/post.png",
+    "crops/0dc64e37785b4a468be551153e403ebe/uas.png",
+    "crops/d9396c94b4a747e0bc91d7cd234908eb/pre.png",
+    "crops/d9396c94b4a747e0bc91d7cd234908eb/post.png"
+  ],
+  "prompt": "<|im_start|>User: Assess visible roof damage in the TARGET building from satellite images. The images show only individual building footprints. A means visible roof damage; B means no visible roof damage. HISTORY building: pre-disaster satellite.<image>HISTORY building: post-disaster satellite.<image>HISTORY building: paid UAS image, captured on the next catalogue day.<image>The published UAS-view annotation of the HISTORY building is B (no damage). This is a view-specific observation, not error-free field truth. Use the history only if its visual pattern transfers to the TARGET. TARGET building: pre-disaster satellite.<image>TARGET building: post-disaster satellite.<image>Which label best describes the TARGET roof? Reply with exactly A or B.<end_of_utterance>\nAssistant:",
+  "revision": "7e3e67edbbed1bf9888184d9df282b700a323964"
+}

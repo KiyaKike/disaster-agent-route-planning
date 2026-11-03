@@ -6,3 +6,5 @@
 - StrongBaseline与其他外部感知模型：保留适配、获取与审计脚本；权重、下载附件和外部模型源码未批量再分发。
 
 该说明不替代各来源的原许可证，也不授予未明确授予的权利。项目未统一开源授权。
+
+本轮本地VLM：HuggingFaceTB/SmolVLM-256M-Instruct，revision7e3e67edbbed1bf9888184d9df282b700a323964，[官方模型卡](https://huggingface.co/HuggingFaceTB/SmolVLM-256M-Instruct)标为Apache-2.0；权重不包含在本仓库。新增切片对照图仍沿用CRASAR原始影像来源和适用条款。
