@@ -1,0 +1,55 @@
+{
+  "regions": [
+    "case_rank03",
+    "case_rank04",
+    "case_rank05",
+    "case_rank06"
+  ],
+  "primary_endpoint": "Any-damage UAS-view source-positive checks",
+  "secondary_endpoint": "Severe UAS-view source checks; unknown labels separately counted",
+  "budgets_proxy_s": [
+    60,
+    100,
+    140
+  ],
+  "main_budget_proxy_s": 100,
+  "speed_mps": 5.0,
+  "observation_s": 10.0,
+  "planning_update_s": 1.0,
+  "return_paid": true,
+  "online_planning_charge": "1s for every decision attempt, including final no-feasible decision; exact static1s once",
+  "unit": "One building footprint per paid archive observation; not original32m-window sensor replay",
+  "no_free_initial_anchor": true,
+  "priors": "Same frozen SmolVLM no-history prompt and token scoring as Boone",
+  "model": "HuggingFaceTB/SmolVLM-256M-Instruct",
+  "revision": "7e3e67edbbed1bf9888184d9df282b700a323964",
+  "feature": "Frozen1-mean RGB-channel Pearson correlation",
+  "feature_scale_rule": "Unlabelled per-region standardization floor0.05 and median-positive-distance Gaussian; no label tuning",
+  "space_scale_m": 50,
+  "residual_gain": 0.5,
+  "selection": "current score / outgoing straight-line distance; feasibility includes return",
+  "feedback": "Paid UAS author-view binary label; unknown skips update, never converted into a negative",
+  "policies": [
+    "distance",
+    "static_exact",
+    "no_update",
+    "spatial",
+    "matched_spatial",
+    "pearson"
+  ],
+  "strong_static": "Exact Held-Karp all-subset public-p0 objective; Bellman certificate",
+  "limitations": [
+    "Same-event train/development regions previously inspected",
+    "No independent registration certificate",
+    "Point observation and10s service are assumptions, not measured camera coverage",
+    "No site truth or field sensor accuracy claim"
+  ],
+  "locked_source_hashes": {
+    "run_boone_two_step.py": "83031fb74f2d93684386aefec0df479af1bd76694ec11a31d8cb6e5963a24da2",
+    "run_boone_structure_check.py": "56001d41a3f5268ab3bc574f256cbedd46d1478aa95feb873f3462c22ca0c036",
+    "run_boone_strength_control.py": "59fc1e06ac433236885084e3f179cd6cf61d376ddf8f7b74d26ab44f2d5c0389",
+    "crasar_pearson_budget_core.py": "dc84d5b5313a3ebfb2dcfc18a30beb62f0d7ec559835ab96a3a632212cf13271",
+    "run_crasar_pearson_isobudget.py": "6373b3e40f14a592a34fc367ccf48f7eb7b08a94f7eeb1a81f14a18bb575b44c"
+  },
+  "parent_receipt_sha256": "7ac9e6198f1cd2c85053d179bb4616d39cf018001903a60b69b1e4401976c3bd"
+}

@@ -1,0 +1,29 @@
+[
+  {
+    "budget_proxy_s": 60,
+    "distance": 2,
+    "static_exact": 3,
+    "no_update": 2,
+    "spatial": 2,
+    "matched_spatial": 2,
+    "pearson": 2
+  },
+  {
+    "budget_proxy_s": 100,
+    "distance": 3,
+    "static_exact": 5,
+    "no_update": 3,
+    "spatial": 4,
+    "matched_spatial": 3,
+    "pearson": 3
+  },
+  {
+    "budget_proxy_s": 140,
+    "distance": 5,
+    "static_exact": 8,
+    "no_update": 5,
+    "spatial": 7,
+    "matched_spatial": 5,
+    "pearson": 7
+  }
+]

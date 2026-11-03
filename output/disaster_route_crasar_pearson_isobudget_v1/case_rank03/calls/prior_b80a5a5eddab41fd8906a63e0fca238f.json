@@ -1,0 +1,12 @@
+{
+  "target_id": "b80a5a5eddab41fd8906a63e0fca238f",
+  "score": 0.37642574310302734,
+  "answer_set_probability_mass": 0.9682806134223938,
+  "image_paths": [
+    "crops/b80a5a5eddab41fd8906a63e0fca238f/pre.png",
+    "crops/b80a5a5eddab41fd8906a63e0fca238f/post.png"
+  ],
+  "prompt": "<|im_start|>User: Assess visible roof damage in the TARGET building from satellite images. The images show only individual building footprints. A means visible roof damage; B means no visible roof damage. TARGET building: pre-disaster satellite.<image>TARGET building: post-disaster satellite.<image>Which label best describes the TARGET roof? Reply with exactly A or B.<end_of_utterance>\nAssistant:",
+  "revision": "7e3e67edbbed1bf9888184d9df282b700a323964",
+  "seconds": 0.43051791698962916
+}

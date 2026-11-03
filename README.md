@@ -13,13 +13,13 @@
 5. [最小机制筛选及止损](output/disaster_route_verification_screen_v1/README.md)
 6. [四区域强对照与观测增量诊断](output/disaster_route_crasar_batch4_v1/README.md)
 
-已完成[Boone真实切片与本地小VLM对照](output/disaster_route_boone_context_run_v2/README.md)：60张切片、276次正式前向；UAS视角AP不更新0.377、空间0.460、视觉统计0.436、VLM完整历史0.342。当前小VLM配置没有收益。新增[逐建筑错误分析](output/disaster_route_boone_feature_error_audit_v1/README.md)：视觉统计组净AP差距主要来自B09，已执行[6维差分消融](output/disaster_route_boone_change6_v1/README.md)：重估核宽AP0.363、固定旧核宽0.474；新增[强度匹配对照](output/disaster_route_boone_strength_control_v1/README.md)：6维组0.474，匹配空间控制0.476；新增[归一化结构与Top-3检查](output/disaster_route_boone_structure_check_v1/README.md)：Pearson核AP0.553对匹配控制0.445、NDCG@3提升，Top-3为10对11且B11/B09未修复；新增[两步反馈检验](output/disaster_route_boone_two_step_v1/README.md)：分数／距离规则下Pearson8次对匹配空间5次，3胜9平0负；含返程距离1198.9m对1145.5m。通过两次访问初筛，同航程与区域外验证待做；纯分数组不更新11次优于Pearson9次。不再搜索Boone核宽。
+已完成[固定Pearson算子的区域外同预算检验](output/disaster_route_crasar_pearson_isobudget_v1/README.md)：3区域、54条闭合路线、32次本机先验前向。主预算100代理秒下，Pearson／幅度空间／纯空间／精确静态累计核查阳性为3／3／4／5；未建立稳定方法增量。算子保留为标准对照，不继续调Boone特征。全部源标签、代理成本与配准边界见报告。此前[Boone两步初筛](output/disaster_route_boone_two_step_v1/README.md)及[小VLM结果](output/disaster_route_boone_context_run_v2/README.md)保持原字节。
 
 ## 当前结论（2026-11-03快照）
 
 - 泛化的“路线分歧时考虑复核”在108个受控条件下与同策略空间精确贝叶斯参考收益一致，停止作为独立新方法扩展。
 - NOAA影像实际覆盖已有Boone区域，但共同现场真值、可靠校准模型和同状态UAS复访尚未建立；不能替代受控实验中的校准信号。
-- 用户本轮选择新的“在线上下文反馈”学习与筛选路线：固定VLM权重，用已付历史更新未访问建筑判断。5节点教学与VLM路线收益尚未完成；本地小VLM预测试验已完成，见上方实际结果；不恢复旧传播或复核规则调参。
+- 固定VLM先验、付费反馈与Pearson更新已完成Boone外同预算开发检验；当前保留为比较基线，尚无稳定路线增量。5节点教学与VLM上下文路线收益仍未完成，不恢复旧传播或复核规则调参。
 - 当前真实区域结果属于档案图像访问回放；运动与服务成本含假设，不宣称真实飞行验证。
 
 ## 代码和材料

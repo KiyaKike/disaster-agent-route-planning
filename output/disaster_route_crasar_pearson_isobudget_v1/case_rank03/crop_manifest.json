@@ -1,0 +1,599 @@
+{
+  "rows": [
+    {
+      "building_id": "05ca2db6636b48dd91d8a910c601d64e",
+      "crops": {
+        "pre": {
+          "path": "crops/05ca2db6636b48dd91d8a910c601d64e/pre.png",
+          "sha256": "a1ea84ba558571cf2a0b808f7acac56cd696b575f00ce3b9e7a45e7b136e94f6",
+          "roi_box": [
+            0,
+            522,
+            135,
+            707
+          ],
+          "mask_pixels": 18424
+        },
+        "post": {
+          "path": "crops/05ca2db6636b48dd91d8a910c601d64e/post.png",
+          "sha256": "3a2634d0051aaba35803d614365705fa2c0a89a4bf5213089ed5b1e18abe26a0",
+          "roi_box": [
+            0,
+            522,
+            135,
+            707
+          ],
+          "mask_pixels": 18424
+        }
+      },
+      "channel_correlations": [
+        -0.5871875057529891,
+        -0.5729054369976382,
+        -0.5630631836614327
+      ],
+      "pearson_change": 1.5743853754706865
+    },
+    {
+      "building_id": "0b0733fbf39a44c2949c2debb9644472",
+      "crops": {
+        "pre": {
+          "path": "crops/0b0733fbf39a44c2949c2debb9644472/pre.png",
+          "sha256": "d5d91b35f441c6f13bac90fa54a982f0a72454b99d97a8dc4b7b6b06704ea98a",
+          "roi_box": [
+            329,
+            589,
+            395,
+            684
+          ],
+          "mask_pixels": 5910
+        },
+        "post": {
+          "path": "crops/0b0733fbf39a44c2949c2debb9644472/post.png",
+          "sha256": "3358704e0fdc513aec9c48dd4c6b9cc0728edf5bbd535cfedaa43712451f0d0c",
+          "roi_box": [
+            329,
+            589,
+            395,
+            684
+          ],
+          "mask_pixels": 5910
+        }
+      },
+      "channel_correlations": [
+        -0.24053816919501464,
+        -0.10678968503903935,
+        -0.05446179589948806
+      ],
+      "pearson_change": 1.1339298833778473
+    },
+    {
+      "building_id": "44af017fff0948b69d8b638b6ecb629d",
+      "crops": {
+        "pre": {
+          "path": "crops/44af017fff0948b69d8b638b6ecb629d/pre.png",
+          "sha256": "555ce1a1c2e8cee1032732ab8f423c0de8e7ed89c35019964fa597e3819e3b77",
+          "roi_box": [
+            776,
+            627,
+            838,
+            679
+          ],
+          "mask_pixels": 3083
+        },
+        "post": {
+          "path": "crops/44af017fff0948b69d8b638b6ecb629d/post.png",
+          "sha256": "7aa718e319a27a51573822445ffcbfc455231badae90abbca55a35bbe27a1822",
+          "roi_box": [
+            776,
+            627,
+            838,
+            679
+          ],
+          "mask_pixels": 3083
+        }
+      },
+      "channel_correlations": [
+        -0.48386648357554446,
+        -0.5440178519128543,
+        -0.5100351980212982
+      ],
+      "pearson_change": 1.5126398445032323
+    },
+    {
+      "building_id": "4d1bd45b576247cbbddc9cc445c256a2",
+      "crops": {
+        "pre": {
+          "path": "crops/4d1bd45b576247cbbddc9cc445c256a2/pre.png",
+          "sha256": "d3b6a8a7a2b935138b53f124fb1a2d08d685a577cacc03bca42ddea41299a80c",
+          "roi_box": [
+            785,
+            704,
+            874,
+            810
+          ],
+          "mask_pixels": 9381
+        },
+        "post": {
+          "path": "crops/4d1bd45b576247cbbddc9cc445c256a2/post.png",
+          "sha256": "cdeab896ce28555dea87df3117179647e8c942586526ece6939a000b5491f65f",
+          "roi_box": [
+            785,
+            704,
+            874,
+            810
+          ],
+          "mask_pixels": 9381
+        }
+      },
+      "channel_correlations": [
+        -0.3363094923052004,
+        -0.4396363380281931,
+        -0.5344229776091673
+      ],
+      "pearson_change": 1.4367896026475202
+    },
+    {
+      "building_id": "51c23250d778492aa0505ffb5c333af6",
+      "crops": {
+        "pre": {
+          "path": "crops/51c23250d778492aa0505ffb5c333af6/pre.png",
+          "sha256": "5d70735f340324b99f962bd70ffd50bee4ef3703fa268eee759a3ea3ced0eec4",
+          "roi_box": [
+            12,
+            732,
+            138,
+            811
+          ],
+          "mask_pixels": 9249
+        },
+        "post": {
+          "path": "crops/51c23250d778492aa0505ffb5c333af6/post.png",
+          "sha256": "87bf340a4fbeba6dff6f6b15388929939fbb7061aa8cde58d05bd425d0c46684",
+          "roi_box": [
+            12,
+            732,
+            138,
+            811
+          ],
+          "mask_pixels": 9249
+        }
+      },
+      "channel_correlations": [
+        -0.2333934694064582,
+        -0.2197403658763263,
+        -0.23192594624584117
+      ],
+      "pearson_change": 1.228353260509542
+    },
+    {
+      "building_id": "5b53f90bfa0242ce87482a957f488b79",
+      "crops": {
+        "pre": {
+          "path": "crops/5b53f90bfa0242ce87482a957f488b79/pre.png",
+          "sha256": "d72a5b9accb162deafeb2bffb6718c954e9e1e5d840181e6b554b98dd0354860",
+          "roi_box": [
+            549,
+            657,
+            644,
+            777
+          ],
+          "mask_pixels": 10772
+        },
+        "post": {
+          "path": "crops/5b53f90bfa0242ce87482a957f488b79/post.png",
+          "sha256": "7b6537b2bace0bbeb30edbf56134e47ce0cf96969c6a3a39d7cd5eedeacd6ac8",
+          "roi_box": [
+            549,
+            657,
+            644,
+            777
+          ],
+          "mask_pixels": 10772
+        }
+      },
+      "channel_correlations": [
+        -0.43085329783207005,
+        -0.38026639781391364,
+        -0.39149440121367945
+      ],
+      "pearson_change": 1.4008713656198877
+    },
+    {
+      "building_id": "64e5faad940842a9b3905ebd8b98bc9d",
+      "crops": {
+        "pre": {
+          "path": "crops/64e5faad940842a9b3905ebd8b98bc9d/pre.png",
+          "sha256": "3622aa1ef2c7bdea171cb377161b929a533c6a0e4ca94074e81aa9be17fead7e",
+          "roi_box": [
+            742,
+            126,
+            836,
+            223
+          ],
+          "mask_pixels": 8791
+        },
+        "post": {
+          "path": "crops/64e5faad940842a9b3905ebd8b98bc9d/post.png",
+          "sha256": "b12e78ed49073519d34ca9de85d805aee7b7ea8ed601181ef84e79356302472a",
+          "roi_box": [
+            742,
+            126,
+            836,
+            223
+          ],
+          "mask_pixels": 8791
+        }
+      },
+      "channel_correlations": [
+        -0.030807881984098055,
+        -0.12007110667612463,
+        -0.16612043072809415
+      ],
+      "pearson_change": 1.105666473129439
+    },
+    {
+      "building_id": "70d7e01f998d4d54a551a8485bb7935f",
+      "crops": {
+        "pre": {
+          "path": "crops/70d7e01f998d4d54a551a8485bb7935f/pre.png",
+          "sha256": "f14df72062ca3c7674b7caa365d00ad654316bb07ed2551d7a093d0efb49f74e",
+          "roi_box": [
+            663,
+            679,
+            746,
+            793
+          ],
+          "mask_pixels": 9323
+        },
+        "post": {
+          "path": "crops/70d7e01f998d4d54a551a8485bb7935f/post.png",
+          "sha256": "7cd501274b0c61ec6957a0700f57bfe80eb9cb010dbcc48fb651053bf6d46bec",
+          "roi_box": [
+            663,
+            679,
+            746,
+            793
+          ],
+          "mask_pixels": 9323
+        }
+      },
+      "channel_correlations": [
+        0.5345148409834023,
+        0.5246147004587633,
+        0.5250542749580475
+      ],
+      "pearson_change": 0.47193872786659563
+    },
+    {
+      "building_id": "7fd3cec439914ad8999b6b8c070b2a13",
+      "crops": {
+        "pre": {
+          "path": "crops/7fd3cec439914ad8999b6b8c070b2a13/pre.png",
+          "sha256": "cba6bc476725319c375ee095b3405eec4061510ed8cdb177c1e5439f897b4f94",
+          "roi_box": [
+            346,
+            4,
+            440,
+            103
+          ],
+          "mask_pixels": 8176
+        },
+        "post": {
+          "path": "crops/7fd3cec439914ad8999b6b8c070b2a13/post.png",
+          "sha256": "83a03e05d2b56ff1fc0ee66fe8e6dd6da37ff5dce5ae7599e7f2a43e1abd248d",
+          "roi_box": [
+            346,
+            4,
+            440,
+            103
+          ],
+          "mask_pixels": 8176
+        }
+      },
+      "channel_correlations": [
+        -0.044641671905784504,
+        -0.015524101556651545,
+        -0.09991426755105906
+      ],
+      "pearson_change": 1.053360013671165
+    },
+    {
+      "building_id": "830e386f9fe8481c8e151501508f60b5",
+      "crops": {
+        "pre": {
+          "path": "crops/830e386f9fe8481c8e151501508f60b5/pre.png",
+          "sha256": "72428dacabe9ac6d1a722b8c519159803f1cac5854667b18461dafb86e27d2e7",
+          "roi_box": [
+            324,
+            240,
+            464,
+            338
+          ],
+          "mask_pixels": 12476
+        },
+        "post": {
+          "path": "crops/830e386f9fe8481c8e151501508f60b5/post.png",
+          "sha256": "2c282a17f1dacf523e6492fc940a421e3e63f69bfe0c5e12e1f3dd519f4e1e55",
+          "roi_box": [
+            324,
+            240,
+            464,
+            338
+          ],
+          "mask_pixels": 12476
+        }
+      },
+      "channel_correlations": [
+        -0.2839998797613793,
+        -0.3018200001500613,
+        -0.37357027252517033
+      ],
+      "pearson_change": 1.3197967174788703
+    },
+    {
+      "building_id": "833f0d7940024481a502c16d24999150",
+      "crops": {
+        "pre": {
+          "path": "crops/833f0d7940024481a502c16d24999150/pre.png",
+          "sha256": "1162c2a218a406f3baeb2918f06eaf2d4fd7fa769f8431fbffbe2d5efc91e46c",
+          "roi_box": [
+            773,
+            372,
+            835,
+            465
+          ],
+          "mask_pixels": 5613
+        },
+        "post": {
+          "path": "crops/833f0d7940024481a502c16d24999150/post.png",
+          "sha256": "dfdebadd118eba00b79da0273d354e4d4655ce21b571e4aa8b6714187567c9ea",
+          "roi_box": [
+            773,
+            372,
+            835,
+            465
+          ],
+          "mask_pixels": 5613
+        }
+      },
+      "channel_correlations": [
+        -0.3510740471119998,
+        -0.3204059164542926,
+        -0.2289770076980823
+      ],
+      "pearson_change": 1.3001523237547916
+    },
+    {
+      "building_id": "b80a5a5eddab41fd8906a63e0fca238f",
+      "crops": {
+        "pre": {
+          "path": "crops/b80a5a5eddab41fd8906a63e0fca238f/pre.png",
+          "sha256": "2e2b72643b011104ae6d053a4cf34791c639a0810915528f0796fee8e96fd6a3",
+          "roi_box": [
+            727,
+            16,
+            835,
+            94
+          ],
+          "mask_pixels": 8134
+        },
+        "post": {
+          "path": "crops/b80a5a5eddab41fd8906a63e0fca238f/post.png",
+          "sha256": "06a71589a4c679372d7999ca8fe9b818a6dfddc59016efc31412795e50e47378",
+          "roi_box": [
+            727,
+            16,
+            835,
+            94
+          ],
+          "mask_pixels": 8134
+        }
+      },
+      "channel_correlations": [
+        -0.0711026393945607,
+        -0.1510078597015439,
+        -0.17336596523174141
+      ],
+      "pearson_change": 1.131825488109282
+    },
+    {
+      "building_id": "b949aaf628ab4334959192d527a5bd9b",
+      "crops": {
+        "pre": {
+          "path": "crops/b949aaf628ab4334959192d527a5bd9b/pre.png",
+          "sha256": "e0d5643678a786f4e48411e378a64a0a50255c57e969647c5994ab8472c0ce10",
+          "roi_box": [
+            460,
+            511,
+            530,
+            582
+          ],
+          "mask_pixels": 4934
+        },
+        "post": {
+          "path": "crops/b949aaf628ab4334959192d527a5bd9b/post.png",
+          "sha256": "07f888f4224814f92fc2061b021ceedfc555cf12ab4c477705cd3f2e3ed82083",
+          "roi_box": [
+            460,
+            511,
+            530,
+            582
+          ],
+          "mask_pixels": 4934
+        }
+      },
+      "channel_correlations": [
+        -0.5587296669470453,
+        -0.600055871305929,
+        -0.6802996823576514
+      ],
+      "pearson_change": 1.6130284068702085
+    },
+    {
+      "building_id": "d45b953c07b545048bf5d5d40012200a",
+      "crops": {
+        "pre": {
+          "path": "crops/d45b953c07b545048bf5d5d40012200a/pre.png",
+          "sha256": "b031a90fbd36d220d3927d45812773f37c71549406f7d699a70f834094bf6680",
+          "roi_box": [
+            0,
+            365,
+            126,
+            472
+          ],
+          "mask_pixels": 11313
+        },
+        "post": {
+          "path": "crops/d45b953c07b545048bf5d5d40012200a/post.png",
+          "sha256": "f81e9ae69b887cd96220207d356e773dcf3c670f99dfdc39822afb2d648c9915",
+          "roi_box": [
+            0,
+            365,
+            126,
+            472
+          ],
+          "mask_pixels": 11313
+        }
+      },
+      "channel_correlations": [
+        -0.31107322214250854,
+        -0.3332080350252651,
+        -0.3615272976969752
+      ],
+      "pearson_change": 1.3352695182882497
+    },
+    {
+      "building_id": "d5b8554a50844644b1371be58bf8f410",
+      "crops": {
+        "pre": {
+          "path": "crops/d5b8554a50844644b1371be58bf8f410/pre.png",
+          "sha256": "fdd8050059bfa13d6c96a295a8330a9d1deb1fe6b83fa17df76b55ead5c7e825",
+          "roi_box": [
+            739,
+            245,
+            838,
+            348
+          ],
+          "mask_pixels": 10197
+        },
+        "post": {
+          "path": "crops/d5b8554a50844644b1371be58bf8f410/post.png",
+          "sha256": "0e74d2d4f46135fdffd98c33322ff740066c2ff59cee07d972f4c11636a82d75",
+          "roi_box": [
+            739,
+            245,
+            838,
+            348
+          ],
+          "mask_pixels": 10197
+        }
+      },
+      "channel_correlations": [
+        0.08534458639310541,
+        0.0835452453305839,
+        0.05776383026313144
+      ],
+      "pearson_change": 0.9244487793377264
+    },
+    {
+      "building_id": "e318527128714a559d1a30e6f00bba41",
+      "crops": {
+        "pre": {
+          "path": "crops/e318527128714a559d1a30e6f00bba41/pre.png",
+          "sha256": "e5e3f6c156bf15865cbf2d3878bb4c3d05aa8c8e220992e6becea4745b8c0cb7",
+          "roi_box": [
+            358,
+            130,
+            493,
+            214
+          ],
+          "mask_pixels": 10753
+        },
+        "post": {
+          "path": "crops/e318527128714a559d1a30e6f00bba41/post.png",
+          "sha256": "d291b9c0381af1329d4882f8a692187a56e68fac99c3191a6918c33f2a4c70ae",
+          "roi_box": [
+            358,
+            130,
+            493,
+            214
+          ],
+          "mask_pixels": 10753
+        }
+      },
+      "channel_correlations": [
+        -0.099809822419053,
+        -0.1651423988218962,
+        -0.186018737546254
+      ],
+      "pearson_change": 1.1503236529290677
+    },
+    {
+      "building_id": "e3948a7e8440480b8a601f15503d5e56",
+      "crops": {
+        "pre": {
+          "path": "crops/e3948a7e8440480b8a601f15503d5e56/pre.png",
+          "sha256": "5b740d7df9bb0b367133daf6f5331475579f7cb848674bd257566d4b4dd753bb",
+          "roi_box": [
+            446,
+            649,
+            512,
+            725
+          ],
+          "mask_pixels": 4781
+        },
+        "post": {
+          "path": "crops/e3948a7e8440480b8a601f15503d5e56/post.png",
+          "sha256": "6b86a2b0d9b0a70487c7264721f64462c6f7edb912b91de0b13a0fa41f610611",
+          "roi_box": [
+            446,
+            649,
+            512,
+            725
+          ],
+          "mask_pixels": 4781
+        }
+      },
+      "channel_correlations": [
+        0.5095671369230218,
+        0.5553245283843325,
+        0.5888953195039924
+      ],
+      "pearson_change": 0.44873767172955104
+    },
+    {
+      "building_id": "f032bbcd96f24f9a901da46e152f9879",
+      "crops": {
+        "pre": {
+          "path": "crops/f032bbcd96f24f9a901da46e152f9879/pre.png",
+          "sha256": "946c154efdd6abd8bb28980d46250b922354ad0d81cba571ce44ae6b2449e3cd",
+          "roi_box": [
+            348,
+            380,
+            493,
+            462
+          ],
+          "mask_pixels": 10917
+        },
+        "post": {
+          "path": "crops/f032bbcd96f24f9a901da46e152f9879/post.png",
+          "sha256": "530caf43736ab94f80aa65bebe38516681cd070d329392e1a32eab821edd135a",
+          "roi_box": [
+            348,
+            380,
+            493,
+            462
+          ],
+          "mask_pixels": 10917
+        }
+      },
+      "channel_correlations": [
+        0.2794589469009419,
+        0.23176399054698105,
+        0.23732334230009755
+      ],
+      "pearson_change": 0.7504845734173266
+    }
+  ],
+  "source": "output/disaster_route_crasar_batch4_v1/case_rank03"
+}

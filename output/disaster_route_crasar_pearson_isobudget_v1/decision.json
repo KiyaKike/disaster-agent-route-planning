@@ -1,0 +1,26 @@
+{
+  "status": "FROZEN_COMPARISON_OPERATOR_ONLY",
+  "primary_budget_proxy_s": 100,
+  "main_total_checks": {
+    "budget_proxy_s": 100,
+    "distance": 3,
+    "static_exact": 5,
+    "no_update": 3,
+    "spatial": 4,
+    "matched_spatial": 3,
+    "pearson": 3
+  },
+  "conclusion": "No stable cross-region gain over raw spatial or exact static; do not promote Pearson as main method or retune on these regions",
+  "primary_paired_vs_matched": {
+    "wins": 1,
+    "ties": 1,
+    "losses": 1,
+    "net_checks": 0
+  },
+  "next": "Keep hard-budget benchmark and frozen operators; investigate what paid information could improve upon strong static before designing a new update rule",
+  "claims_not_supported": [
+    "New method contribution",
+    "Independent event generalization",
+    "Physical field damage or real UAV flight validation"
+  ]
+}

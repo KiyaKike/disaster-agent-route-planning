@@ -10,8 +10,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4688,
-      "sha256": "0ad802e5f47a87d543de10a04cca30b71c5202fdea9cd408eb0bfed1f1a63832"
+      "bytes": 4078,
+      "sha256": "c8d6ba9eb317448c3ed4fc5d5471ca44806945bf913d8c973818b4f33ce66bb2"
     },
     {
       "path": "docs/REPRODUCIBILITY.md",
@@ -25,8 +25,8 @@
     },
     {
       "path": "docs/archive_availability.json",
-      "bytes": 685485,
-      "sha256": "c5e8f7518c8d04a78dae6ae5cd8c7ddbaf5def3c185b340db0b3916e9dd88960"
+      "bytes": 690255,
+      "sha256": "0e40f77bec19cbf2e978f082ade189584f4543a29d5a0c605558d576b11dea64"
     },
     {
       "path": "docs/third_party/CrossViewGate_LICENSE.txt",
@@ -2812,6 +2812,351 @@
       "path": "output/disaster_route_crasar_feasibility_20261103/repository_metadata.json",
       "bytes": 110317,
       "sha256": "c6699f30f262fd9517477c04d3f56eb995fd1271f14a634b1d99894e99281b4c"
+    },
+    {
+      "path": "output/disaster_route_crasar_pearson_isobudget_v1/README.md",
+      "bytes": 6376,
+      "sha256": "8f1f71591ab25230340b8b414c4bbfb763d8f0847d689466aaba9f97ec5038a7"
+    },
+    {
+      "path": "output/disaster_route_crasar_pearson_isobudget_v1/audit.json",
+      "bytes": 367,
+      "sha256": "4aee54278cdabe94acd3659fcba8ab3356151d184dad95648106777c04625178"
+    },
+    {
+      "path": "output/disaster_route_crasar_pearson_isobudget_v1/budget_totals.json",
+      "bytes": 479,
+      "sha256": "03b00f91c9fb188c0e597fe7c4be6b05b8a3fa2754e5e635fe4bca0e220d15aa"
+    },
+    {
+      "path": "output/disaster_route_crasar_pearson_isobudget_v1/case_rank03/calls/prior_05ca2db6636b48dd91d8a910c601d64e.json",
+      "bytes": 777,
+      "sha256": "b19cb4c7be9883f3c230b4ebbe6a5be1aa164b48a009519ffe76fbfb22b15800"
+    },
+    {
+      "path": "output/disaster_route_crasar_pearson_isobudget_v1/case_rank03/calls/prior_0b0733fbf39a44c2949c2debb9644472.json",
+      "bytes": 777,
+      "sha256": "1a8609d07348e7fa1a1ca8b79196eccb951161cbe54e190095cd6191ee9c8f7f"
+    },
+    {
+      "path": "output/disaster_route_crasar_pearson_isobudget_v1/case_rank03/calls/prior_44af017fff0948b69d8b638b6ecb629d.json",
+      "bytes": 779,
+      "sha256": "f35b5a9e874dfe9340daa8e2bae923b16f2bc211f045082ff63fbbfea12bbbab"
+    },
+    {
+      "path": "output/disaster_route_crasar_pearson_isobudget_v1/case_rank03/calls/prior_4d1bd45b576247cbbddc9cc445c256a2.json",
+      "bytes": 777,
+      "sha256": "b90faddda50574894e85619fddd4a732b87ed624a2dfc9673fd215723837e00a"
+    },
+    {
+      "path": "output/disaster_route_crasar_pearson_isobudget_v1/case_rank03/calls/prior_51c23250d778492aa0505ffb5c333af6.json",
+      "bytes": 778,
+      "sha256": "9a620138f5ac3fb49d8a595773ab5ed878c1cead90d6275549a0bac4c4353630"
+    },
+    {
+      "path": "output/disaster_route_crasar_pearson_isobudget_v1/case_rank03/calls/prior_5b53f90bfa0242ce87482a957f488b79.json",
+      "bytes": 778,
+      "sha256": "a6e14a744462f0040d4cc43534779b5cc82c8189cce73de72c129ebaaafc64f3"
+    },
+    {
+      "path": "output/disaster_route_crasar_pearson_isobudget_v1/case_rank03/calls/prior_64e5faad940842a9b3905ebd8b98bc9d.json",
+      "bytes": 778,
+      "sha256": "dc4125fe6278564170c32593375a195a6a2e74d0b41d3424640a5ca138ce925a"
+    },
+    {
+      "path": "output/disaster_route_crasar_pearson_isobudget_v1/case_rank03/calls/prior_70d7e01f998d4d54a551a8485bb7935f.json",
+      "bytes": 777,
+      "sha256": "7c3b1000f01466564f0432b44c405fcd4029a6555b01f076127a29b3d848353e"
+    },
+    {
+      "path": "output/disaster_route_crasar_pearson_isobudget_v1/case_rank03/calls/prior_7fd3cec439914ad8999b6b8c070b2a13.json",
+      "bytes": 779,
+      "sha256": "375265a10cb60330bfd9e749fe6c635055ca5a35c206cfce705e5ae000e1135c"
+    },
+    {
+      "path": "output/disaster_route_crasar_pearson_isobudget_v1/case_rank03/calls/prior_830e386f9fe8481c8e151501508f60b5.json",
+      "bytes": 778,
+      "sha256": "b46b2b0a88ac1709f72d5cb462522cc1aa2004a389438d2d9bebd050f419b47a"
+    },
+    {
+      "path": "output/disaster_route_crasar_pearson_isobudget_v1/case_rank03/calls/prior_833f0d7940024481a502c16d24999150.json",
+      "bytes": 778,
+      "sha256": "1b280eb0b82f820c74b8b3a45cf3947421ca3421a7c7b0adb3636675663feb94"
+    },
+    {
+      "path": "output/disaster_route_crasar_pearson_isobudget_v1/case_rank03/calls/prior_b80a5a5eddab41fd8906a63e0fca238f.json",
+      "bytes": 779,
+      "sha256": "925b436b5d8e3c2bbf0a4f7262e052f28dc764b5d886863138411219a667c0d4"
+    },
+    {
+      "path": "output/disaster_route_crasar_pearson_isobudget_v1/case_rank03/calls/prior_b949aaf628ab4334959192d527a5bd9b.json",
+      "bytes": 777,
+      "sha256": "b098a36a19cec9ea97413c04b7c35de04ef5541beab98edecf8cf606b5a83b7e"
+    },
+    {
+      "path": "output/disaster_route_crasar_pearson_isobudget_v1/case_rank03/calls/prior_d45b953c07b545048bf5d5d40012200a.json",
+      "bytes": 777,
+      "sha256": "e9a3f57e24bfa5170494c3d716d6766828f000c84125aa24605c1e0c3fd26924"
+    },
+    {
+      "path": "output/disaster_route_crasar_pearson_isobudget_v1/case_rank03/calls/prior_d5b8554a50844644b1371be58bf8f410.json",
+      "bytes": 778,
+      "sha256": "e007cba85b9a17ad8905058afbb5f80cf9ab449c2b85fe41dbd7ebc2905d2b48"
+    },
+    {
+      "path": "output/disaster_route_crasar_pearson_isobudget_v1/case_rank03/calls/prior_e318527128714a559d1a30e6f00bba41.json",
+      "bytes": 777,
+      "sha256": "7144e6160d2d2875698d626fad88f28e5dae17ba5e10a5bf87fba79e5bfb54ba"
+    },
+    {
+      "path": "output/disaster_route_crasar_pearson_isobudget_v1/case_rank03/calls/prior_e3948a7e8440480b8a601f15503d5e56.json",
+      "bytes": 779,
+      "sha256": "ca8e1eb6858283709635c0dba2feb38d90b7e33c21b914c99fa218f7e2e143a0"
+    },
+    {
+      "path": "output/disaster_route_crasar_pearson_isobudget_v1/case_rank03/calls/prior_f032bbcd96f24f9a901da46e152f9879.json",
+      "bytes": 778,
+      "sha256": "210aa51d9f676c31a9fc1beafc33fc3b92ef7fd54a7ec78796d05881d10dd231"
+    },
+    {
+      "path": "output/disaster_route_crasar_pearson_isobudget_v1/case_rank03/crop_manifest.json",
+      "bytes": 16306,
+      "sha256": "4aa6f5a3f7a1a7fa42c5ff9968e49536faf716cef665692149abbc8bc963a0a9"
+    },
+    {
+      "path": "output/disaster_route_crasar_pearson_isobudget_v1/case_rank03/public_inputs.json",
+      "bytes": 12488,
+      "sha256": "bec857de865e04be8f2f6e623dae698b31609377be6258e92ce6a9375a159ce4"
+    },
+    {
+      "path": "output/disaster_route_crasar_pearson_isobudget_v1/case_rank03/routes.json",
+      "bytes": 221543,
+      "sha256": "0de4c591863149d8bc784f23452f2d257dcc6156f916ba4f2f7febb466e7016b"
+    },
+    {
+      "path": "output/disaster_route_crasar_pearson_isobudget_v1/case_rank03/vlm_initial_scores.json",
+      "bytes": 1057,
+      "sha256": "058233091f7bd250db05302ff94d1132be28e3a5b7e3cbb5670a51fe5dd06125"
+    },
+    {
+      "path": "output/disaster_route_crasar_pearson_isobudget_v1/case_rank04/calls/prior_00278e0a430549e6b5c4ab093c0ffa9a.json",
+      "bytes": 778,
+      "sha256": "1bf588f5a27bc45a7d2c7da78b032fbda5cf89bc6b00b471da03b4fe9470b000"
+    },
+    {
+      "path": "output/disaster_route_crasar_pearson_isobudget_v1/case_rank04/calls/prior_17b22c58f18942cdbb0fa30aae7687d2.json",
+      "bytes": 778,
+      "sha256": "2e1426ac29452deff3b818daf8375abf40a0ca878c4a10e3e02f1d60452c9bd5"
+    },
+    {
+      "path": "output/disaster_route_crasar_pearson_isobudget_v1/case_rank04/calls/prior_5773f1ca4318469fbf187c6a915c6043.json",
+      "bytes": 778,
+      "sha256": "ebd3481f656c6ef68e046e251c376c06ddfa324feced8432b316edf0b57da6bb"
+    },
+    {
+      "path": "output/disaster_route_crasar_pearson_isobudget_v1/case_rank04/calls/prior_5eaad76070fe4f98be2e50d7d078a195.json",
+      "bytes": 778,
+      "sha256": "4bd52acfdcf668b86877b45bd93b3a8d6412869b4ac7c6baeae8c1d7777574e3"
+    },
+    {
+      "path": "output/disaster_route_crasar_pearson_isobudget_v1/case_rank04/calls/prior_6cb4c4506f1c475fb21c50af0c54c995.json",
+      "bytes": 777,
+      "sha256": "3bf17f9bfb99cb4a29a6ee53ebc2f0adc49a68310fc10ece5bf9e0743f430416"
+    },
+    {
+      "path": "output/disaster_route_crasar_pearson_isobudget_v1/case_rank04/calls/prior_a16d15374bb3402c9d7437def99a0a04.json",
+      "bytes": 778,
+      "sha256": "63135b23497feeb597fb869a4159eac4d452aecdad4e649d68de99dbb0ed77ef"
+    },
+    {
+      "path": "output/disaster_route_crasar_pearson_isobudget_v1/case_rank04/calls/prior_e81d393265a34842bdfe680c5c7549db.json",
+      "bytes": 778,
+      "sha256": "822b701af24c9a1ef43f40651ae510e28688b5c957cd5ee16a2981b81f238d4a"
+    },
+    {
+      "path": "output/disaster_route_crasar_pearson_isobudget_v1/case_rank04/calls/prior_f7c50254e0614d5cae1668233aad9256.json",
+      "bytes": 777,
+      "sha256": "c6e9f007d45e0dbafc00f144d64d06f89687aaae063e3fab38982acbf6f5b1c9"
+    },
+    {
+      "path": "output/disaster_route_crasar_pearson_isobudget_v1/case_rank04/crop_manifest.json",
+      "bytes": 7320,
+      "sha256": "b3183551f4f389d398db92df3efb1681ace8fa99393c0d90b4c6fbaf195a69a1"
+    },
+    {
+      "path": "output/disaster_route_crasar_pearson_isobudget_v1/case_rank04/public_inputs.json",
+      "bytes": 3858,
+      "sha256": "c27805e35abb0b7651f11d6140b27b4043a1648c5cdb397352ae3a3bd7bf8ae6"
+    },
+    {
+      "path": "output/disaster_route_crasar_pearson_isobudget_v1/case_rank04/routes.json",
+      "bytes": 142926,
+      "sha256": "781b7d22e352b24ea9bb578513a225c052bb5c4d266d3511a4712cecf3bcc31c"
+    },
+    {
+      "path": "output/disaster_route_crasar_pearson_isobudget_v1/case_rank04/vlm_initial_scores.json",
+      "bytes": 469,
+      "sha256": "cf2780f6a449880a77ec93cfbd1a78e29711c1e5a50c81716b2959de323cc96f"
+    },
+    {
+      "path": "output/disaster_route_crasar_pearson_isobudget_v1/case_rank06/calls/prior_12f35ab99a0a4a8280ca89f65e53a3d6.json",
+      "bytes": 777,
+      "sha256": "b3b3c3795ec0927bf68591ba73275e9de1c646326c6ad6de9a73f306b277bc53"
+    },
+    {
+      "path": "output/disaster_route_crasar_pearson_isobudget_v1/case_rank06/calls/prior_661d111f5df744fb9d9c2dbaa285cfcc.json",
+      "bytes": 777,
+      "sha256": "d0d0fc0754dfa42424f2d6b1c2c8dd3949360a9fc78bcc164af72e374e2a26c2"
+    },
+    {
+      "path": "output/disaster_route_crasar_pearson_isobudget_v1/case_rank06/calls/prior_b4a53a6955b345d29e60b8bafde493ca.json",
+      "bytes": 777,
+      "sha256": "952cde0cd0b601cd726be2a35963aa90af4eaae5535911d4ecff4fa5c408e8bc"
+    },
+    {
+      "path": "output/disaster_route_crasar_pearson_isobudget_v1/case_rank06/calls/prior_bdefc9615220408892b1ce1a85d9a4bb.json",
+      "bytes": 778,
+      "sha256": "f577b7763dbaf2e4c54c7fea46813412db3ce71476406840d55df9d231c7375b"
+    },
+    {
+      "path": "output/disaster_route_crasar_pearson_isobudget_v1/case_rank06/calls/prior_f06d1fe54902471093a95f711c0e0611.json",
+      "bytes": 779,
+      "sha256": "f9d63c6b93c4876d7fa3835fe6aaf1a38369503de0d3d7b5be4f9dfb3ffa0cab"
+    },
+    {
+      "path": "output/disaster_route_crasar_pearson_isobudget_v1/case_rank06/calls/prior_fea8cc3548eb40818e499eb3589b70fd.json",
+      "bytes": 777,
+      "sha256": "a21efa84c195f4c5ab7cca2babe9c32b71f80233faf10ed2705589c57856520a"
+    },
+    {
+      "path": "output/disaster_route_crasar_pearson_isobudget_v1/case_rank06/crop_manifest.json",
+      "bytes": 5511,
+      "sha256": "c27550fd5c30415c8b40d2268d198cfb38ddd052d7ab77e9055f5ff3d362e5e4"
+    },
+    {
+      "path": "output/disaster_route_crasar_pearson_isobudget_v1/case_rank06/public_inputs.json",
+      "bytes": 2777,
+      "sha256": "8711104d170d1e44d7b89988b25c4b25ad8b361f78e159cba43abcb66233649e"
+    },
+    {
+      "path": "output/disaster_route_crasar_pearson_isobudget_v1/case_rank06/routes.json",
+      "bytes": 93912,
+      "sha256": "a63ffc7dbfb35ec1bb6ae0ae6ba1cfbf576c3fbfe38e8ff039c6ec12760b3d7f"
+    },
+    {
+      "path": "output/disaster_route_crasar_pearson_isobudget_v1/case_rank06/vlm_initial_scores.json",
+      "bytes": 352,
+      "sha256": "d7dd03d9181093a1a7f7dfe564e8a810f433bdde6398f63b24ec1b43a3ba2da5"
+    },
+    {
+      "path": "output/disaster_route_crasar_pearson_isobudget_v1/completion_receipt.json",
+      "bytes": 16838,
+      "sha256": "ad65516ed3082469809f32865f844857771dec7d3bfcfd445d04635a8568e46f"
+    },
+    {
+      "path": "output/disaster_route_crasar_pearson_isobudget_v1/decision.json",
+      "bytes": 840,
+      "sha256": "35cd24e2dfd7115aaa50ee6f169d187f8a646a077078c378b3f639ceb574fa5a"
+    },
+    {
+      "path": "output/disaster_route_crasar_pearson_isobudget_v1/inference_count.json",
+      "bytes": 110,
+      "sha256": "a388064f32c5d6e724aa608e7097d1286f51dc4eb6dc448ac2d8a128955db0ab"
+    },
+    {
+      "path": "output/disaster_route_crasar_pearson_isobudget_v1/operator_lock.json",
+      "bytes": 1867,
+      "sha256": "b90642711db64b65928f51f084bf0a95ce079e9dade5d18f717f4af67273faf1"
+    },
+    {
+      "path": "output/disaster_route_crasar_pearson_isobudget_v1/paired_comparisons.json",
+      "bytes": 7074,
+      "sha256": "ab6dcfd6617aabf8243b07351032f944312478d2fbe7ffe60e4fa5a1c688f1a2"
+    },
+    {
+      "path": "output/disaster_route_crasar_pearson_isobudget_v1/perception_runtime.json",
+      "bytes": 478,
+      "sha256": "527d61e9f8d70f6ccdf149c7b69f6cd9f31f0c408b7d14e026e50ca273d1338f"
+    },
+    {
+      "path": "output/disaster_route_crasar_pearson_isobudget_v1/protocol.json",
+      "bytes": 2455,
+      "sha256": "3808d206fa44430fe706a363d77516ed25c07b9e1c845abe54c313f120bc2ef7"
+    },
+    {
+      "path": "output/disaster_route_crasar_pearson_isobudget_v1/region_status.json",
+      "bytes": 1016,
+      "sha256": "682b52d49acf98c07f4d98fe87882fed83fbc8c48469648ba03b29f0dbdecebe"
+    },
+    {
+      "path": "output/disaster_route_crasar_pearson_isobudget_v1/solver_certificates.json",
+      "bytes": 503,
+      "sha256": "178742168c16e761441b35e4d8109a6b6348276aae38c77ea1156306b050d66f"
+    },
+    {
+      "path": "output/disaster_route_crasar_pearson_isobudget_v1/source_snapshots/audit_boone_context_experiment.py",
+      "bytes": 5336,
+      "sha256": "0813f2b634394a5c748dc48699a5ab6322299bbfb526d8b904d0a65799b99ba0"
+    },
+    {
+      "path": "output/disaster_route_crasar_pearson_isobudget_v1/source_snapshots/audit_crasar_pearson_isobudget.py",
+      "bytes": 8943,
+      "sha256": "2e1c6737b0abe149450243a0c4149f98d49fbf41fd37dec6b63d4d65267a77ba"
+    },
+    {
+      "path": "output/disaster_route_crasar_pearson_isobudget_v1/source_snapshots/crasar_pearson_budget_core.py",
+      "bytes": 4978,
+      "sha256": "dc84d5b5313a3ebfb2dcfc18a30beb62f0d7ec559835ab96a3a632212cf13271"
+    },
+    {
+      "path": "output/disaster_route_crasar_pearson_isobudget_v1/source_snapshots/route_headroom_core.py",
+      "bytes": 4645,
+      "sha256": "857455b30f272e132ca9c1c8e6fec4d6964d2b31d8e42f499132df4420448347"
+    },
+    {
+      "path": "output/disaster_route_crasar_pearson_isobudget_v1/source_snapshots/run_boone_context_experiment.py",
+      "bytes": 23908,
+      "sha256": "2e7d20d6aa64f2e9c2bac4258a64444cbc026559b4ee0f59bdb3966c7035e22d"
+    },
+    {
+      "path": "output/disaster_route_crasar_pearson_isobudget_v1/source_snapshots/run_boone_strength_control.py",
+      "bytes": 9184,
+      "sha256": "59fc1e06ac433236885084e3f179cd6cf61d376ddf8f7b74d26ab44f2d5c0389"
+    },
+    {
+      "path": "output/disaster_route_crasar_pearson_isobudget_v1/source_snapshots/run_boone_structure_check.py",
+      "bytes": 9491,
+      "sha256": "56001d41a3f5268ab3bc574f256cbedd46d1478aa95feb873f3462c22ca0c036"
+    },
+    {
+      "path": "output/disaster_route_crasar_pearson_isobudget_v1/source_snapshots/run_boone_two_step.py",
+      "bytes": 11588,
+      "sha256": "83031fb74f2d93684386aefec0df479af1bd76694ec11a31d8cb6e5963a24da2"
+    },
+    {
+      "path": "output/disaster_route_crasar_pearson_isobudget_v1/source_snapshots/run_crasar_pearson_isobudget.py",
+      "bytes": 14691,
+      "sha256": "6373b3e40f14a592a34fc367ccf48f7eb7b08a94f7eeb1a81f14a18bb575b44c"
+    },
+    {
+      "path": "output/disaster_route_crasar_pearson_isobudget_v1/source_snapshots/test_crasar_pearson_budget.py",
+      "bytes": 2071,
+      "sha256": "21127ff264a63146a6ecea0ca31f9e8ea2b1ad875e187f83baf9f2b0c39ab825"
+    },
+    {
+      "path": "output/disaster_route_crasar_pearson_isobudget_v1/summary.csv",
+      "bytes": 6693,
+      "sha256": "c1d3173517beeaf44a6e95b5e3505944e0bfba7e7ca8fd41cb0198466442d675"
+    },
+    {
+      "path": "output/disaster_route_crasar_pearson_isobudget_v1/summary.json",
+      "bytes": 24612,
+      "sha256": "3c03b64e52828685f6f78bd5bd61751620ed5d00c84d0bcb7b04f3ed81ef7b5f"
+    },
+    {
+      "path": "output/disaster_route_crasar_pearson_isobudget_v1/tests.txt",
+      "bytes": 296,
+      "sha256": "f4d976a622abfc000f940acec3027de4146d9b7d6dc712d6d00421c0bfa63a32"
     },
     {
       "path": "output/disaster_route_crasar_region_rank2_v1/README.md",
@@ -7395,8 +7740,8 @@
     },
     {
       "path": "work/disaster_route/README.md",
-      "bytes": 12054,
-      "sha256": "3b76cb3f5c70e50f0848a6857423d2c95ce5f71bee6b6b197bad4ec97ca6f14d"
+      "bytes": 10908,
+      "sha256": "7be035a4301d4e0a4245adcc95fe8c389dd18a40c054ece7cda28b6c9bb78c94"
     },
     {
       "path": "work/disaster_route/acquire_xbd_route_metadata.py",
@@ -7432,6 +7777,11 @@
       "path": "work/disaster_route/audit_boone_two_step.py",
       "bytes": 6309,
       "sha256": "cf0a5a3d9e32c4225667543c3d173ceee538afe08976b72b6e0e768b7209c30d"
+    },
+    {
+      "path": "work/disaster_route/audit_crasar_pearson_isobudget.py",
+      "bytes": 8943,
+      "sha256": "2e1c6737b0abe149450243a0c4149f98d49fbf41fd37dec6b63d4d65267a77ba"
     },
     {
       "path": "work/disaster_route/audit_dual_map_demo_resumed.py",
@@ -7539,6 +7889,11 @@
       "sha256": "50a3411fca6dce3335a2107aeeac19c1b82006b347a3e0ca313d76c2af3fda84"
     },
     {
+      "path": "work/disaster_route/crasar_pearson_budget_core.py",
+      "bytes": 4978,
+      "sha256": "dc84d5b5313a3ebfb2dcfc18a30beb62f0d7ec559835ab96a3a632212cf13271"
+    },
+    {
       "path": "work/disaster_route/crasar_route_controls.py",
       "bytes": 5426,
       "sha256": "3ce3b34fd925ed926a20f5548beeb1d2059afc76dcf3cb179ef7c17f61db23fb"
@@ -7560,8 +7915,8 @@
     },
     {
       "path": "work/disaster_route/export_github_snapshot.py",
-      "bytes": 14225,
-      "sha256": "db48c9cd278f9504d8a4a5479c69b36801a0b32010e214c16e107f42bc812943"
+      "bytes": 13615,
+      "sha256": "5112e7bd721b1b746d2ab75dba58c0a63acc0125566a7c5592064231b24d3446"
     },
     {
       "path": "work/disaster_route/extract_crasar_region.py",
@@ -7759,6 +8114,11 @@
       "sha256": "a82b64f519749097841d68829160f5048792f482659c78f42a3014a8217b6b7c"
     },
     {
+      "path": "work/disaster_route/run_crasar_pearson_isobudget.py",
+      "bytes": 14691,
+      "sha256": "6373b3e40f14a592a34fc367ccf48f7eb7b08a94f7eeb1a81f14a18bb575b44c"
+    },
+    {
       "path": "work/disaster_route/run_feedback_increment.py",
       "bytes": 7925,
       "sha256": "9cda708ce2a803bc7254eb045bcc1e70b4929f11dd5a7250a9b7da1cbc65bb0c"
@@ -7867,6 +8227,11 @@
       "path": "work/disaster_route/test_crasar_feedback_diagnostic.py",
       "bytes": 1699,
       "sha256": "6ee372589d22c94a08239c5a8611334aa9a6432b264d328a93de72910007ee35"
+    },
+    {
+      "path": "work/disaster_route/test_crasar_pearson_budget.py",
+      "bytes": 2071,
+      "sha256": "21127ff264a63146a6ecea0ca31f9e8ea2b1ad875e187f83baf9f2b0c39ab825"
     },
     {
       "path": "work/disaster_route/test_crasar_range_cache.py",
@@ -8005,8 +8370,8 @@
     },
     {
       "path": "work/disaster_route/在线上下文反馈_学习与实验路线.md",
-      "bytes": 13049,
-      "sha256": "8c772062ac6ebebe057cefef10b415de71cef8212f2a7afe27b0181b2d1a2611"
+      "bytes": 13689,
+      "sha256": "f003312e221573f109bd26b66eb466e801ed400f1611c817c5409ce31b44402c"
     },
     {
       "path": "work/disaster_route/在线上下文反馈_第一课.md",
@@ -8015,8 +8380,8 @@
     },
     {
       "path": "work/disaster_route/研究目标与接手计划.md",
-      "bytes": 9669,
-      "sha256": "98059404c3ac55d28dc79c044b0495bf7e1df06b052e7741a67a3f3c01563dd2"
+      "bytes": 10332,
+      "sha256": "fcb7147ee0fd16eb986239b01ed78d2275d08ef65119662c626741be1b4a8795"
     },
     {
       "path": "work/disaster_route/研究记录/20261103_旧复核候选接手计划.md",

@@ -1,0 +1,49 @@
+[
+  {
+    "case": "case_rank03",
+    "scene": "1001-Ft-Myers-Beach-DIRT.geo.tif",
+    "original_bands": {
+      "pre": 3,
+      "post": 3,
+      "uas": 4
+    },
+    "status": "REPLAY_COMPLETE",
+    "buildings": 18,
+    "tau": 0.9203435485708744
+  },
+  {
+    "case": "case_rank04",
+    "scene": "1001-Iona-Point.geo.tif",
+    "original_bands": {
+      "pre": 3,
+      "post": 3,
+      "uas": 4
+    },
+    "status": "REPLAY_COMPLETE",
+    "buildings": 8,
+    "tau": 1.3039327389155242
+  },
+  {
+    "case": "case_rank05",
+    "scene": "1001-Kennedy-Green-Mobile-Homes.geo.tif",
+    "original_bands": {
+      "pre": 1,
+      "post": 3,
+      "uas": 4
+    },
+    "status": "EXCLUDED_ORIGINAL_NON_RGB",
+    "reason": "Original fixed RGB gate; no replacement"
+  },
+  {
+    "case": "case_rank06",
+    "scene": "1001-McGregor-College-Pkwy-South.1.geo.tif",
+    "original_bands": {
+      "pre": 3,
+      "post": 3,
+      "uas": 4
+    },
+    "status": "REPLAY_COMPLETE",
+    "buildings": 6,
+    "tau": 1.2511707818118492
+  }
+]

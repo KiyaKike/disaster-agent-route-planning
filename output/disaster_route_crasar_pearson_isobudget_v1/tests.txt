@@ -1,0 +1,4 @@
+2026-11-03
+4 new tests: python -m unittest discover -s work/disaster_route -p test_crasar_pearson_budget.py -v (passed,0.003s).
+17 frozen-operator tests: python -m unittest discover -s work/disaster_route -p test_boone_*.py -v (passed,0.026s).
+Independent actual-route audit saved in audit.json.

@@ -1,0 +1,3736 @@
+[
+  {
+    "policy": "distance",
+    "budget_proxy_s": 60,
+    "route": [
+      4,
+      3
+    ],
+    "distance_m": 129.84780980870872,
+    "return_distance_m": 60.983956975921565,
+    "elapsed_proxy_s": 48.969561961741746,
+    "planning_calls": 3,
+    "observations": [
+      {
+        "index": 4,
+        "source_label": 0,
+        "arrival_proxy_s": 7.331707810471902,
+        "observation_complete_proxy_s": 17.3317078104719,
+        "leg_m": 31.658539052359508,
+        "score_before_observation": 0.36468496918678284
+      },
+      {
+        "index": 3,
+        "source_label": null,
+        "arrival_proxy_s": 25.772770566557433,
+        "observation_complete_proxy_s": 35.77277056655743,
+        "leg_m": 37.20531378042765,
+        "score_before_observation": 0.36697953939437866
+      }
+    ],
+    "decisions": [
+      {
+        "decision_number": 1,
+        "elapsed_proxy_s": 1.0,
+        "observed_indices": [],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "target": 4,
+        "position_before": 6,
+        "scores": [
+          0.364641010761261,
+          0.3081253468990326,
+          0.3836459815502167,
+          0.36697953939437866,
+          0.36468496918678284,
+          0.3273361623287201
+        ],
+        "return_reserve_s": 6.331707810471902
+      },
+      {
+        "decision_number": 2,
+        "elapsed_proxy_s": 18.3317078104719,
+        "observed_indices": [
+          4
+        ],
+        "feasible_indices": [
+          0,
+          3,
+          5
+        ],
+        "target": 3,
+        "position_before": 4,
+        "scores": [
+          0.364641010761261,
+          0.3081253468990326,
+          0.3836459815502167,
+          0.36697953939437866,
+          0.36468496918678284,
+          0.3273361623287201
+        ],
+        "return_reserve_s": 12.196791395184313
+      },
+      {
+        "decision_number": 3,
+        "elapsed_proxy_s": 36.77277056655743,
+        "observed_indices": [
+          3,
+          4
+        ],
+        "feasible_indices": [],
+        "target": null
+      }
+    ],
+    "updates": [],
+    "returned_home": true,
+    "budget_slack_s": 11.030438038258254,
+    "certificate": null,
+    "solver_wall_seconds": 3.7542005884461105e-05,
+    "case": "case_rank06",
+    "scene": "1001-McGregor-College-Pkwy-South.1.geo.tif",
+    "label_access_indices": [
+      4,
+      3
+    ],
+    "route_building_ids": [
+      "f06d1fe54902471093a95f711c0e0611",
+      "bdefc9615220408892b1ce1a85d9a4bb"
+    ],
+    "source_positive_checks": 0,
+    "first_positive_check_proxy_s": null,
+    "unknown_source_checks": 1,
+    "source_severe_checks": 0
+  },
+  {
+    "policy": "static_exact",
+    "budget_proxy_s": 60,
+    "route": [
+      4,
+      3
+    ],
+    "distance_m": 129.84780980870872,
+    "return_distance_m": 60.983956975921565,
+    "elapsed_proxy_s": 46.969561961741746,
+    "planning_calls": 1,
+    "observations": [
+      {
+        "index": 4,
+        "source_label": 0,
+        "arrival_proxy_s": 7.331707810471902,
+        "observation_complete_proxy_s": 17.3317078104719,
+        "leg_m": 31.658539052359508,
+        "score_before_observation": 0.36468496918678284
+      },
+      {
+        "index": 3,
+        "source_label": null,
+        "arrival_proxy_s": 24.772770566557433,
+        "observation_complete_proxy_s": 34.77277056655743,
+        "leg_m": 37.20531378042765,
+        "score_before_observation": 0.36697953939437866
+      }
+    ],
+    "decisions": [
+      {
+        "decision_number": 1,
+        "elapsed_proxy_s": 1.0,
+        "observed_indices": [],
+        "feasible_indices": [
+          4
+        ],
+        "target": 4,
+        "position_before": 6,
+        "scores": [
+          0.364641010761261,
+          0.3081253468990326,
+          0.3836459815502167,
+          0.36697953939437866,
+          0.36468496918678284,
+          0.3273361623287201
+        ],
+        "return_reserve_s": 6.331707810471902
+      },
+      {
+        "decision_number": 1,
+        "elapsed_proxy_s": 17.3317078104719,
+        "observed_indices": [
+          4
+        ],
+        "feasible_indices": [
+          3
+        ],
+        "target": 3,
+        "position_before": 4,
+        "scores": [
+          0.364641010761261,
+          0.3081253468990326,
+          0.3836459815502167,
+          0.36697953939437866,
+          0.36468496918678284,
+          0.3273361623287201
+        ],
+        "return_reserve_s": 12.196791395184313
+      }
+    ],
+    "updates": [],
+    "returned_home": true,
+    "budget_slack_s": 13.030438038258254,
+    "certificate": {
+      "subset_mask": 24,
+      "public_objective": 0.7316645085811615,
+      "upper_bound": 0.7316645085811615,
+      "gap": 0.0,
+      "subsets": 64,
+      "feasible_subsets": 13
+    },
+    "solver_wall_seconds": 5.675001011695713e-05,
+    "case": "case_rank06",
+    "scene": "1001-McGregor-College-Pkwy-South.1.geo.tif",
+    "label_access_indices": [
+      4,
+      3
+    ],
+    "route_building_ids": [
+      "f06d1fe54902471093a95f711c0e0611",
+      "bdefc9615220408892b1ce1a85d9a4bb"
+    ],
+    "source_positive_checks": 0,
+    "first_positive_check_proxy_s": null,
+    "unknown_source_checks": 1,
+    "source_severe_checks": 0
+  },
+  {
+    "policy": "no_update",
+    "budget_proxy_s": 60,
+    "route": [
+      4,
+      3
+    ],
+    "distance_m": 129.84780980870872,
+    "return_distance_m": 60.983956975921565,
+    "elapsed_proxy_s": 48.969561961741746,
+    "planning_calls": 3,
+    "observations": [
+      {
+        "index": 4,
+        "source_label": 0,
+        "arrival_proxy_s": 7.331707810471902,
+        "observation_complete_proxy_s": 17.3317078104719,
+        "leg_m": 31.658539052359508,
+        "score_before_observation": 0.36468496918678284
+      },
+      {
+        "index": 3,
+        "source_label": null,
+        "arrival_proxy_s": 25.772770566557433,
+        "observation_complete_proxy_s": 35.77277056655743,
+        "leg_m": 37.20531378042765,
+        "score_before_observation": 0.36697953939437866
+      }
+    ],
+    "decisions": [
+      {
+        "decision_number": 1,
+        "elapsed_proxy_s": 1.0,
+        "observed_indices": [],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "target": 4,
+        "position_before": 6,
+        "scores": [
+          0.364641010761261,
+          0.3081253468990326,
+          0.3836459815502167,
+          0.36697953939437866,
+          0.36468496918678284,
+          0.3273361623287201
+        ],
+        "return_reserve_s": 6.331707810471902
+      },
+      {
+        "decision_number": 2,
+        "elapsed_proxy_s": 18.3317078104719,
+        "observed_indices": [
+          4
+        ],
+        "feasible_indices": [
+          0,
+          3,
+          5
+        ],
+        "target": 3,
+        "position_before": 4,
+        "scores": [
+          0.364641010761261,
+          0.3081253468990326,
+          0.3836459815502167,
+          0.36697953939437866,
+          0.36468496918678284,
+          0.3273361623287201
+        ],
+        "return_reserve_s": 12.196791395184313
+      },
+      {
+        "decision_number": 3,
+        "elapsed_proxy_s": 36.77277056655743,
+        "observed_indices": [
+          3,
+          4
+        ],
+        "feasible_indices": [],
+        "target": null
+      }
+    ],
+    "updates": [],
+    "returned_home": true,
+    "budget_slack_s": 11.030438038258254,
+    "certificate": null,
+    "solver_wall_seconds": 3.470800584182143e-05,
+    "case": "case_rank06",
+    "scene": "1001-McGregor-College-Pkwy-South.1.geo.tif",
+    "label_access_indices": [
+      4,
+      3
+    ],
+    "route_building_ids": [
+      "f06d1fe54902471093a95f711c0e0611",
+      "bdefc9615220408892b1ce1a85d9a4bb"
+    ],
+    "source_positive_checks": 0,
+    "first_positive_check_proxy_s": null,
+    "unknown_source_checks": 1,
+    "source_severe_checks": 0
+  },
+  {
+    "policy": "spatial",
+    "budget_proxy_s": 60,
+    "route": [
+      4,
+      3
+    ],
+    "distance_m": 129.84780980870872,
+    "return_distance_m": 60.983956975921565,
+    "elapsed_proxy_s": 48.969561961741746,
+    "planning_calls": 3,
+    "observations": [
+      {
+        "index": 4,
+        "source_label": 0,
+        "arrival_proxy_s": 7.331707810471902,
+        "observation_complete_proxy_s": 17.3317078104719,
+        "leg_m": 31.658539052359508,
+        "score_before_observation": 0.36468496918678284
+      },
+      {
+        "index": 3,
+        "source_label": null,
+        "arrival_proxy_s": 25.772770566557433,
+        "observation_complete_proxy_s": 35.77277056655743,
+        "leg_m": 37.20531378042765,
+        "score_before_observation": 0.22873285913545052
+      }
+    ],
+    "decisions": [
+      {
+        "decision_number": 1,
+        "elapsed_proxy_s": 1.0,
+        "observed_indices": [],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "target": 4,
+        "position_before": 6,
+        "scores": [
+          0.364641010761261,
+          0.3081253468990326,
+          0.3836459815502167,
+          0.36697953939437866,
+          0.36468496918678284,
+          0.3273361623287201
+        ],
+        "return_reserve_s": 6.331707810471902
+      },
+      {
+        "decision_number": 2,
+        "elapsed_proxy_s": 18.3317078104719,
+        "observed_indices": [
+          4
+        ],
+        "feasible_indices": [
+          0,
+          3,
+          5
+        ],
+        "target": 3,
+        "position_before": 4,
+        "scores": [
+          0.2821157444260479,
+          0.2737525048748177,
+          0.3699506738594454,
+          0.22873285913545052,
+          0.36468496918678284,
+          0.24603953837068443
+        ],
+        "return_reserve_s": 12.196791395184313
+      },
+      {
+        "decision_number": 3,
+        "elapsed_proxy_s": 36.77277056655743,
+        "observed_indices": [
+          3,
+          4
+        ],
+        "feasible_indices": [],
+        "target": null
+      }
+    ],
+    "updates": [
+      {
+        "anchor_index": 4,
+        "feedback": 0,
+        "anchor_score_before": 0.36468496918678284,
+        "residual": -0.36468496918678284,
+        "visited_indices": [
+          4
+        ],
+        "gain": 0.5,
+        "hypothetical_pearson_mean_change": 0.04507646170299377,
+        "actual_mean_change": 0.0700273440534326,
+        "scores_before": [
+          0.364641010761261,
+          0.3081253468990326,
+          0.3836459815502167,
+          0.36697953939437866,
+          0.36468496918678284,
+          0.3273361623287201
+        ],
+        "scores_after": [
+          0.2821157444260479,
+          0.2737525048748177,
+          0.3699506738594454,
+          0.22873285913545052,
+          0.36468496918678284,
+          0.24603953837068443
+        ],
+        "decision_number": 2
+      }
+    ],
+    "returned_home": true,
+    "budget_slack_s": 11.030438038258254,
+    "certificate": null,
+    "solver_wall_seconds": 5.8959005400538445e-05,
+    "case": "case_rank06",
+    "scene": "1001-McGregor-College-Pkwy-South.1.geo.tif",
+    "label_access_indices": [
+      4,
+      3
+    ],
+    "route_building_ids": [
+      "f06d1fe54902471093a95f711c0e0611",
+      "bdefc9615220408892b1ce1a85d9a4bb"
+    ],
+    "source_positive_checks": 0,
+    "first_positive_check_proxy_s": null,
+    "unknown_source_checks": 1,
+    "source_severe_checks": 0
+  },
+  {
+    "policy": "matched_spatial",
+    "budget_proxy_s": 60,
+    "route": [
+      4,
+      3
+    ],
+    "distance_m": 129.84780980870872,
+    "return_distance_m": 60.983956975921565,
+    "elapsed_proxy_s": 48.969561961741746,
+    "planning_calls": 3,
+    "observations": [
+      {
+        "index": 4,
+        "source_label": 0,
+        "arrival_proxy_s": 7.331707810471902,
+        "observation_complete_proxy_s": 17.3317078104719,
+        "leg_m": 31.658539052359508,
+        "score_before_observation": 0.36468496918678284
+      },
+      {
+        "index": 3,
+        "source_label": null,
+        "arrival_proxy_s": 25.772770566557433,
+        "observation_complete_proxy_s": 35.77277056655743,
+        "leg_m": 37.20531378042765,
+        "score_before_observation": 0.27799042703417437
+      }
+    ],
+    "decisions": [
+      {
+        "decision_number": 1,
+        "elapsed_proxy_s": 1.0,
+        "observed_indices": [],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "target": 4,
+        "position_before": 6,
+        "scores": [
+          0.364641010761261,
+          0.3081253468990326,
+          0.3836459815502167,
+          0.36697953939437866,
+          0.36468496918678284,
+          0.3273361623287201
+        ],
+        "return_reserve_s": 6.331707810471902
+      },
+      {
+        "decision_number": 2,
+        "elapsed_proxy_s": 18.3317078104719,
+        "observed_indices": [
+          4
+        ],
+        "feasible_indices": [
+          0,
+          3,
+          5
+        ],
+        "target": 3,
+        "position_before": 4,
+        "scores": [
+          0.3115196614116386,
+          0.2859996170420593,
+          0.37483033930391463,
+          0.27799042703417437,
+          0.36468496918678284,
+          0.2750056876268533
+        ],
+        "return_reserve_s": 12.196791395184313
+      },
+      {
+        "decision_number": 3,
+        "elapsed_proxy_s": 36.77277056655743,
+        "observed_indices": [
+          3,
+          4
+        ],
+        "feasible_indices": [],
+        "target": null
+      }
+    ],
+    "updates": [
+      {
+        "anchor_index": 4,
+        "feedback": 0,
+        "anchor_score_before": 0.36468496918678284,
+        "residual": -0.36468496918678284,
+        "visited_indices": [
+          4
+        ],
+        "gain": 0.3218490027881059,
+        "hypothetical_pearson_mean_change": 0.04507646170299377,
+        "actual_mean_change": 0.045076461702993766,
+        "scores_before": [
+          0.364641010761261,
+          0.3081253468990326,
+          0.3836459815502167,
+          0.36697953939437866,
+          0.36468496918678284,
+          0.3273361623287201
+        ],
+        "scores_after": [
+          0.3115196614116386,
+          0.2859996170420593,
+          0.37483033930391463,
+          0.27799042703417437,
+          0.36468496918678284,
+          0.2750056876268533
+        ],
+        "decision_number": 2
+      }
+    ],
+    "returned_home": true,
+    "budget_slack_s": 11.030438038258254,
+    "certificate": null,
+    "solver_wall_seconds": 0.0003689579898491502,
+    "case": "case_rank06",
+    "scene": "1001-McGregor-College-Pkwy-South.1.geo.tif",
+    "label_access_indices": [
+      4,
+      3
+    ],
+    "route_building_ids": [
+      "f06d1fe54902471093a95f711c0e0611",
+      "bdefc9615220408892b1ce1a85d9a4bb"
+    ],
+    "source_positive_checks": 0,
+    "first_positive_check_proxy_s": null,
+    "unknown_source_checks": 1,
+    "source_severe_checks": 0
+  },
+  {
+    "policy": "pearson",
+    "budget_proxy_s": 60,
+    "route": [
+      4,
+      3
+    ],
+    "distance_m": 129.84780980870872,
+    "return_distance_m": 60.983956975921565,
+    "elapsed_proxy_s": 48.969561961741746,
+    "planning_calls": 3,
+    "observations": [
+      {
+        "index": 4,
+        "source_label": 0,
+        "arrival_proxy_s": 7.331707810471902,
+        "observation_complete_proxy_s": 17.3317078104719,
+        "leg_m": 31.658539052359508,
+        "score_before_observation": 0.36468496918678284
+      },
+      {
+        "index": 3,
+        "source_label": null,
+        "arrival_proxy_s": 25.772770566557433,
+        "observation_complete_proxy_s": 35.77277056655743,
+        "leg_m": 37.20531378042765,
+        "score_before_observation": 0.28947179881126245
+      }
+    ],
+    "decisions": [
+      {
+        "decision_number": 1,
+        "elapsed_proxy_s": 1.0,
+        "observed_indices": [],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "target": 4,
+        "position_before": 6,
+        "scores": [
+          0.364641010761261,
+          0.3081253468990326,
+          0.3836459815502167,
+          0.36697953939437866,
+          0.36468496918678284,
+          0.3273361623287201
+        ],
+        "return_reserve_s": 6.331707810471902
+      },
+      {
+        "decision_number": 2,
+        "elapsed_proxy_s": 18.3317078104719,
+        "observed_indices": [
+          4
+        ],
+        "feasible_indices": [
+          0,
+          3,
+          5
+        ],
+        "target": 3,
+        "position_before": 4,
+        "scores": [
+          0.30972017906054566,
+          0.3041392394180162,
+          0.3706863054857894,
+          0.28947179881126245,
+          0.36468496918678284,
+          0.25132820964302643
+        ],
+        "return_reserve_s": 12.196791395184313
+      },
+      {
+        "decision_number": 3,
+        "elapsed_proxy_s": 36.77277056655743,
+        "observed_indices": [
+          3,
+          4
+        ],
+        "feasible_indices": [],
+        "target": null
+      }
+    ],
+    "updates": [
+      {
+        "anchor_index": 4,
+        "feedback": 0,
+        "anchor_score_before": 0.36468496918678284,
+        "residual": -0.36468496918678284,
+        "visited_indices": [
+          4
+        ],
+        "gain": 0.5,
+        "hypothetical_pearson_mean_change": 0.04507646170299377,
+        "actual_mean_change": 0.04507646170299377,
+        "scores_before": [
+          0.364641010761261,
+          0.3081253468990326,
+          0.3836459815502167,
+          0.36697953939437866,
+          0.36468496918678284,
+          0.3273361623287201
+        ],
+        "scores_after": [
+          0.30972017906054566,
+          0.3041392394180162,
+          0.3706863054857894,
+          0.28947179881126245,
+          0.36468496918678284,
+          0.25132820964302643
+        ],
+        "decision_number": 2
+      }
+    ],
+    "returned_home": true,
+    "budget_slack_s": 11.030438038258254,
+    "certificate": null,
+    "solver_wall_seconds": 4.6832996304146945e-05,
+    "case": "case_rank06",
+    "scene": "1001-McGregor-College-Pkwy-South.1.geo.tif",
+    "label_access_indices": [
+      4,
+      3
+    ],
+    "route_building_ids": [
+      "f06d1fe54902471093a95f711c0e0611",
+      "bdefc9615220408892b1ce1a85d9a4bb"
+    ],
+    "source_positive_checks": 0,
+    "first_positive_check_proxy_s": null,
+    "unknown_source_checks": 1,
+    "source_severe_checks": 0
+  },
+  {
+    "policy": "distance",
+    "budget_proxy_s": 100,
+    "route": [
+      4,
+      3,
+      5,
+      1
+    ],
+    "distance_m": 230.64238442327377,
+    "return_distance_m": 101.38505491098705,
+    "elapsed_proxy_s": 91.12847688465476,
+    "planning_calls": 5,
+    "observations": [
+      {
+        "index": 4,
+        "source_label": 0,
+        "arrival_proxy_s": 7.331707810471902,
+        "observation_complete_proxy_s": 17.3317078104719,
+        "leg_m": 31.658539052359508,
+        "score_before_observation": 0.36468496918678284
+      },
+      {
+        "index": 3,
+        "source_label": null,
+        "arrival_proxy_s": 25.772770566557433,
+        "observation_complete_proxy_s": 35.77277056655743,
+        "leg_m": 37.20531378042765,
+        "score_before_observation": 0.36697953939437866
+      },
+      {
+        "index": 5,
+        "source_label": 0,
+        "arrival_proxy_s": 43.23917052879952,
+        "observation_complete_proxy_s": 53.23917052879952,
+        "leg_m": 32.33199981121044,
+        "score_before_observation": 0.3273361623287201
+      },
+      {
+        "index": 1,
+        "source_label": null,
+        "arrival_proxy_s": 59.85146590245735,
+        "observation_complete_proxy_s": 69.85146590245735,
+        "leg_m": 28.06147686828914,
+        "score_before_observation": 0.3081253468990326
+      }
+    ],
+    "decisions": [
+      {
+        "decision_number": 1,
+        "elapsed_proxy_s": 1.0,
+        "observed_indices": [],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "target": 4,
+        "position_before": 6,
+        "scores": [
+          0.364641010761261,
+          0.3081253468990326,
+          0.3836459815502167,
+          0.36697953939437866,
+          0.36468496918678284,
+          0.3273361623287201
+        ],
+        "return_reserve_s": 6.331707810471902
+      },
+      {
+        "decision_number": 2,
+        "elapsed_proxy_s": 18.3317078104719,
+        "observed_indices": [
+          4
+        ],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          3,
+          5
+        ],
+        "target": 3,
+        "position_before": 4,
+        "scores": [
+          0.364641010761261,
+          0.3081253468990326,
+          0.3836459815502167,
+          0.36697953939437866,
+          0.36468496918678284,
+          0.3273361623287201
+        ],
+        "return_reserve_s": 12.196791395184313
+      },
+      {
+        "decision_number": 3,
+        "elapsed_proxy_s": 36.77277056655743,
+        "observed_indices": [
+          3,
+          4
+        ],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          5
+        ],
+        "target": 5,
+        "position_before": 3,
+        "scores": [
+          0.364641010761261,
+          0.3081253468990326,
+          0.3836459815502167,
+          0.36697953939437866,
+          0.36468496918678284,
+          0.3273361623287201
+        ],
+        "return_reserve_s": 15.353765183565041
+      },
+      {
+        "decision_number": 4,
+        "elapsed_proxy_s": 54.23917052879952,
+        "observed_indices": [
+          3,
+          4,
+          5
+        ],
+        "feasible_indices": [
+          0,
+          1,
+          2
+        ],
+        "target": 1,
+        "position_before": 5,
+        "scores": [
+          0.364641010761261,
+          0.3081253468990326,
+          0.3836459815502167,
+          0.36697953939437866,
+          0.36468496918678284,
+          0.3273361623287201
+        ],
+        "return_reserve_s": 20.27701098219741
+      },
+      {
+        "decision_number": 5,
+        "elapsed_proxy_s": 70.85146590245735,
+        "observed_indices": [
+          1,
+          3,
+          4,
+          5
+        ],
+        "feasible_indices": [],
+        "target": null
+      }
+    ],
+    "updates": [],
+    "returned_home": true,
+    "budget_slack_s": 8.87152311534524,
+    "certificate": null,
+    "solver_wall_seconds": 4.991699825040996e-05,
+    "case": "case_rank06",
+    "scene": "1001-McGregor-College-Pkwy-South.1.geo.tif",
+    "label_access_indices": [
+      4,
+      3,
+      5,
+      1
+    ],
+    "route_building_ids": [
+      "f06d1fe54902471093a95f711c0e0611",
+      "bdefc9615220408892b1ce1a85d9a4bb",
+      "fea8cc3548eb40818e499eb3589b70fd",
+      "661d111f5df744fb9d9c2dbaa285cfcc"
+    ],
+    "source_positive_checks": 0,
+    "first_positive_check_proxy_s": null,
+    "unknown_source_checks": 2,
+    "source_severe_checks": 0
+  },
+  {
+    "policy": "static_exact",
+    "budget_proxy_s": 100,
+    "route": [
+      4,
+      3,
+      2,
+      0
+    ],
+    "distance_m": 273.9158429388825,
+    "return_distance_m": 49.1720301279922,
+    "elapsed_proxy_s": 95.78316858777652,
+    "planning_calls": 1,
+    "observations": [
+      {
+        "index": 4,
+        "source_label": 0,
+        "arrival_proxy_s": 7.331707810471902,
+        "observation_complete_proxy_s": 17.3317078104719,
+        "leg_m": 31.658539052359508,
+        "score_before_observation": 0.36468496918678284
+      },
+      {
+        "index": 3,
+        "source_label": null,
+        "arrival_proxy_s": 24.772770566557433,
+        "observation_complete_proxy_s": 34.77277056655743,
+        "leg_m": 37.20531378042765,
+        "score_before_observation": 0.36697953939437866
+      },
+      {
+        "index": 2,
+        "source_label": 0,
+        "arrival_proxy_s": 53.8350024832438,
+        "observation_complete_proxy_s": 63.8350024832438,
+        "leg_m": 95.31115958343182,
+        "score_before_observation": 0.3836459815502167
+      },
+      {
+        "index": 0,
+        "source_label": 1,
+        "arrival_proxy_s": 75.94876256217808,
+        "observation_complete_proxy_s": 85.94876256217808,
+        "leg_m": 60.56880039467135,
+        "score_before_observation": 0.364641010761261
+      }
+    ],
+    "decisions": [
+      {
+        "decision_number": 1,
+        "elapsed_proxy_s": 1.0,
+        "observed_indices": [],
+        "feasible_indices": [
+          4
+        ],
+        "target": 4,
+        "position_before": 6,
+        "scores": [
+          0.364641010761261,
+          0.3081253468990326,
+          0.3836459815502167,
+          0.36697953939437866,
+          0.36468496918678284,
+          0.3273361623287201
+        ],
+        "return_reserve_s": 6.331707810471902
+      },
+      {
+        "decision_number": 1,
+        "elapsed_proxy_s": 17.3317078104719,
+        "observed_indices": [
+          4
+        ],
+        "feasible_indices": [
+          3
+        ],
+        "target": 3,
+        "position_before": 4,
+        "scores": [
+          0.364641010761261,
+          0.3081253468990326,
+          0.3836459815502167,
+          0.36697953939437866,
+          0.36468496918678284,
+          0.3273361623287201
+        ],
+        "return_reserve_s": 12.196791395184313
+      },
+      {
+        "decision_number": 1,
+        "elapsed_proxy_s": 34.77277056655743,
+        "observed_indices": [
+          3,
+          4
+        ],
+        "feasible_indices": [
+          2
+        ],
+        "target": 2,
+        "position_before": 3,
+        "scores": [
+          0.364641010761261,
+          0.3081253468990326,
+          0.3836459815502167,
+          0.36697953939437866,
+          0.36468496918678284,
+          0.3273361623287201
+        ],
+        "return_reserve_s": 21.732111122820445
+      },
+      {
+        "decision_number": 1,
+        "elapsed_proxy_s": 63.8350024832438,
+        "observed_indices": [
+          2,
+          3,
+          4
+        ],
+        "feasible_indices": [
+          0
+        ],
+        "target": 0,
+        "position_before": 2,
+        "scores": [
+          0.364641010761261,
+          0.3081253468990326,
+          0.3836459815502167,
+          0.36697953939437866,
+          0.36468496918678284,
+          0.3273361623287201
+        ],
+        "return_reserve_s": 9.83440602559844
+      }
+    ],
+    "updates": [],
+    "returned_home": true,
+    "budget_slack_s": 4.216831412223485,
+    "certificate": {
+      "subset_mask": 29,
+      "public_objective": 1.4799515008926392,
+      "upper_bound": 1.4799515008926392,
+      "gap": 0.0,
+      "subsets": 64,
+      "feasible_subsets": 57
+    },
+    "solver_wall_seconds": 5.820799560751766e-05,
+    "case": "case_rank06",
+    "scene": "1001-McGregor-College-Pkwy-South.1.geo.tif",
+    "label_access_indices": [
+      4,
+      3,
+      2,
+      0
+    ],
+    "route_building_ids": [
+      "f06d1fe54902471093a95f711c0e0611",
+      "bdefc9615220408892b1ce1a85d9a4bb",
+      "b4a53a6955b345d29e60b8bafde493ca",
+      "12f35ab99a0a4a8280ca89f65e53a3d6"
+    ],
+    "source_positive_checks": 1,
+    "first_positive_check_proxy_s": 85.94876256217808,
+    "unknown_source_checks": 1,
+    "source_severe_checks": 1
+  },
+  {
+    "policy": "no_update",
+    "budget_proxy_s": 100,
+    "route": [
+      4,
+      3,
+      5,
+      1
+    ],
+    "distance_m": 230.64238442327377,
+    "return_distance_m": 101.38505491098705,
+    "elapsed_proxy_s": 91.12847688465476,
+    "planning_calls": 5,
+    "observations": [
+      {
+        "index": 4,
+        "source_label": 0,
+        "arrival_proxy_s": 7.331707810471902,
+        "observation_complete_proxy_s": 17.3317078104719,
+        "leg_m": 31.658539052359508,
+        "score_before_observation": 0.36468496918678284
+      },
+      {
+        "index": 3,
+        "source_label": null,
+        "arrival_proxy_s": 25.772770566557433,
+        "observation_complete_proxy_s": 35.77277056655743,
+        "leg_m": 37.20531378042765,
+        "score_before_observation": 0.36697953939437866
+      },
+      {
+        "index": 5,
+        "source_label": 0,
+        "arrival_proxy_s": 43.23917052879952,
+        "observation_complete_proxy_s": 53.23917052879952,
+        "leg_m": 32.33199981121044,
+        "score_before_observation": 0.3273361623287201
+      },
+      {
+        "index": 1,
+        "source_label": null,
+        "arrival_proxy_s": 59.85146590245735,
+        "observation_complete_proxy_s": 69.85146590245735,
+        "leg_m": 28.06147686828914,
+        "score_before_observation": 0.3081253468990326
+      }
+    ],
+    "decisions": [
+      {
+        "decision_number": 1,
+        "elapsed_proxy_s": 1.0,
+        "observed_indices": [],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "target": 4,
+        "position_before": 6,
+        "scores": [
+          0.364641010761261,
+          0.3081253468990326,
+          0.3836459815502167,
+          0.36697953939437866,
+          0.36468496918678284,
+          0.3273361623287201
+        ],
+        "return_reserve_s": 6.331707810471902
+      },
+      {
+        "decision_number": 2,
+        "elapsed_proxy_s": 18.3317078104719,
+        "observed_indices": [
+          4
+        ],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          3,
+          5
+        ],
+        "target": 3,
+        "position_before": 4,
+        "scores": [
+          0.364641010761261,
+          0.3081253468990326,
+          0.3836459815502167,
+          0.36697953939437866,
+          0.36468496918678284,
+          0.3273361623287201
+        ],
+        "return_reserve_s": 12.196791395184313
+      },
+      {
+        "decision_number": 3,
+        "elapsed_proxy_s": 36.77277056655743,
+        "observed_indices": [
+          3,
+          4
+        ],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          5
+        ],
+        "target": 5,
+        "position_before": 3,
+        "scores": [
+          0.364641010761261,
+          0.3081253468990326,
+          0.3836459815502167,
+          0.36697953939437866,
+          0.36468496918678284,
+          0.3273361623287201
+        ],
+        "return_reserve_s": 15.353765183565041
+      },
+      {
+        "decision_number": 4,
+        "elapsed_proxy_s": 54.23917052879952,
+        "observed_indices": [
+          3,
+          4,
+          5
+        ],
+        "feasible_indices": [
+          0,
+          1,
+          2
+        ],
+        "target": 1,
+        "position_before": 5,
+        "scores": [
+          0.364641010761261,
+          0.3081253468990326,
+          0.3836459815502167,
+          0.36697953939437866,
+          0.36468496918678284,
+          0.3273361623287201
+        ],
+        "return_reserve_s": 20.27701098219741
+      },
+      {
+        "decision_number": 5,
+        "elapsed_proxy_s": 70.85146590245735,
+        "observed_indices": [
+          1,
+          3,
+          4,
+          5
+        ],
+        "feasible_indices": [],
+        "target": null
+      }
+    ],
+    "updates": [],
+    "returned_home": true,
+    "budget_slack_s": 8.87152311534524,
+    "certificate": null,
+    "solver_wall_seconds": 5.154201062396169e-05,
+    "case": "case_rank06",
+    "scene": "1001-McGregor-College-Pkwy-South.1.geo.tif",
+    "label_access_indices": [
+      4,
+      3,
+      5,
+      1
+    ],
+    "route_building_ids": [
+      "f06d1fe54902471093a95f711c0e0611",
+      "bdefc9615220408892b1ce1a85d9a4bb",
+      "fea8cc3548eb40818e499eb3589b70fd",
+      "661d111f5df744fb9d9c2dbaa285cfcc"
+    ],
+    "source_positive_checks": 0,
+    "first_positive_check_proxy_s": null,
+    "unknown_source_checks": 2,
+    "source_severe_checks": 0
+  },
+  {
+    "policy": "spatial",
+    "budget_proxy_s": 100,
+    "route": [
+      4,
+      3,
+      5,
+      1
+    ],
+    "distance_m": 230.64238442327377,
+    "return_distance_m": 101.38505491098705,
+    "elapsed_proxy_s": 91.12847688465476,
+    "planning_calls": 5,
+    "observations": [
+      {
+        "index": 4,
+        "source_label": 0,
+        "arrival_proxy_s": 7.331707810471902,
+        "observation_complete_proxy_s": 17.3317078104719,
+        "leg_m": 31.658539052359508,
+        "score_before_observation": 0.36468496918678284
+      },
+      {
+        "index": 3,
+        "source_label": null,
+        "arrival_proxy_s": 25.772770566557433,
+        "observation_complete_proxy_s": 35.77277056655743,
+        "leg_m": 37.20531378042765,
+        "score_before_observation": 0.22873285913545052
+      },
+      {
+        "index": 5,
+        "source_label": 0,
+        "arrival_proxy_s": 43.23917052879952,
+        "observation_complete_proxy_s": 53.23917052879952,
+        "leg_m": 32.33199981121044,
+        "score_before_observation": 0.24603953837068443
+      },
+      {
+        "index": 1,
+        "source_label": null,
+        "arrival_proxy_s": 59.85146590245735,
+        "observation_complete_proxy_s": 69.85146590245735,
+        "leg_m": 28.06147686828914,
+        "score_before_observation": 0.1686584436081967
+      }
+    ],
+    "decisions": [
+      {
+        "decision_number": 1,
+        "elapsed_proxy_s": 1.0,
+        "observed_indices": [],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "target": 4,
+        "position_before": 6,
+        "scores": [
+          0.364641010761261,
+          0.3081253468990326,
+          0.3836459815502167,
+          0.36697953939437866,
+          0.36468496918678284,
+          0.3273361623287201
+        ],
+        "return_reserve_s": 6.331707810471902
+      },
+      {
+        "decision_number": 2,
+        "elapsed_proxy_s": 18.3317078104719,
+        "observed_indices": [
+          4
+        ],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          3,
+          5
+        ],
+        "target": 3,
+        "position_before": 4,
+        "scores": [
+          0.2821157444260479,
+          0.2737525048748177,
+          0.3699506738594454,
+          0.22873285913545052,
+          0.36468496918678284,
+          0.24603953837068443
+        ],
+        "return_reserve_s": 12.196791395184313
+      },
+      {
+        "decision_number": 3,
+        "elapsed_proxy_s": 36.77277056655743,
+        "observed_indices": [
+          3,
+          4
+        ],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          5
+        ],
+        "target": 5,
+        "position_before": 3,
+        "scores": [
+          0.2821157444260479,
+          0.2737525048748177,
+          0.3699506738594454,
+          0.22873285913545052,
+          0.36468496918678284,
+          0.24603953837068443
+        ],
+        "return_reserve_s": 15.353765183565041
+      },
+      {
+        "decision_number": 4,
+        "elapsed_proxy_s": 54.23917052879952,
+        "observed_indices": [
+          3,
+          4,
+          5
+        ],
+        "feasible_indices": [
+          0,
+          1,
+          2
+        ],
+        "target": 1,
+        "position_before": 5,
+        "scores": [
+          0.21556584685733568,
+          0.1686584436081967,
+          0.3188967326593114,
+          0.22873285913545052,
+          0.36468496918678284,
+          0.24603953837068443
+        ],
+        "return_reserve_s": 20.27701098219741
+      },
+      {
+        "decision_number": 5,
+        "elapsed_proxy_s": 70.85146590245735,
+        "observed_indices": [
+          1,
+          3,
+          4,
+          5
+        ],
+        "feasible_indices": [],
+        "target": null
+      }
+    ],
+    "updates": [
+      {
+        "anchor_index": 4,
+        "feedback": 0,
+        "anchor_score_before": 0.36468496918678284,
+        "residual": -0.36468496918678284,
+        "visited_indices": [
+          4
+        ],
+        "gain": 0.5,
+        "hypothetical_pearson_mean_change": 0.04507646170299377,
+        "actual_mean_change": 0.0700273440534326,
+        "scores_before": [
+          0.364641010761261,
+          0.3081253468990326,
+          0.3836459815502167,
+          0.36697953939437866,
+          0.36468496918678284,
+          0.3273361623287201
+        ],
+        "scores_after": [
+          0.2821157444260479,
+          0.2737525048748177,
+          0.3699506738594454,
+          0.22873285913545052,
+          0.36468496918678284,
+          0.24603953837068443
+        ],
+        "decision_number": 2
+      },
+      {
+        "anchor_index": 5,
+        "feedback": 0,
+        "anchor_score_before": 0.24603953837068443,
+        "residual": -0.24603953837068443,
+        "visited_indices": [
+          3,
+          4,
+          5
+        ],
+        "gain": 0.5,
+        "hypothetical_pearson_mean_change": 0.025015490190439898,
+        "actual_mean_change": 0.07423263334515576,
+        "scores_before": [
+          0.2821157444260479,
+          0.2737525048748177,
+          0.3699506738594454,
+          0.22873285913545052,
+          0.36468496918678284,
+          0.24603953837068443
+        ],
+        "scores_after": [
+          0.21556584685733568,
+          0.1686584436081967,
+          0.3188967326593114,
+          0.22873285913545052,
+          0.36468496918678284,
+          0.24603953837068443
+        ],
+        "decision_number": 4
+      }
+    ],
+    "returned_home": true,
+    "budget_slack_s": 8.87152311534524,
+    "certificate": null,
+    "solver_wall_seconds": 8.441699901595712e-05,
+    "case": "case_rank06",
+    "scene": "1001-McGregor-College-Pkwy-South.1.geo.tif",
+    "label_access_indices": [
+      4,
+      3,
+      5,
+      1
+    ],
+    "route_building_ids": [
+      "f06d1fe54902471093a95f711c0e0611",
+      "bdefc9615220408892b1ce1a85d9a4bb",
+      "fea8cc3548eb40818e499eb3589b70fd",
+      "661d111f5df744fb9d9c2dbaa285cfcc"
+    ],
+    "source_positive_checks": 0,
+    "first_positive_check_proxy_s": null,
+    "unknown_source_checks": 2,
+    "source_severe_checks": 0
+  },
+  {
+    "policy": "matched_spatial",
+    "budget_proxy_s": 100,
+    "route": [
+      4,
+      3,
+      5,
+      1
+    ],
+    "distance_m": 230.64238442327377,
+    "return_distance_m": 101.38505491098705,
+    "elapsed_proxy_s": 91.12847688465476,
+    "planning_calls": 5,
+    "observations": [
+      {
+        "index": 4,
+        "source_label": 0,
+        "arrival_proxy_s": 7.331707810471902,
+        "observation_complete_proxy_s": 17.3317078104719,
+        "leg_m": 31.658539052359508,
+        "score_before_observation": 0.36468496918678284
+      },
+      {
+        "index": 3,
+        "source_label": null,
+        "arrival_proxy_s": 25.772770566557433,
+        "observation_complete_proxy_s": 35.77277056655743,
+        "leg_m": 37.20531378042765,
+        "score_before_observation": 0.27799042703417437
+      },
+      {
+        "index": 5,
+        "source_label": 0,
+        "arrival_proxy_s": 43.23917052879952,
+        "observation_complete_proxy_s": 53.23917052879952,
+        "leg_m": 32.33199981121044,
+        "score_before_observation": 0.2750056876268533
+      },
+      {
+        "index": 1,
+        "source_label": null,
+        "arrival_proxy_s": 59.85146590245735,
+        "observation_complete_proxy_s": 69.85146590245735,
+        "leg_m": 28.06147686828914,
+        "score_before_observation": 0.24641475842488955
+      }
+    ],
+    "decisions": [
+      {
+        "decision_number": 1,
+        "elapsed_proxy_s": 1.0,
+        "observed_indices": [],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "target": 4,
+        "position_before": 6,
+        "scores": [
+          0.364641010761261,
+          0.3081253468990326,
+          0.3836459815502167,
+          0.36697953939437866,
+          0.36468496918678284,
+          0.3273361623287201
+        ],
+        "return_reserve_s": 6.331707810471902
+      },
+      {
+        "decision_number": 2,
+        "elapsed_proxy_s": 18.3317078104719,
+        "observed_indices": [
+          4
+        ],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          3,
+          5
+        ],
+        "target": 3,
+        "position_before": 4,
+        "scores": [
+          0.3115196614116386,
+          0.2859996170420593,
+          0.37483033930391463,
+          0.27799042703417437,
+          0.36468496918678284,
+          0.2750056876268533
+        ],
+        "return_reserve_s": 12.196791395184313
+      },
+      {
+        "decision_number": 3,
+        "elapsed_proxy_s": 36.77277056655743,
+        "observed_indices": [
+          3,
+          4
+        ],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          5
+        ],
+        "target": 5,
+        "position_before": 3,
+        "scores": [
+          0.3115196614116386,
+          0.2859996170420593,
+          0.37483033930391463,
+          0.27799042703417437,
+          0.36468496918678284,
+          0.2750056876268533
+        ],
+        "return_reserve_s": 15.353765183565041
+      },
+      {
+        "decision_number": 4,
+        "elapsed_proxy_s": 54.23917052879952,
+        "observed_indices": [
+          3,
+          4,
+          5
+        ],
+        "feasible_indices": [
+          0,
+          1,
+          2
+        ],
+        "target": 1,
+        "position_before": 5,
+        "scores": [
+          0.2864528949883554,
+          0.24641475842488955,
+          0.3556002989010657,
+          0.27799042703417437,
+          0.36468496918678284,
+          0.2750056876268533
+        ],
+        "return_reserve_s": 20.27701098219741
+      },
+      {
+        "decision_number": 5,
+        "elapsed_proxy_s": 70.85146590245735,
+        "observed_indices": [
+          1,
+          3,
+          4,
+          5
+        ],
+        "feasible_indices": [],
+        "target": null
+      }
+    ],
+    "updates": [
+      {
+        "anchor_index": 4,
+        "feedback": 0,
+        "anchor_score_before": 0.36468496918678284,
+        "residual": -0.36468496918678284,
+        "visited_indices": [
+          4
+        ],
+        "gain": 0.3218490027881059,
+        "hypothetical_pearson_mean_change": 0.04507646170299377,
+        "actual_mean_change": 0.045076461702993766,
+        "scores_before": [
+          0.364641010761261,
+          0.3081253468990326,
+          0.3836459815502167,
+          0.36697953939437866,
+          0.36468496918678284,
+          0.3273361623287201
+        ],
+        "scores_after": [
+          0.3115196614116386,
+          0.2859996170420593,
+          0.37483033930391463,
+          0.27799042703417437,
+          0.36468496918678284,
+          0.2750056876268533
+        ],
+        "decision_number": 2
+      },
+      {
+        "anchor_index": 5,
+        "feedback": 0,
+        "anchor_score_before": 0.2750056876268533,
+        "residual": -0.2750056876268533,
+        "visited_indices": [
+          3,
+          4,
+          5
+        ],
+        "gain": 0.16849388916412694,
+        "hypothetical_pearson_mean_change": 0.027960555147767296,
+        "actual_mean_change": 0.027960555147767286,
+        "scores_before": [
+          0.3115196614116386,
+          0.2859996170420593,
+          0.37483033930391463,
+          0.27799042703417437,
+          0.36468496918678284,
+          0.2750056876268533
+        ],
+        "scores_after": [
+          0.2864528949883554,
+          0.24641475842488955,
+          0.3556002989010657,
+          0.27799042703417437,
+          0.36468496918678284,
+          0.2750056876268533
+        ],
+        "decision_number": 4
+      }
+    ],
+    "returned_home": true,
+    "budget_slack_s": 8.87152311534524,
+    "certificate": null,
+    "solver_wall_seconds": 0.0007090419967425987,
+    "case": "case_rank06",
+    "scene": "1001-McGregor-College-Pkwy-South.1.geo.tif",
+    "label_access_indices": [
+      4,
+      3,
+      5,
+      1
+    ],
+    "route_building_ids": [
+      "f06d1fe54902471093a95f711c0e0611",
+      "bdefc9615220408892b1ce1a85d9a4bb",
+      "fea8cc3548eb40818e499eb3589b70fd",
+      "661d111f5df744fb9d9c2dbaa285cfcc"
+    ],
+    "source_positive_checks": 0,
+    "first_positive_check_proxy_s": null,
+    "unknown_source_checks": 2,
+    "source_severe_checks": 0
+  },
+  {
+    "policy": "pearson",
+    "budget_proxy_s": 100,
+    "route": [
+      4,
+      3,
+      5,
+      1
+    ],
+    "distance_m": 230.64238442327377,
+    "return_distance_m": 101.38505491098705,
+    "elapsed_proxy_s": 91.12847688465476,
+    "planning_calls": 5,
+    "observations": [
+      {
+        "index": 4,
+        "source_label": 0,
+        "arrival_proxy_s": 7.331707810471902,
+        "observation_complete_proxy_s": 17.3317078104719,
+        "leg_m": 31.658539052359508,
+        "score_before_observation": 0.36468496918678284
+      },
+      {
+        "index": 3,
+        "source_label": null,
+        "arrival_proxy_s": 25.772770566557433,
+        "observation_complete_proxy_s": 35.77277056655743,
+        "leg_m": 37.20531378042765,
+        "score_before_observation": 0.28947179881126245
+      },
+      {
+        "index": 5,
+        "source_label": 0,
+        "arrival_proxy_s": 43.23917052879952,
+        "observation_complete_proxy_s": 53.23917052879952,
+        "leg_m": 32.33199981121044,
+        "score_before_observation": 0.25132820964302643
+      },
+      {
+        "index": 1,
+        "source_label": null,
+        "arrival_proxy_s": 59.85146590245735,
+        "observation_complete_proxy_s": 69.85146590245735,
+        "leg_m": 28.06147686828914,
+        "score_before_observation": 0.2987033047077528
+      }
+    ],
+    "decisions": [
+      {
+        "decision_number": 1,
+        "elapsed_proxy_s": 1.0,
+        "observed_indices": [],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "target": 4,
+        "position_before": 6,
+        "scores": [
+          0.364641010761261,
+          0.3081253468990326,
+          0.3836459815502167,
+          0.36697953939437866,
+          0.36468496918678284,
+          0.3273361623287201
+        ],
+        "return_reserve_s": 6.331707810471902
+      },
+      {
+        "decision_number": 2,
+        "elapsed_proxy_s": 18.3317078104719,
+        "observed_indices": [
+          4
+        ],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          3,
+          5
+        ],
+        "target": 3,
+        "position_before": 4,
+        "scores": [
+          0.30972017906054566,
+          0.3041392394180162,
+          0.3706863054857894,
+          0.28947179881126245,
+          0.36468496918678284,
+          0.25132820964302643
+        ],
+        "return_reserve_s": 12.196791395184313
+      },
+      {
+        "decision_number": 3,
+        "elapsed_proxy_s": 36.77277056655743,
+        "observed_indices": [
+          3,
+          4
+        ],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          5
+        ],
+        "target": 5,
+        "position_before": 3,
+        "scores": [
+          0.30972017906054566,
+          0.3041392394180162,
+          0.3706863054857894,
+          0.28947179881126245,
+          0.36468496918678284,
+          0.25132820964302643
+        ],
+        "return_reserve_s": 15.353765183565041
+      },
+      {
+        "decision_number": 4,
+        "elapsed_proxy_s": 54.23917052879952,
+        "observed_indices": [
+          3,
+          4,
+          5
+        ],
+        "feasible_indices": [
+          0,
+          1,
+          2
+        ],
+        "target": 1,
+        "position_before": 5,
+        "scores": [
+          0.27934176504666,
+          0.2987033047077528,
+          0.3298410440772722,
+          0.28947179881126245,
+          0.36468496918678284,
+          0.25132820964302643
+        ],
+        "return_reserve_s": 20.27701098219741
+      },
+      {
+        "decision_number": 5,
+        "elapsed_proxy_s": 70.85146590245735,
+        "observed_indices": [
+          1,
+          3,
+          4,
+          5
+        ],
+        "feasible_indices": [],
+        "target": null
+      }
+    ],
+    "updates": [
+      {
+        "anchor_index": 4,
+        "feedback": 0,
+        "anchor_score_before": 0.36468496918678284,
+        "residual": -0.36468496918678284,
+        "visited_indices": [
+          4
+        ],
+        "gain": 0.5,
+        "hypothetical_pearson_mean_change": 0.04507646170299377,
+        "actual_mean_change": 0.04507646170299377,
+        "scores_before": [
+          0.364641010761261,
+          0.3081253468990326,
+          0.3836459815502167,
+          0.36697953939437866,
+          0.36468496918678284,
+          0.3273361623287201
+        ],
+        "scores_after": [
+          0.30972017906054566,
+          0.3041392394180162,
+          0.3706863054857894,
+          0.28947179881126245,
+          0.36468496918678284,
+          0.25132820964302643
+        ],
+        "decision_number": 2
+      },
+      {
+        "anchor_index": 5,
+        "feedback": 0,
+        "anchor_score_before": 0.25132820964302643,
+        "residual": -0.25132820964302643,
+        "visited_indices": [
+          3,
+          4,
+          5
+        ],
+        "gain": 0.5,
+        "hypothetical_pearson_mean_change": 0.025553203377555418,
+        "actual_mean_change": 0.025553203377555418,
+        "scores_before": [
+          0.30972017906054566,
+          0.3041392394180162,
+          0.3706863054857894,
+          0.28947179881126245,
+          0.36468496918678284,
+          0.25132820964302643
+        ],
+        "scores_after": [
+          0.27934176504666,
+          0.2987033047077528,
+          0.3298410440772722,
+          0.28947179881126245,
+          0.36468496918678284,
+          0.25132820964302643
+        ],
+        "decision_number": 4
+      }
+    ],
+    "returned_home": true,
+    "budget_slack_s": 8.87152311534524,
+    "certificate": null,
+    "solver_wall_seconds": 7.79169931774959e-05,
+    "case": "case_rank06",
+    "scene": "1001-McGregor-College-Pkwy-South.1.geo.tif",
+    "label_access_indices": [
+      4,
+      3,
+      5,
+      1
+    ],
+    "route_building_ids": [
+      "f06d1fe54902471093a95f711c0e0611",
+      "bdefc9615220408892b1ce1a85d9a4bb",
+      "fea8cc3548eb40818e499eb3589b70fd",
+      "661d111f5df744fb9d9c2dbaa285cfcc"
+    ],
+    "source_positive_checks": 0,
+    "first_positive_check_proxy_s": null,
+    "unknown_source_checks": 2,
+    "source_severe_checks": 0
+  },
+  {
+    "policy": "distance",
+    "budget_proxy_s": 140,
+    "route": [
+      4,
+      3,
+      5,
+      1,
+      2,
+      0
+    ],
+    "distance_m": 290.9352156573434,
+    "return_distance_m": 49.1720301279922,
+    "elapsed_proxy_s": 124.1870431314687,
+    "planning_calls": 6,
+    "observations": [
+      {
+        "index": 4,
+        "source_label": 0,
+        "arrival_proxy_s": 7.331707810471902,
+        "observation_complete_proxy_s": 17.3317078104719,
+        "leg_m": 31.658539052359508,
+        "score_before_observation": 0.36468496918678284
+      },
+      {
+        "index": 3,
+        "source_label": null,
+        "arrival_proxy_s": 25.772770566557433,
+        "observation_complete_proxy_s": 35.77277056655743,
+        "leg_m": 37.20531378042765,
+        "score_before_observation": 0.36697953939437866
+      },
+      {
+        "index": 5,
+        "source_label": 0,
+        "arrival_proxy_s": 43.23917052879952,
+        "observation_complete_proxy_s": 53.23917052879952,
+        "leg_m": 32.33199981121044,
+        "score_before_observation": 0.3273361623287201
+      },
+      {
+        "index": 1,
+        "source_label": null,
+        "arrival_proxy_s": 59.85146590245735,
+        "observation_complete_proxy_s": 69.85146590245735,
+        "leg_m": 28.06147686828914,
+        "score_before_observation": 0.3081253468990326
+      },
+      {
+        "index": 2,
+        "source_label": 0,
+        "arrival_proxy_s": 81.23887702693598,
+        "observation_complete_proxy_s": 91.23887702693598,
+        "leg_m": 51.93705562239315,
+        "score_before_observation": 0.3836459815502167
+      },
+      {
+        "index": 0,
+        "source_label": 1,
+        "arrival_proxy_s": 104.35263710587026,
+        "observation_complete_proxy_s": 114.35263710587026,
+        "leg_m": 60.56880039467135,
+        "score_before_observation": 0.364641010761261
+      }
+    ],
+    "decisions": [
+      {
+        "decision_number": 1,
+        "elapsed_proxy_s": 1.0,
+        "observed_indices": [],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "target": 4,
+        "position_before": 6,
+        "scores": [
+          0.364641010761261,
+          0.3081253468990326,
+          0.3836459815502167,
+          0.36697953939437866,
+          0.36468496918678284,
+          0.3273361623287201
+        ],
+        "return_reserve_s": 6.331707810471902
+      },
+      {
+        "decision_number": 2,
+        "elapsed_proxy_s": 18.3317078104719,
+        "observed_indices": [
+          4
+        ],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          3,
+          5
+        ],
+        "target": 3,
+        "position_before": 4,
+        "scores": [
+          0.364641010761261,
+          0.3081253468990326,
+          0.3836459815502167,
+          0.36697953939437866,
+          0.36468496918678284,
+          0.3273361623287201
+        ],
+        "return_reserve_s": 12.196791395184313
+      },
+      {
+        "decision_number": 3,
+        "elapsed_proxy_s": 36.77277056655743,
+        "observed_indices": [
+          3,
+          4
+        ],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          5
+        ],
+        "target": 5,
+        "position_before": 3,
+        "scores": [
+          0.364641010761261,
+          0.3081253468990326,
+          0.3836459815502167,
+          0.36697953939437866,
+          0.36468496918678284,
+          0.3273361623287201
+        ],
+        "return_reserve_s": 15.353765183565041
+      },
+      {
+        "decision_number": 4,
+        "elapsed_proxy_s": 54.23917052879952,
+        "observed_indices": [
+          3,
+          4,
+          5
+        ],
+        "feasible_indices": [
+          0,
+          1,
+          2
+        ],
+        "target": 1,
+        "position_before": 5,
+        "scores": [
+          0.364641010761261,
+          0.3081253468990326,
+          0.3836459815502167,
+          0.36697953939437866,
+          0.36468496918678284,
+          0.3273361623287201
+        ],
+        "return_reserve_s": 20.27701098219741
+      },
+      {
+        "decision_number": 5,
+        "elapsed_proxy_s": 70.85146590245735,
+        "observed_indices": [
+          1,
+          3,
+          4,
+          5
+        ],
+        "feasible_indices": [
+          0,
+          2
+        ],
+        "target": 2,
+        "position_before": 1,
+        "scores": [
+          0.364641010761261,
+          0.3081253468990326,
+          0.3836459815502167,
+          0.36697953939437866,
+          0.36468496918678284,
+          0.3273361623287201
+        ],
+        "return_reserve_s": 21.732111122820445
+      },
+      {
+        "decision_number": 6,
+        "elapsed_proxy_s": 92.23887702693598,
+        "observed_indices": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "feasible_indices": [
+          0
+        ],
+        "target": 0,
+        "position_before": 2,
+        "scores": [
+          0.364641010761261,
+          0.3081253468990326,
+          0.3836459815502167,
+          0.36697953939437866,
+          0.36468496918678284,
+          0.3273361623287201
+        ],
+        "return_reserve_s": 9.83440602559844
+      }
+    ],
+    "updates": [],
+    "returned_home": true,
+    "budget_slack_s": 15.812956868531302,
+    "certificate": null,
+    "solver_wall_seconds": 5.7541998103260994e-05,
+    "case": "case_rank06",
+    "scene": "1001-McGregor-College-Pkwy-South.1.geo.tif",
+    "label_access_indices": [
+      4,
+      3,
+      5,
+      1,
+      2,
+      0
+    ],
+    "route_building_ids": [
+      "f06d1fe54902471093a95f711c0e0611",
+      "bdefc9615220408892b1ce1a85d9a4bb",
+      "fea8cc3548eb40818e499eb3589b70fd",
+      "661d111f5df744fb9d9c2dbaa285cfcc",
+      "b4a53a6955b345d29e60b8bafde493ca",
+      "12f35ab99a0a4a8280ca89f65e53a3d6"
+    ],
+    "source_positive_checks": 1,
+    "first_positive_check_proxy_s": 114.35263710587026,
+    "unknown_source_checks": 2,
+    "source_severe_checks": 1
+  },
+  {
+    "policy": "static_exact",
+    "budget_proxy_s": 140,
+    "route": [
+      4,
+      3,
+      5,
+      1,
+      2,
+      0
+    ],
+    "distance_m": 290.9352156573434,
+    "return_distance_m": 49.1720301279922,
+    "elapsed_proxy_s": 119.1870431314687,
+    "planning_calls": 1,
+    "observations": [
+      {
+        "index": 4,
+        "source_label": 0,
+        "arrival_proxy_s": 7.331707810471902,
+        "observation_complete_proxy_s": 17.3317078104719,
+        "leg_m": 31.658539052359508,
+        "score_before_observation": 0.36468496918678284
+      },
+      {
+        "index": 3,
+        "source_label": null,
+        "arrival_proxy_s": 24.772770566557433,
+        "observation_complete_proxy_s": 34.77277056655743,
+        "leg_m": 37.20531378042765,
+        "score_before_observation": 0.36697953939437866
+      },
+      {
+        "index": 5,
+        "source_label": 0,
+        "arrival_proxy_s": 41.23917052879952,
+        "observation_complete_proxy_s": 51.23917052879952,
+        "leg_m": 32.33199981121044,
+        "score_before_observation": 0.3273361623287201
+      },
+      {
+        "index": 1,
+        "source_label": null,
+        "arrival_proxy_s": 56.85146590245735,
+        "observation_complete_proxy_s": 66.85146590245735,
+        "leg_m": 28.06147686828914,
+        "score_before_observation": 0.3081253468990326
+      },
+      {
+        "index": 2,
+        "source_label": 0,
+        "arrival_proxy_s": 77.23887702693598,
+        "observation_complete_proxy_s": 87.23887702693598,
+        "leg_m": 51.93705562239315,
+        "score_before_observation": 0.3836459815502167
+      },
+      {
+        "index": 0,
+        "source_label": 1,
+        "arrival_proxy_s": 99.35263710587026,
+        "observation_complete_proxy_s": 109.35263710587026,
+        "leg_m": 60.56880039467135,
+        "score_before_observation": 0.364641010761261
+      }
+    ],
+    "decisions": [
+      {
+        "decision_number": 1,
+        "elapsed_proxy_s": 1.0,
+        "observed_indices": [],
+        "feasible_indices": [
+          4
+        ],
+        "target": 4,
+        "position_before": 6,
+        "scores": [
+          0.364641010761261,
+          0.3081253468990326,
+          0.3836459815502167,
+          0.36697953939437866,
+          0.36468496918678284,
+          0.3273361623287201
+        ],
+        "return_reserve_s": 6.331707810471902
+      },
+      {
+        "decision_number": 1,
+        "elapsed_proxy_s": 17.3317078104719,
+        "observed_indices": [
+          4
+        ],
+        "feasible_indices": [
+          3
+        ],
+        "target": 3,
+        "position_before": 4,
+        "scores": [
+          0.364641010761261,
+          0.3081253468990326,
+          0.3836459815502167,
+          0.36697953939437866,
+          0.36468496918678284,
+          0.3273361623287201
+        ],
+        "return_reserve_s": 12.196791395184313
+      },
+      {
+        "decision_number": 1,
+        "elapsed_proxy_s": 34.77277056655743,
+        "observed_indices": [
+          3,
+          4
+        ],
+        "feasible_indices": [
+          5
+        ],
+        "target": 5,
+        "position_before": 3,
+        "scores": [
+          0.364641010761261,
+          0.3081253468990326,
+          0.3836459815502167,
+          0.36697953939437866,
+          0.36468496918678284,
+          0.3273361623287201
+        ],
+        "return_reserve_s": 15.353765183565041
+      },
+      {
+        "decision_number": 1,
+        "elapsed_proxy_s": 51.23917052879952,
+        "observed_indices": [
+          3,
+          4,
+          5
+        ],
+        "feasible_indices": [
+          1
+        ],
+        "target": 1,
+        "position_before": 5,
+        "scores": [
+          0.364641010761261,
+          0.3081253468990326,
+          0.3836459815502167,
+          0.36697953939437866,
+          0.36468496918678284,
+          0.3273361623287201
+        ],
+        "return_reserve_s": 20.27701098219741
+      },
+      {
+        "decision_number": 1,
+        "elapsed_proxy_s": 66.85146590245735,
+        "observed_indices": [
+          1,
+          3,
+          4,
+          5
+        ],
+        "feasible_indices": [
+          2
+        ],
+        "target": 2,
+        "position_before": 1,
+        "scores": [
+          0.364641010761261,
+          0.3081253468990326,
+          0.3836459815502167,
+          0.36697953939437866,
+          0.36468496918678284,
+          0.3273361623287201
+        ],
+        "return_reserve_s": 21.732111122820445
+      },
+      {
+        "decision_number": 1,
+        "elapsed_proxy_s": 87.23887702693598,
+        "observed_indices": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "feasible_indices": [
+          0
+        ],
+        "target": 0,
+        "position_before": 2,
+        "scores": [
+          0.364641010761261,
+          0.3081253468990326,
+          0.3836459815502167,
+          0.36697953939437866,
+          0.36468496918678284,
+          0.3273361623287201
+        ],
+        "return_reserve_s": 9.83440602559844
+      }
+    ],
+    "updates": [],
+    "returned_home": true,
+    "budget_slack_s": 20.812956868531302,
+    "certificate": {
+      "subset_mask": 63,
+      "public_objective": 2.115413010120392,
+      "upper_bound": 2.115413010120392,
+      "gap": 0.0,
+      "subsets": 64,
+      "feasible_subsets": 64
+    },
+    "solver_wall_seconds": 8.679200254846364e-05,
+    "case": "case_rank06",
+    "scene": "1001-McGregor-College-Pkwy-South.1.geo.tif",
+    "label_access_indices": [
+      4,
+      3,
+      5,
+      1,
+      2,
+      0
+    ],
+    "route_building_ids": [
+      "f06d1fe54902471093a95f711c0e0611",
+      "bdefc9615220408892b1ce1a85d9a4bb",
+      "fea8cc3548eb40818e499eb3589b70fd",
+      "661d111f5df744fb9d9c2dbaa285cfcc",
+      "b4a53a6955b345d29e60b8bafde493ca",
+      "12f35ab99a0a4a8280ca89f65e53a3d6"
+    ],
+    "source_positive_checks": 1,
+    "first_positive_check_proxy_s": 109.35263710587026,
+    "unknown_source_checks": 2,
+    "source_severe_checks": 1
+  },
+  {
+    "policy": "no_update",
+    "budget_proxy_s": 140,
+    "route": [
+      4,
+      3,
+      5,
+      1,
+      2,
+      0
+    ],
+    "distance_m": 290.9352156573434,
+    "return_distance_m": 49.1720301279922,
+    "elapsed_proxy_s": 124.1870431314687,
+    "planning_calls": 6,
+    "observations": [
+      {
+        "index": 4,
+        "source_label": 0,
+        "arrival_proxy_s": 7.331707810471902,
+        "observation_complete_proxy_s": 17.3317078104719,
+        "leg_m": 31.658539052359508,
+        "score_before_observation": 0.36468496918678284
+      },
+      {
+        "index": 3,
+        "source_label": null,
+        "arrival_proxy_s": 25.772770566557433,
+        "observation_complete_proxy_s": 35.77277056655743,
+        "leg_m": 37.20531378042765,
+        "score_before_observation": 0.36697953939437866
+      },
+      {
+        "index": 5,
+        "source_label": 0,
+        "arrival_proxy_s": 43.23917052879952,
+        "observation_complete_proxy_s": 53.23917052879952,
+        "leg_m": 32.33199981121044,
+        "score_before_observation": 0.3273361623287201
+      },
+      {
+        "index": 1,
+        "source_label": null,
+        "arrival_proxy_s": 59.85146590245735,
+        "observation_complete_proxy_s": 69.85146590245735,
+        "leg_m": 28.06147686828914,
+        "score_before_observation": 0.3081253468990326
+      },
+      {
+        "index": 2,
+        "source_label": 0,
+        "arrival_proxy_s": 81.23887702693598,
+        "observation_complete_proxy_s": 91.23887702693598,
+        "leg_m": 51.93705562239315,
+        "score_before_observation": 0.3836459815502167
+      },
+      {
+        "index": 0,
+        "source_label": 1,
+        "arrival_proxy_s": 104.35263710587026,
+        "observation_complete_proxy_s": 114.35263710587026,
+        "leg_m": 60.56880039467135,
+        "score_before_observation": 0.364641010761261
+      }
+    ],
+    "decisions": [
+      {
+        "decision_number": 1,
+        "elapsed_proxy_s": 1.0,
+        "observed_indices": [],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "target": 4,
+        "position_before": 6,
+        "scores": [
+          0.364641010761261,
+          0.3081253468990326,
+          0.3836459815502167,
+          0.36697953939437866,
+          0.36468496918678284,
+          0.3273361623287201
+        ],
+        "return_reserve_s": 6.331707810471902
+      },
+      {
+        "decision_number": 2,
+        "elapsed_proxy_s": 18.3317078104719,
+        "observed_indices": [
+          4
+        ],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          3,
+          5
+        ],
+        "target": 3,
+        "position_before": 4,
+        "scores": [
+          0.364641010761261,
+          0.3081253468990326,
+          0.3836459815502167,
+          0.36697953939437866,
+          0.36468496918678284,
+          0.3273361623287201
+        ],
+        "return_reserve_s": 12.196791395184313
+      },
+      {
+        "decision_number": 3,
+        "elapsed_proxy_s": 36.77277056655743,
+        "observed_indices": [
+          3,
+          4
+        ],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          5
+        ],
+        "target": 5,
+        "position_before": 3,
+        "scores": [
+          0.364641010761261,
+          0.3081253468990326,
+          0.3836459815502167,
+          0.36697953939437866,
+          0.36468496918678284,
+          0.3273361623287201
+        ],
+        "return_reserve_s": 15.353765183565041
+      },
+      {
+        "decision_number": 4,
+        "elapsed_proxy_s": 54.23917052879952,
+        "observed_indices": [
+          3,
+          4,
+          5
+        ],
+        "feasible_indices": [
+          0,
+          1,
+          2
+        ],
+        "target": 1,
+        "position_before": 5,
+        "scores": [
+          0.364641010761261,
+          0.3081253468990326,
+          0.3836459815502167,
+          0.36697953939437866,
+          0.36468496918678284,
+          0.3273361623287201
+        ],
+        "return_reserve_s": 20.27701098219741
+      },
+      {
+        "decision_number": 5,
+        "elapsed_proxy_s": 70.85146590245735,
+        "observed_indices": [
+          1,
+          3,
+          4,
+          5
+        ],
+        "feasible_indices": [
+          0,
+          2
+        ],
+        "target": 2,
+        "position_before": 1,
+        "scores": [
+          0.364641010761261,
+          0.3081253468990326,
+          0.3836459815502167,
+          0.36697953939437866,
+          0.36468496918678284,
+          0.3273361623287201
+        ],
+        "return_reserve_s": 21.732111122820445
+      },
+      {
+        "decision_number": 6,
+        "elapsed_proxy_s": 92.23887702693598,
+        "observed_indices": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "feasible_indices": [
+          0
+        ],
+        "target": 0,
+        "position_before": 2,
+        "scores": [
+          0.364641010761261,
+          0.3081253468990326,
+          0.3836459815502167,
+          0.36697953939437866,
+          0.36468496918678284,
+          0.3273361623287201
+        ],
+        "return_reserve_s": 9.83440602559844
+      }
+    ],
+    "updates": [],
+    "returned_home": true,
+    "budget_slack_s": 15.812956868531302,
+    "certificate": null,
+    "solver_wall_seconds": 6.066700734663755e-05,
+    "case": "case_rank06",
+    "scene": "1001-McGregor-College-Pkwy-South.1.geo.tif",
+    "label_access_indices": [
+      4,
+      3,
+      5,
+      1,
+      2,
+      0
+    ],
+    "route_building_ids": [
+      "f06d1fe54902471093a95f711c0e0611",
+      "bdefc9615220408892b1ce1a85d9a4bb",
+      "fea8cc3548eb40818e499eb3589b70fd",
+      "661d111f5df744fb9d9c2dbaa285cfcc",
+      "b4a53a6955b345d29e60b8bafde493ca",
+      "12f35ab99a0a4a8280ca89f65e53a3d6"
+    ],
+    "source_positive_checks": 1,
+    "first_positive_check_proxy_s": 114.35263710587026,
+    "unknown_source_checks": 2,
+    "source_severe_checks": 1
+  },
+  {
+    "policy": "spatial",
+    "budget_proxy_s": 140,
+    "route": [
+      4,
+      3,
+      5,
+      1,
+      2,
+      0
+    ],
+    "distance_m": 290.9352156573434,
+    "return_distance_m": 49.1720301279922,
+    "elapsed_proxy_s": 124.1870431314687,
+    "planning_calls": 6,
+    "observations": [
+      {
+        "index": 4,
+        "source_label": 0,
+        "arrival_proxy_s": 7.331707810471902,
+        "observation_complete_proxy_s": 17.3317078104719,
+        "leg_m": 31.658539052359508,
+        "score_before_observation": 0.36468496918678284
+      },
+      {
+        "index": 3,
+        "source_label": null,
+        "arrival_proxy_s": 25.772770566557433,
+        "observation_complete_proxy_s": 35.77277056655743,
+        "leg_m": 37.20531378042765,
+        "score_before_observation": 0.22873285913545052
+      },
+      {
+        "index": 5,
+        "source_label": 0,
+        "arrival_proxy_s": 43.23917052879952,
+        "observation_complete_proxy_s": 53.23917052879952,
+        "leg_m": 32.33199981121044,
+        "score_before_observation": 0.24603953837068443
+      },
+      {
+        "index": 1,
+        "source_label": null,
+        "arrival_proxy_s": 59.85146590245735,
+        "observation_complete_proxy_s": 69.85146590245735,
+        "leg_m": 28.06147686828914,
+        "score_before_observation": 0.1686584436081967
+      },
+      {
+        "index": 2,
+        "source_label": 0,
+        "arrival_proxy_s": 81.23887702693598,
+        "observation_complete_proxy_s": 91.23887702693598,
+        "leg_m": 51.93705562239315,
+        "score_before_observation": 0.3188967326593114
+      },
+      {
+        "index": 0,
+        "source_label": 1,
+        "arrival_proxy_s": 104.35263710587026,
+        "observation_complete_proxy_s": 114.35263710587026,
+        "leg_m": 60.56880039467135,
+        "score_before_observation": 0.13901124534516862
+      }
+    ],
+    "decisions": [
+      {
+        "decision_number": 1,
+        "elapsed_proxy_s": 1.0,
+        "observed_indices": [],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "target": 4,
+        "position_before": 6,
+        "scores": [
+          0.364641010761261,
+          0.3081253468990326,
+          0.3836459815502167,
+          0.36697953939437866,
+          0.36468496918678284,
+          0.3273361623287201
+        ],
+        "return_reserve_s": 6.331707810471902
+      },
+      {
+        "decision_number": 2,
+        "elapsed_proxy_s": 18.3317078104719,
+        "observed_indices": [
+          4
+        ],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          3,
+          5
+        ],
+        "target": 3,
+        "position_before": 4,
+        "scores": [
+          0.2821157444260479,
+          0.2737525048748177,
+          0.3699506738594454,
+          0.22873285913545052,
+          0.36468496918678284,
+          0.24603953837068443
+        ],
+        "return_reserve_s": 12.196791395184313
+      },
+      {
+        "decision_number": 3,
+        "elapsed_proxy_s": 36.77277056655743,
+        "observed_indices": [
+          3,
+          4
+        ],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          5
+        ],
+        "target": 5,
+        "position_before": 3,
+        "scores": [
+          0.2821157444260479,
+          0.2737525048748177,
+          0.3699506738594454,
+          0.22873285913545052,
+          0.36468496918678284,
+          0.24603953837068443
+        ],
+        "return_reserve_s": 15.353765183565041
+      },
+      {
+        "decision_number": 4,
+        "elapsed_proxy_s": 54.23917052879952,
+        "observed_indices": [
+          3,
+          4,
+          5
+        ],
+        "feasible_indices": [
+          0,
+          1,
+          2
+        ],
+        "target": 1,
+        "position_before": 5,
+        "scores": [
+          0.21556584685733568,
+          0.1686584436081967,
+          0.3188967326593114,
+          0.22873285913545052,
+          0.36468496918678284,
+          0.24603953837068443
+        ],
+        "return_reserve_s": 20.27701098219741
+      },
+      {
+        "decision_number": 5,
+        "elapsed_proxy_s": 70.85146590245735,
+        "observed_indices": [
+          1,
+          3,
+          4,
+          5
+        ],
+        "feasible_indices": [
+          0,
+          2
+        ],
+        "target": 2,
+        "position_before": 1,
+        "scores": [
+          0.21556584685733568,
+          0.1686584436081967,
+          0.3188967326593114,
+          0.22873285913545052,
+          0.36468496918678284,
+          0.24603953837068443
+        ],
+        "return_reserve_s": 21.732111122820445
+      },
+      {
+        "decision_number": 6,
+        "elapsed_proxy_s": 92.23887702693598,
+        "observed_indices": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "feasible_indices": [
+          0
+        ],
+        "target": 0,
+        "position_before": 2,
+        "scores": [
+          0.13901124534516862,
+          0.1686584436081967,
+          0.3188967326593114,
+          0.22873285913545052,
+          0.36468496918678284,
+          0.24603953837068443
+        ],
+        "return_reserve_s": 9.83440602559844
+      }
+    ],
+    "updates": [
+      {
+        "anchor_index": 4,
+        "feedback": 0,
+        "anchor_score_before": 0.36468496918678284,
+        "residual": -0.36468496918678284,
+        "visited_indices": [
+          4
+        ],
+        "gain": 0.5,
+        "hypothetical_pearson_mean_change": 0.04507646170299377,
+        "actual_mean_change": 0.0700273440534326,
+        "scores_before": [
+          0.364641010761261,
+          0.3081253468990326,
+          0.3836459815502167,
+          0.36697953939437866,
+          0.36468496918678284,
+          0.3273361623287201
+        ],
+        "scores_after": [
+          0.2821157444260479,
+          0.2737525048748177,
+          0.3699506738594454,
+          0.22873285913545052,
+          0.36468496918678284,
+          0.24603953837068443
+        ],
+        "decision_number": 2
+      },
+      {
+        "anchor_index": 5,
+        "feedback": 0,
+        "anchor_score_before": 0.24603953837068443,
+        "residual": -0.24603953837068443,
+        "visited_indices": [
+          3,
+          4,
+          5
+        ],
+        "gain": 0.5,
+        "hypothetical_pearson_mean_change": 0.025015490190439898,
+        "actual_mean_change": 0.07423263334515576,
+        "scores_before": [
+          0.2821157444260479,
+          0.2737525048748177,
+          0.3699506738594454,
+          0.22873285913545052,
+          0.36468496918678284,
+          0.24603953837068443
+        ],
+        "scores_after": [
+          0.21556584685733568,
+          0.1686584436081967,
+          0.3188967326593114,
+          0.22873285913545052,
+          0.36468496918678284,
+          0.24603953837068443
+        ],
+        "decision_number": 4
+      },
+      {
+        "anchor_index": 2,
+        "feedback": 0,
+        "anchor_score_before": 0.3188967326593114,
+        "residual": -0.3188967326593114,
+        "visited_indices": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "gain": 0.5,
+        "hypothetical_pearson_mean_change": 0.06507005738921859,
+        "actual_mean_change": 0.07655460151216706,
+        "scores_before": [
+          0.21556584685733568,
+          0.1686584436081967,
+          0.3188967326593114,
+          0.22873285913545052,
+          0.36468496918678284,
+          0.24603953837068443
+        ],
+        "scores_after": [
+          0.13901124534516862,
+          0.1686584436081967,
+          0.3188967326593114,
+          0.22873285913545052,
+          0.36468496918678284,
+          0.24603953837068443
+        ],
+        "decision_number": 6
+      }
+    ],
+    "returned_home": true,
+    "budget_slack_s": 15.812956868531302,
+    "certificate": null,
+    "solver_wall_seconds": 0.00011058300151489675,
+    "case": "case_rank06",
+    "scene": "1001-McGregor-College-Pkwy-South.1.geo.tif",
+    "label_access_indices": [
+      4,
+      3,
+      5,
+      1,
+      2,
+      0
+    ],
+    "route_building_ids": [
+      "f06d1fe54902471093a95f711c0e0611",
+      "bdefc9615220408892b1ce1a85d9a4bb",
+      "fea8cc3548eb40818e499eb3589b70fd",
+      "661d111f5df744fb9d9c2dbaa285cfcc",
+      "b4a53a6955b345d29e60b8bafde493ca",
+      "12f35ab99a0a4a8280ca89f65e53a3d6"
+    ],
+    "source_positive_checks": 1,
+    "first_positive_check_proxy_s": 114.35263710587026,
+    "unknown_source_checks": 2,
+    "source_severe_checks": 1
+  },
+  {
+    "policy": "matched_spatial",
+    "budget_proxy_s": 140,
+    "route": [
+      4,
+      3,
+      5,
+      1,
+      2,
+      0
+    ],
+    "distance_m": 290.9352156573434,
+    "return_distance_m": 49.1720301279922,
+    "elapsed_proxy_s": 124.1870431314687,
+    "planning_calls": 6,
+    "observations": [
+      {
+        "index": 4,
+        "source_label": 0,
+        "arrival_proxy_s": 7.331707810471902,
+        "observation_complete_proxy_s": 17.3317078104719,
+        "leg_m": 31.658539052359508,
+        "score_before_observation": 0.36468496918678284
+      },
+      {
+        "index": 3,
+        "source_label": null,
+        "arrival_proxy_s": 25.772770566557433,
+        "observation_complete_proxy_s": 35.77277056655743,
+        "leg_m": 37.20531378042765,
+        "score_before_observation": 0.27799042703417437
+      },
+      {
+        "index": 5,
+        "source_label": 0,
+        "arrival_proxy_s": 43.23917052879952,
+        "observation_complete_proxy_s": 53.23917052879952,
+        "leg_m": 32.33199981121044,
+        "score_before_observation": 0.2750056876268533
+      },
+      {
+        "index": 1,
+        "source_label": null,
+        "arrival_proxy_s": 59.85146590245735,
+        "observation_complete_proxy_s": 69.85146590245735,
+        "leg_m": 28.06147686828914,
+        "score_before_observation": 0.24641475842488955
+      },
+      {
+        "index": 2,
+        "source_label": 0,
+        "arrival_proxy_s": 81.23887702693598,
+        "observation_complete_proxy_s": 91.23887702693598,
+        "leg_m": 51.93705562239315,
+        "score_before_observation": 0.3556002989010657
+      },
+      {
+        "index": 0,
+        "source_label": 1,
+        "arrival_proxy_s": 104.35263710587026,
+        "observation_complete_proxy_s": 114.35263710587026,
+        "leg_m": 60.56880039467135,
+        "score_before_observation": 0.21389356939051132
+      }
+    ],
+    "decisions": [
+      {
+        "decision_number": 1,
+        "elapsed_proxy_s": 1.0,
+        "observed_indices": [],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "target": 4,
+        "position_before": 6,
+        "scores": [
+          0.364641010761261,
+          0.3081253468990326,
+          0.3836459815502167,
+          0.36697953939437866,
+          0.36468496918678284,
+          0.3273361623287201
+        ],
+        "return_reserve_s": 6.331707810471902
+      },
+      {
+        "decision_number": 2,
+        "elapsed_proxy_s": 18.3317078104719,
+        "observed_indices": [
+          4
+        ],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          3,
+          5
+        ],
+        "target": 3,
+        "position_before": 4,
+        "scores": [
+          0.3115196614116386,
+          0.2859996170420593,
+          0.37483033930391463,
+          0.27799042703417437,
+          0.36468496918678284,
+          0.2750056876268533
+        ],
+        "return_reserve_s": 12.196791395184313
+      },
+      {
+        "decision_number": 3,
+        "elapsed_proxy_s": 36.77277056655743,
+        "observed_indices": [
+          3,
+          4
+        ],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          5
+        ],
+        "target": 5,
+        "position_before": 3,
+        "scores": [
+          0.3115196614116386,
+          0.2859996170420593,
+          0.37483033930391463,
+          0.27799042703417437,
+          0.36468496918678284,
+          0.2750056876268533
+        ],
+        "return_reserve_s": 15.353765183565041
+      },
+      {
+        "decision_number": 4,
+        "elapsed_proxy_s": 54.23917052879952,
+        "observed_indices": [
+          3,
+          4,
+          5
+        ],
+        "feasible_indices": [
+          0,
+          1,
+          2
+        ],
+        "target": 1,
+        "position_before": 5,
+        "scores": [
+          0.2864528949883554,
+          0.24641475842488955,
+          0.3556002989010657,
+          0.27799042703417437,
+          0.36468496918678284,
+          0.2750056876268533
+        ],
+        "return_reserve_s": 20.27701098219741
+      },
+      {
+        "decision_number": 5,
+        "elapsed_proxy_s": 70.85146590245735,
+        "observed_indices": [
+          1,
+          3,
+          4,
+          5
+        ],
+        "feasible_indices": [
+          0,
+          2
+        ],
+        "target": 2,
+        "position_before": 1,
+        "scores": [
+          0.2864528949883554,
+          0.24641475842488955,
+          0.3556002989010657,
+          0.27799042703417437,
+          0.36468496918678284,
+          0.2750056876268533
+        ],
+        "return_reserve_s": 21.732111122820445
+      },
+      {
+        "decision_number": 6,
+        "elapsed_proxy_s": 92.23887702693598,
+        "observed_indices": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "feasible_indices": [
+          0
+        ],
+        "target": 0,
+        "position_before": 2,
+        "scores": [
+          0.21389356939051132,
+          0.24641475842488955,
+          0.3556002989010657,
+          0.27799042703417437,
+          0.36468496918678284,
+          0.2750056876268533
+        ],
+        "return_reserve_s": 9.83440602559844
+      }
+    ],
+    "updates": [
+      {
+        "anchor_index": 4,
+        "feedback": 0,
+        "anchor_score_before": 0.36468496918678284,
+        "residual": -0.36468496918678284,
+        "visited_indices": [
+          4
+        ],
+        "gain": 0.3218490027881059,
+        "hypothetical_pearson_mean_change": 0.04507646170299377,
+        "actual_mean_change": 0.045076461702993766,
+        "scores_before": [
+          0.364641010761261,
+          0.3081253468990326,
+          0.3836459815502167,
+          0.36697953939437866,
+          0.36468496918678284,
+          0.3273361623287201
+        ],
+        "scores_after": [
+          0.3115196614116386,
+          0.2859996170420593,
+          0.37483033930391463,
+          0.27799042703417437,
+          0.36468496918678284,
+          0.2750056876268533
+        ],
+        "decision_number": 2
+      },
+      {
+        "anchor_index": 5,
+        "feedback": 0,
+        "anchor_score_before": 0.2750056876268533,
+        "residual": -0.2750056876268533,
+        "visited_indices": [
+          3,
+          4,
+          5
+        ],
+        "gain": 0.16849388916412694,
+        "hypothetical_pearson_mean_change": 0.027960555147767296,
+        "actual_mean_change": 0.027960555147767286,
+        "scores_before": [
+          0.3115196614116386,
+          0.2859996170420593,
+          0.37483033930391463,
+          0.27799042703417437,
+          0.36468496918678284,
+          0.2750056876268533
+        ],
+        "scores_after": [
+          0.2864528949883554,
+          0.24641475842488955,
+          0.3556002989010657,
+          0.27799042703417437,
+          0.36468496918678284,
+          0.2750056876268533
+        ],
+        "decision_number": 4
+      },
+      {
+        "anchor_index": 2,
+        "feedback": 0,
+        "anchor_score_before": 0.3556002989010657,
+        "residual": -0.3556002989010657,
+        "visited_indices": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "gain": 0.4249911573171521,
+        "hypothetical_pearson_mean_change": 0.07255932559784412,
+        "actual_mean_change": 0.07255932559784409,
+        "scores_before": [
+          0.2864528949883554,
+          0.24641475842488955,
+          0.3556002989010657,
+          0.27799042703417437,
+          0.36468496918678284,
+          0.2750056876268533
+        ],
+        "scores_after": [
+          0.21389356939051132,
+          0.24641475842488955,
+          0.3556002989010657,
+          0.27799042703417437,
+          0.36468496918678284,
+          0.2750056876268533
+        ],
+        "decision_number": 6
+      }
+    ],
+    "returned_home": true,
+    "budget_slack_s": 15.812956868531302,
+    "certificate": null,
+    "solver_wall_seconds": 0.00105870800325647,
+    "case": "case_rank06",
+    "scene": "1001-McGregor-College-Pkwy-South.1.geo.tif",
+    "label_access_indices": [
+      4,
+      3,
+      5,
+      1,
+      2,
+      0
+    ],
+    "route_building_ids": [
+      "f06d1fe54902471093a95f711c0e0611",
+      "bdefc9615220408892b1ce1a85d9a4bb",
+      "fea8cc3548eb40818e499eb3589b70fd",
+      "661d111f5df744fb9d9c2dbaa285cfcc",
+      "b4a53a6955b345d29e60b8bafde493ca",
+      "12f35ab99a0a4a8280ca89f65e53a3d6"
+    ],
+    "source_positive_checks": 1,
+    "first_positive_check_proxy_s": 114.35263710587026,
+    "unknown_source_checks": 2,
+    "source_severe_checks": 1
+  },
+  {
+    "policy": "pearson",
+    "budget_proxy_s": 140,
+    "route": [
+      4,
+      3,
+      5,
+      1,
+      2,
+      0
+    ],
+    "distance_m": 290.9352156573434,
+    "return_distance_m": 49.1720301279922,
+    "elapsed_proxy_s": 124.1870431314687,
+    "planning_calls": 6,
+    "observations": [
+      {
+        "index": 4,
+        "source_label": 0,
+        "arrival_proxy_s": 7.331707810471902,
+        "observation_complete_proxy_s": 17.3317078104719,
+        "leg_m": 31.658539052359508,
+        "score_before_observation": 0.36468496918678284
+      },
+      {
+        "index": 3,
+        "source_label": null,
+        "arrival_proxy_s": 25.772770566557433,
+        "observation_complete_proxy_s": 35.77277056655743,
+        "leg_m": 37.20531378042765,
+        "score_before_observation": 0.28947179881126245
+      },
+      {
+        "index": 5,
+        "source_label": 0,
+        "arrival_proxy_s": 43.23917052879952,
+        "observation_complete_proxy_s": 53.23917052879952,
+        "leg_m": 32.33199981121044,
+        "score_before_observation": 0.25132820964302643
+      },
+      {
+        "index": 1,
+        "source_label": null,
+        "arrival_proxy_s": 59.85146590245735,
+        "observation_complete_proxy_s": 69.85146590245735,
+        "leg_m": 28.06147686828914,
+        "score_before_observation": 0.2987033047077528
+      },
+      {
+        "index": 2,
+        "source_label": 0,
+        "arrival_proxy_s": 81.23887702693598,
+        "observation_complete_proxy_s": 91.23887702693598,
+        "leg_m": 51.93705562239315,
+        "score_before_observation": 0.3298410440772722
+      },
+      {
+        "index": 0,
+        "source_label": 1,
+        "arrival_proxy_s": 104.35263710587026,
+        "observation_complete_proxy_s": 114.35263710587026,
+        "leg_m": 60.56880039467135,
+        "score_before_observation": 0.21203854908565697
+      }
+    ],
+    "decisions": [
+      {
+        "decision_number": 1,
+        "elapsed_proxy_s": 1.0,
+        "observed_indices": [],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "target": 4,
+        "position_before": 6,
+        "scores": [
+          0.364641010761261,
+          0.3081253468990326,
+          0.3836459815502167,
+          0.36697953939437866,
+          0.36468496918678284,
+          0.3273361623287201
+        ],
+        "return_reserve_s": 6.331707810471902
+      },
+      {
+        "decision_number": 2,
+        "elapsed_proxy_s": 18.3317078104719,
+        "observed_indices": [
+          4
+        ],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          3,
+          5
+        ],
+        "target": 3,
+        "position_before": 4,
+        "scores": [
+          0.30972017906054566,
+          0.3041392394180162,
+          0.3706863054857894,
+          0.28947179881126245,
+          0.36468496918678284,
+          0.25132820964302643
+        ],
+        "return_reserve_s": 12.196791395184313
+      },
+      {
+        "decision_number": 3,
+        "elapsed_proxy_s": 36.77277056655743,
+        "observed_indices": [
+          3,
+          4
+        ],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          5
+        ],
+        "target": 5,
+        "position_before": 3,
+        "scores": [
+          0.30972017906054566,
+          0.3041392394180162,
+          0.3706863054857894,
+          0.28947179881126245,
+          0.36468496918678284,
+          0.25132820964302643
+        ],
+        "return_reserve_s": 15.353765183565041
+      },
+      {
+        "decision_number": 4,
+        "elapsed_proxy_s": 54.23917052879952,
+        "observed_indices": [
+          3,
+          4,
+          5
+        ],
+        "feasible_indices": [
+          0,
+          1,
+          2
+        ],
+        "target": 1,
+        "position_before": 5,
+        "scores": [
+          0.27934176504666,
+          0.2987033047077528,
+          0.3298410440772722,
+          0.28947179881126245,
+          0.36468496918678284,
+          0.25132820964302643
+        ],
+        "return_reserve_s": 20.27701098219741
+      },
+      {
+        "decision_number": 5,
+        "elapsed_proxy_s": 70.85146590245735,
+        "observed_indices": [
+          1,
+          3,
+          4,
+          5
+        ],
+        "feasible_indices": [
+          0,
+          2
+        ],
+        "target": 2,
+        "position_before": 1,
+        "scores": [
+          0.27934176504666,
+          0.2987033047077528,
+          0.3298410440772722,
+          0.28947179881126245,
+          0.36468496918678284,
+          0.25132820964302643
+        ],
+        "return_reserve_s": 21.732111122820445
+      },
+      {
+        "decision_number": 6,
+        "elapsed_proxy_s": 92.23887702693598,
+        "observed_indices": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "feasible_indices": [
+          0
+        ],
+        "target": 0,
+        "position_before": 2,
+        "scores": [
+          0.21203854908565697,
+          0.2987033047077528,
+          0.3298410440772722,
+          0.28947179881126245,
+          0.36468496918678284,
+          0.25132820964302643
+        ],
+        "return_reserve_s": 9.83440602559844
+      }
+    ],
+    "updates": [
+      {
+        "anchor_index": 4,
+        "feedback": 0,
+        "anchor_score_before": 0.36468496918678284,
+        "residual": -0.36468496918678284,
+        "visited_indices": [
+          4
+        ],
+        "gain": 0.5,
+        "hypothetical_pearson_mean_change": 0.04507646170299377,
+        "actual_mean_change": 0.04507646170299377,
+        "scores_before": [
+          0.364641010761261,
+          0.3081253468990326,
+          0.3836459815502167,
+          0.36697953939437866,
+          0.36468496918678284,
+          0.3273361623287201
+        ],
+        "scores_after": [
+          0.30972017906054566,
+          0.3041392394180162,
+          0.3706863054857894,
+          0.28947179881126245,
+          0.36468496918678284,
+          0.25132820964302643
+        ],
+        "decision_number": 2
+      },
+      {
+        "anchor_index": 5,
+        "feedback": 0,
+        "anchor_score_before": 0.25132820964302643,
+        "residual": -0.25132820964302643,
+        "visited_indices": [
+          3,
+          4,
+          5
+        ],
+        "gain": 0.5,
+        "hypothetical_pearson_mean_change": 0.025553203377555418,
+        "actual_mean_change": 0.025553203377555418,
+        "scores_before": [
+          0.30972017906054566,
+          0.3041392394180162,
+          0.3706863054857894,
+          0.28947179881126245,
+          0.36468496918678284,
+          0.25132820964302643
+        ],
+        "scores_after": [
+          0.27934176504666,
+          0.2987033047077528,
+          0.3298410440772722,
+          0.28947179881126245,
+          0.36468496918678284,
+          0.25132820964302643
+        ],
+        "decision_number": 4
+      },
+      {
+        "anchor_index": 2,
+        "feedback": 0,
+        "anchor_score_before": 0.3298410440772722,
+        "residual": -0.3298410440772722,
+        "visited_indices": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "gain": 0.5,
+        "hypothetical_pearson_mean_change": 0.067303215961003,
+        "actual_mean_change": 0.067303215961003,
+        "scores_before": [
+          0.27934176504666,
+          0.2987033047077528,
+          0.3298410440772722,
+          0.28947179881126245,
+          0.36468496918678284,
+          0.25132820964302643
+        ],
+        "scores_after": [
+          0.21203854908565697,
+          0.2987033047077528,
+          0.3298410440772722,
+          0.28947179881126245,
+          0.36468496918678284,
+          0.25132820964302643
+        ],
+        "decision_number": 6
+      }
+    ],
+    "returned_home": true,
+    "budget_slack_s": 15.812956868531302,
+    "certificate": null,
+    "solver_wall_seconds": 9.570899419486523e-05,
+    "case": "case_rank06",
+    "scene": "1001-McGregor-College-Pkwy-South.1.geo.tif",
+    "label_access_indices": [
+      4,
+      3,
+      5,
+      1,
+      2,
+      0
+    ],
+    "route_building_ids": [
+      "f06d1fe54902471093a95f711c0e0611",
+      "bdefc9615220408892b1ce1a85d9a4bb",
+      "fea8cc3548eb40818e499eb3589b70fd",
+      "661d111f5df744fb9d9c2dbaa285cfcc",
+      "b4a53a6955b345d29e60b8bafde493ca",
+      "12f35ab99a0a4a8280ca89f65e53a3d6"
+    ],
+    "source_positive_checks": 1,
+    "first_positive_check_proxy_s": 114.35263710587026,
+    "unknown_source_checks": 2,
+    "source_severe_checks": 1
+  }
+]

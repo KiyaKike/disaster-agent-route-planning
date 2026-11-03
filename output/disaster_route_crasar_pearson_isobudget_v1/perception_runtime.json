@@ -1,0 +1,21 @@
+{
+  "model": "HuggingFaceTB/SmolVLM-256M-Instruct",
+  "revision": "7e3e67edbbed1bf9888184d9df282b700a323964",
+  "device": "mps",
+  "torch": "2.9.1",
+  "transformers": "4.57.1",
+  "dtype": "float32",
+  "answer_tokens": [
+    49,
+    330,
+    50,
+    389
+  ],
+  "processor_longest_edge": 512,
+  "image_splitting": false,
+  "prompt": "Identical no-history prompt as Boone v2",
+  "new_training": false,
+  "local_files_only": true,
+  "external_api_calls": 0,
+  "gpu_rental": false
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "case": "case_rank03",
+    "enumerated_subsets": 262144,
+    "bellman_states_verified": 2359296,
+    "precompute_and_audit_wall_seconds": 2.392208584002219
+  },
+  {
+    "case": "case_rank04",
+    "enumerated_subsets": 256,
+    "bellman_states_verified": 1024,
+    "precompute_and_audit_wall_seconds": 0.001380834000883624
+  },
+  {
+    "case": "case_rank06",
+    "enumerated_subsets": 64,
+    "bellman_states_verified": 192,
+    "precompute_and_audit_wall_seconds": 0.0004795830027433112
+  }
+]

@@ -1,0 +1,5650 @@
+[
+  {
+    "policy": "distance",
+    "budget_proxy_s": 60,
+    "route": [
+      4,
+      5,
+      7
+    ],
+    "distance_m": 127.16027425653209,
+    "return_distance_m": 63.35218616053263,
+    "elapsed_proxy_s": 59.43205485130642,
+    "planning_calls": 4,
+    "observations": [
+      {
+        "index": 4,
+        "source_label": 0,
+        "arrival_proxy_s": 2.9300143068379425,
+        "observation_complete_proxy_s": 12.930014306837943,
+        "leg_m": 9.650071534189713,
+        "score_before_observation": 0.38152289390563965
+      },
+      {
+        "index": 5,
+        "source_label": 0,
+        "arrival_proxy_s": 19.16640680589404,
+        "observation_complete_proxy_s": 29.16640680589404,
+        "leg_m": 26.18196249528049,
+        "score_before_observation": 0.3973090648651123
+      },
+      {
+        "index": 7,
+        "source_label": 0,
+        "arrival_proxy_s": 35.76161761919989,
+        "observation_complete_proxy_s": 45.76161761919989,
+        "leg_m": 27.976054066529247,
+        "score_before_observation": 0.4110504388809204
+      }
+    ],
+    "decisions": [
+      {
+        "decision_number": 1,
+        "elapsed_proxy_s": 1.0,
+        "observed_indices": [],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "target": 4,
+        "position_before": 8,
+        "scores": [
+          0.4117356240749359,
+          0.39091116189956665,
+          0.3928621709346771,
+          0.3852306306362152,
+          0.38152289390563965,
+          0.3973090648651123,
+          0.3698005974292755,
+          0.4110504388809204
+        ],
+        "return_reserve_s": 1.9300143068379427
+      },
+      {
+        "decision_number": 2,
+        "elapsed_proxy_s": 13.930014306837943,
+        "observed_indices": [
+          4
+        ],
+        "feasible_indices": [
+          0,
+          2,
+          3,
+          5,
+          6,
+          7
+        ],
+        "target": 5,
+        "position_before": 4,
+        "scores": [
+          0.4117356240749359,
+          0.39091116189956665,
+          0.3928621709346771,
+          0.3852306306362152,
+          0.38152289390563965,
+          0.3973090648651123,
+          0.3698005974292755,
+          0.4110504388809204
+        ],
+        "return_reserve_s": 7.104154332284219
+      },
+      {
+        "decision_number": 3,
+        "elapsed_proxy_s": 30.16640680589404,
+        "observed_indices": [
+          4,
+          5
+        ],
+        "feasible_indices": [
+          2,
+          7
+        ],
+        "target": 7,
+        "position_before": 5,
+        "scores": [
+          0.4117356240749359,
+          0.39091116189956665,
+          0.3928621709346771,
+          0.3852306306362152,
+          0.38152289390563965,
+          0.3973090648651123,
+          0.3698005974292755,
+          0.4110504388809204
+        ],
+        "return_reserve_s": 12.670437232106526
+      },
+      {
+        "decision_number": 4,
+        "elapsed_proxy_s": 46.76161761919989,
+        "observed_indices": [
+          4,
+          5,
+          7
+        ],
+        "feasible_indices": [],
+        "target": null
+      }
+    ],
+    "updates": [],
+    "returned_home": true,
+    "budget_slack_s": 0.5679451486935818,
+    "certificate": null,
+    "solver_wall_seconds": 5.895800131838769e-05,
+    "case": "case_rank04",
+    "scene": "1001-Iona-Point.geo.tif",
+    "label_access_indices": [
+      4,
+      5,
+      7
+    ],
+    "route_building_ids": [
+      "6cb4c4506f1c475fb21c50af0c54c995",
+      "a16d15374bb3402c9d7437def99a0a04",
+      "f7c50254e0614d5cae1668233aad9256"
+    ],
+    "source_positive_checks": 0,
+    "first_positive_check_proxy_s": null,
+    "unknown_source_checks": 0,
+    "source_severe_checks": 0
+  },
+  {
+    "policy": "static_exact",
+    "budget_proxy_s": 60,
+    "route": [
+      7,
+      5,
+      4
+    ],
+    "distance_m": 127.16027425653209,
+    "return_distance_m": 9.650071534189713,
+    "elapsed_proxy_s": 56.43205485130641,
+    "planning_calls": 1,
+    "observations": [
+      {
+        "index": 7,
+        "source_label": 0,
+        "arrival_proxy_s": 13.670437232106526,
+        "observation_complete_proxy_s": 23.670437232106526,
+        "leg_m": 63.35218616053263,
+        "score_before_observation": 0.4110504388809204
+      },
+      {
+        "index": 5,
+        "source_label": 0,
+        "arrival_proxy_s": 29.265648045412377,
+        "observation_complete_proxy_s": 39.26564804541238,
+        "leg_m": 27.976054066529247,
+        "score_before_observation": 0.3973090648651123
+      },
+      {
+        "index": 4,
+        "source_label": 0,
+        "arrival_proxy_s": 44.50204054446847,
+        "observation_complete_proxy_s": 54.50204054446847,
+        "leg_m": 26.18196249528049,
+        "score_before_observation": 0.38152289390563965
+      }
+    ],
+    "decisions": [
+      {
+        "decision_number": 1,
+        "elapsed_proxy_s": 1.0,
+        "observed_indices": [],
+        "feasible_indices": [
+          7
+        ],
+        "target": 7,
+        "position_before": 8,
+        "scores": [
+          0.4117356240749359,
+          0.39091116189956665,
+          0.3928621709346771,
+          0.3852306306362152,
+          0.38152289390563965,
+          0.3973090648651123,
+          0.3698005974292755,
+          0.4110504388809204
+        ],
+        "return_reserve_s": 12.670437232106526
+      },
+      {
+        "decision_number": 1,
+        "elapsed_proxy_s": 23.670437232106526,
+        "observed_indices": [
+          7
+        ],
+        "feasible_indices": [
+          5
+        ],
+        "target": 5,
+        "position_before": 7,
+        "scores": [
+          0.4117356240749359,
+          0.39091116189956665,
+          0.3928621709346771,
+          0.3852306306362152,
+          0.38152289390563965,
+          0.3973090648651123,
+          0.3698005974292755,
+          0.4110504388809204
+        ],
+        "return_reserve_s": 7.104154332284219
+      },
+      {
+        "decision_number": 1,
+        "elapsed_proxy_s": 39.26564804541238,
+        "observed_indices": [
+          5,
+          7
+        ],
+        "feasible_indices": [
+          4
+        ],
+        "target": 4,
+        "position_before": 5,
+        "scores": [
+          0.4117356240749359,
+          0.39091116189956665,
+          0.3928621709346771,
+          0.3852306306362152,
+          0.38152289390563965,
+          0.3973090648651123,
+          0.3698005974292755,
+          0.4110504388809204
+        ],
+        "return_reserve_s": 1.9300143068379427
+      }
+    ],
+    "updates": [],
+    "returned_home": true,
+    "budget_slack_s": 3.567945148693589,
+    "certificate": {
+      "subset_mask": 176,
+      "public_objective": 1.1898823976516724,
+      "upper_bound": 1.1898823976516724,
+      "gap": 0.0,
+      "subsets": 256,
+      "feasible_subsets": 30
+    },
+    "solver_wall_seconds": 0.0001442079956177622,
+    "case": "case_rank04",
+    "scene": "1001-Iona-Point.geo.tif",
+    "label_access_indices": [
+      7,
+      5,
+      4
+    ],
+    "route_building_ids": [
+      "f7c50254e0614d5cae1668233aad9256",
+      "a16d15374bb3402c9d7437def99a0a04",
+      "6cb4c4506f1c475fb21c50af0c54c995"
+    ],
+    "source_positive_checks": 0,
+    "first_positive_check_proxy_s": null,
+    "unknown_source_checks": 0,
+    "source_severe_checks": 0
+  },
+  {
+    "policy": "no_update",
+    "budget_proxy_s": 60,
+    "route": [
+      4,
+      5,
+      7
+    ],
+    "distance_m": 127.16027425653209,
+    "return_distance_m": 63.35218616053263,
+    "elapsed_proxy_s": 59.43205485130642,
+    "planning_calls": 4,
+    "observations": [
+      {
+        "index": 4,
+        "source_label": 0,
+        "arrival_proxy_s": 2.9300143068379425,
+        "observation_complete_proxy_s": 12.930014306837943,
+        "leg_m": 9.650071534189713,
+        "score_before_observation": 0.38152289390563965
+      },
+      {
+        "index": 5,
+        "source_label": 0,
+        "arrival_proxy_s": 19.16640680589404,
+        "observation_complete_proxy_s": 29.16640680589404,
+        "leg_m": 26.18196249528049,
+        "score_before_observation": 0.3973090648651123
+      },
+      {
+        "index": 7,
+        "source_label": 0,
+        "arrival_proxy_s": 35.76161761919989,
+        "observation_complete_proxy_s": 45.76161761919989,
+        "leg_m": 27.976054066529247,
+        "score_before_observation": 0.4110504388809204
+      }
+    ],
+    "decisions": [
+      {
+        "decision_number": 1,
+        "elapsed_proxy_s": 1.0,
+        "observed_indices": [],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "target": 4,
+        "position_before": 8,
+        "scores": [
+          0.4117356240749359,
+          0.39091116189956665,
+          0.3928621709346771,
+          0.3852306306362152,
+          0.38152289390563965,
+          0.3973090648651123,
+          0.3698005974292755,
+          0.4110504388809204
+        ],
+        "return_reserve_s": 1.9300143068379427
+      },
+      {
+        "decision_number": 2,
+        "elapsed_proxy_s": 13.930014306837943,
+        "observed_indices": [
+          4
+        ],
+        "feasible_indices": [
+          0,
+          2,
+          3,
+          5,
+          6,
+          7
+        ],
+        "target": 5,
+        "position_before": 4,
+        "scores": [
+          0.4117356240749359,
+          0.39091116189956665,
+          0.3928621709346771,
+          0.3852306306362152,
+          0.38152289390563965,
+          0.3973090648651123,
+          0.3698005974292755,
+          0.4110504388809204
+        ],
+        "return_reserve_s": 7.104154332284219
+      },
+      {
+        "decision_number": 3,
+        "elapsed_proxy_s": 30.16640680589404,
+        "observed_indices": [
+          4,
+          5
+        ],
+        "feasible_indices": [
+          2,
+          7
+        ],
+        "target": 7,
+        "position_before": 5,
+        "scores": [
+          0.4117356240749359,
+          0.39091116189956665,
+          0.3928621709346771,
+          0.3852306306362152,
+          0.38152289390563965,
+          0.3973090648651123,
+          0.3698005974292755,
+          0.4110504388809204
+        ],
+        "return_reserve_s": 12.670437232106526
+      },
+      {
+        "decision_number": 4,
+        "elapsed_proxy_s": 46.76161761919989,
+        "observed_indices": [
+          4,
+          5,
+          7
+        ],
+        "feasible_indices": [],
+        "target": null
+      }
+    ],
+    "updates": [],
+    "returned_home": true,
+    "budget_slack_s": 0.5679451486935818,
+    "certificate": null,
+    "solver_wall_seconds": 6.491701060440391e-05,
+    "case": "case_rank04",
+    "scene": "1001-Iona-Point.geo.tif",
+    "label_access_indices": [
+      4,
+      5,
+      7
+    ],
+    "route_building_ids": [
+      "6cb4c4506f1c475fb21c50af0c54c995",
+      "a16d15374bb3402c9d7437def99a0a04",
+      "f7c50254e0614d5cae1668233aad9256"
+    ],
+    "source_positive_checks": 0,
+    "first_positive_check_proxy_s": null,
+    "unknown_source_checks": 0,
+    "source_severe_checks": 0
+  },
+  {
+    "policy": "spatial",
+    "budget_proxy_s": 60,
+    "route": [
+      4,
+      5,
+      7
+    ],
+    "distance_m": 127.16027425653209,
+    "return_distance_m": 63.35218616053263,
+    "elapsed_proxy_s": 59.43205485130642,
+    "planning_calls": 4,
+    "observations": [
+      {
+        "index": 4,
+        "source_label": 0,
+        "arrival_proxy_s": 2.9300143068379425,
+        "observation_complete_proxy_s": 12.930014306837943,
+        "leg_m": 9.650071534189713,
+        "score_before_observation": 0.38152289390563965
+      },
+      {
+        "index": 5,
+        "source_label": 0,
+        "arrival_proxy_s": 19.16640680589404,
+        "observation_complete_proxy_s": 29.16640680589404,
+        "leg_m": 26.18196249528049,
+        "score_before_observation": 0.23098723483092856
+      },
+      {
+        "index": 7,
+        "source_label": 0,
+        "arrival_proxy_s": 35.76161761919989,
+        "observation_complete_proxy_s": 45.76161761919989,
+        "leg_m": 27.976054066529247,
+        "score_before_observation": 0.20613970288635336
+      }
+    ],
+    "decisions": [
+      {
+        "decision_number": 1,
+        "elapsed_proxy_s": 1.0,
+        "observed_indices": [],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "target": 4,
+        "position_before": 8,
+        "scores": [
+          0.4117356240749359,
+          0.39091116189956665,
+          0.3928621709346771,
+          0.3852306306362152,
+          0.38152289390563965,
+          0.3973090648651123,
+          0.3698005974292755,
+          0.4110504388809204
+        ],
+        "return_reserve_s": 1.9300143068379427
+      },
+      {
+        "decision_number": 2,
+        "elapsed_proxy_s": 13.930014306837943,
+        "observed_indices": [
+          4
+        ],
+        "feasible_indices": [
+          0,
+          2,
+          3,
+          5,
+          6,
+          7
+        ],
+        "target": 5,
+        "position_before": 4,
+        "scores": [
+          0.35011971564408895,
+          0.3718598781969666,
+          0.26089036237149366,
+          0.28729490789510426,
+          0.38152289390563965,
+          0.23098723483092856,
+          0.31793422860779824,
+          0.3048987827693092
+        ],
+        "return_reserve_s": 7.104154332284219
+      },
+      {
+        "decision_number": 3,
+        "elapsed_proxy_s": 30.16640680589404,
+        "observed_indices": [
+          4,
+          5
+        ],
+        "feasible_indices": [
+          2,
+          7
+        ],
+        "target": 7,
+        "position_before": 5,
+        "scores": [
+          0.2861760816279849,
+          0.3409182369399104,
+          0.1800387766734902,
+          0.20859236852286533,
+          0.38152289390563965,
+          0.23098723483092856,
+          0.2544099790576964,
+          0.20613970288635336
+        ],
+        "return_reserve_s": 12.670437232106526
+      },
+      {
+        "decision_number": 4,
+        "elapsed_proxy_s": 46.76161761919989,
+        "observed_indices": [
+          4,
+          5,
+          7
+        ],
+        "feasible_indices": [],
+        "target": null
+      }
+    ],
+    "updates": [
+      {
+        "anchor_index": 4,
+        "feedback": 0,
+        "anchor_score_before": 0.38152289390563965,
+        "residual": -0.38152289390563965,
+        "visited_indices": [
+          4
+        ],
+        "gain": 0.5,
+        "hypothetical_pearson_mean_change": 0.06989861025528918,
+        "actual_mean_change": 0.09070208262928767,
+        "scores_before": [
+          0.4117356240749359,
+          0.39091116189956665,
+          0.3928621709346771,
+          0.3852306306362152,
+          0.38152289390563965,
+          0.3973090648651123,
+          0.3698005974292755,
+          0.4110504388809204
+        ],
+        "scores_after": [
+          0.35011971564408895,
+          0.3718598781969666,
+          0.26089036237149366,
+          0.28729490789510426,
+          0.38152289390563965,
+          0.23098723483092856,
+          0.31793422860779824,
+          0.3048987827693092
+        ],
+        "decision_number": 2
+      },
+      {
+        "anchor_index": 5,
+        "feedback": 0,
+        "anchor_score_before": 0.23098723483092856,
+        "residual": -0.23098723483092856,
+        "visited_indices": [
+          4,
+          5
+        ],
+        "gain": 0.5,
+        "hypothetical_pearson_mean_change": 0.04796264737039729,
+        "actual_mean_change": 0.06945378829607672,
+        "scores_before": [
+          0.35011971564408895,
+          0.3718598781969666,
+          0.26089036237149366,
+          0.28729490789510426,
+          0.38152289390563965,
+          0.23098723483092856,
+          0.31793422860779824,
+          0.3048987827693092
+        ],
+        "scores_after": [
+          0.2861760816279849,
+          0.3409182369399104,
+          0.1800387766734902,
+          0.20859236852286533,
+          0.38152289390563965,
+          0.23098723483092856,
+          0.2544099790576964,
+          0.20613970288635336
+        ],
+        "decision_number": 3
+      },
+      {
+        "anchor_index": 7,
+        "feedback": 0,
+        "anchor_score_before": 0.20613970288635336,
+        "residual": -0.20613970288635336,
+        "visited_indices": [
+          4,
+          5,
+          7
+        ],
+        "gain": 0.5,
+        "hypothetical_pearson_mean_change": 0.024535512395690275,
+        "actual_mean_change": 0.06834458954206889,
+        "scores_before": [
+          0.2861760816279849,
+          0.3409182369399104,
+          0.1800387766734902,
+          0.20859236852286533,
+          0.38152289390563965,
+          0.23098723483092856,
+          0.2544099790576964,
+          0.20613970288635336
+        ],
+        "scores_after": [
+          0.21305821921423443,
+          0.28253030141131324,
+          0.12741513306647706,
+          0.1402138130747267,
+          0.38152289390563965,
+          0.23098723483092856,
+          0.1651950283448514,
+          0.20613970288635336
+        ],
+        "decision_number": 4
+      }
+    ],
+    "returned_home": true,
+    "budget_slack_s": 0.5679451486935818,
+    "certificate": null,
+    "solver_wall_seconds": 0.00012512500688899308,
+    "case": "case_rank04",
+    "scene": "1001-Iona-Point.geo.tif",
+    "label_access_indices": [
+      4,
+      5,
+      7
+    ],
+    "route_building_ids": [
+      "6cb4c4506f1c475fb21c50af0c54c995",
+      "a16d15374bb3402c9d7437def99a0a04",
+      "f7c50254e0614d5cae1668233aad9256"
+    ],
+    "source_positive_checks": 0,
+    "first_positive_check_proxy_s": null,
+    "unknown_source_checks": 0,
+    "source_severe_checks": 0
+  },
+  {
+    "policy": "matched_spatial",
+    "budget_proxy_s": 60,
+    "route": [
+      4,
+      5,
+      7
+    ],
+    "distance_m": 127.16027425653209,
+    "return_distance_m": 63.35218616053263,
+    "elapsed_proxy_s": 59.43205485130642,
+    "planning_calls": 4,
+    "observations": [
+      {
+        "index": 4,
+        "source_label": 0,
+        "arrival_proxy_s": 2.9300143068379425,
+        "observation_complete_proxy_s": 12.930014306837943,
+        "leg_m": 9.650071534189713,
+        "score_before_observation": 0.38152289390563965
+      },
+      {
+        "index": 5,
+        "source_label": 0,
+        "arrival_proxy_s": 19.16640680589404,
+        "observation_complete_proxy_s": 29.16640680589404,
+        "leg_m": 26.18196249528049,
+        "score_before_observation": 0.2691348880711614
+      },
+      {
+        "index": 7,
+        "source_label": 0,
+        "arrival_proxy_s": 35.76161761919989,
+        "observation_complete_proxy_s": 45.76161761919989,
+        "leg_m": 27.976054066529247,
+        "score_before_observation": 0.24978253783332444
+      }
+    ],
+    "decisions": [
+      {
+        "decision_number": 1,
+        "elapsed_proxy_s": 1.0,
+        "observed_indices": [],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "target": 4,
+        "position_before": 8,
+        "scores": [
+          0.4117356240749359,
+          0.39091116189956665,
+          0.3928621709346771,
+          0.3852306306362152,
+          0.38152289390563965,
+          0.3973090648651123,
+          0.3698005974292755,
+          0.4110504388809204
+        ],
+        "return_reserve_s": 1.9300143068379427
+      },
+      {
+        "decision_number": 2,
+        "elapsed_proxy_s": 13.930014306837943,
+        "observed_indices": [
+          4
+        ],
+        "feasible_indices": [
+          0,
+          2,
+          3,
+          5,
+          6,
+          7
+        ],
+        "target": 5,
+        "position_before": 4,
+        "scores": [
+          0.3642519694102891,
+          0.37622948959625624,
+          0.29115947851529755,
+          0.3097574913707168,
+          0.38152289390563965,
+          0.2691348880711614,
+          0.3298303233791526,
+          0.3292457765908053
+        ],
+        "return_reserve_s": 7.104154332284219
+      },
+      {
+        "decision_number": 3,
+        "elapsed_proxy_s": 30.16640680589404,
+        "observed_indices": [
+          4,
+          5
+        ],
+        "feasible_indices": [
+          2,
+          7
+        ],
+        "target": 7,
+        "position_before": 5,
+        "scores": [
+          0.31280183173318044,
+          0.35133331772353604,
+          0.22610491476424166,
+          0.24643208691810214,
+          0.38152289390563965,
+          0.2691348880711614,
+          0.2787176295906728,
+          0.24978253783332444
+        ],
+        "return_reserve_s": 12.670437232106526
+      },
+      {
+        "decision_number": 4,
+        "elapsed_proxy_s": 46.76161761919989,
+        "observed_indices": [
+          4,
+          5,
+          7
+        ],
+        "feasible_indices": [],
+        "target": null
+      }
+    ],
+    "updates": [
+      {
+        "anchor_index": 4,
+        "feedback": 0,
+        "anchor_score_before": 0.38152289390563965,
+        "residual": -0.38152289390563965,
+        "visited_indices": [
+          4
+        ],
+        "gain": 0.38531976460217976,
+        "hypothetical_pearson_mean_change": 0.06989861025528918,
+        "actual_mean_change": 0.06989861025528916,
+        "scores_before": [
+          0.4117356240749359,
+          0.39091116189956665,
+          0.3928621709346771,
+          0.3852306306362152,
+          0.38152289390563965,
+          0.3973090648651123,
+          0.3698005974292755,
+          0.4110504388809204
+        ],
+        "scores_after": [
+          0.3642519694102891,
+          0.37622948959625624,
+          0.29115947851529755,
+          0.3097574913707168,
+          0.38152289390563965,
+          0.2691348880711614,
+          0.3298303233791526,
+          0.3292457765908053
+        ],
+        "decision_number": 2
+      },
+      {
+        "anchor_index": 5,
+        "feedback": 0,
+        "anchor_score_before": 0.2691348880711614,
+        "residual": -0.2691348880711614,
+        "visited_indices": [
+          4,
+          5
+        ],
+        "gain": 0.3452846025182661,
+        "hypothetical_pearson_mean_change": 0.055883701716576674,
+        "actual_mean_change": 0.05588370171657667,
+        "scores_before": [
+          0.3642519694102891,
+          0.37622948959625624,
+          0.29115947851529755,
+          0.3097574913707168,
+          0.38152289390563965,
+          0.2691348880711614,
+          0.3298303233791526,
+          0.3292457765908053
+        ],
+        "scores_after": [
+          0.31280183173318044,
+          0.35133331772353604,
+          0.22610491476424166,
+          0.24643208691810214,
+          0.38152289390563965,
+          0.2691348880711614,
+          0.2787176295906728,
+          0.24978253783332444
+        ],
+        "decision_number": 3
+      },
+      {
+        "anchor_index": 7,
+        "feedback": 0,
+        "anchor_score_before": 0.24978253783332444,
+        "residual": -0.24978253783332444,
+        "visited_indices": [
+          4,
+          5,
+          7
+        ],
+        "gain": 0.1794985715774008,
+        "hypothetical_pearson_mean_change": 0.029730044564075193,
+        "actual_mean_change": 0.029730044564075186,
+        "scores_before": [
+          0.31280183173318044,
+          0.35133331772353604,
+          0.22610491476424166,
+          0.24643208691810214,
+          0.38152289390563965,
+          0.2691348880711614,
+          0.2787176295906728,
+          0.24978253783332444
+        ],
+        "scores_after": [
+          0.28099540312550464,
+          0.3259344392329272,
+          0.20321351575163227,
+          0.21668726711127725,
+          0.38152289390563965,
+          0.2691348880711614,
+          0.2399089326880158,
+          0.24978253783332444
+        ],
+        "decision_number": 4
+      }
+    ],
+    "returned_home": true,
+    "budget_slack_s": 0.5679451486935818,
+    "certificate": null,
+    "solver_wall_seconds": 0.0010603340051602572,
+    "case": "case_rank04",
+    "scene": "1001-Iona-Point.geo.tif",
+    "label_access_indices": [
+      4,
+      5,
+      7
+    ],
+    "route_building_ids": [
+      "6cb4c4506f1c475fb21c50af0c54c995",
+      "a16d15374bb3402c9d7437def99a0a04",
+      "f7c50254e0614d5cae1668233aad9256"
+    ],
+    "source_positive_checks": 0,
+    "first_positive_check_proxy_s": null,
+    "unknown_source_checks": 0,
+    "source_severe_checks": 0
+  },
+  {
+    "policy": "pearson",
+    "budget_proxy_s": 60,
+    "route": [
+      4,
+      5,
+      7
+    ],
+    "distance_m": 127.16027425653209,
+    "return_distance_m": 63.35218616053263,
+    "elapsed_proxy_s": 59.43205485130642,
+    "planning_calls": 4,
+    "observations": [
+      {
+        "index": 4,
+        "source_label": 0,
+        "arrival_proxy_s": 2.9300143068379425,
+        "observation_complete_proxy_s": 12.930014306837943,
+        "leg_m": 9.650071534189713,
+        "score_before_observation": 0.38152289390563965
+      },
+      {
+        "index": 5,
+        "source_label": 0,
+        "arrival_proxy_s": 19.16640680589404,
+        "observation_complete_proxy_s": 29.16640680589404,
+        "leg_m": 26.18196249528049,
+        "score_before_observation": 0.23187417054733123
+      },
+      {
+        "index": 7,
+        "source_label": 0,
+        "arrival_proxy_s": 35.76161761919989,
+        "observation_complete_proxy_s": 45.76161761919989,
+        "leg_m": 27.976054066529247,
+        "score_before_observation": 0.30045062361413105
+      }
+    ],
+    "decisions": [
+      {
+        "decision_number": 1,
+        "elapsed_proxy_s": 1.0,
+        "observed_indices": [],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "target": 4,
+        "position_before": 8,
+        "scores": [
+          0.4117356240749359,
+          0.39091116189956665,
+          0.3928621709346771,
+          0.3852306306362152,
+          0.38152289390563965,
+          0.3973090648651123,
+          0.3698005974292755,
+          0.4110504388809204
+        ],
+        "return_reserve_s": 1.9300143068379427
+      },
+      {
+        "decision_number": 2,
+        "elapsed_proxy_s": 13.930014306837943,
+        "observed_indices": [
+          4
+        ],
+        "feasible_indices": [
+          0,
+          2,
+          3,
+          5,
+          6,
+          7
+        ],
+        "target": 5,
+        "position_before": 4,
+        "scores": [
+          0.3824687406353497,
+          0.37618296107951016,
+          0.26645446266106787,
+          0.34220268678193966,
+          0.38152289390563965,
+          0.23187417054733123,
+          0.31973763708879555,
+          0.3506887581396847
+        ],
+        "return_reserve_s": 7.104154332284219
+      },
+      {
+        "decision_number": 3,
+        "elapsed_proxy_s": 30.16640680589404,
+        "observed_indices": [
+          4,
+          5
+        ],
+        "feasible_indices": [
+          2,
+          7
+        ],
+        "target": 7,
+        "position_before": 5,
+        "scores": [
+          0.3480635397914064,
+          0.35400663556811085,
+          0.18674585176220632,
+          0.30278050615681984,
+          0.38152289390563965,
+          0.23187417054733123,
+          0.256807214728314,
+          0.30045062361413105
+        ],
+        "return_reserve_s": 12.670437232106526
+      },
+      {
+        "decision_number": 4,
+        "elapsed_proxy_s": 46.76161761919989,
+        "observed_indices": [
+          4,
+          5,
+          7
+        ],
+        "feasible_indices": [],
+        "target": null
+      }
+    ],
+    "updates": [
+      {
+        "anchor_index": 4,
+        "feedback": 0,
+        "anchor_score_before": 0.38152289390563965,
+        "residual": -0.38152289390563965,
+        "visited_indices": [
+          4
+        ],
+        "gain": 0.5,
+        "hypothetical_pearson_mean_change": 0.06989861025528918,
+        "actual_mean_change": 0.06989861025528918,
+        "scores_before": [
+          0.4117356240749359,
+          0.39091116189956665,
+          0.3928621709346771,
+          0.3852306306362152,
+          0.38152289390563965,
+          0.3973090648651123,
+          0.3698005974292755,
+          0.4110504388809204
+        ],
+        "scores_after": [
+          0.3824687406353497,
+          0.37618296107951016,
+          0.26645446266106787,
+          0.34220268678193966,
+          0.38152289390563965,
+          0.23187417054733123,
+          0.31973763708879555,
+          0.3506887581396847
+        ],
+        "decision_number": 2
+      },
+      {
+        "anchor_index": 5,
+        "feedback": 0,
+        "anchor_score_before": 0.23187417054733123,
+        "residual": -0.23187417054733123,
+        "visited_indices": [
+          4,
+          5
+        ],
+        "gain": 0.5,
+        "hypothetical_pearson_mean_change": 0.04814681246089319,
+        "actual_mean_change": 0.04814681246089319,
+        "scores_before": [
+          0.3824687406353497,
+          0.37618296107951016,
+          0.26645446266106787,
+          0.34220268678193966,
+          0.38152289390563965,
+          0.23187417054733123,
+          0.31973763708879555,
+          0.3506887581396847
+        ],
+        "scores_after": [
+          0.3480635397914064,
+          0.35400663556811085,
+          0.18674585176220632,
+          0.30278050615681984,
+          0.38152289390563965,
+          0.23187417054733123,
+          0.256807214728314,
+          0.30045062361413105
+        ],
+        "decision_number": 3
+      },
+      {
+        "anchor_index": 7,
+        "feedback": 0,
+        "anchor_score_before": 0.30045062361413105,
+        "residual": -0.30045062361413105,
+        "visited_indices": [
+          4,
+          5,
+          7
+        ],
+        "gain": 0.5,
+        "hypothetical_pearson_mean_change": 0.03576074815651341,
+        "actual_mean_change": 0.03576074815651341,
+        "scores_before": [
+          0.3480635397914064,
+          0.35400663556811085,
+          0.18674585176220632,
+          0.30278050615681984,
+          0.38152289390563965,
+          0.23187417054733123,
+          0.256807214728314,
+          0.30045062361413105
+        ],
+        "scores_after": [
+          0.3401918360583975,
+          0.27382532133777976,
+          0.15616338549073874,
+          0.2964077369836638,
+          0.38152289390563965,
+          0.23187417054733123,
+          0.20301172735371062,
+          0.30045062361413105
+        ],
+        "decision_number": 4
+      }
+    ],
+    "returned_home": true,
+    "budget_slack_s": 0.5679451486935818,
+    "certificate": null,
+    "solver_wall_seconds": 9.537499863654375e-05,
+    "case": "case_rank04",
+    "scene": "1001-Iona-Point.geo.tif",
+    "label_access_indices": [
+      4,
+      5,
+      7
+    ],
+    "route_building_ids": [
+      "6cb4c4506f1c475fb21c50af0c54c995",
+      "a16d15374bb3402c9d7437def99a0a04",
+      "f7c50254e0614d5cae1668233aad9256"
+    ],
+    "source_positive_checks": 0,
+    "first_positive_check_proxy_s": null,
+    "unknown_source_checks": 0,
+    "source_severe_checks": 0
+  },
+  {
+    "policy": "distance",
+    "budget_proxy_s": 100,
+    "route": [
+      4,
+      5,
+      7,
+      6,
+      0
+    ],
+    "distance_m": 223.70937591017042,
+    "return_distance_m": 84.57346410810801,
+    "elapsed_proxy_s": 99.74187518203408,
+    "planning_calls": 5,
+    "observations": [
+      {
+        "index": 4,
+        "source_label": 0,
+        "arrival_proxy_s": 2.9300143068379425,
+        "observation_complete_proxy_s": 12.930014306837943,
+        "leg_m": 9.650071534189713,
+        "score_before_observation": 0.38152289390563965
+      },
+      {
+        "index": 5,
+        "source_label": 0,
+        "arrival_proxy_s": 19.16640680589404,
+        "observation_complete_proxy_s": 29.16640680589404,
+        "leg_m": 26.18196249528049,
+        "score_before_observation": 0.3973090648651123
+      },
+      {
+        "index": 7,
+        "source_label": 0,
+        "arrival_proxy_s": 35.76161761919989,
+        "observation_complete_proxy_s": 45.76161761919989,
+        "leg_m": 27.976054066529247,
+        "score_before_observation": 0.4110504388809204
+      },
+      {
+        "index": 6,
+        "source_label": 1,
+        "arrival_proxy_s": 52.13485301881499,
+        "observation_complete_proxy_s": 62.13485301881499,
+        "leg_m": 26.866176998075503,
+        "score_before_observation": 0.3698005974292755
+      },
+      {
+        "index": 0,
+        "source_label": 0,
+        "arrival_proxy_s": 72.82718236041248,
+        "observation_complete_proxy_s": 82.82718236041248,
+        "leg_m": 48.46164670798748,
+        "score_before_observation": 0.4117356240749359
+      }
+    ],
+    "decisions": [
+      {
+        "decision_number": 1,
+        "elapsed_proxy_s": 1.0,
+        "observed_indices": [],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "target": 4,
+        "position_before": 8,
+        "scores": [
+          0.4117356240749359,
+          0.39091116189956665,
+          0.3928621709346771,
+          0.3852306306362152,
+          0.38152289390563965,
+          0.3973090648651123,
+          0.3698005974292755,
+          0.4110504388809204
+        ],
+        "return_reserve_s": 1.9300143068379427
+      },
+      {
+        "decision_number": 2,
+        "elapsed_proxy_s": 13.930014306837943,
+        "observed_indices": [
+          4
+        ],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          3,
+          5,
+          6,
+          7
+        ],
+        "target": 5,
+        "position_before": 4,
+        "scores": [
+          0.4117356240749359,
+          0.39091116189956665,
+          0.3928621709346771,
+          0.3852306306362152,
+          0.38152289390563965,
+          0.3973090648651123,
+          0.3698005974292755,
+          0.4110504388809204
+        ],
+        "return_reserve_s": 7.104154332284219
+      },
+      {
+        "decision_number": 3,
+        "elapsed_proxy_s": 30.16640680589404,
+        "observed_indices": [
+          4,
+          5
+        ],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          3,
+          6,
+          7
+        ],
+        "target": 7,
+        "position_before": 5,
+        "scores": [
+          0.4117356240749359,
+          0.39091116189956665,
+          0.3928621709346771,
+          0.3852306306362152,
+          0.38152289390563965,
+          0.3973090648651123,
+          0.3698005974292755,
+          0.4110504388809204
+        ],
+        "return_reserve_s": 12.670437232106526
+      },
+      {
+        "decision_number": 4,
+        "elapsed_proxy_s": 46.76161761919989,
+        "observed_indices": [
+          4,
+          5,
+          7
+        ],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          3,
+          6
+        ],
+        "target": 6,
+        "position_before": 7,
+        "scores": [
+          0.4117356240749359,
+          0.39091116189956665,
+          0.3928621709346771,
+          0.3852306306362152,
+          0.38152289390563965,
+          0.3973090648651123,
+          0.3698005974292755,
+          0.4110504388809204
+        ],
+        "return_reserve_s": 17.94055493624105
+      },
+      {
+        "decision_number": 5,
+        "elapsed_proxy_s": 63.13485301881499,
+        "observed_indices": [
+          4,
+          5,
+          6,
+          7
+        ],
+        "feasible_indices": [
+          0,
+          2,
+          3
+        ],
+        "target": 0,
+        "position_before": 6,
+        "scores": [
+          0.4117356240749359,
+          0.39091116189956665,
+          0.3928621709346771,
+          0.3852306306362152,
+          0.38152289390563965,
+          0.3973090648651123,
+          0.3698005974292755,
+          0.4110504388809204
+        ],
+        "return_reserve_s": 16.914692821621603
+      }
+    ],
+    "updates": [],
+    "returned_home": true,
+    "budget_slack_s": 0.25812481796592124,
+    "certificate": null,
+    "solver_wall_seconds": 7.545799599029124e-05,
+    "case": "case_rank04",
+    "scene": "1001-Iona-Point.geo.tif",
+    "label_access_indices": [
+      4,
+      5,
+      7,
+      6,
+      0
+    ],
+    "route_building_ids": [
+      "6cb4c4506f1c475fb21c50af0c54c995",
+      "a16d15374bb3402c9d7437def99a0a04",
+      "f7c50254e0614d5cae1668233aad9256",
+      "e81d393265a34842bdfe680c5c7549db",
+      "00278e0a430549e6b5c4ab093c0ffa9a"
+    ],
+    "source_positive_checks": 1,
+    "first_positive_check_proxy_s": 62.13485301881499,
+    "unknown_source_checks": 0,
+    "source_severe_checks": 0
+  },
+  {
+    "policy": "static_exact",
+    "budget_proxy_s": 100,
+    "route": [
+      5,
+      7,
+      0,
+      3,
+      2
+    ],
+    "distance_m": 204.7207737663167,
+    "return_distance_m": 49.26330106673653,
+    "elapsed_proxy_s": 91.94415475326333,
+    "planning_calls": 1,
+    "observations": [
+      {
+        "index": 5,
+        "source_label": 0,
+        "arrival_proxy_s": 8.104154332284219,
+        "observation_complete_proxy_s": 18.104154332284217,
+        "leg_m": 35.520771661421094,
+        "score_before_observation": 0.3973090648651123
+      },
+      {
+        "index": 7,
+        "source_label": 0,
+        "arrival_proxy_s": 23.699365145590065,
+        "observation_complete_proxy_s": 33.699365145590065,
+        "leg_m": 27.976054066529247,
+        "score_before_observation": 0.4110504388809204
+      },
+      {
+        "index": 0,
+        "source_label": 0,
+        "arrival_proxy_s": 41.985911289273616,
+        "observation_complete_proxy_s": 51.985911289273616,
+        "leg_m": 41.43273071841778,
+        "score_before_observation": 0.4117356240749359
+      },
+      {
+        "index": 3,
+        "source_label": 0,
+        "arrival_proxy_s": 56.905763765091166,
+        "observation_complete_proxy_s": 66.90576376509117,
+        "leg_m": 24.59926237908776,
+        "score_before_observation": 0.3852306306362152
+      },
+      {
+        "index": 2,
+        "source_label": 0,
+        "arrival_proxy_s": 72.09149453991603,
+        "observation_complete_proxy_s": 82.09149453991603,
+        "leg_m": 25.928653874124336,
+        "score_before_observation": 0.3928621709346771
+      }
+    ],
+    "decisions": [
+      {
+        "decision_number": 1,
+        "elapsed_proxy_s": 1.0,
+        "observed_indices": [],
+        "feasible_indices": [
+          5
+        ],
+        "target": 5,
+        "position_before": 8,
+        "scores": [
+          0.4117356240749359,
+          0.39091116189956665,
+          0.3928621709346771,
+          0.3852306306362152,
+          0.38152289390563965,
+          0.3973090648651123,
+          0.3698005974292755,
+          0.4110504388809204
+        ],
+        "return_reserve_s": 7.104154332284219
+      },
+      {
+        "decision_number": 1,
+        "elapsed_proxy_s": 18.104154332284217,
+        "observed_indices": [
+          5
+        ],
+        "feasible_indices": [
+          7
+        ],
+        "target": 7,
+        "position_before": 5,
+        "scores": [
+          0.4117356240749359,
+          0.39091116189956665,
+          0.3928621709346771,
+          0.3852306306362152,
+          0.38152289390563965,
+          0.3973090648651123,
+          0.3698005974292755,
+          0.4110504388809204
+        ],
+        "return_reserve_s": 12.670437232106526
+      },
+      {
+        "decision_number": 1,
+        "elapsed_proxy_s": 33.699365145590065,
+        "observed_indices": [
+          5,
+          7
+        ],
+        "feasible_indices": [
+          0
+        ],
+        "target": 0,
+        "position_before": 7,
+        "scores": [
+          0.4117356240749359,
+          0.39091116189956665,
+          0.3928621709346771,
+          0.3852306306362152,
+          0.38152289390563965,
+          0.3973090648651123,
+          0.3698005974292755,
+          0.4110504388809204
+        ],
+        "return_reserve_s": 16.914692821621603
+      },
+      {
+        "decision_number": 1,
+        "elapsed_proxy_s": 51.985911289273616,
+        "observed_indices": [
+          0,
+          5,
+          7
+        ],
+        "feasible_indices": [
+          3
+        ],
+        "target": 3,
+        "position_before": 0,
+        "scores": [
+          0.4117356240749359,
+          0.39091116189956665,
+          0.3928621709346771,
+          0.3852306306362152,
+          0.38152289390563965,
+          0.3973090648651123,
+          0.3698005974292755,
+          0.4110504388809204
+        ],
+        "return_reserve_s": 13.269613001854804
+      },
+      {
+        "decision_number": 1,
+        "elapsed_proxy_s": 66.90576376509117,
+        "observed_indices": [
+          0,
+          3,
+          5,
+          7
+        ],
+        "feasible_indices": [
+          2
+        ],
+        "target": 2,
+        "position_before": 3,
+        "scores": [
+          0.4117356240749359,
+          0.39091116189956665,
+          0.3928621709346771,
+          0.3852306306362152,
+          0.38152289390563965,
+          0.3973090648651123,
+          0.3698005974292755,
+          0.4110504388809204
+        ],
+        "return_reserve_s": 9.852660213347306
+      }
+    ],
+    "updates": [],
+    "returned_home": true,
+    "budget_slack_s": 8.055845246736666,
+    "certificate": {
+      "subset_mask": 173,
+      "public_objective": 1.998187929391861,
+      "upper_bound": 1.998187929391861,
+      "gap": 0.0,
+      "subsets": 256,
+      "feasible_subsets": 185
+    },
+    "solver_wall_seconds": 0.00014379200001712888,
+    "case": "case_rank04",
+    "scene": "1001-Iona-Point.geo.tif",
+    "label_access_indices": [
+      5,
+      7,
+      0,
+      3,
+      2
+    ],
+    "route_building_ids": [
+      "a16d15374bb3402c9d7437def99a0a04",
+      "f7c50254e0614d5cae1668233aad9256",
+      "00278e0a430549e6b5c4ab093c0ffa9a",
+      "5eaad76070fe4f98be2e50d7d078a195",
+      "5773f1ca4318469fbf187c6a915c6043"
+    ],
+    "source_positive_checks": 0,
+    "first_positive_check_proxy_s": null,
+    "unknown_source_checks": 0,
+    "source_severe_checks": 0
+  },
+  {
+    "policy": "no_update",
+    "budget_proxy_s": 100,
+    "route": [
+      4,
+      5,
+      7,
+      6,
+      0
+    ],
+    "distance_m": 223.70937591017042,
+    "return_distance_m": 84.57346410810801,
+    "elapsed_proxy_s": 99.74187518203408,
+    "planning_calls": 5,
+    "observations": [
+      {
+        "index": 4,
+        "source_label": 0,
+        "arrival_proxy_s": 2.9300143068379425,
+        "observation_complete_proxy_s": 12.930014306837943,
+        "leg_m": 9.650071534189713,
+        "score_before_observation": 0.38152289390563965
+      },
+      {
+        "index": 5,
+        "source_label": 0,
+        "arrival_proxy_s": 19.16640680589404,
+        "observation_complete_proxy_s": 29.16640680589404,
+        "leg_m": 26.18196249528049,
+        "score_before_observation": 0.3973090648651123
+      },
+      {
+        "index": 7,
+        "source_label": 0,
+        "arrival_proxy_s": 35.76161761919989,
+        "observation_complete_proxy_s": 45.76161761919989,
+        "leg_m": 27.976054066529247,
+        "score_before_observation": 0.4110504388809204
+      },
+      {
+        "index": 6,
+        "source_label": 1,
+        "arrival_proxy_s": 52.13485301881499,
+        "observation_complete_proxy_s": 62.13485301881499,
+        "leg_m": 26.866176998075503,
+        "score_before_observation": 0.3698005974292755
+      },
+      {
+        "index": 0,
+        "source_label": 0,
+        "arrival_proxy_s": 72.82718236041248,
+        "observation_complete_proxy_s": 82.82718236041248,
+        "leg_m": 48.46164670798748,
+        "score_before_observation": 0.4117356240749359
+      }
+    ],
+    "decisions": [
+      {
+        "decision_number": 1,
+        "elapsed_proxy_s": 1.0,
+        "observed_indices": [],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "target": 4,
+        "position_before": 8,
+        "scores": [
+          0.4117356240749359,
+          0.39091116189956665,
+          0.3928621709346771,
+          0.3852306306362152,
+          0.38152289390563965,
+          0.3973090648651123,
+          0.3698005974292755,
+          0.4110504388809204
+        ],
+        "return_reserve_s": 1.9300143068379427
+      },
+      {
+        "decision_number": 2,
+        "elapsed_proxy_s": 13.930014306837943,
+        "observed_indices": [
+          4
+        ],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          3,
+          5,
+          6,
+          7
+        ],
+        "target": 5,
+        "position_before": 4,
+        "scores": [
+          0.4117356240749359,
+          0.39091116189956665,
+          0.3928621709346771,
+          0.3852306306362152,
+          0.38152289390563965,
+          0.3973090648651123,
+          0.3698005974292755,
+          0.4110504388809204
+        ],
+        "return_reserve_s": 7.104154332284219
+      },
+      {
+        "decision_number": 3,
+        "elapsed_proxy_s": 30.16640680589404,
+        "observed_indices": [
+          4,
+          5
+        ],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          3,
+          6,
+          7
+        ],
+        "target": 7,
+        "position_before": 5,
+        "scores": [
+          0.4117356240749359,
+          0.39091116189956665,
+          0.3928621709346771,
+          0.3852306306362152,
+          0.38152289390563965,
+          0.3973090648651123,
+          0.3698005974292755,
+          0.4110504388809204
+        ],
+        "return_reserve_s": 12.670437232106526
+      },
+      {
+        "decision_number": 4,
+        "elapsed_proxy_s": 46.76161761919989,
+        "observed_indices": [
+          4,
+          5,
+          7
+        ],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          3,
+          6
+        ],
+        "target": 6,
+        "position_before": 7,
+        "scores": [
+          0.4117356240749359,
+          0.39091116189956665,
+          0.3928621709346771,
+          0.3852306306362152,
+          0.38152289390563965,
+          0.3973090648651123,
+          0.3698005974292755,
+          0.4110504388809204
+        ],
+        "return_reserve_s": 17.94055493624105
+      },
+      {
+        "decision_number": 5,
+        "elapsed_proxy_s": 63.13485301881499,
+        "observed_indices": [
+          4,
+          5,
+          6,
+          7
+        ],
+        "feasible_indices": [
+          0,
+          2,
+          3
+        ],
+        "target": 0,
+        "position_before": 6,
+        "scores": [
+          0.4117356240749359,
+          0.39091116189956665,
+          0.3928621709346771,
+          0.3852306306362152,
+          0.38152289390563965,
+          0.3973090648651123,
+          0.3698005974292755,
+          0.4110504388809204
+        ],
+        "return_reserve_s": 16.914692821621603
+      }
+    ],
+    "updates": [],
+    "returned_home": true,
+    "budget_slack_s": 0.25812481796592124,
+    "certificate": null,
+    "solver_wall_seconds": 7.812499825377017e-05,
+    "case": "case_rank04",
+    "scene": "1001-Iona-Point.geo.tif",
+    "label_access_indices": [
+      4,
+      5,
+      7,
+      6,
+      0
+    ],
+    "route_building_ids": [
+      "6cb4c4506f1c475fb21c50af0c54c995",
+      "a16d15374bb3402c9d7437def99a0a04",
+      "f7c50254e0614d5cae1668233aad9256",
+      "e81d393265a34842bdfe680c5c7549db",
+      "00278e0a430549e6b5c4ab093c0ffa9a"
+    ],
+    "source_positive_checks": 1,
+    "first_positive_check_proxy_s": 62.13485301881499,
+    "unknown_source_checks": 0,
+    "source_severe_checks": 0
+  },
+  {
+    "policy": "spatial",
+    "budget_proxy_s": 100,
+    "route": [
+      4,
+      5,
+      7,
+      6,
+      0
+    ],
+    "distance_m": 223.70937591017042,
+    "return_distance_m": 84.57346410810801,
+    "elapsed_proxy_s": 99.74187518203408,
+    "planning_calls": 5,
+    "observations": [
+      {
+        "index": 4,
+        "source_label": 0,
+        "arrival_proxy_s": 2.9300143068379425,
+        "observation_complete_proxy_s": 12.930014306837943,
+        "leg_m": 9.650071534189713,
+        "score_before_observation": 0.38152289390563965
+      },
+      {
+        "index": 5,
+        "source_label": 0,
+        "arrival_proxy_s": 19.16640680589404,
+        "observation_complete_proxy_s": 29.16640680589404,
+        "leg_m": 26.18196249528049,
+        "score_before_observation": 0.23098723483092856
+      },
+      {
+        "index": 7,
+        "source_label": 0,
+        "arrival_proxy_s": 35.76161761919989,
+        "observation_complete_proxy_s": 45.76161761919989,
+        "leg_m": 27.976054066529247,
+        "score_before_observation": 0.20613970288635336
+      },
+      {
+        "index": 6,
+        "source_label": 1,
+        "arrival_proxy_s": 52.13485301881499,
+        "observation_complete_proxy_s": 62.13485301881499,
+        "leg_m": 26.866176998075503,
+        "score_before_observation": 0.1651950283448514
+      },
+      {
+        "index": 0,
+        "source_label": 0,
+        "arrival_proxy_s": 72.82718236041248,
+        "observation_complete_proxy_s": 82.82718236041248,
+        "leg_m": 48.46164670798748,
+        "score_before_observation": 0.4740123661890343
+      }
+    ],
+    "decisions": [
+      {
+        "decision_number": 1,
+        "elapsed_proxy_s": 1.0,
+        "observed_indices": [],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "target": 4,
+        "position_before": 8,
+        "scores": [
+          0.4117356240749359,
+          0.39091116189956665,
+          0.3928621709346771,
+          0.3852306306362152,
+          0.38152289390563965,
+          0.3973090648651123,
+          0.3698005974292755,
+          0.4110504388809204
+        ],
+        "return_reserve_s": 1.9300143068379427
+      },
+      {
+        "decision_number": 2,
+        "elapsed_proxy_s": 13.930014306837943,
+        "observed_indices": [
+          4
+        ],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          3,
+          5,
+          6,
+          7
+        ],
+        "target": 5,
+        "position_before": 4,
+        "scores": [
+          0.35011971564408895,
+          0.3718598781969666,
+          0.26089036237149366,
+          0.28729490789510426,
+          0.38152289390563965,
+          0.23098723483092856,
+          0.31793422860779824,
+          0.3048987827693092
+        ],
+        "return_reserve_s": 7.104154332284219
+      },
+      {
+        "decision_number": 3,
+        "elapsed_proxy_s": 30.16640680589404,
+        "observed_indices": [
+          4,
+          5
+        ],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          3,
+          6,
+          7
+        ],
+        "target": 7,
+        "position_before": 5,
+        "scores": [
+          0.2861760816279849,
+          0.3409182369399104,
+          0.1800387766734902,
+          0.20859236852286533,
+          0.38152289390563965,
+          0.23098723483092856,
+          0.2544099790576964,
+          0.20613970288635336
+        ],
+        "return_reserve_s": 12.670437232106526
+      },
+      {
+        "decision_number": 4,
+        "elapsed_proxy_s": 46.76161761919989,
+        "observed_indices": [
+          4,
+          5,
+          7
+        ],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          3,
+          6
+        ],
+        "target": 6,
+        "position_before": 7,
+        "scores": [
+          0.21305821921423443,
+          0.28253030141131324,
+          0.12741513306647706,
+          0.1402138130747267,
+          0.38152289390563965,
+          0.23098723483092856,
+          0.1651950283448514,
+          0.20613970288635336
+        ],
+        "return_reserve_s": 17.94055493624105
+      },
+      {
+        "decision_number": 5,
+        "elapsed_proxy_s": 63.13485301881499,
+        "observed_indices": [
+          4,
+          5,
+          6,
+          7
+        ],
+        "feasible_indices": [
+          0,
+          2,
+          3
+        ],
+        "target": 0,
+        "position_before": 6,
+        "scores": [
+          0.4740123661890343,
+          0.6376289986017691,
+          0.23763323495327282,
+          0.3277750429164217,
+          0.38152289390563965,
+          0.23098723483092856,
+          0.1651950283448514,
+          0.20613970288635336
+        ],
+        "return_reserve_s": 16.914692821621603
+      }
+    ],
+    "updates": [
+      {
+        "anchor_index": 4,
+        "feedback": 0,
+        "anchor_score_before": 0.38152289390563965,
+        "residual": -0.38152289390563965,
+        "visited_indices": [
+          4
+        ],
+        "gain": 0.5,
+        "hypothetical_pearson_mean_change": 0.06989861025528918,
+        "actual_mean_change": 0.09070208262928767,
+        "scores_before": [
+          0.4117356240749359,
+          0.39091116189956665,
+          0.3928621709346771,
+          0.3852306306362152,
+          0.38152289390563965,
+          0.3973090648651123,
+          0.3698005974292755,
+          0.4110504388809204
+        ],
+        "scores_after": [
+          0.35011971564408895,
+          0.3718598781969666,
+          0.26089036237149366,
+          0.28729490789510426,
+          0.38152289390563965,
+          0.23098723483092856,
+          0.31793422860779824,
+          0.3048987827693092
+        ],
+        "decision_number": 2
+      },
+      {
+        "anchor_index": 5,
+        "feedback": 0,
+        "anchor_score_before": 0.23098723483092856,
+        "residual": -0.23098723483092856,
+        "visited_indices": [
+          4,
+          5
+        ],
+        "gain": 0.5,
+        "hypothetical_pearson_mean_change": 0.04796264737039729,
+        "actual_mean_change": 0.06945378829607672,
+        "scores_before": [
+          0.35011971564408895,
+          0.3718598781969666,
+          0.26089036237149366,
+          0.28729490789510426,
+          0.38152289390563965,
+          0.23098723483092856,
+          0.31793422860779824,
+          0.3048987827693092
+        ],
+        "scores_after": [
+          0.2861760816279849,
+          0.3409182369399104,
+          0.1800387766734902,
+          0.20859236852286533,
+          0.38152289390563965,
+          0.23098723483092856,
+          0.2544099790576964,
+          0.20613970288635336
+        ],
+        "decision_number": 3
+      },
+      {
+        "anchor_index": 7,
+        "feedback": 0,
+        "anchor_score_before": 0.20613970288635336,
+        "residual": -0.20613970288635336,
+        "visited_indices": [
+          4,
+          5,
+          7
+        ],
+        "gain": 0.5,
+        "hypothetical_pearson_mean_change": 0.024535512395690275,
+        "actual_mean_change": 0.06834458954206889,
+        "scores_before": [
+          0.2861760816279849,
+          0.3409182369399104,
+          0.1800387766734902,
+          0.20859236852286533,
+          0.38152289390563965,
+          0.23098723483092856,
+          0.2544099790576964,
+          0.20613970288635336
+        ],
+        "scores_after": [
+          0.21305821921423443,
+          0.28253030141131324,
+          0.12741513306647706,
+          0.1402138130747267,
+          0.38152289390563965,
+          0.23098723483092856,
+          0.1651950283448514,
+          0.20613970288635336
+        ],
+        "decision_number": 4
+      },
+      {
+        "anchor_index": 6,
+        "feedback": 1,
+        "anchor_score_before": 0.1651950283448514,
+        "residual": 0.8348049716551487,
+        "visited_indices": [
+          4,
+          5,
+          6,
+          7
+        ],
+        "gain": 0.5,
+        "hypothetical_pearson_mean_change": 0.1516295081032926,
+        "actual_mean_change": 0.22845804397343664,
+        "scores_before": [
+          0.21305821921423443,
+          0.28253030141131324,
+          0.12741513306647706,
+          0.1402138130747267,
+          0.38152289390563965,
+          0.23098723483092856,
+          0.1651950283448514,
+          0.20613970288635336
+        ],
+        "scores_after": [
+          0.4740123661890343,
+          0.6376289986017691,
+          0.23763323495327282,
+          0.3277750429164217,
+          0.38152289390563965,
+          0.23098723483092856,
+          0.1651950283448514,
+          0.20613970288635336
+        ],
+        "decision_number": 5
+      }
+    ],
+    "returned_home": true,
+    "budget_slack_s": 0.25812481796592124,
+    "certificate": null,
+    "solver_wall_seconds": 0.00014079100219532847,
+    "case": "case_rank04",
+    "scene": "1001-Iona-Point.geo.tif",
+    "label_access_indices": [
+      4,
+      5,
+      7,
+      6,
+      0
+    ],
+    "route_building_ids": [
+      "6cb4c4506f1c475fb21c50af0c54c995",
+      "a16d15374bb3402c9d7437def99a0a04",
+      "f7c50254e0614d5cae1668233aad9256",
+      "e81d393265a34842bdfe680c5c7549db",
+      "00278e0a430549e6b5c4ab093c0ffa9a"
+    ],
+    "source_positive_checks": 1,
+    "first_positive_check_proxy_s": 62.13485301881499,
+    "unknown_source_checks": 0,
+    "source_severe_checks": 0
+  },
+  {
+    "policy": "matched_spatial",
+    "budget_proxy_s": 100,
+    "route": [
+      4,
+      5,
+      7,
+      6,
+      0
+    ],
+    "distance_m": 223.70937591017042,
+    "return_distance_m": 84.57346410810801,
+    "elapsed_proxy_s": 99.74187518203408,
+    "planning_calls": 5,
+    "observations": [
+      {
+        "index": 4,
+        "source_label": 0,
+        "arrival_proxy_s": 2.9300143068379425,
+        "observation_complete_proxy_s": 12.930014306837943,
+        "leg_m": 9.650071534189713,
+        "score_before_observation": 0.38152289390563965
+      },
+      {
+        "index": 5,
+        "source_label": 0,
+        "arrival_proxy_s": 19.16640680589404,
+        "observation_complete_proxy_s": 29.16640680589404,
+        "leg_m": 26.18196249528049,
+        "score_before_observation": 0.2691348880711614
+      },
+      {
+        "index": 7,
+        "source_label": 0,
+        "arrival_proxy_s": 35.76161761919989,
+        "observation_complete_proxy_s": 45.76161761919989,
+        "leg_m": 27.976054066529247,
+        "score_before_observation": 0.24978253783332444
+      },
+      {
+        "index": 6,
+        "source_label": 1,
+        "arrival_proxy_s": 52.13485301881499,
+        "observation_complete_proxy_s": 62.13485301881499,
+        "leg_m": 26.866176998075503,
+        "score_before_observation": 0.2399089326880158
+      },
+      {
+        "index": 0,
+        "source_label": 0,
+        "arrival_proxy_s": 72.82718236041248,
+        "observation_complete_proxy_s": 82.82718236041248,
+        "leg_m": 48.46164670798748,
+        "score_before_observation": 0.438691911200883
+      }
+    ],
+    "decisions": [
+      {
+        "decision_number": 1,
+        "elapsed_proxy_s": 1.0,
+        "observed_indices": [],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "target": 4,
+        "position_before": 8,
+        "scores": [
+          0.4117356240749359,
+          0.39091116189956665,
+          0.3928621709346771,
+          0.3852306306362152,
+          0.38152289390563965,
+          0.3973090648651123,
+          0.3698005974292755,
+          0.4110504388809204
+        ],
+        "return_reserve_s": 1.9300143068379427
+      },
+      {
+        "decision_number": 2,
+        "elapsed_proxy_s": 13.930014306837943,
+        "observed_indices": [
+          4
+        ],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          3,
+          5,
+          6,
+          7
+        ],
+        "target": 5,
+        "position_before": 4,
+        "scores": [
+          0.3642519694102891,
+          0.37622948959625624,
+          0.29115947851529755,
+          0.3097574913707168,
+          0.38152289390563965,
+          0.2691348880711614,
+          0.3298303233791526,
+          0.3292457765908053
+        ],
+        "return_reserve_s": 7.104154332284219
+      },
+      {
+        "decision_number": 3,
+        "elapsed_proxy_s": 30.16640680589404,
+        "observed_indices": [
+          4,
+          5
+        ],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          3,
+          6,
+          7
+        ],
+        "target": 7,
+        "position_before": 5,
+        "scores": [
+          0.31280183173318044,
+          0.35133331772353604,
+          0.22610491476424166,
+          0.24643208691810214,
+          0.38152289390563965,
+          0.2691348880711614,
+          0.2787176295906728,
+          0.24978253783332444
+        ],
+        "return_reserve_s": 12.670437232106526
+      },
+      {
+        "decision_number": 4,
+        "elapsed_proxy_s": 46.76161761919989,
+        "observed_indices": [
+          4,
+          5,
+          7
+        ],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          3,
+          6
+        ],
+        "target": 6,
+        "position_before": 7,
+        "scores": [
+          0.28099540312550464,
+          0.3259344392329272,
+          0.20321351575163227,
+          0.21668726711127725,
+          0.38152289390563965,
+          0.2691348880711614,
+          0.2399089326880158,
+          0.24978253783332444
+        ],
+        "return_reserve_s": 17.94055493624105
+      },
+      {
+        "decision_number": 5,
+        "elapsed_proxy_s": 63.13485301881499,
+        "observed_indices": [
+          4,
+          5,
+          6,
+          7
+        ],
+        "feasible_indices": [
+          0,
+          2,
+          3
+        ],
+        "target": 0,
+        "position_before": 6,
+        "scores": [
+          0.438691911200883,
+          0.5405231906217247,
+          0.26981912442173484,
+          0.33003189619362344,
+          0.38152289390563965,
+          0.2691348880711614,
+          0.2399089326880158,
+          0.24978253783332444
+        ],
+        "return_reserve_s": 16.914692821621603
+      }
+    ],
+    "updates": [
+      {
+        "anchor_index": 4,
+        "feedback": 0,
+        "anchor_score_before": 0.38152289390563965,
+        "residual": -0.38152289390563965,
+        "visited_indices": [
+          4
+        ],
+        "gain": 0.38531976460217976,
+        "hypothetical_pearson_mean_change": 0.06989861025528918,
+        "actual_mean_change": 0.06989861025528916,
+        "scores_before": [
+          0.4117356240749359,
+          0.39091116189956665,
+          0.3928621709346771,
+          0.3852306306362152,
+          0.38152289390563965,
+          0.3973090648651123,
+          0.3698005974292755,
+          0.4110504388809204
+        ],
+        "scores_after": [
+          0.3642519694102891,
+          0.37622948959625624,
+          0.29115947851529755,
+          0.3097574913707168,
+          0.38152289390563965,
+          0.2691348880711614,
+          0.3298303233791526,
+          0.3292457765908053
+        ],
+        "decision_number": 2
+      },
+      {
+        "anchor_index": 5,
+        "feedback": 0,
+        "anchor_score_before": 0.2691348880711614,
+        "residual": -0.2691348880711614,
+        "visited_indices": [
+          4,
+          5
+        ],
+        "gain": 0.3452846025182661,
+        "hypothetical_pearson_mean_change": 0.055883701716576674,
+        "actual_mean_change": 0.05588370171657667,
+        "scores_before": [
+          0.3642519694102891,
+          0.37622948959625624,
+          0.29115947851529755,
+          0.3097574913707168,
+          0.38152289390563965,
+          0.2691348880711614,
+          0.3298303233791526,
+          0.3292457765908053
+        ],
+        "scores_after": [
+          0.31280183173318044,
+          0.35133331772353604,
+          0.22610491476424166,
+          0.24643208691810214,
+          0.38152289390563965,
+          0.2691348880711614,
+          0.2787176295906728,
+          0.24978253783332444
+        ],
+        "decision_number": 3
+      },
+      {
+        "anchor_index": 7,
+        "feedback": 0,
+        "anchor_score_before": 0.24978253783332444,
+        "residual": -0.24978253783332444,
+        "visited_indices": [
+          4,
+          5,
+          7
+        ],
+        "gain": 0.1794985715774008,
+        "hypothetical_pearson_mean_change": 0.029730044564075193,
+        "actual_mean_change": 0.029730044564075186,
+        "scores_before": [
+          0.31280183173318044,
+          0.35133331772353604,
+          0.22610491476424166,
+          0.24643208691810214,
+          0.38152289390563965,
+          0.2691348880711614,
+          0.2787176295906728,
+          0.24978253783332444
+        ],
+        "scores_after": [
+          0.28099540312550464,
+          0.3259344392329272,
+          0.20321351575163227,
+          0.21668726711127725,
+          0.38152289390563965,
+          0.2691348880711614,
+          0.2399089326880158,
+          0.24978253783332444
+        ],
+        "decision_number": 4
+      },
+      {
+        "anchor_index": 6,
+        "feedback": 1,
+        "anchor_score_before": 0.2399089326880158,
+        "residual": 0.7600910673119842,
+        "visited_indices": [
+          4,
+          5,
+          6,
+          7
+        ],
+        "gain": 0.3318541677633441,
+        "hypothetical_pearson_mean_change": 0.13805887430415614,
+        "actual_mean_change": 0.13805887430415617,
+        "scores_before": [
+          0.28099540312550464,
+          0.3259344392329272,
+          0.20321351575163227,
+          0.21668726711127725,
+          0.38152289390563965,
+          0.2691348880711614,
+          0.2399089326880158,
+          0.24978253783332444
+        ],
+        "scores_after": [
+          0.438691911200883,
+          0.5405231906217247,
+          0.26981912442173484,
+          0.33003189619362344,
+          0.38152289390563965,
+          0.2691348880711614,
+          0.2399089326880158,
+          0.24978253783332444
+        ],
+        "decision_number": 5
+      }
+    ],
+    "returned_home": true,
+    "budget_slack_s": 0.25812481796592124,
+    "certificate": null,
+    "solver_wall_seconds": 0.001493374991696328,
+    "case": "case_rank04",
+    "scene": "1001-Iona-Point.geo.tif",
+    "label_access_indices": [
+      4,
+      5,
+      7,
+      6,
+      0
+    ],
+    "route_building_ids": [
+      "6cb4c4506f1c475fb21c50af0c54c995",
+      "a16d15374bb3402c9d7437def99a0a04",
+      "f7c50254e0614d5cae1668233aad9256",
+      "e81d393265a34842bdfe680c5c7549db",
+      "00278e0a430549e6b5c4ab093c0ffa9a"
+    ],
+    "source_positive_checks": 1,
+    "first_positive_check_proxy_s": 62.13485301881499,
+    "unknown_source_checks": 0,
+    "source_severe_checks": 0
+  },
+  {
+    "policy": "pearson",
+    "budget_proxy_s": 100,
+    "route": [
+      4,
+      5,
+      7,
+      0,
+      3
+    ],
+    "distance_m": 196.18814620277902,
+    "return_distance_m": 66.34806500927402,
+    "elapsed_proxy_s": 95.2376292405558,
+    "planning_calls": 6,
+    "observations": [
+      {
+        "index": 4,
+        "source_label": 0,
+        "arrival_proxy_s": 2.9300143068379425,
+        "observation_complete_proxy_s": 12.930014306837943,
+        "leg_m": 9.650071534189713,
+        "score_before_observation": 0.38152289390563965
+      },
+      {
+        "index": 5,
+        "source_label": 0,
+        "arrival_proxy_s": 19.16640680589404,
+        "observation_complete_proxy_s": 29.16640680589404,
+        "leg_m": 26.18196249528049,
+        "score_before_observation": 0.23187417054733123
+      },
+      {
+        "index": 7,
+        "source_label": 0,
+        "arrival_proxy_s": 35.76161761919989,
+        "observation_complete_proxy_s": 45.76161761919989,
+        "leg_m": 27.976054066529247,
+        "score_before_observation": 0.30045062361413105
+      },
+      {
+        "index": 0,
+        "source_label": 0,
+        "arrival_proxy_s": 55.04816376288345,
+        "observation_complete_proxy_s": 65.04816376288345,
+        "leg_m": 41.43273071841778,
+        "score_before_observation": 0.3401918360583975
+      },
+      {
+        "index": 3,
+        "source_label": 0,
+        "arrival_proxy_s": 70.968016238701,
+        "observation_complete_proxy_s": 80.968016238701,
+        "leg_m": 24.59926237908776,
+        "score_before_observation": 0.14599316930310066
+      }
+    ],
+    "decisions": [
+      {
+        "decision_number": 1,
+        "elapsed_proxy_s": 1.0,
+        "observed_indices": [],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "target": 4,
+        "position_before": 8,
+        "scores": [
+          0.4117356240749359,
+          0.39091116189956665,
+          0.3928621709346771,
+          0.3852306306362152,
+          0.38152289390563965,
+          0.3973090648651123,
+          0.3698005974292755,
+          0.4110504388809204
+        ],
+        "return_reserve_s": 1.9300143068379427
+      },
+      {
+        "decision_number": 2,
+        "elapsed_proxy_s": 13.930014306837943,
+        "observed_indices": [
+          4
+        ],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          3,
+          5,
+          6,
+          7
+        ],
+        "target": 5,
+        "position_before": 4,
+        "scores": [
+          0.3824687406353497,
+          0.37618296107951016,
+          0.26645446266106787,
+          0.34220268678193966,
+          0.38152289390563965,
+          0.23187417054733123,
+          0.31973763708879555,
+          0.3506887581396847
+        ],
+        "return_reserve_s": 7.104154332284219
+      },
+      {
+        "decision_number": 3,
+        "elapsed_proxy_s": 30.16640680589404,
+        "observed_indices": [
+          4,
+          5
+        ],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          3,
+          6,
+          7
+        ],
+        "target": 7,
+        "position_before": 5,
+        "scores": [
+          0.3480635397914064,
+          0.35400663556811085,
+          0.18674585176220632,
+          0.30278050615681984,
+          0.38152289390563965,
+          0.23187417054733123,
+          0.256807214728314,
+          0.30045062361413105
+        ],
+        "return_reserve_s": 12.670437232106526
+      },
+      {
+        "decision_number": 4,
+        "elapsed_proxy_s": 46.76161761919989,
+        "observed_indices": [
+          4,
+          5,
+          7
+        ],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          3,
+          6
+        ],
+        "target": 0,
+        "position_before": 7,
+        "scores": [
+          0.3401918360583975,
+          0.27382532133777976,
+          0.15616338549073874,
+          0.2964077369836638,
+          0.38152289390563965,
+          0.23187417054733123,
+          0.20301172735371062,
+          0.30045062361413105
+        ],
+        "return_reserve_s": 16.914692821621603
+      },
+      {
+        "decision_number": 5,
+        "elapsed_proxy_s": 66.04816376288345,
+        "observed_indices": [
+          0,
+          4,
+          5,
+          7
+        ],
+        "feasible_indices": [
+          2,
+          3
+        ],
+        "target": 3,
+        "position_before": 0,
+        "scores": [
+          0.3401918360583975,
+          0.26004525141906754,
+          0.08950007521417887,
+          0.14599316930310066,
+          0.38152289390563965,
+          0.23187417054733123,
+          0.13555864626634484,
+          0.30045062361413105
+        ],
+        "return_reserve_s": 13.269613001854804
+      },
+      {
+        "decision_number": 6,
+        "elapsed_proxy_s": 81.968016238701,
+        "observed_indices": [
+          0,
+          3,
+          4,
+          5,
+          7
+        ],
+        "feasible_indices": [],
+        "target": null
+      }
+    ],
+    "updates": [
+      {
+        "anchor_index": 4,
+        "feedback": 0,
+        "anchor_score_before": 0.38152289390563965,
+        "residual": -0.38152289390563965,
+        "visited_indices": [
+          4
+        ],
+        "gain": 0.5,
+        "hypothetical_pearson_mean_change": 0.06989861025528918,
+        "actual_mean_change": 0.06989861025528918,
+        "scores_before": [
+          0.4117356240749359,
+          0.39091116189956665,
+          0.3928621709346771,
+          0.3852306306362152,
+          0.38152289390563965,
+          0.3973090648651123,
+          0.3698005974292755,
+          0.4110504388809204
+        ],
+        "scores_after": [
+          0.3824687406353497,
+          0.37618296107951016,
+          0.26645446266106787,
+          0.34220268678193966,
+          0.38152289390563965,
+          0.23187417054733123,
+          0.31973763708879555,
+          0.3506887581396847
+        ],
+        "decision_number": 2
+      },
+      {
+        "anchor_index": 5,
+        "feedback": 0,
+        "anchor_score_before": 0.23187417054733123,
+        "residual": -0.23187417054733123,
+        "visited_indices": [
+          4,
+          5
+        ],
+        "gain": 0.5,
+        "hypothetical_pearson_mean_change": 0.04814681246089319,
+        "actual_mean_change": 0.04814681246089319,
+        "scores_before": [
+          0.3824687406353497,
+          0.37618296107951016,
+          0.26645446266106787,
+          0.34220268678193966,
+          0.38152289390563965,
+          0.23187417054733123,
+          0.31973763708879555,
+          0.3506887581396847
+        ],
+        "scores_after": [
+          0.3480635397914064,
+          0.35400663556811085,
+          0.18674585176220632,
+          0.30278050615681984,
+          0.38152289390563965,
+          0.23187417054733123,
+          0.256807214728314,
+          0.30045062361413105
+        ],
+        "decision_number": 3
+      },
+      {
+        "anchor_index": 7,
+        "feedback": 0,
+        "anchor_score_before": 0.30045062361413105,
+        "residual": -0.30045062361413105,
+        "visited_indices": [
+          4,
+          5,
+          7
+        ],
+        "gain": 0.5,
+        "hypothetical_pearson_mean_change": 0.03576074815651341,
+        "actual_mean_change": 0.03576074815651341,
+        "scores_before": [
+          0.3480635397914064,
+          0.35400663556811085,
+          0.18674585176220632,
+          0.30278050615681984,
+          0.38152289390563965,
+          0.23187417054733123,
+          0.256807214728314,
+          0.30045062361413105
+        ],
+        "scores_after": [
+          0.3401918360583975,
+          0.27382532133777976,
+          0.15616338549073874,
+          0.2964077369836638,
+          0.38152289390563965,
+          0.23187417054733123,
+          0.20301172735371062,
+          0.30045062361413105
+        ],
+        "decision_number": 4
+      },
+      {
+        "anchor_index": 0,
+        "feedback": 0,
+        "anchor_score_before": 0.3401918360583975,
+        "residual": -0.3401918360583975,
+        "visited_indices": [
+          0,
+          4,
+          5,
+          7
+        ],
+        "gain": 0.5,
+        "hypothetical_pearson_mean_change": 0.07457775724080026,
+        "actual_mean_change": 0.07457775724080026,
+        "scores_before": [
+          0.3401918360583975,
+          0.27382532133777976,
+          0.15616338549073874,
+          0.2964077369836638,
+          0.38152289390563965,
+          0.23187417054733123,
+          0.20301172735371062,
+          0.30045062361413105
+        ],
+        "scores_after": [
+          0.3401918360583975,
+          0.26004525141906754,
+          0.08950007521417887,
+          0.14599316930310066,
+          0.38152289390563965,
+          0.23187417054733123,
+          0.13555864626634484,
+          0.30045062361413105
+        ],
+        "decision_number": 5
+      },
+      {
+        "anchor_index": 3,
+        "feedback": 0,
+        "anchor_score_before": 0.14599316930310066,
+        "residual": -0.14599316930310066,
+        "visited_indices": [
+          0,
+          3,
+          4,
+          5,
+          7
+        ],
+        "gain": 0.5,
+        "hypothetical_pearson_mean_change": 0.020538905453847327,
+        "actual_mean_change": 0.020538905453847327,
+        "scores_before": [
+          0.3401918360583975,
+          0.26004525141906754,
+          0.08950007521417887,
+          0.14599316930310066,
+          0.38152289390563965,
+          0.23187417054733123,
+          0.13555864626634484,
+          0.30045062361413105
+        ],
+        "scores_after": [
+          0.3401918360583975,
+          0.2571242024574275,
+          0.05037107023171656,
+          0.14599316930310066,
+          0.38152289390563965,
+          0.23187417054733123,
+          0.11599198384890519,
+          0.30045062361413105
+        ],
+        "decision_number": 6
+      }
+    ],
+    "returned_home": true,
+    "budget_slack_s": 4.762370759444195,
+    "certificate": null,
+    "solver_wall_seconds": 0.00017616699915379286,
+    "case": "case_rank04",
+    "scene": "1001-Iona-Point.geo.tif",
+    "label_access_indices": [
+      4,
+      5,
+      7,
+      0,
+      3
+    ],
+    "route_building_ids": [
+      "6cb4c4506f1c475fb21c50af0c54c995",
+      "a16d15374bb3402c9d7437def99a0a04",
+      "f7c50254e0614d5cae1668233aad9256",
+      "00278e0a430549e6b5c4ab093c0ffa9a",
+      "5eaad76070fe4f98be2e50d7d078a195"
+    ],
+    "source_positive_checks": 0,
+    "first_positive_check_proxy_s": null,
+    "unknown_source_checks": 0,
+    "source_severe_checks": 0
+  },
+  {
+    "policy": "distance",
+    "budget_proxy_s": 140,
+    "route": [
+      4,
+      5,
+      7,
+      6,
+      1,
+      0,
+      3
+    ],
+    "distance_m": 266.43688985622805,
+    "return_distance_m": 66.34806500927402,
+    "elapsed_proxy_s": 131.2873779712456,
+    "planning_calls": 8,
+    "observations": [
+      {
+        "index": 4,
+        "source_label": 0,
+        "arrival_proxy_s": 2.9300143068379425,
+        "observation_complete_proxy_s": 12.930014306837943,
+        "leg_m": 9.650071534189713,
+        "score_before_observation": 0.38152289390563965
+      },
+      {
+        "index": 5,
+        "source_label": 0,
+        "arrival_proxy_s": 19.16640680589404,
+        "observation_complete_proxy_s": 29.16640680589404,
+        "leg_m": 26.18196249528049,
+        "score_before_observation": 0.3973090648651123
+      },
+      {
+        "index": 7,
+        "source_label": 0,
+        "arrival_proxy_s": 35.76161761919989,
+        "observation_complete_proxy_s": 45.76161761919989,
+        "leg_m": 27.976054066529247,
+        "score_before_observation": 0.4110504388809204
+      },
+      {
+        "index": 6,
+        "source_label": 1,
+        "arrival_proxy_s": 52.13485301881499,
+        "observation_complete_proxy_s": 62.13485301881499,
+        "leg_m": 26.866176998075503,
+        "score_before_observation": 0.3698005974292755
+      },
+      {
+        "index": 1,
+        "source_label": 0,
+        "arrival_proxy_s": 68.82089169332477,
+        "observation_complete_proxy_s": 78.82089169332477,
+        "leg_m": 28.430193372548935,
+        "score_before_observation": 0.39091116189956665
+      },
+      {
+        "index": 0,
+        "source_label": 0,
+        "arrival_proxy_s": 91.09791249357325,
+        "observation_complete_proxy_s": 101.09791249357325,
+        "leg_m": 56.38510400124238,
+        "score_before_observation": 0.4117356240749359
+      },
+      {
+        "index": 3,
+        "source_label": 0,
+        "arrival_proxy_s": 107.0177649693908,
+        "observation_complete_proxy_s": 117.0177649693908,
+        "leg_m": 24.59926237908776,
+        "score_before_observation": 0.3852306306362152
+      }
+    ],
+    "decisions": [
+      {
+        "decision_number": 1,
+        "elapsed_proxy_s": 1.0,
+        "observed_indices": [],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "target": 4,
+        "position_before": 8,
+        "scores": [
+          0.4117356240749359,
+          0.39091116189956665,
+          0.3928621709346771,
+          0.3852306306362152,
+          0.38152289390563965,
+          0.3973090648651123,
+          0.3698005974292755,
+          0.4110504388809204
+        ],
+        "return_reserve_s": 1.9300143068379427
+      },
+      {
+        "decision_number": 2,
+        "elapsed_proxy_s": 13.930014306837943,
+        "observed_indices": [
+          4
+        ],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          3,
+          5,
+          6,
+          7
+        ],
+        "target": 5,
+        "position_before": 4,
+        "scores": [
+          0.4117356240749359,
+          0.39091116189956665,
+          0.3928621709346771,
+          0.3852306306362152,
+          0.38152289390563965,
+          0.3973090648651123,
+          0.3698005974292755,
+          0.4110504388809204
+        ],
+        "return_reserve_s": 7.104154332284219
+      },
+      {
+        "decision_number": 3,
+        "elapsed_proxy_s": 30.16640680589404,
+        "observed_indices": [
+          4,
+          5
+        ],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          3,
+          6,
+          7
+        ],
+        "target": 7,
+        "position_before": 5,
+        "scores": [
+          0.4117356240749359,
+          0.39091116189956665,
+          0.3928621709346771,
+          0.3852306306362152,
+          0.38152289390563965,
+          0.3973090648651123,
+          0.3698005974292755,
+          0.4110504388809204
+        ],
+        "return_reserve_s": 12.670437232106526
+      },
+      {
+        "decision_number": 4,
+        "elapsed_proxy_s": 46.76161761919989,
+        "observed_indices": [
+          4,
+          5,
+          7
+        ],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          3,
+          6
+        ],
+        "target": 6,
+        "position_before": 7,
+        "scores": [
+          0.4117356240749359,
+          0.39091116189956665,
+          0.3928621709346771,
+          0.3852306306362152,
+          0.38152289390563965,
+          0.3973090648651123,
+          0.3698005974292755,
+          0.4110504388809204
+        ],
+        "return_reserve_s": 17.94055493624105
+      },
+      {
+        "decision_number": 5,
+        "elapsed_proxy_s": 63.13485301881499,
+        "observed_indices": [
+          4,
+          5,
+          6,
+          7
+        ],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "target": 1,
+        "position_before": 6,
+        "scores": [
+          0.4117356240749359,
+          0.39091116189956665,
+          0.3928621709346771,
+          0.3852306306362152,
+          0.38152289390563965,
+          0.3973090648651123,
+          0.3698005974292755,
+          0.4110504388809204
+        ],
+        "return_reserve_s": 23.326189840848578
+      },
+      {
+        "decision_number": 6,
+        "elapsed_proxy_s": 79.82089169332477,
+        "observed_indices": [
+          1,
+          4,
+          5,
+          6,
+          7
+        ],
+        "feasible_indices": [
+          0,
+          2,
+          3
+        ],
+        "target": 0,
+        "position_before": 1,
+        "scores": [
+          0.4117356240749359,
+          0.39091116189956665,
+          0.3928621709346771,
+          0.3852306306362152,
+          0.38152289390563965,
+          0.3973090648651123,
+          0.3698005974292755,
+          0.4110504388809204
+        ],
+        "return_reserve_s": 16.914692821621603
+      },
+      {
+        "decision_number": 7,
+        "elapsed_proxy_s": 102.09791249357325,
+        "observed_indices": [
+          0,
+          1,
+          4,
+          5,
+          6,
+          7
+        ],
+        "feasible_indices": [
+          2,
+          3
+        ],
+        "target": 3,
+        "position_before": 0,
+        "scores": [
+          0.4117356240749359,
+          0.39091116189956665,
+          0.3928621709346771,
+          0.3852306306362152,
+          0.38152289390563965,
+          0.3973090648651123,
+          0.3698005974292755,
+          0.4110504388809204
+        ],
+        "return_reserve_s": 13.269613001854804
+      },
+      {
+        "decision_number": 8,
+        "elapsed_proxy_s": 118.0177649693908,
+        "observed_indices": [
+          0,
+          1,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "feasible_indices": [],
+        "target": null
+      }
+    ],
+    "updates": [],
+    "returned_home": true,
+    "budget_slack_s": 8.712622028754396,
+    "certificate": null,
+    "solver_wall_seconds": 9.883400343824178e-05,
+    "case": "case_rank04",
+    "scene": "1001-Iona-Point.geo.tif",
+    "label_access_indices": [
+      4,
+      5,
+      7,
+      6,
+      1,
+      0,
+      3
+    ],
+    "route_building_ids": [
+      "6cb4c4506f1c475fb21c50af0c54c995",
+      "a16d15374bb3402c9d7437def99a0a04",
+      "f7c50254e0614d5cae1668233aad9256",
+      "e81d393265a34842bdfe680c5c7549db",
+      "17b22c58f18942cdbb0fa30aae7687d2",
+      "00278e0a430549e6b5c4ab093c0ffa9a",
+      "5eaad76070fe4f98be2e50d7d078a195"
+    ],
+    "source_positive_checks": 1,
+    "first_positive_check_proxy_s": 62.13485301881499,
+    "unknown_source_checks": 0,
+    "source_severe_checks": 0
+  },
+  {
+    "policy": "static_exact",
+    "budget_proxy_s": 140,
+    "route": [
+      4,
+      5,
+      7,
+      6,
+      1,
+      0,
+      3,
+      2
+    ],
+    "distance_m": 275.2807797878149,
+    "return_distance_m": 49.26330106673653,
+    "elapsed_proxy_s": 136.05615595756296,
+    "planning_calls": 1,
+    "observations": [
+      {
+        "index": 4,
+        "source_label": 0,
+        "arrival_proxy_s": 2.9300143068379425,
+        "observation_complete_proxy_s": 12.930014306837943,
+        "leg_m": 9.650071534189713,
+        "score_before_observation": 0.38152289390563965
+      },
+      {
+        "index": 5,
+        "source_label": 0,
+        "arrival_proxy_s": 18.16640680589404,
+        "observation_complete_proxy_s": 28.16640680589404,
+        "leg_m": 26.18196249528049,
+        "score_before_observation": 0.3973090648651123
+      },
+      {
+        "index": 7,
+        "source_label": 0,
+        "arrival_proxy_s": 33.76161761919989,
+        "observation_complete_proxy_s": 43.76161761919989,
+        "leg_m": 27.976054066529247,
+        "score_before_observation": 0.4110504388809204
+      },
+      {
+        "index": 6,
+        "source_label": 1,
+        "arrival_proxy_s": 49.13485301881499,
+        "observation_complete_proxy_s": 59.13485301881499,
+        "leg_m": 26.866176998075503,
+        "score_before_observation": 0.3698005974292755
+      },
+      {
+        "index": 1,
+        "source_label": 0,
+        "arrival_proxy_s": 64.82089169332477,
+        "observation_complete_proxy_s": 74.82089169332477,
+        "leg_m": 28.430193372548935,
+        "score_before_observation": 0.39091116189956665
+      },
+      {
+        "index": 0,
+        "source_label": 0,
+        "arrival_proxy_s": 86.09791249357325,
+        "observation_complete_proxy_s": 96.09791249357325,
+        "leg_m": 56.38510400124238,
+        "score_before_observation": 0.4117356240749359
+      },
+      {
+        "index": 3,
+        "source_label": 0,
+        "arrival_proxy_s": 101.0177649693908,
+        "observation_complete_proxy_s": 111.0177649693908,
+        "leg_m": 24.59926237908776,
+        "score_before_observation": 0.3852306306362152
+      },
+      {
+        "index": 2,
+        "source_label": 0,
+        "arrival_proxy_s": 116.20349574421566,
+        "observation_complete_proxy_s": 126.20349574421566,
+        "leg_m": 25.928653874124336,
+        "score_before_observation": 0.3928621709346771
+      }
+    ],
+    "decisions": [
+      {
+        "decision_number": 1,
+        "elapsed_proxy_s": 1.0,
+        "observed_indices": [],
+        "feasible_indices": [
+          4
+        ],
+        "target": 4,
+        "position_before": 8,
+        "scores": [
+          0.4117356240749359,
+          0.39091116189956665,
+          0.3928621709346771,
+          0.3852306306362152,
+          0.38152289390563965,
+          0.3973090648651123,
+          0.3698005974292755,
+          0.4110504388809204
+        ],
+        "return_reserve_s": 1.9300143068379427
+      },
+      {
+        "decision_number": 1,
+        "elapsed_proxy_s": 12.930014306837943,
+        "observed_indices": [
+          4
+        ],
+        "feasible_indices": [
+          5
+        ],
+        "target": 5,
+        "position_before": 4,
+        "scores": [
+          0.4117356240749359,
+          0.39091116189956665,
+          0.3928621709346771,
+          0.3852306306362152,
+          0.38152289390563965,
+          0.3973090648651123,
+          0.3698005974292755,
+          0.4110504388809204
+        ],
+        "return_reserve_s": 7.104154332284219
+      },
+      {
+        "decision_number": 1,
+        "elapsed_proxy_s": 28.16640680589404,
+        "observed_indices": [
+          4,
+          5
+        ],
+        "feasible_indices": [
+          7
+        ],
+        "target": 7,
+        "position_before": 5,
+        "scores": [
+          0.4117356240749359,
+          0.39091116189956665,
+          0.3928621709346771,
+          0.3852306306362152,
+          0.38152289390563965,
+          0.3973090648651123,
+          0.3698005974292755,
+          0.4110504388809204
+        ],
+        "return_reserve_s": 12.670437232106526
+      },
+      {
+        "decision_number": 1,
+        "elapsed_proxy_s": 43.76161761919989,
+        "observed_indices": [
+          4,
+          5,
+          7
+        ],
+        "feasible_indices": [
+          6
+        ],
+        "target": 6,
+        "position_before": 7,
+        "scores": [
+          0.4117356240749359,
+          0.39091116189956665,
+          0.3928621709346771,
+          0.3852306306362152,
+          0.38152289390563965,
+          0.3973090648651123,
+          0.3698005974292755,
+          0.4110504388809204
+        ],
+        "return_reserve_s": 17.94055493624105
+      },
+      {
+        "decision_number": 1,
+        "elapsed_proxy_s": 59.13485301881499,
+        "observed_indices": [
+          4,
+          5,
+          6,
+          7
+        ],
+        "feasible_indices": [
+          1
+        ],
+        "target": 1,
+        "position_before": 6,
+        "scores": [
+          0.4117356240749359,
+          0.39091116189956665,
+          0.3928621709346771,
+          0.3852306306362152,
+          0.38152289390563965,
+          0.3973090648651123,
+          0.3698005974292755,
+          0.4110504388809204
+        ],
+        "return_reserve_s": 23.326189840848578
+      },
+      {
+        "decision_number": 1,
+        "elapsed_proxy_s": 74.82089169332477,
+        "observed_indices": [
+          1,
+          4,
+          5,
+          6,
+          7
+        ],
+        "feasible_indices": [
+          0
+        ],
+        "target": 0,
+        "position_before": 1,
+        "scores": [
+          0.4117356240749359,
+          0.39091116189956665,
+          0.3928621709346771,
+          0.3852306306362152,
+          0.38152289390563965,
+          0.3973090648651123,
+          0.3698005974292755,
+          0.4110504388809204
+        ],
+        "return_reserve_s": 16.914692821621603
+      },
+      {
+        "decision_number": 1,
+        "elapsed_proxy_s": 96.09791249357325,
+        "observed_indices": [
+          0,
+          1,
+          4,
+          5,
+          6,
+          7
+        ],
+        "feasible_indices": [
+          3
+        ],
+        "target": 3,
+        "position_before": 0,
+        "scores": [
+          0.4117356240749359,
+          0.39091116189956665,
+          0.3928621709346771,
+          0.3852306306362152,
+          0.38152289390563965,
+          0.3973090648651123,
+          0.3698005974292755,
+          0.4110504388809204
+        ],
+        "return_reserve_s": 13.269613001854804
+      },
+      {
+        "decision_number": 1,
+        "elapsed_proxy_s": 111.0177649693908,
+        "observed_indices": [
+          0,
+          1,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "feasible_indices": [
+          2
+        ],
+        "target": 2,
+        "position_before": 3,
+        "scores": [
+          0.4117356240749359,
+          0.39091116189956665,
+          0.3928621709346771,
+          0.3852306306362152,
+          0.38152289390563965,
+          0.3973090648651123,
+          0.3698005974292755,
+          0.4110504388809204
+        ],
+        "return_reserve_s": 9.852660213347306
+      }
+    ],
+    "updates": [],
+    "returned_home": true,
+    "budget_slack_s": 3.9438440424370356,
+    "certificate": {
+      "subset_mask": 255,
+      "public_objective": 3.1404225826263428,
+      "upper_bound": 3.1404225826263428,
+      "gap": 0.0,
+      "subsets": 256,
+      "feasible_subsets": 256
+    },
+    "solver_wall_seconds": 0.00021549999655690044,
+    "case": "case_rank04",
+    "scene": "1001-Iona-Point.geo.tif",
+    "label_access_indices": [
+      4,
+      5,
+      7,
+      6,
+      1,
+      0,
+      3,
+      2
+    ],
+    "route_building_ids": [
+      "6cb4c4506f1c475fb21c50af0c54c995",
+      "a16d15374bb3402c9d7437def99a0a04",
+      "f7c50254e0614d5cae1668233aad9256",
+      "e81d393265a34842bdfe680c5c7549db",
+      "17b22c58f18942cdbb0fa30aae7687d2",
+      "00278e0a430549e6b5c4ab093c0ffa9a",
+      "5eaad76070fe4f98be2e50d7d078a195",
+      "5773f1ca4318469fbf187c6a915c6043"
+    ],
+    "source_positive_checks": 1,
+    "first_positive_check_proxy_s": 59.13485301881499,
+    "unknown_source_checks": 0,
+    "source_severe_checks": 0
+  },
+  {
+    "policy": "no_update",
+    "budget_proxy_s": 140,
+    "route": [
+      4,
+      5,
+      7,
+      6,
+      1,
+      0,
+      3
+    ],
+    "distance_m": 266.43688985622805,
+    "return_distance_m": 66.34806500927402,
+    "elapsed_proxy_s": 131.2873779712456,
+    "planning_calls": 8,
+    "observations": [
+      {
+        "index": 4,
+        "source_label": 0,
+        "arrival_proxy_s": 2.9300143068379425,
+        "observation_complete_proxy_s": 12.930014306837943,
+        "leg_m": 9.650071534189713,
+        "score_before_observation": 0.38152289390563965
+      },
+      {
+        "index": 5,
+        "source_label": 0,
+        "arrival_proxy_s": 19.16640680589404,
+        "observation_complete_proxy_s": 29.16640680589404,
+        "leg_m": 26.18196249528049,
+        "score_before_observation": 0.3973090648651123
+      },
+      {
+        "index": 7,
+        "source_label": 0,
+        "arrival_proxy_s": 35.76161761919989,
+        "observation_complete_proxy_s": 45.76161761919989,
+        "leg_m": 27.976054066529247,
+        "score_before_observation": 0.4110504388809204
+      },
+      {
+        "index": 6,
+        "source_label": 1,
+        "arrival_proxy_s": 52.13485301881499,
+        "observation_complete_proxy_s": 62.13485301881499,
+        "leg_m": 26.866176998075503,
+        "score_before_observation": 0.3698005974292755
+      },
+      {
+        "index": 1,
+        "source_label": 0,
+        "arrival_proxy_s": 68.82089169332477,
+        "observation_complete_proxy_s": 78.82089169332477,
+        "leg_m": 28.430193372548935,
+        "score_before_observation": 0.39091116189956665
+      },
+      {
+        "index": 0,
+        "source_label": 0,
+        "arrival_proxy_s": 91.09791249357325,
+        "observation_complete_proxy_s": 101.09791249357325,
+        "leg_m": 56.38510400124238,
+        "score_before_observation": 0.4117356240749359
+      },
+      {
+        "index": 3,
+        "source_label": 0,
+        "arrival_proxy_s": 107.0177649693908,
+        "observation_complete_proxy_s": 117.0177649693908,
+        "leg_m": 24.59926237908776,
+        "score_before_observation": 0.3852306306362152
+      }
+    ],
+    "decisions": [
+      {
+        "decision_number": 1,
+        "elapsed_proxy_s": 1.0,
+        "observed_indices": [],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "target": 4,
+        "position_before": 8,
+        "scores": [
+          0.4117356240749359,
+          0.39091116189956665,
+          0.3928621709346771,
+          0.3852306306362152,
+          0.38152289390563965,
+          0.3973090648651123,
+          0.3698005974292755,
+          0.4110504388809204
+        ],
+        "return_reserve_s": 1.9300143068379427
+      },
+      {
+        "decision_number": 2,
+        "elapsed_proxy_s": 13.930014306837943,
+        "observed_indices": [
+          4
+        ],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          3,
+          5,
+          6,
+          7
+        ],
+        "target": 5,
+        "position_before": 4,
+        "scores": [
+          0.4117356240749359,
+          0.39091116189956665,
+          0.3928621709346771,
+          0.3852306306362152,
+          0.38152289390563965,
+          0.3973090648651123,
+          0.3698005974292755,
+          0.4110504388809204
+        ],
+        "return_reserve_s": 7.104154332284219
+      },
+      {
+        "decision_number": 3,
+        "elapsed_proxy_s": 30.16640680589404,
+        "observed_indices": [
+          4,
+          5
+        ],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          3,
+          6,
+          7
+        ],
+        "target": 7,
+        "position_before": 5,
+        "scores": [
+          0.4117356240749359,
+          0.39091116189956665,
+          0.3928621709346771,
+          0.3852306306362152,
+          0.38152289390563965,
+          0.3973090648651123,
+          0.3698005974292755,
+          0.4110504388809204
+        ],
+        "return_reserve_s": 12.670437232106526
+      },
+      {
+        "decision_number": 4,
+        "elapsed_proxy_s": 46.76161761919989,
+        "observed_indices": [
+          4,
+          5,
+          7
+        ],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          3,
+          6
+        ],
+        "target": 6,
+        "position_before": 7,
+        "scores": [
+          0.4117356240749359,
+          0.39091116189956665,
+          0.3928621709346771,
+          0.3852306306362152,
+          0.38152289390563965,
+          0.3973090648651123,
+          0.3698005974292755,
+          0.4110504388809204
+        ],
+        "return_reserve_s": 17.94055493624105
+      },
+      {
+        "decision_number": 5,
+        "elapsed_proxy_s": 63.13485301881499,
+        "observed_indices": [
+          4,
+          5,
+          6,
+          7
+        ],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "target": 1,
+        "position_before": 6,
+        "scores": [
+          0.4117356240749359,
+          0.39091116189956665,
+          0.3928621709346771,
+          0.3852306306362152,
+          0.38152289390563965,
+          0.3973090648651123,
+          0.3698005974292755,
+          0.4110504388809204
+        ],
+        "return_reserve_s": 23.326189840848578
+      },
+      {
+        "decision_number": 6,
+        "elapsed_proxy_s": 79.82089169332477,
+        "observed_indices": [
+          1,
+          4,
+          5,
+          6,
+          7
+        ],
+        "feasible_indices": [
+          0,
+          2,
+          3
+        ],
+        "target": 0,
+        "position_before": 1,
+        "scores": [
+          0.4117356240749359,
+          0.39091116189956665,
+          0.3928621709346771,
+          0.3852306306362152,
+          0.38152289390563965,
+          0.3973090648651123,
+          0.3698005974292755,
+          0.4110504388809204
+        ],
+        "return_reserve_s": 16.914692821621603
+      },
+      {
+        "decision_number": 7,
+        "elapsed_proxy_s": 102.09791249357325,
+        "observed_indices": [
+          0,
+          1,
+          4,
+          5,
+          6,
+          7
+        ],
+        "feasible_indices": [
+          2,
+          3
+        ],
+        "target": 3,
+        "position_before": 0,
+        "scores": [
+          0.4117356240749359,
+          0.39091116189956665,
+          0.3928621709346771,
+          0.3852306306362152,
+          0.38152289390563965,
+          0.3973090648651123,
+          0.3698005974292755,
+          0.4110504388809204
+        ],
+        "return_reserve_s": 13.269613001854804
+      },
+      {
+        "decision_number": 8,
+        "elapsed_proxy_s": 118.0177649693908,
+        "observed_indices": [
+          0,
+          1,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "feasible_indices": [],
+        "target": null
+      }
+    ],
+    "updates": [],
+    "returned_home": true,
+    "budget_slack_s": 8.712622028754396,
+    "certificate": null,
+    "solver_wall_seconds": 0.00010225000733043998,
+    "case": "case_rank04",
+    "scene": "1001-Iona-Point.geo.tif",
+    "label_access_indices": [
+      4,
+      5,
+      7,
+      6,
+      1,
+      0,
+      3
+    ],
+    "route_building_ids": [
+      "6cb4c4506f1c475fb21c50af0c54c995",
+      "a16d15374bb3402c9d7437def99a0a04",
+      "f7c50254e0614d5cae1668233aad9256",
+      "e81d393265a34842bdfe680c5c7549db",
+      "17b22c58f18942cdbb0fa30aae7687d2",
+      "00278e0a430549e6b5c4ab093c0ffa9a",
+      "5eaad76070fe4f98be2e50d7d078a195"
+    ],
+    "source_positive_checks": 1,
+    "first_positive_check_proxy_s": 62.13485301881499,
+    "unknown_source_checks": 0,
+    "source_severe_checks": 0
+  },
+  {
+    "policy": "spatial",
+    "budget_proxy_s": 140,
+    "route": [
+      4,
+      5,
+      7,
+      6,
+      1,
+      0,
+      3
+    ],
+    "distance_m": 266.43688985622805,
+    "return_distance_m": 66.34806500927402,
+    "elapsed_proxy_s": 131.2873779712456,
+    "planning_calls": 8,
+    "observations": [
+      {
+        "index": 4,
+        "source_label": 0,
+        "arrival_proxy_s": 2.9300143068379425,
+        "observation_complete_proxy_s": 12.930014306837943,
+        "leg_m": 9.650071534189713,
+        "score_before_observation": 0.38152289390563965
+      },
+      {
+        "index": 5,
+        "source_label": 0,
+        "arrival_proxy_s": 19.16640680589404,
+        "observation_complete_proxy_s": 29.16640680589404,
+        "leg_m": 26.18196249528049,
+        "score_before_observation": 0.23098723483092856
+      },
+      {
+        "index": 7,
+        "source_label": 0,
+        "arrival_proxy_s": 35.76161761919989,
+        "observation_complete_proxy_s": 45.76161761919989,
+        "leg_m": 27.976054066529247,
+        "score_before_observation": 0.20613970288635336
+      },
+      {
+        "index": 6,
+        "source_label": 1,
+        "arrival_proxy_s": 52.13485301881499,
+        "observation_complete_proxy_s": 62.13485301881499,
+        "leg_m": 26.866176998075503,
+        "score_before_observation": 0.1651950283448514
+      },
+      {
+        "index": 1,
+        "source_label": 0,
+        "arrival_proxy_s": 68.82089169332477,
+        "observation_complete_proxy_s": 78.82089169332477,
+        "leg_m": 28.430193372548935,
+        "score_before_observation": 0.6376289986017691
+      },
+      {
+        "index": 0,
+        "source_label": 0,
+        "arrival_proxy_s": 91.09791249357325,
+        "observation_complete_proxy_s": 101.09791249357325,
+        "leg_m": 56.38510400124238,
+        "score_before_observation": 0.30520580751615684
+      },
+      {
+        "index": 3,
+        "source_label": 0,
+        "arrival_proxy_s": 107.0177649693908,
+        "observation_complete_proxy_s": 117.0177649693908,
+        "leg_m": 24.59926237908776,
+        "score_before_observation": 0.09829924360954936
+      }
+    ],
+    "decisions": [
+      {
+        "decision_number": 1,
+        "elapsed_proxy_s": 1.0,
+        "observed_indices": [],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "target": 4,
+        "position_before": 8,
+        "scores": [
+          0.4117356240749359,
+          0.39091116189956665,
+          0.3928621709346771,
+          0.3852306306362152,
+          0.38152289390563965,
+          0.3973090648651123,
+          0.3698005974292755,
+          0.4110504388809204
+        ],
+        "return_reserve_s": 1.9300143068379427
+      },
+      {
+        "decision_number": 2,
+        "elapsed_proxy_s": 13.930014306837943,
+        "observed_indices": [
+          4
+        ],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          3,
+          5,
+          6,
+          7
+        ],
+        "target": 5,
+        "position_before": 4,
+        "scores": [
+          0.35011971564408895,
+          0.3718598781969666,
+          0.26089036237149366,
+          0.28729490789510426,
+          0.38152289390563965,
+          0.23098723483092856,
+          0.31793422860779824,
+          0.3048987827693092
+        ],
+        "return_reserve_s": 7.104154332284219
+      },
+      {
+        "decision_number": 3,
+        "elapsed_proxy_s": 30.16640680589404,
+        "observed_indices": [
+          4,
+          5
+        ],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          3,
+          6,
+          7
+        ],
+        "target": 7,
+        "position_before": 5,
+        "scores": [
+          0.2861760816279849,
+          0.3409182369399104,
+          0.1800387766734902,
+          0.20859236852286533,
+          0.38152289390563965,
+          0.23098723483092856,
+          0.2544099790576964,
+          0.20613970288635336
+        ],
+        "return_reserve_s": 12.670437232106526
+      },
+      {
+        "decision_number": 4,
+        "elapsed_proxy_s": 46.76161761919989,
+        "observed_indices": [
+          4,
+          5,
+          7
+        ],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          3,
+          6
+        ],
+        "target": 6,
+        "position_before": 7,
+        "scores": [
+          0.21305821921423443,
+          0.28253030141131324,
+          0.12741513306647706,
+          0.1402138130747267,
+          0.38152289390563965,
+          0.23098723483092856,
+          0.1651950283448514,
+          0.20613970288635336
+        ],
+        "return_reserve_s": 17.94055493624105
+      },
+      {
+        "decision_number": 5,
+        "elapsed_proxy_s": 63.13485301881499,
+        "observed_indices": [
+          4,
+          5,
+          6,
+          7
+        ],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "target": 1,
+        "position_before": 6,
+        "scores": [
+          0.4740123661890343,
+          0.6376289986017691,
+          0.23763323495327282,
+          0.3277750429164217,
+          0.38152289390563965,
+          0.23098723483092856,
+          0.1651950283448514,
+          0.20613970288635336
+        ],
+        "return_reserve_s": 23.326189840848578
+      },
+      {
+        "decision_number": 6,
+        "elapsed_proxy_s": 79.82089169332477,
+        "observed_indices": [
+          1,
+          4,
+          5,
+          6,
+          7
+        ],
+        "feasible_indices": [
+          0,
+          2,
+          3
+        ],
+        "target": 0,
+        "position_before": 1,
+        "scores": [
+          0.30520580751615684,
+          0.6376289986017691,
+          0.19588969044546567,
+          0.23350725332467512,
+          0.38152289390563965,
+          0.23098723483092856,
+          0.1651950283448514,
+          0.20613970288635336
+        ],
+        "return_reserve_s": 16.914692821621603
+      },
+      {
+        "decision_number": 7,
+        "elapsed_proxy_s": 102.09791249357325,
+        "observed_indices": [
+          0,
+          1,
+          4,
+          5,
+          6,
+          7
+        ],
+        "feasible_indices": [
+          2,
+          3
+        ],
+        "target": 3,
+        "position_before": 0,
+        "scores": [
+          0.30520580751615684,
+          0.6376289986017691,
+          0.10400654348523097,
+          0.09829924360954936,
+          0.38152289390563965,
+          0.23098723483092856,
+          0.1651950283448514,
+          0.20613970288635336
+        ],
+        "return_reserve_s": 13.269613001854804
+      },
+      {
+        "decision_number": 8,
+        "elapsed_proxy_s": 118.0177649693908,
+        "observed_indices": [
+          0,
+          1,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "feasible_indices": [],
+        "target": null
+      }
+    ],
+    "updates": [
+      {
+        "anchor_index": 4,
+        "feedback": 0,
+        "anchor_score_before": 0.38152289390563965,
+        "residual": -0.38152289390563965,
+        "visited_indices": [
+          4
+        ],
+        "gain": 0.5,
+        "hypothetical_pearson_mean_change": 0.06989861025528918,
+        "actual_mean_change": 0.09070208262928767,
+        "scores_before": [
+          0.4117356240749359,
+          0.39091116189956665,
+          0.3928621709346771,
+          0.3852306306362152,
+          0.38152289390563965,
+          0.3973090648651123,
+          0.3698005974292755,
+          0.4110504388809204
+        ],
+        "scores_after": [
+          0.35011971564408895,
+          0.3718598781969666,
+          0.26089036237149366,
+          0.28729490789510426,
+          0.38152289390563965,
+          0.23098723483092856,
+          0.31793422860779824,
+          0.3048987827693092
+        ],
+        "decision_number": 2
+      },
+      {
+        "anchor_index": 5,
+        "feedback": 0,
+        "anchor_score_before": 0.23098723483092856,
+        "residual": -0.23098723483092856,
+        "visited_indices": [
+          4,
+          5
+        ],
+        "gain": 0.5,
+        "hypothetical_pearson_mean_change": 0.04796264737039729,
+        "actual_mean_change": 0.06945378829607672,
+        "scores_before": [
+          0.35011971564408895,
+          0.3718598781969666,
+          0.26089036237149366,
+          0.28729490789510426,
+          0.38152289390563965,
+          0.23098723483092856,
+          0.31793422860779824,
+          0.3048987827693092
+        ],
+        "scores_after": [
+          0.2861760816279849,
+          0.3409182369399104,
+          0.1800387766734902,
+          0.20859236852286533,
+          0.38152289390563965,
+          0.23098723483092856,
+          0.2544099790576964,
+          0.20613970288635336
+        ],
+        "decision_number": 3
+      },
+      {
+        "anchor_index": 7,
+        "feedback": 0,
+        "anchor_score_before": 0.20613970288635336,
+        "residual": -0.20613970288635336,
+        "visited_indices": [
+          4,
+          5,
+          7
+        ],
+        "gain": 0.5,
+        "hypothetical_pearson_mean_change": 0.024535512395690275,
+        "actual_mean_change": 0.06834458954206889,
+        "scores_before": [
+          0.2861760816279849,
+          0.3409182369399104,
+          0.1800387766734902,
+          0.20859236852286533,
+          0.38152289390563965,
+          0.23098723483092856,
+          0.2544099790576964,
+          0.20613970288635336
+        ],
+        "scores_after": [
+          0.21305821921423443,
+          0.28253030141131324,
+          0.12741513306647706,
+          0.1402138130747267,
+          0.38152289390563965,
+          0.23098723483092856,
+          0.1651950283448514,
+          0.20613970288635336
+        ],
+        "decision_number": 4
+      },
+      {
+        "anchor_index": 6,
+        "feedback": 1,
+        "anchor_score_before": 0.1651950283448514,
+        "residual": 0.8348049716551487,
+        "visited_indices": [
+          4,
+          5,
+          6,
+          7
+        ],
+        "gain": 0.5,
+        "hypothetical_pearson_mean_change": 0.1516295081032926,
+        "actual_mean_change": 0.22845804397343664,
+        "scores_before": [
+          0.21305821921423443,
+          0.28253030141131324,
+          0.12741513306647706,
+          0.1402138130747267,
+          0.38152289390563965,
+          0.23098723483092856,
+          0.1651950283448514,
+          0.20613970288635336
+        ],
+        "scores_after": [
+          0.4740123661890343,
+          0.6376289986017691,
+          0.23763323495327282,
+          0.3277750429164217,
+          0.38152289390563965,
+          0.23098723483092856,
+          0.1651950283448514,
+          0.20613970288635336
+        ],
+        "decision_number": 5
+      },
+      {
+        "anchor_index": 1,
+        "feedback": 0,
+        "anchor_score_before": 0.6376289986017691,
+        "residual": -0.6376289986017691,
+        "visited_indices": [
+          1,
+          4,
+          5,
+          6,
+          7
+        ],
+        "gain": 0.5,
+        "hypothetical_pearson_mean_change": 0.021209011564939272,
+        "actual_mean_change": 0.10160596425747707,
+        "scores_before": [
+          0.4740123661890343,
+          0.6376289986017691,
+          0.23763323495327282,
+          0.3277750429164217,
+          0.38152289390563965,
+          0.23098723483092856,
+          0.1651950283448514,
+          0.20613970288635336
+        ],
+        "scores_after": [
+          0.30520580751615684,
+          0.6376289986017691,
+          0.19588969044546567,
+          0.23350725332467512,
+          0.38152289390563965,
+          0.23098723483092856,
+          0.1651950283448514,
+          0.20613970288635336
+        ],
+        "decision_number": 6
+      },
+      {
+        "anchor_index": 0,
+        "feedback": 0,
+        "anchor_score_before": 0.30520580751615684,
+        "residual": -0.30520580751615684,
+        "visited_indices": [
+          0,
+          1,
+          4,
+          5,
+          6,
+          7
+        ],
+        "gain": 0.5,
+        "hypothetical_pearson_mean_change": 0.09737657111857377,
+        "actual_mean_change": 0.11354557833768023,
+        "scores_before": [
+          0.30520580751615684,
+          0.6376289986017691,
+          0.19588969044546567,
+          0.23350725332467512,
+          0.38152289390563965,
+          0.23098723483092856,
+          0.1651950283448514,
+          0.20613970288635336
+        ],
+        "scores_after": [
+          0.30520580751615684,
+          0.6376289986017691,
+          0.10400654348523097,
+          0.09829924360954936,
+          0.38152289390563965,
+          0.23098723483092856,
+          0.1651950283448514,
+          0.20613970288635336
+        ],
+        "decision_number": 7
+      },
+      {
+        "anchor_index": 3,
+        "feedback": 0,
+        "anchor_score_before": 0.09829924360954936,
+        "residual": -0.09829924360954936,
+        "visited_indices": [
+          0,
+          1,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "gain": 0.5,
+        "hypothetical_pearson_mean_change": 0.02634610654273016,
+        "actual_mean_change": 0.04296604417986503,
+        "scores_before": [
+          0.30520580751615684,
+          0.6376289986017691,
+          0.10400654348523097,
+          0.09829924360954936,
+          0.38152289390563965,
+          0.23098723483092856,
+          0.1651950283448514,
+          0.20613970288635336
+        ],
+        "scores_after": [
+          0.30520580751615684,
+          0.6376289986017691,
+          0.061040499305365946,
+          0.09829924360954936,
+          0.38152289390563965,
+          0.23098723483092856,
+          0.1651950283448514,
+          0.20613970288635336
+        ],
+        "decision_number": 8
+      }
+    ],
+    "returned_home": true,
+    "budget_slack_s": 8.712622028754396,
+    "certificate": null,
+    "solver_wall_seconds": 0.00021533398830797523,
+    "case": "case_rank04",
+    "scene": "1001-Iona-Point.geo.tif",
+    "label_access_indices": [
+      4,
+      5,
+      7,
+      6,
+      1,
+      0,
+      3
+    ],
+    "route_building_ids": [
+      "6cb4c4506f1c475fb21c50af0c54c995",
+      "a16d15374bb3402c9d7437def99a0a04",
+      "f7c50254e0614d5cae1668233aad9256",
+      "e81d393265a34842bdfe680c5c7549db",
+      "17b22c58f18942cdbb0fa30aae7687d2",
+      "00278e0a430549e6b5c4ab093c0ffa9a",
+      "5eaad76070fe4f98be2e50d7d078a195"
+    ],
+    "source_positive_checks": 1,
+    "first_positive_check_proxy_s": 62.13485301881499,
+    "unknown_source_checks": 0,
+    "source_severe_checks": 0
+  },
+  {
+    "policy": "matched_spatial",
+    "budget_proxy_s": 140,
+    "route": [
+      4,
+      5,
+      7,
+      6,
+      1,
+      0,
+      3
+    ],
+    "distance_m": 266.43688985622805,
+    "return_distance_m": 66.34806500927402,
+    "elapsed_proxy_s": 131.2873779712456,
+    "planning_calls": 8,
+    "observations": [
+      {
+        "index": 4,
+        "source_label": 0,
+        "arrival_proxy_s": 2.9300143068379425,
+        "observation_complete_proxy_s": 12.930014306837943,
+        "leg_m": 9.650071534189713,
+        "score_before_observation": 0.38152289390563965
+      },
+      {
+        "index": 5,
+        "source_label": 0,
+        "arrival_proxy_s": 19.16640680589404,
+        "observation_complete_proxy_s": 29.16640680589404,
+        "leg_m": 26.18196249528049,
+        "score_before_observation": 0.2691348880711614
+      },
+      {
+        "index": 7,
+        "source_label": 0,
+        "arrival_proxy_s": 35.76161761919989,
+        "observation_complete_proxy_s": 45.76161761919989,
+        "leg_m": 27.976054066529247,
+        "score_before_observation": 0.24978253783332444
+      },
+      {
+        "index": 6,
+        "source_label": 1,
+        "arrival_proxy_s": 52.13485301881499,
+        "observation_complete_proxy_s": 62.13485301881499,
+        "leg_m": 26.866176998075503,
+        "score_before_observation": 0.2399089326880158
+      },
+      {
+        "index": 1,
+        "source_label": 0,
+        "arrival_proxy_s": 68.82089169332477,
+        "observation_complete_proxy_s": 78.82089169332477,
+        "leg_m": 28.430193372548935,
+        "score_before_observation": 0.5405231906217247
+      },
+      {
+        "index": 0,
+        "source_label": 0,
+        "arrival_proxy_s": 91.09791249357325,
+        "observation_complete_proxy_s": 101.09791249357325,
+        "leg_m": 56.38510400124238,
+        "score_before_observation": 0.40882180166657506
+      },
+      {
+        "index": 3,
+        "source_label": 0,
+        "arrival_proxy_s": 107.0177649693908,
+        "observation_complete_proxy_s": 117.0177649693908,
+        "leg_m": 24.59926237908776,
+        "score_before_observation": 0.15803113417265968
+      }
+    ],
+    "decisions": [
+      {
+        "decision_number": 1,
+        "elapsed_proxy_s": 1.0,
+        "observed_indices": [],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "target": 4,
+        "position_before": 8,
+        "scores": [
+          0.4117356240749359,
+          0.39091116189956665,
+          0.3928621709346771,
+          0.3852306306362152,
+          0.38152289390563965,
+          0.3973090648651123,
+          0.3698005974292755,
+          0.4110504388809204
+        ],
+        "return_reserve_s": 1.9300143068379427
+      },
+      {
+        "decision_number": 2,
+        "elapsed_proxy_s": 13.930014306837943,
+        "observed_indices": [
+          4
+        ],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          3,
+          5,
+          6,
+          7
+        ],
+        "target": 5,
+        "position_before": 4,
+        "scores": [
+          0.3642519694102891,
+          0.37622948959625624,
+          0.29115947851529755,
+          0.3097574913707168,
+          0.38152289390563965,
+          0.2691348880711614,
+          0.3298303233791526,
+          0.3292457765908053
+        ],
+        "return_reserve_s": 7.104154332284219
+      },
+      {
+        "decision_number": 3,
+        "elapsed_proxy_s": 30.16640680589404,
+        "observed_indices": [
+          4,
+          5
+        ],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          3,
+          6,
+          7
+        ],
+        "target": 7,
+        "position_before": 5,
+        "scores": [
+          0.31280183173318044,
+          0.35133331772353604,
+          0.22610491476424166,
+          0.24643208691810214,
+          0.38152289390563965,
+          0.2691348880711614,
+          0.2787176295906728,
+          0.24978253783332444
+        ],
+        "return_reserve_s": 12.670437232106526
+      },
+      {
+        "decision_number": 4,
+        "elapsed_proxy_s": 46.76161761919989,
+        "observed_indices": [
+          4,
+          5,
+          7
+        ],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          3,
+          6
+        ],
+        "target": 6,
+        "position_before": 7,
+        "scores": [
+          0.28099540312550464,
+          0.3259344392329272,
+          0.20321351575163227,
+          0.21668726711127725,
+          0.38152289390563965,
+          0.2691348880711614,
+          0.2399089326880158,
+          0.24978253783332444
+        ],
+        "return_reserve_s": 17.94055493624105
+      },
+      {
+        "decision_number": 5,
+        "elapsed_proxy_s": 63.13485301881499,
+        "observed_indices": [
+          4,
+          5,
+          6,
+          7
+        ],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "target": 1,
+        "position_before": 6,
+        "scores": [
+          0.438691911200883,
+          0.5405231906217247,
+          0.26981912442173484,
+          0.33003189619362344,
+          0.38152289390563965,
+          0.2691348880711614,
+          0.2399089326880158,
+          0.24978253783332444
+        ],
+        "return_reserve_s": 23.326189840848578
+      },
+      {
+        "decision_number": 6,
+        "elapsed_proxy_s": 79.82089169332477,
+        "observed_indices": [
+          1,
+          4,
+          5,
+          6,
+          7
+        ],
+        "feasible_indices": [
+          0,
+          2,
+          3
+        ],
+        "target": 0,
+        "position_before": 1,
+        "scores": [
+          0.40882180166657506,
+          0.5405231906217247,
+          0.26243265640413405,
+          0.3133513286682872,
+          0.38152289390563965,
+          0.2691348880711614,
+          0.2399089326880158,
+          0.24978253783332444
+        ],
+        "return_reserve_s": 16.914692821621603
+      },
+      {
+        "decision_number": 7,
+        "elapsed_proxy_s": 102.09791249357325,
+        "observed_indices": [
+          0,
+          1,
+          4,
+          5,
+          6,
+          7
+        ],
+        "feasible_indices": [
+          2,
+          3
+        ],
+        "target": 3,
+        "position_before": 0,
+        "scores": [
+          0.40882180166657506,
+          0.5405231906217247,
+          0.1568818958626345,
+          0.15803113417265968,
+          0.38152289390563965,
+          0.2691348880711614,
+          0.2399089326880158,
+          0.24978253783332444
+        ],
+        "return_reserve_s": 13.269613001854804
+      },
+      {
+        "decision_number": 8,
+        "elapsed_proxy_s": 118.0177649693908,
+        "observed_indices": [
+          0,
+          1,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "feasible_indices": [],
+        "target": null
+      }
+    ],
+    "updates": [
+      {
+        "anchor_index": 4,
+        "feedback": 0,
+        "anchor_score_before": 0.38152289390563965,
+        "residual": -0.38152289390563965,
+        "visited_indices": [
+          4
+        ],
+        "gain": 0.38531976460217976,
+        "hypothetical_pearson_mean_change": 0.06989861025528918,
+        "actual_mean_change": 0.06989861025528916,
+        "scores_before": [
+          0.4117356240749359,
+          0.39091116189956665,
+          0.3928621709346771,
+          0.3852306306362152,
+          0.38152289390563965,
+          0.3973090648651123,
+          0.3698005974292755,
+          0.4110504388809204
+        ],
+        "scores_after": [
+          0.3642519694102891,
+          0.37622948959625624,
+          0.29115947851529755,
+          0.3097574913707168,
+          0.38152289390563965,
+          0.2691348880711614,
+          0.3298303233791526,
+          0.3292457765908053
+        ],
+        "decision_number": 2
+      },
+      {
+        "anchor_index": 5,
+        "feedback": 0,
+        "anchor_score_before": 0.2691348880711614,
+        "residual": -0.2691348880711614,
+        "visited_indices": [
+          4,
+          5
+        ],
+        "gain": 0.3452846025182661,
+        "hypothetical_pearson_mean_change": 0.055883701716576674,
+        "actual_mean_change": 0.05588370171657667,
+        "scores_before": [
+          0.3642519694102891,
+          0.37622948959625624,
+          0.29115947851529755,
+          0.3097574913707168,
+          0.38152289390563965,
+          0.2691348880711614,
+          0.3298303233791526,
+          0.3292457765908053
+        ],
+        "scores_after": [
+          0.31280183173318044,
+          0.35133331772353604,
+          0.22610491476424166,
+          0.24643208691810214,
+          0.38152289390563965,
+          0.2691348880711614,
+          0.2787176295906728,
+          0.24978253783332444
+        ],
+        "decision_number": 3
+      },
+      {
+        "anchor_index": 7,
+        "feedback": 0,
+        "anchor_score_before": 0.24978253783332444,
+        "residual": -0.24978253783332444,
+        "visited_indices": [
+          4,
+          5,
+          7
+        ],
+        "gain": 0.1794985715774008,
+        "hypothetical_pearson_mean_change": 0.029730044564075193,
+        "actual_mean_change": 0.029730044564075186,
+        "scores_before": [
+          0.31280183173318044,
+          0.35133331772353604,
+          0.22610491476424166,
+          0.24643208691810214,
+          0.38152289390563965,
+          0.2691348880711614,
+          0.2787176295906728,
+          0.24978253783332444
+        ],
+        "scores_after": [
+          0.28099540312550464,
+          0.3259344392329272,
+          0.20321351575163227,
+          0.21668726711127725,
+          0.38152289390563965,
+          0.2691348880711614,
+          0.2399089326880158,
+          0.24978253783332444
+        ],
+        "decision_number": 4
+      },
+      {
+        "anchor_index": 6,
+        "feedback": 1,
+        "anchor_score_before": 0.2399089326880158,
+        "residual": 0.7600910673119842,
+        "visited_indices": [
+          4,
+          5,
+          6,
+          7
+        ],
+        "gain": 0.3318541677633441,
+        "hypothetical_pearson_mean_change": 0.13805887430415614,
+        "actual_mean_change": 0.13805887430415617,
+        "scores_before": [
+          0.28099540312550464,
+          0.3259344392329272,
+          0.20321351575163227,
+          0.21668726711127725,
+          0.38152289390563965,
+          0.2691348880711614,
+          0.2399089326880158,
+          0.24978253783332444
+        ],
+        "scores_after": [
+          0.438691911200883,
+          0.5405231906217247,
+          0.26981912442173484,
+          0.33003189619362344,
+          0.38152289390563965,
+          0.2691348880711614,
+          0.2399089326880158,
+          0.24978253783332444
+        ],
+        "decision_number": 5
+      },
+      {
+        "anchor_index": 1,
+        "feedback": 0,
+        "anchor_score_before": 0.5405231906217247,
+        "residual": -0.5405231906217247,
+        "visited_indices": [
+          1,
+          4,
+          5,
+          6,
+          7
+        ],
+        "gain": 0.10436893011119924,
+        "hypothetical_pearson_mean_change": 0.01797904835908169,
+        "actual_mean_change": 0.017979048359081668,
+        "scores_before": [
+          0.438691911200883,
+          0.5405231906217247,
+          0.26981912442173484,
+          0.33003189619362344,
+          0.38152289390563965,
+          0.2691348880711614,
+          0.2399089326880158,
+          0.24978253783332444
+        ],
+        "scores_after": [
+          0.40882180166657506,
+          0.5405231906217247,
+          0.26243265640413405,
+          0.3133513286682872,
+          0.38152289390563965,
+          0.2691348880711614,
+          0.2399089326880158,
+          0.24978253783332444
+        ],
+        "decision_number": 6
+      },
+      {
+        "anchor_index": 0,
+        "feedback": 0,
+        "anchor_score_before": 0.40882180166657506,
+        "residual": -0.40882180166657506,
+        "visited_indices": [
+          0,
+          1,
+          4,
+          5,
+          6,
+          7
+        ],
+        "gain": 0.42879948538805945,
+        "hypothetical_pearson_mean_change": 0.13043547751856355,
+        "actual_mean_change": 0.13043547751856352,
+        "scores_before": [
+          0.40882180166657506,
+          0.5405231906217247,
+          0.26243265640413405,
+          0.3133513286682872,
+          0.38152289390563965,
+          0.2691348880711614,
+          0.2399089326880158,
+          0.24978253783332444
+        ],
+        "scores_after": [
+          0.40882180166657506,
+          0.5405231906217247,
+          0.1568818958626345,
+          0.15803113417265968,
+          0.38152289390563965,
+          0.2691348880711614,
+          0.2399089326880158,
+          0.24978253783332444
+        ],
+        "decision_number": 7
+      },
+      {
+        "anchor_index": 3,
+        "feedback": 0,
+        "anchor_score_before": 0.15803113417265968,
+        "residual": -0.15803113417265968,
+        "visited_indices": [
+          0,
+          1,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "gain": 0.30659218279951184,
+        "hypothetical_pearson_mean_change": 0.04235541337956858,
+        "actual_mean_change": 0.042355413379568566,
+        "scores_before": [
+          0.40882180166657506,
+          0.5405231906217247,
+          0.1568818958626345,
+          0.15803113417265968,
+          0.38152289390563965,
+          0.2691348880711614,
+          0.2399089326880158,
+          0.24978253783332444
+        ],
+        "scores_after": [
+          0.40882180166657506,
+          0.5405231906217247,
+          0.11452648248306595,
+          0.15803113417265968,
+          0.38152289390563965,
+          0.2691348880711614,
+          0.2399089326880158,
+          0.24978253783332444
+        ],
+        "decision_number": 8
+      }
+    ],
+    "returned_home": true,
+    "budget_slack_s": 8.712622028754396,
+    "certificate": null,
+    "solver_wall_seconds": 0.0024249999987659976,
+    "case": "case_rank04",
+    "scene": "1001-Iona-Point.geo.tif",
+    "label_access_indices": [
+      4,
+      5,
+      7,
+      6,
+      1,
+      0,
+      3
+    ],
+    "route_building_ids": [
+      "6cb4c4506f1c475fb21c50af0c54c995",
+      "a16d15374bb3402c9d7437def99a0a04",
+      "f7c50254e0614d5cae1668233aad9256",
+      "e81d393265a34842bdfe680c5c7549db",
+      "17b22c58f18942cdbb0fa30aae7687d2",
+      "00278e0a430549e6b5c4ab093c0ffa9a",
+      "5eaad76070fe4f98be2e50d7d078a195"
+    ],
+    "source_positive_checks": 1,
+    "first_positive_check_proxy_s": 62.13485301881499,
+    "unknown_source_checks": 0,
+    "source_severe_checks": 0
+  },
+  {
+    "policy": "pearson",
+    "budget_proxy_s": 140,
+    "route": [
+      4,
+      5,
+      7,
+      0,
+      3,
+      1
+    ],
+    "distance_m": 324.5245334981545,
+    "return_distance_m": 116.63094920424288,
+    "elapsed_proxy_s": 131.9049066996309,
+    "planning_calls": 7,
+    "observations": [
+      {
+        "index": 4,
+        "source_label": 0,
+        "arrival_proxy_s": 2.9300143068379425,
+        "observation_complete_proxy_s": 12.930014306837943,
+        "leg_m": 9.650071534189713,
+        "score_before_observation": 0.38152289390563965
+      },
+      {
+        "index": 5,
+        "source_label": 0,
+        "arrival_proxy_s": 19.16640680589404,
+        "observation_complete_proxy_s": 29.16640680589404,
+        "leg_m": 26.18196249528049,
+        "score_before_observation": 0.23187417054733123
+      },
+      {
+        "index": 7,
+        "source_label": 0,
+        "arrival_proxy_s": 35.76161761919989,
+        "observation_complete_proxy_s": 45.76161761919989,
+        "leg_m": 27.976054066529247,
+        "score_before_observation": 0.30045062361413105
+      },
+      {
+        "index": 0,
+        "source_label": 0,
+        "arrival_proxy_s": 55.04816376288345,
+        "observation_complete_proxy_s": 65.04816376288345,
+        "leg_m": 41.43273071841778,
+        "score_before_observation": 0.3401918360583975
+      },
+      {
+        "index": 3,
+        "source_label": 0,
+        "arrival_proxy_s": 70.968016238701,
+        "observation_complete_proxy_s": 80.968016238701,
+        "leg_m": 24.59926237908776,
+        "score_before_observation": 0.14599316930310066
+      },
+      {
+        "index": 1,
+        "source_label": 0,
+        "arrival_proxy_s": 97.57871685878233,
+        "observation_complete_proxy_s": 107.57871685878233,
+        "leg_m": 78.05350310040663,
+        "score_before_observation": 0.2571242024574275
+      }
+    ],
+    "decisions": [
+      {
+        "decision_number": 1,
+        "elapsed_proxy_s": 1.0,
+        "observed_indices": [],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "target": 4,
+        "position_before": 8,
+        "scores": [
+          0.4117356240749359,
+          0.39091116189956665,
+          0.3928621709346771,
+          0.3852306306362152,
+          0.38152289390563965,
+          0.3973090648651123,
+          0.3698005974292755,
+          0.4110504388809204
+        ],
+        "return_reserve_s": 1.9300143068379427
+      },
+      {
+        "decision_number": 2,
+        "elapsed_proxy_s": 13.930014306837943,
+        "observed_indices": [
+          4
+        ],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          3,
+          5,
+          6,
+          7
+        ],
+        "target": 5,
+        "position_before": 4,
+        "scores": [
+          0.3824687406353497,
+          0.37618296107951016,
+          0.26645446266106787,
+          0.34220268678193966,
+          0.38152289390563965,
+          0.23187417054733123,
+          0.31973763708879555,
+          0.3506887581396847
+        ],
+        "return_reserve_s": 7.104154332284219
+      },
+      {
+        "decision_number": 3,
+        "elapsed_proxy_s": 30.16640680589404,
+        "observed_indices": [
+          4,
+          5
+        ],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          3,
+          6,
+          7
+        ],
+        "target": 7,
+        "position_before": 5,
+        "scores": [
+          0.3480635397914064,
+          0.35400663556811085,
+          0.18674585176220632,
+          0.30278050615681984,
+          0.38152289390563965,
+          0.23187417054733123,
+          0.256807214728314,
+          0.30045062361413105
+        ],
+        "return_reserve_s": 12.670437232106526
+      },
+      {
+        "decision_number": 4,
+        "elapsed_proxy_s": 46.76161761919989,
+        "observed_indices": [
+          4,
+          5,
+          7
+        ],
+        "feasible_indices": [
+          0,
+          1,
+          2,
+          3,
+          6
+        ],
+        "target": 0,
+        "position_before": 7,
+        "scores": [
+          0.3401918360583975,
+          0.27382532133777976,
+          0.15616338549073874,
+          0.2964077369836638,
+          0.38152289390563965,
+          0.23187417054733123,
+          0.20301172735371062,
+          0.30045062361413105
+        ],
+        "return_reserve_s": 16.914692821621603
+      },
+      {
+        "decision_number": 5,
+        "elapsed_proxy_s": 66.04816376288345,
+        "observed_indices": [
+          0,
+          4,
+          5,
+          7
+        ],
+        "feasible_indices": [
+          1,
+          2,
+          3,
+          6
+        ],
+        "target": 3,
+        "position_before": 0,
+        "scores": [
+          0.3401918360583975,
+          0.26004525141906754,
+          0.08950007521417887,
+          0.14599316930310066,
+          0.38152289390563965,
+          0.23187417054733123,
+          0.13555864626634484,
+          0.30045062361413105
+        ],
+        "return_reserve_s": 13.269613001854804
+      },
+      {
+        "decision_number": 6,
+        "elapsed_proxy_s": 81.968016238701,
+        "observed_indices": [
+          0,
+          3,
+          4,
+          5,
+          7
+        ],
+        "feasible_indices": [
+          1,
+          2,
+          6
+        ],
+        "target": 1,
+        "position_before": 3,
+        "scores": [
+          0.3401918360583975,
+          0.2571242024574275,
+          0.05037107023171656,
+          0.14599316930310066,
+          0.38152289390563965,
+          0.23187417054733123,
+          0.11599198384890519,
+          0.30045062361413105
+        ],
+        "return_reserve_s": 23.326189840848578
+      },
+      {
+        "decision_number": 7,
+        "elapsed_proxy_s": 108.57871685878233,
+        "observed_indices": [
+          0,
+          1,
+          3,
+          4,
+          5,
+          7
+        ],
+        "feasible_indices": [],
+        "target": null
+      }
+    ],
+    "updates": [
+      {
+        "anchor_index": 4,
+        "feedback": 0,
+        "anchor_score_before": 0.38152289390563965,
+        "residual": -0.38152289390563965,
+        "visited_indices": [
+          4
+        ],
+        "gain": 0.5,
+        "hypothetical_pearson_mean_change": 0.06989861025528918,
+        "actual_mean_change": 0.06989861025528918,
+        "scores_before": [
+          0.4117356240749359,
+          0.39091116189956665,
+          0.3928621709346771,
+          0.3852306306362152,
+          0.38152289390563965,
+          0.3973090648651123,
+          0.3698005974292755,
+          0.4110504388809204
+        ],
+        "scores_after": [
+          0.3824687406353497,
+          0.37618296107951016,
+          0.26645446266106787,
+          0.34220268678193966,
+          0.38152289390563965,
+          0.23187417054733123,
+          0.31973763708879555,
+          0.3506887581396847
+        ],
+        "decision_number": 2
+      },
+      {
+        "anchor_index": 5,
+        "feedback": 0,
+        "anchor_score_before": 0.23187417054733123,
+        "residual": -0.23187417054733123,
+        "visited_indices": [
+          4,
+          5
+        ],
+        "gain": 0.5,
+        "hypothetical_pearson_mean_change": 0.04814681246089319,
+        "actual_mean_change": 0.04814681246089319,
+        "scores_before": [
+          0.3824687406353497,
+          0.37618296107951016,
+          0.26645446266106787,
+          0.34220268678193966,
+          0.38152289390563965,
+          0.23187417054733123,
+          0.31973763708879555,
+          0.3506887581396847
+        ],
+        "scores_after": [
+          0.3480635397914064,
+          0.35400663556811085,
+          0.18674585176220632,
+          0.30278050615681984,
+          0.38152289390563965,
+          0.23187417054733123,
+          0.256807214728314,
+          0.30045062361413105
+        ],
+        "decision_number": 3
+      },
+      {
+        "anchor_index": 7,
+        "feedback": 0,
+        "anchor_score_before": 0.30045062361413105,
+        "residual": -0.30045062361413105,
+        "visited_indices": [
+          4,
+          5,
+          7
+        ],
+        "gain": 0.5,
+        "hypothetical_pearson_mean_change": 0.03576074815651341,
+        "actual_mean_change": 0.03576074815651341,
+        "scores_before": [
+          0.3480635397914064,
+          0.35400663556811085,
+          0.18674585176220632,
+          0.30278050615681984,
+          0.38152289390563965,
+          0.23187417054733123,
+          0.256807214728314,
+          0.30045062361413105
+        ],
+        "scores_after": [
+          0.3401918360583975,
+          0.27382532133777976,
+          0.15616338549073874,
+          0.2964077369836638,
+          0.38152289390563965,
+          0.23187417054733123,
+          0.20301172735371062,
+          0.30045062361413105
+        ],
+        "decision_number": 4
+      },
+      {
+        "anchor_index": 0,
+        "feedback": 0,
+        "anchor_score_before": 0.3401918360583975,
+        "residual": -0.3401918360583975,
+        "visited_indices": [
+          0,
+          4,
+          5,
+          7
+        ],
+        "gain": 0.5,
+        "hypothetical_pearson_mean_change": 0.07457775724080026,
+        "actual_mean_change": 0.07457775724080026,
+        "scores_before": [
+          0.3401918360583975,
+          0.27382532133777976,
+          0.15616338549073874,
+          0.2964077369836638,
+          0.38152289390563965,
+          0.23187417054733123,
+          0.20301172735371062,
+          0.30045062361413105
+        ],
+        "scores_after": [
+          0.3401918360583975,
+          0.26004525141906754,
+          0.08950007521417887,
+          0.14599316930310066,
+          0.38152289390563965,
+          0.23187417054733123,
+          0.13555864626634484,
+          0.30045062361413105
+        ],
+        "decision_number": 5
+      },
+      {
+        "anchor_index": 3,
+        "feedback": 0,
+        "anchor_score_before": 0.14599316930310066,
+        "residual": -0.14599316930310066,
+        "visited_indices": [
+          0,
+          3,
+          4,
+          5,
+          7
+        ],
+        "gain": 0.5,
+        "hypothetical_pearson_mean_change": 0.020538905453847327,
+        "actual_mean_change": 0.020538905453847327,
+        "scores_before": [
+          0.3401918360583975,
+          0.26004525141906754,
+          0.08950007521417887,
+          0.14599316930310066,
+          0.38152289390563965,
+          0.23187417054733123,
+          0.13555864626634484,
+          0.30045062361413105
+        ],
+        "scores_after": [
+          0.3401918360583975,
+          0.2571242024574275,
+          0.05037107023171656,
+          0.14599316930310066,
+          0.38152289390563965,
+          0.23187417054733123,
+          0.11599198384890519,
+          0.30045062361413105
+        ],
+        "decision_number": 6
+      },
+      {
+        "anchor_index": 1,
+        "feedback": 0,
+        "anchor_score_before": 0.2571242024574275,
+        "residual": -0.2571242024574275,
+        "visited_indices": [
+          0,
+          1,
+          3,
+          4,
+          5,
+          7
+        ],
+        "gain": 0.5,
+        "hypothetical_pearson_mean_change": 0.03876505311250271,
+        "actual_mean_change": 0.03876505311250271,
+        "scores_before": [
+          0.3401918360583975,
+          0.2571242024574275,
+          0.05037107023171656,
+          0.14599316930310066,
+          0.38152289390563965,
+          0.23187417054733123,
+          0.11599198384890519,
+          0.30045062361413105
+        ],
+        "scores_after": [
+          0.3401918360583975,
+          0.2571242024574275,
+          0.04027327878324127,
+          0.14599316930310066,
+          0.38152289390563965,
+          0.23187417054733123,
+          0.04855966907237505,
+          0.30045062361413105
+        ],
+        "decision_number": 7
+      }
+    ],
+    "returned_home": true,
+    "budget_slack_s": 8.095093300369086,
+    "certificate": null,
+    "solver_wall_seconds": 0.00016491700080223382,
+    "case": "case_rank04",
+    "scene": "1001-Iona-Point.geo.tif",
+    "label_access_indices": [
+      4,
+      5,
+      7,
+      0,
+      3,
+      1
+    ],
+    "route_building_ids": [
+      "6cb4c4506f1c475fb21c50af0c54c995",
+      "a16d15374bb3402c9d7437def99a0a04",
+      "f7c50254e0614d5cae1668233aad9256",
+      "00278e0a430549e6b5c4ab093c0ffa9a",
+      "5eaad76070fe4f98be2e50d7d078a195",
+      "17b22c58f18942cdbb0fa30aae7687d2"
+    ],
+    "source_positive_checks": 0,
+    "first_positive_check_proxy_s": null,
+    "unknown_source_checks": 0,
+    "source_severe_checks": 0
+  }
+]

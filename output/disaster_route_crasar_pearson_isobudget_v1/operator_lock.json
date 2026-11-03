@@ -1,0 +1,25 @@
+{
+  "name": "FrozenPearsonSpatialResidualV1",
+  "role": "Comparison operator, not established new method",
+  "change_signal": "1 - mean(channelwise Pearson(pre,post)) on footprint pixels",
+  "normalization": "Per-region unlabelled mean/std, std floor0.05",
+  "feature_kernel": "Gaussian standardized-feature distance; tau median positive unlabelled pairwise distance",
+  "spatial_sigma_m": 50,
+  "residual_gain": 0.5,
+  "residual": "new paid binary UAS-view label minus current score at visited building",
+  "selection": "current score / outgoing straight-line distance among hard-budget feasible candidates",
+  "unknown_label": "retain evidence and charge service, skip residual update",
+  "method_frozen_before_run": "protocol.json and its source hashes precede model predictions and routes",
+  "source_sha256": {
+    "crasar_pearson_budget_core.py": "dc84d5b5313a3ebfb2dcfc18a30beb62f0d7ec559835ab96a3a632212cf13271",
+    "run_crasar_pearson_isobudget.py": "6373b3e40f14a592a34fc367ccf48f7eb7b08a94f7eeb1a81f14a18bb575b44c",
+    "test_crasar_pearson_budget.py": "21127ff264a63146a6ecea0ca31f9e8ea2b1ad875e187f83baf9f2b0c39ab825",
+    "audit_crasar_pearson_isobudget.py": "2e1c6737b0abe149450243a0c4149f98d49fbf41fd37dec6b63d4d65267a77ba",
+    "run_boone_two_step.py": "83031fb74f2d93684386aefec0df479af1bd76694ec11a31d8cb6e5963a24da2",
+    "run_boone_structure_check.py": "56001d41a3f5268ab3bc574f256cbedd46d1478aa95feb873f3462c22ca0c036",
+    "run_boone_context_experiment.py": "2e7d20d6aa64f2e9c2bac4258a64444cbc026559b4ee0f59bdb3966c7035e22d",
+    "run_boone_strength_control.py": "59fc1e06ac433236885084e3f179cd6cf61d376ddf8f7b74d26ab44f2d5c0389",
+    "audit_boone_context_experiment.py": "0813f2b634394a5c748dc48699a5ab6322299bbfb526d8b904d0a65799b99ba0",
+    "route_headroom_core.py": "857455b30f272e132ca9c1c8e6fec4d6964d2b31d8e42f499132df4420448347"
+  }
+}

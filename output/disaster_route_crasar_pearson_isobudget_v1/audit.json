@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "routes": 54,
+  "paid_observations": 259,
+  "updates": 107,
+  "initial_model_calls": 32,
+  "pearson_features": 32,
+  "exact_static_certificates": 9,
+  "crop_hashes": 64,
+  "budget_violations": 0,
+  "old_sealed_files_unchanged": 2548,
+  "scope": "Archive paid-label paths and proxy budgets; no field registration or sensor-truth certificate"
+}
