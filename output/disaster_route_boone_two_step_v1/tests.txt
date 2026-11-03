@@ -1,0 +1,3 @@
+2026-11-03
+Command: work/disaster_search/.venv_inference/bin/python -m unittest discover -s work/disaster_route -p test_boone_*.py -v
+17 tests passed in0.091s. Includes actual-path-only label reveal, no repeat visits, current-state residual, unit-kernel equivalence and future-label isolation.

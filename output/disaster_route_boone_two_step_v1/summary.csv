@@ -1,0 +1,9 @@
+selector,method,two_step_hit_sum,step1_hit_sum,step2_hit_sum,outbound_distance_sum_m,closed_distance_sum_m,noaa_evaluator_hit_sum
+score_per_distance,pearson,8,5,3,626.9356770501292,1198.8665114422356,4
+score_per_distance,matched_spatial,5,4,1,622.8106935838101,1145.4769942421915,3
+score_per_distance,spatial,6,4,2,655.9872206433588,1236.360363062501,3
+score_per_distance,no_update,5,4,1,619.047941560191,1143.614912746818,3
+score,pearson,9,9,0,1360.4298442424824,2155.9744813308553,2
+score,matched_spatial,2,1,1,1963.8501940857366,2804.514946457517,1
+score,spatial,2,1,1,1940.0902332665455,2781.725932744076,1
+score,no_update,11,1,10,1132.36833721463,1898.3975377151075,0

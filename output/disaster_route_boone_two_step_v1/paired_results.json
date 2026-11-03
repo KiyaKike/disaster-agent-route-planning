@@ -1,0 +1,458 @@
+[
+  {
+    "selector": "score_per_distance",
+    "start_display": "B01",
+    "pearson_route": [
+      "B01",
+      "B04",
+      "B11"
+    ],
+    "matched_route": [
+      "B01",
+      "B02",
+      "B10"
+    ],
+    "pearson_hits": 0,
+    "matched_hits": 0,
+    "hit_delta": 0,
+    "outbound_distance_delta_m": -1.1943257181992593,
+    "closed_distance_delta_m": -2.6748039688739738
+  },
+  {
+    "selector": "score_per_distance",
+    "start_display": "B02",
+    "pearson_route": [
+      "B02",
+      "B10",
+      "B03"
+    ],
+    "matched_route": [
+      "B02",
+      "B01",
+      "B04"
+    ],
+    "pearson_hits": 1,
+    "matched_hits": 0,
+    "hit_delta": 1,
+    "outbound_distance_delta_m": 4.654176797426111,
+    "closed_distance_delta_m": 9.564234985324674
+  },
+  {
+    "selector": "score_per_distance",
+    "start_display": "B03",
+    "pearson_route": [
+      "B03",
+      "B10",
+      "B02"
+    ],
+    "matched_route": [
+      "B03",
+      "B06",
+      "B10"
+    ],
+    "pearson_hits": 0,
+    "matched_hits": 0,
+    "hit_delta": 0,
+    "outbound_distance_delta_m": -16.039881450001097,
+    "closed_distance_delta_m": 3.845566843002814
+  },
+  {
+    "selector": "score_per_distance",
+    "start_display": "B04",
+    "pearson_route": [
+      "B04",
+      "B01",
+      "B02"
+    ],
+    "matched_route": [
+      "B04",
+      "B01",
+      "B02"
+    ],
+    "pearson_hits": 0,
+    "matched_hits": 0,
+    "hit_delta": 0,
+    "outbound_distance_delta_m": 0.0,
+    "closed_distance_delta_m": 0.0
+  },
+  {
+    "selector": "score_per_distance",
+    "start_display": "B05",
+    "pearson_route": [
+      "B05",
+      "B09",
+      "B07"
+    ],
+    "matched_route": [
+      "B05",
+      "B09",
+      "B07"
+    ],
+    "pearson_hits": 2,
+    "matched_hits": 2,
+    "hit_delta": 0,
+    "outbound_distance_delta_m": 0.0,
+    "closed_distance_delta_m": 0.0
+  },
+  {
+    "selector": "score_per_distance",
+    "start_display": "B06",
+    "pearson_route": [
+      "B06",
+      "B03",
+      "B10"
+    ],
+    "matched_route": [
+      "B06",
+      "B03",
+      "B10"
+    ],
+    "pearson_hits": 1,
+    "matched_hits": 1,
+    "hit_delta": 0,
+    "outbound_distance_delta_m": 0.0,
+    "closed_distance_delta_m": 0.0
+  },
+  {
+    "selector": "score_per_distance",
+    "start_display": "B07",
+    "pearson_route": [
+      "B07",
+      "B09",
+      "B05"
+    ],
+    "matched_route": [
+      "B07",
+      "B09",
+      "B05"
+    ],
+    "pearson_hits": 1,
+    "matched_hits": 1,
+    "hit_delta": 0,
+    "outbound_distance_delta_m": 0.0,
+    "closed_distance_delta_m": 0.0
+  },
+  {
+    "selector": "score_per_distance",
+    "start_display": "B08",
+    "pearson_route": [
+      "B08",
+      "B12",
+      "B03"
+    ],
+    "matched_route": [
+      "B08",
+      "B12",
+      "B01"
+    ],
+    "pearson_hits": 1,
+    "matched_hits": 0,
+    "hit_delta": 1,
+    "outbound_distance_delta_m": 6.3936818620873765,
+    "closed_distance_delta_m": 27.927733432394234
+  },
+  {
+    "selector": "score_per_distance",
+    "start_display": "B09",
+    "pearson_route": [
+      "B09",
+      "B07",
+      "B10"
+    ],
+    "matched_route": [
+      "B09",
+      "B05",
+      "B01"
+    ],
+    "pearson_hits": 1,
+    "matched_hits": 0,
+    "hit_delta": 1,
+    "outbound_distance_delta_m": 10.311331975006041,
+    "closed_distance_delta_m": 14.726785908196433
+  },
+  {
+    "selector": "score_per_distance",
+    "start_display": "B10",
+    "pearson_route": [
+      "B10",
+      "B03",
+      "B06"
+    ],
+    "matched_route": [
+      "B10",
+      "B03",
+      "B06"
+    ],
+    "pearson_hits": 1,
+    "matched_hits": 1,
+    "hit_delta": 0,
+    "outbound_distance_delta_m": 0.0,
+    "closed_distance_delta_m": 0.0
+  },
+  {
+    "selector": "score_per_distance",
+    "start_display": "B11",
+    "pearson_route": [
+      "B11",
+      "B04",
+      "B01"
+    ],
+    "matched_route": [
+      "B11",
+      "B04",
+      "B01"
+    ],
+    "pearson_hits": 0,
+    "matched_hits": 0,
+    "hit_delta": 0,
+    "outbound_distance_delta_m": 0.0,
+    "closed_distance_delta_m": 0.0
+  },
+  {
+    "selector": "score_per_distance",
+    "start_display": "B12",
+    "pearson_route": [
+      "B12",
+      "B08",
+      "B01"
+    ],
+    "matched_route": [
+      "B12",
+      "B08",
+      "B01"
+    ],
+    "pearson_hits": 0,
+    "matched_hits": 0,
+    "hit_delta": 0,
+    "outbound_distance_delta_m": 0.0,
+    "closed_distance_delta_m": 0.0
+  },
+  {
+    "selector": "score",
+    "start_display": "B01",
+    "pearson_route": [
+      "B01",
+      "B03",
+      "B08"
+    ],
+    "matched_route": [
+      "B01",
+      "B06",
+      "B08"
+    ],
+    "pearson_hits": 1,
+    "matched_hits": 0,
+    "hit_delta": 1,
+    "outbound_distance_delta_m": -28.460573182384536,
+    "closed_distance_delta_m": -28.460573182384564
+  },
+  {
+    "selector": "score",
+    "start_display": "B02",
+    "pearson_route": [
+      "B02",
+      "B03",
+      "B08"
+    ],
+    "matched_route": [
+      "B02",
+      "B06",
+      "B11"
+    ],
+    "pearson_hits": 1,
+    "matched_hits": 0,
+    "hit_delta": 1,
+    "outbound_distance_delta_m": -46.85700978660144,
+    "closed_distance_delta_m": -38.48441091902487
+  },
+  {
+    "selector": "score",
+    "start_display": "B03",
+    "pearson_route": [
+      "B03",
+      "B10",
+      "B08"
+    ],
+    "matched_route": [
+      "B03",
+      "B06",
+      "B11"
+    ],
+    "pearson_hits": 0,
+    "matched_hits": 0,
+    "hit_delta": 0,
+    "outbound_distance_delta_m": -39.268987321850005,
+    "closed_distance_delta_m": -50.68870119948747
+  },
+  {
+    "selector": "score",
+    "start_display": "B04",
+    "pearson_route": [
+      "B04",
+      "B03",
+      "B10"
+    ],
+    "matched_route": [
+      "B04",
+      "B06",
+      "B08"
+    ],
+    "pearson_hits": 1,
+    "matched_hits": 0,
+    "hit_delta": 1,
+    "outbound_distance_delta_m": -90.45750349687529,
+    "closed_distance_delta_m": -95.26142927454043
+  },
+  {
+    "selector": "score",
+    "start_display": "B05",
+    "pearson_route": [
+      "B05",
+      "B03",
+      "B10"
+    ],
+    "matched_route": [
+      "B05",
+      "B06",
+      "B08"
+    ],
+    "pearson_hits": 1,
+    "matched_hits": 0,
+    "hit_delta": 1,
+    "outbound_distance_delta_m": -89.78221633859272,
+    "closed_distance_delta_m": -129.2721576326788
+  },
+  {
+    "selector": "score",
+    "start_display": "B06",
+    "pearson_route": [
+      "B06",
+      "B03",
+      "B08"
+    ],
+    "matched_route": [
+      "B06",
+      "B11",
+      "B08"
+    ],
+    "pearson_hits": 1,
+    "matched_hits": 0,
+    "hit_delta": 1,
+    "outbound_distance_delta_m": -78.99821870007969,
+    "closed_distance_delta_m": -78.99821870007972
+  },
+  {
+    "selector": "score",
+    "start_display": "B07",
+    "pearson_route": [
+      "B07",
+      "B09",
+      "B10"
+    ],
+    "matched_route": [
+      "B07",
+      "B09",
+      "B05"
+    ],
+    "pearson_hits": 1,
+    "matched_hits": 1,
+    "hit_delta": 0,
+    "outbound_distance_delta_m": 28.260977621755615,
+    "closed_distance_delta_m": 22.255497322920803
+  },
+  {
+    "selector": "score",
+    "start_display": "B08",
+    "pearson_route": [
+      "B08",
+      "B06",
+      "B11"
+    ],
+    "matched_route": [
+      "B08",
+      "B06",
+      "B11"
+    ],
+    "pearson_hits": 0,
+    "matched_hits": 0,
+    "hit_delta": 0,
+    "outbound_distance_delta_m": 0.0,
+    "closed_distance_delta_m": 0.0
+  },
+  {
+    "selector": "score",
+    "start_display": "B09",
+    "pearson_route": [
+      "B09",
+      "B07",
+      "B10"
+    ],
+    "matched_route": [
+      "B09",
+      "B05",
+      "B03"
+    ],
+    "pearson_hits": 1,
+    "matched_hits": 1,
+    "hit_delta": 0,
+    "outbound_distance_delta_m": -25.171984681540337,
+    "closed_distance_delta_m": -36.66618712867111
+  },
+  {
+    "selector": "score",
+    "start_display": "B10",
+    "pearson_route": [
+      "B10",
+      "B11",
+      "B08"
+    ],
+    "matched_route": [
+      "B10",
+      "B11",
+      "B06"
+    ],
+    "pearson_hits": 0,
+    "matched_hits": 0,
+    "hit_delta": 0,
+    "outbound_distance_delta_m": -42.823107941854516,
+    "closed_distance_delta_m": -10.25656478135113
+  },
+  {
+    "selector": "score",
+    "start_display": "B11",
+    "pearson_route": [
+      "B11",
+      "B03",
+      "B10"
+    ],
+    "matched_route": [
+      "B11",
+      "B06",
+      "B08"
+    ],
+    "pearson_hits": 1,
+    "matched_hits": 0,
+    "hit_delta": 1,
+    "outbound_distance_delta_m": -90.49171172663554,
+    "closed_distance_delta_m": -84.86606455191122
+  },
+  {
+    "selector": "score",
+    "start_display": "B12",
+    "pearson_route": [
+      "B12",
+      "B03",
+      "B10"
+    ],
+    "matched_route": [
+      "B12",
+      "B06",
+      "B11"
+    ],
+    "pearson_hits": 1,
+    "matched_hits": 0,
+    "hit_delta": 1,
+    "outbound_distance_delta_m": -99.37001428859571,
+    "closed_distance_delta_m": -117.84165507945349
+  }
+]

@@ -1,0 +1,107 @@
+{
+  "table": [
+    {
+      "selector": "score_per_distance",
+      "method": "pearson",
+      "two_step_hit_sum": 8,
+      "step1_hit_sum": 5,
+      "step2_hit_sum": 3,
+      "outbound_distance_sum_m": 626.9356770501292,
+      "closed_distance_sum_m": 1198.8665114422356,
+      "noaa_evaluator_hit_sum": 4
+    },
+    {
+      "selector": "score_per_distance",
+      "method": "matched_spatial",
+      "two_step_hit_sum": 5,
+      "step1_hit_sum": 4,
+      "step2_hit_sum": 1,
+      "outbound_distance_sum_m": 622.8106935838101,
+      "closed_distance_sum_m": 1145.4769942421915,
+      "noaa_evaluator_hit_sum": 3
+    },
+    {
+      "selector": "score_per_distance",
+      "method": "spatial",
+      "two_step_hit_sum": 6,
+      "step1_hit_sum": 4,
+      "step2_hit_sum": 2,
+      "outbound_distance_sum_m": 655.9872206433588,
+      "closed_distance_sum_m": 1236.360363062501,
+      "noaa_evaluator_hit_sum": 3
+    },
+    {
+      "selector": "score_per_distance",
+      "method": "no_update",
+      "two_step_hit_sum": 5,
+      "step1_hit_sum": 4,
+      "step2_hit_sum": 1,
+      "outbound_distance_sum_m": 619.047941560191,
+      "closed_distance_sum_m": 1143.614912746818,
+      "noaa_evaluator_hit_sum": 3
+    },
+    {
+      "selector": "score",
+      "method": "pearson",
+      "two_step_hit_sum": 9,
+      "step1_hit_sum": 9,
+      "step2_hit_sum": 0,
+      "outbound_distance_sum_m": 1360.4298442424824,
+      "closed_distance_sum_m": 2155.9744813308553,
+      "noaa_evaluator_hit_sum": 2
+    },
+    {
+      "selector": "score",
+      "method": "matched_spatial",
+      "two_step_hit_sum": 2,
+      "step1_hit_sum": 1,
+      "step2_hit_sum": 1,
+      "outbound_distance_sum_m": 1963.8501940857366,
+      "closed_distance_sum_m": 2804.514946457517,
+      "noaa_evaluator_hit_sum": 1
+    },
+    {
+      "selector": "score",
+      "method": "spatial",
+      "two_step_hit_sum": 2,
+      "step1_hit_sum": 1,
+      "step2_hit_sum": 1,
+      "outbound_distance_sum_m": 1940.0902332665455,
+      "closed_distance_sum_m": 2781.725932744076,
+      "noaa_evaluator_hit_sum": 1
+    },
+    {
+      "selector": "score",
+      "method": "no_update",
+      "two_step_hit_sum": 11,
+      "step1_hit_sum": 1,
+      "step2_hit_sum": 10,
+      "outbound_distance_sum_m": 1132.36833721463,
+      "closed_distance_sum_m": 1898.3975377151075,
+      "noaa_evaluator_hit_sum": 0
+    }
+  ],
+  "paired_verdicts": [
+    {
+      "selector": "score_per_distance",
+      "net_hits": 3,
+      "wins": 3,
+      "ties": 9,
+      "losses": 0,
+      "user_gate_pass": true
+    },
+    {
+      "selector": "score",
+      "net_hits": 7,
+      "wins": 7,
+      "ties": 5,
+      "losses": 0,
+      "user_gate_pass": true
+    }
+  ],
+  "primary_selector": "score_per_distance",
+  "decision": "ELIGIBLE_FOR_EXTERNAL_VALIDATION",
+  "episodes": 96,
+  "new_model_calls": 0,
+  "fixed_travel_budget_test": false
+}

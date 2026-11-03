@@ -1,0 +1,770 @@
+[
+  {
+    "selector": "score_per_distance",
+    "method": "pearson",
+    "start_display": "B01",
+    "with_second_feedback": "B11",
+    "without_second_feedback": "B11",
+    "choice_changed": false
+  },
+  {
+    "selector": "score_per_distance",
+    "method": "matched_spatial",
+    "start_display": "B01",
+    "with_second_feedback": "B10",
+    "without_second_feedback": "B10",
+    "choice_changed": false
+  },
+  {
+    "selector": "score_per_distance",
+    "method": "spatial",
+    "start_display": "B01",
+    "with_second_feedback": "B10",
+    "without_second_feedback": "B10",
+    "choice_changed": false
+  },
+  {
+    "selector": "score_per_distance",
+    "method": "no_update",
+    "start_display": "B01",
+    "with_second_feedback": "B10",
+    "without_second_feedback": "B10",
+    "choice_changed": false
+  },
+  {
+    "selector": "score_per_distance",
+    "method": "pearson",
+    "start_display": "B02",
+    "with_second_feedback": "B03",
+    "without_second_feedback": "B03",
+    "choice_changed": false
+  },
+  {
+    "selector": "score_per_distance",
+    "method": "matched_spatial",
+    "start_display": "B02",
+    "with_second_feedback": "B04",
+    "without_second_feedback": "B04",
+    "choice_changed": false
+  },
+  {
+    "selector": "score_per_distance",
+    "method": "spatial",
+    "start_display": "B02",
+    "with_second_feedback": "B11",
+    "without_second_feedback": "B04",
+    "choice_changed": true
+  },
+  {
+    "selector": "score_per_distance",
+    "method": "no_update",
+    "start_display": "B02",
+    "with_second_feedback": "B04",
+    "without_second_feedback": "B04",
+    "choice_changed": false
+  },
+  {
+    "selector": "score_per_distance",
+    "method": "pearson",
+    "start_display": "B03",
+    "with_second_feedback": "B02",
+    "without_second_feedback": "B02",
+    "choice_changed": false
+  },
+  {
+    "selector": "score_per_distance",
+    "method": "matched_spatial",
+    "start_display": "B03",
+    "with_second_feedback": "B10",
+    "without_second_feedback": "B10",
+    "choice_changed": false
+  },
+  {
+    "selector": "score_per_distance",
+    "method": "spatial",
+    "start_display": "B03",
+    "with_second_feedback": "B10",
+    "without_second_feedback": "B10",
+    "choice_changed": false
+  },
+  {
+    "selector": "score_per_distance",
+    "method": "no_update",
+    "start_display": "B03",
+    "with_second_feedback": "B10",
+    "without_second_feedback": "B10",
+    "choice_changed": false
+  },
+  {
+    "selector": "score_per_distance",
+    "method": "pearson",
+    "start_display": "B04",
+    "with_second_feedback": "B02",
+    "without_second_feedback": "B02",
+    "choice_changed": false
+  },
+  {
+    "selector": "score_per_distance",
+    "method": "matched_spatial",
+    "start_display": "B04",
+    "with_second_feedback": "B02",
+    "without_second_feedback": "B02",
+    "choice_changed": false
+  },
+  {
+    "selector": "score_per_distance",
+    "method": "spatial",
+    "start_display": "B04",
+    "with_second_feedback": "B02",
+    "without_second_feedback": "B02",
+    "choice_changed": false
+  },
+  {
+    "selector": "score_per_distance",
+    "method": "no_update",
+    "start_display": "B04",
+    "with_second_feedback": "B02",
+    "without_second_feedback": "B02",
+    "choice_changed": false
+  },
+  {
+    "selector": "score_per_distance",
+    "method": "pearson",
+    "start_display": "B05",
+    "with_second_feedback": "B07",
+    "without_second_feedback": "B07",
+    "choice_changed": false
+  },
+  {
+    "selector": "score_per_distance",
+    "method": "matched_spatial",
+    "start_display": "B05",
+    "with_second_feedback": "B07",
+    "without_second_feedback": "B07",
+    "choice_changed": false
+  },
+  {
+    "selector": "score_per_distance",
+    "method": "spatial",
+    "start_display": "B05",
+    "with_second_feedback": "B07",
+    "without_second_feedback": "B07",
+    "choice_changed": false
+  },
+  {
+    "selector": "score_per_distance",
+    "method": "no_update",
+    "start_display": "B05",
+    "with_second_feedback": "B07",
+    "without_second_feedback": "B07",
+    "choice_changed": false
+  },
+  {
+    "selector": "score_per_distance",
+    "method": "pearson",
+    "start_display": "B06",
+    "with_second_feedback": "B10",
+    "without_second_feedback": "B10",
+    "choice_changed": false
+  },
+  {
+    "selector": "score_per_distance",
+    "method": "matched_spatial",
+    "start_display": "B06",
+    "with_second_feedback": "B10",
+    "without_second_feedback": "B10",
+    "choice_changed": false
+  },
+  {
+    "selector": "score_per_distance",
+    "method": "spatial",
+    "start_display": "B06",
+    "with_second_feedback": "B10",
+    "without_second_feedback": "B10",
+    "choice_changed": false
+  },
+  {
+    "selector": "score_per_distance",
+    "method": "no_update",
+    "start_display": "B06",
+    "with_second_feedback": "B10",
+    "without_second_feedback": "B10",
+    "choice_changed": false
+  },
+  {
+    "selector": "score_per_distance",
+    "method": "pearson",
+    "start_display": "B07",
+    "with_second_feedback": "B05",
+    "without_second_feedback": "B05",
+    "choice_changed": false
+  },
+  {
+    "selector": "score_per_distance",
+    "method": "matched_spatial",
+    "start_display": "B07",
+    "with_second_feedback": "B05",
+    "without_second_feedback": "B05",
+    "choice_changed": false
+  },
+  {
+    "selector": "score_per_distance",
+    "method": "spatial",
+    "start_display": "B07",
+    "with_second_feedback": "B05",
+    "without_second_feedback": "B05",
+    "choice_changed": false
+  },
+  {
+    "selector": "score_per_distance",
+    "method": "no_update",
+    "start_display": "B07",
+    "with_second_feedback": "B05",
+    "without_second_feedback": "B05",
+    "choice_changed": false
+  },
+  {
+    "selector": "score_per_distance",
+    "method": "pearson",
+    "start_display": "B08",
+    "with_second_feedback": "B03",
+    "without_second_feedback": "B02",
+    "choice_changed": true
+  },
+  {
+    "selector": "score_per_distance",
+    "method": "matched_spatial",
+    "start_display": "B08",
+    "with_second_feedback": "B01",
+    "without_second_feedback": "B02",
+    "choice_changed": true
+  },
+  {
+    "selector": "score_per_distance",
+    "method": "spatial",
+    "start_display": "B08",
+    "with_second_feedback": "B03",
+    "without_second_feedback": "B03",
+    "choice_changed": false
+  },
+  {
+    "selector": "score_per_distance",
+    "method": "no_update",
+    "start_display": "B08",
+    "with_second_feedback": "B02",
+    "without_second_feedback": "B02",
+    "choice_changed": false
+  },
+  {
+    "selector": "score_per_distance",
+    "method": "pearson",
+    "start_display": "B09",
+    "with_second_feedback": "B10",
+    "without_second_feedback": "B10",
+    "choice_changed": false
+  },
+  {
+    "selector": "score_per_distance",
+    "method": "matched_spatial",
+    "start_display": "B09",
+    "with_second_feedback": "B01",
+    "without_second_feedback": "B01",
+    "choice_changed": false
+  },
+  {
+    "selector": "score_per_distance",
+    "method": "spatial",
+    "start_display": "B09",
+    "with_second_feedback": "B01",
+    "without_second_feedback": "B01",
+    "choice_changed": false
+  },
+  {
+    "selector": "score_per_distance",
+    "method": "no_update",
+    "start_display": "B09",
+    "with_second_feedback": "B01",
+    "without_second_feedback": "B01",
+    "choice_changed": false
+  },
+  {
+    "selector": "score_per_distance",
+    "method": "pearson",
+    "start_display": "B10",
+    "with_second_feedback": "B06",
+    "without_second_feedback": "B06",
+    "choice_changed": false
+  },
+  {
+    "selector": "score_per_distance",
+    "method": "matched_spatial",
+    "start_display": "B10",
+    "with_second_feedback": "B06",
+    "without_second_feedback": "B06",
+    "choice_changed": false
+  },
+  {
+    "selector": "score_per_distance",
+    "method": "spatial",
+    "start_display": "B10",
+    "with_second_feedback": "B06",
+    "without_second_feedback": "B06",
+    "choice_changed": false
+  },
+  {
+    "selector": "score_per_distance",
+    "method": "no_update",
+    "start_display": "B10",
+    "with_second_feedback": "B06",
+    "without_second_feedback": "B06",
+    "choice_changed": false
+  },
+  {
+    "selector": "score_per_distance",
+    "method": "pearson",
+    "start_display": "B11",
+    "with_second_feedback": "B01",
+    "without_second_feedback": "B01",
+    "choice_changed": false
+  },
+  {
+    "selector": "score_per_distance",
+    "method": "matched_spatial",
+    "start_display": "B11",
+    "with_second_feedback": "B01",
+    "without_second_feedback": "B01",
+    "choice_changed": false
+  },
+  {
+    "selector": "score_per_distance",
+    "method": "spatial",
+    "start_display": "B11",
+    "with_second_feedback": "B01",
+    "without_second_feedback": "B01",
+    "choice_changed": false
+  },
+  {
+    "selector": "score_per_distance",
+    "method": "no_update",
+    "start_display": "B11",
+    "with_second_feedback": "B01",
+    "without_second_feedback": "B01",
+    "choice_changed": false
+  },
+  {
+    "selector": "score_per_distance",
+    "method": "pearson",
+    "start_display": "B12",
+    "with_second_feedback": "B01",
+    "without_second_feedback": "B01",
+    "choice_changed": false
+  },
+  {
+    "selector": "score_per_distance",
+    "method": "matched_spatial",
+    "start_display": "B12",
+    "with_second_feedback": "B01",
+    "without_second_feedback": "B01",
+    "choice_changed": false
+  },
+  {
+    "selector": "score_per_distance",
+    "method": "spatial",
+    "start_display": "B12",
+    "with_second_feedback": "B11",
+    "without_second_feedback": "B01",
+    "choice_changed": true
+  },
+  {
+    "selector": "score_per_distance",
+    "method": "no_update",
+    "start_display": "B12",
+    "with_second_feedback": "B01",
+    "without_second_feedback": "B01",
+    "choice_changed": false
+  },
+  {
+    "selector": "score",
+    "method": "pearson",
+    "start_display": "B01",
+    "with_second_feedback": "B08",
+    "without_second_feedback": "B08",
+    "choice_changed": false
+  },
+  {
+    "selector": "score",
+    "method": "matched_spatial",
+    "start_display": "B01",
+    "with_second_feedback": "B08",
+    "without_second_feedback": "B03",
+    "choice_changed": true
+  },
+  {
+    "selector": "score",
+    "method": "spatial",
+    "start_display": "B01",
+    "with_second_feedback": "B08",
+    "without_second_feedback": "B03",
+    "choice_changed": true
+  },
+  {
+    "selector": "score",
+    "method": "no_update",
+    "start_display": "B01",
+    "with_second_feedback": "B03",
+    "without_second_feedback": "B03",
+    "choice_changed": false
+  },
+  {
+    "selector": "score",
+    "method": "pearson",
+    "start_display": "B02",
+    "with_second_feedback": "B08",
+    "without_second_feedback": "B08",
+    "choice_changed": false
+  },
+  {
+    "selector": "score",
+    "method": "matched_spatial",
+    "start_display": "B02",
+    "with_second_feedback": "B11",
+    "without_second_feedback": "B11",
+    "choice_changed": false
+  },
+  {
+    "selector": "score",
+    "method": "spatial",
+    "start_display": "B02",
+    "with_second_feedback": "B11",
+    "without_second_feedback": "B11",
+    "choice_changed": false
+  },
+  {
+    "selector": "score",
+    "method": "no_update",
+    "start_display": "B02",
+    "with_second_feedback": "B03",
+    "without_second_feedback": "B03",
+    "choice_changed": false
+  },
+  {
+    "selector": "score",
+    "method": "pearson",
+    "start_display": "B03",
+    "with_second_feedback": "B08",
+    "without_second_feedback": "B08",
+    "choice_changed": false
+  },
+  {
+    "selector": "score",
+    "method": "matched_spatial",
+    "start_display": "B03",
+    "with_second_feedback": "B11",
+    "without_second_feedback": "B01",
+    "choice_changed": true
+  },
+  {
+    "selector": "score",
+    "method": "spatial",
+    "start_display": "B03",
+    "with_second_feedback": "B01",
+    "without_second_feedback": "B10",
+    "choice_changed": true
+  },
+  {
+    "selector": "score",
+    "method": "no_update",
+    "start_display": "B03",
+    "with_second_feedback": "B01",
+    "without_second_feedback": "B01",
+    "choice_changed": false
+  },
+  {
+    "selector": "score",
+    "method": "pearson",
+    "start_display": "B04",
+    "with_second_feedback": "B10",
+    "without_second_feedback": "B06",
+    "choice_changed": true
+  },
+  {
+    "selector": "score",
+    "method": "matched_spatial",
+    "start_display": "B04",
+    "with_second_feedback": "B08",
+    "without_second_feedback": "B03",
+    "choice_changed": true
+  },
+  {
+    "selector": "score",
+    "method": "spatial",
+    "start_display": "B04",
+    "with_second_feedback": "B08",
+    "without_second_feedback": "B03",
+    "choice_changed": true
+  },
+  {
+    "selector": "score",
+    "method": "no_update",
+    "start_display": "B04",
+    "with_second_feedback": "B03",
+    "without_second_feedback": "B03",
+    "choice_changed": false
+  },
+  {
+    "selector": "score",
+    "method": "pearson",
+    "start_display": "B05",
+    "with_second_feedback": "B10",
+    "without_second_feedback": "B06",
+    "choice_changed": true
+  },
+  {
+    "selector": "score",
+    "method": "matched_spatial",
+    "start_display": "B05",
+    "with_second_feedback": "B08",
+    "without_second_feedback": "B03",
+    "choice_changed": true
+  },
+  {
+    "selector": "score",
+    "method": "spatial",
+    "start_display": "B05",
+    "with_second_feedback": "B08",
+    "without_second_feedback": "B08",
+    "choice_changed": false
+  },
+  {
+    "selector": "score",
+    "method": "no_update",
+    "start_display": "B05",
+    "with_second_feedback": "B03",
+    "without_second_feedback": "B03",
+    "choice_changed": false
+  },
+  {
+    "selector": "score",
+    "method": "pearson",
+    "start_display": "B06",
+    "with_second_feedback": "B08",
+    "without_second_feedback": "B11",
+    "choice_changed": true
+  },
+  {
+    "selector": "score",
+    "method": "matched_spatial",
+    "start_display": "B06",
+    "with_second_feedback": "B08",
+    "without_second_feedback": "B01",
+    "choice_changed": true
+  },
+  {
+    "selector": "score",
+    "method": "spatial",
+    "start_display": "B06",
+    "with_second_feedback": "B08",
+    "without_second_feedback": "B05",
+    "choice_changed": true
+  },
+  {
+    "selector": "score",
+    "method": "no_update",
+    "start_display": "B06",
+    "with_second_feedback": "B01",
+    "without_second_feedback": "B01",
+    "choice_changed": false
+  },
+  {
+    "selector": "score",
+    "method": "pearson",
+    "start_display": "B07",
+    "with_second_feedback": "B10",
+    "without_second_feedback": "B10",
+    "choice_changed": false
+  },
+  {
+    "selector": "score",
+    "method": "matched_spatial",
+    "start_display": "B07",
+    "with_second_feedback": "B05",
+    "without_second_feedback": "B03",
+    "choice_changed": true
+  },
+  {
+    "selector": "score",
+    "method": "spatial",
+    "start_display": "B07",
+    "with_second_feedback": "B05",
+    "without_second_feedback": "B03",
+    "choice_changed": true
+  },
+  {
+    "selector": "score",
+    "method": "no_update",
+    "start_display": "B07",
+    "with_second_feedback": "B03",
+    "without_second_feedback": "B03",
+    "choice_changed": false
+  },
+  {
+    "selector": "score",
+    "method": "pearson",
+    "start_display": "B08",
+    "with_second_feedback": "B11",
+    "without_second_feedback": "B11",
+    "choice_changed": false
+  },
+  {
+    "selector": "score",
+    "method": "matched_spatial",
+    "start_display": "B08",
+    "with_second_feedback": "B11",
+    "without_second_feedback": "B03",
+    "choice_changed": true
+  },
+  {
+    "selector": "score",
+    "method": "spatial",
+    "start_display": "B08",
+    "with_second_feedback": "B05",
+    "without_second_feedback": "B09",
+    "choice_changed": true
+  },
+  {
+    "selector": "score",
+    "method": "no_update",
+    "start_display": "B08",
+    "with_second_feedback": "B03",
+    "without_second_feedback": "B03",
+    "choice_changed": false
+  },
+  {
+    "selector": "score",
+    "method": "pearson",
+    "start_display": "B09",
+    "with_second_feedback": "B10",
+    "without_second_feedback": "B01",
+    "choice_changed": true
+  },
+  {
+    "selector": "score",
+    "method": "matched_spatial",
+    "start_display": "B09",
+    "with_second_feedback": "B03",
+    "without_second_feedback": "B01",
+    "choice_changed": true
+  },
+  {
+    "selector": "score",
+    "method": "spatial",
+    "start_display": "B09",
+    "with_second_feedback": "B03",
+    "without_second_feedback": "B07",
+    "choice_changed": true
+  },
+  {
+    "selector": "score",
+    "method": "no_update",
+    "start_display": "B09",
+    "with_second_feedback": "B03",
+    "without_second_feedback": "B03",
+    "choice_changed": false
+  },
+  {
+    "selector": "score",
+    "method": "pearson",
+    "start_display": "B10",
+    "with_second_feedback": "B08",
+    "without_second_feedback": "B05",
+    "choice_changed": true
+  },
+  {
+    "selector": "score",
+    "method": "matched_spatial",
+    "start_display": "B10",
+    "with_second_feedback": "B06",
+    "without_second_feedback": "B08",
+    "choice_changed": true
+  },
+  {
+    "selector": "score",
+    "method": "spatial",
+    "start_display": "B10",
+    "with_second_feedback": "B06",
+    "without_second_feedback": "B08",
+    "choice_changed": true
+  },
+  {
+    "selector": "score",
+    "method": "no_update",
+    "start_display": "B10",
+    "with_second_feedback": "B03",
+    "without_second_feedback": "B03",
+    "choice_changed": false
+  },
+  {
+    "selector": "score",
+    "method": "pearson",
+    "start_display": "B11",
+    "with_second_feedback": "B10",
+    "without_second_feedback": "B06",
+    "choice_changed": true
+  },
+  {
+    "selector": "score",
+    "method": "matched_spatial",
+    "start_display": "B11",
+    "with_second_feedback": "B08",
+    "without_second_feedback": "B03",
+    "choice_changed": true
+  },
+  {
+    "selector": "score",
+    "method": "spatial",
+    "start_display": "B11",
+    "with_second_feedback": "B08",
+    "without_second_feedback": "B03",
+    "choice_changed": true
+  },
+  {
+    "selector": "score",
+    "method": "no_update",
+    "start_display": "B11",
+    "with_second_feedback": "B03",
+    "without_second_feedback": "B03",
+    "choice_changed": false
+  },
+  {
+    "selector": "score",
+    "method": "pearson",
+    "start_display": "B12",
+    "with_second_feedback": "B10",
+    "without_second_feedback": "B09",
+    "choice_changed": true
+  },
+  {
+    "selector": "score",
+    "method": "matched_spatial",
+    "start_display": "B12",
+    "with_second_feedback": "B11",
+    "without_second_feedback": "B11",
+    "choice_changed": false
+  },
+  {
+    "selector": "score",
+    "method": "spatial",
+    "start_display": "B12",
+    "with_second_feedback": "B06",
+    "without_second_feedback": "B09",
+    "choice_changed": true
+  },
+  {
+    "selector": "score",
+    "method": "no_update",
+    "start_display": "B12",
+    "with_second_feedback": "B03",
+    "without_second_feedback": "B03",
+    "choice_changed": false
+  }
+]

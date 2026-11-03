@@ -10,8 +10,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4429,
-      "sha256": "509fcae77e5c1189348445b55bcf2b950adb4d2fcb3b4c1fd008b601c0d8aa46"
+      "bytes": 4688,
+      "sha256": "0ad802e5f47a87d543de10a04cca30b71c5202fdea9cd408eb0bfed1f1a63832"
     },
     {
       "path": "docs/REPRODUCIBILITY.md",
@@ -25,8 +25,8 @@
     },
     {
       "path": "docs/archive_availability.json",
-      "bytes": 685149,
-      "sha256": "2fc8dfa2f91b109b00dce493d5b91f677e9b7867a4b732c0fd28dcda059095cd"
+      "bytes": 685485,
+      "sha256": "c5e8f7518c8d04a78dae6ae5cd8c7ddbaf5def3c185b340db0b3916e9dd88960"
     },
     {
       "path": "docs/third_party/CrossViewGate_LICENSE.txt",
@@ -1942,6 +1942,96 @@
       "path": "output/disaster_route_boone_structure_check_v1/tests.txt",
       "bytes": 248,
       "sha256": "709d6e0f399e9f1122f7e1e1f1a53807bcaacc51f50d15824c7518d724ffbebd"
+    },
+    {
+      "path": "output/disaster_route_boone_two_step_v1/README.md",
+      "bytes": 7485,
+      "sha256": "7faf0cf57d2b1b5fd29ea34e341ce32ca181ff1e212d0d0b2720d09135388e05"
+    },
+    {
+      "path": "output/disaster_route_boone_two_step_v1/audit.json",
+      "bytes": 171,
+      "sha256": "5dcba2db2fb79648997a2b2e44bad80373f6ae34f095a1ac548d24521dad22f1"
+    },
+    {
+      "path": "output/disaster_route_boone_two_step_v1/building_map.png",
+      "bytes": 76699,
+      "sha256": "f4402bd36ee338dabfbd5295c2e44d1a3e9769e83a68b302445d780872ac0dc2"
+    },
+    {
+      "path": "output/disaster_route_boone_two_step_v1/building_map.svg",
+      "bytes": 43911,
+      "sha256": "b97928c03d33df2db18df4c44fedf9f84bb436509f81b4475e3fe880327a2710"
+    },
+    {
+      "path": "output/disaster_route_boone_two_step_v1/completion_receipt.json",
+      "bytes": 1721,
+      "sha256": "7ac9e6198f1cd2c85053d179bb4616d39cf018001903a60b69b1e4401976c3bd"
+    },
+    {
+      "path": "output/disaster_route_boone_two_step_v1/episodes.json",
+      "bytes": 464156,
+      "sha256": "4b48b2d2bdf1011b59f5204173fba4b23cd795b4c346f8e1241108a9a0ccd27f"
+    },
+    {
+      "path": "output/disaster_route_boone_two_step_v1/execution_recipe.json",
+      "bytes": 1756,
+      "sha256": "b8502c94f1943590239844fc34c05ec748bf5ccee93fbeb101189a31805e3c6f"
+    },
+    {
+      "path": "output/disaster_route_boone_two_step_v1/first_update_checks.json",
+      "bytes": 42,
+      "sha256": "d7ebb69985f61f1e1696bd48659891c6f355b525d4e6ec3be1b782408db2c8b2"
+    },
+    {
+      "path": "output/disaster_route_boone_two_step_v1/geometry.json",
+      "bytes": 5317,
+      "sha256": "2e6f87dc7683043d8aadfd2408ef5b2104b44cd2ec5b60d3e9dd4bd8758605e0"
+    },
+    {
+      "path": "output/disaster_route_boone_two_step_v1/paired_results.json",
+      "bytes": 8733,
+      "sha256": "fc0404a3497bbcc67b4d5eb34c24679234da690bcf90c88157843869196c6546"
+    },
+    {
+      "path": "output/disaster_route_boone_two_step_v1/second_feedback_diagnostic.json",
+      "bytes": 18884,
+      "sha256": "c6e8437ffc3839a0f799336314e1002a257eae37cc7ffccafa7bab0cc497d455"
+    },
+    {
+      "path": "output/disaster_route_boone_two_step_v1/source_snapshots/audit_boone_two_step.py",
+      "bytes": 6309,
+      "sha256": "cf0a5a3d9e32c4225667543c3d173ceee538afe08976b72b6e0e768b7209c30d"
+    },
+    {
+      "path": "output/disaster_route_boone_two_step_v1/source_snapshots/plot_boone_two_step_geometry.py",
+      "bytes": 1720,
+      "sha256": "8ce45ca014036a9c022d2f7e0dc4fae6155318323534d2b6e3d9f477bc140e75"
+    },
+    {
+      "path": "output/disaster_route_boone_two_step_v1/source_snapshots/run_boone_two_step.py",
+      "bytes": 11588,
+      "sha256": "83031fb74f2d93684386aefec0df479af1bd76694ec11a31d8cb6e5963a24da2"
+    },
+    {
+      "path": "output/disaster_route_boone_two_step_v1/source_snapshots/test_boone_two_step.py",
+      "bytes": 2023,
+      "sha256": "1399a6e27d47e6365dc7477a8069cd926c975cb5f748d263799b9d3b459b1c0d"
+    },
+    {
+      "path": "output/disaster_route_boone_two_step_v1/summary.csv",
+      "bytes": 673,
+      "sha256": "bd025c432463748d286610d0e4df1e68003fd2d0b631e5a80e03b4027bfb787d"
+    },
+    {
+      "path": "output/disaster_route_boone_two_step_v1/summary.json",
+      "bytes": 2870,
+      "sha256": "56c625e96d8af6b84255d4a1c77f7bf3a3c90ac6d48b5f951af58cbb0f57f0af"
+    },
+    {
+      "path": "output/disaster_route_boone_two_step_v1/tests.txt",
+      "bytes": 294,
+      "sha256": "e360806410078cf855a7bf451a962154ccd253f48865abfac91b24176cac2d84"
     },
     {
       "path": "output/disaster_route_crasar_batch4_v1/README.md",
@@ -7305,8 +7395,8 @@
     },
     {
       "path": "work/disaster_route/README.md",
-      "bytes": 11538,
-      "sha256": "8256b5ac38246521c0a93c6643cc88aafa951c5584f087031d571860d1c6c4f3"
+      "bytes": 12054,
+      "sha256": "3b76cb3f5c70e50f0848a6857423d2c95ce5f71bee6b6b197bad4ec97ca6f14d"
     },
     {
       "path": "work/disaster_route/acquire_xbd_route_metadata.py",
@@ -7337,6 +7427,11 @@
       "path": "work/disaster_route/audit_boone_structure_check.py",
       "bytes": 4973,
       "sha256": "83008f7d5dc291e506ac8f2d3454087aafabd8f84fb7099518be9dd1f954c2e2"
+    },
+    {
+      "path": "work/disaster_route/audit_boone_two_step.py",
+      "bytes": 6309,
+      "sha256": "cf0a5a3d9e32c4225667543c3d173ceee538afe08976b72b6e0e768b7209c30d"
     },
     {
       "path": "work/disaster_route/audit_dual_map_demo_resumed.py",
@@ -7465,8 +7560,8 @@
     },
     {
       "path": "work/disaster_route/export_github_snapshot.py",
-      "bytes": 13966,
-      "sha256": "2442396b5ff8fa683ed06f1255c251d80bda33c527111590f32a5a59b2bbce37"
+      "bytes": 14225,
+      "sha256": "db48c9cd278f9504d8a4a5479c69b36801a0b32010e214c16e107f42bc812943"
     },
     {
       "path": "work/disaster_route/extract_crasar_region.py",
@@ -7532,6 +7627,11 @@
       "path": "work/disaster_route/literature/arxiv_20261102/论文应用与实验推进方案.md",
       "bytes": 9585,
       "sha256": "afd0f1914d32c2abe1e1c9fe2509ea3631cfd8f472ab482f3027b8345a2e4b58"
+    },
+    {
+      "path": "work/disaster_route/plot_boone_two_step_geometry.py",
+      "bytes": 1720,
+      "sha256": "8ce45ca014036a9c022d2f7e0dc4fae6155318323534d2b6e3d9f477bc140e75"
     },
     {
       "path": "work/disaster_route/plot_real_route_examples.py",
@@ -7644,6 +7744,11 @@
       "sha256": "56001d41a3f5268ab3bc574f256cbedd46d1478aa95feb873f3462c22ca0c036"
     },
     {
+      "path": "work/disaster_route/run_boone_two_step.py",
+      "bytes": 11588,
+      "sha256": "83031fb74f2d93684386aefec0df479af1bd76694ec11a31d8cb6e5963a24da2"
+    },
+    {
       "path": "work/disaster_route/run_crasar_batch.py",
       "bytes": 6366,
       "sha256": "86e2ed169fdce00b33a885debd3f55cec0e25065d0bad503d9f92fe5faf26202"
@@ -7747,6 +7852,11 @@
       "path": "work/disaster_route/test_boone_structure_check.py",
       "bytes": 1220,
       "sha256": "4730527c980c4dd54465369b93098bcfbc70b72e71f2e25c29ea228577bd55d8"
+    },
+    {
+      "path": "work/disaster_route/test_boone_two_step.py",
+      "bytes": 2023,
+      "sha256": "1399a6e27d47e6365dc7477a8069cd926c975cb5f748d263799b9d3b459b1c0d"
     },
     {
       "path": "work/disaster_route/test_crasar_alignment.py",
@@ -7895,8 +8005,8 @@
     },
     {
       "path": "work/disaster_route/在线上下文反馈_学习与实验路线.md",
-      "bytes": 12554,
-      "sha256": "7c8a29ff646afc9512c266900fc93a105861dbc55574a9bbf95d1a2c094d0c67"
+      "bytes": 13049,
+      "sha256": "8c772062ac6ebebe057cefef10b415de71cef8212f2a7afe27b0181b2d1a2611"
     },
     {
       "path": "work/disaster_route/在线上下文反馈_第一课.md",
@@ -7905,8 +8015,8 @@
     },
     {
       "path": "work/disaster_route/研究目标与接手计划.md",
-      "bytes": 9063,
-      "sha256": "d089ab26a35b28ae1940ff379d32646574d7c6f3e7a294b7f683c63d4c4b7baf"
+      "bytes": 9669,
+      "sha256": "98059404c3ac55d28dc79c044b0495bf7e1df06b052e7741a67a3f3c01563dd2"
     },
     {
       "path": "work/disaster_route/研究记录/20261103_旧复核候选接手计划.md",

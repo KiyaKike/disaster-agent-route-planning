@@ -16407,5 +16407,11 @@
     "present_verified_entries": 15,
     "absent_original_entries": [],
     "scope": "Complete lightweight Pearson-change and top-three development diagnostic; satellite source images remain in original local archive."
+  },
+  {
+    "receipt": "output/disaster_route_boone_two_step_v1/completion_receipt.json",
+    "present_verified_entries": 17,
+    "absent_original_entries": [],
+    "scope": "Complete lightweight2-visit sequential replay, paid-label access traces, frozen input hashes and geometry map; source images remain in original local archive."
   }
 ]

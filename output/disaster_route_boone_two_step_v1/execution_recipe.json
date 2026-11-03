@@ -1,0 +1,23 @@
+{
+  "protocol": "All12 initial anchors;2 new visits; initial anchor hit excluded; source labels not field truth",
+  "primary_selector": "score_per_distance",
+  "diagnostic_selector": "score",
+  "update": "Sequential current score + gain * spatial * optional Pearson gate * (new source label - current anchor score)",
+  "space_scale_m": 50,
+  "pearson_gain": 0.5,
+  "feature_kernel_refit": false,
+  "matching": "At every update use own current state, own visited mask and newly paid label; match own hypothetical Pearson magnitude",
+  "minimum_distance_denominator_m": 1e-06,
+  "tie_break": "sorted building ID",
+  "closed_distance": "A0->A1->A2->A0, reported separately from outbound; no fixed travel budget",
+  "user_stop_rule": "Primary cumulative gain<=1 OR any lower-hit paired episode => stop; no tuning or region expansion on failure",
+  "initial_evidence": "A0 source label supplied equally before2-visit comparison; no initial-anchor hit credit",
+  "unvisited_labels": "Policy reads only actual A0,A1,A2 labels; A2 label arrives after final choice",
+  "script_sha256": "83031fb74f2d93684386aefec0df479af1bd76694ec11a31d8cb6e5963a24da2",
+  "input_hashes": {
+    "output/disaster_route_boone_context_run_v2/satellite_features.json": "e2342a58b382a0d999bae9bcdfe9e83e6d79faae66bc0206911cda41b2b93d6e",
+    "output/disaster_route_boone_context_run_v2/vlm_initial_scores.json": "5a856ea7685d87391c61e5613207572980aa1a5c4a63bf506f7ae94d492ecbf8",
+    "output/disaster_route_boone_structure_check_v1/structure_features.json": "1b9e24af9d685d83ed81477734401a214f82ab1803776d066b856b28050500ea",
+    "output/disaster_route_boone_context_pilot_v1/evaluator_only_view_references.json": "54961da64b8de2e390ff017785b4370c17dac6719f524fb909ae76a319d17aa5"
+  }
+}
