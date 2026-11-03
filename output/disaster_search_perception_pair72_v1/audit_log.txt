@@ -1,0 +1,7 @@
+{"references_rebuilt": 12, "scores_replayed": 60}
+{"references_rebuilt": 24, "scores_replayed": 120}
+{"references_rebuilt": 36, "scores_replayed": 180}
+{"references_rebuilt": 48, "scores_replayed": 240}
+{"references_rebuilt": 60, "scores_replayed": 300}
+{"references_rebuilt": 72, "scores_replayed": 360}
+{"status": "PASS", "references_independently_rasterized": 72, "input_tensors_reconstructed": 578, "pixel_identical_old_controls": 2, "legacy128_masks_verified": 4608, "scene_scores_independently_replayed": 360, "event_scores_checked": 15, "total_scores_checked": 5, "old_frozen_sources_verified": 45, "new_model_calls_by_audit": 0, "new_fitting": false, "gpu_rented": false, "auditor_sha256": "9eae3d4ac89f61780900b6a544314c336484abdcb9860c68eee33fa14df194ae"}

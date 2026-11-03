@@ -1,0 +1,22 @@
+{
+  "cohort_sha256": "d2b23d17f9d458b650464e0e6b7038fc1c1859ae065f8738fc8514d25eb906e4",
+  "inference_enabled": false,
+  "inspector_sha256": "2d1cabee0ba5ee073d206fc0bf0de5ed5a4a2d79dfafae363387d1127075af72",
+  "manifest_sha256": "4857076df9a54615d023cd4308bd71e505cda70087b7ea74614245debe9379b0",
+  "no_scene_substitution": true,
+  "not_measured": [
+    "building or damage labels",
+    "detector predictions",
+    "policy reward",
+    "official geolocation",
+    "registration accuracy"
+  ],
+  "predefined_diagnostics": [
+    "shape and mode",
+    "pixel hashes and exact duplicates",
+    "all-channel-zero fraction",
+    "global translation hint at256px gradient phase correlation",
+    "PNG metadata keys"
+  ],
+  "stage": "RGB_ONLY_QA_NOT_GOLD_OR_PERCEPTION"
+}

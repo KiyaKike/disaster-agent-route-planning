@@ -1,0 +1,14 @@
+{
+  "all18_scene_pairs_and6_conditions_included": true,
+  "all3_event_all_condition_sheets_viewed": true,
+  "comparison_plot_viewed": true,
+  "figures_sha256": {
+    "EARTHQUAKE-TURKEY_all_conditions.png": "10a3f90e741b70d353a0c3037cb44033d47d16ae46bbd4c28255592a3c22b042",
+    "PAKISTAN-FLOODING_all_conditions.png": "b26c8af71ffe1b02bb1d98038721953cc6120a6d02bbddcc933b6e5d22b2de9f",
+    "TEXAS-TORNADOES_all_conditions.png": "6fec54e69bd6c91b2a251566ce4a3ed51b5e9a48e7deb925b1906889902a7f46",
+    "information_comparison.png": "99e25a16457f89ca7c8ff465add0729082333a256008c56631f1a9a3c457a6b3"
+  },
+  "labels_and_color_overlays_readable": true,
+  "reviewed_by": "agent visual QA; no human annotations",
+  "semantic_reference_or_registration_certified": false
+}

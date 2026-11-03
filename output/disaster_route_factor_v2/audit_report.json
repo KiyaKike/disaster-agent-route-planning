@@ -1,0 +1,15 @@
+{
+  "budget_violations": 0,
+  "condition_means_checked": 864,
+  "legacy_exact_metric_reproductions": 2160,
+  "original_results_and_sources_unchanged": true,
+  "paid_observations_checked": 254112,
+  "paired_comparisons_checked": 648,
+  "planned_suffixes_checked": 128562,
+  "routes_checked": 8640,
+  "scope": "Independent budget,timing,belief,signal,reward and old-greedy reconstruction;strong heuristic checked for feasibility and retained-seed lower bound,not global optimality.",
+  "solver_effects_checked": 432,
+  "status": "PASS",
+  "strong_prior_reward_lower_bound_checked": true,
+  "unique_public_states_checked": 23313
+}

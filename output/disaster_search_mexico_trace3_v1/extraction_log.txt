@@ -1,0 +1,3 @@
+{"shard": "data/hold-00000-of-00006.parquet", "selected_masks": 1, "received": 622575}
+{"shard": "data/hold-00003-of-00006.parquet", "selected_masks": 2, "received": 1206651}
+{"shard": "data/hold-00004-of-00006.parquet", "selected_masks": 3, "received": 1898297}

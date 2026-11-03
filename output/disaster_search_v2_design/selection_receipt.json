@@ -1,0 +1,15 @@
+{
+  "contract_sha256": "5658ef8bee4801850cf9e2e4c4bd0280a6b79c4590afff69dcd6605afd108b38",
+  "data_admitted": false,
+  "interface_probe_count": 6,
+  "new_cohort_damage_read": false,
+  "pairs": 216,
+  "planner_source_sha256": "3f88219832ca8d3939d5cbc38919974d1932f4b941e1248c208534493254b83b",
+  "selection_sha256": "4119345fdfc0587c55cd8558ac2bc78a0a2041556e0e6fd7a4bcadcfaf011ad0",
+  "split_counts": {
+    "confirmation": 72,
+    "development": 72,
+    "validation": 72
+  },
+  "stage": "METADATA_ONLY_BEFORE_NEW_COHORT_DAMAGE_ACCESS"
+}

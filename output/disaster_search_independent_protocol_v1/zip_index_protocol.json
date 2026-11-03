@@ -1,0 +1,43 @@
+{
+  "access": "Read final22byte EOCD then exactly indexed central directory, never full tail/payload/local headers. Unsupported layout or range response stops archive without broadening. No image or mask decoded.",
+  "archives": [
+    {
+      "computed_md5": "f4c99f2b91f6978e5fa8edf3d5a60171",
+      "download_url": "https://ndownloader.figshare.com/files/44696047",
+      "id": 44696047,
+      "is_link_only": false,
+      "mimetype": "application/zip",
+      "name": "EARTHQUAKE-TURKEY.zip",
+      "size": 931980914,
+      "supplied_md5": "f4c99f2b91f6978e5fa8edf3d5a60171"
+    },
+    {
+      "computed_md5": "6f1215e9dd5415764440654c3e6a906a",
+      "download_url": "https://ndownloader.figshare.com/files/44708299",
+      "id": 44708299,
+      "is_link_only": false,
+      "mimetype": "application/zip",
+      "name": "PAKISTAN-FLOODING.zip",
+      "size": 2370825346,
+      "supplied_md5": "6f1215e9dd5415764440654c3e6a906a"
+    },
+    {
+      "computed_md5": "6f0e9005835f527e0857e1f305afaaa4",
+      "download_url": "https://ndownloader.figshare.com/files/44705161",
+      "id": 44705161,
+      "is_link_only": false,
+      "mimetype": "application/zip",
+      "name": "TEXAS-TORNADOES.zip",
+      "size": 361433408,
+      "supplied_md5": "6f0e9005835f527e0857e1f305afaaa4"
+    }
+  ],
+  "image_payload_access_enabled": false,
+  "inference_or_scores_enabled": false,
+  "license_clearance": false,
+  "max_metadata_bytes": 4194304,
+  "reader_sha256": "cebe126529ea53da22fc9b2ebe64c402d96b1228b5b7c6b37d4d837011e91f8a",
+  "source_metadata_sha256": "0a60dc386251be8c823bc3b82c32d39df9e495a1860237beb18624b69f1a0cc4",
+  "stage": "EBD_V2_EXACT_INDEX_ONLY",
+  "use": "Metadata-only tentative image pair ranking before any image/label/model result. No masks/class counts used for selection."
+}

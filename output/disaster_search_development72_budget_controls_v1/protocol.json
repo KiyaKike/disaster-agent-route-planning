@@ -1,0 +1,103 @@
+{
+  "budgets": [
+    8,
+    16,
+    32
+  ],
+  "count_utility": "Fixed development-fitted same-cell new matched count/cost; not exact global distinct-building utility.",
+  "eligibility": "Survey unvisited cost1; one native upgrade after any blurred observation; no native repeat. Ablations may suppress upgrades explicitly.",
+  "event_holdout_policies": [
+    "prior_survey",
+    "count_survey",
+    "count_negative",
+    "count_all",
+    "presence",
+    "count_usable"
+  ],
+  "fit_scopes": {
+    "development_fit": "Parameters fitted on all 72, scored in sample. Entire cost/quality/budget grid.",
+    "event_holdout": "Fit using the other two development events, primary cost/quality/budget only; previously inspected development events, not independent validation."
+  },
+  "helper_sha256": {
+    "cross_cell_count_smoke.py": "4312afc1ac40d33210ee15a8cc91464d6620b5fd638e437e47d1db1b5d1fbc0c",
+    "paired_count_baseline.py": "b04ea42f2e9880b67d054ae76df98b0ddb7c3f4ca49a4ff462de803cafe67818"
+  },
+  "measurement_thresholds": [
+    0.05,
+    0.1,
+    0.25
+  ],
+  "new_method_selected": false,
+  "no_claim_of_independent_improvement": true,
+  "no_parameter_tuning_after_this_run": true,
+  "order_seeds": [
+    20261030,
+    20261031,
+    20261032,
+    20261033,
+    20261034,
+    20261035,
+    20261036,
+    20261037,
+    20261038,
+    20261039
+  ],
+  "policies": [
+    "random_survey",
+    "coverage_survey",
+    "prior_survey",
+    "random_upgrade",
+    "prior_gate",
+    "count_survey",
+    "count_negative",
+    "count_all",
+    "presence",
+    "usable_coverage",
+    "usable_prior",
+    "count_usable"
+  ],
+  "presence_prior": "Known truth in count-model's four public change bins; eight-cell shrinkage toward Jeffreys-smoothed global prior. Joint paired sensor fixed at 0.5 per outcome.",
+  "presence_reward": "Expected first target-cell detection. B+ additional existence reward is zero; count_all permits B+ additional building reward. No global posterior propagation.",
+  "primary": {
+    "budget": 32,
+    "scenario": "mixed_survey",
+    "threshold": 0.1,
+    "upgrade_cost": 2
+  },
+  "prior_gate": "Raw change/cost, upgrade only blurred negatives. No fitted threshold.",
+  "quality_scenarios": [
+    "native_survey",
+    "mixed_survey",
+    "blurred_survey"
+  ],
+  "quality_seeds": [
+    20261025,
+    20261026,
+    20261027,
+    20261028,
+    20261029
+  ],
+  "random_upgrade": "Uniform among currently affordable eligible actions; does not choose quality or bypass survey. No travel costs.",
+  "runner_sha256": "baca8a89a7b1ceef36670b406fd0cbabf8a3818b72dc2c387644c3ce0afed53e",
+  "sources": {
+    "association": "59c51a09e2c46eeac0c778de1dd9af2771f72bee5ff526ac967c0a6fb75fbffc",
+    "contract": "452de54015d0c717819553487885007d8aabc82751499387d17b0ba2044919c0",
+    "manifest": "a70646afabf0822b3adea609835ab95c1cfdb2e7f834d6d8173d38fa4b042346",
+    "observations": "30aca3da060f9fd6acfdc6e73efea0c593360765b455150195cbfbc02f2556e2",
+    "parameters": "1acb5f016dabbdca96bdd7d2c495139b738243d28c84689f996091071d0c8bda",
+    "previous_receipt": "a6fc0c8ab816d11b971e5de544d9dfa65a4d478fe1f82c553e6ca9377e72f379",
+    "scores": "912294a718d1b31509886d72fcdffbee51fd9987a59bb6b1bd80e7283043fb6e",
+    "selection": "0b93aa296f53276f508a4d2dd4fcfa122f93578f3f3e939ee731d350021569c8",
+    "spatial": "d8a2dc9fe8d4120ade4ccd07b6ea6411d6fda24a596f848d2823ddfba1ba654a"
+  },
+  "stage": "DEVELOPMENT72_BUDGETED_SIMPLE_CONTROLS",
+  "statistics": "Average order/quality repeats within scenes, then scenes within events and events equally. Spatial groups and detector-training envelope overlap strata descriptive only; full-image independence unverified.",
+  "unsupported_upgrade": "Skip action with None fitted mean, never fabricate supported value.",
+  "upgrade_costs": [
+    1,
+    2,
+    4
+  ],
+  "usable_controls": "Both 128px BOX coarse RGB images nonzero; fraction per16px cell. No cell removal. usable_coverage: descending fraction then row order; usable_prior: fraction*raw change; count_usable: fraction*count utility.",
+  "validation_or_confirmation_access": false
+}

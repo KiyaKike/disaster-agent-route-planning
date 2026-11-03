@@ -1,0 +1,13 @@
+{
+  "complete_rgb_files": 36,
+  "failures": [],
+  "human_gold_complete": false,
+  "independent_data_admitted": false,
+  "mask_payload_bytes_read": 0,
+  "new_fit": false,
+  "new_inference": 0,
+  "received_body_bytes_cumulative": 13694435,
+  "requested_bytes_reserved_cumulative": 13694435,
+  "stage": "RGB_EXTRACTION_COMPLETE",
+  "transfer_cap": 134217728
+}

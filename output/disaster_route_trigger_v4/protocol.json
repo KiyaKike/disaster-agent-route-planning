@@ -1,0 +1,141 @@
+{
+  "advance_gate": "Call no universal winner unless it weakly dominates all comparators on mean detections across all18 primary conditions,with no worse mean total time,planning calls or restricted first-detection time. Otherwise report tradeoffs;do not tune threshold or period in this run.",
+  "client_date": "2026-11-02",
+  "costs": {
+    "ending": "When remaining suffix is empty,return;do not add extra off-schedule proposals.",
+    "observe_s": 20,
+    "planning_latency_s": 1,
+    "rejection": "After paying,keep the old suffix with deterministic tail removal until it remains return-feasible;no fee refund.",
+    "rule": "Charge initial and every attempted candidate call,including rejects. No free trial solve. Actual CPU wall time reported separately. Every tour returns within budget.",
+    "speed_m_s": 5,
+    "unaffordable": "Skip a checkpoint only if no unvisited cell can be inspected and returned from after a1s attempt;keep feasible old suffix."
+  },
+  "examples": "Both regions,first new seed2026110200,aligned/moderate,1200s;all6 methods,without favorable-case replacement.",
+  "failure_handling": "No target denominator ->null recall;no discovery ->null first time,report failure rate and budget-restricted first-detection time.",
+  "forecast": {
+    "boundary": "One SD is a heuristic,not a one-sided confidence/risk guarantee. Mean/variance may be misspecified under reversed or uninformative priors. No duplicate transfer penalty.",
+    "mean": "Difference of sums sensitivity*(.02+.58*q_block) over proposed-after-fee vs old-before-fee suffix;shared cells cancel.",
+    "variance": "Latent-hot/cold mixture:within-block conditional cell variance plus shared-latent covariance. Known sensitivity and FP;posterior from paid bits only."
+  },
+  "gpu_rental": false,
+  "information": "Fixed Python policy interfaces receive geometry,paid public history and known likelihood. Private targets and future bits stay in environment/scorer. No adversarial process sandbox.",
+  "input_sha256": {
+    "/Users/bethany/Documents/ChatGPT/复现论文/output/PS变化先验_第一版/搜索网格_待复核.geojson": "4a1acb41247477864a10bb8041e00009150af4bd114341f0c25870900562e43f",
+    "/Users/bethany/Documents/ChatGPT/复现论文/output/PS搜索决策_演示版/参数与限制.json": "dde69c9b88c8e870b7f8992aae0f70c27fc053aff144fc19feaa2e7baefe0280",
+    "/Users/bethany/Documents/ChatGPT/复现论文/output/PS搜索决策_演示版/独立目标标注_空表.csv": "ba0815428fc864b44a922854ff56b5b3d903e72825d9562bed4327cc199c22f1",
+    "/Users/bethany/Documents/ChatGPT/复现论文/output/PS搜索决策_演示版/输入网格与显示图.json": "3dde0a9396d8e6f0d5ed3bcb9cc177c9464b4115df64d044557701ab8de77635",
+    "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_route_loop_v1/public_geometry.json": "88c32a294a0468f6a349710c455c2b93d6f7944cd7bd04f4fee85e76ec544f5d",
+    "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_route_scope_v1/decision.json": "4b11f913bba12b283ca7d0f979856f733880629e3b15a4ea85284c8fb9684dfb",
+    "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_route_snapshot_v3/completion_receipt.json": "186da8adb7c289a35d6b4f58c876205c0c639d848c46547ee4d623754e8d235d",
+    "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_route_snapshot_v3/prospective_next_scope.json": "88aafebbd982eb725dc5634dd526860cd588dc142b569815f291436230aef96a",
+    "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/completion_receipt.json": "92d93ccc683334e784b30c050aba784d4192a9d2de8baec3e55993ec8eb2d4cf",
+    "/Users/bethany/Documents/ChatGPT/复现论文/output/感知检查_阶段汇报_20261028/归档校验.json": "899a0f4651349f85d4c9e2a34b17f30e307ac2eea4f7a6467ba9c661cde6f07b",
+    "/Users/bethany/Documents/ChatGPT/复现论文/work/ps_search_decision/build_demo.py": "688138d833552f2e90dc06e04ee7cfeb73fe2294f057530e04ed521ba8f567e3",
+    "/Users/bethany/Documents/ChatGPT/复现论文/work/ps_search_decision/engine.js": "c656f75ba7d84d55785bd121513200d3357e9a494280c4da7b821dafc160d004"
+  },
+  "new_perception_calls": 0,
+  "new_real_labels": 0,
+  "new_training": false,
+  "no_posthoc_changes": true,
+  "pairing": "Shared targets and per-cell uniform draws across policies,budgets and noise. Prior modes share generator streams. Conditions are not independent disasters;no unqualified significance claim.",
+  "policies": {
+    "always": "After every paid observation,attempt and accept a new posterior suffix if another paid inspection is affordable.",
+    "gain_5": "Same paid checkpoints;accept proposal iff model expected future correct-detection gain over pre-attempt old suffix >1e-12.",
+    "one_sd_5": "Same paid checkpoints;accept iff mean gain minus one model predictive SD >1e-12. No fitted multiplier.",
+    "periodic_5": "Same,but attempt and accept only after every5 observations.",
+    "post_static": "Postcue prior;one initial plan then fixed route.",
+    "pre_static": "Uniform prior .2;one initial plan then fixed route."
+  },
+  "primary": "one_sd_5 minus gain_5,correct synthetic target detections per18 region/prior/noise conditions at1200s;report all conditions and paired wins/ties/losses.",
+  "question": "Do simple paid mean/uncertainty acceptance rules improve complete inspection tours on new simulation draws?",
+  "secondary": [
+    "all dynamic methods vs post_static",
+    "vs always and periodic_5",
+    "pre vs post static",
+    "600/1800 sensitivity",
+    "coverage",
+    "first arrival/detection and failure rate",
+    "distance/time",
+    "attempts vs accepts vs route changes vs tail drops"
+  ],
+  "selection": {
+    "budgets_s": [
+      600,
+      1200,
+      1800
+    ],
+    "meaning": "Prospective new Monte Carlo draws after rule freeze,not new disasters or external validation.",
+    "noise": {
+      "moderate": [
+        0.8,
+        0.1
+      ],
+      "perfect": [
+        1.0,
+        0.0
+      ],
+      "poor": [
+        0.6,
+        0.25
+      ]
+    },
+    "primary_budget_s": 1200,
+    "prior_modes": [
+      "aligned",
+      "reversed",
+      "independent"
+    ],
+    "prior_seed_ids": [
+      2026102800,
+      2026102801,
+      2026102802,
+      2026102803,
+      2026102804,
+      2026102805,
+      2026102806,
+      2026102807,
+      2026102808,
+      2026102809
+    ],
+    "regions": [
+      "口岸",
+      "南侧建筑区"
+    ],
+    "routes": 6480,
+    "same_generator_and_geometry_as_development": true,
+    "seed_ids": [
+      2026110200,
+      2026110201,
+      2026110202,
+      2026110203,
+      2026110204,
+      2026110205,
+      2026110206,
+      2026110207,
+      2026110208,
+      2026110209,
+      2026110210,
+      2026110211,
+      2026110212,
+      2026110213,
+      2026110214,
+      2026110215,
+      2026110216,
+      2026110217,
+      2026110218,
+      2026110219
+    ],
+    "seed_ids_disjoint": true,
+    "worlds": 120
+  },
+  "shared_solver": "Unchanged V2 insertion+2opt,time_only. Every call plans a committed feasible suffix with future-call cost0;future attempts pay when made. This common execution convention differs from V2 always-online future-fee reservation,so comparisons are within V4.",
+  "source_sha256": {
+    "audit_route_trigger.py": "ec850921c12d1fe875032402759220889f718a73c1daaacd91d92cb1939a3cc3",
+    "report_route_trigger.py": "4ba94b81b60dd0aaff46efec14bd92d11652c8453ce97bb33f68437ac8f00e49",
+    "route_trigger_core.py": "e78eff8797030be4352eb2669c8bfb30bb0204fbc3b8393c68d36c846b42cfab",
+    "run_route_trigger.py": "0fd0ecef19da73da2d6e0d17c0c88dadcdc408537940b89b89bbef77f1b0b4b0",
+    "test_route_trigger.py": "5f513130ca19d4fc26934f399e143df56791645f12f8ad691fb199918f50d520"
+  },
+  "stage": "PAID_REPLANNING_TRIGGER_FULL_POLICY_V4",
+  "test_log_sha256": "3bc51141d08a1c5d33ceb7899e662fdb774eb9294926dbc90cd6c6261f2fb169"
+}

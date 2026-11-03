@@ -1,0 +1,33 @@
+{
+  "files": {
+    "README.md": "d251d2d4e605b8c3ac5ed1dddc94b284a47368682878cc6a89eb51cdb0490c48",
+    "UPSTREAM_LICENSE.txt": "5564b863c39d157527a6a89bd4746fd78539831e6b44d4b5435673fa961eb7dc",
+    "audit.json": "9a068b8397174d86d6418bc2bd082cb8f1935617548037bd007f0516c5c6c301",
+    "episodes.json": "921ecbfea3c8f41566d6736e2c41c0b0d01b6c191b3b97f50282233ab1cb8e60",
+    "exact_evaluations.json": "b1788979c78a1ec3333d2412b61bf9e26500bd0daac9b246d7b3da39001afd89",
+    "figures/control_results.png": "3aec782c051dfc562fa5b4b38c7ade2ab326b58f947c3b65265abbe2721b1621",
+    "interpretation.json": "27eabe7482fe27a4bee101900ebb2c13a638d41a27f820bcd82247848843c23e",
+    "legacy_preservation.json": "f8d8838ad36c1b9b59fdd7b3a925a6b271388c8fbacb72e5f7c6307ea8857ab9",
+    "next_scope.json": "457156218dae77477153df3ab7f704b7083b318658fd5de9f9ccbf6f0042f6e3",
+    "partial/informative_12.json": "e02a780da1a5c35a883b547c9bdf6be43eb898c56d1a028bf3efa834ec11bfab",
+    "partial/informative_20.json": "4f722957fb7b638cd7b05e1512a9342d2c3b16828e675fd7fb4623db11503b97",
+    "partial/uninformative_12.json": "955f72cd95c80a3fbc993d9f36018142b9d1bd0c0da5ddec28e22b50e5f2ffab",
+    "partial/uninformative_20.json": "fdb5c38925c8d98b04d70cb9c1dc599707c155cced50cdf85856f84126c5c8da",
+    "protocol.json": "f51caedbfc53d75eadfe46913854c58328a629e21c13114e308c6fc0de07f35a",
+    "runtime.json": "c82ea69d592bcf4b5ee48e9591bbcd7d7559417d785b83bb9860a10ffe28df56",
+    "source_snapshots/aippms_control_core.py": "9f8514f2113f5ce142ce7041019b7582aa6a8a220f6094fb9a4113e2271e6f74",
+    "source_snapshots/run_aippms_control.py": "0c64e5e22c519916ce9cecf27416f6606cb780020ab2e2a1beffddea1f24bec4",
+    "source_snapshots/summarize_aippms_control.py": "33a15326607eb683a5f994c26a11c645f53c53b7b051e383bd20f19843e16585",
+    "source_snapshots/test_route_aippms_control.py": "bdbe46a2855bb29f44ddb88c521bd38e18da40436d72a107c04cf41426ab160c",
+    "summary.json": "f4bbb0fd2c7708762c7c6e67c5fc6681256a5872546b79bbb68d8317c16d383b",
+    "test_log.txt": "b5265e31414b07eba1de8767793f9215e5d3b02bcc1febbed0513ea0392a07f9",
+    "upstream_source_audit.json": "f4539f7c38ac0b24520492083264af174e0737b760ea6f533ae335ddaa600de2",
+    "visual_inspection.json": "05ea480df619aed7431001f644e418c5bb2b8d4a5b1897e77b6ecbc87547402a"
+  },
+  "gpu_rental": false,
+  "native_julia_execution": false,
+  "new_model_calls": 0,
+  "paper_table_replication": false,
+  "real_disaster_efficacy": false,
+  "status": "COMPLETE_CORRECTED_MECHANISM_REFERENCE_ONLY"
+}

@@ -1,0 +1,766 @@
+{
+  "by_setting": [
+    {
+      "budget": 8,
+      "changed_action_sequences": 0,
+      "compared_trajectories": 3600,
+      "fit_scope": "development_fit",
+      "scenario": "blurred_survey",
+      "tie_rule": "fixed_random",
+      "upgrade_cost": 1
+    },
+    {
+      "budget": 8,
+      "changed_action_sequences": 0,
+      "compared_trajectories": 360,
+      "fit_scope": "development_fit",
+      "scenario": "blurred_survey",
+      "tie_rule": "raw_change",
+      "upgrade_cost": 1
+    },
+    {
+      "budget": 8,
+      "changed_action_sequences": 0,
+      "compared_trajectories": 360,
+      "fit_scope": "development_fit",
+      "scenario": "blurred_survey",
+      "tie_rule": "row_major",
+      "upgrade_cost": 1
+    },
+    {
+      "budget": 16,
+      "changed_action_sequences": 0,
+      "compared_trajectories": 3600,
+      "fit_scope": "development_fit",
+      "scenario": "blurred_survey",
+      "tie_rule": "fixed_random",
+      "upgrade_cost": 1
+    },
+    {
+      "budget": 16,
+      "changed_action_sequences": 0,
+      "compared_trajectories": 360,
+      "fit_scope": "development_fit",
+      "scenario": "blurred_survey",
+      "tie_rule": "raw_change",
+      "upgrade_cost": 1
+    },
+    {
+      "budget": 16,
+      "changed_action_sequences": 0,
+      "compared_trajectories": 360,
+      "fit_scope": "development_fit",
+      "scenario": "blurred_survey",
+      "tie_rule": "row_major",
+      "upgrade_cost": 1
+    },
+    {
+      "budget": 32,
+      "changed_action_sequences": 0,
+      "compared_trajectories": 3600,
+      "fit_scope": "development_fit",
+      "scenario": "blurred_survey",
+      "tie_rule": "fixed_random",
+      "upgrade_cost": 1
+    },
+    {
+      "budget": 32,
+      "changed_action_sequences": 0,
+      "compared_trajectories": 360,
+      "fit_scope": "development_fit",
+      "scenario": "blurred_survey",
+      "tie_rule": "raw_change",
+      "upgrade_cost": 1
+    },
+    {
+      "budget": 32,
+      "changed_action_sequences": 0,
+      "compared_trajectories": 360,
+      "fit_scope": "development_fit",
+      "scenario": "blurred_survey",
+      "tie_rule": "row_major",
+      "upgrade_cost": 1
+    },
+    {
+      "budget": 8,
+      "changed_action_sequences": 0,
+      "compared_trajectories": 3600,
+      "fit_scope": "development_fit",
+      "scenario": "blurred_survey",
+      "tie_rule": "fixed_random",
+      "upgrade_cost": 2
+    },
+    {
+      "budget": 8,
+      "changed_action_sequences": 0,
+      "compared_trajectories": 360,
+      "fit_scope": "development_fit",
+      "scenario": "blurred_survey",
+      "tie_rule": "raw_change",
+      "upgrade_cost": 2
+    },
+    {
+      "budget": 8,
+      "changed_action_sequences": 0,
+      "compared_trajectories": 360,
+      "fit_scope": "development_fit",
+      "scenario": "blurred_survey",
+      "tie_rule": "row_major",
+      "upgrade_cost": 2
+    },
+    {
+      "budget": 16,
+      "changed_action_sequences": 0,
+      "compared_trajectories": 3600,
+      "fit_scope": "development_fit",
+      "scenario": "blurred_survey",
+      "tie_rule": "fixed_random",
+      "upgrade_cost": 2
+    },
+    {
+      "budget": 16,
+      "changed_action_sequences": 0,
+      "compared_trajectories": 360,
+      "fit_scope": "development_fit",
+      "scenario": "blurred_survey",
+      "tie_rule": "raw_change",
+      "upgrade_cost": 2
+    },
+    {
+      "budget": 16,
+      "changed_action_sequences": 0,
+      "compared_trajectories": 360,
+      "fit_scope": "development_fit",
+      "scenario": "blurred_survey",
+      "tie_rule": "row_major",
+      "upgrade_cost": 2
+    },
+    {
+      "budget": 32,
+      "changed_action_sequences": 0,
+      "compared_trajectories": 3600,
+      "fit_scope": "development_fit",
+      "scenario": "blurred_survey",
+      "tie_rule": "fixed_random",
+      "upgrade_cost": 2
+    },
+    {
+      "budget": 32,
+      "changed_action_sequences": 0,
+      "compared_trajectories": 360,
+      "fit_scope": "development_fit",
+      "scenario": "blurred_survey",
+      "tie_rule": "raw_change",
+      "upgrade_cost": 2
+    },
+    {
+      "budget": 32,
+      "changed_action_sequences": 0,
+      "compared_trajectories": 360,
+      "fit_scope": "development_fit",
+      "scenario": "blurred_survey",
+      "tie_rule": "row_major",
+      "upgrade_cost": 2
+    },
+    {
+      "budget": 8,
+      "changed_action_sequences": 900,
+      "compared_trajectories": 3600,
+      "fit_scope": "development_fit",
+      "scenario": "blurred_survey",
+      "tie_rule": "fixed_random",
+      "upgrade_cost": 4
+    },
+    {
+      "budget": 8,
+      "changed_action_sequences": 90,
+      "compared_trajectories": 360,
+      "fit_scope": "development_fit",
+      "scenario": "blurred_survey",
+      "tie_rule": "raw_change",
+      "upgrade_cost": 4
+    },
+    {
+      "budget": 8,
+      "changed_action_sequences": 90,
+      "compared_trajectories": 360,
+      "fit_scope": "development_fit",
+      "scenario": "blurred_survey",
+      "tie_rule": "row_major",
+      "upgrade_cost": 4
+    },
+    {
+      "budget": 16,
+      "changed_action_sequences": 1650,
+      "compared_trajectories": 3600,
+      "fit_scope": "development_fit",
+      "scenario": "blurred_survey",
+      "tie_rule": "fixed_random",
+      "upgrade_cost": 4
+    },
+    {
+      "budget": 16,
+      "changed_action_sequences": 165,
+      "compared_trajectories": 360,
+      "fit_scope": "development_fit",
+      "scenario": "blurred_survey",
+      "tie_rule": "raw_change",
+      "upgrade_cost": 4
+    },
+    {
+      "budget": 16,
+      "changed_action_sequences": 165,
+      "compared_trajectories": 360,
+      "fit_scope": "development_fit",
+      "scenario": "blurred_survey",
+      "tie_rule": "row_major",
+      "upgrade_cost": 4
+    },
+    {
+      "budget": 32,
+      "changed_action_sequences": 2750,
+      "compared_trajectories": 3600,
+      "fit_scope": "development_fit",
+      "scenario": "blurred_survey",
+      "tie_rule": "fixed_random",
+      "upgrade_cost": 4
+    },
+    {
+      "budget": 32,
+      "changed_action_sequences": 275,
+      "compared_trajectories": 360,
+      "fit_scope": "development_fit",
+      "scenario": "blurred_survey",
+      "tie_rule": "raw_change",
+      "upgrade_cost": 4
+    },
+    {
+      "budget": 32,
+      "changed_action_sequences": 275,
+      "compared_trajectories": 360,
+      "fit_scope": "development_fit",
+      "scenario": "blurred_survey",
+      "tie_rule": "row_major",
+      "upgrade_cost": 4
+    },
+    {
+      "budget": 8,
+      "changed_action_sequences": 2780,
+      "compared_trajectories": 3600,
+      "fit_scope": "development_fit",
+      "scenario": "mixed_survey",
+      "tie_rule": "fixed_random",
+      "upgrade_cost": 1
+    },
+    {
+      "budget": 8,
+      "changed_action_sequences": 278,
+      "compared_trajectories": 360,
+      "fit_scope": "development_fit",
+      "scenario": "mixed_survey",
+      "tie_rule": "raw_change",
+      "upgrade_cost": 1
+    },
+    {
+      "budget": 8,
+      "changed_action_sequences": 278,
+      "compared_trajectories": 360,
+      "fit_scope": "development_fit",
+      "scenario": "mixed_survey",
+      "tie_rule": "row_major",
+      "upgrade_cost": 1
+    },
+    {
+      "budget": 16,
+      "changed_action_sequences": 2920,
+      "compared_trajectories": 3600,
+      "fit_scope": "development_fit",
+      "scenario": "mixed_survey",
+      "tie_rule": "fixed_random",
+      "upgrade_cost": 1
+    },
+    {
+      "budget": 16,
+      "changed_action_sequences": 292,
+      "compared_trajectories": 360,
+      "fit_scope": "development_fit",
+      "scenario": "mixed_survey",
+      "tie_rule": "raw_change",
+      "upgrade_cost": 1
+    },
+    {
+      "budget": 16,
+      "changed_action_sequences": 292,
+      "compared_trajectories": 360,
+      "fit_scope": "development_fit",
+      "scenario": "mixed_survey",
+      "tie_rule": "row_major",
+      "upgrade_cost": 1
+    },
+    {
+      "budget": 32,
+      "changed_action_sequences": 2990,
+      "compared_trajectories": 3600,
+      "fit_scope": "development_fit",
+      "scenario": "mixed_survey",
+      "tie_rule": "fixed_random",
+      "upgrade_cost": 1
+    },
+    {
+      "budget": 32,
+      "changed_action_sequences": 299,
+      "compared_trajectories": 360,
+      "fit_scope": "development_fit",
+      "scenario": "mixed_survey",
+      "tie_rule": "raw_change",
+      "upgrade_cost": 1
+    },
+    {
+      "budget": 32,
+      "changed_action_sequences": 299,
+      "compared_trajectories": 360,
+      "fit_scope": "development_fit",
+      "scenario": "mixed_survey",
+      "tie_rule": "row_major",
+      "upgrade_cost": 1
+    },
+    {
+      "budget": 8,
+      "changed_action_sequences": 0,
+      "compared_trajectories": 3600,
+      "fit_scope": "development_fit",
+      "scenario": "mixed_survey",
+      "tie_rule": "fixed_random",
+      "upgrade_cost": 2
+    },
+    {
+      "budget": 8,
+      "changed_action_sequences": 0,
+      "compared_trajectories": 360,
+      "fit_scope": "development_fit",
+      "scenario": "mixed_survey",
+      "tie_rule": "raw_change",
+      "upgrade_cost": 2
+    },
+    {
+      "budget": 8,
+      "changed_action_sequences": 0,
+      "compared_trajectories": 360,
+      "fit_scope": "development_fit",
+      "scenario": "mixed_survey",
+      "tie_rule": "row_major",
+      "upgrade_cost": 2
+    },
+    {
+      "budget": 16,
+      "changed_action_sequences": 0,
+      "compared_trajectories": 3600,
+      "fit_scope": "development_fit",
+      "scenario": "mixed_survey",
+      "tie_rule": "fixed_random",
+      "upgrade_cost": 2
+    },
+    {
+      "budget": 16,
+      "changed_action_sequences": 0,
+      "compared_trajectories": 360,
+      "fit_scope": "development_fit",
+      "scenario": "mixed_survey",
+      "tie_rule": "raw_change",
+      "upgrade_cost": 2
+    },
+    {
+      "budget": 16,
+      "changed_action_sequences": 0,
+      "compared_trajectories": 360,
+      "fit_scope": "development_fit",
+      "scenario": "mixed_survey",
+      "tie_rule": "row_major",
+      "upgrade_cost": 2
+    },
+    {
+      "budget": 32,
+      "changed_action_sequences": 0,
+      "compared_trajectories": 3600,
+      "fit_scope": "development_fit",
+      "scenario": "mixed_survey",
+      "tie_rule": "fixed_random",
+      "upgrade_cost": 2
+    },
+    {
+      "budget": 32,
+      "changed_action_sequences": 0,
+      "compared_trajectories": 360,
+      "fit_scope": "development_fit",
+      "scenario": "mixed_survey",
+      "tie_rule": "raw_change",
+      "upgrade_cost": 2
+    },
+    {
+      "budget": 32,
+      "changed_action_sequences": 0,
+      "compared_trajectories": 360,
+      "fit_scope": "development_fit",
+      "scenario": "mixed_survey",
+      "tie_rule": "row_major",
+      "upgrade_cost": 2
+    },
+    {
+      "budget": 8,
+      "changed_action_sequences": 0,
+      "compared_trajectories": 3600,
+      "fit_scope": "development_fit",
+      "scenario": "mixed_survey",
+      "tie_rule": "fixed_random",
+      "upgrade_cost": 4
+    },
+    {
+      "budget": 8,
+      "changed_action_sequences": 0,
+      "compared_trajectories": 360,
+      "fit_scope": "development_fit",
+      "scenario": "mixed_survey",
+      "tie_rule": "raw_change",
+      "upgrade_cost": 4
+    },
+    {
+      "budget": 8,
+      "changed_action_sequences": 0,
+      "compared_trajectories": 360,
+      "fit_scope": "development_fit",
+      "scenario": "mixed_survey",
+      "tie_rule": "row_major",
+      "upgrade_cost": 4
+    },
+    {
+      "budget": 16,
+      "changed_action_sequences": 0,
+      "compared_trajectories": 3600,
+      "fit_scope": "development_fit",
+      "scenario": "mixed_survey",
+      "tie_rule": "fixed_random",
+      "upgrade_cost": 4
+    },
+    {
+      "budget": 16,
+      "changed_action_sequences": 0,
+      "compared_trajectories": 360,
+      "fit_scope": "development_fit",
+      "scenario": "mixed_survey",
+      "tie_rule": "raw_change",
+      "upgrade_cost": 4
+    },
+    {
+      "budget": 16,
+      "changed_action_sequences": 0,
+      "compared_trajectories": 360,
+      "fit_scope": "development_fit",
+      "scenario": "mixed_survey",
+      "tie_rule": "row_major",
+      "upgrade_cost": 4
+    },
+    {
+      "budget": 32,
+      "changed_action_sequences": 0,
+      "compared_trajectories": 3600,
+      "fit_scope": "development_fit",
+      "scenario": "mixed_survey",
+      "tie_rule": "fixed_random",
+      "upgrade_cost": 4
+    },
+    {
+      "budget": 32,
+      "changed_action_sequences": 0,
+      "compared_trajectories": 360,
+      "fit_scope": "development_fit",
+      "scenario": "mixed_survey",
+      "tie_rule": "raw_change",
+      "upgrade_cost": 4
+    },
+    {
+      "budget": 32,
+      "changed_action_sequences": 0,
+      "compared_trajectories": 360,
+      "fit_scope": "development_fit",
+      "scenario": "mixed_survey",
+      "tie_rule": "row_major",
+      "upgrade_cost": 4
+    },
+    {
+      "budget": 8,
+      "changed_action_sequences": 0,
+      "compared_trajectories": 3600,
+      "fit_scope": "development_fit",
+      "scenario": "native_survey",
+      "tie_rule": "fixed_random",
+      "upgrade_cost": 1
+    },
+    {
+      "budget": 8,
+      "changed_action_sequences": 0,
+      "compared_trajectories": 360,
+      "fit_scope": "development_fit",
+      "scenario": "native_survey",
+      "tie_rule": "raw_change",
+      "upgrade_cost": 1
+    },
+    {
+      "budget": 8,
+      "changed_action_sequences": 0,
+      "compared_trajectories": 360,
+      "fit_scope": "development_fit",
+      "scenario": "native_survey",
+      "tie_rule": "row_major",
+      "upgrade_cost": 1
+    },
+    {
+      "budget": 16,
+      "changed_action_sequences": 0,
+      "compared_trajectories": 3600,
+      "fit_scope": "development_fit",
+      "scenario": "native_survey",
+      "tie_rule": "fixed_random",
+      "upgrade_cost": 1
+    },
+    {
+      "budget": 16,
+      "changed_action_sequences": 0,
+      "compared_trajectories": 360,
+      "fit_scope": "development_fit",
+      "scenario": "native_survey",
+      "tie_rule": "raw_change",
+      "upgrade_cost": 1
+    },
+    {
+      "budget": 16,
+      "changed_action_sequences": 0,
+      "compared_trajectories": 360,
+      "fit_scope": "development_fit",
+      "scenario": "native_survey",
+      "tie_rule": "row_major",
+      "upgrade_cost": 1
+    },
+    {
+      "budget": 32,
+      "changed_action_sequences": 0,
+      "compared_trajectories": 3600,
+      "fit_scope": "development_fit",
+      "scenario": "native_survey",
+      "tie_rule": "fixed_random",
+      "upgrade_cost": 1
+    },
+    {
+      "budget": 32,
+      "changed_action_sequences": 0,
+      "compared_trajectories": 360,
+      "fit_scope": "development_fit",
+      "scenario": "native_survey",
+      "tie_rule": "raw_change",
+      "upgrade_cost": 1
+    },
+    {
+      "budget": 32,
+      "changed_action_sequences": 0,
+      "compared_trajectories": 360,
+      "fit_scope": "development_fit",
+      "scenario": "native_survey",
+      "tie_rule": "row_major",
+      "upgrade_cost": 1
+    },
+    {
+      "budget": 8,
+      "changed_action_sequences": 0,
+      "compared_trajectories": 3600,
+      "fit_scope": "development_fit",
+      "scenario": "native_survey",
+      "tie_rule": "fixed_random",
+      "upgrade_cost": 2
+    },
+    {
+      "budget": 8,
+      "changed_action_sequences": 0,
+      "compared_trajectories": 360,
+      "fit_scope": "development_fit",
+      "scenario": "native_survey",
+      "tie_rule": "raw_change",
+      "upgrade_cost": 2
+    },
+    {
+      "budget": 8,
+      "changed_action_sequences": 0,
+      "compared_trajectories": 360,
+      "fit_scope": "development_fit",
+      "scenario": "native_survey",
+      "tie_rule": "row_major",
+      "upgrade_cost": 2
+    },
+    {
+      "budget": 16,
+      "changed_action_sequences": 0,
+      "compared_trajectories": 3600,
+      "fit_scope": "development_fit",
+      "scenario": "native_survey",
+      "tie_rule": "fixed_random",
+      "upgrade_cost": 2
+    },
+    {
+      "budget": 16,
+      "changed_action_sequences": 0,
+      "compared_trajectories": 360,
+      "fit_scope": "development_fit",
+      "scenario": "native_survey",
+      "tie_rule": "raw_change",
+      "upgrade_cost": 2
+    },
+    {
+      "budget": 16,
+      "changed_action_sequences": 0,
+      "compared_trajectories": 360,
+      "fit_scope": "development_fit",
+      "scenario": "native_survey",
+      "tie_rule": "row_major",
+      "upgrade_cost": 2
+    },
+    {
+      "budget": 32,
+      "changed_action_sequences": 0,
+      "compared_trajectories": 3600,
+      "fit_scope": "development_fit",
+      "scenario": "native_survey",
+      "tie_rule": "fixed_random",
+      "upgrade_cost": 2
+    },
+    {
+      "budget": 32,
+      "changed_action_sequences": 0,
+      "compared_trajectories": 360,
+      "fit_scope": "development_fit",
+      "scenario": "native_survey",
+      "tie_rule": "raw_change",
+      "upgrade_cost": 2
+    },
+    {
+      "budget": 32,
+      "changed_action_sequences": 0,
+      "compared_trajectories": 360,
+      "fit_scope": "development_fit",
+      "scenario": "native_survey",
+      "tie_rule": "row_major",
+      "upgrade_cost": 2
+    },
+    {
+      "budget": 8,
+      "changed_action_sequences": 0,
+      "compared_trajectories": 3600,
+      "fit_scope": "development_fit",
+      "scenario": "native_survey",
+      "tie_rule": "fixed_random",
+      "upgrade_cost": 4
+    },
+    {
+      "budget": 8,
+      "changed_action_sequences": 0,
+      "compared_trajectories": 360,
+      "fit_scope": "development_fit",
+      "scenario": "native_survey",
+      "tie_rule": "raw_change",
+      "upgrade_cost": 4
+    },
+    {
+      "budget": 8,
+      "changed_action_sequences": 0,
+      "compared_trajectories": 360,
+      "fit_scope": "development_fit",
+      "scenario": "native_survey",
+      "tie_rule": "row_major",
+      "upgrade_cost": 4
+    },
+    {
+      "budget": 16,
+      "changed_action_sequences": 0,
+      "compared_trajectories": 3600,
+      "fit_scope": "development_fit",
+      "scenario": "native_survey",
+      "tie_rule": "fixed_random",
+      "upgrade_cost": 4
+    },
+    {
+      "budget": 16,
+      "changed_action_sequences": 0,
+      "compared_trajectories": 360,
+      "fit_scope": "development_fit",
+      "scenario": "native_survey",
+      "tie_rule": "raw_change",
+      "upgrade_cost": 4
+    },
+    {
+      "budget": 16,
+      "changed_action_sequences": 0,
+      "compared_trajectories": 360,
+      "fit_scope": "development_fit",
+      "scenario": "native_survey",
+      "tie_rule": "row_major",
+      "upgrade_cost": 4
+    },
+    {
+      "budget": 32,
+      "changed_action_sequences": 0,
+      "compared_trajectories": 3600,
+      "fit_scope": "development_fit",
+      "scenario": "native_survey",
+      "tie_rule": "fixed_random",
+      "upgrade_cost": 4
+    },
+    {
+      "budget": 32,
+      "changed_action_sequences": 0,
+      "compared_trajectories": 360,
+      "fit_scope": "development_fit",
+      "scenario": "native_survey",
+      "tie_rule": "raw_change",
+      "upgrade_cost": 4
+    },
+    {
+      "budget": 32,
+      "changed_action_sequences": 0,
+      "compared_trajectories": 360,
+      "fit_scope": "development_fit",
+      "scenario": "native_survey",
+      "tie_rule": "row_major",
+      "upgrade_cost": 4
+    },
+    {
+      "budget": 32,
+      "changed_action_sequences": 0,
+      "compared_trajectories": 3600,
+      "fit_scope": "event_holdout",
+      "scenario": "mixed_survey",
+      "tie_rule": "fixed_random",
+      "upgrade_cost": 2
+    },
+    {
+      "budget": 32,
+      "changed_action_sequences": 0,
+      "compared_trajectories": 360,
+      "fit_scope": "event_holdout",
+      "scenario": "mixed_survey",
+      "tie_rule": "raw_change",
+      "upgrade_cost": 2
+    },
+    {
+      "budget": 32,
+      "changed_action_sequences": 0,
+      "compared_trajectories": 360,
+      "fit_scope": "event_holdout",
+      "scenario": "mixed_survey",
+      "tie_rule": "row_major",
+      "upgrade_cost": 2
+    }
+  ],
+  "counts": {
+    "changed_action_sequences": 16788,
+    "compared_trajectories": 120960,
+    "primary_all_ties_changed": 0,
+    "primary_all_ties_compared": 8640
+  }
+}

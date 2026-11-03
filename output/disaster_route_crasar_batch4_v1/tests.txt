@@ -1,0 +1,35 @@
+test_local_vectors_follow_nearest_source_position (test_crasar_alignment.Alignment.test_local_vectors_follow_nearest_source_position) ... ok
+test_overview_anisotropic_rounding (test_crasar_alignment.Alignment.test_overview_anisotropic_rounding) ... /Users/bethany/Documents/ChatGPT/复现论文/work/disaster_route/test_crasar_alignment.py:14: PendingDeprecationWarning: Use `@` matmul instead of `*` mul operator for matrix multiplication
+  t=Affine(.02,0,100,0,-.02,500);over=t*Affine.scale(7.999,8.001)
+/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_route/test_crasar_alignment.py:16: PendingDeprecationWarning: Use `@` matmul instead of `*` mul operator for matrix multiplication
+  at_image=(~over)*(t*tuple(p+shift))
+/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_route/crasar_alignment_core.py:16: PendingDeprecationWarning: Use `@` matmul instead of `*` mul operator for matrix multiplication
+  return source_transform*Affine.translation(*(-np.asarray(shift)*scale))
+/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_route/test_crasar_alignment.py:17: PendingDeprecationWarning: Use `@` matmul instead of `*` mul operator for matrix multiplication
+  np.testing.assert_allclose(corrected_image_transform(t,over,shift)*at_image,t*tuple(p))
+ok
+test_polygon_to_image_direction (test_crasar_alignment.Alignment.test_polygon_to_image_direction) ... /Users/bethany/Documents/ChatGPT/复现论文/work/disaster_route/test_crasar_alignment.py:12: PendingDeprecationWarning: Use `@` matmul instead of `*` mul operator for matrix multiplication
+  np.testing.assert_allclose(corrected*tuple(p+shift),t*tuple(p))
+ok
+test_features_do_not_consult_unvisited_values (test_crasar_feedback_diagnostic.Diagnostic.test_features_do_not_consult_unvisited_values) ... ok
+test_future_or_missing_feedback_is_rejected (test_crasar_feedback_diagnostic.Diagnostic.test_future_or_missing_feedback_is_rejected) ... ok
+test_shared_building_is_not_unvisited_evidence (test_crasar_feedback_diagnostic.Diagnostic.test_shared_building_is_not_unvisited_evidence) ... ok
+test_spatial_purge_distance_uses_rectangle_gap (test_crasar_feedback_diagnostic.Diagnostic.test_spatial_purge_distance_uses_rectangle_gap) ... ok
+test_test_batch_does_not_change_training_scaling (test_crasar_feedback_diagnostic.Diagnostic.test_test_batch_does_not_change_training_scaling) ... ok
+test_group_preserves_exact_blocks_and_eof (test_crasar_range_cache.RangeCache.test_group_preserves_exact_blocks_and_eof) ... ok
+test_short_or_wrong_range_never_writes (test_crasar_range_cache.RangeCache.test_short_or_wrong_range_never_writes) ... ok
+test_all_unknown_predictions_have_undefined_precision (test_crasar_reference_evaluation.ReferenceEvaluation.test_all_unknown_predictions_have_undefined_precision) ... ok
+test_full_coverage_is_not_necessarily_a_detection_ceiling (test_crasar_reference_evaluation.ReferenceEvaluation.test_full_coverage_is_not_necessarily_a_detection_ceiling) ... ok
+test_invalid_positive_reference_rejected (test_crasar_reference_evaluation.ReferenceEvaluation.test_invalid_positive_reference_rejected) ... ok
+test_unknown_labels_are_not_negatives (test_crasar_reference_evaluation.ReferenceEvaluation.test_unknown_labels_are_not_negatives) ... ok
+test_all_controls_pay_return_and_observations (test_crasar_route_controls.Controls.test_all_controls_pay_return_and_observations) ... ok
+test_double_counting_refused (test_crasar_route_controls.Controls.test_double_counting_refused) ... ok
+test_exact_matches_independent_permutations (test_crasar_route_controls.Controls.test_exact_matches_independent_permutations) ... ok
+test_private_reference_has_no_planner_argument (test_crasar_route_controls.Controls.test_private_reference_has_no_planner_argument) ... ok
+test_return_infeasible_visit_rejected (test_crasar_route_controls.Controls.test_return_infeasible_visit_rejected) ... ok
+test_same_utility_greedy_never_beats_exact (test_crasar_route_controls.Controls.test_same_utility_greedy_never_beats_exact) ... ok
+
+----------------------------------------------------------------------
+Ran 20 tests in 0.012s
+
+OK

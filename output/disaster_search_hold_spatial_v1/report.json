@@ -1,0 +1,3464 @@
+{
+  "candidate_envelope_components": [
+    [
+      "hurricane-florence_00000017"
+    ],
+    [
+      "hurricane-florence_00000074"
+    ],
+    [
+      "hurricane-florence_00000098"
+    ],
+    [
+      "hurricane-florence_00000130"
+    ],
+    [
+      "hurricane-florence_00000134"
+    ],
+    [
+      "hurricane-florence_00000170"
+    ],
+    [
+      "hurricane-florence_00000207"
+    ],
+    [
+      "hurricane-florence_00000214"
+    ],
+    [
+      "hurricane-florence_00000243"
+    ],
+    [
+      "hurricane-florence_00000258"
+    ],
+    [
+      "hurricane-florence_00000280"
+    ],
+    [
+      "hurricane-florence_00000281"
+    ],
+    [
+      "hurricane-florence_00000305"
+    ],
+    [
+      "hurricane-florence_00000327"
+    ],
+    [
+      "hurricane-florence_00000354"
+    ],
+    [
+      "hurricane-florence_00000367"
+    ],
+    [
+      "hurricane-florence_00000383"
+    ],
+    [
+      "hurricane-florence_00000413"
+    ],
+    [
+      "hurricane-florence_00000439"
+    ],
+    [
+      "hurricane-florence_00000447"
+    ],
+    [
+      "hurricane-florence_00000458"
+    ],
+    [
+      "hurricane-florence_00000463"
+    ],
+    [
+      "hurricane-florence_00000487"
+    ],
+    [
+      "hurricane-florence_00000489"
+    ],
+    [
+      "hurricane-harvey_00000013"
+    ],
+    [
+      "hurricane-harvey_00000014"
+    ],
+    [
+      "hurricane-harvey_00000065"
+    ],
+    [
+      "hurricane-harvey_00000074"
+    ],
+    [
+      "hurricane-harvey_00000121"
+    ],
+    [
+      "hurricane-harvey_00000125"
+    ],
+    [
+      "hurricane-harvey_00000193"
+    ],
+    [
+      "hurricane-harvey_00000201"
+    ],
+    [
+      "hurricane-harvey_00000219"
+    ],
+    [
+      "hurricane-harvey_00000236"
+    ],
+    [
+      "hurricane-harvey_00000279"
+    ],
+    [
+      "hurricane-harvey_00000293"
+    ],
+    [
+      "hurricane-harvey_00000311"
+    ],
+    [
+      "hurricane-harvey_00000334"
+    ],
+    [
+      "hurricane-harvey_00000343"
+    ],
+    [
+      "hurricane-harvey_00000363"
+    ],
+    [
+      "hurricane-harvey_00000372"
+    ],
+    [
+      "hurricane-harvey_00000386"
+    ],
+    [
+      "hurricane-harvey_00000403"
+    ],
+    [
+      "hurricane-harvey_00000404"
+    ],
+    [
+      "hurricane-harvey_00000421"
+    ],
+    [
+      "hurricane-harvey_00000447"
+    ],
+    [
+      "hurricane-harvey_00000459"
+    ],
+    [
+      "hurricane-harvey_00000487"
+    ],
+    [
+      "hurricane-matthew_00000020"
+    ],
+    [
+      "hurricane-matthew_00000036"
+    ],
+    [
+      "hurricane-matthew_00000055"
+    ],
+    [
+      "hurricane-matthew_00000061"
+    ],
+    [
+      "hurricane-matthew_00000068",
+      "hurricane-matthew_00000073"
+    ],
+    [
+      "hurricane-matthew_00000087"
+    ],
+    [
+      "hurricane-matthew_00000091"
+    ],
+    [
+      "hurricane-matthew_00000106"
+    ],
+    [
+      "hurricane-matthew_00000141"
+    ],
+    [
+      "hurricane-matthew_00000157"
+    ],
+    [
+      "hurricane-matthew_00000191"
+    ],
+    [
+      "hurricane-matthew_00000201"
+    ],
+    [
+      "hurricane-matthew_00000203"
+    ],
+    [
+      "hurricane-matthew_00000220"
+    ],
+    [
+      "hurricane-matthew_00000224"
+    ],
+    [
+      "hurricane-matthew_00000254"
+    ],
+    [
+      "hurricane-matthew_00000255"
+    ],
+    [
+      "hurricane-matthew_00000280"
+    ],
+    [
+      "hurricane-matthew_00000292"
+    ],
+    [
+      "hurricane-matthew_00000323"
+    ],
+    [
+      "hurricane-matthew_00000344"
+    ],
+    [
+      "hurricane-matthew_00000351"
+    ],
+    [
+      "hurricane-matthew_00000371"
+    ],
+    [
+      "hurricane-michael_00000023"
+    ],
+    [
+      "hurricane-michael_00000055"
+    ],
+    [
+      "hurricane-michael_00000108"
+    ],
+    [
+      "hurricane-michael_00000115"
+    ],
+    [
+      "hurricane-michael_00000117"
+    ],
+    [
+      "hurricane-michael_00000132"
+    ],
+    [
+      "hurricane-michael_00000160"
+    ],
+    [
+      "hurricane-michael_00000164"
+    ],
+    [
+      "hurricane-michael_00000213"
+    ],
+    [
+      "hurricane-michael_00000221"
+    ],
+    [
+      "hurricane-michael_00000227"
+    ],
+    [
+      "hurricane-michael_00000245"
+    ],
+    [
+      "hurricane-michael_00000259"
+    ],
+    [
+      "hurricane-michael_00000279"
+    ],
+    [
+      "hurricane-michael_00000280"
+    ],
+    [
+      "hurricane-michael_00000425"
+    ],
+    [
+      "hurricane-michael_00000445"
+    ],
+    [
+      "hurricane-michael_00000448"
+    ],
+    [
+      "hurricane-michael_00000469"
+    ],
+    [
+      "hurricane-michael_00000488"
+    ],
+    [
+      "hurricane-michael_00000491"
+    ],
+    [
+      "hurricane-michael_00000495"
+    ],
+    [
+      "hurricane-michael_00000506"
+    ],
+    [
+      "hurricane-michael_00000513"
+    ],
+    [
+      "mexico-earthquake_00000014",
+      "mexico-earthquake_00000081"
+    ],
+    [
+      "mexico-earthquake_00000036"
+    ],
+    [
+      "mexico-earthquake_00000038"
+    ],
+    [
+      "mexico-earthquake_00000045"
+    ],
+    [
+      "mexico-earthquake_00000054"
+    ],
+    [
+      "mexico-earthquake_00000056"
+    ],
+    [
+      "mexico-earthquake_00000060"
+    ],
+    [
+      "mexico-earthquake_00000071"
+    ],
+    [
+      "mexico-earthquake_00000077"
+    ],
+    [
+      "mexico-earthquake_00000099"
+    ],
+    [
+      "mexico-earthquake_00000116"
+    ],
+    [
+      "mexico-earthquake_00000123"
+    ],
+    [
+      "mexico-earthquake_00000130"
+    ],
+    [
+      "mexico-earthquake_00000133"
+    ],
+    [
+      "mexico-earthquake_00000134"
+    ],
+    [
+      "mexico-earthquake_00000137"
+    ],
+    [
+      "mexico-earthquake_00000145"
+    ],
+    [
+      "mexico-earthquake_00000147"
+    ],
+    [
+      "mexico-earthquake_00000149"
+    ],
+    [
+      "mexico-earthquake_00000156"
+    ],
+    [
+      "mexico-earthquake_00000162"
+    ],
+    [
+      "mexico-earthquake_00000170"
+    ],
+    [
+      "mexico-earthquake_00000175"
+    ],
+    [
+      "midwest-flooding_00000009"
+    ],
+    [
+      "midwest-flooding_00000046"
+    ],
+    [
+      "midwest-flooding_00000053"
+    ],
+    [
+      "midwest-flooding_00000091"
+    ],
+    [
+      "midwest-flooding_00000094"
+    ],
+    [
+      "midwest-flooding_00000101"
+    ],
+    [
+      "midwest-flooding_00000111"
+    ],
+    [
+      "midwest-flooding_00000118"
+    ],
+    [
+      "midwest-flooding_00000136"
+    ],
+    [
+      "midwest-flooding_00000138"
+    ],
+    [
+      "midwest-flooding_00000147"
+    ],
+    [
+      "midwest-flooding_00000189"
+    ],
+    [
+      "midwest-flooding_00000266"
+    ],
+    [
+      "midwest-flooding_00000294"
+    ],
+    [
+      "midwest-flooding_00000305"
+    ],
+    [
+      "midwest-flooding_00000306"
+    ],
+    [
+      "midwest-flooding_00000307"
+    ],
+    [
+      "midwest-flooding_00000341"
+    ],
+    [
+      "midwest-flooding_00000349"
+    ],
+    [
+      "midwest-flooding_00000364"
+    ],
+    [
+      "midwest-flooding_00000375"
+    ],
+    [
+      "midwest-flooding_00000384"
+    ],
+    [
+      "midwest-flooding_00000425"
+    ],
+    [
+      "midwest-flooding_00000443"
+    ],
+    [
+      "palu-tsunami_00000018"
+    ],
+    [
+      "palu-tsunami_00000029"
+    ],
+    [
+      "palu-tsunami_00000046"
+    ],
+    [
+      "palu-tsunami_00000052"
+    ],
+    [
+      "palu-tsunami_00000055"
+    ],
+    [
+      "palu-tsunami_00000059"
+    ],
+    [
+      "palu-tsunami_00000075"
+    ],
+    [
+      "palu-tsunami_00000078"
+    ],
+    [
+      "palu-tsunami_00000080"
+    ],
+    [
+      "palu-tsunami_00000085"
+    ],
+    [
+      "palu-tsunami_00000093"
+    ],
+    [
+      "palu-tsunami_00000095"
+    ],
+    [
+      "palu-tsunami_00000104"
+    ],
+    [
+      "palu-tsunami_00000105"
+    ],
+    [
+      "palu-tsunami_00000116"
+    ],
+    [
+      "palu-tsunami_00000130"
+    ],
+    [
+      "palu-tsunami_00000144"
+    ],
+    [
+      "palu-tsunami_00000149"
+    ],
+    [
+      "palu-tsunami_00000159"
+    ],
+    [
+      "palu-tsunami_00000162"
+    ],
+    [
+      "palu-tsunami_00000172"
+    ],
+    [
+      "palu-tsunami_00000176"
+    ],
+    [
+      "palu-tsunami_00000180"
+    ],
+    [
+      "palu-tsunami_00000186"
+    ],
+    [
+      "santa-rosa-wildfire_00000008"
+    ],
+    [
+      "santa-rosa-wildfire_00000010"
+    ],
+    [
+      "santa-rosa-wildfire_00000013"
+    ],
+    [
+      "santa-rosa-wildfire_00000025"
+    ],
+    [
+      "santa-rosa-wildfire_00000029"
+    ],
+    [
+      "santa-rosa-wildfire_00000054"
+    ],
+    [
+      "santa-rosa-wildfire_00000062"
+    ],
+    [
+      "santa-rosa-wildfire_00000108"
+    ],
+    [
+      "santa-rosa-wildfire_00000112"
+    ],
+    [
+      "santa-rosa-wildfire_00000115"
+    ],
+    [
+      "santa-rosa-wildfire_00000122"
+    ],
+    [
+      "santa-rosa-wildfire_00000126"
+    ],
+    [
+      "santa-rosa-wildfire_00000160"
+    ],
+    [
+      "santa-rosa-wildfire_00000188"
+    ],
+    [
+      "santa-rosa-wildfire_00000193"
+    ],
+    [
+      "santa-rosa-wildfire_00000194"
+    ],
+    [
+      "santa-rosa-wildfire_00000227"
+    ],
+    [
+      "santa-rosa-wildfire_00000232"
+    ],
+    [
+      "santa-rosa-wildfire_00000255"
+    ],
+    [
+      "santa-rosa-wildfire_00000263"
+    ],
+    [
+      "santa-rosa-wildfire_00000266"
+    ],
+    [
+      "santa-rosa-wildfire_00000278"
+    ],
+    [
+      "santa-rosa-wildfire_00000342"
+    ],
+    [
+      "santa-rosa-wildfire_00000352"
+    ],
+    [
+      "socal-fire_00000034"
+    ],
+    [
+      "socal-fire_00000047"
+    ],
+    [
+      "socal-fire_00000100"
+    ],
+    [
+      "socal-fire_00000120"
+    ],
+    [
+      "socal-fire_00000134"
+    ],
+    [
+      "socal-fire_00000155"
+    ],
+    [
+      "socal-fire_00000159"
+    ],
+    [
+      "socal-fire_00000165"
+    ],
+    [
+      "socal-fire_00000210"
+    ],
+    [
+      "socal-fire_00000406"
+    ],
+    [
+      "socal-fire_00000453"
+    ],
+    [
+      "socal-fire_00000561"
+    ],
+    [
+      "socal-fire_00000595"
+    ],
+    [
+      "socal-fire_00000836"
+    ],
+    [
+      "socal-fire_00000869"
+    ],
+    [
+      "socal-fire_00000870"
+    ],
+    [
+      "socal-fire_00000872"
+    ],
+    [
+      "socal-fire_00000948"
+    ],
+    [
+      "socal-fire_00001097"
+    ],
+    [
+      "socal-fire_00001173"
+    ],
+    [
+      "socal-fire_00001212"
+    ],
+    [
+      "socal-fire_00001217"
+    ],
+    [
+      "socal-fire_00001332"
+    ],
+    [
+      "socal-fire_00001336"
+    ]
+  ],
+  "candidate_scenes": 216,
+  "candidates_with_training_annotation_envelope_overlap": 62,
+  "candidates_without_geometry": [
+    "hurricane-harvey_00000219",
+    "midwest-flooding_00000136",
+    "midwest-flooding_00000118",
+    "midwest-flooding_00000425",
+    "midwest-flooding_00000375",
+    "midwest-flooding_00000111",
+    "midwest-flooding_00000101",
+    "socal-fire_00000872",
+    "socal-fire_00000047",
+    "socal-fire_00000406",
+    "socal-fire_00000120",
+    "socal-fire_00001332",
+    "socal-fire_00001336",
+    "socal-fire_00000836",
+    "socal-fire_00000210",
+    "socal-fire_00000100",
+    "socal-fire_00000159",
+    "socal-fire_00001212",
+    "hurricane-florence_00000281"
+  ],
+  "cross_policy_split_annotation_envelope_overlaps": [],
+  "damage_payload_read": false,
+  "full_image_footprints_available": false,
+  "geographic_image_overlap_excluded": false,
+  "network_bytes_this_run": 50780596,
+  "no_damage_payload_intersections": true,
+  "per_sample": [
+    {
+      "annotation_envelope_wgs84": [
+        -95.58525999147932,
+        29.79140733981179,
+        -95.58271630893391,
+        29.79492343548511
+      ],
+      "sample_id": "hurricane-harvey_00000363",
+      "split": "development",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -95.63744924237807,
+        29.53863865187478,
+        -95.63651009939154,
+        29.53930937402183
+      ],
+      "sample_id": "hurricane-harvey_00000074",
+      "split": "development",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -95.62196630136266,
+        29.77777579433511,
+        -95.6169706778866,
+        29.78212202350823
+      ],
+      "sample_id": "hurricane-harvey_00000403",
+      "split": "development",
+      "training_annotation_envelope_overlap_ids": [
+        "hurricane-harvey_00000398",
+        "hurricane-harvey_00000408",
+        "hurricane-harvey_00000470"
+      ]
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -95.66310328223972,
+        29.83210266106096,
+        -95.65955846799979,
+        29.83621367536039
+      ],
+      "sample_id": "hurricane-harvey_00000121",
+      "split": "development",
+      "training_annotation_envelope_overlap_ids": [
+        "hurricane-harvey_00000123",
+        "hurricane-harvey_00000152"
+      ]
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -95.64535142993809,
+        29.94621870684859,
+        -95.64043542543125,
+        29.95061060654252
+      ],
+      "sample_id": "hurricane-harvey_00000293",
+      "split": "development",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -95.64185796768048,
+        29.56081820728999,
+        -95.64020485689913,
+        29.56232713071331
+      ],
+      "sample_id": "hurricane-harvey_00000065",
+      "split": "development",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -95.58644341757379,
+        29.56379455375945,
+        -95.58149325217485,
+        29.56814846632485
+      ],
+      "sample_id": "hurricane-harvey_00000343",
+      "split": "development",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -95.59124437462074,
+        29.73520083426121,
+        -95.58620714931622,
+        29.7396005670008
+      ],
+      "sample_id": "hurricane-harvey_00000386",
+      "split": "development",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -95.56718434068468,
+        29.76243950208962,
+        -95.56238445814527,
+        29.7658968172636
+      ],
+      "sample_id": "hurricane-harvey_00000421",
+      "split": "development",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": null,
+      "sample_id": "hurricane-harvey_00000219",
+      "split": "development",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -95.55715009447663,
+        29.75744356178573,
+        -95.55217341833935,
+        29.76183053299218
+      ],
+      "sample_id": "hurricane-harvey_00000372",
+      "split": "development",
+      "training_annotation_envelope_overlap_ids": [
+        "hurricane-harvey_00000434"
+      ]
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -95.57579000497796,
+        29.71393158505853,
+        -95.57082920507072,
+        29.71827877043149
+      ],
+      "sample_id": "hurricane-harvey_00000459",
+      "split": "development",
+      "training_annotation_envelope_overlap_ids": [
+        "hurricane-harvey_00000396"
+      ]
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -95.64877106145843,
+        29.88582211615559,
+        -95.64378272622227,
+        29.89020418147915
+      ],
+      "sample_id": "hurricane-harvey_00000193",
+      "split": "development",
+      "training_annotation_envelope_overlap_ids": [
+        "hurricane-harvey_00000195"
+      ]
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -95.61260473236028,
+        29.5130527619752,
+        -95.6119928379142,
+        29.51422845148156
+      ],
+      "sample_id": "hurricane-harvey_00000311",
+      "split": "development",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -95.59662082837716,
+        29.75235729306191,
+        -95.59158604900107,
+        29.75675459857362
+      ],
+      "sample_id": "hurricane-harvey_00000404",
+      "split": "development",
+      "training_annotation_envelope_overlap_ids": [
+        "hurricane-harvey_00000419",
+        "hurricane-harvey_00000477"
+      ]
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -95.48303116477315,
+        29.71399304649206,
+        -95.47800471639731,
+        29.71836179036566
+      ],
+      "sample_id": "hurricane-harvey_00000013",
+      "split": "development",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -95.62200515860701,
+        29.52276296855884,
+        -95.61724484706144,
+        29.52513117755949
+      ],
+      "sample_id": "hurricane-harvey_00000279",
+      "split": "development",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -95.53711159613947,
+        29.77767374709629,
+        -95.5339658638894,
+        29.78201693102583
+      ],
+      "sample_id": "hurricane-harvey_00000487",
+      "split": "development",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -95.66899515259026,
+        29.99056023086725,
+        -95.6639500002791,
+        29.99491711443627
+      ],
+      "sample_id": "hurricane-harvey_00000201",
+      "split": "development",
+      "training_annotation_envelope_overlap_ids": [
+        "hurricane-harvey_00000204"
+      ]
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -95.3577381106586,
+        29.76048768538856,
+        -95.3527022475694,
+        29.76481135448583
+      ],
+      "sample_id": "hurricane-harvey_00000014",
+      "split": "development",
+      "training_annotation_envelope_overlap_ids": [
+        "hurricane-harvey_00000017"
+      ]
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -95.65460773603697,
+        29.83225629284968,
+        -95.64965212554705,
+        29.83666123518695
+      ],
+      "sample_id": "hurricane-harvey_00000125",
+      "split": "development",
+      "training_annotation_envelope_overlap_ids": [
+        "hurricane-harvey_00000088",
+        "hurricane-harvey_00000089",
+        "hurricane-harvey_00000123"
+      ]
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -95.56163884224635,
+        29.450824476245,
+        -95.56128054109188,
+        29.45259302973827
+      ],
+      "sample_id": "hurricane-harvey_00000334",
+      "split": "development",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -95.5471696135207,
+        29.75332083174069,
+        -95.54220498182193,
+        29.75771423156635
+      ],
+      "sample_id": "hurricane-harvey_00000447",
+      "split": "development",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -95.66060970569319,
+        29.95891336827941,
+        -95.65558238296747,
+        29.96323952297697
+      ],
+      "sample_id": "hurricane-harvey_00000236",
+      "split": "development",
+      "training_annotation_envelope_overlap_ids": [
+        "hurricane-harvey_00000285"
+      ]
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -122.7254164287563,
+        38.47563274449253,
+        -122.7201633081719,
+        38.47940485165818
+      ],
+      "sample_id": "santa-rosa-wildfire_00000013",
+      "split": "development",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -122.6630838631975,
+        38.55637368662087,
+        -122.6619709568827,
+        38.55835802252323
+      ],
+      "sample_id": "santa-rosa-wildfire_00000266",
+      "split": "development",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -122.6743230639484,
+        38.48394701259591,
+        -122.6690613348616,
+        38.48802959426166
+      ],
+      "sample_id": "santa-rosa-wildfire_00000278",
+      "split": "development",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -122.7463884760316,
+        38.4924611345475,
+        -122.7411299878364,
+        38.4960963230669
+      ],
+      "sample_id": "santa-rosa-wildfire_00000010",
+      "split": "development",
+      "training_annotation_envelope_overlap_ids": [
+        "santa-rosa-wildfire_00000014",
+        "santa-rosa-wildfire_00000075"
+      ]
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -122.7043718817113,
+        38.47543855093479,
+        -122.6991277336485,
+        38.47958002051221
+      ],
+      "sample_id": "santa-rosa-wildfire_00000029",
+      "split": "development",
+      "training_annotation_envelope_overlap_ids": [
+        "santa-rosa-wildfire_00000129"
+      ]
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -122.6992621605729,
+        38.49610468831736,
+        -122.6953135753425,
+        38.49722209418271
+      ],
+      "sample_id": "santa-rosa-wildfire_00000112",
+      "split": "development",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -122.7098010893402,
+        38.50965021698354,
+        -122.7049029548484,
+        38.51370129508715
+      ],
+      "sample_id": "santa-rosa-wildfire_00000255",
+      "split": "development",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -122.6953139490848,
+        38.48808065327064,
+        -122.690075469762,
+        38.49221865009028
+      ],
+      "sample_id": "santa-rosa-wildfire_00000342",
+      "split": "development",
+      "training_annotation_envelope_overlap_ids": [
+        "santa-rosa-wildfire_00000268",
+        "santa-rosa-wildfire_00000344"
+      ]
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -122.6950712835065,
+        38.50698741718826,
+        -122.6913563802473,
+        38.5089371246223
+      ],
+      "sample_id": "santa-rosa-wildfire_00000263",
+      "split": "development",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -122.6990906632713,
+        38.48370374404892,
+        -122.6953180977523,
+        38.48783560836665
+      ],
+      "sample_id": "santa-rosa-wildfire_00000054",
+      "split": "development",
+      "training_annotation_envelope_overlap_ids": [
+        "santa-rosa-wildfire_00000049",
+        "santa-rosa-wildfire_00000130"
+      ]
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -122.7096226435145,
+        38.47959590152168,
+        -122.7043572699079,
+        38.48351669148134
+      ],
+      "sample_id": "santa-rosa-wildfire_00000122",
+      "split": "development",
+      "training_annotation_envelope_overlap_ids": [
+        "santa-rosa-wildfire_00000129"
+      ]
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -122.7308370146777,
+        38.50969209866984,
+        -122.7256083837431,
+        38.51341211160951
+      ],
+      "sample_id": "santa-rosa-wildfire_00000232",
+      "split": "development",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -122.7284604079916,
+        38.56039407200123,
+        -122.7273564149878,
+        38.56322757387688
+      ],
+      "sample_id": "santa-rosa-wildfire_00000160",
+      "split": "development",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -122.7098076661262,
+        38.4341132827652,
+        -122.7045420756056,
+        38.43825036972328
+      ],
+      "sample_id": "santa-rosa-wildfire_00000194",
+      "split": "development",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -122.7150149933711,
+        38.44652853806893,
+        -122.709747934363,
+        38.45066327141511
+      ],
+      "sample_id": "santa-rosa-wildfire_00000108",
+      "split": "development",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -122.7120918999201,
+        38.50140575938365,
+        -122.7098437446121,
+        38.50551540061493
+      ],
+      "sample_id": "santa-rosa-wildfire_00000227",
+      "split": "development",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -122.735545603202,
+        38.53036551991519,
+        -122.7307517726829,
+        38.53432931988244
+      ],
+      "sample_id": "santa-rosa-wildfire_00000062",
+      "split": "development",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -122.7202396709325,
+        38.45481581087673,
+        -122.7149732096282,
+        38.45894453213785
+      ],
+      "sample_id": "santa-rosa-wildfire_00000126",
+      "split": "development",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -122.7356234106028,
+        38.50557450148598,
+        -122.7308474278656,
+        38.50970336173287
+      ],
+      "sample_id": "santa-rosa-wildfire_00000115",
+      "split": "development",
+      "training_annotation_envelope_overlap_ids": [
+        "santa-rosa-wildfire_00000228"
+      ]
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -122.7781884653736,
+        38.41359817359473,
+        -122.7729353155897,
+        38.41761639028486
+      ],
+      "sample_id": "santa-rosa-wildfire_00000193",
+      "split": "development",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -122.6587998967426,
+        38.43009991111774,
+        -122.6535453759638,
+        38.43424285867298
+      ],
+      "sample_id": "santa-rosa-wildfire_00000352",
+      "split": "development",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -122.730506856035,
+        38.47550979589409,
+        -122.7254213009079,
+        38.47964262979053
+      ],
+      "sample_id": "santa-rosa-wildfire_00000008",
+      "split": "development",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -122.6945304281594,
+        38.55945069225192,
+        -122.690457829007,
+        38.56168559183678
+      ],
+      "sample_id": "santa-rosa-wildfire_00000188",
+      "split": "development",
+      "training_annotation_envelope_overlap_ids": [
+        "santa-rosa-wildfire_00000249"
+      ]
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -122.7255415154004,
+        38.51794057352893,
+        -122.720608548146,
+        38.52207246870657
+      ],
+      "sample_id": "santa-rosa-wildfire_00000025",
+      "split": "development",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -99.22851251490508,
+        19.2509671217878,
+        -99.22389054106996,
+        19.25528140238786
+      ],
+      "sample_id": "mexico-earthquake_00000145",
+      "split": "development",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -99.1766532851067,
+        19.27774812152669,
+        -99.17193426993025,
+        19.28222650502216
+      ],
+      "sample_id": "mexico-earthquake_00000054",
+      "split": "development",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -99.22384385708625,
+        19.27769397747331,
+        -99.21912357507797,
+        19.28217548686077
+      ],
+      "sample_id": "mexico-earthquake_00000036",
+      "split": "development",
+      "training_annotation_envelope_overlap_ids": [
+        "mexico-earthquake_00000100"
+      ]
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -99.18139703182204,
+        19.30014946109876,
+        -99.17667724077626,
+        19.30462689443226
+      ],
+      "sample_id": "mexico-earthquake_00000116",
+      "split": "development",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -99.17663350781581,
+        19.36117180068566,
+        -99.17191400673448,
+        19.36565150856903
+      ],
+      "sample_id": "mexico-earthquake_00000130",
+      "split": "development",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -99.19238620765539,
+        19.25821147662298,
+        -99.19138436463749,
+        19.25978275075768
+      ],
+      "sample_id": "mexico-earthquake_00000175",
+      "split": "development",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -99.14360808074441,
+        19.2644518064541,
+        -99.14062689184148,
+        19.26880994752135
+      ],
+      "sample_id": "mexico-earthquake_00000134",
+      "split": "development",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -99.15305542377952,
+        19.27776686106915,
+        -99.14833999175465,
+        19.28206272273539
+      ],
+      "sample_id": "mexico-earthquake_00000077",
+      "split": "development",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -99.16719763175433,
+        19.36566065758097,
+        -99.16247872240864,
+        19.37013862752169
+      ],
+      "sample_id": "mexico-earthquake_00000056",
+      "split": "development",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -99.2136395757421,
+        19.26441999749315,
+        -99.20966883447835,
+        19.26874384896798
+      ],
+      "sample_id": "mexico-earthquake_00000071",
+      "split": "development",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -99.16718725154551,
+        19.25086824253091,
+        -99.16247001265356,
+        19.25534873505701
+      ],
+      "sample_id": "mexico-earthquake_00000162",
+      "split": "development",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -99.22851550575966,
+        19.25528520344304,
+        -99.22622745292283,
+        19.2589215689514
+      ],
+      "sample_id": "mexico-earthquake_00000170",
+      "split": "development",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -99.16248281606717,
+        19.26435674004644,
+        -99.15776581650006,
+        19.26879617028319
+      ],
+      "sample_id": "mexico-earthquake_00000123",
+      "split": "development",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -99.16722369448034,
+        19.28671691231323,
+        -99.16250582312564,
+        19.2911974277715
+      ],
+      "sample_id": "mexico-earthquake_00000060",
+      "split": "development",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -99.21445219929676,
+        19.31355375673274,
+        -99.20973156290671,
+        19.3180357656778
+      ],
+      "sample_id": "mexico-earthquake_00000014",
+      "split": "development",
+      "training_annotation_envelope_overlap_ids": [
+        "mexico-earthquake_00000021",
+        "mexico-earthquake_00000067"
+      ]
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -99.20911687319962,
+        19.40723055975661,
+        -99.20566667135054,
+        19.40842442463799
+      ],
+      "sample_id": "mexico-earthquake_00000099",
+      "split": "development",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -99.15307556225315,
+        19.30017230941703,
+        -99.14836043299815,
+        19.30465249350499
+      ],
+      "sample_id": "mexico-earthquake_00000137",
+      "split": "development",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -99.15778036133503,
+        19.28302017776563,
+        -99.15306504263053,
+        19.28672345086825
+      ],
+      "sample_id": "mexico-earthquake_00000149",
+      "split": "development",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -99.21444661500487,
+        19.30907304803815,
+        -99.20972575506467,
+        19.31355462405482
+      ],
+      "sample_id": "mexico-earthquake_00000081",
+      "split": "development",
+      "training_annotation_envelope_overlap_ids": [
+        "mexico-earthquake_00000015",
+        "mexico-earthquake_00000089"
+      ]
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -99.19556285916967,
+        19.40147157847631,
+        -99.19084117429891,
+        19.40595197618565
+      ],
+      "sample_id": "mexico-earthquake_00000038",
+      "split": "development",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -99.17190870144937,
+        19.35669810669128,
+        -99.16718902169086,
+        19.36117505049452
+      ],
+      "sample_id": "mexico-earthquake_00000045",
+      "split": "development",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -99.15778989727774,
+        19.29120638770925,
+        -99.1530724905517,
+        19.29568673909711
+      ],
+      "sample_id": "mexico-earthquake_00000133",
+      "split": "development",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -99.16250050719896,
+        19.28224044147717,
+        -99.1577843199947,
+        19.28672054691287
+      ],
+      "sample_id": "mexico-earthquake_00000147",
+      "split": "development",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -99.19077907233059,
+        19.34771744914564,
+        -99.18605930181965,
+        19.35219752410885
+      ],
+      "sample_id": "mexico-earthquake_00000156",
+      "split": "development",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -85.77195374466004,
+        30.18345601420864,
+        -85.76700585294562,
+        30.18774831952951
+      ],
+      "sample_id": "hurricane-michael_00000488",
+      "split": "validation",
+      "training_annotation_envelope_overlap_ids": [
+        "hurricane-michael_00000484",
+        "hurricane-michael_00000529"
+      ]
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -85.64460059407077,
+        30.17447815990348,
+        -85.64021314816323,
+        30.17823957662713
+      ],
+      "sample_id": "hurricane-michael_00000221",
+      "split": "validation",
+      "training_annotation_envelope_overlap_ids": [
+        "hurricane-michael_00000290"
+      ]
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -85.62898472447586,
+        30.14238547758757,
+        -85.62402532398927,
+        30.14648541095758
+      ],
+      "sample_id": "hurricane-michael_00000023",
+      "split": "validation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -85.66407048842284,
+        30.200515866312,
+        -85.65907583986994,
+        30.20484678016115
+      ],
+      "sample_id": "hurricane-michael_00000132",
+      "split": "validation",
+      "training_annotation_envelope_overlap_ids": [
+        "hurricane-michael_00000035",
+        "hurricane-michael_00000125",
+        "hurricane-michael_00000246"
+      ]
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -85.65887441743155,
+        30.2176884274932,
+        -85.65387323376214,
+        30.22198334619904
+      ],
+      "sample_id": "hurricane-michael_00000164",
+      "split": "validation",
+      "training_annotation_envelope_overlap_ids": [
+        "hurricane-michael_00000172"
+      ]
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -85.64000291471764,
+        30.14862619102163,
+        -85.63500138075744,
+        30.15291251105134
+      ],
+      "sample_id": "hurricane-michael_00000213",
+      "split": "validation",
+      "training_annotation_envelope_overlap_ids": [
+        "hurricane-michael_00000300"
+      ]
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -85.69826629330659,
+        30.21337918668468,
+        -85.69727906515682,
+        30.21518222112169
+      ],
+      "sample_id": "hurricane-michael_00000491",
+      "split": "validation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -85.63450873782624,
+        30.1875536290343,
+        -85.62956010743959,
+        30.19160861243509
+      ],
+      "sample_id": "hurricane-michael_00000055",
+      "split": "validation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -85.63148300409084,
+        30.13812842522566,
+        -85.62901010888247,
+        30.14213452399398
+      ],
+      "sample_id": "hurricane-michael_00000108",
+      "split": "validation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -85.6297417699057,
+        30.17432130219929,
+        -85.62522409365116,
+        30.17832944784715
+      ],
+      "sample_id": "hurricane-michael_00000245",
+      "split": "validation",
+      "training_annotation_envelope_overlap_ids": [
+        "hurricane-michael_00000301"
+      ]
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -85.68384324545553,
+        30.20434045691908,
+        -85.67886185418979,
+        30.20788890266923
+      ],
+      "sample_id": "hurricane-michael_00000448",
+      "split": "validation",
+      "training_annotation_envelope_overlap_ids": [
+        "hurricane-michael_00000442"
+      ]
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -85.62499594349619,
+        30.15705241679225,
+        -85.62005968816783,
+        30.16139912682286
+      ],
+      "sample_id": "hurricane-michael_00000259",
+      "split": "validation",
+      "training_annotation_envelope_overlap_ids": [
+        "hurricane-michael_00000251",
+        "hurricane-michael_00000309",
+        "hurricane-michael_00000315"
+      ]
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -85.69723762422402,
+        30.21346135609085,
+        -85.69472707511483,
+        30.21530126962353
+      ],
+      "sample_id": "hurricane-michael_00000495",
+      "split": "validation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -85.67894055863133,
+        30.19995334058226,
+        -85.67409223704664,
+        30.20422401085051
+      ],
+      "sample_id": "hurricane-michael_00000425",
+      "split": "validation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -85.6593158478585,
+        30.18323886505831,
+        -85.65450079114122,
+        30.18758038257502
+      ],
+      "sample_id": "hurricane-michael_00000117",
+      "split": "validation",
+      "training_annotation_envelope_overlap_ids": [
+        "hurricane-michael_00000234",
+        "hurricane-michael_00000248"
+      ]
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -85.64477257351369,
+        30.15736639515658,
+        -85.6398356612502,
+        30.16160281879378
+      ],
+      "sample_id": "hurricane-michael_00000227",
+      "split": "validation",
+      "training_annotation_envelope_overlap_ids": [
+        "hurricane-michael_00000236",
+        "hurricane-michael_00000302"
+      ]
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -85.66483365639033,
+        30.14975742237377,
+        -85.66475860326406,
+        30.14990204754347
+      ],
+      "sample_id": "hurricane-michael_00000160",
+      "split": "validation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -85.72091342289848,
+        30.19156963069367,
+        -85.71735518230146,
+        30.19330301606573
+      ],
+      "sample_id": "hurricane-michael_00000506",
+      "split": "validation",
+      "training_annotation_envelope_overlap_ids": [
+        "hurricane-michael_00000458"
+      ]
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -85.66470304191397,
+        30.1531780790811,
+        -85.65974833208625,
+        30.15749896150245
+      ],
+      "sample_id": "hurricane-michael_00000280",
+      "split": "validation",
+      "training_annotation_envelope_overlap_ids": [
+        "hurricane-michael_00000275"
+      ]
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -85.66913381356181,
+        30.19243082790487,
+        -85.66414192572684,
+        30.19628957093216
+      ],
+      "sample_id": "hurricane-michael_00000115",
+      "split": "validation",
+      "training_annotation_envelope_overlap_ids": [
+        "hurricane-michael_00000238"
+      ]
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -85.65952336867687,
+        30.17035485234054,
+        -85.6545240921598,
+        30.17467138713003
+      ],
+      "sample_id": "hurricane-michael_00000279",
+      "split": "validation",
+      "training_annotation_envelope_overlap_ids": [
+        "hurricane-michael_00000214"
+      ]
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -85.70748071401664,
+        30.18711875437844,
+        -85.70253323479608,
+        30.19143855740612
+      ],
+      "sample_id": "hurricane-michael_00000469",
+      "split": "validation",
+      "training_annotation_envelope_overlap_ids": [
+        "hurricane-michael_00000473",
+        "hurricane-michael_00000515"
+      ]
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -85.62947517708487,
+        30.24935810530007,
+        -85.62493187837677,
+        30.25329939309445
+      ],
+      "sample_id": "hurricane-michael_00000445",
+      "split": "validation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -85.7125111815366,
+        30.18286929182479,
+        -85.70755134193757,
+        30.18720986941108
+      ],
+      "sample_id": "hurricane-michael_00000513",
+      "split": "validation",
+      "training_annotation_envelope_overlap_ids": [
+        "hurricane-michael_00000511",
+        "hurricane-michael_00000515"
+      ]
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -96.33647469842013,
+        36.1703804493766,
+        -96.33470085609454,
+        36.17263779476804
+      ],
+      "sample_id": "midwest-flooding_00000266",
+      "split": "validation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -96.34491724714417,
+        36.17364461723314,
+        -96.34097781378749,
+        36.17649937381049
+      ],
+      "sample_id": "midwest-flooding_00000307",
+      "split": "validation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -92.34261800326797,
+        34.73757804730977,
+        -92.33789526621638,
+        34.74179916192013
+      ],
+      "sample_id": "midwest-flooding_00000053",
+      "split": "validation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": null,
+      "sample_id": "midwest-flooding_00000136",
+      "split": "validation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -96.37114068865839,
+        36.27722273738799,
+        -96.37029659999334,
+        36.27779449022951
+      ],
+      "sample_id": "midwest-flooding_00000138",
+      "split": "validation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -96.24671203356792,
+        36.14939558397686,
+        -96.24464327760847,
+        36.15246858895139
+      ],
+      "sample_id": "midwest-flooding_00000364",
+      "split": "validation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -96.36506528699093,
+        36.18297142450159,
+        -96.36022831006287,
+        36.18520461457479
+      ],
+      "sample_id": "midwest-flooding_00000305",
+      "split": "validation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": null,
+      "sample_id": "midwest-flooding_00000118",
+      "split": "validation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -92.34276292148404,
+        34.75864181185337,
+        -92.33762958761025,
+        34.76287598969115
+      ],
+      "sample_id": "midwest-flooding_00000046",
+      "split": "validation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -96.2192003098684,
+        36.33859042826425,
+        -96.2169625110228,
+        36.33987418320272
+      ],
+      "sample_id": "midwest-flooding_00000091",
+      "split": "validation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -96.3856359694494,
+        36.10349306074853,
+        -96.38052426955117,
+        36.10728879565607
+      ],
+      "sample_id": "midwest-flooding_00000443",
+      "split": "validation",
+      "training_annotation_envelope_overlap_ids": [
+        "midwest-flooding_00000444"
+      ]
+    },
+    {
+      "annotation_envelope_wgs84": null,
+      "sample_id": "midwest-flooding_00000425",
+      "split": "validation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -96.313801485151,
+        36.07899135950077,
+        -96.31150130935431,
+        36.082817007165
+      ],
+      "sample_id": "midwest-flooding_00000384",
+      "split": "validation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": null,
+      "sample_id": "midwest-flooding_00000375",
+      "split": "validation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -92.31213014810058,
+        34.7584907059174,
+        -92.30701212051771,
+        34.76270304628554
+      ],
+      "sample_id": "midwest-flooding_00000009",
+      "split": "validation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -96.32610287239918,
+        36.12426844707045,
+        -96.32590152647197,
+        36.12455906284013
+      ],
+      "sample_id": "midwest-flooding_00000341",
+      "split": "validation",
+      "training_annotation_envelope_overlap_ids": [
+        "midwest-flooding_00000346"
+      ]
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -96.23225361331329,
+        36.14275551805299,
+        -96.2305502735959,
+        36.14468780176927
+      ],
+      "sample_id": "midwest-flooding_00000349",
+      "split": "validation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": null,
+      "sample_id": "midwest-flooding_00000111",
+      "split": "validation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -96.29784473613952,
+        36.1881928178252,
+        -96.294062315123,
+        36.1912987841839
+      ],
+      "sample_id": "midwest-flooding_00000294",
+      "split": "validation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -96.27205661829416,
+        36.1876717544997,
+        -96.26810652333306,
+        36.19071161801325
+      ],
+      "sample_id": "midwest-flooding_00000306",
+      "split": "validation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -96.38345829155489,
+        36.24625395361812,
+        -96.38321268670265,
+        36.24660122142032
+      ],
+      "sample_id": "midwest-flooding_00000147",
+      "split": "validation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": null,
+      "sample_id": "midwest-flooding_00000101",
+      "split": "validation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -96.21988266481117,
+        36.36331484318095,
+        -96.21554961361375,
+        36.36731730187923
+      ],
+      "sample_id": "midwest-flooding_00000094",
+      "split": "validation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -96.35806936451498,
+        36.21828191490994,
+        -96.35717422205148,
+        36.22001008435375
+      ],
+      "sample_id": "midwest-flooding_00000189",
+      "split": "validation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": null,
+      "sample_id": "socal-fire_00000872",
+      "split": "validation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": null,
+      "sample_id": "socal-fire_00000047",
+      "split": "validation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -118.8861536987196,
+        34.03893325467003,
+        -118.8810532774357,
+        34.04286540612652
+      ],
+      "sample_id": "socal-fire_00000453",
+      "split": "validation",
+      "training_annotation_envelope_overlap_ids": [
+        "socal-fire_00000442",
+        "woolsey-fire_00000568",
+        "woolsey-fire_00000576"
+      ]
+    },
+    {
+      "annotation_envelope_wgs84": null,
+      "sample_id": "socal-fire_00000406",
+      "split": "validation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": null,
+      "sample_id": "socal-fire_00000120",
+      "split": "validation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -118.7737296729949,
+        34.10885202359072,
+        -118.7723923243087,
+        34.10996345882368
+      ],
+      "sample_id": "socal-fire_00000948",
+      "split": "validation",
+      "training_annotation_envelope_overlap_ids": [
+        "socal-fire_00000962",
+        "woolsey-fire_00000375",
+        "woolsey-fire_00000388"
+      ]
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -118.9365765968066,
+        34.08137970689777,
+        -118.9360010434083,
+        34.08150863409727
+      ],
+      "sample_id": "socal-fire_00000561",
+      "split": "validation",
+      "training_annotation_envelope_overlap_ids": [
+        "socal-fire_00000391",
+        "woolsey-fire_00000039",
+        "woolsey-fire_00000248"
+      ]
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -118.8130373994271,
+        34.07425653465859,
+        -118.8110358943011,
+        34.07641693859727
+      ],
+      "sample_id": "socal-fire_00001217",
+      "split": "validation",
+      "training_annotation_envelope_overlap_ids": [
+        "woolsey-fire_00000775"
+      ]
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -118.9357761191514,
+        34.14227141885979,
+        -118.9337402567524,
+        34.14408415984405
+      ],
+      "sample_id": "socal-fire_00000034",
+      "split": "validation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -118.7629514498334,
+        34.14275741466366,
+        -118.7579022966082,
+        34.14398025400792
+      ],
+      "sample_id": "socal-fire_00000595",
+      "split": "validation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": null,
+      "sample_id": "socal-fire_00001332",
+      "split": "validation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": null,
+      "sample_id": "socal-fire_00001336",
+      "split": "validation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": null,
+      "sample_id": "socal-fire_00000836",
+      "split": "validation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -118.8232778700527,
+        34.0821295368868,
+        -118.8194827862031,
+        34.08438145120009
+      ],
+      "sample_id": "socal-fire_00001097",
+      "split": "validation",
+      "training_annotation_envelope_overlap_ids": [
+        "woolsey-fire_00000794"
+      ]
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -118.7889642046613,
+        34.1140084048313,
+        -118.7877464264897,
+        34.11553091538966
+      ],
+      "sample_id": "socal-fire_00000870",
+      "split": "validation",
+      "training_annotation_envelope_overlap_ids": [
+        "woolsey-fire_00000399",
+        "woolsey-fire_00000413"
+      ]
+    },
+    {
+      "annotation_envelope_wgs84": null,
+      "sample_id": "socal-fire_00000210",
+      "split": "validation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": null,
+      "sample_id": "socal-fire_00000100",
+      "split": "validation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -118.7255720547464,
+        34.12646060250528,
+        -118.7208121818414,
+        34.13054065109603
+      ],
+      "sample_id": "socal-fire_00001173",
+      "split": "validation",
+      "training_annotation_envelope_overlap_ids": [
+        "socal-fire_00001162",
+        "socal-fire_00001366"
+      ]
+    },
+    {
+      "annotation_envelope_wgs84": null,
+      "sample_id": "socal-fire_00000159",
+      "split": "validation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": null,
+      "sample_id": "socal-fire_00001212",
+      "split": "validation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -118.8406499558542,
+        34.11095741950178,
+        -118.840612272455,
+        34.11098259841464
+      ],
+      "sample_id": "socal-fire_00000155",
+      "split": "validation",
+      "training_annotation_envelope_overlap_ids": [
+        "woolsey-fire_00000790"
+      ]
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -118.8668753850083,
+        34.09262813273436,
+        -118.8619172150915,
+        34.09393707267149
+      ],
+      "sample_id": "socal-fire_00000134",
+      "split": "validation",
+      "training_annotation_envelope_overlap_ids": [
+        "woolsey-fire_00000056",
+        "woolsey-fire_00000487"
+      ]
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -118.8074239760899,
+        34.06804557082781,
+        -118.8067629178115,
+        34.06878381013367
+      ],
+      "sample_id": "socal-fire_00000869",
+      "split": "validation",
+      "training_annotation_envelope_overlap_ids": [
+        "woolsey-fire_00000635"
+      ]
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -118.8966752692199,
+        34.06879826505342,
+        -118.8939889118098,
+        34.07207569108328
+      ],
+      "sample_id": "socal-fire_00000165",
+      "split": "validation",
+      "training_annotation_envelope_overlap_ids": [
+        "woolsey-fire_00000137"
+      ]
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -77.94272629298008,
+        34.76799117115419,
+        -77.94042511679575,
+        34.7713645507276
+      ],
+      "sample_id": "hurricane-florence_00000463",
+      "split": "confirmation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -78.01301090767653,
+        34.75121275927556,
+        -78.00868144056442,
+        34.75541467511348
+      ],
+      "sample_id": "hurricane-florence_00000383",
+      "split": "confirmation",
+      "training_annotation_envelope_overlap_ids": [
+        "hurricane-florence_00000344"
+      ]
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -77.91853933440639,
+        34.64609412244859,
+        -77.9137712710994,
+        34.64986716754816
+      ],
+      "sample_id": "hurricane-florence_00000258",
+      "split": "confirmation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -77.92514765554496,
+        34.78784149145927,
+        -77.92401663984879,
+        34.78866038428011
+      ],
+      "sample_id": "hurricane-florence_00000487",
+      "split": "confirmation",
+      "training_annotation_envelope_overlap_ids": [
+        "hurricane-florence_00000443"
+      ]
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -77.8473900515755,
+        34.5958510131636,
+        -77.84694125073162,
+        34.59605906215023
+      ],
+      "sample_id": "hurricane-florence_00000130",
+      "split": "confirmation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -77.93428022047878,
+        34.66870718985861,
+        -77.93137105274543,
+        34.67021060005168
+      ],
+      "sample_id": "hurricane-florence_00000207",
+      "split": "confirmation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -77.97178843983404,
+        34.67506158392292,
+        -77.96776634061108,
+        34.67746450265025
+      ],
+      "sample_id": "hurricane-florence_00000280",
+      "split": "confirmation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -78.97936240204498,
+        33.61208704021829,
+        -78.9742204668414,
+        33.61638035007472
+      ],
+      "sample_id": "hurricane-florence_00000017",
+      "split": "confirmation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -77.86122151852193,
+        34.59969108145874,
+        -77.85781601012162,
+        34.60204796399745
+      ],
+      "sample_id": "hurricane-florence_00000134",
+      "split": "confirmation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -77.91510507226079,
+        34.78053867303517,
+        -77.91022027527464,
+        34.78401242961441
+      ],
+      "sample_id": "hurricane-florence_00000439",
+      "split": "confirmation",
+      "training_annotation_envelope_overlap_ids": [
+        "hurricane-florence_00000442",
+        "hurricane-florence_00000485"
+      ]
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -77.94180483042244,
+        34.57042736630673,
+        -77.94073417236028,
+        34.57418019734823
+      ],
+      "sample_id": "hurricane-florence_00000170",
+      "split": "confirmation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": null,
+      "sample_id": "hurricane-florence_00000281",
+      "split": "confirmation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -77.93372731053034,
+        34.54523295639287,
+        -77.9285562356855,
+        34.54946831816376
+      ],
+      "sample_id": "hurricane-florence_00000214",
+      "split": "confirmation",
+      "training_annotation_envelope_overlap_ids": [
+        "hurricane-florence_00000091",
+        "hurricane-florence_00000199",
+        "hurricane-florence_00000217"
+      ]
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -77.90744927469979,
+        34.54317582734626,
+        -77.90712696473676,
+        34.54355148823048
+      ],
+      "sample_id": "hurricane-florence_00000098",
+      "split": "confirmation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -77.93477613826009,
+        34.75055651019564,
+        -77.92958226875349,
+        34.75481610068015
+      ],
+      "sample_id": "hurricane-florence_00000458",
+      "split": "confirmation",
+      "training_annotation_envelope_overlap_ids": [
+        "hurricane-florence_00000405",
+        "hurricane-florence_00000459"
+      ]
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -77.87766331962385,
+        34.60554662269512,
+        -77.87468249597714,
+        34.60967402194218
+      ],
+      "sample_id": "hurricane-florence_00000074",
+      "split": "confirmation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -77.94866220292681,
+        34.73981778192299,
+        -77.94797214443899,
+        34.74000532130665
+      ],
+      "sample_id": "hurricane-florence_00000489",
+      "split": "confirmation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -77.92474023780964,
+        34.75534393541165,
+        -77.9230662521457,
+        34.75904800270089
+      ],
+      "sample_id": "hurricane-florence_00000413",
+      "split": "confirmation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -78.00586130623353,
+        34.69020767784369,
+        -78.00189727066875,
+        34.69260841684316
+      ],
+      "sample_id": "hurricane-florence_00000327",
+      "split": "confirmation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -77.91332926778574,
+        34.63420713351227,
+        -77.90819391727865,
+        34.63782224059376
+      ],
+      "sample_id": "hurricane-florence_00000305",
+      "split": "confirmation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -78.0134204682222,
+        34.7342860397512,
+        -78.00862794466799,
+        34.73849751543156
+      ],
+      "sample_id": "hurricane-florence_00000367",
+      "split": "confirmation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -77.91896594283297,
+        34.78879906607228,
+        -77.91764080108506,
+        34.79053367101559
+      ],
+      "sample_id": "hurricane-florence_00000447",
+      "split": "confirmation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -77.98517175966613,
+        34.69682841358607,
+        -77.98116090441901,
+        34.7004150173753
+      ],
+      "sample_id": "hurricane-florence_00000243",
+      "split": "confirmation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -77.96596464625233,
+        34.64522853420183,
+        -77.9626247226343,
+        34.64917742182802
+      ],
+      "sample_id": "hurricane-florence_00000354",
+      "split": "confirmation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -74.10936622648832,
+        18.56601885622234,
+        -74.10502381217515,
+        18.56995735793323
+      ],
+      "sample_id": "hurricane-matthew_00000220",
+      "split": "confirmation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -74.15953741106658,
+        18.58129607245381,
+        -74.15732378374344,
+        18.58357771245146
+      ],
+      "sample_id": "hurricane-matthew_00000201",
+      "split": "confirmation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -73.76269310559248,
+        18.21846140079228,
+        -73.75798863645346,
+        18.22294561939623
+      ],
+      "sample_id": "hurricane-matthew_00000073",
+      "split": "confirmation",
+      "training_annotation_envelope_overlap_ids": [
+        "hurricane-matthew_00000079"
+      ]
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -73.78793110382118,
+        18.190679804731,
+        -73.785797094856,
+        18.19336284131513
+      ],
+      "sample_id": "hurricane-matthew_00000055",
+      "split": "confirmation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -74.13760698596482,
+        18.63599531816021,
+        -74.13483059827455,
+        18.63946392338197
+      ],
+      "sample_id": "hurricane-matthew_00000280",
+      "split": "confirmation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -73.53632783786173,
+        18.26673118306186,
+        -73.53198303386789,
+        18.26822901546169
+      ],
+      "sample_id": "hurricane-matthew_00000371",
+      "split": "confirmation",
+      "training_annotation_envelope_overlap_ids": [
+        "hurricane-matthew_00000311"
+      ]
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -74.1595260566752,
+        18.55698170740765,
+        -74.15650967979406,
+        18.56042932300259
+      ],
+      "sample_id": "hurricane-matthew_00000191",
+      "split": "confirmation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -73.76740194255393,
+        18.21848052234636,
+        -73.76267635560883,
+        18.22299519671276
+      ],
+      "sample_id": "hurricane-matthew_00000068",
+      "split": "confirmation",
+      "training_annotation_envelope_overlap_ids": [
+        "hurricane-matthew_00000066"
+      ]
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -74.12140490866109,
+        18.65350734445967,
+        -74.11946040558716,
+        18.65400784216702
+      ],
+      "sample_id": "hurricane-matthew_00000292",
+      "split": "confirmation",
+      "training_annotation_envelope_overlap_ids": [
+        "hurricane-matthew_00000368"
+      ]
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -74.13294402927056,
+        18.54776578552475,
+        -74.1283897171903,
+        18.55190835500562
+      ],
+      "sample_id": "hurricane-matthew_00000254",
+      "split": "confirmation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -73.77206320802863,
+        18.22300668507279,
+        -73.76734663056457,
+        18.22749172010883
+      ],
+      "sample_id": "hurricane-matthew_00000020",
+      "split": "confirmation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -74.12824451163355,
+        18.5526297660616,
+        -74.12363468629873,
+        18.55665101309972
+      ],
+      "sample_id": "hurricane-matthew_00000344",
+      "split": "confirmation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -73.78629394483599,
+        18.2017332439967,
+        -73.78467050624712,
+        18.20503836174504
+      ],
+      "sample_id": "hurricane-matthew_00000091",
+      "split": "confirmation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -73.7438099651993,
+        18.22283274817532,
+        -73.74034312114426,
+        18.22649971687975
+      ],
+      "sample_id": "hurricane-matthew_00000036",
+      "split": "confirmation",
+      "training_annotation_envelope_overlap_ids": [
+        "hurricane-matthew_00000094"
+      ]
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -74.15170124618894,
+        18.57485806069949,
+        -74.14699378948194,
+        18.57914594812921
+      ],
+      "sample_id": "hurricane-matthew_00000157",
+      "split": "confirmation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -74.12336090475826,
+        18.59272699489275,
+        -74.12264745077464,
+        18.59625254042288
+      ],
+      "sample_id": "hurricane-matthew_00000141",
+      "split": "confirmation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -73.76276007058678,
+        18.20945876817439,
+        -73.75803692687325,
+        18.21397241057283
+      ],
+      "sample_id": "hurricane-matthew_00000087",
+      "split": "confirmation",
+      "training_annotation_envelope_overlap_ids": [
+        "hurricane-matthew_00000089"
+      ]
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -74.13755053084519,
+        18.57936611238862,
+        -74.13285436506298,
+        18.58358027640487
+      ],
+      "sample_id": "hurricane-matthew_00000224",
+      "split": "confirmation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -73.75811846643387,
+        18.20043724502433,
+        -73.75340958518379,
+        18.2049576782332
+      ],
+      "sample_id": "hurricane-matthew_00000106",
+      "split": "confirmation",
+      "training_annotation_envelope_overlap_ids": [
+        "hurricane-matthew_00000044"
+      ]
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -74.15061455386711,
+        18.63347567667112,
+        -74.14720447187356,
+        18.63524297684073
+      ],
+      "sample_id": "hurricane-matthew_00000323",
+      "split": "confirmation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -74.15978540980555,
+        18.57043687622166,
+        -74.15796994130541,
+        18.57475351176923
+      ],
+      "sample_id": "hurricane-matthew_00000203",
+      "split": "confirmation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -74.11414677844608,
+        18.63999891740643,
+        -74.11154328093632,
+        18.6444913888544
+      ],
+      "sample_id": "hurricane-matthew_00000351",
+      "split": "confirmation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -73.77678439590025,
+        18.218539612072,
+        -73.77209670629819,
+        18.22303014278304
+      ],
+      "sample_id": "hurricane-matthew_00000061",
+      "split": "confirmation",
+      "training_annotation_envelope_overlap_ids": [
+        "hurricane-matthew_00000066"
+      ]
+    },
+    {
+      "annotation_envelope_wgs84": [
+        -74.12813910543795,
+        18.55681388619743,
+        -74.12361235732324,
+        18.5611306665975
+      ],
+      "sample_id": "hurricane-matthew_00000255",
+      "split": "confirmation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        119.8223890202909,
+        -0.8509335875178023,
+        119.8241953433743,
+        -0.8468699140283787
+      ],
+      "sample_id": "palu-tsunami_00000149",
+      "split": "confirmation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        119.8498326885482,
+        -0.8926920196661428,
+        119.8544106640044,
+        -0.8880829058074003
+      ],
+      "sample_id": "palu-tsunami_00000078",
+      "split": "confirmation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        119.910244915148,
+        -0.989715220426155,
+        119.9129762298388,
+        -0.9858953242592313
+      ],
+      "sample_id": "palu-tsunami_00000186",
+      "split": "confirmation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        119.7994793777031,
+        -0.8094057456577907,
+        119.8040318762374,
+        -0.8055005617983447
+      ],
+      "sample_id": "palu-tsunami_00000104",
+      "split": "confirmation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        119.8361513154706,
+        -0.8784744715034958,
+        119.8367104449667,
+        -0.876078822092913
+      ],
+      "sample_id": "palu-tsunami_00000046",
+      "split": "confirmation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        119.8269782159959,
+        -0.8647625479410914,
+        119.8307923376927,
+        -0.8601565505477862
+      ],
+      "sample_id": "palu-tsunami_00000085",
+      "split": "confirmation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        119.879209139951,
+        -0.8552406575897639,
+        119.8819338565796,
+        -0.8508949614424373
+      ],
+      "sample_id": "palu-tsunami_00000130",
+      "split": "confirmation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        119.8819336284391,
+        -0.8508892508827347,
+        119.8828126957587,
+        -0.8462832142230196
+      ],
+      "sample_id": "palu-tsunami_00000080",
+      "split": "confirmation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        119.8178076821763,
+        -0.8509352773732214,
+        119.8223847225539,
+        -0.8463295041197425
+      ],
+      "sample_id": "palu-tsunami_00000144",
+      "split": "confirmation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        119.8773203156354,
+        -0.804785246557168,
+        119.8818569467975,
+        -0.8003408869375119
+      ],
+      "sample_id": "palu-tsunami_00000029",
+      "split": "confirmation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        119.8819305834254,
+        -0.8462790878626588,
+        119.88281416901,
+        -0.8416725707352444
+      ],
+      "sample_id": "palu-tsunami_00000116",
+      "split": "confirmation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        119.8727277719307,
+        -0.8834513688299568,
+        119.8773054946652,
+        -0.8789066438810357
+      ],
+      "sample_id": "palu-tsunami_00000095",
+      "split": "confirmation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        119.9056991920401,
+        -0.9434355012426254,
+        119.9102764330683,
+        -0.9388273590868693
+      ],
+      "sample_id": "palu-tsunami_00000180",
+      "split": "confirmation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        119.8965387844153,
+        -0.9434436981859954,
+        119.9011148491218,
+        -0.9388337134679485
+      ],
+      "sample_id": "palu-tsunami_00000176",
+      "split": "confirmation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        119.8696950327923,
+        -0.8834551119145414,
+        119.872725079307,
+        -0.8789063217868176
+      ],
+      "sample_id": "palu-tsunami_00000093",
+      "split": "confirmation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        119.8819270874299,
+        -0.8416683458692855,
+        119.8828141779586,
+        -0.8370619944682326
+      ],
+      "sample_id": "palu-tsunami_00000075",
+      "split": "confirmation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        119.8727954713741,
+        -0.8785609353722967,
+        119.8773715923838,
+        -0.8739513976981006
+      ],
+      "sample_id": "palu-tsunami_00000059",
+      "split": "confirmation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        119.8828180896311,
+        -0.8140659869937817,
+        119.8873450074267,
+        -0.8097607282024519
+      ],
+      "sample_id": "palu-tsunami_00000162",
+      "split": "confirmation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        119.896535005029,
+        -0.9388311897733989,
+        119.9011119938237,
+        -0.9342228354250436
+      ],
+      "sample_id": "palu-tsunami_00000159",
+      "split": "confirmation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        119.8819114681591,
+        -0.8182009770979729,
+        119.8828122822377,
+        -0.8144967026312723
+      ],
+      "sample_id": "palu-tsunami_00000055",
+      "split": "confirmation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        119.8550527097482,
+        -0.7307486535152209,
+        119.8588275547936,
+        -0.72767710386502
+      ],
+      "sample_id": "palu-tsunami_00000018",
+      "split": "confirmation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        119.882817169289,
+        -0.8509543480083395,
+        119.887371627085,
+        -0.8463458607523331
+      ],
+      "sample_id": "palu-tsunami_00000172",
+      "split": "confirmation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        119.8315071569457,
+        -0.8880954200805257,
+        119.8360838043894,
+        -0.8834865738121946
+      ],
+      "sample_id": "palu-tsunami_00000105",
+      "split": "confirmation",
+      "training_annotation_envelope_overlap_ids": []
+    },
+    {
+      "annotation_envelope_wgs84": [
+        119.8822796231514,
+        -0.8278358537444825,
+        119.8828143382,
+        -0.82384315575138
+      ],
+      "sample_id": "palu-tsunami_00000052",
+      "split": "confirmation",
+      "training_annotation_envelope_overlap_ids": []
+    }
+  ],
+  "protected_ranges": [
+    {
+      "bytes": 85048,
+      "field": "ml:damage",
+      "offset": 32294925915
+    }
+  ],
+  "read_receipts": [
+    {
+      "bytes": 30,
+      "cache_hit": true,
+      "offset": 0,
+      "sha256": "7b813800398698a075a15981028089b28f2563c70f5a82f581c36c86a347adac"
+    },
+    {
+      "bytes": 9,
+      "cache_hit": true,
+      "offset": 30,
+      "sha256": "c48de6429d7104358add5bccc1f19ececbb95f196ebfc944d4fd181d3e4f90e7"
+    },
+    {
+      "bytes": 128,
+      "cache_hit": true,
+      "offset": 51,
+      "sha256": "88016aa8b5788f31b3e1e890b20817acbdfce9f24fe00a9a7aeba2f7651a2247"
+    },
+    {
+      "bytes": 65536,
+      "cache_hit": true,
+      "offset": 32403120720,
+      "sha256": "6fb7eeef8a5df9d7db48c9d6007a230d80095e07de381daa202a74d01a18a79e"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": false,
+      "offset": 32352263891,
+      "sha256": "930851a860e82a294b3a54e05dbfc37a5d321a620dffc6d5ed82d14b5c88b835"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": false,
+      "offset": 32353312467,
+      "sha256": "2ec5783dbf528bcb4fd898b6e283848a703939e8317dd8f144333a2cef0749a8"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": false,
+      "offset": 32354361043,
+      "sha256": "e730c5666e856b0e34c98bb955608e7120c3af40dfdebf080f8ea321a1b86e57"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": false,
+      "offset": 32355409619,
+      "sha256": "665fdb68b8c159abd79230ac9817b7966a16b8277143c06dd6aed79ce852427e"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": false,
+      "offset": 32356458195,
+      "sha256": "062534a57102b12cd5896ed887c10f564b48dbc07d2af6d639baea0ef328bd65"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": false,
+      "offset": 32357506771,
+      "sha256": "2743d53c1772bb6a491779a8862ef90ac258b6be315c805f8e63597f9ce5d13f"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": false,
+      "offset": 32358555347,
+      "sha256": "22bd5f179e136a3d93a2cb2bbcbee641a7da57f4c05e73bc70b0d4a101673ec1"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": false,
+      "offset": 32359603923,
+      "sha256": "f440a546e0413a6583b9516e01eb18a72600cf033dd97fd03837552c2566223c"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": false,
+      "offset": 32360652499,
+      "sha256": "f9a64e83bfb5bc4ade3aa49bc7969f17dbd56b40e0409433b511b45b1876ae8a"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": false,
+      "offset": 32361701075,
+      "sha256": "bbf1a63173cbd1fc82699ad5f583425698f7dc634e19de1902e487e7607a2a05"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": false,
+      "offset": 32362749651,
+      "sha256": "802d47c85bc0747b15ab3bde59442f33f5e230e790b304ea0df3cad44f64c640"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": false,
+      "offset": 32363798227,
+      "sha256": "5a94fff1bb48911904f2d69a15be7302d7290c0de74e95176c4d92f684644bfe"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": false,
+      "offset": 32364846803,
+      "sha256": "e8a3bbd4fff4d36835ea8138db83e4c3e9230deb08c03d663b099a8ba336c7ea"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": false,
+      "offset": 32365895379,
+      "sha256": "1d4615f63b7a4d0c254f0547bb4df6b7fa7b2408f3a4d2c219e027ea1d0f97fe"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": false,
+      "offset": 32366943955,
+      "sha256": "5e7a0d2429103c4cabc077d844c76dcdc082590736706a4d9eb1df417f8fa595"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": false,
+      "offset": 32367992531,
+      "sha256": "c730449435a17df9494c0770ff943299e390c373f2a23324c2f6b471e83d2406"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": false,
+      "offset": 32369041107,
+      "sha256": "a6db543660f15f10f671a73d1783279a486a713b14eebeb0a01836b2fbcf93b2"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": false,
+      "offset": 32370089683,
+      "sha256": "9655897d5d9bfa13b1c4bb0dac92a0bdbc80069ee9225d4f688bb5f780164203"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": false,
+      "offset": 32371138259,
+      "sha256": "6560a34760e6507efbbc8cddbadf51026fc0840baffd3bef7507020810aa86b9"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": false,
+      "offset": 32372186835,
+      "sha256": "94e4ae94fed3b96670f04a06de48b6ba3cdb8051916c191f41748c73c1c27d82"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": false,
+      "offset": 32373235411,
+      "sha256": "2a5ac4041f4c9c04bea94c00bf73bd4c26095785daa1b345a1d13445e75b604d"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": false,
+      "offset": 32374283987,
+      "sha256": "af4ad6a34bdebcc932d45042ffeb32237dc70814106af00725bad88d067d78d6"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": false,
+      "offset": 32375332563,
+      "sha256": "19789f20b1cd458a13a6cbf8c5b9363ca2bfd26c50c86391db3a69c14eab2f5f"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": false,
+      "offset": 32376381139,
+      "sha256": "654e3fc66b5abcd2e8eb873e9a8596b20222010d383cc1214fc1af730d34eab9"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": false,
+      "offset": 32377429715,
+      "sha256": "58cec0b6f3d6530500e03657f92c257785ac945a2dcdc2a94f8236848d062b73"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": false,
+      "offset": 32378478291,
+      "sha256": "ad5f6ed62d510d439999d6bb53715854ea832d29521a37f465d37cb4a7374dae"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": false,
+      "offset": 32379526867,
+      "sha256": "924e1cee9ffdebdd3de7719e90e9a227c58e92cbfc129c33c2a7065d35966d11"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": false,
+      "offset": 32380575443,
+      "sha256": "3998338fa8474993579c5c366107075e4ddf68e3f18b29247dd5cf6f11aeab0c"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": false,
+      "offset": 32381624019,
+      "sha256": "62083ee317053d88c1ec9128b9eb10b2a13e02b9571d8040608d087a7c840c96"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": false,
+      "offset": 32382672595,
+      "sha256": "15943a3cd46c7e2306d2f96fe5165896169ae3a538fe7b895200eb83f6285526"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": false,
+      "offset": 32383721171,
+      "sha256": "346fd9682aeadb6d97eefdd075ab6b9af22e2152c965a51bf3df5f3ca17cc804"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": false,
+      "offset": 32384769747,
+      "sha256": "8c18685485b21d60398714c2f60b218a012daf1e096affd9f74e3827ab683e1e"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": false,
+      "offset": 32385818323,
+      "sha256": "c2ad9297d4940e32776d829b4711d505bddc1239dbb65d28e6f56284c29a21a6"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": false,
+      "offset": 32386866899,
+      "sha256": "6a83c532084c7b268fa3b5a8150c7c2e63c966078c86c0862fde58ab12091c68"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": false,
+      "offset": 32387915475,
+      "sha256": "5a1de29e4c1a80b48b622bbbb909a2072183a0dc0c776d6e959061004db03f96"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": false,
+      "offset": 32388964051,
+      "sha256": "830d503a8132c8cddc7c110330415711455f53bb9d6224b3620d180f2a09733e"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": false,
+      "offset": 32390012627,
+      "sha256": "aa5e57f2da8a7038843a728ff17bc8ecf76663db3ab0710e9e9586e44efaf310"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": false,
+      "offset": 32391061203,
+      "sha256": "e3875a76647b4da38cc9f4451571b174abdf8789ad987efafd60cf138e92a39c"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": false,
+      "offset": 32392109779,
+      "sha256": "f10a259f493301655eccab31ba8ecde67d038faf4548b3900d5b9981aebcf2f4"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": false,
+      "offset": 32393158355,
+      "sha256": "9ad8f8dff109bdb141a07cff836048284bc28088dcd07bc6af8f702c277ac221"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": false,
+      "offset": 32394206931,
+      "sha256": "47726adf65b06405d768c138092876db59d3044316badb0ca66aaa64b839bea3"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": false,
+      "offset": 32395255507,
+      "sha256": "d72e7754f5908dd33be2597c553f99929fc3adad23ed7322beec9756c8d34b27"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": false,
+      "offset": 32396304083,
+      "sha256": "73a66d5f089ef4f11e8ad396d48b0aa456a554dfb8cf08b2058a9c87e2c10dff"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": false,
+      "offset": 32397352659,
+      "sha256": "6b6a083ccd654ec001c96365d49b4b18a369c270d535b5d8aa09a1b127dc1910"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": false,
+      "offset": 32398401235,
+      "sha256": "565685bfedea2a9b6662590d39e84d92418070d39089d31468dddea3fbaca85b"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": false,
+      "offset": 32399449811,
+      "sha256": "107e6b6518ce7aa448c836008cd6a64bf8ed1f84ce423ccdeb82c70750ed13ea"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": false,
+      "offset": 32400498387,
+      "sha256": "22897e0b342628f567a0844e680411db0c8c9c69946ffff7b0870e9c547812ac"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": false,
+      "offset": 32401546963,
+      "sha256": "f0562f3d9248a6ad03657ef93e4ca062967573f3262d787de832b6fbb9a57d86"
+    },
+    {
+      "bytes": 82928,
+      "cache_hit": false,
+      "offset": 32402595539,
+      "sha256": "00a064acf26db85ab795db90c878f65c53775a69ff43db1c0b750b50b535d509"
+    },
+    {
+      "bytes": 366020,
+      "cache_hit": false,
+      "offset": 32402678467,
+      "sha256": "b30a85eeae162159ae4a44aeb95e09a9552e0e393c00a88211f742fd9bfc3e5a"
+    }
+  ],
+  "runner_sha256": "a09130de0449356460bcfd6e5055ad89939601ffeb64d15dddeb8baf11438a33",
+  "selected_annotation_envelope_overlap_pairs": [
+    [
+      "mexico-earthquake_00000014",
+      "mexico-earthquake_00000081"
+    ],
+    [
+      "hurricane-matthew_00000073",
+      "hurricane-matthew_00000068"
+    ]
+  ],
+  "source_training_id_count": 6177,
+  "stage": "ANNOTATION_ENVELOPE_SCREEN_ONLY",
+  "whole_216_cohort_admitted": false
+}

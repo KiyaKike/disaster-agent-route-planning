@@ -1,0 +1,40 @@
+/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/.venv_inference/lib/python3.12/site-packages/albumentations/check_version.py:147: UserWarning: Error fetching version info <urlopen error _ssl.c:993: The handshake operation timed out>
+  data = fetch_version_info()
+/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/.venv_inference/lib/python3.12/site-packages/torch/amp/autocast_mode.py:270: UserWarning: User provided device_type of 'cuda', but CUDA is not available. Disabling
+  warnings.warn(
+{"scene": "EARTHQUAKE-TURKEY_000943", "scenes_complete": 1, "completed_or_reused_calls": 23, "device": "mps"}
+{"scene": "EARTHQUAKE-TURKEY_001258", "scenes_complete": 2, "completed_or_reused_calls": 44, "device": "mps"}
+{"scene": "EARTHQUAKE-TURKEY_003096", "scenes_complete": 3, "completed_or_reused_calls": 65, "device": "mps"}
+{"scene": "EARTHQUAKE-TURKEY_006691", "scenes_complete": 4, "completed_or_reused_calls": 86, "device": "mps"}
+{"scene": "EARTHQUAKE-TURKEY_008609", "scenes_complete": 5, "completed_or_reused_calls": 107, "device": "mps"}
+{"scene": "EARTHQUAKE-TURKEY_008873", "scenes_complete": 6, "completed_or_reused_calls": 128, "device": "mps"}
+{"scene": "EARTHQUAKE-TURKEY_009379", "scenes_complete": 7, "completed_or_reused_calls": 149, "device": "mps"}
+{"scene": "EARTHQUAKE-TURKEY_010027", "scenes_complete": 8, "completed_or_reused_calls": 170, "device": "mps"}
+{"scene": "EARTHQUAKE-TURKEY_013074", "scenes_complete": 9, "completed_or_reused_calls": 191, "device": "mps"}
+{"scene": "EARTHQUAKE-TURKEY_014265", "scenes_complete": 10, "completed_or_reused_calls": 212, "device": "mps"}
+{"scene": "EARTHQUAKE-TURKEY_015918", "scenes_complete": 11, "completed_or_reused_calls": 233, "device": "mps"}
+{"scene": "EARTHQUAKE-TURKEY_017525", "scenes_complete": 12, "completed_or_reused_calls": 254, "device": "mps"}
+{"scene": "PAKISTAN-FLOODING_001282", "scenes_complete": 13, "completed_or_reused_calls": 275, "device": "mps"}
+{"scene": "PAKISTAN-FLOODING_003721", "scenes_complete": 14, "completed_or_reused_calls": 296, "device": "mps"}
+{"scene": "PAKISTAN-FLOODING_005310", "scenes_complete": 15, "completed_or_reused_calls": 317, "device": "mps"}
+{"scene": "PAKISTAN-FLOODING_005905", "scenes_complete": 16, "completed_or_reused_calls": 338, "device": "mps"}
+{"scene": "PAKISTAN-FLOODING_010048", "scenes_complete": 17, "completed_or_reused_calls": 359, "device": "mps"}
+{"scene": "PAKISTAN-FLOODING_012131", "scenes_complete": 18, "completed_or_reused_calls": 380, "device": "mps"}
+{"scene": "PAKISTAN-FLOODING_013076", "scenes_complete": 19, "completed_or_reused_calls": 401, "device": "mps"}
+{"scene": "PAKISTAN-FLOODING_013624", "scenes_complete": 20, "completed_or_reused_calls": 422, "device": "mps"}
+{"scene": "PAKISTAN-FLOODING_015052", "scenes_complete": 21, "completed_or_reused_calls": 443, "device": "mps"}
+{"scene": "PAKISTAN-FLOODING_015713", "scenes_complete": 22, "completed_or_reused_calls": 464, "device": "mps"}
+{"scene": "PAKISTAN-FLOODING_017185", "scenes_complete": 23, "completed_or_reused_calls": 485, "device": "mps"}
+{"scene": "PAKISTAN-FLOODING_017962", "scenes_complete": 24, "completed_or_reused_calls": 506, "device": "mps"}
+{"scene": "TEXAS-TORNADOES_000403", "scenes_complete": 25, "completed_or_reused_calls": 527, "device": "mps"}
+{"scene": "TEXAS-TORNADOES_001665", "scenes_complete": 26, "completed_or_reused_calls": 548, "device": "mps"}
+{"scene": "TEXAS-TORNADOES_002028", "scenes_complete": 27, "completed_or_reused_calls": 569, "device": "mps"}
+{"scene": "TEXAS-TORNADOES_004617", "scenes_complete": 28, "completed_or_reused_calls": 590, "device": "mps"}
+{"scene": "TEXAS-TORNADOES_005210", "scenes_complete": 29, "completed_or_reused_calls": 611, "device": "mps"}
+{"scene": "TEXAS-TORNADOES_005722", "scenes_complete": 30, "completed_or_reused_calls": 632, "device": "mps"}
+{"scene": "TEXAS-TORNADOES_007034", "scenes_complete": 31, "completed_or_reused_calls": 653, "device": "mps"}
+{"scene": "TEXAS-TORNADOES_009474", "scenes_complete": 32, "completed_or_reused_calls": 674, "device": "mps"}
+{"scene": "TEXAS-TORNADOES_009557", "scenes_complete": 33, "completed_or_reused_calls": 695, "device": "mps"}
+{"scene": "TEXAS-TORNADOES_012106", "scenes_complete": 34, "completed_or_reused_calls": 716, "device": "mps"}
+{"scene": "TEXAS-TORNADOES_012926", "scenes_complete": 35, "completed_or_reused_calls": 737, "device": "mps"}
+{"scene": "TEXAS-TORNADOES_014048", "scenes_complete": 36, "completed_or_reused_calls": 758, "device": "mps"}

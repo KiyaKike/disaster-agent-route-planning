@@ -1,0 +1,50 @@
+[
+  {
+    "event": "hurricane-harvey",
+    "interface_probe": true,
+    "sample_id": "hurricane-harvey_00000363",
+    "selection_hash": "0664cb2a31062289a4265385304da8cf301ef7211ad9da0c9a0817f2ee71cfb9",
+    "selection_rank": 1,
+    "split": "development"
+  },
+  {
+    "event": "hurricane-harvey",
+    "interface_probe": true,
+    "sample_id": "hurricane-harvey_00000074",
+    "selection_hash": "077e7feae34d53070f6ead667080c57842f55b06115707d3d8b72601a91c8833",
+    "selection_rank": 2,
+    "split": "development"
+  },
+  {
+    "event": "santa-rosa-wildfire",
+    "interface_probe": true,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "selection_hash": "02b08a426d39b952f1543fbfad078f6e863c3b94a8d109f4ace95c5ba2b88e5a",
+    "selection_rank": 1,
+    "split": "development"
+  },
+  {
+    "event": "santa-rosa-wildfire",
+    "interface_probe": true,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "selection_hash": "047e3e75912e1b44e63097785f33badf552f1951a9f4f3352bf979d95871211d",
+    "selection_rank": 2,
+    "split": "development"
+  },
+  {
+    "event": "mexico-earthquake",
+    "interface_probe": true,
+    "sample_id": "mexico-earthquake_00000145",
+    "selection_hash": "003a1855036f902c0d60ddec523abbdbd0556beeaaf60bb3a2781a63abefc526",
+    "selection_rank": 1,
+    "split": "development"
+  },
+  {
+    "event": "mexico-earthquake",
+    "interface_probe": true,
+    "sample_id": "mexico-earthquake_00000054",
+    "selection_hash": "004179de0c067b67fe7fd460711e977cc11865e2b474d8feff5a5083d77933ed",
+    "selection_rank": 2,
+    "split": "development"
+  }
+]

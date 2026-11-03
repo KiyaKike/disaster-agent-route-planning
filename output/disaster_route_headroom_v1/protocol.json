@@ -1,0 +1,41 @@
+{
+  "budgets_s_proxy": [
+    120,
+    240,
+    360
+  ],
+  "client_date": "2026-11-02",
+  "continuation_rule": "If hindsight gain exists,check actual observable signal usefulness next. Do not infer positive online-information value from hindsight gap alone.",
+  "cost": "20proxy units per grid width+20per observed tile+2fixed planning units(pre1+post1);closed return charged.",
+  "exact_solver": "Held-Karp minimum closed distance for every one of65536subsets;choose reward-maximizing feasible subset. Ties shortest distance then lowest mask. Exact under this fixed additive16-node model.",
+  "geometry": "Unchanged4x4image grid,16native256tiles,home16bottom-middle;no physical-flight claim.",
+  "gpu_rental": false,
+  "inputs_sha256": {
+    "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_route_real_xbd36_v1/completion_receipt.json": "936fbb040f21a4089df20eb982e2666c6ea26ee41949122507c237979a8e7c7e",
+    "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_route_real_xbd36_v1/metrics.json": "82fa4fb5f39ebd4e767b9e926392b07fae40831ddfdc3df49520dc07a132a4d5",
+    "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_route_real_xbd36_v1/private_tile_scores.json": "4113ed32d70d721a5f20a8b4a21b75956fe64969f68e7c179e8a29d89f4819f6",
+    "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_route_real_xbd36_v1/protocol.json": "4e2fac123cb50c262c2bb74a2549452019aaae2567c6f5b774723f73f61516d1",
+    "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_route_real_xbd36_v1/public_features.json": "562c1ff2a15a931605dd93d550f915a74efb9f293f3221e3b115e6dc138bbeb2",
+    "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_route_real_xbd36_v1/routes.json": "6cb161ceb05a2d24f54485fd3ec233aa007a6e2b6d744a3792790564ef8f61d7",
+    "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_route/real_xbd_route_core.py": "5b3a06c4a62e145afb22ff2620ad8a9741c7f57be7d5d64b7e0013c06e9f3456"
+  },
+  "interpretation": "Oracle headroom establishes what is possible with complete hindsight,not how much online observation can attain. Public-utility optimality does not imply reference-score optimality. No claimed causal decomposition or new method.",
+  "new_independent_confirmation": false,
+  "new_model_calls": 0,
+  "new_training": false,
+  "primary_budget_s_proxy": 240,
+  "routes": {
+    "detector_tp_oracle": "Maximize actual fixed-detector TP pixels in visited tiles;perfect knowledge of predictions+reference,evaluator only.",
+    "public_exact": "Maximize unchanged post_utility;no labels or unseen predictions. Engineering stronger static control.",
+    "reference_coverage_oracle": "Maximize all severe reference pixels in visited disjoint tiles;perfect knowledge of published labels,evaluator only."
+  },
+  "selection": "All36 original real-route development cases,three events12each;no outcome-based filtering or retuning.",
+  "sources_sha256": {
+    "route_headroom_core.py": "857455b30f272e132ca9c1c8e6fec4d6964d2b31d8e42f499132df4420448347",
+    "run_route_headroom.py": "c9dfa519ef3b13127b7938bb0f448ac85565ec96eece18e7c70e37b8fd9f35d4",
+    "test_route_headroom.py": "407afc949454c4639b3e552e8d4fc89dfac517902a24f1c55be0230bb863a85a"
+  },
+  "stage": "DECISIVE_HEADROOM_DIAGNOSTIC_ON_REUSED36",
+  "timing": "Keep prior synthetic fixed solve charge2 for comparability. Catalogue actual wall time reported separately,shared across cases;not measured on-board runtime or proof of real-time operation.",
+  "zero_cases": "All retained;recall null if no reference;zero model opportunity kept as zero when reference exists."
+}

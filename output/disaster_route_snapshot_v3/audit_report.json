@@ -1,0 +1,16 @@
+{
+  "boundary": "Interface-level public/private separation;no claim of malicious-code sandboxing.",
+  "branches_checked": 1620,
+  "budget_violations": 0,
+  "condition_means_checked": 162,
+  "continue_parent_reproductions": 540,
+  "history_steps_replayed_including_shared_prefixes": 64973,
+  "original_outputs_and_frozen_sources_unchanged": true,
+  "paired_comparisons_checked": 162,
+  "planning_events_replayed_including_shared_prefixes": 3240,
+  "prefix_recharged_or_reobserved": 0,
+  "public_private_snapshots_checked": 540,
+  "replay": "Timing,belief,observations,rewards and summaries independently reconstructed. Planner choices replayed using unchanged V2 solver and independently rebuilt inputs.",
+  "status": "PASS",
+  "unique_parent_episodes": 180
+}

@@ -1,0 +1,433 @@
+{
+  "development_fit": {
+    "fit_ids": [
+      "hurricane-harvey_00000363",
+      "hurricane-harvey_00000074",
+      "hurricane-harvey_00000403",
+      "hurricane-harvey_00000121",
+      "hurricane-harvey_00000293",
+      "hurricane-harvey_00000065",
+      "hurricane-harvey_00000343",
+      "hurricane-harvey_00000386",
+      "hurricane-harvey_00000421",
+      "hurricane-harvey_00000219",
+      "hurricane-harvey_00000372",
+      "hurricane-harvey_00000459",
+      "hurricane-harvey_00000193",
+      "hurricane-harvey_00000311",
+      "hurricane-harvey_00000404",
+      "hurricane-harvey_00000013",
+      "hurricane-harvey_00000279",
+      "hurricane-harvey_00000487",
+      "hurricane-harvey_00000201",
+      "hurricane-harvey_00000014",
+      "hurricane-harvey_00000125",
+      "hurricane-harvey_00000334",
+      "hurricane-harvey_00000447",
+      "hurricane-harvey_00000236",
+      "santa-rosa-wildfire_00000013",
+      "santa-rosa-wildfire_00000266",
+      "santa-rosa-wildfire_00000278",
+      "santa-rosa-wildfire_00000010",
+      "santa-rosa-wildfire_00000029",
+      "santa-rosa-wildfire_00000112",
+      "santa-rosa-wildfire_00000255",
+      "santa-rosa-wildfire_00000342",
+      "santa-rosa-wildfire_00000263",
+      "santa-rosa-wildfire_00000054",
+      "santa-rosa-wildfire_00000122",
+      "santa-rosa-wildfire_00000232",
+      "santa-rosa-wildfire_00000160",
+      "santa-rosa-wildfire_00000194",
+      "santa-rosa-wildfire_00000108",
+      "santa-rosa-wildfire_00000227",
+      "santa-rosa-wildfire_00000062",
+      "santa-rosa-wildfire_00000126",
+      "santa-rosa-wildfire_00000115",
+      "santa-rosa-wildfire_00000193",
+      "santa-rosa-wildfire_00000352",
+      "santa-rosa-wildfire_00000008",
+      "santa-rosa-wildfire_00000188",
+      "santa-rosa-wildfire_00000025",
+      "mexico-earthquake_00000145",
+      "mexico-earthquake_00000054",
+      "mexico-earthquake_00000036",
+      "mexico-earthquake_00000116",
+      "mexico-earthquake_00000130",
+      "mexico-earthquake_00000175",
+      "mexico-earthquake_00000134",
+      "mexico-earthquake_00000077",
+      "mexico-earthquake_00000056",
+      "mexico-earthquake_00000071",
+      "mexico-earthquake_00000162",
+      "mexico-earthquake_00000170",
+      "mexico-earthquake_00000123",
+      "mexico-earthquake_00000060",
+      "mexico-earthquake_00000014",
+      "mexico-earthquake_00000099",
+      "mexico-earthquake_00000137",
+      "mexico-earthquake_00000149",
+      "mexico-earthquake_00000081",
+      "mexico-earthquake_00000038",
+      "mexico-earthquake_00000045",
+      "mexico-earthquake_00000133",
+      "mexico-earthquake_00000147",
+      "mexico-earthquake_00000156"
+    ],
+    "modes": {
+      "blurred": {
+        "block_boundaries": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "original": [
+          0.004691395560960778,
+          0.040555161621595184,
+          0.0859076101081287,
+          0.06602861270104139
+        ],
+        "projected": [
+          0.004691395560960778,
+          0.040555161621595184,
+          0.07596811140458504,
+          0.07596811140458504
+        ],
+        "weighted_squared_adjustment": 0.2286084701815041
+      },
+      "native": {
+        "block_boundaries": [
+          0,
+          1,
+          4
+        ],
+        "original": [
+          0.12763149893584677,
+          0.43424495085334247,
+          0.47776683126726344,
+          0.34812119600365066
+        ],
+        "projected": [
+          0.12763149893584677,
+          0.41999094023385525,
+          0.41999094023385525,
+          0.41999094023385525
+        ],
+        "weighted_squared_adjustment": 10.07076825516419
+      }
+    },
+    "weights": [
+      1150,
+      1144,
+      1157,
+      1157
+    ]
+  },
+  "held_hurricane-harvey": {
+    "fit_ids": [
+      "mexico-earthquake_00000014",
+      "mexico-earthquake_00000036",
+      "mexico-earthquake_00000038",
+      "mexico-earthquake_00000045",
+      "mexico-earthquake_00000054",
+      "mexico-earthquake_00000056",
+      "mexico-earthquake_00000060",
+      "mexico-earthquake_00000071",
+      "mexico-earthquake_00000077",
+      "mexico-earthquake_00000081",
+      "mexico-earthquake_00000099",
+      "mexico-earthquake_00000116",
+      "mexico-earthquake_00000123",
+      "mexico-earthquake_00000130",
+      "mexico-earthquake_00000133",
+      "mexico-earthquake_00000134",
+      "mexico-earthquake_00000137",
+      "mexico-earthquake_00000145",
+      "mexico-earthquake_00000147",
+      "mexico-earthquake_00000149",
+      "mexico-earthquake_00000156",
+      "mexico-earthquake_00000162",
+      "mexico-earthquake_00000170",
+      "mexico-earthquake_00000175",
+      "santa-rosa-wildfire_00000008",
+      "santa-rosa-wildfire_00000010",
+      "santa-rosa-wildfire_00000013",
+      "santa-rosa-wildfire_00000025",
+      "santa-rosa-wildfire_00000029",
+      "santa-rosa-wildfire_00000054",
+      "santa-rosa-wildfire_00000062",
+      "santa-rosa-wildfire_00000108",
+      "santa-rosa-wildfire_00000112",
+      "santa-rosa-wildfire_00000115",
+      "santa-rosa-wildfire_00000122",
+      "santa-rosa-wildfire_00000126",
+      "santa-rosa-wildfire_00000160",
+      "santa-rosa-wildfire_00000188",
+      "santa-rosa-wildfire_00000193",
+      "santa-rosa-wildfire_00000194",
+      "santa-rosa-wildfire_00000227",
+      "santa-rosa-wildfire_00000232",
+      "santa-rosa-wildfire_00000255",
+      "santa-rosa-wildfire_00000263",
+      "santa-rosa-wildfire_00000266",
+      "santa-rosa-wildfire_00000278",
+      "santa-rosa-wildfire_00000342",
+      "santa-rosa-wildfire_00000352"
+    ],
+    "modes": {
+      "blurred": {
+        "block_boundaries": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "original": [
+          0.0014910079962963088,
+          0.0027984375106517873,
+          0.0142137795065807,
+          0.05281592186541626
+        ],
+        "projected": [
+          0.0014910079962963088,
+          0.0027984375106517873,
+          0.0142137795065807,
+          0.05281592186541626
+        ],
+        "weighted_squared_adjustment": 0.0
+      },
+      "native": {
+        "block_boundaries": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "original": [
+          0.051855079469364546,
+          0.1511394855783324,
+          0.28414903820536047,
+          0.3950870936495541
+        ],
+        "projected": [
+          0.051855079469364546,
+          0.1511394855783324,
+          0.28414903820536047,
+          0.3950870936495541
+        ],
+        "weighted_squared_adjustment": 0.0
+      }
+    },
+    "weights": [
+      767,
+      766,
+      784,
+      779
+    ]
+  },
+  "held_mexico-earthquake": {
+    "fit_ids": [
+      "hurricane-harvey_00000013",
+      "hurricane-harvey_00000014",
+      "hurricane-harvey_00000065",
+      "hurricane-harvey_00000074",
+      "hurricane-harvey_00000121",
+      "hurricane-harvey_00000125",
+      "hurricane-harvey_00000193",
+      "hurricane-harvey_00000201",
+      "hurricane-harvey_00000219",
+      "hurricane-harvey_00000236",
+      "hurricane-harvey_00000279",
+      "hurricane-harvey_00000293",
+      "hurricane-harvey_00000311",
+      "hurricane-harvey_00000334",
+      "hurricane-harvey_00000343",
+      "hurricane-harvey_00000363",
+      "hurricane-harvey_00000372",
+      "hurricane-harvey_00000386",
+      "hurricane-harvey_00000403",
+      "hurricane-harvey_00000404",
+      "hurricane-harvey_00000421",
+      "hurricane-harvey_00000447",
+      "hurricane-harvey_00000459",
+      "hurricane-harvey_00000487",
+      "santa-rosa-wildfire_00000008",
+      "santa-rosa-wildfire_00000010",
+      "santa-rosa-wildfire_00000013",
+      "santa-rosa-wildfire_00000025",
+      "santa-rosa-wildfire_00000029",
+      "santa-rosa-wildfire_00000054",
+      "santa-rosa-wildfire_00000062",
+      "santa-rosa-wildfire_00000108",
+      "santa-rosa-wildfire_00000112",
+      "santa-rosa-wildfire_00000115",
+      "santa-rosa-wildfire_00000122",
+      "santa-rosa-wildfire_00000126",
+      "santa-rosa-wildfire_00000160",
+      "santa-rosa-wildfire_00000188",
+      "santa-rosa-wildfire_00000193",
+      "santa-rosa-wildfire_00000194",
+      "santa-rosa-wildfire_00000227",
+      "santa-rosa-wildfire_00000232",
+      "santa-rosa-wildfire_00000255",
+      "santa-rosa-wildfire_00000263",
+      "santa-rosa-wildfire_00000266",
+      "santa-rosa-wildfire_00000278",
+      "santa-rosa-wildfire_00000342",
+      "santa-rosa-wildfire_00000352"
+    ],
+    "modes": {
+      "blurred": {
+        "block_boundaries": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "original": [
+          0.0020668811045167356,
+          0.06278834476462059,
+          0.13642579500204444,
+          0.09495943913752568
+        ],
+        "projected": [
+          0.0020668811045167356,
+          0.06278834476462059,
+          0.11567923219055183,
+          0.11567923219055183
+        ],
+        "weighted_squared_adjustment": 0.6658600919363739
+      },
+      "native": {
+        "block_boundaries": [
+          0,
+          1,
+          4
+        ],
+        "original": [
+          0.13381415783749903,
+          0.6967951394362951,
+          0.7521585474066043,
+          0.5047364073454346
+        ],
+        "projected": [
+          0.13381415783749903,
+          0.6508505188895254,
+          0.6508505188895254,
+          0.6508505188895254
+        ],
+        "weighted_squared_adjustment": 26.089608998116088
+      }
+    },
+    "weights": [
+      771,
+      758,
+      774,
+      775
+    ]
+  },
+  "held_santa-rosa-wildfire": {
+    "fit_ids": [
+      "hurricane-harvey_00000013",
+      "hurricane-harvey_00000014",
+      "hurricane-harvey_00000065",
+      "hurricane-harvey_00000074",
+      "hurricane-harvey_00000121",
+      "hurricane-harvey_00000125",
+      "hurricane-harvey_00000193",
+      "hurricane-harvey_00000201",
+      "hurricane-harvey_00000219",
+      "hurricane-harvey_00000236",
+      "hurricane-harvey_00000279",
+      "hurricane-harvey_00000293",
+      "hurricane-harvey_00000311",
+      "hurricane-harvey_00000334",
+      "hurricane-harvey_00000343",
+      "hurricane-harvey_00000363",
+      "hurricane-harvey_00000372",
+      "hurricane-harvey_00000386",
+      "hurricane-harvey_00000403",
+      "hurricane-harvey_00000404",
+      "hurricane-harvey_00000421",
+      "hurricane-harvey_00000447",
+      "hurricane-harvey_00000459",
+      "hurricane-harvey_00000487",
+      "mexico-earthquake_00000014",
+      "mexico-earthquake_00000036",
+      "mexico-earthquake_00000038",
+      "mexico-earthquake_00000045",
+      "mexico-earthquake_00000054",
+      "mexico-earthquake_00000056",
+      "mexico-earthquake_00000060",
+      "mexico-earthquake_00000071",
+      "mexico-earthquake_00000077",
+      "mexico-earthquake_00000081",
+      "mexico-earthquake_00000099",
+      "mexico-earthquake_00000116",
+      "mexico-earthquake_00000123",
+      "mexico-earthquake_00000130",
+      "mexico-earthquake_00000133",
+      "mexico-earthquake_00000134",
+      "mexico-earthquake_00000137",
+      "mexico-earthquake_00000145",
+      "mexico-earthquake_00000147",
+      "mexico-earthquake_00000149",
+      "mexico-earthquake_00000156",
+      "mexico-earthquake_00000162",
+      "mexico-earthquake_00000170",
+      "mexico-earthquake_00000175"
+    ],
+    "modes": {
+      "blurred": {
+        "block_boundaries": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "original": [
+          0.011176857330703484,
+          0.06300351643954724,
+          0.09864477953807979,
+          0.050968610002599266
+        ],
+        "projected": [
+          0.011176857330703484,
+          0.06300351643954724,
+          0.07482208410847235,
+          0.07482208410847235
+        ],
+        "weighted_squared_adjustment": 0.8802255212229131
+      },
+      "native": {
+        "block_boundaries": [
+          0,
+          1,
+          4
+        ],
+        "original": [
+          0.2650668419899189,
+          0.43483814375081753,
+          0.3359877839282306,
+          0.15941929269299573
+        ],
+        "projected": [
+          0.2650668419899189,
+          0.30982381261136155,
+          0.30982381261136155,
+          0.30982381261136155
+        ],
+        "weighted_squared_adjustment": 30.05796538026859
+      }
+    },
+    "weights": [
+      756,
+      769,
+      775,
+      774
+    ]
+  }
+}

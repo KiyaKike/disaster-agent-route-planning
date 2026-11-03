@@ -1,0 +1,722 @@
+[
+  {
+    "blurred": {
+      "area_recall": 0.0,
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "domain": "all_published_pixels",
+    "either_mode": {
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "event": "EARTHQUAKE-TURKEY",
+    "native": {
+      "area_recall": 0.0,
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "reference_pixels": 14,
+    "sample_id": "EARTHQUAKE-TURKEY_000237"
+  },
+  {
+    "blurred": {
+      "area_recall": 0.0,
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "domain": "both_dates_nonzero",
+    "either_mode": {
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "event": "EARTHQUAKE-TURKEY",
+    "native": {
+      "area_recall": 0.0,
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "reference_pixels": 14,
+    "sample_id": "EARTHQUAKE-TURKEY_000237"
+  },
+  {
+    "blurred": {
+      "area_recall": null,
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "domain": "all_published_pixels",
+    "either_mode": {
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "event": "EARTHQUAKE-TURKEY",
+    "native": {
+      "area_recall": null,
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "reference_pixels": 0,
+    "sample_id": "EARTHQUAKE-TURKEY_003472"
+  },
+  {
+    "blurred": {
+      "area_recall": null,
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "domain": "both_dates_nonzero",
+    "either_mode": {
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "event": "EARTHQUAKE-TURKEY",
+    "native": {
+      "area_recall": null,
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "reference_pixels": 0,
+    "sample_id": "EARTHQUAKE-TURKEY_003472"
+  },
+  {
+    "blurred": {
+      "area_recall": 0.0,
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "domain": "all_published_pixels",
+    "either_mode": {
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 617
+    },
+    "event": "EARTHQUAKE-TURKEY",
+    "native": {
+      "area_recall": 0.0,
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 617
+    },
+    "reference_pixels": 9726,
+    "sample_id": "EARTHQUAKE-TURKEY_005459"
+  },
+  {
+    "blurred": {
+      "area_recall": 0.0,
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "domain": "both_dates_nonzero",
+    "either_mode": {
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 617
+    },
+    "event": "EARTHQUAKE-TURKEY",
+    "native": {
+      "area_recall": 0.0,
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 617
+    },
+    "reference_pixels": 9725,
+    "sample_id": "EARTHQUAKE-TURKEY_005459"
+  },
+  {
+    "blurred": {
+      "area_recall": null,
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "domain": "all_published_pixels",
+    "either_mode": {
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 498
+    },
+    "event": "EARTHQUAKE-TURKEY",
+    "native": {
+      "area_recall": null,
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 498
+    },
+    "reference_pixels": 0,
+    "sample_id": "EARTHQUAKE-TURKEY_006807"
+  },
+  {
+    "blurred": {
+      "area_recall": null,
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "domain": "both_dates_nonzero",
+    "either_mode": {
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 498
+    },
+    "event": "EARTHQUAKE-TURKEY",
+    "native": {
+      "area_recall": null,
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 498
+    },
+    "reference_pixels": 0,
+    "sample_id": "EARTHQUAKE-TURKEY_006807"
+  },
+  {
+    "blurred": {
+      "area_recall": null,
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "domain": "all_published_pixels",
+    "either_mode": {
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 4314
+    },
+    "event": "EARTHQUAKE-TURKEY",
+    "native": {
+      "area_recall": null,
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 4314
+    },
+    "reference_pixels": 0,
+    "sample_id": "EARTHQUAKE-TURKEY_012987"
+  },
+  {
+    "blurred": {
+      "area_recall": null,
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "domain": "both_dates_nonzero",
+    "either_mode": {
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 4313
+    },
+    "event": "EARTHQUAKE-TURKEY",
+    "native": {
+      "area_recall": null,
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 4313
+    },
+    "reference_pixels": 0,
+    "sample_id": "EARTHQUAKE-TURKEY_012987"
+  },
+  {
+    "blurred": {
+      "area_recall": 0.0,
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "domain": "all_published_pixels",
+    "either_mode": {
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "event": "EARTHQUAKE-TURKEY",
+    "native": {
+      "area_recall": 0.0,
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "reference_pixels": 6691,
+    "sample_id": "EARTHQUAKE-TURKEY_015741"
+  },
+  {
+    "blurred": {
+      "area_recall": 0.0,
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "domain": "both_dates_nonzero",
+    "either_mode": {
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "event": "EARTHQUAKE-TURKEY",
+    "native": {
+      "area_recall": 0.0,
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "reference_pixels": 6691,
+    "sample_id": "EARTHQUAKE-TURKEY_015741"
+  },
+  {
+    "blurred": {
+      "area_recall": 0.0,
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "domain": "all_published_pixels",
+    "either_mode": {
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "event": "PAKISTAN-FLOODING",
+    "native": {
+      "area_recall": 0.0,
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "reference_pixels": 672,
+    "sample_id": "PAKISTAN-FLOODING_003197"
+  },
+  {
+    "blurred": {
+      "area_recall": 0.0,
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "domain": "both_dates_nonzero",
+    "either_mode": {
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "event": "PAKISTAN-FLOODING",
+    "native": {
+      "area_recall": 0.0,
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "reference_pixels": 672,
+    "sample_id": "PAKISTAN-FLOODING_003197"
+  },
+  {
+    "blurred": {
+      "area_recall": null,
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "domain": "all_published_pixels",
+    "either_mode": {
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "event": "PAKISTAN-FLOODING",
+    "native": {
+      "area_recall": null,
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "reference_pixels": 0,
+    "sample_id": "PAKISTAN-FLOODING_004697"
+  },
+  {
+    "blurred": {
+      "area_recall": null,
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "domain": "both_dates_nonzero",
+    "either_mode": {
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "event": "PAKISTAN-FLOODING",
+    "native": {
+      "area_recall": null,
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "reference_pixels": 0,
+    "sample_id": "PAKISTAN-FLOODING_004697"
+  },
+  {
+    "blurred": {
+      "area_recall": null,
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "domain": "all_published_pixels",
+    "either_mode": {
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "event": "PAKISTAN-FLOODING",
+    "native": {
+      "area_recall": null,
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "reference_pixels": 0,
+    "sample_id": "PAKISTAN-FLOODING_006998"
+  },
+  {
+    "blurred": {
+      "area_recall": null,
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "domain": "both_dates_nonzero",
+    "either_mode": {
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "event": "PAKISTAN-FLOODING",
+    "native": {
+      "area_recall": null,
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "reference_pixels": 0,
+    "sample_id": "PAKISTAN-FLOODING_006998"
+  },
+  {
+    "blurred": {
+      "area_recall": null,
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "domain": "all_published_pixels",
+    "either_mode": {
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "event": "PAKISTAN-FLOODING",
+    "native": {
+      "area_recall": null,
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "reference_pixels": 0,
+    "sample_id": "PAKISTAN-FLOODING_013475"
+  },
+  {
+    "blurred": {
+      "area_recall": null,
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "domain": "both_dates_nonzero",
+    "either_mode": {
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "event": "PAKISTAN-FLOODING",
+    "native": {
+      "area_recall": null,
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "reference_pixels": 0,
+    "sample_id": "PAKISTAN-FLOODING_013475"
+  },
+  {
+    "blurred": {
+      "area_recall": 0.0,
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "domain": "all_published_pixels",
+    "either_mode": {
+      "covered_reference_pixels": 915,
+      "reference_false_positive_pixels": 411
+    },
+    "event": "PAKISTAN-FLOODING",
+    "native": {
+      "area_recall": 0.44503891050583655,
+      "covered_reference_pixels": 915,
+      "reference_false_positive_pixels": 411
+    },
+    "reference_pixels": 2056,
+    "sample_id": "PAKISTAN-FLOODING_014536"
+  },
+  {
+    "blurred": {
+      "area_recall": 0.0,
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "domain": "both_dates_nonzero",
+    "either_mode": {
+      "covered_reference_pixels": 915,
+      "reference_false_positive_pixels": 411
+    },
+    "event": "PAKISTAN-FLOODING",
+    "native": {
+      "area_recall": 0.44503891050583655,
+      "covered_reference_pixels": 915,
+      "reference_false_positive_pixels": 411
+    },
+    "reference_pixels": 2056,
+    "sample_id": "PAKISTAN-FLOODING_014536"
+  },
+  {
+    "blurred": {
+      "area_recall": null,
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "domain": "all_published_pixels",
+    "either_mode": {
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "event": "PAKISTAN-FLOODING",
+    "native": {
+      "area_recall": null,
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "reference_pixels": 0,
+    "sample_id": "PAKISTAN-FLOODING_017841"
+  },
+  {
+    "blurred": {
+      "area_recall": null,
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "domain": "both_dates_nonzero",
+    "either_mode": {
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "event": "PAKISTAN-FLOODING",
+    "native": {
+      "area_recall": null,
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "reference_pixels": 0,
+    "sample_id": "PAKISTAN-FLOODING_017841"
+  },
+  {
+    "blurred": {
+      "area_recall": null,
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "domain": "all_published_pixels",
+    "either_mode": {
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "event": "TEXAS-TORNADOES",
+    "native": {
+      "area_recall": null,
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "reference_pixels": 0,
+    "sample_id": "TEXAS-TORNADOES_000325"
+  },
+  {
+    "blurred": {
+      "area_recall": null,
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "domain": "both_dates_nonzero",
+    "either_mode": {
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "event": "TEXAS-TORNADOES",
+    "native": {
+      "area_recall": null,
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "reference_pixels": 0,
+    "sample_id": "TEXAS-TORNADOES_000325"
+  },
+  {
+    "blurred": {
+      "area_recall": null,
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "domain": "all_published_pixels",
+    "either_mode": {
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "event": "TEXAS-TORNADOES",
+    "native": {
+      "area_recall": null,
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "reference_pixels": 0,
+    "sample_id": "TEXAS-TORNADOES_002697"
+  },
+  {
+    "blurred": {
+      "area_recall": null,
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "domain": "both_dates_nonzero",
+    "either_mode": {
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "event": "TEXAS-TORNADOES",
+    "native": {
+      "area_recall": null,
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "reference_pixels": 0,
+    "sample_id": "TEXAS-TORNADOES_002697"
+  },
+  {
+    "blurred": {
+      "area_recall": null,
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "domain": "all_published_pixels",
+    "either_mode": {
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "event": "TEXAS-TORNADOES",
+    "native": {
+      "area_recall": null,
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "reference_pixels": 0,
+    "sample_id": "TEXAS-TORNADOES_002969"
+  },
+  {
+    "blurred": {
+      "area_recall": null,
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "domain": "both_dates_nonzero",
+    "either_mode": {
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "event": "TEXAS-TORNADOES",
+    "native": {
+      "area_recall": null,
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "reference_pixels": 0,
+    "sample_id": "TEXAS-TORNADOES_002969"
+  },
+  {
+    "blurred": {
+      "area_recall": null,
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "domain": "all_published_pixels",
+    "either_mode": {
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "event": "TEXAS-TORNADOES",
+    "native": {
+      "area_recall": null,
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "reference_pixels": 0,
+    "sample_id": "TEXAS-TORNADOES_003987"
+  },
+  {
+    "blurred": {
+      "area_recall": null,
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "domain": "both_dates_nonzero",
+    "either_mode": {
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "event": "TEXAS-TORNADOES",
+    "native": {
+      "area_recall": null,
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "reference_pixels": 0,
+    "sample_id": "TEXAS-TORNADOES_003987"
+  },
+  {
+    "blurred": {
+      "area_recall": null,
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "domain": "all_published_pixels",
+    "either_mode": {
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "event": "TEXAS-TORNADOES",
+    "native": {
+      "area_recall": null,
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "reference_pixels": 0,
+    "sample_id": "TEXAS-TORNADOES_004417"
+  },
+  {
+    "blurred": {
+      "area_recall": null,
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "domain": "both_dates_nonzero",
+    "either_mode": {
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "event": "TEXAS-TORNADOES",
+    "native": {
+      "area_recall": null,
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "reference_pixels": 0,
+    "sample_id": "TEXAS-TORNADOES_004417"
+  },
+  {
+    "blurred": {
+      "area_recall": null,
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "domain": "all_published_pixels",
+    "either_mode": {
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "event": "TEXAS-TORNADOES",
+    "native": {
+      "area_recall": null,
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "reference_pixels": 0,
+    "sample_id": "TEXAS-TORNADOES_004813"
+  },
+  {
+    "blurred": {
+      "area_recall": null,
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "domain": "both_dates_nonzero",
+    "either_mode": {
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "event": "TEXAS-TORNADOES",
+    "native": {
+      "area_recall": null,
+      "covered_reference_pixels": 0,
+      "reference_false_positive_pixels": 0
+    },
+    "reference_pixels": 0,
+    "sample_id": "TEXAS-TORNADOES_004813"
+  }
+]

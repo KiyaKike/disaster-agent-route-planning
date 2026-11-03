@@ -1,0 +1,18 @@
+[
+  {
+    "bytes": 65536,
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_taco_v1/ranges/32294734504_65536.bin",
+    "offset": 32294734504,
+    "persisted": true,
+    "sha256": "a34e77a860700fa01b6182e3bc2c828abbd472edd1c0053ef6cb282c4b6f1374",
+    "transient_damage": false
+  },
+  {
+    "bytes": 539724,
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_taco_v1/ranges/32294258602_539724.bin",
+    "offset": 32294258602,
+    "persisted": true,
+    "sha256": "1b0433dcc331e982204aba4f17919183c4137dced337d846cb3a9ef680022f6b",
+    "transient_damage": false
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "blurred256_calls": 72,
+  "device": "mps",
+  "loop_seconds": 7.044396582990885,
+  "native128_control_calls": 2,
+  "new_calls_this_invocation": 74,
+  "new_fitting": false,
+  "new_network_bytes": 0,
+  "new_search_runs": 0,
+  "observations_sha256": "d4268966c44f1e676de0af185ccc69c5e47c2e8c44a4a694f552a3a4dc4b54bd",
+  "paid_gpu": false,
+  "reference_pixels_decoded_by_prediction": false,
+  "status": "COMPLETE",
+  "total_forward_calls": 74
+}

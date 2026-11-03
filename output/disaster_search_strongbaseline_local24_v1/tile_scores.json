@@ -1,0 +1,3074 @@
+[
+  {
+    "fp": 0,
+    "reference": 2857,
+    "sample_id": "santa-rosa-wildfire_00000008",
+    "tile_id": 0,
+    "tp": 306,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000008",
+    "tile_id": 1,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000008",
+    "tile_id": 2,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000008",
+    "tile_id": 3,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 1072,
+    "reference": 2295,
+    "sample_id": "santa-rosa-wildfire_00000008",
+    "tile_id": 4,
+    "tp": 2077,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000008",
+    "tile_id": 5,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000008",
+    "tile_id": 6,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000008",
+    "tile_id": 7,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 437,
+    "reference": 5604,
+    "sample_id": "santa-rosa-wildfire_00000008",
+    "tile_id": 8,
+    "tp": 5398,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 709,
+    "reference": 7857,
+    "sample_id": "santa-rosa-wildfire_00000008",
+    "tile_id": 9,
+    "tp": 7665,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 1705,
+    "reference": 7145,
+    "sample_id": "santa-rosa-wildfire_00000008",
+    "tile_id": 10,
+    "tp": 5489,
+    "valid_pixels": 65302
+  },
+  {
+    "fp": 56,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000008",
+    "tile_id": 11,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 290,
+    "reference": 6015,
+    "sample_id": "santa-rosa-wildfire_00000008",
+    "tile_id": 12,
+    "tp": 6008,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 381,
+    "reference": 15347,
+    "sample_id": "santa-rosa-wildfire_00000008",
+    "tile_id": 13,
+    "tp": 12383,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 138,
+    "reference": 5126,
+    "sample_id": "santa-rosa-wildfire_00000008",
+    "tile_id": 14,
+    "tp": 2315,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000008",
+    "tile_id": 15,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 4312,
+    "reference": 12405,
+    "sample_id": "santa-rosa-wildfire_00000010",
+    "tile_id": 0,
+    "tp": 11891,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 5339,
+    "reference": 10616,
+    "sample_id": "santa-rosa-wildfire_00000010",
+    "tile_id": 1,
+    "tp": 10185,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 4753,
+    "reference": 11407,
+    "sample_id": "santa-rosa-wildfire_00000010",
+    "tile_id": 2,
+    "tp": 10295,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 1652,
+    "reference": 8462,
+    "sample_id": "santa-rosa-wildfire_00000010",
+    "tile_id": 3,
+    "tp": 7653,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 2240,
+    "reference": 11210,
+    "sample_id": "santa-rosa-wildfire_00000010",
+    "tile_id": 4,
+    "tp": 10416,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 5302,
+    "reference": 13806,
+    "sample_id": "santa-rosa-wildfire_00000010",
+    "tile_id": 5,
+    "tp": 11264,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 2273,
+    "reference": 16748,
+    "sample_id": "santa-rosa-wildfire_00000010",
+    "tile_id": 6,
+    "tp": 9997,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 7873,
+    "reference": 21993,
+    "sample_id": "santa-rosa-wildfire_00000010",
+    "tile_id": 7,
+    "tp": 20732,
+    "valid_pixels": 65490
+  },
+  {
+    "fp": 2254,
+    "reference": 9540,
+    "sample_id": "santa-rosa-wildfire_00000010",
+    "tile_id": 8,
+    "tp": 9299,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 3422,
+    "reference": 14636,
+    "sample_id": "santa-rosa-wildfire_00000010",
+    "tile_id": 9,
+    "tp": 12741,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 2160,
+    "reference": 12969,
+    "sample_id": "santa-rosa-wildfire_00000010",
+    "tile_id": 10,
+    "tp": 1312,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 2508,
+    "reference": 7461,
+    "sample_id": "santa-rosa-wildfire_00000010",
+    "tile_id": 11,
+    "tp": 7206,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000010",
+    "tile_id": 12,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 2914,
+    "reference": 6557,
+    "sample_id": "santa-rosa-wildfire_00000010",
+    "tile_id": 13,
+    "tp": 6498,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 803,
+    "reference": 635,
+    "sample_id": "santa-rosa-wildfire_00000010",
+    "tile_id": 14,
+    "tp": 485,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 987,
+    "reference": 2975,
+    "sample_id": "santa-rosa-wildfire_00000010",
+    "tile_id": 15,
+    "tp": 2828,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "tile_id": 0,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "tile_id": 1,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 135,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "tile_id": 2,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "tile_id": 3,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "tile_id": 4,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "tile_id": 5,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "tile_id": 6,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "tile_id": 7,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "tile_id": 8,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "tile_id": 9,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "tile_id": 10,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "tile_id": 11,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "tile_id": 12,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "tile_id": 13,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "tile_id": 14,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 618,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "tile_id": 15,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000025",
+    "tile_id": 0,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 67,
+    "reference": 369,
+    "sample_id": "santa-rosa-wildfire_00000025",
+    "tile_id": 1,
+    "tp": 348,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 463,
+    "reference": 2961,
+    "sample_id": "santa-rosa-wildfire_00000025",
+    "tile_id": 2,
+    "tp": 2284,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000025",
+    "tile_id": 3,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 192,
+    "reference": 201,
+    "sample_id": "santa-rosa-wildfire_00000025",
+    "tile_id": 4,
+    "tp": 150,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 919,
+    "reference": 1922,
+    "sample_id": "santa-rosa-wildfire_00000025",
+    "tile_id": 5,
+    "tp": 1063,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000025",
+    "tile_id": 6,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000025",
+    "tile_id": 7,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 1386,
+    "reference": 5729,
+    "sample_id": "santa-rosa-wildfire_00000025",
+    "tile_id": 8,
+    "tp": 5069,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 1047,
+    "reference": 4049,
+    "sample_id": "santa-rosa-wildfire_00000025",
+    "tile_id": 9,
+    "tp": 3994,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000025",
+    "tile_id": 10,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 589,
+    "reference": 1988,
+    "sample_id": "santa-rosa-wildfire_00000025",
+    "tile_id": 11,
+    "tp": 1942,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 79,
+    "reference": 40,
+    "sample_id": "santa-rosa-wildfire_00000025",
+    "tile_id": 12,
+    "tp": 4,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000025",
+    "tile_id": 13,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 292,
+    "reference": 2602,
+    "sample_id": "santa-rosa-wildfire_00000025",
+    "tile_id": 14,
+    "tp": 2501,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 384,
+    "reference": 2614,
+    "sample_id": "santa-rosa-wildfire_00000025",
+    "tile_id": 15,
+    "tp": 2482,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 4418,
+    "reference": 15380,
+    "sample_id": "santa-rosa-wildfire_00000029",
+    "tile_id": 0,
+    "tp": 13012,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 7269,
+    "reference": 19280,
+    "sample_id": "santa-rosa-wildfire_00000029",
+    "tile_id": 1,
+    "tp": 18574,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 3342,
+    "reference": 10910,
+    "sample_id": "santa-rosa-wildfire_00000029",
+    "tile_id": 2,
+    "tp": 10602,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 2408,
+    "reference": 299,
+    "sample_id": "santa-rosa-wildfire_00000029",
+    "tile_id": 3,
+    "tp": 251,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 4278,
+    "reference": 9841,
+    "sample_id": "santa-rosa-wildfire_00000029",
+    "tile_id": 4,
+    "tp": 9495,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 8001,
+    "reference": 16924,
+    "sample_id": "santa-rosa-wildfire_00000029",
+    "tile_id": 5,
+    "tp": 16764,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 4042,
+    "reference": 10647,
+    "sample_id": "santa-rosa-wildfire_00000029",
+    "tile_id": 6,
+    "tp": 10170,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 2265,
+    "reference": 7905,
+    "sample_id": "santa-rosa-wildfire_00000029",
+    "tile_id": 7,
+    "tp": 7157,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 1893,
+    "reference": 7255,
+    "sample_id": "santa-rosa-wildfire_00000029",
+    "tile_id": 8,
+    "tp": 6647,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 2226,
+    "reference": 5488,
+    "sample_id": "santa-rosa-wildfire_00000029",
+    "tile_id": 9,
+    "tp": 4523,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 74,
+    "reference": 2337,
+    "sample_id": "santa-rosa-wildfire_00000029",
+    "tile_id": 10,
+    "tp": 1077,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 1232,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000029",
+    "tile_id": 11,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000029",
+    "tile_id": 12,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 2150,
+    "reference": 2026,
+    "sample_id": "santa-rosa-wildfire_00000029",
+    "tile_id": 13,
+    "tp": 1664,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000029",
+    "tile_id": 14,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000029",
+    "tile_id": 15,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 512,
+    "reference": 10611,
+    "sample_id": "santa-rosa-wildfire_00000054",
+    "tile_id": 0,
+    "tp": 9020,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000054",
+    "tile_id": 1,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 38,
+    "reference": 684,
+    "sample_id": "santa-rosa-wildfire_00000054",
+    "tile_id": 2,
+    "tp": 658,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000054",
+    "tile_id": 3,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 1372,
+    "reference": 9901,
+    "sample_id": "santa-rosa-wildfire_00000054",
+    "tile_id": 4,
+    "tp": 9289,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000054",
+    "tile_id": 5,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000054",
+    "tile_id": 6,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000054",
+    "tile_id": 7,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 1480,
+    "reference": 14003,
+    "sample_id": "santa-rosa-wildfire_00000054",
+    "tile_id": 8,
+    "tp": 13374,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000054",
+    "tile_id": 9,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000054",
+    "tile_id": 10,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000054",
+    "tile_id": 11,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 936,
+    "reference": 12579,
+    "sample_id": "santa-rosa-wildfire_00000054",
+    "tile_id": 12,
+    "tp": 11639,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000054",
+    "tile_id": 13,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000054",
+    "tile_id": 14,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000054",
+    "tile_id": 15,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000062",
+    "tile_id": 0,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000062",
+    "tile_id": 1,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000062",
+    "tile_id": 2,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 392,
+    "reference": 2797,
+    "sample_id": "santa-rosa-wildfire_00000062",
+    "tile_id": 3,
+    "tp": 2638,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000062",
+    "tile_id": 4,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000062",
+    "tile_id": 5,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000062",
+    "tile_id": 6,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000062",
+    "tile_id": 7,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000062",
+    "tile_id": 8,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000062",
+    "tile_id": 9,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000062",
+    "tile_id": 10,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000062",
+    "tile_id": 11,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000062",
+    "tile_id": 12,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 54,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000062",
+    "tile_id": 13,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000062",
+    "tile_id": 14,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000062",
+    "tile_id": 15,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000108",
+    "tile_id": 0,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000108",
+    "tile_id": 1,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000108",
+    "tile_id": 2,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000108",
+    "tile_id": 3,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000108",
+    "tile_id": 4,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000108",
+    "tile_id": 5,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000108",
+    "tile_id": 6,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000108",
+    "tile_id": 7,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000108",
+    "tile_id": 8,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000108",
+    "tile_id": 9,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000108",
+    "tile_id": 10,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000108",
+    "tile_id": 11,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000108",
+    "tile_id": 12,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000108",
+    "tile_id": 13,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000108",
+    "tile_id": 14,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000108",
+    "tile_id": 15,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 241,
+    "reference": 1994,
+    "sample_id": "santa-rosa-wildfire_00000112",
+    "tile_id": 0,
+    "tp": 1139,
+    "valid_pixels": 65346
+  },
+  {
+    "fp": 486,
+    "reference": 2726,
+    "sample_id": "santa-rosa-wildfire_00000112",
+    "tile_id": 1,
+    "tp": 2553,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 580,
+    "reference": 5485,
+    "sample_id": "santa-rosa-wildfire_00000112",
+    "tile_id": 2,
+    "tp": 5182,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 165,
+    "reference": 821,
+    "sample_id": "santa-rosa-wildfire_00000112",
+    "tile_id": 3,
+    "tp": 406,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 409,
+    "sample_id": "santa-rosa-wildfire_00000112",
+    "tile_id": 4,
+    "tp": 122,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 303,
+    "reference": 287,
+    "sample_id": "santa-rosa-wildfire_00000112",
+    "tile_id": 5,
+    "tp": 231,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 72,
+    "sample_id": "santa-rosa-wildfire_00000112",
+    "tile_id": 6,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 15,
+    "sample_id": "santa-rosa-wildfire_00000112",
+    "tile_id": 7,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000112",
+    "tile_id": 8,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000112",
+    "tile_id": 9,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000112",
+    "tile_id": 10,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000112",
+    "tile_id": 11,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000112",
+    "tile_id": 12,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000112",
+    "tile_id": 13,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000112",
+    "tile_id": 14,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000112",
+    "tile_id": 15,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 134,
+    "reference": 2944,
+    "sample_id": "santa-rosa-wildfire_00000115",
+    "tile_id": 0,
+    "tp": 1821,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 275,
+    "reference": 6286,
+    "sample_id": "santa-rosa-wildfire_00000115",
+    "tile_id": 1,
+    "tp": 4764,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 447,
+    "reference": 2428,
+    "sample_id": "santa-rosa-wildfire_00000115",
+    "tile_id": 2,
+    "tp": 2296,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 1087,
+    "sample_id": "santa-rosa-wildfire_00000115",
+    "tile_id": 3,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 71,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000115",
+    "tile_id": 4,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 143,
+    "reference": 2227,
+    "sample_id": "santa-rosa-wildfire_00000115",
+    "tile_id": 5,
+    "tp": 1679,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 120,
+    "sample_id": "santa-rosa-wildfire_00000115",
+    "tile_id": 6,
+    "tp": 38,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 468,
+    "reference": 2637,
+    "sample_id": "santa-rosa-wildfire_00000115",
+    "tile_id": 7,
+    "tp": 2394,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 135,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000115",
+    "tile_id": 8,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 4458,
+    "reference": 2990,
+    "sample_id": "santa-rosa-wildfire_00000115",
+    "tile_id": 9,
+    "tp": 2833,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 203,
+    "reference": 2545,
+    "sample_id": "santa-rosa-wildfire_00000115",
+    "tile_id": 10,
+    "tp": 1975,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 528,
+    "reference": 5713,
+    "sample_id": "santa-rosa-wildfire_00000115",
+    "tile_id": 11,
+    "tp": 4436,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000115",
+    "tile_id": 12,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 1669,
+    "reference": 3863,
+    "sample_id": "santa-rosa-wildfire_00000115",
+    "tile_id": 13,
+    "tp": 3027,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000115",
+    "tile_id": 14,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 748,
+    "reference": 6181,
+    "sample_id": "santa-rosa-wildfire_00000115",
+    "tile_id": 15,
+    "tp": 5065,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 129,
+    "reference": 610,
+    "sample_id": "santa-rosa-wildfire_00000122",
+    "tile_id": 0,
+    "tp": 500,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000122",
+    "tile_id": 1,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000122",
+    "tile_id": 2,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 310,
+    "reference": 3522,
+    "sample_id": "santa-rosa-wildfire_00000122",
+    "tile_id": 3,
+    "tp": 3377,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000122",
+    "tile_id": 4,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000122",
+    "tile_id": 5,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 6,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000122",
+    "tile_id": 6,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 235,
+    "reference": 3970,
+    "sample_id": "santa-rosa-wildfire_00000122",
+    "tile_id": 7,
+    "tp": 2271,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000122",
+    "tile_id": 8,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 62,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000122",
+    "tile_id": 9,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000122",
+    "tile_id": 10,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 1138,
+    "reference": 7647,
+    "sample_id": "santa-rosa-wildfire_00000122",
+    "tile_id": 11,
+    "tp": 6842,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 857,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000122",
+    "tile_id": 12,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000122",
+    "tile_id": 13,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000122",
+    "tile_id": 14,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 3795,
+    "reference": 6756,
+    "sample_id": "santa-rosa-wildfire_00000122",
+    "tile_id": 15,
+    "tp": 6200,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000126",
+    "tile_id": 0,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000126",
+    "tile_id": 1,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000126",
+    "tile_id": 2,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000126",
+    "tile_id": 3,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000126",
+    "tile_id": 4,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000126",
+    "tile_id": 5,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000126",
+    "tile_id": 6,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000126",
+    "tile_id": 7,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000126",
+    "tile_id": 8,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000126",
+    "tile_id": 9,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000126",
+    "tile_id": 10,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000126",
+    "tile_id": 11,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000126",
+    "tile_id": 12,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000126",
+    "tile_id": 13,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000126",
+    "tile_id": 14,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000126",
+    "tile_id": 15,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000160",
+    "tile_id": 0,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 120,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000160",
+    "tile_id": 1,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 298,
+    "reference": 195,
+    "sample_id": "santa-rosa-wildfire_00000160",
+    "tile_id": 2,
+    "tp": 173,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 306,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000160",
+    "tile_id": 3,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000160",
+    "tile_id": 4,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 169,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000160",
+    "tile_id": 5,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000160",
+    "tile_id": 6,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000160",
+    "tile_id": 7,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000160",
+    "tile_id": 8,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 3,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000160",
+    "tile_id": 9,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000160",
+    "tile_id": 10,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000160",
+    "tile_id": 11,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000160",
+    "tile_id": 12,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 186,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000160",
+    "tile_id": 13,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000160",
+    "tile_id": 14,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000160",
+    "tile_id": 15,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000188",
+    "tile_id": 0,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000188",
+    "tile_id": 1,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000188",
+    "tile_id": 2,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000188",
+    "tile_id": 3,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 411,
+    "reference": 1018,
+    "sample_id": "santa-rosa-wildfire_00000188",
+    "tile_id": 4,
+    "tp": 918,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000188",
+    "tile_id": 5,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000188",
+    "tile_id": 6,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 82,
+    "reference": 888,
+    "sample_id": "santa-rosa-wildfire_00000188",
+    "tile_id": 7,
+    "tp": 754,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 1062,
+    "reference": 2081,
+    "sample_id": "santa-rosa-wildfire_00000188",
+    "tile_id": 8,
+    "tp": 1655,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 255,
+    "reference": 71,
+    "sample_id": "santa-rosa-wildfire_00000188",
+    "tile_id": 9,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 30,
+    "reference": 2106,
+    "sample_id": "santa-rosa-wildfire_00000188",
+    "tile_id": 10,
+    "tp": 1040,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 48,
+    "reference": 1715,
+    "sample_id": "santa-rosa-wildfire_00000188",
+    "tile_id": 11,
+    "tp": 1324,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 50,
+    "reference": 2097,
+    "sample_id": "santa-rosa-wildfire_00000188",
+    "tile_id": 12,
+    "tp": 810,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 224,
+    "reference": 539,
+    "sample_id": "santa-rosa-wildfire_00000188",
+    "tile_id": 13,
+    "tp": 483,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 25,
+    "reference": 1389,
+    "sample_id": "santa-rosa-wildfire_00000188",
+    "tile_id": 14,
+    "tp": 717,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000188",
+    "tile_id": 15,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000193",
+    "tile_id": 0,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 2,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000193",
+    "tile_id": 1,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 8,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000193",
+    "tile_id": 2,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000193",
+    "tile_id": 3,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 54,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000193",
+    "tile_id": 4,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000193",
+    "tile_id": 5,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000193",
+    "tile_id": 6,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 54,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000193",
+    "tile_id": 7,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000193",
+    "tile_id": 8,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000193",
+    "tile_id": 9,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000193",
+    "tile_id": 10,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000193",
+    "tile_id": 11,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000193",
+    "tile_id": 12,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 54,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000193",
+    "tile_id": 13,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 144,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000193",
+    "tile_id": 14,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000193",
+    "tile_id": 15,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000194",
+    "tile_id": 0,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000194",
+    "tile_id": 1,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 982,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000194",
+    "tile_id": 2,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000194",
+    "tile_id": 3,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000194",
+    "tile_id": 4,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000194",
+    "tile_id": 5,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000194",
+    "tile_id": 6,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000194",
+    "tile_id": 7,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000194",
+    "tile_id": 8,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000194",
+    "tile_id": 9,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 45,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000194",
+    "tile_id": 10,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000194",
+    "tile_id": 11,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000194",
+    "tile_id": 12,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000194",
+    "tile_id": 13,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000194",
+    "tile_id": 14,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000194",
+    "tile_id": 15,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000227",
+    "tile_id": 0,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000227",
+    "tile_id": 1,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000227",
+    "tile_id": 2,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 265,
+    "reference": 3422,
+    "sample_id": "santa-rosa-wildfire_00000227",
+    "tile_id": 3,
+    "tp": 2686,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000227",
+    "tile_id": 4,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000227",
+    "tile_id": 5,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 359,
+    "reference": 1509,
+    "sample_id": "santa-rosa-wildfire_00000227",
+    "tile_id": 6,
+    "tp": 1430,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 599,
+    "reference": 1582,
+    "sample_id": "santa-rosa-wildfire_00000227",
+    "tile_id": 7,
+    "tp": 1576,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000227",
+    "tile_id": 8,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000227",
+    "tile_id": 9,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 70,
+    "reference": 735,
+    "sample_id": "santa-rosa-wildfire_00000227",
+    "tile_id": 10,
+    "tp": 531,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 2246,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000227",
+    "tile_id": 11,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000227",
+    "tile_id": 12,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000227",
+    "tile_id": 13,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000227",
+    "tile_id": 14,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 797,
+    "reference": 6489,
+    "sample_id": "santa-rosa-wildfire_00000227",
+    "tile_id": 15,
+    "tp": 5639,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 5,
+    "reference": 1248,
+    "sample_id": "santa-rosa-wildfire_00000232",
+    "tile_id": 0,
+    "tp": 1088,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 175,
+    "reference": 7167,
+    "sample_id": "santa-rosa-wildfire_00000232",
+    "tile_id": 1,
+    "tp": 6721,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000232",
+    "tile_id": 2,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000232",
+    "tile_id": 3,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000232",
+    "tile_id": 4,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 1038,
+    "reference": 3554,
+    "sample_id": "santa-rosa-wildfire_00000232",
+    "tile_id": 5,
+    "tp": 3395,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 117,
+    "reference": 167,
+    "sample_id": "santa-rosa-wildfire_00000232",
+    "tile_id": 6,
+    "tp": 165,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000232",
+    "tile_id": 7,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000232",
+    "tile_id": 8,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 372,
+    "reference": 6671,
+    "sample_id": "santa-rosa-wildfire_00000232",
+    "tile_id": 9,
+    "tp": 5972,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 1835,
+    "reference": 4395,
+    "sample_id": "santa-rosa-wildfire_00000232",
+    "tile_id": 10,
+    "tp": 4322,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 585,
+    "reference": 2845,
+    "sample_id": "santa-rosa-wildfire_00000232",
+    "tile_id": 11,
+    "tp": 2821,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 1281,
+    "sample_id": "santa-rosa-wildfire_00000232",
+    "tile_id": 12,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 342,
+    "reference": 3763,
+    "sample_id": "santa-rosa-wildfire_00000232",
+    "tile_id": 13,
+    "tp": 1868,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 2409,
+    "reference": 2376,
+    "sample_id": "santa-rosa-wildfire_00000232",
+    "tile_id": 14,
+    "tp": 2203,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 1322,
+    "reference": 2710,
+    "sample_id": "santa-rosa-wildfire_00000232",
+    "tile_id": 15,
+    "tp": 2389,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 963,
+    "reference": 2569,
+    "sample_id": "santa-rosa-wildfire_00000255",
+    "tile_id": 0,
+    "tp": 2521,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 1889,
+    "reference": 2965,
+    "sample_id": "santa-rosa-wildfire_00000255",
+    "tile_id": 1,
+    "tp": 2687,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 280,
+    "reference": 1010,
+    "sample_id": "santa-rosa-wildfire_00000255",
+    "tile_id": 2,
+    "tp": 910,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 293,
+    "reference": 3020,
+    "sample_id": "santa-rosa-wildfire_00000255",
+    "tile_id": 3,
+    "tp": 2877,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 644,
+    "reference": 2146,
+    "sample_id": "santa-rosa-wildfire_00000255",
+    "tile_id": 4,
+    "tp": 1987,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 402,
+    "reference": 3596,
+    "sample_id": "santa-rosa-wildfire_00000255",
+    "tile_id": 5,
+    "tp": 3106,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000255",
+    "tile_id": 6,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 20,
+    "sample_id": "santa-rosa-wildfire_00000255",
+    "tile_id": 7,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 487,
+    "reference": 3223,
+    "sample_id": "santa-rosa-wildfire_00000255",
+    "tile_id": 8,
+    "tp": 3082,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 10,
+    "reference": 937,
+    "sample_id": "santa-rosa-wildfire_00000255",
+    "tile_id": 9,
+    "tp": 847,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000255",
+    "tile_id": 10,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000255",
+    "tile_id": 11,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 305,
+    "reference": 1728,
+    "sample_id": "santa-rosa-wildfire_00000255",
+    "tile_id": 12,
+    "tp": 730,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000255",
+    "tile_id": 13,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 682,
+    "reference": 3533,
+    "sample_id": "santa-rosa-wildfire_00000255",
+    "tile_id": 14,
+    "tp": 3237,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 16,
+    "reference": 903,
+    "sample_id": "santa-rosa-wildfire_00000255",
+    "tile_id": 15,
+    "tp": 752,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000263",
+    "tile_id": 0,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000263",
+    "tile_id": 1,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 654,
+    "sample_id": "santa-rosa-wildfire_00000263",
+    "tile_id": 2,
+    "tp": 102,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000263",
+    "tile_id": 3,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000263",
+    "tile_id": 4,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000263",
+    "tile_id": 5,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 55,
+    "reference": 647,
+    "sample_id": "santa-rosa-wildfire_00000263",
+    "tile_id": 6,
+    "tp": 591,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 1415,
+    "reference": 1309,
+    "sample_id": "santa-rosa-wildfire_00000263",
+    "tile_id": 7,
+    "tp": 1305,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 396,
+    "reference": 2256,
+    "sample_id": "santa-rosa-wildfire_00000263",
+    "tile_id": 8,
+    "tp": 2125,
+    "valid_pixels": 65398
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000263",
+    "tile_id": 9,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000263",
+    "tile_id": 10,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000263",
+    "tile_id": 11,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000263",
+    "tile_id": 12,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000263",
+    "tile_id": 13,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000263",
+    "tile_id": 14,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000263",
+    "tile_id": 15,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "tile_id": 0,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 63,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "tile_id": 1,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "tile_id": 2,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "tile_id": 3,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 145,
+    "reference": 1049,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "tile_id": 4,
+    "tp": 979,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 736,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "tile_id": 5,
+    "tp": 220,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "tile_id": 6,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "tile_id": 7,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 128,
+    "reference": 2338,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "tile_id": 8,
+    "tp": 2209,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "tile_id": 9,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "tile_id": 10,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "tile_id": 11,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "tile_id": 12,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "tile_id": 13,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "tile_id": 14,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "tile_id": 15,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 6,
+    "reference": 1767,
+    "sample_id": "santa-rosa-wildfire_00000278",
+    "tile_id": 0,
+    "tp": 731,
+    "valid_pixels": 65416
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000278",
+    "tile_id": 1,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000278",
+    "tile_id": 2,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 58,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000278",
+    "tile_id": 3,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000278",
+    "tile_id": 4,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 2059,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000278",
+    "tile_id": 5,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 9,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000278",
+    "tile_id": 6,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 896,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000278",
+    "tile_id": 7,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 832,
+    "reference": 4381,
+    "sample_id": "santa-rosa-wildfire_00000278",
+    "tile_id": 8,
+    "tp": 3003,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 1049,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000278",
+    "tile_id": 9,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 1200,
+    "reference": 645,
+    "sample_id": "santa-rosa-wildfire_00000278",
+    "tile_id": 10,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 694,
+    "reference": 4135,
+    "sample_id": "santa-rosa-wildfire_00000278",
+    "tile_id": 11,
+    "tp": 3665,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000278",
+    "tile_id": 12,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000278",
+    "tile_id": 13,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 467,
+    "reference": 5549,
+    "sample_id": "santa-rosa-wildfire_00000278",
+    "tile_id": 14,
+    "tp": 1948,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 613,
+    "reference": 1939,
+    "sample_id": "santa-rosa-wildfire_00000278",
+    "tile_id": 15,
+    "tp": 321,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 1506,
+    "reference": 9454,
+    "sample_id": "santa-rosa-wildfire_00000342",
+    "tile_id": 0,
+    "tp": 8882,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 1128,
+    "reference": 6969,
+    "sample_id": "santa-rosa-wildfire_00000342",
+    "tile_id": 1,
+    "tp": 6131,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 983,
+    "reference": 6906,
+    "sample_id": "santa-rosa-wildfire_00000342",
+    "tile_id": 2,
+    "tp": 5564,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 426,
+    "reference": 3049,
+    "sample_id": "santa-rosa-wildfire_00000342",
+    "tile_id": 3,
+    "tp": 2135,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 822,
+    "reference": 7065,
+    "sample_id": "santa-rosa-wildfire_00000342",
+    "tile_id": 4,
+    "tp": 6813,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 1215,
+    "reference": 9687,
+    "sample_id": "santa-rosa-wildfire_00000342",
+    "tile_id": 5,
+    "tp": 8986,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 1718,
+    "reference": 7363,
+    "sample_id": "santa-rosa-wildfire_00000342",
+    "tile_id": 6,
+    "tp": 6595,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 1817,
+    "reference": 11407,
+    "sample_id": "santa-rosa-wildfire_00000342",
+    "tile_id": 7,
+    "tp": 11053,
+    "valid_pixels": 64973
+  },
+  {
+    "fp": 2117,
+    "reference": 9463,
+    "sample_id": "santa-rosa-wildfire_00000342",
+    "tile_id": 8,
+    "tp": 9222,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000342",
+    "tile_id": 9,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 3292,
+    "reference": 12272,
+    "sample_id": "santa-rosa-wildfire_00000342",
+    "tile_id": 10,
+    "tp": 11880,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 5127,
+    "reference": 19524,
+    "sample_id": "santa-rosa-wildfire_00000342",
+    "tile_id": 11,
+    "tp": 18881,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 4265,
+    "reference": 9892,
+    "sample_id": "santa-rosa-wildfire_00000342",
+    "tile_id": 12,
+    "tp": 9825,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 931,
+    "reference": 3044,
+    "sample_id": "santa-rosa-wildfire_00000342",
+    "tile_id": 13,
+    "tp": 3039,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 1857,
+    "reference": 9355,
+    "sample_id": "santa-rosa-wildfire_00000342",
+    "tile_id": 14,
+    "tp": 9095,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 1840,
+    "reference": 13429,
+    "sample_id": "santa-rosa-wildfire_00000342",
+    "tile_id": 15,
+    "tp": 11952,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 815,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000352",
+    "tile_id": 0,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000352",
+    "tile_id": 1,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000352",
+    "tile_id": 2,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 215,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000352",
+    "tile_id": 3,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 88,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000352",
+    "tile_id": 4,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 342,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000352",
+    "tile_id": 5,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000352",
+    "tile_id": 6,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000352",
+    "tile_id": 7,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 5,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000352",
+    "tile_id": 8,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000352",
+    "tile_id": 9,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 12,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000352",
+    "tile_id": 10,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000352",
+    "tile_id": 11,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 157,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000352",
+    "tile_id": 12,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000352",
+    "tile_id": 13,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000352",
+    "tile_id": 14,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "fp": 1057,
+    "reference": 0,
+    "sample_id": "santa-rosa-wildfire_00000352",
+    "tile_id": 15,
+    "tp": 0,
+    "valid_pixels": 65536
+  }
+]

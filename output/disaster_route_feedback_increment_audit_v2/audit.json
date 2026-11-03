@@ -1,0 +1,39 @@
+{
+  "status": "PRIMARY_CELL_AUDITED",
+  "original_claude_files_unchanged": true,
+  "source_snapshot_matches_current": true,
+  "claude_tests_passed": 7,
+  "new_metric_tests_passed": 4,
+  "primary_non_ap_metrics_reproduced_tolerance": 1e-07,
+  "all_six_fits_converged": true,
+  "legacy_preservation": [
+    {
+      "folder": "disaster_route_real_xbd36_v1",
+      "files_checked": 257
+    },
+    {
+      "folder": "disaster_route_structure_pilot_v1",
+      "files_checked": 31
+    },
+    {
+      "folder": "disaster_route_headroom_v1",
+      "files_checked": 19
+    },
+    {
+      "folder": "disaster_route_aippms_control_v1",
+      "files_checked": 23
+    },
+    {
+      "folder": "感知检查_阶段汇报_20261028",
+      "files_checked": 46
+    },
+    {
+      "folder": "disaster_route_inspection_information_v1",
+      "files_checked": 13
+    }
+  ],
+  "v1_all_cells_audited": false,
+  "figure_visually_checked": true,
+  "new_perception_inference": 0,
+  "gpu_rental": false
+}

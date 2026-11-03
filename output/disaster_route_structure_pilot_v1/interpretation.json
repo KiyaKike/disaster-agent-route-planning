@@ -1,0 +1,72 @@
+{
+  "comparisons": [
+    {
+      "budget_s_model": 300,
+      "guard_changes_actions_vs_structure": false,
+      "sample_id": "hurricane-harvey_00000392",
+      "structure_changes_actions_vs_frozen": false,
+      "structure_minus_frozen_recall": 0.0
+    },
+    {
+      "budget_s_model": 600,
+      "guard_changes_actions_vs_structure": false,
+      "sample_id": "hurricane-harvey_00000392",
+      "structure_changes_actions_vs_frozen": false,
+      "structure_minus_frozen_recall": 0.0
+    },
+    {
+      "budget_s_model": 900,
+      "guard_changes_actions_vs_structure": false,
+      "sample_id": "hurricane-harvey_00000392",
+      "structure_changes_actions_vs_frozen": false,
+      "structure_minus_frozen_recall": 0.0
+    },
+    {
+      "budget_s_model": 300,
+      "guard_changes_actions_vs_structure": false,
+      "sample_id": "santa-rosa-wildfire_00000220",
+      "structure_changes_actions_vs_frozen": false,
+      "structure_minus_frozen_recall": 0.0
+    },
+    {
+      "budget_s_model": 600,
+      "guard_changes_actions_vs_structure": false,
+      "sample_id": "santa-rosa-wildfire_00000220",
+      "structure_changes_actions_vs_frozen": true,
+      "structure_minus_frozen_recall": -0.01849574931497222
+    },
+    {
+      "budget_s_model": 900,
+      "guard_changes_actions_vs_structure": false,
+      "sample_id": "santa-rosa-wildfire_00000220",
+      "structure_changes_actions_vs_frozen": true,
+      "structure_minus_frozen_recall": 0.025240637954050404
+    },
+    {
+      "budget_s_model": 300,
+      "guard_changes_actions_vs_structure": false,
+      "sample_id": "mexico-earthquake_00000064",
+      "structure_changes_actions_vs_frozen": false,
+      "structure_minus_frozen_recall": null
+    },
+    {
+      "budget_s_model": 600,
+      "guard_changes_actions_vs_structure": false,
+      "sample_id": "mexico-earthquake_00000064",
+      "structure_changes_actions_vs_frozen": false,
+      "structure_minus_frozen_recall": null
+    },
+    {
+      "budget_s_model": 900,
+      "guard_changes_actions_vs_structure": false,
+      "sample_id": "mexico-earthquake_00000064",
+      "structure_changes_actions_vs_frozen": true,
+      "structure_minus_frozen_recall": null
+    }
+  ],
+  "decision": "Do not tune guard/propagation on these cases. Obtain independently referenced/registered continuous case and platform constraints; retain these as integration fixtures.",
+  "guard_changes_actions": 0,
+  "mechanism_conclusion": "Same-building update sometimes changes actions, but no consistent advantage; the guarded variant has identical actions to unguarded in all nine matched comparisons. No measured added benefit of this floor in this pilot.",
+  "scope": "Nine case-budget comparisons, development integration only. No pooled success claim.",
+  "structure_changes_actions": 3
+}

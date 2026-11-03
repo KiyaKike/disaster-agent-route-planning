@@ -1,0 +1,8 @@
+EBD dataset, Zeyu Wang, Feng Zhang and Chuyi Wu (figshare record), DOI10.6084/m9.figshare.25285009.v2; associated paper DOI10.34133/remotesensing.0733. Original imagery: Maxar Open Data Program. Accessed2026-10-25. This project extracts fixed PNG members without modifying their bytes; any previews are resized derivatives.
+
+EBD declared license: CC BY 4.0
+Original Maxar imagery declared license: CC BY-NC 4.0
+https://creativecommons.org/licenses/by/4.0/
+https://creativecommons.org/licenses/by-nc/4.0/
+
+No per-chip original acquisition ID, time or footprint mapping recovered. Turkey/Pakistan official event collections identified; Texas2022 event collection not found in current ARD root. This is not blanket license-chain or geographic-independence clearance.

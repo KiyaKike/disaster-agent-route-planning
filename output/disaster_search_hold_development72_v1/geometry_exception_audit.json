@@ -1,0 +1,3498 @@
+{
+  "damage_read": false,
+  "network_bytes": 0,
+  "no_protected_intersections": true,
+  "outside_polygons": [
+    {
+      "maximum_overhang_pixels": 4.499552950540813e-06,
+      "outside_vertices": [
+        [
+          -4.499490634178364e-06,
+          412.4535868199483
+        ],
+        [
+          -4.499552950540813e-06,
+          425.0203199316102
+        ],
+        [
+          -4.499490634178364e-06,
+          412.4535868199483
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000403",
+      "source_object_index": 6
+    },
+    {
+      "maximum_overhang_pixels": 4.498431256016752e-06,
+      "outside_vertices": [
+        [
+          -4.498431256016752e-06,
+          852.9670195420492
+        ],
+        [
+          -4.497122612405349e-06,
+          867.6425322708851
+        ],
+        [
+          -4.498431256016752e-06,
+          852.9670195420492
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000403",
+      "source_object_index": 23
+    },
+    {
+      "maximum_overhang_pixels": 4.498368939654305e-06,
+      "outside_vertices": [
+        [
+          -4.498368939654305e-06,
+          849.4319302079291
+        ],
+        [
+          -4.495813968793946e-06,
+          794.0243821482073
+        ],
+        [
+          -4.498368939654305e-06,
+          849.4319302079291
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000403",
+      "source_object_index": 25
+    },
+    {
+      "maximum_overhang_pixels": 4.498431256016752e-06,
+      "outside_vertices": [
+        [
+          -4.497995041479618e-06,
+          883.8132163401516
+        ],
+        [
+          -4.498431256016752e-06,
+          901.2020438650475
+        ],
+        [
+          -4.497995041479618e-06,
+          883.8132163401516
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000403",
+      "source_object_index": 31
+    },
+    {
+      "maximum_overhang_pixels": 4.496187866968633e-06,
+      "outside_vertices": [
+        [
+          -4.494816906994782e-06,
+          922.5309813213497
+        ],
+        [
+          -4.496187866968633e-06,
+          951.6740418284701
+        ],
+        [
+          -4.494816906994782e-06,
+          922.5309813213497
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000403",
+      "source_object_index": 34
+    },
+    {
+      "maximum_overhang_pixels": 4.49625018333108e-06,
+      "outside_vertices": [
+        [
+          -4.49625018333108e-06,
+          573.6963856227723
+        ],
+        [
+          -4.493819845195618e-06,
+          626.8523969594252
+        ],
+        [
+          -4.49625018333108e-06,
+          573.6963856227723
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000403",
+      "source_object_index": 46
+    },
+    {
+      "maximum_overhang_pixels": 4.498244306929409e-06,
+      "outside_vertices": [
+        [
+          -4.496748714230663e-06,
+          633.893789991884
+        ],
+        [
+          -4.498244306929409e-06,
+          648.6573589673505
+        ],
+        [
+          -4.496748714230663e-06,
+          633.893789991884
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000403",
+      "source_object_index": 47
+    },
+    {
+      "maximum_overhang_pixels": 4.498368939654305e-06,
+      "outside_vertices": [
+        [
+          -4.498368939654305e-06,
+          664.9489301532931
+        ],
+        [
+          -4.497496510580036e-06,
+          663.885405278461
+        ],
+        [
+          -4.497995041479618e-06,
+          678.4109124136754
+        ],
+        [
+          -4.498368939654305e-06,
+          664.9489301532931
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000403",
+      "source_object_index": 48
+    },
+    {
+      "maximum_overhang_pixels": 4.769248131230116e-06,
+      "outside_vertices": [
+        [
+          -4.769248131230116e-06,
+          893.745404007902
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000293",
+      "source_object_index": 0
+    },
+    {
+      "maximum_overhang_pixels": 4.768811615318524e-06,
+      "outside_vertices": [
+        [
+          -4.768811615318524e-06,
+          790.3256364641567
+        ],
+        [
+          -4.765631285105491e-06,
+          694.0944456318491
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000293",
+      "source_object_index": 2
+    },
+    {
+      "maximum_overhang_pixels": 4.117621664524074e-06,
+      "outside_vertices": [
+        [
+          -4.116936691543963e-06,
+          136.6785785607177
+        ],
+        [
+          -4.117621664524074e-06,
+          182.4015725264339
+        ],
+        [
+          -4.116936691543963e-06,
+          136.6785785607177
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000343",
+      "source_object_index": 25
+    },
+    {
+      "maximum_overhang_pixels": 4.11986339427716e-06,
+      "outside_vertices": [
+        [
+          -4.11986339427716e-06,
+          25.71690913111001
+        ],
+        [
+          -4.118929340213374e-06,
+          43.37760569130506
+        ],
+        [
+          -4.11986339427716e-06,
+          25.71690913111001
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000343",
+      "source_object_index": 31
+    },
+    {
+      "maximum_overhang_pixels": 4.200621359878889e-06,
+      "outside_vertices": [
+        [
+          -4.200621359878889e-06,
+          21.86746817006016
+        ],
+        [
+          -4.199686614442173e-06,
+          0.007461440185599228
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000386",
+      "source_object_index": 0
+    },
+    {
+      "maximum_overhang_pixels": 4.200621359878889e-06,
+      "outside_vertices": [
+        [
+          -4.200621359878889e-06,
+          27.22020697892191
+        ],
+        [
+          -4.200060512616859e-06,
+          65.52714890785207
+        ],
+        [
+          -4.200621359878889e-06,
+          27.22020697892191
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000386",
+      "source_object_index": 1
+    },
+    {
+      "maximum_overhang_pixels": 4.197879439931187e-06,
+      "outside_vertices": [
+        [
+          -4.196882378132023e-06,
+          209.7322359859188
+        ],
+        [
+          -4.197879439931187e-06,
+          166.1283869728896
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000386",
+      "source_object_index": 2
+    },
+    {
+      "maximum_overhang_pixels": 4.199873563529516e-06,
+      "outside_vertices": [
+        [
+          -4.199001134455247e-06,
+          165.6283869755317
+        ],
+        [
+          -4.199873563529516e-06,
+          67.49830137686745
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000386",
+      "source_object_index": 3
+    },
+    {
+      "maximum_overhang_pixels": 4.197131643581814e-06,
+      "outside_vertices": [
+        [
+          -4.196383847232441e-06,
+          244.6210883468799
+        ],
+        [
+          -4.197131643581814e-06,
+          213.3105634144583
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000386",
+      "source_object_index": 4
+    },
+    {
+      "maximum_overhang_pixels": 4.199312716267486e-06,
+      "outside_vertices": [
+        [
+          -4.199312716267486e-06,
+          247.5529476859209
+        ],
+        [
+          -4.198564919918113e-06,
+          352.2180057930746
+        ],
+        [
+          -4.199312716267486e-06,
+          247.5529476859209
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000386",
+      "source_object_index": 5
+    },
+    {
+      "maximum_overhang_pixels": 4.552085644084279e-06,
+      "outside_vertices": [
+        [
+          -4.552085644084279e-06,
+          1022.983462004459
+        ],
+        [
+          -4.198191021743426e-06,
+          876.9534809731098
+        ],
+        [
+          -4.552085644084279e-06,
+          1022.983462004459
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000386",
+      "source_object_index": 16
+    },
+    {
+      "maximum_overhang_pixels": 3.989306574818521e-06,
+      "outside_vertices": [
+        [
+          -3.989306574818521e-06,
+          151.3925502294378
+        ],
+        [
+          -3.988060247569566e-06,
+          162.750002038951
+        ],
+        [
+          -3.989306574818521e-06,
+          151.3925502294378
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000421",
+      "source_object_index": 1
+    },
+    {
+      "maximum_overhang_pixels": 3.988371829381804e-06,
+      "outside_vertices": [
+        [
+          -3.986377705783475e-06,
+          580.5136217550775
+        ],
+        [
+          -3.988371829381804e-06,
+          642.5523160887336
+        ],
+        [
+          -3.986377705783475e-06,
+          580.5136217550775
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000421",
+      "source_object_index": 65
+    },
+    {
+      "maximum_overhang_pixels": 3.90013186015577e-06,
+      "outside_vertices": [
+        [
+          -3.898511634732128e-06,
+          686.3020433012331
+        ],
+        [
+          -3.90013186015577e-06,
+          667.1784057643544
+        ],
+        [
+          -3.899820278343532e-06,
+          659.920140766065
+        ],
+        [
+          -3.899944911068426e-06,
+          635.8002603509759
+        ],
+        [
+          -3.898511634732128e-06,
+          686.3020433012331
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000372",
+      "source_object_index": 88
+    },
+    {
+      "maximum_overhang_pixels": 3.899446380168845e-06,
+      "outside_vertices": [
+        [
+          -3.897078358395829e-06,
+          702.230584484515
+        ],
+        [
+          -3.89844931836968e-06,
+          750.1029499581161
+        ],
+        [
+          -3.899446380168845e-06,
+          732.1263882302222
+        ],
+        [
+          -3.89539581660974e-06,
+          709.005839380616
+        ],
+        [
+          -3.897078358395829e-06,
+          702.230584484515
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000372",
+      "source_object_index": 89
+    },
+    {
+      "maximum_overhang_pixels": 3.899757961981083e-06,
+      "outside_vertices": [
+        [
+          -3.899757961981083e-06,
+          914.2494827893144
+        ],
+        [
+          -3.899757961981083e-06,
+          914.2494827893144
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000372",
+      "source_object_index": 92
+    },
+    {
+      "maximum_overhang_pixels": 3.898324685644785e-06,
+      "outside_vertices": [
+        [
+          -3.897763838382755e-06,
+          932.9775952997953
+        ],
+        [
+          -3.898324685644785e-06,
+          963.0264813275561
+        ],
+        [
+          -3.897763838382755e-06,
+          932.9775952997953
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000372",
+      "source_object_index": 152
+    },
+    {
+      "maximum_overhang_pixels": 4.078917504018405e-06,
+      "outside_vertices": [
+        [
+          -4.050501242742225e-06,
+          1012.747850741698
+        ],
+        [
+          -4.078917504018405e-06,
+          1022.983412149375
+        ],
+        [
+          -4.050501242742225e-06,
+          1012.747850741698
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000459",
+      "source_object_index": 59
+    },
+    {
+      "maximum_overhang_pixels": 4.053866326314405e-06,
+      "outside_vertices": [
+        [
+          -4.053866326314405e-06,
+          926.0672248881064
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000459",
+      "source_object_index": 63
+    },
+    {
+      "maximum_overhang_pixels": 4.054925704476016e-06,
+      "outside_vertices": [
+        [
+          -4.054925704476016e-06,
+          778.8645989094254
+        ],
+        [
+          -4.054738755388673e-06,
+          800.111834202507
+        ],
+        [
+          -4.054925704476016e-06,
+          778.8645989094254
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000459",
+      "source_object_index": 86
+    },
+    {
+      "maximum_overhang_pixels": 4.05567350082539e-06,
+      "outside_vertices": [
+        [
+          -4.054551806301329e-06,
+          800.898537227382
+        ],
+        [
+          -4.05567350082539e-06,
+          820.8032732120357
+        ],
+        [
+          -4.054551806301329e-06,
+          800.898537227382
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000459",
+      "source_object_index": 87
+    },
+    {
+      "maximum_overhang_pixels": 4.054053275401748e-06,
+      "outside_vertices": [
+        [
+          -4.0539909590393e-06,
+          823.2331131157185
+        ],
+        [
+          -4.054053275401748e-06,
+          841.0344364794157
+        ],
+        [
+          -4.0539909590393e-06,
+          823.2331131157185
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000459",
+      "source_object_index": 88
+    },
+    {
+      "maximum_overhang_pixels": 4.055424235375598e-06,
+      "outside_vertices": [
+        [
+          -4.055424235375598e-06,
+          755.4111847430732
+        ],
+        [
+          -4.054053275401748e-06,
+          776.4347510182804
+        ],
+        [
+          -4.055424235375598e-06,
+          755.4111847430732
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000459",
+      "source_object_index": 89
+    },
+    {
+      "maximum_overhang_pixels": 4.788704269003971e-06,
+      "outside_vertices": [
+        [
+          -4.788704269003971e-06,
+          61.00954044260572
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000193",
+      "source_object_index": 0
+    },
+    {
+      "maximum_overhang_pixels": 4.790575051482226e-06,
+      "outside_vertices": [
+        [
+          -4.788891347251797e-06,
+          454.2264389684887
+        ],
+        [
+          -4.790575051482226e-06,
+          467.275992419835
+        ],
+        [
+          -4.788891347251797e-06,
+          454.2264389684887
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000193",
+      "source_object_index": 40
+    },
+    {
+      "maximum_overhang_pixels": 4.791011567393818e-06,
+      "outside_vertices": [
+        [
+          -4.791011567393818e-06,
+          679.4247412365326
+        ],
+        [
+          -4.789639660243099e-06,
+          721.3517566318196
+        ],
+        [
+          -4.791011567393818e-06,
+          679.4247412365326
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000193",
+      "source_object_index": 162
+    },
+    {
+      "maximum_overhang_pixels": 4.789639660243099e-06,
+      "outside_vertices": [
+        [
+          -4.789265503747447e-06,
+          807.9668287469598
+        ],
+        [
+          -4.789639660243099e-06,
+          827.3111723483698
+        ],
+        [
+          -4.789265503747447e-06,
+          807.9668287469598
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000193",
+      "source_object_index": 178
+    },
+    {
+      "maximum_overhang_pixels": 4.789826738490924e-06,
+      "outside_vertices": [
+        [
+          -4.788891347251797e-06,
+          886.0923555649138
+        ],
+        [
+          -4.789826738490924e-06,
+          902.8965743620444
+        ],
+        [
+          -4.788891347251797e-06,
+          886.0923555649138
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000193",
+      "source_object_index": 191
+    },
+    {
+      "maximum_overhang_pixels": 4.791261005057586e-06,
+      "outside_vertices": [
+        [
+          -4.791261005057586e-06,
+          932.6252283830414
+        ],
+        [
+          -4.791261005057586e-06,
+          932.6252283830414
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000193",
+      "source_object_index": 192
+    },
+    {
+      "maximum_overhang_pixels": 4.792009318048888e-06,
+      "outside_vertices": [
+        [
+          -4.792009318048888e-06,
+          586.6587586477001
+        ],
+        [
+          -4.789577300827157e-06,
+          565.306402006793
+        ],
+        [
+          -4.792009318048888e-06,
+          586.6587586477001
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000193",
+      "source_object_index": 215
+    },
+    {
+      "maximum_overhang_pixels": 4.251845409810947e-06,
+      "outside_vertices": [
+        [
+          -4.251720777086052e-06,
+          954.1711543561943
+        ],
+        [
+          -4.251845409810947e-06,
+          988.7564959437008
+        ],
+        [
+          -4.251720777086052e-06,
+          954.1711543561943
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000404",
+      "source_object_index": 1
+    },
+    {
+      "maximum_overhang_pixels": 4.250848348011784e-06,
+      "outside_vertices": [
+        [
+          -4.248044111701634e-06,
+          850.1207405906463
+        ],
+        [
+          -4.250848348011784e-06,
+          812.3052916191238
+        ],
+        [
+          -4.248044111701634e-06,
+          850.1207405906463
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000404",
+      "source_object_index": 8
+    },
+    {
+      "maximum_overhang_pixels": 4.251533827998708e-06,
+      "outside_vertices": [
+        [
+          -4.247857162614291e-06,
+          812.4271023829416
+        ],
+        [
+          -4.251533827998708e-06,
+          786.1364696814154
+        ],
+        [
+          -4.247857162614291e-06,
+          812.4271023829416
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000404",
+      "source_object_index": 9
+    },
+    {
+      "maximum_overhang_pixels": 4.25010055166241e-06,
+      "outside_vertices": [
+        [
+          -4.25010055166241e-06,
+          676.6711826584831
+        ],
+        [
+          -4.248231060788977e-06,
+          749.1636218070138
+        ],
+        [
+          -4.25010055166241e-06,
+          676.6711826584831
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000404",
+      "source_object_index": 67
+    },
+    {
+      "maximum_overhang_pixels": 4.252094675260739e-06,
+      "outside_vertices": [
+        [
+          -4.252094675260739e-06,
+          634.8405089084399
+        ],
+        [
+          -4.250412133474649e-06,
+          613.5156288824613
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000404",
+      "source_object_index": 75
+    },
+    {
+      "maximum_overhang_pixels": 4.252655522522769e-06,
+      "outside_vertices": [
+        [
+          -4.251346878911365e-06,
+          524.6948796234296
+        ],
+        [
+          -4.252655522522769e-06,
+          505.5459334345874
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000404",
+      "source_object_index": 132
+    },
+    {
+      "maximum_overhang_pixels": 4.252842471610112e-06,
+      "outside_vertices": [
+        [
+          -4.252842471610112e-06,
+          452.7167205239537
+        ],
+        [
+          -4.250287500749754e-06,
+          441.5404947159126
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000404",
+      "source_object_index": 133
+    },
+    {
+      "maximum_overhang_pixels": 4.252655522522769e-06,
+      "outside_vertices": [
+        [
+          -4.252655522522769e-06,
+          307.1612804152729
+        ],
+        [
+          -4.248604958963664e-06,
+          285.4721678942098
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000404",
+      "source_object_index": 183
+    },
+    {
+      "maximum_overhang_pixels": 4.251409195273814e-06,
+      "outside_vertices": [
+        [
+          -4.251346878911365e-06,
+          209.0569791896889
+        ],
+        [
+          -4.251409195273814e-06,
+          246.4642959713507
+        ],
+        [
+          -4.251346878911365e-06,
+          209.0569791896889
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000404",
+      "source_object_index": 190
+    },
+    {
+      "maximum_overhang_pixels": 4.251533827998708e-06,
+      "outside_vertices": [
+        [
+          -4.251533827998708e-06,
+          126.7940656215649
+        ],
+        [
+          -4.250225184387306e-06,
+          81.62986543789376
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000404",
+      "source_object_index": 198
+    },
+    {
+      "maximum_overhang_pixels": 3.295645810584009e-06,
+      "outside_vertices": [
+        [
+          -3.295645810584009e-06,
+          15.72400908661277
+        ],
+        [
+          -3.292966069081917e-06,
+          0.007019849841765628
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000013",
+      "source_object_index": 9
+    },
+    {
+      "maximum_overhang_pixels": 3.29658060413125e-06,
+      "outside_vertices": [
+        [
+          -3.29658060413125e-06,
+          228.7885308523841
+        ],
+        [
+          -3.292592151663021e-06,
+          53.6543003868379
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000013",
+      "source_object_index": 19
+    },
+    {
+      "maximum_overhang_pixels": 3.295645810584009e-06,
+      "outside_vertices": [
+        [
+          -3.294212460478239e-06,
+          395.3451694769254
+        ],
+        [
+          -3.295645810584009e-06,
+          371.9770053686036
+        ],
+        [
+          -3.295521171444377e-06,
+          371.0597526185244
+        ],
+        [
+          -3.29545885187456e-06,
+          230.606872804911
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000013",
+      "source_object_index": 23
+    },
+    {
+      "maximum_overhang_pixels": 3.294212460478239e-06,
+      "outside_vertices": [
+        [
+          -3.291657358115779e-06,
+          658.2292993554619
+        ],
+        [
+          -3.294212460478239e-06,
+          500.9337680398059
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000013",
+      "source_object_index": 27
+    },
+    {
+      "maximum_overhang_pixels": 3.295708130153825e-06,
+      "outside_vertices": [
+        [
+          -3.293090708221549e-06,
+          878.8931111479228
+        ],
+        [
+          -3.295708130153825e-06,
+          737.4102091978
+        ],
+        [
+          -3.292093595104492e-06,
+          733.89001549751
+        ],
+        [
+          -3.29514725402548e-06,
+          696.5847038045985
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000013",
+      "source_object_index": 34
+    },
+    {
+      "maximum_overhang_pixels": 3.581069440341677e-06,
+      "outside_vertices": [
+        [
+          -3.581069440341677e-06,
+          1022.983020149911
+        ],
+        [
+          -3.293838543059342e-06,
+          899.3852455638022
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000013",
+      "source_object_index": 35
+    },
+    {
+      "maximum_overhang_pixels": 5.023866256514034e-06,
+      "outside_vertices": [
+        [
+          -5.023491960293366e-06,
+          33.05298197199446
+        ],
+        [
+          -5.023866256514034e-06,
+          0.007625930164236338
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000201",
+      "source_object_index": 0
+    },
+    {
+      "maximum_overhang_pixels": 5.02698539168627e-06,
+      "outside_vertices": [
+        [
+          -5.02698539168627e-06,
+          144.0668400975864
+        ],
+        [
+          -5.026423947355267e-06,
+          166.559690580863
+        ],
+        [
+          -5.02698539168627e-06,
+          144.0668400975864
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000201",
+      "source_object_index": 8
+    },
+    {
+      "maximum_overhang_pixels": 5.027297305203494e-06,
+      "outside_vertices": [
+        [
+          -5.0236791084037e-06,
+          220.702022144918
+        ],
+        [
+          -5.027297305203494e-06,
+          260.1960568769444
+        ],
+        [
+          -5.0236791084037e-06,
+          220.702022144918
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000201",
+      "source_object_index": 10
+    },
+    {
+      "maximum_overhang_pixels": 5.027484453313828e-06,
+      "outside_vertices": [
+        [
+          -5.0236791084037e-06,
+          344.0793220743077
+        ],
+        [
+          -5.027484453313828e-06,
+          392.1969471873246
+        ],
+        [
+          -5.0236791084037e-06,
+          344.0793220743077
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000201",
+      "source_object_index": 17
+    },
+    {
+      "maximum_overhang_pixels": 5.027609218720718e-06,
+      "outside_vertices": [
+        [
+          -5.026361564651823e-06,
+          416.5295753720146
+        ],
+        [
+          -5.027609218720718e-06,
+          463.9321660354863
+        ],
+        [
+          -5.026361564651823e-06,
+          416.5295753720146
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000201",
+      "source_object_index": 23
+    },
+    {
+      "maximum_overhang_pixels": 5.027172539796604e-06,
+      "outside_vertices": [
+        [
+          -5.027172539796604e-06,
+          542.7378613987606
+        ],
+        [
+          -5.024989145176039e-06,
+          589.703341501714
+        ],
+        [
+          -5.027172539796604e-06,
+          542.7378613987606
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000201",
+      "source_object_index": 30
+    },
+    {
+      "maximum_overhang_pixels": 5.026611095465602e-06,
+      "outside_vertices": [
+        [
+          -5.023616725700255e-06,
+          617.1903809579183
+        ],
+        [
+          -5.026611095465602e-06,
+          656.0205842786744
+        ],
+        [
+          -5.023616725700255e-06,
+          617.1903809579183
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000201",
+      "source_object_index": 36
+    },
+    {
+      "maximum_overhang_pixels": 5.026236799244934e-06,
+      "outside_vertices": [
+        [
+          -5.02236907163136e-06,
+          730.0888742595946
+        ],
+        [
+          -5.026236799244934e-06,
+          775.9124140059432
+        ],
+        [
+          -5.02236907163136e-06,
+          730.0888742595946
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000201",
+      "source_object_index": 42
+    },
+    {
+      "maximum_overhang_pixels": 5.026735860872491e-06,
+      "outside_vertices": [
+        [
+          -5.024240552734702e-06,
+          806.4156294428406
+        ],
+        [
+          -5.026735860872491e-06,
+          856.0216186989348
+        ],
+        [
+          -5.024240552734702e-06,
+          806.4156294428406
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000201",
+      "source_object_index": 48
+    },
+    {
+      "maximum_overhang_pixels": 2.468220453506645e-06,
+      "outside_vertices": [
+        [
+          -2.467472545687795e-06,
+          996.7625744638626
+        ],
+        [
+          -2.468220453506645e-06,
+          884.1299562131572
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000014",
+      "source_object_index": 0
+    },
+    {
+      "maximum_overhang_pixels": 2.46709859177837e-06,
+      "outside_vertices": [
+        [
+          -2.46709859177837e-06,
+          524.4040746728916
+        ],
+        [
+          -2.46709859177837e-06,
+          750.5424322433153
+        ],
+        [
+          -2.46709859177837e-06,
+          524.4040746728916
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000014",
+      "source_object_index": 9
+    },
+    {
+      "maximum_overhang_pixels": 2.468719058719211e-06,
+      "outside_vertices": [
+        [
+          -2.468719058719211e-06,
+          372.60788712756
+        ],
+        [
+          -2.468345104809786e-06,
+          437.1093395292112
+        ],
+        [
+          -2.468719058719211e-06,
+          372.60788712756
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000014",
+      "source_object_index": 12
+    },
+    {
+      "maximum_overhang_pixels": 2.469591617841202e-06,
+      "outside_vertices": [
+        [
+          -2.466973940475229e-06,
+          119.3240543740745
+        ],
+        [
+          -2.469591617841202e-06,
+          0.006354302611361213
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000014",
+      "source_object_index": 13
+    },
+    {
+      "maximum_overhang_pixels": 2.466973940475229e-06,
+      "outside_vertices": [
+        [
+          -2.466350683959521e-06,
+          160.7241248796039
+        ],
+        [
+          -2.466973940475229e-06,
+          212.3824230729537
+        ],
+        [
+          -2.466350683959521e-06,
+          160.7241248796039
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000014",
+      "source_object_index": 14
+    },
+    {
+      "maximum_overhang_pixels": 4.838099191918952e-06,
+      "outside_vertices": [
+        [
+          -4.836665459407463e-06,
+          489.1946724745761
+        ],
+        [
+          -4.838099191918952e-06,
+          632.1915477556086
+        ],
+        [
+          -4.836665459407463e-06,
+          489.1946724745761
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000125",
+      "source_object_index": 0
+    },
+    {
+      "maximum_overhang_pixels": 4.839844605411199e-06,
+      "outside_vertices": [
+        [
+          -4.837288821368981e-06,
+          632.829990209384
+        ],
+        [
+          -4.838161528115104e-06,
+          968.2567951391023
+        ],
+        [
+          -4.839844605411199e-06,
+          687.3048313691651
+        ],
+        [
+          -4.837288821368981e-06,
+          632.829990209384
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000125",
+      "source_object_index": 1
+    },
+    {
+      "maximum_overhang_pixels": 0.3514397062629701,
+      "outside_vertices": [
+        [
+          -4.835730416465189e-06,
+          978.9036053132322
+        ],
+        [
+          -0.3514397062629701,
+          1022.983620228481
+        ],
+        [
+          -4.835730416465189e-06,
+          978.9036053132322
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000125",
+      "source_object_index": 3
+    },
+    {
+      "maximum_overhang_pixels": 3.814446861790115e-06,
+      "outside_vertices": [
+        [
+          -3.812390421829338e-06,
+          445.1111677418995
+        ],
+        [
+          -3.814446861790115e-06,
+          416.971910280439
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000447",
+      "source_object_index": 2
+    },
+    {
+      "maximum_overhang_pixels": 4.926830375315086e-06,
+      "outside_vertices": [
+        [
+          -4.926830375315086e-06,
+          49.39100805064473
+        ],
+        [
+          -4.926830375315086e-06,
+          87.31571862451656
+        ],
+        [
+          -4.926830375315086e-06,
+          49.39100805064473
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000236",
+      "source_object_index": 69
+    },
+    {
+      "maximum_overhang_pixels": 4.927516328890446e-06,
+      "outside_vertices": [
+        [
+          -4.927516328890446e-06,
+          96.6605419882394
+        ],
+        [
+          -4.927017453562911e-06,
+          118.7997849371505
+        ],
+        [
+          -4.927516328890446e-06,
+          96.6605419882394
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000236",
+      "source_object_index": 70
+    },
+    {
+      "maximum_overhang_pixels": 4.930821377935363e-06,
+      "outside_vertices": [
+        [
+          -4.930821377935363e-06,
+          198.2111769831028
+        ],
+        [
+          -4.929511830200584e-06,
+          225.3759064463627
+        ],
+        [
+          -4.930821377935363e-06,
+          198.2111769831028
+        ]
+      ],
+      "sample_id": "hurricane-harvey_00000236",
+      "source_object_index": 74
+    },
+    {
+      "maximum_overhang_pixels": 1.081884814580716e-09,
+      "outside_vertices": [
+        [
+          -1.081884814580716e-09,
+          940.6205509501837
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000054",
+      "source_object_index": 33
+    },
+    {
+      "maximum_overhang_pixels": 1.32230366226532e-09,
+      "outside_vertices": [
+        [
+          -1.32230366226532e-09,
+          641.624698927323
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000054",
+      "source_object_index": 39
+    },
+    {
+      "maximum_overhang_pixels": 1.081884814580716e-09,
+      "outside_vertices": [
+        [
+          -1.081884814580716e-09,
+          499.835755229773
+        ],
+        [
+          -4.808376953692073e-10,
+          513.1822635446196
+        ],
+        [
+          -1.081884814580716e-09,
+          499.835755229773
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000054",
+      "source_object_index": 45
+    },
+    {
+      "maximum_overhang_pixels": 7.212565430538111e-10,
+      "outside_vertices": [
+        [
+          -7.212565430538111e-10,
+          370.7411300189244
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000054",
+      "source_object_index": 47
+    },
+    {
+      "maximum_overhang_pixels": 2.404188476846037e-10,
+      "outside_vertices": [
+        [
+          -2.404188476846037e-10,
+          389.544559697514
+        ],
+        [
+          -2.404188476846037e-10,
+          389.544559697514
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000054",
+      "source_object_index": 48
+    },
+    {
+      "maximum_overhang_pixels": 1.081884814580716e-09,
+      "outside_vertices": [
+        [
+          -1.081884814580716e-09,
+          206.2195243632196
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000054",
+      "source_object_index": 50
+    },
+    {
+      "maximum_overhang_pixels": 7.212565430538102e-10,
+      "outside_vertices": [
+        [
+          -7.212565430538102e-10,
+          93.38628321075102
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000036",
+      "source_object_index": 7
+    },
+    {
+      "maximum_overhang_pixels": 1.081884814580715e-09,
+      "outside_vertices": [
+        [
+          -8.414659668961119e-10,
+          106.3627087780769
+        ],
+        [
+          -1.081884814580715e-09,
+          139.393610221917
+        ],
+        [
+          -8.414659668961119e-10,
+          106.3627087780769
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000036",
+      "source_object_index": 8
+    },
+    {
+      "maximum_overhang_pixels": 1.202094238423017e-09,
+      "outside_vertices": [
+        [
+          -2.404188476846034e-10,
+          155.8477887536639
+        ],
+        [
+          -1.202094238423017e-09,
+          150.7782617100609
+        ],
+        [
+          -6.010471192115085e-10,
+          165.2626246905474
+        ],
+        [
+          -2.404188476846034e-10,
+          155.8477887536639
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000036",
+      "source_object_index": 11
+    },
+    {
+      "maximum_overhang_pixels": 1.202094238423017e-09,
+      "outside_vertices": [
+        [
+          -1.202094238423017e-09,
+          196.3408758224107
+        ],
+        [
+          -1.202094238423017e-09,
+          196.3408758224107
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000036",
+      "source_object_index": 16
+    },
+    {
+      "maximum_overhang_pixels": 1.322303662265319e-09,
+      "outside_vertices": [
+        [
+          -1.322303662265319e-09,
+          383.9630482650318
+        ],
+        [
+          -1.081884814580715e-09,
+          411.076032209537
+        ],
+        [
+          -1.322303662265319e-09,
+          383.9630482650318
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000036",
+      "source_object_index": 17
+    },
+    {
+      "maximum_overhang_pixels": 1.202094238423017e-09,
+      "outside_vertices": [
+        [
+          -1.202094238423017e-09,
+          540.1793372062664
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000036",
+      "source_object_index": 34
+    },
+    {
+      "maximum_overhang_pixels": 1.081884814580715e-09,
+      "outside_vertices": [
+        [
+          -1.081884814580715e-09,
+          723.3368098290766
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000036",
+      "source_object_index": 58
+    },
+    {
+      "maximum_overhang_pixels": 1.202094238423016e-10,
+      "outside_vertices": [
+        [
+          -1.202094238423016e-10,
+          127.9996439488234
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000116",
+      "source_object_index": 0
+    },
+    {
+      "maximum_overhang_pixels": 1.202393056083712e-10,
+      "outside_vertices": [
+        [
+          -1.202393056083712e-10,
+          226.0536910247032
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000130",
+      "source_object_index": 212
+    },
+    {
+      "maximum_overhang_pixels": 1.202393056083712e-09,
+      "outside_vertices": [
+        [
+          -1.202393056083712e-09,
+          191.959554644135
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000130",
+      "source_object_index": 214
+    },
+    {
+      "maximum_overhang_pixels": 3.607179168251137e-10,
+      "outside_vertices": [
+        [
+          -3.607179168251137e-10,
+          479.9180676177106
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000130",
+      "source_object_index": 270
+    },
+    {
+      "maximum_overhang_pixels": 8.416751392585985e-10,
+      "outside_vertices": [
+        [
+          -8.416751392585985e-10,
+          487.5444584398901
+        ],
+        [
+          -8.416751392585985e-10,
+          487.5444584398901
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000130",
+      "source_object_index": 271
+    },
+    {
+      "maximum_overhang_pixels": 6.011965280418561e-10,
+      "outside_vertices": [
+        [
+          -6.011965280418561e-10,
+          760.7043446355
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000130",
+      "source_object_index": 282
+    },
+    {
+      "maximum_overhang_pixels": 1.202094238423012e-09,
+      "outside_vertices": [
+        [
+          -1.202094238423012e-09,
+          23.73311163615893
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000134",
+      "source_object_index": 0
+    },
+    {
+      "maximum_overhang_pixels": 6.01047119211506e-10,
+      "outside_vertices": [
+        [
+          -6.01047119211506e-10,
+          461.1577395461774
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000134",
+      "source_object_index": 26
+    },
+    {
+      "maximum_overhang_pixels": 1.081884814580711e-09,
+      "outside_vertices": [
+        [
+          -1.081884814580711e-09,
+          202.1200000008532
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000134",
+      "source_object_index": 168
+    },
+    {
+      "maximum_overhang_pixels": 1.081884814580711e-09,
+      "outside_vertices": [
+        [
+          -6.01047119211506e-10,
+          144.4800000001927
+        ],
+        [
+          -1.081884814580711e-09,
+          125.3618037282182
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000134",
+      "source_object_index": 172
+    },
+    {
+      "maximum_overhang_pixels": 8.414659668961084e-10,
+      "outside_vertices": [
+        [
+          -8.414659668961084e-10,
+          363.6385945214629
+        ],
+        [
+          -4.808376953692049e-10,
+          383.775534186789
+        ],
+        [
+          -8.414659668961084e-10,
+          363.6385945214629
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000134",
+      "source_object_index": 173
+    },
+    {
+      "maximum_overhang_pixels": 1.322303662265318e-09,
+      "outside_vertices": [
+        [
+          -1.322303662265318e-09,
+          672.1192053045522
+        ],
+        [
+          -1.322303662265318e-09,
+          672.1192053045522
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000077",
+      "source_object_index": 13
+    },
+    {
+      "maximum_overhang_pixels": 2.163769629161429e-09,
+      "outside_vertices": [
+        [
+          -2.163769629161429e-09,
+          1022.976053666791
+        ],
+        [
+          -2.163769629161429e-09,
+          1022.976053666791
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000077",
+      "source_object_index": 219
+    },
+    {
+      "maximum_overhang_pixels": 7.212565430538098e-10,
+      "outside_vertices": [
+        [
+          -7.212565430538098e-10,
+          865.5019309525214
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000077",
+      "source_object_index": 227
+    },
+    {
+      "maximum_overhang_pixels": 1.202094238423016e-09,
+      "outside_vertices": [
+        [
+          -1.202094238423016e-09,
+          899.14386970823
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000077",
+      "source_object_index": 229
+    },
+    {
+      "maximum_overhang_pixels": 1.202393056083714e-10,
+      "outside_vertices": [
+        [
+          -1.202393056083714e-10,
+          71.9575647126504
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000056",
+      "source_object_index": 68
+    },
+    {
+      "maximum_overhang_pixels": 6.011965280418571e-10,
+      "outside_vertices": [
+        [
+          -6.011965280418571e-10,
+          76.43649767218825
+        ],
+        [
+          -6.011965280418571e-10,
+          76.43649767218825
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000056",
+      "source_object_index": 69
+    },
+    {
+      "maximum_overhang_pixels": 2.404786112167429e-10,
+      "outside_vertices": [
+        [
+          -2.404786112167429e-10,
+          253.6734846502614
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000056",
+      "source_object_index": 72
+    },
+    {
+      "maximum_overhang_pixels": 6.011965280418571e-10,
+      "outside_vertices": [
+        [
+          -6.011965280418571e-10,
+          267.5567434962184
+        ],
+        [
+          -4.809572224334857e-10,
+          286.4252598606268
+        ],
+        [
+          -6.011965280418571e-10,
+          267.5567434962184
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000056",
+      "source_object_index": 73
+    },
+    {
+      "maximum_overhang_pixels": 8.416751392586e-10,
+      "outside_vertices": [
+        [
+          -8.416751392586e-10,
+          914.1559534529988
+        ],
+        [
+          -8.416751392586e-10,
+          914.1559534529988
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000056",
+      "source_object_index": 84
+    },
+    {
+      "maximum_overhang_pixels": 2.404786112167429e-10,
+      "outside_vertices": [
+        [
+          -2.404786112167429e-10,
+          853.8402259601173
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000056",
+      "source_object_index": 131
+    },
+    {
+      "maximum_overhang_pixels": 1.202094238423016e-09,
+      "outside_vertices": [
+        [
+          -4.808376953692065e-10,
+          250.8862975760548
+        ],
+        [
+          -1.202094238423016e-09,
+          265.1661046142741
+        ],
+        [
+          -4.808376953692065e-10,
+          250.8862975760548
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000162",
+      "source_object_index": 154
+    },
+    {
+      "maximum_overhang_pixels": 1.202094238423016e-10,
+      "outside_vertices": [
+        [
+          -1.202094238423016e-10,
+          292.1162459059043
+        ],
+        [
+          -1.202094238423016e-10,
+          292.1162459059043
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000162",
+      "source_object_index": 156
+    },
+    {
+      "maximum_overhang_pixels": 7.212565430538098e-10,
+      "outside_vertices": [
+        [
+          -7.212565430538098e-10,
+          519.3358775317416
+        ],
+        [
+          -7.212565430538098e-10,
+          519.3358775317416
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000162",
+      "source_object_index": 200
+    },
+    {
+      "maximum_overhang_pixels": 1.202094238423016e-10,
+      "outside_vertices": [
+        [
+          -1.202094238423016e-10,
+          609.202137021804
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000162",
+      "source_object_index": 203
+    },
+    {
+      "maximum_overhang_pixels": 1.081884814580715e-09,
+      "outside_vertices": [
+        [
+          -1.081884814580715e-09,
+          558.1960462283159
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000162",
+      "source_object_index": 206
+    },
+    {
+      "maximum_overhang_pixels": 7.212565430538098e-10,
+      "outside_vertices": [
+        [
+          -7.212565430538098e-10,
+          743.7661146077452
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000162",
+      "source_object_index": 217
+    },
+    {
+      "maximum_overhang_pixels": 7.212565430538098e-10,
+      "outside_vertices": [
+        [
+          -7.212565430538098e-10,
+          746.3245753825521
+        ],
+        [
+          -7.212565430538098e-10,
+          746.3245753825521
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000162",
+      "source_object_index": 225
+    },
+    {
+      "maximum_overhang_pixels": 7.212565430538098e-10,
+      "outside_vertices": [
+        [
+          -4.808376953692065e-10,
+          824.1953101863542
+        ],
+        [
+          -7.212565430538098e-10,
+          811.1961868891103
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000162",
+      "source_object_index": 226
+    },
+    {
+      "maximum_overhang_pixels": 4.808376953692065e-10,
+      "outside_vertices": [
+        [
+          -4.808376953692065e-10,
+          11.42320796843505
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000123",
+      "source_object_index": 1
+    },
+    {
+      "maximum_overhang_pixels": 6.010471192115082e-10,
+      "outside_vertices": [
+        [
+          -6.010471192115082e-10,
+          39.12394363811114
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000123",
+      "source_object_index": 4
+    },
+    {
+      "maximum_overhang_pixels": 1.322303662265318e-09,
+      "outside_vertices": [
+        [
+          -1.081884814580715e-09,
+          96.47704679634388
+        ],
+        [
+          -1.322303662265318e-09,
+          140.1360748135482
+        ],
+        [
+          -1.081884814580715e-09,
+          96.47704679634388
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000123",
+      "source_object_index": 7
+    },
+    {
+      "maximum_overhang_pixels": 1.322303662265318e-09,
+      "outside_vertices": [
+        [
+          -1.322303662265318e-09,
+          205.8728130261551
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000123",
+      "source_object_index": 177
+    },
+    {
+      "maximum_overhang_pixels": 1.322303662265318e-09,
+      "outside_vertices": [
+        [
+          -1.322303662265318e-09,
+          263.0234462833747
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000123",
+      "source_object_index": 257
+    },
+    {
+      "maximum_overhang_pixels": 1.322303662265318e-09,
+      "outside_vertices": [
+        [
+          -1.322303662265318e-09,
+          363.6406233036025
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000123",
+      "source_object_index": 261
+    },
+    {
+      "maximum_overhang_pixels": 1.322303662265318e-09,
+      "outside_vertices": [
+        [
+          -1.322303662265318e-09,
+          973.405315988969
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000123",
+      "source_object_index": 351
+    },
+    {
+      "maximum_overhang_pixels": 6.010471192115082e-10,
+      "outside_vertices": [
+        [
+          -6.010471192115082e-10,
+          536.5330777969482
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000123",
+      "source_object_index": 373
+    },
+    {
+      "maximum_overhang_pixels": 1.081884814580715e-09,
+      "outside_vertices": [
+        [
+          -1.081884814580715e-09,
+          715.8300000003039
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000123",
+      "source_object_index": 386
+    },
+    {
+      "maximum_overhang_pixels": 1.081884814580715e-09,
+      "outside_vertices": [
+        [
+          -1.081884814580715e-09,
+          715.2800000023769
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000123",
+      "source_object_index": 387
+    },
+    {
+      "maximum_overhang_pixels": 4.808376953692065e-10,
+      "outside_vertices": [
+        [
+          -4.808376953692065e-10,
+          788.4700000000291
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000123",
+      "source_object_index": 390
+    },
+    {
+      "maximum_overhang_pixels": 8.414659668961114e-10,
+      "outside_vertices": [
+        [
+          -8.414659668961114e-10,
+          1004.182817914676
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000060",
+      "source_object_index": 81
+    },
+    {
+      "maximum_overhang_pixels": 4.567958106007466e-09,
+      "outside_vertices": [
+        [
+          -4.567958106007466e-09,
+          1022.976054535184
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000014",
+      "source_object_index": 0
+    },
+    {
+      "maximum_overhang_pixels": 6.010471192115087e-10,
+      "outside_vertices": [
+        [
+          -6.010471192115087e-10,
+          752.4943040295603
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000014",
+      "source_object_index": 26
+    },
+    {
+      "maximum_overhang_pixels": 8.414659668961122e-10,
+      "outside_vertices": [
+        [
+          -8.414659668961122e-10,
+          578.682354480215
+        ],
+        [
+          -8.414659668961122e-10,
+          578.682354480215
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000014",
+      "source_object_index": 32
+    },
+    {
+      "maximum_overhang_pixels": 2.404188476846035e-10,
+      "outside_vertices": [
+        [
+          -2.404188476846035e-10,
+          347.4072024787212
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000014",
+      "source_object_index": 44
+    },
+    {
+      "maximum_overhang_pixels": 9.616753907384139e-10,
+      "outside_vertices": [
+        [
+          -9.616753907384139e-10,
+          113.6355962428278
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000014",
+      "source_object_index": 55
+    },
+    {
+      "maximum_overhang_pixels": 9.616753907384139e-10,
+      "outside_vertices": [
+        [
+          -9.616753907384139e-10,
+          95.19048682155916
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000014",
+      "source_object_index": 58
+    },
+    {
+      "maximum_overhang_pixels": 2.404188476846035e-10,
+      "outside_vertices": [
+        [
+          -2.404188476846035e-10,
+          341.4833266627356
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000014",
+      "source_object_index": 182
+    },
+    {
+      "maximum_overhang_pixels": 3.606282715269049e-10,
+      "outside_vertices": [
+        [
+          -3.606282715269049e-10,
+          1022.976053653327
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000137",
+      "source_object_index": 59
+    },
+    {
+      "maximum_overhang_pixels": 2.404188476846028e-10,
+      "outside_vertices": [
+        [
+          -2.404188476846028e-10,
+          279.3721086978248
+        ],
+        [
+          -2.404188476846028e-10,
+          279.3721086978248
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000149",
+      "source_object_index": 23
+    },
+    {
+      "maximum_overhang_pixels": 1.081884814580713e-09,
+      "outside_vertices": [
+        [
+          -1.081884814580713e-09,
+          273.593221528129
+        ],
+        [
+          -9.616753907384114e-10,
+          250.8473712219445
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000149",
+      "source_object_index": 24
+    },
+    {
+      "maximum_overhang_pixels": 1.322303662265316e-09,
+      "outside_vertices": [
+        [
+          -3.606282715269042e-10,
+          369.1039127269533
+        ],
+        [
+          -1.322303662265316e-09,
+          394.3685234195847
+        ],
+        [
+          -3.606282715269042e-10,
+          369.1039127269533
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000149",
+      "source_object_index": 47
+    },
+    {
+      "maximum_overhang_pixels": 1.202094238423014e-09,
+      "outside_vertices": [
+        [
+          -1.202094238423014e-09,
+          362.6937261238063
+        ],
+        [
+          -1.202094238423014e-09,
+          362.6937261238063
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000149",
+      "source_object_index": 48
+    },
+    {
+      "maximum_overhang_pixels": 7.212565430538105e-10,
+      "outside_vertices": [
+        [
+          -7.212565430538105e-10,
+          357.8954990970526
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000081",
+      "source_object_index": 84
+    },
+    {
+      "maximum_overhang_pixels": 2.524397900688337e-09,
+      "outside_vertices": [
+        [
+          -2.524397900688337e-09,
+          5.45731550736366e-05
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000081",
+      "source_object_index": 100
+    },
+    {
+      "maximum_overhang_pixels": 1.081884814580716e-09,
+      "outside_vertices": [
+        [
+          -1.202094238423017e-10,
+          74.95212385246529
+        ],
+        [
+          -1.081884814580716e-09,
+          121.650459348821
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000081",
+      "source_object_index": 102
+    },
+    {
+      "maximum_overhang_pixels": 1.202094238423017e-09,
+      "outside_vertices": [
+        [
+          -3.606282715269052e-10,
+          123.9483616208365
+        ],
+        [
+          -1.202094238423017e-09,
+          150.3171502926701
+        ],
+        [
+          -3.606282715269052e-10,
+          123.9483616208365
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000081",
+      "source_object_index": 103
+    },
+    {
+      "maximum_overhang_pixels": 1.202094238423017e-09,
+      "outside_vertices": [
+        [
+          -1.202094238423017e-09,
+          271.2568586683225
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000081",
+      "source_object_index": 106
+    },
+    {
+      "maximum_overhang_pixels": 1.202094238423017e-09,
+      "outside_vertices": [
+        [
+          -1.202094238423017e-09,
+          476.1565364931755
+        ],
+        [
+          -2.404188476846035e-10,
+          492.3653386915531
+        ],
+        [
+          -1.202094238423017e-09,
+          476.1565364931755
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000081",
+      "source_object_index": 121
+    },
+    {
+      "maximum_overhang_pixels": 7.212565430538105e-10,
+      "outside_vertices": [
+        [
+          -2.404188476846035e-10,
+          863.279200845516
+        ],
+        [
+          -7.212565430538105e-10,
+          883.2408239078117
+        ],
+        [
+          -2.404188476846035e-10,
+          863.279200845516
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000081",
+      "source_object_index": 137
+    },
+    {
+      "maximum_overhang_pixels": 9.616753907384139e-10,
+      "outside_vertices": [
+        [
+          -9.616753907384139e-10,
+          214.1149768610339
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000081",
+      "source_object_index": 266
+    },
+    {
+      "maximum_overhang_pixels": 6.010471192115087e-10,
+      "outside_vertices": [
+        [
+          -6.010471192115087e-10,
+          237.0883801974128
+        ],
+        [
+          -6.010471192115087e-10,
+          237.0883801974128
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000081",
+      "source_object_index": 276
+    },
+    {
+      "maximum_overhang_pixels": 1.202393056083713e-09,
+      "outside_vertices": [
+        [
+          -6.011965280418567e-10,
+          539.7037931719054
+        ],
+        [
+          -1.202393056083713e-09,
+          303.6116376489826
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000038",
+      "source_object_index": 23
+    },
+    {
+      "maximum_overhang_pixels": 1.322632361692085e-09,
+      "outside_vertices": [
+        [
+          -6.011965280418567e-10,
+          847.5600000006584
+        ],
+        [
+          -1.322632361692085e-09,
+          821.5003287144573
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000038",
+      "source_object_index": 74
+    },
+    {
+      "maximum_overhang_pixels": 7.21435833650228e-10,
+      "outside_vertices": [
+        [
+          -7.21435833650228e-10,
+          853.9639093195947
+        ],
+        [
+          -7.21435833650228e-10,
+          848.0599999990305
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000038",
+      "source_object_index": 75
+    },
+    {
+      "maximum_overhang_pixels": 8.416751392585994e-10,
+      "outside_vertices": [
+        [
+          -8.416751392585994e-10,
+          775.5699999994556
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000038",
+      "source_object_index": 116
+    },
+    {
+      "maximum_overhang_pixels": 9.619144448669706e-10,
+      "outside_vertices": [
+        [
+          -7.21435833650228e-10,
+          775.0700000010836
+        ],
+        [
+          -9.619144448669706e-10,
+          742.8457067617333
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000038",
+      "source_object_index": 117
+    },
+    {
+      "maximum_overhang_pixels": 1.322632361692085e-09,
+      "outside_vertices": [
+        [
+          -1.322632361692085e-09,
+          725.6914277073039
+        ],
+        [
+          -1.322632361692085e-09,
+          725.6914277073039
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000038",
+      "source_object_index": 119
+    },
+    {
+      "maximum_overhang_pixels": 1.322632361692085e-09,
+      "outside_vertices": [
+        [
+          -7.21435833650228e-10,
+          711.7941712718423
+        ],
+        [
+          -1.322632361692085e-09,
+          709.1299999998059
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000038",
+      "source_object_index": 120
+    },
+    {
+      "maximum_overhang_pixels": 1.322632361692085e-09,
+      "outside_vertices": [
+        [
+          -1.322632361692085e-09,
+          689.0700709231223
+        ],
+        [
+          -1.322632361692085e-09,
+          671.6001071828451
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000038",
+      "source_object_index": 123
+    },
+    {
+      "maximum_overhang_pixels": 1.082153750475342e-09,
+      "outside_vertices": [
+        [
+          -7.21435833650228e-10,
+          640.7600000002452
+        ],
+        [
+          -1.082153750475342e-09,
+          620.9349047880326
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000038",
+      "source_object_index": 126
+    },
+    {
+      "maximum_overhang_pixels": 1.202393056083713e-09,
+      "outside_vertices": [
+        [
+          -1.202393056083713e-09,
+          124.2800000005587
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000038",
+      "source_object_index": 145
+    },
+    {
+      "maximum_overhang_pixels": 1.202393056083713e-09,
+      "outside_vertices": [
+        [
+          -1.202393056083713e-09,
+          106.2300000002654
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000038",
+      "source_object_index": 148
+    },
+    {
+      "maximum_overhang_pixels": 6.011965280418567e-10,
+      "outside_vertices": [
+        [
+          -4.809572224334853e-10,
+          105.7299999999695
+        ],
+        [
+          -6.011965280418567e-10,
+          96.56654090534118
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000038",
+      "source_object_index": 149
+    },
+    {
+      "maximum_overhang_pixels": 3.60717916825114e-10,
+      "outside_vertices": [
+        [
+          -3.60717916825114e-10,
+          153.196258239433
+        ],
+        [
+          -3.60717916825114e-10,
+          153.196258239433
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000038",
+      "source_object_index": 178
+    },
+    {
+      "maximum_overhang_pixels": 9.619144448669706e-10,
+      "outside_vertices": [
+        [
+          -9.619144448669706e-10,
+          179.4499217022833
+        ],
+        [
+          -9.619144448669706e-10,
+          179.4499217022833
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000038",
+      "source_object_index": 180
+    },
+    {
+      "maximum_overhang_pixels": 4.809572224334857e-10,
+      "outside_vertices": [
+        [
+          -4.809572224334857e-10,
+          238.0136213178402
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000045",
+      "source_object_index": 1
+    },
+    {
+      "maximum_overhang_pixels": 1.202393056083714e-09,
+      "outside_vertices": [
+        [
+          -1.202393056083714e-09,
+          192.5353859422895
+        ],
+        [
+          -4.809572224334857e-10,
+          171.7291107087239
+        ],
+        [
+          -1.202393056083714e-09,
+          192.5353859422895
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000045",
+      "source_object_index": 2
+    },
+    {
+      "maximum_overhang_pixels": 6.011965280418571e-10,
+      "outside_vertices": [
+        [
+          -6.011965280418571e-10,
+          118.5785348843249
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000045",
+      "source_object_index": 3
+    },
+    {
+      "maximum_overhang_pixels": 6.011965280418571e-10,
+      "outside_vertices": [
+        [
+          -6.011965280418571e-10,
+          118.5785348843249
+        ],
+        [
+          -6.011965280418571e-10,
+          118.5785348843249
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000045",
+      "source_object_index": 5
+    },
+    {
+      "maximum_overhang_pixels": 2.404786112167429e-10,
+      "outside_vertices": [
+        [
+          -2.404786112167429e-10,
+          35.7520646117969
+        ],
+        [
+          -2.404786112167429e-10,
+          35.7520646117969
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000045",
+      "source_object_index": 6
+    },
+    {
+      "maximum_overhang_pixels": 6.011965280418571e-10,
+      "outside_vertices": [
+        [
+          -6.011965280418571e-10,
+          599.9705529401668
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000045",
+      "source_object_index": 44
+    },
+    {
+      "maximum_overhang_pixels": 1.082153750475343e-09,
+      "outside_vertices": [
+        [
+          -1.082153750475343e-09,
+          617.068941095646
+        ],
+        [
+          -8.416751392586e-10,
+          642.1751702610563
+        ],
+        [
+          -1.082153750475343e-09,
+          617.068941095646
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000045",
+      "source_object_index": 45
+    },
+    {
+      "maximum_overhang_pixels": 8.416751392586e-10,
+      "outside_vertices": [
+        [
+          -2.404786112167429e-10,
+          665.8482666456113
+        ],
+        [
+          -8.416751392586e-10,
+          642.1751702610563
+        ],
+        [
+          -2.404786112167429e-10,
+          665.8482666456113
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000045",
+      "source_object_index": 46
+    },
+    {
+      "maximum_overhang_pixels": 2.404786112167429e-10,
+      "outside_vertices": [
+        [
+          -1.202393056083714e-10,
+          677.9247921440258
+        ],
+        [
+          -2.404786112167429e-10,
+          665.8482666456113
+        ],
+        [
+          -1.202393056083714e-10,
+          677.9247921440258
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000045",
+      "source_object_index": 47
+    },
+    {
+      "maximum_overhang_pixels": 3.607179168251143e-10,
+      "outside_vertices": [
+        [
+          -3.607179168251143e-10,
+          944.4891407555324
+        ],
+        [
+          -3.607179168251143e-10,
+          944.4891407555324
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000045",
+      "source_object_index": 60
+    },
+    {
+      "maximum_overhang_pixels": 1.202094238423014e-10,
+      "outside_vertices": [
+        [
+          -1.202094238423014e-10,
+          910.6100000007069
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000133",
+      "source_object_index": 7
+    },
+    {
+      "maximum_overhang_pixels": 1.202094238423014e-09,
+      "outside_vertices": [
+        [
+          -6.01047119211507e-10,
+          326.616581929675
+        ],
+        [
+          -1.202094238423014e-09,
+          375.6714264928385
+        ],
+        [
+          -6.01047119211507e-10,
+          326.616581929675
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000133",
+      "source_object_index": 10
+    },
+    {
+      "maximum_overhang_pixels": 9.616753907384114e-10,
+      "outside_vertices": [
+        [
+          -9.616753907384114e-10,
+          402.5333725382307
+        ],
+        [
+          -9.616753907384114e-10,
+          402.5333725382307
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000133",
+      "source_object_index": 11
+    },
+    {
+      "maximum_overhang_pixels": 8.414659668961098e-10,
+      "outside_vertices": [
+        [
+          -8.414659668961098e-10,
+          31.07655068493559
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000133",
+      "source_object_index": 12
+    },
+    {
+      "maximum_overhang_pixels": 4.808376953692057e-10,
+      "outside_vertices": [
+        [
+          -2.404188476846028e-10,
+          198.2700000009394
+        ],
+        [
+          -4.808376953692057e-10,
+          169.0267395635368
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000133",
+      "source_object_index": 15
+    },
+    {
+      "maximum_overhang_pixels": 1.202094238423014e-09,
+      "outside_vertices": [
+        [
+          -1.202094238423014e-09,
+          676.5288401858048
+        ],
+        [
+          -1.202094238423014e-09,
+          676.5288401858048
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000133",
+      "source_object_index": 19
+    },
+    {
+      "maximum_overhang_pixels": 6.01047119211507e-10,
+      "outside_vertices": [
+        [
+          -6.01047119211507e-10,
+          758.4612431521615
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000133",
+      "source_object_index": 22
+    },
+    {
+      "maximum_overhang_pixels": 9.61675390738413e-10,
+      "outside_vertices": [
+        [
+          -9.61675390738413e-10,
+          611.8306973797386
+        ],
+        [
+          -9.61675390738413e-10,
+          611.8306973797386
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000147",
+      "source_object_index": 0
+    },
+    {
+      "maximum_overhang_pixels": 1.081884814580715e-09,
+      "outside_vertices": [
+        [
+          -4.808376953692065e-10,
+          98.26999999948119
+        ],
+        [
+          -1.081884814580715e-09,
+          89.44000000048565
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000147",
+      "source_object_index": 2
+    },
+    {
+      "maximum_overhang_pixels": 8.414659668961114e-10,
+      "outside_vertices": [
+        [
+          -8.414659668961114e-10,
+          70.71876424535992
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000147",
+      "source_object_index": 4
+    },
+    {
+      "maximum_overhang_pixels": 8.414659668961114e-10,
+      "outside_vertices": [
+        [
+          -6.010471192115082e-10,
+          475.9022788577317
+        ],
+        [
+          -8.414659668961114e-10,
+          464.0600000011617
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000147",
+      "source_object_index": 61
+    },
+    {
+      "maximum_overhang_pixels": 4.808376953692065e-10,
+      "outside_vertices": [
+        [
+          -4.808376953692065e-10,
+          463.5300000009562
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000147",
+      "source_object_index": 62
+    },
+    {
+      "maximum_overhang_pixels": 4.808376953692065e-10,
+      "outside_vertices": [
+        [
+          -4.808376953692065e-10,
+          443.5099999996733
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000147",
+      "source_object_index": 63
+    },
+    {
+      "maximum_overhang_pixels": 2.404188476846033e-10,
+      "outside_vertices": [
+        [
+          -2.404188476846033e-10,
+          442.990000000252
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000147",
+      "source_object_index": 64
+    },
+    {
+      "maximum_overhang_pixels": 8.414659668961114e-10,
+      "outside_vertices": [
+        [
+          -8.414659668961114e-10,
+          420.6500000007371
+        ],
+        [
+          -2.404188476846033e-10,
+          410.1700000002673
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000147",
+      "source_object_index": 66
+    },
+    {
+      "maximum_overhang_pixels": 9.61675390738413e-10,
+      "outside_vertices": [
+        [
+          -9.61675390738413e-10,
+          409.6400000010236
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000147",
+      "source_object_index": 68
+    },
+    {
+      "maximum_overhang_pixels": 7.212565430538098e-10,
+      "outside_vertices": [
+        [
+          -7.212565430538098e-10,
+          378.8800000000411
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000147",
+      "source_object_index": 70
+    },
+    {
+      "maximum_overhang_pixels": 9.61675390738413e-10,
+      "outside_vertices": [
+        [
+          -9.61675390738413e-10,
+          367.1800000010398
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000147",
+      "source_object_index": 72
+    },
+    {
+      "maximum_overhang_pixels": 2.404188476846033e-10,
+      "outside_vertices": [
+        [
+          -2.404188476846033e-10,
+          360.5500000014455
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000147",
+      "source_object_index": 73
+    },
+    {
+      "maximum_overhang_pixels": 1.322303662265318e-09,
+      "outside_vertices": [
+        [
+          -1.322303662265318e-09,
+          477.0584331712948
+        ],
+        [
+          -1.322303662265318e-09,
+          477.0584331712948
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000147",
+      "source_object_index": 81
+    },
+    {
+      "maximum_overhang_pixels": 9.61675390738413e-10,
+      "outside_vertices": [
+        [
+          -9.61675390738413e-10,
+          739.3599999998446
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000147",
+      "source_object_index": 96
+    },
+    {
+      "maximum_overhang_pixels": 2.404188476846033e-10,
+      "outside_vertices": [
+        [
+          -2.404188476846033e-10,
+          289.4831092579065
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000147",
+      "source_object_index": 337
+    },
+    {
+      "maximum_overhang_pixels": 6.010471192115082e-10,
+      "outside_vertices": [
+        [
+          -6.010471192115082e-10,
+          880.4025699933908
+        ],
+        [
+          -6.010471192115082e-10,
+          880.4025699933908
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000147",
+      "source_object_index": 547
+    },
+    {
+      "maximum_overhang_pixels": 1.082153750475343e-09,
+      "outside_vertices": [
+        [
+          -1.082153750475343e-09,
+          72.52999900224731
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000156",
+      "source_object_index": 6
+    },
+    {
+      "maximum_overhang_pixels": 4.809572224334857e-10,
+      "outside_vertices": [
+        [
+          -4.809572224334857e-10,
+          131.9695643365125
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000156",
+      "source_object_index": 8
+    },
+    {
+      "maximum_overhang_pixels": 8.416751392586e-10,
+      "outside_vertices": [
+        [
+          -8.416751392586e-10,
+          134.6767639866588
+        ],
+        [
+          -8.416751392586e-10,
+          134.6767639866588
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000156",
+      "source_object_index": 9
+    },
+    {
+      "maximum_overhang_pixels": 1.202393056083714e-09,
+      "outside_vertices": [
+        [
+          -6.011965280418571e-10,
+          157.3354135709193
+        ],
+        [
+          -1.202393056083714e-09,
+          196.5287533945007
+        ],
+        [
+          -6.011965280418571e-10,
+          157.3354135709193
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000156",
+      "source_object_index": 10
+    },
+    {
+      "maximum_overhang_pixels": 3.607179168251143e-10,
+      "outside_vertices": [
+        [
+          -3.607179168251143e-10,
+          220.8919119795068
+        ],
+        [
+          -3.607179168251143e-10,
+          220.8919119795068
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000156",
+      "source_object_index": 11
+    },
+    {
+      "maximum_overhang_pixels": 8.416751392586e-10,
+      "outside_vertices": [
+        [
+          -8.416751392586e-10,
+          252.8537336400994
+        ],
+        [
+          -8.416751392586e-10,
+          252.8537336400994
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000156",
+      "source_object_index": 12
+    },
+    {
+      "maximum_overhang_pixels": 8.416751392586e-10,
+      "outside_vertices": [
+        [
+          -8.416751392586e-10,
+          999.332770177144
+        ],
+        [
+          -4.809572224334857e-10,
+          1022.976054374399
+        ],
+        [
+          -8.416751392586e-10,
+          999.332770177144
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000156",
+      "source_object_index": 34
+    },
+    {
+      "maximum_overhang_pixels": 6.011965280418571e-10,
+      "outside_vertices": [
+        [
+          -6.011965280418571e-10,
+          934.4095006293486
+        ]
+      ],
+      "sample_id": "mexico-earthquake_00000156",
+      "source_object_index": 36
+    }
+  ],
+  "read_receipts": [
+    {
+      "bytes": 30,
+      "cache_hit": true,
+      "offset": 0,
+      "sha256": "7b813800398698a075a15981028089b28f2563c70f5a82f581c36c86a347adac"
+    },
+    {
+      "bytes": 9,
+      "cache_hit": true,
+      "offset": 30,
+      "sha256": "c48de6429d7104358add5bccc1f19ececbb95f196ebfc944d4fd181d3e4f90e7"
+    },
+    {
+      "bytes": 128,
+      "cache_hit": true,
+      "offset": 51,
+      "sha256": "88016aa8b5788f31b3e1e890b20817acbdfce9f24fe00a9a7aeba2f7651a2247"
+    },
+    {
+      "bytes": 65536,
+      "cache_hit": true,
+      "offset": 32403120720,
+      "sha256": "6fb7eeef8a5df9d7db48c9d6007a230d80095e07de381daa202a74d01a18a79e"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32295010963,
+      "sha256": "cffac99375a429b2336196222d1bdb141074a034c78304e81d5298a5101e9dff"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32296059539,
+      "sha256": "ab6e6307447f08e6ce56b241ae50b6a3097d0b3957db17128c9b1cb1ab4daaa7"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32297108115,
+      "sha256": "76670683bf739ad1b6b2e6e6eae057e37469de9cd7d7e11a2577e13bad920aec"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32298156691,
+      "sha256": "732aa6087d7c8af0d06c4a40bb48f6a25be1bff4b8d174bddbe44f8450426155"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32299205267,
+      "sha256": "5c9ffb77371f608ae512b0f326366107f8e58f7c5f4f469b704c501b9cb0327c"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32300253843,
+      "sha256": "6239e9d7590fce17e5f2973ef53ebdf9b66d7fad8f584a7e7d2bc6eccbc856b1"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32301302419,
+      "sha256": "33ddc85022ea8d37c804f1cdd9ebd67676cc5912af0150c05de80647d293739c"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32302350995,
+      "sha256": "dbf721f0d18b202b5a1c9522600193785e244efa30c1450ed2755331c8f4eecb"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32303399571,
+      "sha256": "2507f7ebb8ec2a274da36adb9fdab17e5169e8cc676d46fc4dd50ef713176bc5"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32304448147,
+      "sha256": "cad914b27ffc4e9dc668890c6491332a60e245adad912d25ffb2733134a49d23"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32305496723,
+      "sha256": "ba27ce42a09e9a1b722892f4111e5b9d7c036fa80b2906fa5cde93566d400c4c"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32306545299,
+      "sha256": "9bc66082edf742004d6611a53a98b6fed4c1ca87c2f679256c726385587fa455"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32307593875,
+      "sha256": "e16181d9dafb2cf99f26c2f9a950dbd93e0f88c44280081f0813bc27c8b3143e"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32308642451,
+      "sha256": "c28db01370b48a08504eeeb210404754341af9f6ce6c03fecfe82b900fdf17f2"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32309691027,
+      "sha256": "72cf6b8738c2adf675164ed2bda5cb44d6cbd886936aec416216951bba9f87e4"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32310739603,
+      "sha256": "891f84b3d655ccc14ac92bfc8c83056fa76411cfd41564045efed033f0d91814"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32311788179,
+      "sha256": "5b0bbb61d61b98ddea3999a1b4fb8e390299b7cde9e397604c766a4ba42a9922"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32312836755,
+      "sha256": "d5accd3d6f43de19e8beb149acd56cf75f1b3a8a189661da4cf56a0b572f5ac9"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32313885331,
+      "sha256": "266b45a7a286d570c42a6adac645e250f684a302e249a54eba88123b6c65bdb5"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32314933907,
+      "sha256": "7ca0451f22ebc1637195f8dfca97d263749c5c1a306e771f7cf492bb537cfeb2"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32315982483,
+      "sha256": "2e21860a2e4e3d1f1bc48ebc333f43240468ddda72793463f1f3fa4c087751af"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32317031059,
+      "sha256": "bf5f8abbe81a5dd8f2eedde107062145fe7599d3da727c0df92f02475b11f2ea"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32318079635,
+      "sha256": "53571aae2e7a6d324f74f9e98167ccc147bd5b01de023c3fd3ade26c5a68ee5d"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32319128211,
+      "sha256": "944e5871d08186a70ced689928849e20e42ae0cda65a321041d738a113df043e"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32320176787,
+      "sha256": "4c021b8a991d37ee931d59d1312b9e0d27252f8a02e7d922fb8b575a6d892911"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32321225363,
+      "sha256": "be7bd285a9b4a997e88af651fb6d241be68723ecd02a4250deedff981e655c0c"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32322273939,
+      "sha256": "8b46ec9e933a63badf7ff4bd3f81fac5a497eecac4ee3feae8c2af45818f6415"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32323322515,
+      "sha256": "6c7e429b201f72bfa24858b4f0d0a69bbd0451f34d6f7f0f48a71ed981f27800"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32324371091,
+      "sha256": "739c0b10fd2610aad79d39a5fbcd05a088c9be62c73285b2f8bd1a1971c14c09"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32325419667,
+      "sha256": "f16a34557e33a05df7e6d2bd4267c26daf27795a6c5d6af9f5ffa0183d946193"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32326468243,
+      "sha256": "af29a860ebe7782131fc89e7edacc16cd944ff114cbef8436c575b6e42a54d5c"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32327516819,
+      "sha256": "deee3b17a295f0ee23595f0354f91345353106b35aa7e7bd3e3a9502b2fa872b"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32328565395,
+      "sha256": "47fc11a86afeebc2b55e6b4c971f242aed8079d7505e7acf54ae3b6498c5ca67"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32329613971,
+      "sha256": "5e3397a39a78028d9fcbbdb11d68f50c131753186ea06c9036301b58bb32fd35"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32330662547,
+      "sha256": "850269ba96ac8abb8ce7e7853178ab16c11d384cf5f013d0b4b348fc2f538aa0"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32331711123,
+      "sha256": "d787fb04a48c027c482553cecdb289047ffef27d291a9bb4e99b5837c68abd10"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32332759699,
+      "sha256": "53829a68ca7cf7d08c29f3ebe97decb6bcb8403a98ea4748c280c6cf25c79252"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32333808275,
+      "sha256": "9f3af1e2c4b1cde6854b1190161ad0121bf225929e90424cd7db7a22f9bbd7dc"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32334856851,
+      "sha256": "29543999453bfdd820b7c4f3275757ee12c7d8e9e205f1026f0965cb86524491"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32335905427,
+      "sha256": "691eaff7a3f9993b8330c26e47de842c9001da2537c5c7efb88e7ab07596940f"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32336954003,
+      "sha256": "6eec9b9cb90339c86165c64f86079483b25a50f13196444b1017451e739bb992"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32338002579,
+      "sha256": "3069dfbbc4f7c7d74ac33ed13add92f4bdd9de6cf4e340750d4d3f4474fb1ff6"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32339051155,
+      "sha256": "a3967f2f3285461bd5fa3d36e783449e0bc44d97428ce14368b1157683106363"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32340099731,
+      "sha256": "381d675432e49adfdf26fc494cac9a6a779a46209efcd3f148bead04c9452797"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32341148307,
+      "sha256": "0e7d9c9050c99e34ff3b175cf32e5aabcc4c7907f8c6db96d0f164fbd82a1f56"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32342196883,
+      "sha256": "1be09b49eeb685db75e9bb1064852c56c0c37acaf7c562084e72ce5142817f54"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32343245459,
+      "sha256": "85b89adc82b2e419562eefb2c48fb781117e384bee5c62b1b0da63e727f31fc5"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32344294035,
+      "sha256": "13c08811b58813ffdc8ff611dae533cf05d48cc3caf00c3a4b9afaa9aff44ff1"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32345342611,
+      "sha256": "dd0cdac7e3cc9a74050519081a55d81dbbf7d9bee22b1813502ef4e3cc069637"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32346391187,
+      "sha256": "419a2dcc33739dae4b8f1d52ffcc149a8bdba3faef0b178cca0dce2fbd582237"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32347439763,
+      "sha256": "a5f227153ca2809262163f1f3a542a13a49e9f75f07754c10f62449d85aa2d09"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32348488339,
+      "sha256": "7a834f4be89f52435c16cbb6d501c0f4ffad231829fa8f47e9fe1e40ff9aa342"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32349536915,
+      "sha256": "ed82683f39d500b09eee2653de2990d00b6e21ede86bc0ab799c9ea6f7459b9c"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32350585491,
+      "sha256": "c23493b2af64aaffff3ad7a56606793a771ca65f0971b6949791ec9c3123f456"
+    },
+    {
+      "bytes": 263804,
+      "cache_hit": true,
+      "offset": 32351634067,
+      "sha256": "87b2f01b86458b01d51a6798bf15b1f24d3cdc575736a96926ae8ac464e2e35a"
+    },
+    {
+      "bytes": 366020,
+      "cache_hit": true,
+      "offset": 32351897871,
+      "sha256": "b30a85eeae162159ae4a44aeb95e09a9552e0e393c00a88211f742fd9bfc3e5a"
+    },
+    {
+      "bytes": 168,
+      "cache_hit": true,
+      "offset": 32294876954,
+      "sha256": "ef84954ed450cb1cf56a3c8739b5431a6e98d915bc638ef0fe0c40da827dcd51"
+    }
+  ],
+  "scenes": 72,
+  "source_fields": [
+    "ml:polygon_xy",
+    "ml:polygon_len",
+    "ml:width",
+    "ml:height"
+  ],
+  "stage": "DEVELOPMENT72_GEOMETRY_ONLY_EXCEPTION_AUDIT"
+}

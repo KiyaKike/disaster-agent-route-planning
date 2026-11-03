@@ -1,0 +1,12 @@
+{
+  "controller_training": false,
+  "device": "mps",
+  "loop_seconds_this_invocation": 23.81901708303485,
+  "median_observation_seconds": 0.038817896507680416,
+  "new_forward_calls_this_invocation": 576,
+  "observations": 576,
+  "observations_sha256": "05b53b1550f1a315059588195ade66007c5b6f0711d8961160b5f586313677c0",
+  "paid_gpu": false,
+  "reference_contents_read_by_predict": false,
+  "scenes": 18
+}

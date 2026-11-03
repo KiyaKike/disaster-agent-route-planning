@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "episodes_replayed": 25200,
+  "steps_replayed": 460628,
+  "original_calibration_prior_trajectories_reproduced": 504,
+  "action_score_cost_evidence_and_building_replay": true,
+  "all_random_seeds_retained": true,
+  "all_source_hashes_and_parameters_preserved": true,
+  "unit_tests_passed": 64,
+  "test_used": false,
+  "report_sha256": "cdb1b679cde1bd2bb7c58a695a80837faadb60a604694e9966fd37ddb842cd2d",
+  "traces_sha256": "f0e15a1f81a97d085e04a31da3487e800e65d970954402d2d318b327362ce3b3"
+}

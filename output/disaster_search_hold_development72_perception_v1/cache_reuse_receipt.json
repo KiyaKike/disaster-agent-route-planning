@@ -1,0 +1,14 @@
+{
+  "label_contents_read": false,
+  "probe_scene_record_sha256": {
+    "hurricane-harvey_00000074": "bde1b938a9bfa5e9e13ac06f92a1b103ce5637d38e3111b613c8ef9c62a2b234",
+    "hurricane-harvey_00000363": "5848ef2e0fb71d5e03125214c3a7deabf68c1a391eed54e0a20cad29fe6c7429",
+    "mexico-earthquake_00000054": "5f233c192a656e9f51c17a08896f76007982045a2fb06d37c04bc2efb57a4f0c",
+    "mexico-earthquake_00000145": "dd3313c573d2ab027bc0584ea7d323c39c25a46eb38a2cf6628654e4101b0b98",
+    "santa-rosa-wildfire_00000013": "b63763edba1d74bd64481106a7b936968bf875a4df8c5d08b31923323b24a550",
+    "santa-rosa-wildfire_00000266": "8731a85463e2e6e14639703274dc1a17a2be3964cad0cc1e49ddc313293c6cce"
+  },
+  "reused_observations": 768,
+  "rgb_identical": true,
+  "source_probe_protocol_sha256": "b4d465a87c3295fc774109582bfa0057aef8bebfc45bab34e7ff062afe64a6b1"
+}

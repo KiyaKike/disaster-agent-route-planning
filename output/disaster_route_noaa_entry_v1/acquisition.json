@@ -1,0 +1,130 @@
+{
+  "cached_bytes": 21364736,
+  "logical_file_bytes": 543400290,
+  "full_image_downloaded": false,
+  "range_requests_this_run": [
+    {
+      "start": 134348800,
+      "length": 1048576,
+      "coalesced_blocks": 16
+    },
+    {
+      "start": 139591680,
+      "length": 1048576,
+      "coalesced_blocks": 16
+    },
+    {
+      "start": 140640256,
+      "length": 1048576,
+      "coalesced_blocks": 16
+    },
+    {
+      "start": 135397376,
+      "length": 1048576,
+      "coalesced_blocks": 16
+    },
+    {
+      "start": 141688832,
+      "length": 1048576,
+      "coalesced_blocks": 16
+    },
+    {
+      "start": 137494528,
+      "length": 1048576,
+      "coalesced_blocks": 16
+    },
+    {
+      "start": 136445952,
+      "length": 1048576,
+      "coalesced_blocks": 16
+    },
+    {
+      "start": 142737408,
+      "length": 1048576,
+      "coalesced_blocks": 16
+    },
+    {
+      "start": 145883136,
+      "length": 1048576,
+      "coalesced_blocks": 16
+    },
+    {
+      "start": 143785984,
+      "length": 1048576,
+      "coalesced_blocks": 16
+    },
+    {
+      "start": 147980288,
+      "length": 1048576,
+      "coalesced_blocks": 16
+    },
+    {
+      "start": 138543104,
+      "length": 1048576,
+      "coalesced_blocks": 16
+    },
+    {
+      "start": 149028864,
+      "length": 1048576,
+      "coalesced_blocks": 16
+    },
+    {
+      "start": 144834560,
+      "length": 1048576,
+      "coalesced_blocks": 16
+    },
+    {
+      "start": 146931712,
+      "length": 1048576,
+      "coalesced_blocks": 16
+    },
+    {
+      "start": 150077440,
+      "length": 1048576,
+      "coalesced_blocks": 16
+    },
+    {
+      "start": 155320320,
+      "length": 262144,
+      "coalesced_blocks": 4
+    },
+    {
+      "start": 153223168,
+      "length": 1048576,
+      "coalesced_blocks": 16
+    },
+    {
+      "start": 152174592,
+      "length": 1048576,
+      "coalesced_blocks": 16
+    },
+    {
+      "start": 154271744,
+      "length": 1048576,
+      "coalesced_blocks": 16
+    },
+    {
+      "start": 151126016,
+      "length": 1048576,
+      "coalesced_blocks": 16
+    }
+  ],
+  "decoded_window_shape": [
+    533,
+    585,
+    3
+  ],
+  "source": {
+    "Orthomosaic": "1001-Ft-Myers-Beach-Boone.geo.tif_20220930d_RGB.geo.tif",
+    "Source": "Crewed Aircraft",
+    "Event": "Hurricane Ian",
+    "Date (mm/dd/yyy)": "9/30/2022",
+    "Pre/Post Event": "POST",
+    "Platform / Provider": "NOAA"
+  },
+  "nonblack_fraction": {
+    "raw_georef": 1.0,
+    "aligned": 1.0
+  },
+  "decoding_verified": "All required source strip ranges cached,read only bounded source pixel window;partial file never represents complete imagery"
+}

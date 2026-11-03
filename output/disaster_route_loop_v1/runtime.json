@@ -1,0 +1,12 @@
+{
+  "gpu_rental": false,
+  "loop_seconds": 5.538159832998645,
+  "new_perception_calls": 0,
+  "new_training": false,
+  "realPS_geometry_only_static_routes": 4,
+  "real_target_labels_created": 0,
+  "simulation_routes": 2160,
+  "status": "COMPLETE",
+  "sum_planner_wall_seconds": 4.678281323693227,
+  "synthetic_worlds": 60
+}

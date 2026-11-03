@@ -1,0 +1,824 @@
+{
+  "new_fit": false,
+  "rows": [
+    {
+      "event": "hurricane-harvey",
+      "fit_scope": "development_fit",
+      "held_known_cells": 253,
+      "held_observed_blurred": 0.015810276679841896,
+      "held_observed_mixed": 0.19367588932806326,
+      "held_observed_native": 0.3715415019762846,
+      "held_unknown_pairs_excluded": 4,
+      "predicted_blurred": 0.004691395560960778,
+      "predicted_mixed": 0.06616144724840377,
+      "predicted_native": 0.12763149893584677,
+      "raw_change_bin": 0,
+      "source_known_cells": 1142,
+      "source_observed_blurred": 0.0043782837127845885,
+      "source_observed_native": 0.12609457092819615,
+      "upgrades": [
+        {
+          "blurred_positive": false,
+          "frozen_predicted_increment": 0.11382628598621163,
+          "held_cells": 249,
+          "held_observed_increment": 0.3373493975903614,
+          "source_cells": 1134,
+          "source_observed_increment": 0.1128747795414462
+        },
+        {
+          "blurred_positive": true,
+          "frozen_predicted_increment": 1.590948275862069,
+          "held_cells": 4,
+          "held_observed_increment": 1.5,
+          "source_cells": 8,
+          "source_observed_increment": 1.375
+        }
+      ]
+    },
+    {
+      "event": "hurricane-harvey",
+      "fit_scope": "development_fit",
+      "held_known_cells": 404,
+      "held_observed_blurred": 0.10396039603960396,
+      "held_observed_mixed": 0.5222772277227723,
+      "held_observed_native": 0.9405940594059405,
+      "held_unknown_pairs_excluded": 14,
+      "predicted_blurred": 0.040555161621595184,
+      "predicted_mixed": 0.23740005623746882,
+      "predicted_native": 0.43424495085334247,
+      "raw_change_bin": 1,
+      "source_known_cells": 1136,
+      "source_observed_blurred": 0.040492957746478875,
+      "source_observed_native": 0.43485915492957744,
+      "upgrades": [
+        {
+          "blurred_positive": false,
+          "frozen_predicted_increment": 0.3399010032253396,
+          "held_cells": 380,
+          "held_observed_increment": 0.7315789473684211,
+          "source_cells": 1107,
+          "source_observed_increment": 0.3405600722673893
+        },
+        {
+          "blurred_positive": true,
+          "frozen_predicted_increment": 2.309599254426841,
+          "held_cells": 24,
+          "held_observed_increment": 2.5,
+          "source_cells": 29,
+          "source_observed_increment": 2.4482758620689653
+        }
+      ]
+    },
+    {
+      "event": "hurricane-harvey",
+      "fit_scope": "development_fit",
+      "held_known_cells": 395,
+      "held_observed_blurred": 0.21772151898734177,
+      "held_observed_mixed": 0.5063291139240507,
+      "held_observed_native": 0.7949367088607595,
+      "held_unknown_pairs_excluded": 4,
+      "predicted_blurred": 0.0859076101081287,
+      "predicted_mixed": 0.28183722068769607,
+      "predicted_native": 0.47776683126726344,
+      "raw_change_bin": 2,
+      "source_known_cells": 1149,
+      "source_observed_blurred": 0.08616187989556136,
+      "source_observed_native": 0.47867711053089645,
+      "upgrades": [
+        {
+          "blurred_positive": false,
+          "frozen_predicted_increment": 0.30901514913058675,
+          "held_cells": 349,
+          "held_observed_increment": 0.40974212034383956,
+          "source_cells": 1089,
+          "source_observed_increment": 0.30945821854912764
+        },
+        {
+          "blurred_positive": true,
+          "frozen_predicted_increment": 1.9037525354969573,
+          "held_cells": 46,
+          "held_observed_increment": 1.8695652173913044,
+          "source_cells": 60,
+          "source_observed_increment": 1.9166666666666667
+        }
+      ]
+    },
+    {
+      "event": "hurricane-harvey",
+      "fit_scope": "development_fit",
+      "held_known_cells": 460,
+      "held_observed_blurred": 0.08478260869565217,
+      "held_observed_mixed": 0.17391304347826086,
+      "held_observed_native": 0.26304347826086955,
+      "held_unknown_pairs_excluded": 2,
+      "predicted_blurred": 0.06602861270104139,
+      "predicted_mixed": 0.20707490435234602,
+      "predicted_native": 0.34812119600365066,
+      "raw_change_bin": 3,
+      "source_known_cells": 1149,
+      "source_observed_blurred": 0.06614447345517842,
+      "source_observed_native": 0.34812880765883375,
+      "upgrades": [
+        {
+          "blurred_positive": false,
+          "frozen_predicted_increment": 0.23623951180906552,
+          "held_cells": 430,
+          "held_observed_increment": 0.1186046511627907,
+          "source_cells": 1101,
+          "source_observed_increment": 0.23614895549500453
+        },
+        {
+          "blurred_positive": true,
+          "frozen_predicted_increment": 1.4188423645320198,
+          "held_cells": 30,
+          "held_observed_increment": 1.0666666666666667,
+          "source_cells": 48,
+          "source_observed_increment": 1.3541666666666667
+        }
+      ]
+    },
+    {
+      "event": "hurricane-harvey",
+      "fit_scope": "event_holdout",
+      "held_known_cells": 195,
+      "held_observed_blurred": 0.0,
+      "held_observed_mixed": 0.1282051282051282,
+      "held_observed_native": 0.2564102564102564,
+      "held_unknown_pairs_excluded": 4,
+      "predicted_blurred": 0.0014910079962963088,
+      "predicted_mixed": 0.02667304373283043,
+      "predicted_native": 0.051855079469364546,
+      "raw_change_bin": 0,
+      "source_known_cells": 759,
+      "source_observed_blurred": 0.0013175230566534915,
+      "source_observed_native": 0.05006587615283267,
+      "upgrades": [
+        {
+          "blurred_positive": false,
+          "frozen_predicted_increment": 0.05025480034333725,
+          "held_cells": 194,
+          "held_observed_increment": 0.24742268041237114,
+          "source_cells": 757,
+          "source_observed_increment": 0.0488771466314399
+        },
+        {
+          "blurred_positive": true,
+          "frozen_predicted_increment": 1.5219512195121951,
+          "held_cells": 1,
+          "held_observed_increment": 2.0,
+          "source_cells": 2,
+          "source_observed_increment": 0.0
+        }
+      ]
+    },
+    {
+      "event": "hurricane-harvey",
+      "fit_scope": "event_holdout",
+      "held_known_cells": 417,
+      "held_observed_blurred": 0.09352517985611511,
+      "held_observed_mixed": 0.5155875299760192,
+      "held_observed_native": 0.9376498800959233,
+      "held_unknown_pairs_excluded": 14,
+      "predicted_blurred": 0.0027984375106517873,
+      "predicted_mixed": 0.07696896154449209,
+      "predicted_native": 0.1511394855783324,
+      "raw_change_bin": 1,
+      "source_known_cells": 758,
+      "source_observed_blurred": 0.002638522427440633,
+      "source_observed_native": 0.1503957783641161,
+      "upgrades": [
+        {
+          "blurred_positive": false,
+          "frozen_predicted_increment": 0.13067663897851906,
+          "held_cells": 394,
+          "held_observed_increment": 0.7461928934010152,
+          "source_cells": 753,
+          "source_observed_increment": 0.1301460823373174
+        },
+        {
+          "blurred_positive": true,
+          "frozen_predicted_increment": 2.24765478424015,
+          "held_cells": 23,
+          "held_observed_increment": 2.5217391304347827,
+          "source_cells": 5,
+          "source_observed_increment": 2.8
+        }
+      ]
+    },
+    {
+      "event": "hurricane-harvey",
+      "fit_scope": "event_holdout",
+      "held_known_cells": 400,
+      "held_observed_blurred": 0.225,
+      "held_observed_mixed": 0.53,
+      "held_observed_native": 0.835,
+      "held_unknown_pairs_excluded": 4,
+      "predicted_blurred": 0.0142137795065807,
+      "predicted_mixed": 0.1491814088559706,
+      "predicted_native": 0.28414903820536047,
+      "raw_change_bin": 2,
+      "source_known_cells": 776,
+      "source_observed_blurred": 0.014175257731958763,
+      "source_observed_native": 0.2847938144329897,
+      "upgrades": [
+        {
+          "blurred_positive": false,
+          "frozen_predicted_increment": 0.24311922472458236,
+          "held_cells": 351,
+          "held_observed_increment": 0.4358974358974359,
+          "source_cells": 763,
+          "source_observed_increment": 0.2437745740498034
+        },
+        {
+          "blurred_positive": true,
+          "frozen_predicted_increment": 1.867595818815331,
+          "held_cells": 49,
+          "held_observed_increment": 1.8775510204081634,
+          "source_cells": 13,
+          "source_observed_increment": 1.8461538461538463
+        }
+      ]
+    },
+    {
+      "event": "hurricane-harvey",
+      "fit_scope": "event_holdout",
+      "held_known_cells": 500,
+      "held_observed_blurred": 0.084,
+      "held_observed_mixed": 0.17600000000000002,
+      "held_observed_native": 0.268,
+      "held_unknown_pairs_excluded": 2,
+      "predicted_blurred": 0.05281592186541626,
+      "predicted_mixed": 0.22395150775748518,
+      "predicted_native": 0.3950870936495541,
+      "raw_change_bin": 3,
+      "source_known_cells": 771,
+      "source_observed_blurred": 0.05317769130998703,
+      "source_observed_native": 0.3968871595330739,
+      "upgrades": [
+        {
+          "blurred_positive": false,
+          "frozen_predicted_increment": 0.29874000298503034,
+          "held_cells": 469,
+          "held_observed_increment": 0.1300639658848614,
+          "source_cells": 750,
+          "source_observed_increment": 0.3
+        },
+        {
+          "blurred_positive": true,
+          "frozen_predicted_increment": 1.904121110176619,
+          "held_cells": 31,
+          "held_observed_increment": 1.032258064516129,
+          "source_cells": 21,
+          "source_observed_increment": 1.9047619047619047
+        }
+      ]
+    },
+    {
+      "event": "mexico-earthquake",
+      "fit_scope": "development_fit",
+      "held_known_cells": 287,
+      "held_observed_blurred": 0.0,
+      "held_observed_mixed": 0.0,
+      "held_observed_native": 0.0,
+      "held_unknown_pairs_excluded": 0,
+      "predicted_blurred": 0.004691395560960778,
+      "predicted_mixed": 0.06616144724840377,
+      "predicted_native": 0.12763149893584677,
+      "raw_change_bin": 0,
+      "source_known_cells": 1142,
+      "source_observed_blurred": 0.0043782837127845885,
+      "source_observed_native": 0.12609457092819615,
+      "upgrades": [
+        {
+          "blurred_positive": false,
+          "frozen_predicted_increment": 0.11382628598621163,
+          "held_cells": 287,
+          "held_observed_increment": 0.0,
+          "source_cells": 1134,
+          "source_observed_increment": 0.1128747795414462
+        },
+        {
+          "blurred_positive": true,
+          "frozen_predicted_increment": 1.590948275862069,
+          "held_cells": 0,
+          "held_observed_increment": null,
+          "source_cells": 8,
+          "source_observed_increment": 1.375
+        }
+      ]
+    },
+    {
+      "event": "mexico-earthquake",
+      "fit_scope": "development_fit",
+      "held_known_cells": 435,
+      "held_observed_blurred": 0.0,
+      "held_observed_mixed": 0.0,
+      "held_observed_native": 0.0,
+      "held_unknown_pairs_excluded": 1,
+      "predicted_blurred": 0.040555161621595184,
+      "predicted_mixed": 0.23740005623746882,
+      "predicted_native": 0.43424495085334247,
+      "raw_change_bin": 1,
+      "source_known_cells": 1136,
+      "source_observed_blurred": 0.040492957746478875,
+      "source_observed_native": 0.43485915492957744,
+      "upgrades": [
+        {
+          "blurred_positive": false,
+          "frozen_predicted_increment": 0.3399010032253396,
+          "held_cells": 435,
+          "held_observed_increment": 0.0,
+          "source_cells": 1107,
+          "source_observed_increment": 0.3405600722673893
+        },
+        {
+          "blurred_positive": true,
+          "frozen_predicted_increment": 2.309599254426841,
+          "held_cells": 0,
+          "held_observed_increment": null,
+          "source_cells": 29,
+          "source_observed_increment": 2.4482758620689653
+        }
+      ]
+    },
+    {
+      "event": "mexico-earthquake",
+      "fit_scope": "development_fit",
+      "held_known_cells": 453,
+      "held_observed_blurred": 0.0,
+      "held_observed_mixed": 0.0,
+      "held_observed_native": 0.0,
+      "held_unknown_pairs_excluded": 4,
+      "predicted_blurred": 0.0859076101081287,
+      "predicted_mixed": 0.28183722068769607,
+      "predicted_native": 0.47776683126726344,
+      "raw_change_bin": 2,
+      "source_known_cells": 1149,
+      "source_observed_blurred": 0.08616187989556136,
+      "source_observed_native": 0.47867711053089645,
+      "upgrades": [
+        {
+          "blurred_positive": false,
+          "frozen_predicted_increment": 0.30901514913058675,
+          "held_cells": 453,
+          "held_observed_increment": 0.0,
+          "source_cells": 1089,
+          "source_observed_increment": 0.30945821854912764
+        },
+        {
+          "blurred_positive": true,
+          "frozen_predicted_increment": 1.9037525354969573,
+          "held_cells": 0,
+          "held_observed_increment": null,
+          "source_cells": 60,
+          "source_observed_increment": 1.9166666666666667
+        }
+      ]
+    },
+    {
+      "event": "mexico-earthquake",
+      "fit_scope": "development_fit",
+      "held_known_cells": 355,
+      "held_observed_blurred": 0.0,
+      "held_observed_mixed": 0.0,
+      "held_observed_native": 0.0,
+      "held_unknown_pairs_excluded": 1,
+      "predicted_blurred": 0.06602861270104139,
+      "predicted_mixed": 0.20707490435234602,
+      "predicted_native": 0.34812119600365066,
+      "raw_change_bin": 3,
+      "source_known_cells": 1149,
+      "source_observed_blurred": 0.06614447345517842,
+      "source_observed_native": 0.34812880765883375,
+      "upgrades": [
+        {
+          "blurred_positive": false,
+          "frozen_predicted_increment": 0.23623951180906552,
+          "held_cells": 355,
+          "held_observed_increment": 0.0,
+          "source_cells": 1101,
+          "source_observed_increment": 0.23614895549500453
+        },
+        {
+          "blurred_positive": true,
+          "frozen_predicted_increment": 1.4188423645320198,
+          "held_cells": 0,
+          "held_observed_increment": null,
+          "source_cells": 48,
+          "source_observed_increment": 1.3541666666666667
+        }
+      ]
+    },
+    {
+      "event": "mexico-earthquake",
+      "fit_scope": "event_holdout",
+      "held_known_cells": 242,
+      "held_observed_blurred": 0.0,
+      "held_observed_mixed": 0.0,
+      "held_observed_native": 0.0,
+      "held_unknown_pairs_excluded": 0,
+      "predicted_blurred": 0.0020668811045167356,
+      "predicted_mixed": 0.06794051947100789,
+      "predicted_native": 0.13381415783749903,
+      "raw_change_bin": 0,
+      "source_known_cells": 763,
+      "source_observed_blurred": 0.001310615989515072,
+      "source_observed_native": 0.12975098296199214,
+      "upgrades": [
+        {
+          "blurred_positive": false,
+          "frozen_predicted_increment": 0.12390997664339995,
+          "held_cells": 242,
+          "held_observed_increment": 0.0,
+          "source_cells": 759,
+          "source_observed_increment": 0.12121212121212122
+        },
+        {
+          "blurred_positive": true,
+          "frozen_predicted_increment": 1.7045977011494253,
+          "held_cells": 0,
+          "held_observed_increment": null,
+          "source_cells": 4,
+          "source_observed_increment": 1.5
+        }
+      ]
+    },
+    {
+      "event": "mexico-earthquake",
+      "fit_scope": "event_holdout",
+      "held_known_cells": 443,
+      "held_observed_blurred": 0.0,
+      "held_observed_mixed": 0.0,
+      "held_observed_native": 0.0,
+      "held_unknown_pairs_excluded": 1,
+      "predicted_blurred": 0.06278834476462059,
+      "predicted_mixed": 0.37979174210045785,
+      "predicted_native": 0.6967951394362951,
+      "raw_change_bin": 1,
+      "source_known_cells": 750,
+      "source_observed_blurred": 0.06266666666666666,
+      "source_observed_native": 0.6986666666666667,
+      "upgrades": [
+        {
+          "blurred_positive": false,
+          "frozen_predicted_increment": 0.5577458133042414,
+          "held_cells": 443,
+          "held_observed_increment": 0.0,
+          "source_cells": 720,
+          "source_observed_increment": 0.5597222222222222
+        },
+        {
+          "blurred_positive": true,
+          "frozen_predicted_increment": 2.3277676950998187,
+          "held_cells": 0,
+          "held_observed_increment": null,
+          "source_cells": 30,
+          "source_observed_increment": 2.466666666666667
+        }
+      ]
+    },
+    {
+      "event": "mexico-earthquake",
+      "fit_scope": "event_holdout",
+      "held_known_cells": 509,
+      "held_observed_blurred": 0.0,
+      "held_observed_mixed": 0.0,
+      "held_observed_native": 0.0,
+      "held_unknown_pairs_excluded": 4,
+      "predicted_blurred": 0.13642579500204444,
+      "predicted_mixed": 0.44429217120432435,
+      "predicted_native": 0.7521585474066043,
+      "raw_change_bin": 2,
+      "source_known_cells": 766,
+      "source_observed_blurred": 0.1370757180156658,
+      "source_observed_native": 0.7545691906005222,
+      "upgrades": [
+        {
+          "blurred_positive": false,
+          "frozen_predicted_increment": 0.507097115613363,
+          "held_cells": 509,
+          "held_observed_increment": 0.0,
+          "source_cells": 702,
+          "source_observed_increment": 0.5085470085470085
+        },
+        {
+          "blurred_positive": true,
+          "frozen_predicted_increment": 1.825766283524904,
+          "held_cells": 0,
+          "held_observed_increment": null,
+          "source_cells": 64,
+          "source_observed_increment": 1.828125
+        }
+      ]
+    },
+    {
+      "event": "mexico-earthquake",
+      "fit_scope": "event_holdout",
+      "held_known_cells": 336,
+      "held_observed_blurred": 0.0,
+      "held_observed_mixed": 0.0,
+      "held_observed_native": 0.0,
+      "held_unknown_pairs_excluded": 1,
+      "predicted_blurred": 0.09495943913752568,
+      "predicted_mixed": 0.29984792324148013,
+      "predicted_native": 0.5047364073454346,
+      "raw_change_bin": 3,
+      "source_known_cells": 767,
+      "source_observed_blurred": 0.09517601043024772,
+      "source_observed_native": 0.5045632333767927,
+      "upgrades": [
+        {
+          "blurred_positive": false,
+          "frozen_predicted_increment": 0.34758097813940625,
+          "held_cells": 336,
+          "held_observed_increment": 0.0,
+          "source_cells": 720,
+          "source_observed_increment": 0.3472222222222222
+        },
+        {
+          "blurred_positive": true,
+          "frozen_predicted_increment": 1.4446394984326019,
+          "held_cells": 0,
+          "held_observed_increment": null,
+          "source_cells": 47,
+          "source_observed_increment": 1.3829787234042554
+        }
+      ]
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "fit_scope": "development_fit",
+      "held_known_cells": 602,
+      "held_observed_blurred": 0.0016611295681063123,
+      "held_observed_mixed": 0.04235880398671096,
+      "held_observed_native": 0.08305647840531562,
+      "held_unknown_pairs_excluded": 1,
+      "predicted_blurred": 0.004691395560960778,
+      "predicted_mixed": 0.06616144724840377,
+      "predicted_native": 0.12763149893584677,
+      "raw_change_bin": 0,
+      "source_known_cells": 1142,
+      "source_observed_blurred": 0.0043782837127845885,
+      "source_observed_native": 0.12609457092819615,
+      "upgrades": [
+        {
+          "blurred_positive": false,
+          "frozen_predicted_increment": 0.11382628598621163,
+          "held_cells": 598,
+          "held_observed_increment": 0.07357859531772576,
+          "source_cells": 1134,
+          "source_observed_increment": 0.1128747795414462
+        },
+        {
+          "blurred_positive": true,
+          "frozen_predicted_increment": 1.590948275862069,
+          "held_cells": 4,
+          "held_observed_increment": 1.25,
+          "source_cells": 8,
+          "source_observed_increment": 1.375
+        }
+      ]
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "fit_scope": "development_fit",
+      "held_known_cells": 297,
+      "held_observed_blurred": 0.013468013468013467,
+      "held_observed_mixed": 0.19865319865319864,
+      "held_observed_native": 0.3838383838383838,
+      "held_unknown_pairs_excluded": 1,
+      "predicted_blurred": 0.040555161621595184,
+      "predicted_mixed": 0.23740005623746882,
+      "predicted_native": 0.43424495085334247,
+      "raw_change_bin": 1,
+      "source_known_cells": 1136,
+      "source_observed_blurred": 0.040492957746478875,
+      "source_observed_native": 0.43485915492957744,
+      "upgrades": [
+        {
+          "blurred_positive": false,
+          "frozen_predicted_increment": 0.3399010032253396,
+          "held_cells": 292,
+          "held_observed_increment": 0.339041095890411,
+          "source_cells": 1107,
+          "source_observed_increment": 0.3405600722673893
+        },
+        {
+          "blurred_positive": true,
+          "frozen_predicted_increment": 2.309599254426841,
+          "held_cells": 5,
+          "held_observed_increment": 2.2,
+          "source_cells": 29,
+          "source_observed_increment": 2.4482758620689653
+        }
+      ]
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "fit_scope": "development_fit",
+      "held_known_cells": 301,
+      "held_observed_blurred": 0.04318936877076412,
+      "held_observed_mixed": 0.41362126245847175,
+      "held_observed_native": 0.7840531561461794,
+      "held_unknown_pairs_excluded": 0,
+      "predicted_blurred": 0.0859076101081287,
+      "predicted_mixed": 0.28183722068769607,
+      "predicted_native": 0.47776683126726344,
+      "raw_change_bin": 2,
+      "source_known_cells": 1149,
+      "source_observed_blurred": 0.08616187989556136,
+      "source_observed_native": 0.47867711053089645,
+      "upgrades": [
+        {
+          "blurred_positive": false,
+          "frozen_predicted_increment": 0.30901514913058675,
+          "held_cells": 287,
+          "held_observed_increment": 0.6759581881533101,
+          "source_cells": 1089,
+          "source_observed_increment": 0.30945821854912764
+        },
+        {
+          "blurred_positive": true,
+          "frozen_predicted_increment": 1.9037525354969573,
+          "held_cells": 14,
+          "held_observed_increment": 2.0714285714285716,
+          "source_cells": 60,
+          "source_observed_increment": 1.9166666666666667
+        }
+      ]
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "fit_scope": "development_fit",
+      "held_known_cells": 334,
+      "held_observed_blurred": 0.11077844311377245,
+      "held_observed_mixed": 0.47305389221556887,
+      "held_observed_native": 0.8353293413173652,
+      "held_unknown_pairs_excluded": 0,
+      "predicted_blurred": 0.06602861270104139,
+      "predicted_mixed": 0.20707490435234602,
+      "predicted_native": 0.34812119600365066,
+      "raw_change_bin": 3,
+      "source_known_cells": 1149,
+      "source_observed_blurred": 0.06614447345517842,
+      "source_observed_native": 0.34812880765883375,
+      "upgrades": [
+        {
+          "blurred_positive": false,
+          "frozen_predicted_increment": 0.23623951180906552,
+          "held_cells": 316,
+          "held_observed_increment": 0.6613924050632911,
+          "source_cells": 1101,
+          "source_observed_increment": 0.23614895549500453
+        },
+        {
+          "blurred_positive": true,
+          "frozen_predicted_increment": 1.4188423645320198,
+          "held_cells": 18,
+          "held_observed_increment": 1.8333333333333333,
+          "source_cells": 48,
+          "source_observed_increment": 1.3541666666666667
+        }
+      ]
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "fit_scope": "event_holdout",
+      "held_known_cells": 709,
+      "held_observed_blurred": 0.0014104372355430183,
+      "held_observed_mixed": 0.05077574047954866,
+      "held_observed_native": 0.1001410437235543,
+      "held_unknown_pairs_excluded": 1,
+      "predicted_blurred": 0.011176857330703484,
+      "predicted_mixed": 0.1381218496603112,
+      "predicted_native": 0.2650668419899189,
+      "raw_change_bin": 0,
+      "source_known_cells": 748,
+      "source_observed_blurred": 0.0106951871657754,
+      "source_observed_native": 0.2647058823529412,
+      "upgrades": [
+        {
+          "blurred_positive": false,
+          "frozen_predicted_increment": 0.23598122335758984,
+          "held_cells": 704,
+          "held_observed_increment": 0.08948863636363637,
+          "source_cells": 740,
+          "source_observed_increment": 0.23648648648648649
+        },
+        {
+          "blurred_positive": true,
+          "frozen_predicted_increment": 1.8221153846153846,
+          "held_cells": 5,
+          "held_observed_increment": 1.4,
+          "source_cells": 8,
+          "source_observed_increment": 1.875
+        }
+      ]
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "fit_scope": "event_holdout",
+      "held_known_cells": 225,
+      "held_observed_blurred": 0.017777777777777778,
+      "held_observed_mixed": 0.2533333333333333,
+      "held_observed_native": 0.4888888888888889,
+      "held_unknown_pairs_excluded": 1,
+      "predicted_blurred": 0.06300351643954724,
+      "predicted_mixed": 0.2489208300951824,
+      "predicted_native": 0.43483814375081753,
+      "raw_change_bin": 1,
+      "source_known_cells": 761,
+      "source_observed_blurred": 0.06307490144546649,
+      "source_observed_native": 0.43626806833114323,
+      "upgrades": [
+        {
+          "blurred_positive": false,
+          "frozen_predicted_increment": 0.2931454920100771,
+          "held_cells": 220,
+          "held_observed_increment": 0.42727272727272725,
+          "source_cells": 734,
+          "source_observed_increment": 0.29427792915531337
+        },
+        {
+          "blurred_positive": true,
+          "frozen_predicted_increment": 2.375824175824176,
+          "held_cells": 5,
+          "held_observed_increment": 2.4,
+          "source_cells": 27,
+          "source_observed_increment": 2.5555555555555554
+        }
+      ]
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "fit_scope": "event_holdout",
+      "held_known_cells": 280,
+      "held_observed_blurred": 0.05714285714285714,
+      "held_observed_mixed": 0.4446428571428572,
+      "held_observed_native": 0.8321428571428572,
+      "held_unknown_pairs_excluded": 0,
+      "predicted_blurred": 0.09864477953807979,
+      "predicted_mixed": 0.2173162817331552,
+      "predicted_native": 0.3359877839282306,
+      "raw_change_bin": 2,
+      "source_known_cells": 767,
+      "source_observed_blurred": 0.09908735332464146,
+      "source_observed_native": 0.3363754889178618,
+      "upgrades": [
+        {
+          "blurred_positive": false,
+          "frozen_predicted_increment": 0.1569483085210288,
+          "held_cells": 266,
+          "held_observed_increment": 0.7180451127819549,
+          "source_cells": 728,
+          "source_observed_increment": 0.1565934065934066
+        },
+        {
+          "blurred_positive": true,
+          "frozen_predicted_increment": 1.7479541734860886,
+          "held_cells": 14,
+          "held_observed_increment": 1.8571428571428572,
+          "source_cells": 39,
+          "source_observed_increment": 1.7435897435897436
+        }
+      ]
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "fit_scope": "event_holdout",
+      "held_known_cells": 320,
+      "held_observed_blurred": 0.10625,
+      "held_observed_mixed": 0.4671875,
+      "held_observed_native": 0.828125,
+      "held_unknown_pairs_excluded": 0,
+      "predicted_blurred": 0.050968610002599266,
+      "predicted_mixed": 0.10519395134779749,
+      "predicted_native": 0.15941929269299573,
+      "raw_change_bin": 3,
+      "source_known_cells": 766,
+      "source_observed_blurred": 0.050913838120104436,
+      "source_observed_native": 0.15796344647519583,
+      "upgrades": [
+        {
+          "blurred_positive": false,
+          "frozen_predicted_increment": 0.07058327294553388,
+          "held_cells": 303,
+          "held_observed_increment": 0.6534653465346535,
+          "source_cells": 736,
+          "source_observed_increment": 0.06929347826086957
+        },
+        {
+          "blurred_positive": true,
+          "frozen_predicted_increment": 1.214574898785425,
+          "held_cells": 17,
+          "held_observed_increment": 1.9411764705882353,
+          "source_cells": 30,
+          "source_observed_increment": 1.0666666666666667
+        }
+      ]
+    }
+  ],
+  "stage": "EVALUATOR_ONLY_FROZEN_COMPONENT_CALIBRATION",
+  "threshold": 0.1,
+  "unit": "Known-cell local matched counts; not globally distinct buildings."
+}

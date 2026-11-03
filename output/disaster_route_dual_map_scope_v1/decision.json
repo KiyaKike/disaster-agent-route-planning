@@ -1,0 +1,74 @@
+{
+  "client_date": "2026-11-02",
+  "constraints": [
+    "固定感知模块",
+    "不填入伪造真实目标标签",
+    "不通过削弱单层信息证明双层收益",
+    "不恢复停止的触发器调参"
+  ],
+  "deprioritized_next_step": "误检漏检率失配实验改为路线机制的后续压力测试，不先于双层地图闭环。",
+  "dual_map": {
+    "common_basis": "相同地图信息、坐标、预算、感知模型与路线求解器",
+    "current_relation": "两种信息等价组织，逐动作路线一致；可以组合，不据此宣称算法收益",
+    "definition_status": "USER_SELECTED_1_AND_REQUESTED_TRIALS_OF_1_AND_2",
+    "implemented_scheme_2_scope": "平面几何代价和预算可行性；真实通行、地形、障碍尚未知",
+    "scheme_1": [
+      "搜索先验/线索层",
+      "沿途观测证据层"
+    ],
+    "scheme_2": [
+      "几何/通行代价层",
+      "目标语义层"
+    ]
+  },
+  "evaluation": [
+    "同预算覆盖与正确发现",
+    "首次到达/发现及失败率",
+    "总距离、总耗时、规划调用",
+    "地图来源与时相一致性",
+    "表示消融保持信息公平"
+  ],
+  "existing_results": "V1—V4是可复用路线、计费、快照与负例基础；不自动等于双层地图Agent系统。",
+  "functional_prototype": "output/disaster_route_dual_map_demo_v1/demo.html",
+  "functional_scope": {
+    "new_model_efficacy_established": false,
+    "new_tests": 14,
+    "route_executions": 12,
+    "source_worlds_reused": 2
+  },
+  "gpu_rented": false,
+  "latest_user_steering": [
+    "选择搜索先验/线索层＋沿途观测证据层",
+    "12我都想试试"
+  ],
+  "new_perception_calls": 0,
+  "new_routes_run": 0,
+  "new_training": false,
+  "next_milestone": [
+    "优先补有来源的灾前结构信息与几何通行约束",
+    "保持信息公平，再冻结地图/路线方法的效果实验"
+  ],
+  "next_milestone_implemented": true,
+  "old_results": {
+    "disaster_route_factor_v2": {
+      "completion_receipt_sha256": "7860f9cd3994cfde1fdada57ed135fa0ef94b5896d9682177996bf3617d1ca01",
+      "sealed_files_unchanged": 23
+    },
+    "disaster_route_loop_v1": {
+      "completion_receipt_sha256": "7847672c26b0188947cbb6be798360585547a3aa448ad23fa2c694fbaebd6c26",
+      "sealed_files_unchanged": 34
+    },
+    "disaster_route_snapshot_v3": {
+      "completion_receipt_sha256": "186da8adb7c289a35d6b4f58c876205c0c639d848c46547ee4d623754e8d235d",
+      "sealed_files_unchanged": 27
+    },
+    "disaster_route_trigger_v4": {
+      "completion_receipt_sha256": "abc47115a4d14d6f54a51120a478aadbfb659ace41f4b082fd1fc725cf02281f",
+      "sealed_files_unchanged": 30
+    }
+  },
+  "research_objective": "灾前信息形成初始搜查路线，灾后变化与沿途付费观测更新地图及任务，Agent在移动、观察、规划、返程共同预算内完成动态搜查。",
+  "status": "DIRECTION_CONFIRMED_TWO_ORGANIZATIONS_FUNCTIONAL_PROTOTYPE_COMPLETED",
+  "user_instruction": "注意，主题是灾害前后agent搜查路线规划，并且能结合双层地图",
+  "working_title": "面向灾前灾后信息融合的双层地图驱动Agent搜查路线规划"
+}

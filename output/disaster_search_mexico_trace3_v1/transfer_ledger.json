@@ -1,0 +1,152 @@
+[
+  {
+    "at_utc": "2026-10-28T06:02:43.091649+00:00",
+    "bytes": 8,
+    "offset": 477300348,
+    "received": 8,
+    "role": "parquet_trailer",
+    "sha256": "f14269712cb20e4f7c9b55703059dc4494196152732add35c00f899686a857bf",
+    "shard": "data/hold-00000-of-00006.parquet",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T06:02:45.795865+00:00",
+    "bytes": 7620,
+    "offset": 477292728,
+    "received": 7620,
+    "role": "parquet_footer_metadata_only",
+    "sha256": "1091082e88b710146578d0a801f2a16fec39e23e1831713a88badbcaab24bd63",
+    "shard": "data/hold-00000-of-00006.parquet",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T06:02:48.293191+00:00",
+    "bytes": 1087,
+    "offset": 309837811,
+    "received": 1087,
+    "role": "transient_selected_group_mask_or_identity",
+    "sha256": "5f4f4343db17a7993e242a37bdf4cc32340578d6b48125ef9520db4224d387c2",
+    "shard": "data/hold-00000-of-00006.parquet",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T06:02:50.189877+00:00",
+    "bytes": 613812,
+    "offset": 309223951,
+    "received": 613812,
+    "role": "transient_selected_group_mask_or_identity",
+    "sha256": "320fdcf4f9df45f970bce2c0cd3348b7815918fec9ce9eb044e23a1f1630573f",
+    "shard": "data/hold-00000-of-00006.parquet",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T06:02:56.009843+00:00",
+    "bytes": 48,
+    "offset": 309837763,
+    "received": 48,
+    "role": "transient_selected_group_mask_or_identity",
+    "sha256": "fd327d5c8cf0045e6d2451ad5093e68ff74935b8330d0f85f1b4b6a57d48a01f",
+    "shard": "data/hold-00000-of-00006.parquet",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T06:02:57.572941+00:00",
+    "bytes": 8,
+    "offset": 467737793,
+    "received": 8,
+    "role": "parquet_trailer",
+    "sha256": "f14269712cb20e4f7c9b55703059dc4494196152732add35c00f899686a857bf",
+    "shard": "data/hold-00003-of-00006.parquet",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T06:02:59.296401+00:00",
+    "bytes": 7620,
+    "offset": 467730173,
+    "received": 7620,
+    "role": "parquet_footer_metadata_only",
+    "sha256": "9c8a803a5835499eba58b279066e848fd210a0491301dd652366af62917e52af",
+    "shard": "data/hold-00003-of-00006.parquet",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T06:03:01.185111+00:00",
+    "bytes": 1093,
+    "offset": 302249800,
+    "received": 1093,
+    "role": "transient_selected_group_mask_or_identity",
+    "sha256": "f55a42386e896737c0f51b8741ec39246d7f390fcaa75c36db4e33ee887ff34e",
+    "shard": "data/hold-00003-of-00006.parquet",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T06:03:03.063047+00:00",
+    "bytes": 575307,
+    "offset": 301674445,
+    "received": 575307,
+    "role": "transient_selected_group_mask_or_identity",
+    "sha256": "29a4afbc1e76de4000b3c7ef4d7e16b63467a8094efef68f9e75eb7358e9e815",
+    "shard": "data/hold-00003-of-00006.parquet",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T06:03:07.897210+00:00",
+    "bytes": 48,
+    "offset": 302249752,
+    "received": 48,
+    "role": "transient_selected_group_mask_or_identity",
+    "sha256": "fd327d5c8cf0045e6d2451ad5093e68ff74935b8330d0f85f1b4b6a57d48a01f",
+    "shard": "data/hold-00003-of-00006.parquet",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T06:03:09.346552+00:00",
+    "bytes": 8,
+    "offset": 475211175,
+    "received": 8,
+    "role": "parquet_trailer",
+    "sha256": "f14269712cb20e4f7c9b55703059dc4494196152732add35c00f899686a857bf",
+    "shard": "data/hold-00004-of-00006.parquet",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T06:03:11.475562+00:00",
+    "bytes": 7620,
+    "offset": 475203555,
+    "received": 7620,
+    "role": "parquet_footer_metadata_only",
+    "sha256": "b46c72930b5c2c448027096a3054035de4c29730d6699e913bd377708abb2f66",
+    "shard": "data/hold-00004-of-00006.parquet",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T06:03:13.323658+00:00",
+    "bytes": 1091,
+    "offset": 308184764,
+    "received": 1091,
+    "role": "transient_selected_group_mask_or_identity",
+    "sha256": "1a2ea13ecef8a40f1f201293e68945a6f202440a27bd1d9d657cde686c18c055",
+    "shard": "data/hold-00004-of-00006.parquet",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T06:03:15.160551+00:00",
+    "bytes": 682879,
+    "offset": 307501837,
+    "received": 682879,
+    "role": "transient_selected_group_mask_or_identity",
+    "sha256": "9c72ad40b9ae18dcd35cfaf182fb718c879a6355e20ccad8421ce60ca3494f75",
+    "shard": "data/hold-00004-of-00006.parquet",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T06:03:25.768681+00:00",
+    "bytes": 48,
+    "offset": 308184716,
+    "received": 48,
+    "role": "transient_selected_group_mask_or_identity",
+    "sha256": "fd327d5c8cf0045e6d2451ad5093e68ff74935b8330d0f85f1b4b6a57d48a01f",
+    "shard": "data/hold-00004-of-00006.parquet",
+    "status": "COMPLETE"
+  }
+]

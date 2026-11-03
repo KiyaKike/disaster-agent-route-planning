@@ -1,0 +1,1632 @@
+{
+  "stage": "POSTHOC_CALIBRATION_BOUNDARY_DIAGNOSTICS",
+  "test_evaluation_run": false,
+  "protocol_sha256": "966f06b46e40937f8cfd413de1173f0f45fb6210215031f573f275f17bc50d5d",
+  "observations_sha256": "1bbb20b1e47c61e02416192a9f1b154607242725eb75625237055402e61ed010",
+  "original_centroid_report_sha256": "c8eff34044a3f65e2a9702be2d2a2df82e94b1dc34e6fee298d487179388567a",
+  "label_hashes": {
+    "train/labels/hurricane-harvey_00000392_post_disaster.json": "c101eefa8626fc8a32ba4b43dad365b5d781a06c4ee54fb5ff9c0c5313fcd359",
+    "train/labels/hurricane-harvey_00000406_post_disaster.json": "dea2ca3ae734211c6b1c79b47bce3e35667e811d3a494716f1219610867bc6e4",
+    "train/labels/santa-rosa-wildfire_00000220_post_disaster.json": "1997dd4f74fcbd56cf0b71c411600d6e6d0795525394b0181a42d1e0ce31daf9",
+    "train/labels/santa-rosa-wildfire_00000125_post_disaster.json": "57d0e2685ff6ceddc8d6d6de8b3f2e2d89f8b80448570cef624e67605dbf7204"
+  },
+  "results_by_mode": {
+    "blurred": {
+      "visible_cell_confusion": {
+        "n": 32,
+        "tp": 1,
+        "fp": 0,
+        "fn": 8,
+        "tn": 23,
+        "precision": 1.0,
+        "recall": 0.1111111111111111,
+        "false_positive_rate": 0.0,
+        "unknown_excluded": 0
+      },
+      "building_proxy": {
+        "unique_visible_targets": 25,
+        "unique_matched_targets": 3,
+        "matched_observation_building_pairs": 3,
+        "repeated_matches_not_counted_again": 0,
+        "visible_building_coverage_proxy": 0.12,
+        "severe_pixel_precision_known_only": 0.972458688032048,
+        "severe_pixels_on_targets": 3884,
+        "severe_pixels_on_known_negative_or_background": 110,
+        "severe_pixels_on_unknown_only": 0
+      }
+    },
+    "native": {
+      "visible_cell_confusion": {
+        "n": 32,
+        "tp": 9,
+        "fp": 0,
+        "fn": 0,
+        "tn": 23,
+        "precision": 1.0,
+        "recall": 1.0,
+        "false_positive_rate": 0.0,
+        "unknown_excluded": 0
+      },
+      "building_proxy": {
+        "unique_visible_targets": 25,
+        "unique_matched_targets": 21,
+        "matched_observation_building_pairs": 21,
+        "repeated_matches_not_counted_again": 0,
+        "visible_building_coverage_proxy": 0.84,
+        "severe_pixel_precision_known_only": 0.8992145148799646,
+        "severe_pixels_on_targets": 16256,
+        "severe_pixels_on_known_negative_or_background": 1822,
+        "severe_pixels_on_unknown_only": 543
+      }
+    }
+  },
+  "combined_modes_deduplication_check_only": {
+    "unique_visible_targets": 25,
+    "unique_matched_targets": 21,
+    "matched_observation_building_pairs": 24,
+    "repeated_matches_not_counted_again": 3,
+    "visible_building_coverage_proxy": 0.84,
+    "severe_pixel_precision_known_only": 0.9124682856107286,
+    "severe_pixels_on_targets": 20140,
+    "severe_pixels_on_known_negative_or_background": 1932,
+    "severe_pixels_on_unknown_only": 543
+  },
+  "sensitivity_not_for_threshold_selection": {
+    "0.05": {
+      "blurred": {
+        "unique_visible_targets": 25,
+        "unique_matched_targets": 3,
+        "matched_observation_building_pairs": 3,
+        "repeated_matches_not_counted_again": 0,
+        "visible_building_coverage_proxy": 0.12,
+        "severe_pixel_precision_known_only": 0.972458688032048,
+        "severe_pixels_on_targets": 3884,
+        "severe_pixels_on_known_negative_or_background": 110,
+        "severe_pixels_on_unknown_only": 0
+      },
+      "native": {
+        "unique_visible_targets": 25,
+        "unique_matched_targets": 22,
+        "matched_observation_building_pairs": 22,
+        "repeated_matches_not_counted_again": 0,
+        "visible_building_coverage_proxy": 0.88,
+        "severe_pixel_precision_known_only": 0.8992145148799646,
+        "severe_pixels_on_targets": 16256,
+        "severe_pixels_on_known_negative_or_background": 1822,
+        "severe_pixels_on_unknown_only": 543
+      }
+    },
+    "0.1": {
+      "blurred": {
+        "unique_visible_targets": 25,
+        "unique_matched_targets": 3,
+        "matched_observation_building_pairs": 3,
+        "repeated_matches_not_counted_again": 0,
+        "visible_building_coverage_proxy": 0.12,
+        "severe_pixel_precision_known_only": 0.972458688032048,
+        "severe_pixels_on_targets": 3884,
+        "severe_pixels_on_known_negative_or_background": 110,
+        "severe_pixels_on_unknown_only": 0
+      },
+      "native": {
+        "unique_visible_targets": 25,
+        "unique_matched_targets": 21,
+        "matched_observation_building_pairs": 21,
+        "repeated_matches_not_counted_again": 0,
+        "visible_building_coverage_proxy": 0.84,
+        "severe_pixel_precision_known_only": 0.8992145148799646,
+        "severe_pixels_on_targets": 16256,
+        "severe_pixels_on_known_negative_or_background": 1822,
+        "severe_pixels_on_unknown_only": 543
+      }
+    },
+    "0.25": {
+      "blurred": {
+        "unique_visible_targets": 25,
+        "unique_matched_targets": 3,
+        "matched_observation_building_pairs": 3,
+        "repeated_matches_not_counted_again": 0,
+        "visible_building_coverage_proxy": 0.12,
+        "severe_pixel_precision_known_only": 0.972458688032048,
+        "severe_pixels_on_targets": 3884,
+        "severe_pixels_on_known_negative_or_background": 110,
+        "severe_pixels_on_unknown_only": 0
+      },
+      "native": {
+        "unique_visible_targets": 25,
+        "unique_matched_targets": 18,
+        "matched_observation_building_pairs": 18,
+        "repeated_matches_not_counted_again": 0,
+        "visible_building_coverage_proxy": 0.72,
+        "severe_pixel_precision_known_only": 0.8992145148799646,
+        "severe_pixels_on_targets": 16256,
+        "severe_pixels_on_known_negative_or_background": 1822,
+        "severe_pixels_on_unknown_only": 543
+      }
+    }
+  },
+  "cell_truth_changes": [
+    {
+      "sample_id": "hurricane-harvey_00000392",
+      "cell_id": "r01c01",
+      "mode": "native",
+      "centroid_target": false,
+      "target": true
+    },
+    {
+      "sample_id": "hurricane-harvey_00000392",
+      "cell_id": "r01c01",
+      "mode": "blurred",
+      "centroid_target": false,
+      "target": true
+    },
+    {
+      "sample_id": "hurricane-harvey_00000406",
+      "cell_id": "r01c05",
+      "mode": "native",
+      "centroid_target": false,
+      "target": true
+    },
+    {
+      "sample_id": "hurricane-harvey_00000406",
+      "cell_id": "r01c05",
+      "mode": "blurred",
+      "centroid_target": false,
+      "target": true
+    }
+  ],
+  "rows": [
+    {
+      "sample_id": "hurricane-harvey_00000392",
+      "cell_id": "r01c01",
+      "mode": "native",
+      "observation_id": "hurricane-harvey_00000392:r01c01:native",
+      "evidence_group_id": "hurricane-harvey_00000392:r01c01",
+      "target": true,
+      "visible_target_uids": [
+        "dd721024-f925-44fe-96cd-c546e9a962b2"
+      ],
+      "matched_target_uids": [
+        "dd721024-f925-44fe-96cd-c546e9a962b2"
+      ],
+      "overlap_records": [
+        {
+          "uid": "dd721024-f925-44fe-96cd-c546e9a962b2",
+          "visible_pixels": 743,
+          "severe_overlap_pixels": 707,
+          "visible_footprint_coverage": 0.9515477792732167
+        }
+      ],
+      "severe_pixels_on_targets": 707,
+      "severe_pixels_on_unknown_only": 0,
+      "severe_pixels_on_known_negative_or_background": 36,
+      "predicted": true,
+      "centroid_target": false
+    },
+    {
+      "sample_id": "hurricane-harvey_00000392",
+      "cell_id": "r01c01",
+      "mode": "blurred",
+      "observation_id": "hurricane-harvey_00000392:r01c01:blurred",
+      "evidence_group_id": "hurricane-harvey_00000392:r01c01",
+      "target": true,
+      "visible_target_uids": [
+        "dd721024-f925-44fe-96cd-c546e9a962b2"
+      ],
+      "matched_target_uids": [],
+      "overlap_records": [
+        {
+          "uid": "dd721024-f925-44fe-96cd-c546e9a962b2",
+          "visible_pixels": 743,
+          "severe_overlap_pixels": 0,
+          "visible_footprint_coverage": 0.0
+        }
+      ],
+      "severe_pixels_on_targets": 0,
+      "severe_pixels_on_unknown_only": 0,
+      "severe_pixels_on_known_negative_or_background": 0,
+      "predicted": false,
+      "centroid_target": false
+    },
+    {
+      "sample_id": "hurricane-harvey_00000392",
+      "cell_id": "r01c05",
+      "mode": "native",
+      "observation_id": "hurricane-harvey_00000392:r01c05:native",
+      "evidence_group_id": "hurricane-harvey_00000392:r01c05",
+      "target": true,
+      "visible_target_uids": [
+        "11622b5f-927d-4344-af47-9cf84dd6b521",
+        "1e324c5e-ea06-464a-abde-e1bf47370511",
+        "f97f93cf-9a8b-49d7-aaac-eb182eae164f"
+      ],
+      "matched_target_uids": [
+        "11622b5f-927d-4344-af47-9cf84dd6b521",
+        "1e324c5e-ea06-464a-abde-e1bf47370511",
+        "f97f93cf-9a8b-49d7-aaac-eb182eae164f"
+      ],
+      "overlap_records": [
+        {
+          "uid": "11622b5f-927d-4344-af47-9cf84dd6b521",
+          "visible_pixels": 1723,
+          "severe_overlap_pixels": 1667,
+          "visible_footprint_coverage": 0.967498549042368
+        },
+        {
+          "uid": "1e324c5e-ea06-464a-abde-e1bf47370511",
+          "visible_pixels": 1725,
+          "severe_overlap_pixels": 1659,
+          "visible_footprint_coverage": 0.9617391304347827
+        },
+        {
+          "uid": "f97f93cf-9a8b-49d7-aaac-eb182eae164f",
+          "visible_pixels": 745,
+          "severe_overlap_pixels": 681,
+          "visible_footprint_coverage": 0.9140939597315436
+        }
+      ],
+      "severe_pixels_on_targets": 3998,
+      "severe_pixels_on_unknown_only": 0,
+      "severe_pixels_on_known_negative_or_background": 224,
+      "predicted": true,
+      "centroid_target": true
+    },
+    {
+      "sample_id": "hurricane-harvey_00000392",
+      "cell_id": "r01c05",
+      "mode": "blurred",
+      "observation_id": "hurricane-harvey_00000392:r01c05:blurred",
+      "evidence_group_id": "hurricane-harvey_00000392:r01c05",
+      "target": true,
+      "visible_target_uids": [
+        "11622b5f-927d-4344-af47-9cf84dd6b521",
+        "1e324c5e-ea06-464a-abde-e1bf47370511",
+        "f97f93cf-9a8b-49d7-aaac-eb182eae164f"
+      ],
+      "matched_target_uids": [
+        "11622b5f-927d-4344-af47-9cf84dd6b521",
+        "1e324c5e-ea06-464a-abde-e1bf47370511",
+        "f97f93cf-9a8b-49d7-aaac-eb182eae164f"
+      ],
+      "overlap_records": [
+        {
+          "uid": "11622b5f-927d-4344-af47-9cf84dd6b521",
+          "visible_pixels": 1723,
+          "severe_overlap_pixels": 1637,
+          "visible_footprint_coverage": 0.9500870574579222
+        },
+        {
+          "uid": "1e324c5e-ea06-464a-abde-e1bf47370511",
+          "visible_pixels": 1725,
+          "severe_overlap_pixels": 1586,
+          "visible_footprint_coverage": 0.9194202898550725
+        },
+        {
+          "uid": "f97f93cf-9a8b-49d7-aaac-eb182eae164f",
+          "visible_pixels": 745,
+          "severe_overlap_pixels": 669,
+          "visible_footprint_coverage": 0.897986577181208
+        }
+      ],
+      "severe_pixels_on_targets": 3884,
+      "severe_pixels_on_unknown_only": 0,
+      "severe_pixels_on_known_negative_or_background": 110,
+      "predicted": true,
+      "centroid_target": true
+    },
+    {
+      "sample_id": "hurricane-harvey_00000392",
+      "cell_id": "r03c01",
+      "mode": "native",
+      "observation_id": "hurricane-harvey_00000392:r03c01:native",
+      "evidence_group_id": "hurricane-harvey_00000392:r03c01",
+      "target": false,
+      "visible_target_uids": [],
+      "matched_target_uids": [],
+      "overlap_records": [],
+      "severe_pixels_on_targets": 0,
+      "severe_pixels_on_unknown_only": 0,
+      "severe_pixels_on_known_negative_or_background": 0,
+      "predicted": false,
+      "centroid_target": false
+    },
+    {
+      "sample_id": "hurricane-harvey_00000392",
+      "cell_id": "r03c01",
+      "mode": "blurred",
+      "observation_id": "hurricane-harvey_00000392:r03c01:blurred",
+      "evidence_group_id": "hurricane-harvey_00000392:r03c01",
+      "target": false,
+      "visible_target_uids": [],
+      "matched_target_uids": [],
+      "overlap_records": [],
+      "severe_pixels_on_targets": 0,
+      "severe_pixels_on_unknown_only": 0,
+      "severe_pixels_on_known_negative_or_background": 0,
+      "predicted": false,
+      "centroid_target": false
+    },
+    {
+      "sample_id": "hurricane-harvey_00000392",
+      "cell_id": "r03c05",
+      "mode": "native",
+      "observation_id": "hurricane-harvey_00000392:r03c05:native",
+      "evidence_group_id": "hurricane-harvey_00000392:r03c05",
+      "target": false,
+      "visible_target_uids": [],
+      "matched_target_uids": [],
+      "overlap_records": [],
+      "severe_pixels_on_targets": 0,
+      "severe_pixels_on_unknown_only": 0,
+      "severe_pixels_on_known_negative_or_background": 0,
+      "predicted": false,
+      "centroid_target": false
+    },
+    {
+      "sample_id": "hurricane-harvey_00000392",
+      "cell_id": "r03c05",
+      "mode": "blurred",
+      "observation_id": "hurricane-harvey_00000392:r03c05:blurred",
+      "evidence_group_id": "hurricane-harvey_00000392:r03c05",
+      "target": false,
+      "visible_target_uids": [],
+      "matched_target_uids": [],
+      "overlap_records": [],
+      "severe_pixels_on_targets": 0,
+      "severe_pixels_on_unknown_only": 0,
+      "severe_pixels_on_known_negative_or_background": 0,
+      "predicted": false,
+      "centroid_target": false
+    },
+    {
+      "sample_id": "hurricane-harvey_00000392",
+      "cell_id": "r05c01",
+      "mode": "native",
+      "observation_id": "hurricane-harvey_00000392:r05c01:native",
+      "evidence_group_id": "hurricane-harvey_00000392:r05c01",
+      "target": false,
+      "visible_target_uids": [],
+      "matched_target_uids": [],
+      "overlap_records": [],
+      "severe_pixels_on_targets": 0,
+      "severe_pixels_on_unknown_only": 0,
+      "severe_pixels_on_known_negative_or_background": 0,
+      "predicted": false,
+      "centroid_target": false
+    },
+    {
+      "sample_id": "hurricane-harvey_00000392",
+      "cell_id": "r05c01",
+      "mode": "blurred",
+      "observation_id": "hurricane-harvey_00000392:r05c01:blurred",
+      "evidence_group_id": "hurricane-harvey_00000392:r05c01",
+      "target": false,
+      "visible_target_uids": [],
+      "matched_target_uids": [],
+      "overlap_records": [],
+      "severe_pixels_on_targets": 0,
+      "severe_pixels_on_unknown_only": 0,
+      "severe_pixels_on_known_negative_or_background": 0,
+      "predicted": false,
+      "centroid_target": false
+    },
+    {
+      "sample_id": "hurricane-harvey_00000392",
+      "cell_id": "r05c05",
+      "mode": "native",
+      "observation_id": "hurricane-harvey_00000392:r05c05:native",
+      "evidence_group_id": "hurricane-harvey_00000392:r05c05",
+      "target": false,
+      "visible_target_uids": [],
+      "matched_target_uids": [],
+      "overlap_records": [],
+      "severe_pixels_on_targets": 0,
+      "severe_pixels_on_unknown_only": 0,
+      "severe_pixels_on_known_negative_or_background": 0,
+      "predicted": false,
+      "centroid_target": false
+    },
+    {
+      "sample_id": "hurricane-harvey_00000392",
+      "cell_id": "r05c05",
+      "mode": "blurred",
+      "observation_id": "hurricane-harvey_00000392:r05c05:blurred",
+      "evidence_group_id": "hurricane-harvey_00000392:r05c05",
+      "target": false,
+      "visible_target_uids": [],
+      "matched_target_uids": [],
+      "overlap_records": [],
+      "severe_pixels_on_targets": 0,
+      "severe_pixels_on_unknown_only": 0,
+      "severe_pixels_on_known_negative_or_background": 0,
+      "predicted": false,
+      "centroid_target": false
+    },
+    {
+      "sample_id": "hurricane-harvey_00000392",
+      "cell_id": "r07c01",
+      "mode": "native",
+      "observation_id": "hurricane-harvey_00000392:r07c01:native",
+      "evidence_group_id": "hurricane-harvey_00000392:r07c01",
+      "target": false,
+      "visible_target_uids": [],
+      "matched_target_uids": [],
+      "overlap_records": [],
+      "severe_pixels_on_targets": 0,
+      "severe_pixels_on_unknown_only": 0,
+      "severe_pixels_on_known_negative_or_background": 0,
+      "predicted": false,
+      "centroid_target": false
+    },
+    {
+      "sample_id": "hurricane-harvey_00000392",
+      "cell_id": "r07c01",
+      "mode": "blurred",
+      "observation_id": "hurricane-harvey_00000392:r07c01:blurred",
+      "evidence_group_id": "hurricane-harvey_00000392:r07c01",
+      "target": false,
+      "visible_target_uids": [],
+      "matched_target_uids": [],
+      "overlap_records": [],
+      "severe_pixels_on_targets": 0,
+      "severe_pixels_on_unknown_only": 0,
+      "severe_pixels_on_known_negative_or_background": 0,
+      "predicted": false,
+      "centroid_target": false
+    },
+    {
+      "sample_id": "hurricane-harvey_00000392",
+      "cell_id": "r07c05",
+      "mode": "native",
+      "observation_id": "hurricane-harvey_00000392:r07c05:native",
+      "evidence_group_id": "hurricane-harvey_00000392:r07c05",
+      "target": false,
+      "visible_target_uids": [],
+      "matched_target_uids": [],
+      "overlap_records": [],
+      "severe_pixels_on_targets": 0,
+      "severe_pixels_on_unknown_only": 0,
+      "severe_pixels_on_known_negative_or_background": 0,
+      "predicted": false,
+      "centroid_target": false
+    },
+    {
+      "sample_id": "hurricane-harvey_00000392",
+      "cell_id": "r07c05",
+      "mode": "blurred",
+      "observation_id": "hurricane-harvey_00000392:r07c05:blurred",
+      "evidence_group_id": "hurricane-harvey_00000392:r07c05",
+      "target": false,
+      "visible_target_uids": [],
+      "matched_target_uids": [],
+      "overlap_records": [],
+      "severe_pixels_on_targets": 0,
+      "severe_pixels_on_unknown_only": 0,
+      "severe_pixels_on_known_negative_or_background": 0,
+      "predicted": false,
+      "centroid_target": false
+    },
+    {
+      "sample_id": "hurricane-harvey_00000406",
+      "cell_id": "r01c01",
+      "mode": "native",
+      "observation_id": "hurricane-harvey_00000406:r01c01:native",
+      "evidence_group_id": "hurricane-harvey_00000406:r01c01",
+      "target": false,
+      "visible_target_uids": [],
+      "matched_target_uids": [],
+      "overlap_records": [],
+      "severe_pixels_on_targets": 0,
+      "severe_pixels_on_unknown_only": 0,
+      "severe_pixels_on_known_negative_or_background": 0,
+      "predicted": false,
+      "centroid_target": false
+    },
+    {
+      "sample_id": "hurricane-harvey_00000406",
+      "cell_id": "r01c01",
+      "mode": "blurred",
+      "observation_id": "hurricane-harvey_00000406:r01c01:blurred",
+      "evidence_group_id": "hurricane-harvey_00000406:r01c01",
+      "target": false,
+      "visible_target_uids": [],
+      "matched_target_uids": [],
+      "overlap_records": [],
+      "severe_pixels_on_targets": 0,
+      "severe_pixels_on_unknown_only": 0,
+      "severe_pixels_on_known_negative_or_background": 0,
+      "predicted": false,
+      "centroid_target": false
+    },
+    {
+      "sample_id": "hurricane-harvey_00000406",
+      "cell_id": "r01c05",
+      "mode": "native",
+      "observation_id": "hurricane-harvey_00000406:r01c05:native",
+      "evidence_group_id": "hurricane-harvey_00000406:r01c05",
+      "target": true,
+      "visible_target_uids": [
+        "ce5e6830-b3a6-448b-ab31-b1ef87871465"
+      ],
+      "matched_target_uids": [
+        "ce5e6830-b3a6-448b-ab31-b1ef87871465"
+      ],
+      "overlap_records": [
+        {
+          "uid": "ce5e6830-b3a6-448b-ab31-b1ef87871465",
+          "visible_pixels": 63,
+          "severe_overlap_pixels": 21,
+          "visible_footprint_coverage": 0.3333333333333333
+        }
+      ],
+      "severe_pixels_on_targets": 21,
+      "severe_pixels_on_unknown_only": 0,
+      "severe_pixels_on_known_negative_or_background": 20,
+      "predicted": true,
+      "centroid_target": false
+    },
+    {
+      "sample_id": "hurricane-harvey_00000406",
+      "cell_id": "r01c05",
+      "mode": "blurred",
+      "observation_id": "hurricane-harvey_00000406:r01c05:blurred",
+      "evidence_group_id": "hurricane-harvey_00000406:r01c05",
+      "target": true,
+      "visible_target_uids": [
+        "ce5e6830-b3a6-448b-ab31-b1ef87871465"
+      ],
+      "matched_target_uids": [],
+      "overlap_records": [
+        {
+          "uid": "ce5e6830-b3a6-448b-ab31-b1ef87871465",
+          "visible_pixels": 63,
+          "severe_overlap_pixels": 0,
+          "visible_footprint_coverage": 0.0
+        }
+      ],
+      "severe_pixels_on_targets": 0,
+      "severe_pixels_on_unknown_only": 0,
+      "severe_pixels_on_known_negative_or_background": 0,
+      "predicted": false,
+      "centroid_target": false
+    },
+    {
+      "sample_id": "hurricane-harvey_00000406",
+      "cell_id": "r03c01",
+      "mode": "native",
+      "observation_id": "hurricane-harvey_00000406:r03c01:native",
+      "evidence_group_id": "hurricane-harvey_00000406:r03c01",
+      "target": true,
+      "visible_target_uids": [
+        "25a359bf-a0a1-4e5c-9b3b-f171fd21bab4",
+        "ae13d665-c8c1-4c15-b5d8-31d614043480"
+      ],
+      "matched_target_uids": [
+        "25a359bf-a0a1-4e5c-9b3b-f171fd21bab4",
+        "ae13d665-c8c1-4c15-b5d8-31d614043480"
+      ],
+      "overlap_records": [
+        {
+          "uid": "ae13d665-c8c1-4c15-b5d8-31d614043480",
+          "visible_pixels": 2326,
+          "severe_overlap_pixels": 2005,
+          "visible_footprint_coverage": 0.8619948409286329
+        },
+        {
+          "uid": "25a359bf-a0a1-4e5c-9b3b-f171fd21bab4",
+          "visible_pixels": 1473,
+          "severe_overlap_pixels": 1401,
+          "visible_footprint_coverage": 0.9511201629327902
+        }
+      ],
+      "severe_pixels_on_targets": 3406,
+      "severe_pixels_on_unknown_only": 290,
+      "severe_pixels_on_known_negative_or_background": 438,
+      "predicted": true,
+      "centroid_target": true
+    },
+    {
+      "sample_id": "hurricane-harvey_00000406",
+      "cell_id": "r03c01",
+      "mode": "blurred",
+      "observation_id": "hurricane-harvey_00000406:r03c01:blurred",
+      "evidence_group_id": "hurricane-harvey_00000406:r03c01",
+      "target": true,
+      "visible_target_uids": [
+        "25a359bf-a0a1-4e5c-9b3b-f171fd21bab4",
+        "ae13d665-c8c1-4c15-b5d8-31d614043480"
+      ],
+      "matched_target_uids": [],
+      "overlap_records": [
+        {
+          "uid": "ae13d665-c8c1-4c15-b5d8-31d614043480",
+          "visible_pixels": 2326,
+          "severe_overlap_pixels": 0,
+          "visible_footprint_coverage": 0.0
+        },
+        {
+          "uid": "25a359bf-a0a1-4e5c-9b3b-f171fd21bab4",
+          "visible_pixels": 1473,
+          "severe_overlap_pixels": 0,
+          "visible_footprint_coverage": 0.0
+        }
+      ],
+      "severe_pixels_on_targets": 0,
+      "severe_pixels_on_unknown_only": 0,
+      "severe_pixels_on_known_negative_or_background": 0,
+      "predicted": false,
+      "centroid_target": true
+    },
+    {
+      "sample_id": "hurricane-harvey_00000406",
+      "cell_id": "r03c05",
+      "mode": "native",
+      "observation_id": "hurricane-harvey_00000406:r03c05:native",
+      "evidence_group_id": "hurricane-harvey_00000406:r03c05",
+      "target": true,
+      "visible_target_uids": [
+        "b0d3a128-269c-4695-8504-b0bca8d991de"
+      ],
+      "matched_target_uids": [
+        "b0d3a128-269c-4695-8504-b0bca8d991de"
+      ],
+      "overlap_records": [
+        {
+          "uid": "b0d3a128-269c-4695-8504-b0bca8d991de",
+          "visible_pixels": 2585,
+          "severe_overlap_pixels": 549,
+          "visible_footprint_coverage": 0.21237911025145068
+        }
+      ],
+      "severe_pixels_on_targets": 549,
+      "severe_pixels_on_unknown_only": 0,
+      "severe_pixels_on_known_negative_or_background": 39,
+      "predicted": true,
+      "centroid_target": true
+    },
+    {
+      "sample_id": "hurricane-harvey_00000406",
+      "cell_id": "r03c05",
+      "mode": "blurred",
+      "observation_id": "hurricane-harvey_00000406:r03c05:blurred",
+      "evidence_group_id": "hurricane-harvey_00000406:r03c05",
+      "target": true,
+      "visible_target_uids": [
+        "b0d3a128-269c-4695-8504-b0bca8d991de"
+      ],
+      "matched_target_uids": [],
+      "overlap_records": [
+        {
+          "uid": "b0d3a128-269c-4695-8504-b0bca8d991de",
+          "visible_pixels": 2585,
+          "severe_overlap_pixels": 0,
+          "visible_footprint_coverage": 0.0
+        }
+      ],
+      "severe_pixels_on_targets": 0,
+      "severe_pixels_on_unknown_only": 0,
+      "severe_pixels_on_known_negative_or_background": 0,
+      "predicted": false,
+      "centroid_target": true
+    },
+    {
+      "sample_id": "hurricane-harvey_00000406",
+      "cell_id": "r05c01",
+      "mode": "native",
+      "observation_id": "hurricane-harvey_00000406:r05c01:native",
+      "evidence_group_id": "hurricane-harvey_00000406:r05c01",
+      "target": true,
+      "visible_target_uids": [
+        "67d4c1f1-18d4-4eab-8968-e0c52f67c4d3",
+        "99a227a0-eb42-4219-880f-8d06dbad3e69",
+        "99c4c618-cad2-45b7-a014-21bb9a4dc9d2",
+        "be1d6125-feb5-4092-9878-56e4d210aa44",
+        "eb79ecdd-4159-45d5-a5aa-d3dcc7594a9a",
+        "eeb0ced3-b1e6-4a92-bae4-e4a0df167001"
+      ],
+      "matched_target_uids": [
+        "67d4c1f1-18d4-4eab-8968-e0c52f67c4d3",
+        "99a227a0-eb42-4219-880f-8d06dbad3e69",
+        "99c4c618-cad2-45b7-a014-21bb9a4dc9d2",
+        "be1d6125-feb5-4092-9878-56e4d210aa44",
+        "eb79ecdd-4159-45d5-a5aa-d3dcc7594a9a",
+        "eeb0ced3-b1e6-4a92-bae4-e4a0df167001"
+      ],
+      "overlap_records": [
+        {
+          "uid": "99c4c618-cad2-45b7-a014-21bb9a4dc9d2",
+          "visible_pixels": 316,
+          "severe_overlap_pixels": 283,
+          "visible_footprint_coverage": 0.8955696202531646
+        },
+        {
+          "uid": "99a227a0-eb42-4219-880f-8d06dbad3e69",
+          "visible_pixels": 1042,
+          "severe_overlap_pixels": 1008,
+          "visible_footprint_coverage": 0.9673704414587332
+        },
+        {
+          "uid": "67d4c1f1-18d4-4eab-8968-e0c52f67c4d3",
+          "visible_pixels": 235,
+          "severe_overlap_pixels": 45,
+          "visible_footprint_coverage": 0.19148936170212766
+        },
+        {
+          "uid": "eb79ecdd-4159-45d5-a5aa-d3dcc7594a9a",
+          "visible_pixels": 288,
+          "severe_overlap_pixels": 270,
+          "visible_footprint_coverage": 0.9375
+        },
+        {
+          "uid": "be1d6125-feb5-4092-9878-56e4d210aa44",
+          "visible_pixels": 149,
+          "severe_overlap_pixels": 74,
+          "visible_footprint_coverage": 0.4966442953020134
+        },
+        {
+          "uid": "eeb0ced3-b1e6-4a92-bae4-e4a0df167001",
+          "visible_pixels": 1233,
+          "severe_overlap_pixels": 1085,
+          "visible_footprint_coverage": 0.8799675587996756
+        }
+      ],
+      "severe_pixels_on_targets": 2765,
+      "severe_pixels_on_unknown_only": 0,
+      "severe_pixels_on_known_negative_or_background": 556,
+      "predicted": true,
+      "centroid_target": true
+    },
+    {
+      "sample_id": "hurricane-harvey_00000406",
+      "cell_id": "r05c01",
+      "mode": "blurred",
+      "observation_id": "hurricane-harvey_00000406:r05c01:blurred",
+      "evidence_group_id": "hurricane-harvey_00000406:r05c01",
+      "target": true,
+      "visible_target_uids": [
+        "67d4c1f1-18d4-4eab-8968-e0c52f67c4d3",
+        "99a227a0-eb42-4219-880f-8d06dbad3e69",
+        "99c4c618-cad2-45b7-a014-21bb9a4dc9d2",
+        "be1d6125-feb5-4092-9878-56e4d210aa44",
+        "eb79ecdd-4159-45d5-a5aa-d3dcc7594a9a",
+        "eeb0ced3-b1e6-4a92-bae4-e4a0df167001"
+      ],
+      "matched_target_uids": [],
+      "overlap_records": [
+        {
+          "uid": "99c4c618-cad2-45b7-a014-21bb9a4dc9d2",
+          "visible_pixels": 316,
+          "severe_overlap_pixels": 0,
+          "visible_footprint_coverage": 0.0
+        },
+        {
+          "uid": "99a227a0-eb42-4219-880f-8d06dbad3e69",
+          "visible_pixels": 1042,
+          "severe_overlap_pixels": 0,
+          "visible_footprint_coverage": 0.0
+        },
+        {
+          "uid": "67d4c1f1-18d4-4eab-8968-e0c52f67c4d3",
+          "visible_pixels": 235,
+          "severe_overlap_pixels": 0,
+          "visible_footprint_coverage": 0.0
+        },
+        {
+          "uid": "eb79ecdd-4159-45d5-a5aa-d3dcc7594a9a",
+          "visible_pixels": 288,
+          "severe_overlap_pixels": 0,
+          "visible_footprint_coverage": 0.0
+        },
+        {
+          "uid": "be1d6125-feb5-4092-9878-56e4d210aa44",
+          "visible_pixels": 149,
+          "severe_overlap_pixels": 0,
+          "visible_footprint_coverage": 0.0
+        },
+        {
+          "uid": "eeb0ced3-b1e6-4a92-bae4-e4a0df167001",
+          "visible_pixels": 1233,
+          "severe_overlap_pixels": 0,
+          "visible_footprint_coverage": 0.0
+        }
+      ],
+      "severe_pixels_on_targets": 0,
+      "severe_pixels_on_unknown_only": 0,
+      "severe_pixels_on_known_negative_or_background": 0,
+      "predicted": false,
+      "centroid_target": true
+    },
+    {
+      "sample_id": "hurricane-harvey_00000406",
+      "cell_id": "r05c05",
+      "mode": "native",
+      "observation_id": "hurricane-harvey_00000406:r05c05:native",
+      "evidence_group_id": "hurricane-harvey_00000406:r05c05",
+      "target": true,
+      "visible_target_uids": [
+        "41dd0a6e-0f25-48c8-ad5d-5170639aa705",
+        "e3617eec-f6b7-41f6-8fec-34a712e31589"
+      ],
+      "matched_target_uids": [
+        "41dd0a6e-0f25-48c8-ad5d-5170639aa705",
+        "e3617eec-f6b7-41f6-8fec-34a712e31589"
+      ],
+      "overlap_records": [
+        {
+          "uid": "41dd0a6e-0f25-48c8-ad5d-5170639aa705",
+          "visible_pixels": 263,
+          "severe_overlap_pixels": 32,
+          "visible_footprint_coverage": 0.12167300380228137
+        },
+        {
+          "uid": "e3617eec-f6b7-41f6-8fec-34a712e31589",
+          "visible_pixels": 771,
+          "severe_overlap_pixels": 679,
+          "visible_footprint_coverage": 0.880674448767834
+        }
+      ],
+      "severe_pixels_on_targets": 711,
+      "severe_pixels_on_unknown_only": 253,
+      "severe_pixels_on_known_negative_or_background": 151,
+      "predicted": true,
+      "centroid_target": true
+    },
+    {
+      "sample_id": "hurricane-harvey_00000406",
+      "cell_id": "r05c05",
+      "mode": "blurred",
+      "observation_id": "hurricane-harvey_00000406:r05c05:blurred",
+      "evidence_group_id": "hurricane-harvey_00000406:r05c05",
+      "target": true,
+      "visible_target_uids": [
+        "41dd0a6e-0f25-48c8-ad5d-5170639aa705",
+        "e3617eec-f6b7-41f6-8fec-34a712e31589"
+      ],
+      "matched_target_uids": [],
+      "overlap_records": [
+        {
+          "uid": "41dd0a6e-0f25-48c8-ad5d-5170639aa705",
+          "visible_pixels": 263,
+          "severe_overlap_pixels": 0,
+          "visible_footprint_coverage": 0.0
+        },
+        {
+          "uid": "e3617eec-f6b7-41f6-8fec-34a712e31589",
+          "visible_pixels": 771,
+          "severe_overlap_pixels": 0,
+          "visible_footprint_coverage": 0.0
+        }
+      ],
+      "severe_pixels_on_targets": 0,
+      "severe_pixels_on_unknown_only": 0,
+      "severe_pixels_on_known_negative_or_background": 0,
+      "predicted": false,
+      "centroid_target": true
+    },
+    {
+      "sample_id": "hurricane-harvey_00000406",
+      "cell_id": "r07c01",
+      "mode": "native",
+      "observation_id": "hurricane-harvey_00000406:r07c01:native",
+      "evidence_group_id": "hurricane-harvey_00000406:r07c01",
+      "target": true,
+      "visible_target_uids": [
+        "43914b49-458b-43c0-ab93-f57bd60d6f94",
+        "48d0e042-eb2c-4f30-bbbc-626790cc5c8b",
+        "a1b86200-0aac-4ad4-97d6-87b978903bb9",
+        "e7da2310-63e1-426a-be57-c10a474a3fac"
+      ],
+      "matched_target_uids": [
+        "43914b49-458b-43c0-ab93-f57bd60d6f94",
+        "48d0e042-eb2c-4f30-bbbc-626790cc5c8b",
+        "a1b86200-0aac-4ad4-97d6-87b978903bb9"
+      ],
+      "overlap_records": [
+        {
+          "uid": "a1b86200-0aac-4ad4-97d6-87b978903bb9",
+          "visible_pixels": 459,
+          "severe_overlap_pixels": 435,
+          "visible_footprint_coverage": 0.9477124183006536
+        },
+        {
+          "uid": "48d0e042-eb2c-4f30-bbbc-626790cc5c8b",
+          "visible_pixels": 475,
+          "severe_overlap_pixels": 459,
+          "visible_footprint_coverage": 0.9663157894736842
+        },
+        {
+          "uid": "43914b49-458b-43c0-ab93-f57bd60d6f94",
+          "visible_pixels": 857,
+          "severe_overlap_pixels": 739,
+          "visible_footprint_coverage": 0.8623103850641773
+        },
+        {
+          "uid": "e7da2310-63e1-426a-be57-c10a474a3fac",
+          "visible_pixels": 64,
+          "severe_overlap_pixels": 0,
+          "visible_footprint_coverage": 0.0
+        }
+      ],
+      "severe_pixels_on_targets": 1633,
+      "severe_pixels_on_unknown_only": 0,
+      "severe_pixels_on_known_negative_or_background": 326,
+      "predicted": true,
+      "centroid_target": true
+    },
+    {
+      "sample_id": "hurricane-harvey_00000406",
+      "cell_id": "r07c01",
+      "mode": "blurred",
+      "observation_id": "hurricane-harvey_00000406:r07c01:blurred",
+      "evidence_group_id": "hurricane-harvey_00000406:r07c01",
+      "target": true,
+      "visible_target_uids": [
+        "43914b49-458b-43c0-ab93-f57bd60d6f94",
+        "48d0e042-eb2c-4f30-bbbc-626790cc5c8b",
+        "a1b86200-0aac-4ad4-97d6-87b978903bb9",
+        "e7da2310-63e1-426a-be57-c10a474a3fac"
+      ],
+      "matched_target_uids": [],
+      "overlap_records": [
+        {
+          "uid": "a1b86200-0aac-4ad4-97d6-87b978903bb9",
+          "visible_pixels": 459,
+          "severe_overlap_pixels": 0,
+          "visible_footprint_coverage": 0.0
+        },
+        {
+          "uid": "48d0e042-eb2c-4f30-bbbc-626790cc5c8b",
+          "visible_pixels": 475,
+          "severe_overlap_pixels": 0,
+          "visible_footprint_coverage": 0.0
+        },
+        {
+          "uid": "43914b49-458b-43c0-ab93-f57bd60d6f94",
+          "visible_pixels": 857,
+          "severe_overlap_pixels": 0,
+          "visible_footprint_coverage": 0.0
+        },
+        {
+          "uid": "e7da2310-63e1-426a-be57-c10a474a3fac",
+          "visible_pixels": 64,
+          "severe_overlap_pixels": 0,
+          "visible_footprint_coverage": 0.0
+        }
+      ],
+      "severe_pixels_on_targets": 0,
+      "severe_pixels_on_unknown_only": 0,
+      "severe_pixels_on_known_negative_or_background": 0,
+      "predicted": false,
+      "centroid_target": true
+    },
+    {
+      "sample_id": "hurricane-harvey_00000406",
+      "cell_id": "r07c05",
+      "mode": "native",
+      "observation_id": "hurricane-harvey_00000406:r07c05:native",
+      "evidence_group_id": "hurricane-harvey_00000406:r07c05",
+      "target": false,
+      "visible_target_uids": [],
+      "matched_target_uids": [],
+      "overlap_records": [],
+      "severe_pixels_on_targets": 0,
+      "severe_pixels_on_unknown_only": 0,
+      "severe_pixels_on_known_negative_or_background": 0,
+      "predicted": false,
+      "centroid_target": false
+    },
+    {
+      "sample_id": "hurricane-harvey_00000406",
+      "cell_id": "r07c05",
+      "mode": "blurred",
+      "observation_id": "hurricane-harvey_00000406:r07c05:blurred",
+      "evidence_group_id": "hurricane-harvey_00000406:r07c05",
+      "target": false,
+      "visible_target_uids": [],
+      "matched_target_uids": [],
+      "overlap_records": [],
+      "severe_pixels_on_targets": 0,
+      "severe_pixels_on_unknown_only": 0,
+      "severe_pixels_on_known_negative_or_background": 0,
+      "predicted": false,
+      "centroid_target": false
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000220",
+      "cell_id": "r01c01",
+      "mode": "native",
+      "observation_id": "santa-rosa-wildfire_00000220:r01c01:native",
+      "evidence_group_id": "santa-rosa-wildfire_00000220:r01c01",
+      "target": false,
+      "visible_target_uids": [],
+      "matched_target_uids": [],
+      "overlap_records": [],
+      "severe_pixels_on_targets": 0,
+      "severe_pixels_on_unknown_only": 0,
+      "severe_pixels_on_known_negative_or_background": 0,
+      "predicted": false,
+      "centroid_target": false
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000220",
+      "cell_id": "r01c01",
+      "mode": "blurred",
+      "observation_id": "santa-rosa-wildfire_00000220:r01c01:blurred",
+      "evidence_group_id": "santa-rosa-wildfire_00000220:r01c01",
+      "target": false,
+      "visible_target_uids": [],
+      "matched_target_uids": [],
+      "overlap_records": [],
+      "severe_pixels_on_targets": 0,
+      "severe_pixels_on_unknown_only": 0,
+      "severe_pixels_on_known_negative_or_background": 0,
+      "predicted": false,
+      "centroid_target": false
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000220",
+      "cell_id": "r01c05",
+      "mode": "native",
+      "observation_id": "santa-rosa-wildfire_00000220:r01c05:native",
+      "evidence_group_id": "santa-rosa-wildfire_00000220:r01c05",
+      "target": false,
+      "visible_target_uids": [],
+      "matched_target_uids": [],
+      "overlap_records": [],
+      "severe_pixels_on_targets": 0,
+      "severe_pixels_on_unknown_only": 0,
+      "severe_pixels_on_known_negative_or_background": 0,
+      "predicted": false,
+      "centroid_target": false
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000220",
+      "cell_id": "r01c05",
+      "mode": "blurred",
+      "observation_id": "santa-rosa-wildfire_00000220:r01c05:blurred",
+      "evidence_group_id": "santa-rosa-wildfire_00000220:r01c05",
+      "target": false,
+      "visible_target_uids": [],
+      "matched_target_uids": [],
+      "overlap_records": [],
+      "severe_pixels_on_targets": 0,
+      "severe_pixels_on_unknown_only": 0,
+      "severe_pixels_on_known_negative_or_background": 0,
+      "predicted": false,
+      "centroid_target": false
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000220",
+      "cell_id": "r03c01",
+      "mode": "native",
+      "observation_id": "santa-rosa-wildfire_00000220:r03c01:native",
+      "evidence_group_id": "santa-rosa-wildfire_00000220:r03c01",
+      "target": false,
+      "visible_target_uids": [],
+      "matched_target_uids": [],
+      "overlap_records": [],
+      "severe_pixels_on_targets": 0,
+      "severe_pixels_on_unknown_only": 0,
+      "severe_pixels_on_known_negative_or_background": 0,
+      "predicted": false,
+      "centroid_target": false
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000220",
+      "cell_id": "r03c01",
+      "mode": "blurred",
+      "observation_id": "santa-rosa-wildfire_00000220:r03c01:blurred",
+      "evidence_group_id": "santa-rosa-wildfire_00000220:r03c01",
+      "target": false,
+      "visible_target_uids": [],
+      "matched_target_uids": [],
+      "overlap_records": [],
+      "severe_pixels_on_targets": 0,
+      "severe_pixels_on_unknown_only": 0,
+      "severe_pixels_on_known_negative_or_background": 0,
+      "predicted": false,
+      "centroid_target": false
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000220",
+      "cell_id": "r03c05",
+      "mode": "native",
+      "observation_id": "santa-rosa-wildfire_00000220:r03c05:native",
+      "evidence_group_id": "santa-rosa-wildfire_00000220:r03c05",
+      "target": false,
+      "visible_target_uids": [],
+      "matched_target_uids": [],
+      "overlap_records": [],
+      "severe_pixels_on_targets": 0,
+      "severe_pixels_on_unknown_only": 0,
+      "severe_pixels_on_known_negative_or_background": 0,
+      "predicted": false,
+      "centroid_target": false
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000220",
+      "cell_id": "r03c05",
+      "mode": "blurred",
+      "observation_id": "santa-rosa-wildfire_00000220:r03c05:blurred",
+      "evidence_group_id": "santa-rosa-wildfire_00000220:r03c05",
+      "target": false,
+      "visible_target_uids": [],
+      "matched_target_uids": [],
+      "overlap_records": [],
+      "severe_pixels_on_targets": 0,
+      "severe_pixels_on_unknown_only": 0,
+      "severe_pixels_on_known_negative_or_background": 0,
+      "predicted": false,
+      "centroid_target": false
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000220",
+      "cell_id": "r05c01",
+      "mode": "native",
+      "observation_id": "santa-rosa-wildfire_00000220:r05c01:native",
+      "evidence_group_id": "santa-rosa-wildfire_00000220:r05c01",
+      "target": true,
+      "visible_target_uids": [
+        "1a614182-e0ef-4fa8-8401-dd10923b552d",
+        "242640e6-b7fe-48c4-8942-b6b8d2af8f25",
+        "85e8527e-a06a-496c-929d-58f03879249c",
+        "cc12d303-bfb2-4d4a-993f-2a6437a9e210",
+        "e2dc359e-e856-4bb0-a1d9-a62a8b6d33ae"
+      ],
+      "matched_target_uids": [
+        "242640e6-b7fe-48c4-8942-b6b8d2af8f25",
+        "cc12d303-bfb2-4d4a-993f-2a6437a9e210"
+      ],
+      "overlap_records": [
+        {
+          "uid": "1a614182-e0ef-4fa8-8401-dd10923b552d",
+          "visible_pixels": 73,
+          "severe_overlap_pixels": 0,
+          "visible_footprint_coverage": 0.0
+        },
+        {
+          "uid": "85e8527e-a06a-496c-929d-58f03879249c",
+          "visible_pixels": 167,
+          "severe_overlap_pixels": 2,
+          "visible_footprint_coverage": 0.011976047904191617
+        },
+        {
+          "uid": "cc12d303-bfb2-4d4a-993f-2a6437a9e210",
+          "visible_pixels": 819,
+          "severe_overlap_pixels": 797,
+          "visible_footprint_coverage": 0.9731379731379731
+        },
+        {
+          "uid": "e2dc359e-e856-4bb0-a1d9-a62a8b6d33ae",
+          "visible_pixels": 305,
+          "severe_overlap_pixels": 24,
+          "visible_footprint_coverage": 0.07868852459016394
+        },
+        {
+          "uid": "242640e6-b7fe-48c4-8942-b6b8d2af8f25",
+          "visible_pixels": 1898,
+          "severe_overlap_pixels": 1653,
+          "visible_footprint_coverage": 0.8709167544783983
+        }
+      ],
+      "severe_pixels_on_targets": 2466,
+      "severe_pixels_on_unknown_only": 0,
+      "severe_pixels_on_known_negative_or_background": 32,
+      "predicted": true,
+      "centroid_target": true
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000220",
+      "cell_id": "r05c01",
+      "mode": "blurred",
+      "observation_id": "santa-rosa-wildfire_00000220:r05c01:blurred",
+      "evidence_group_id": "santa-rosa-wildfire_00000220:r05c01",
+      "target": true,
+      "visible_target_uids": [
+        "1a614182-e0ef-4fa8-8401-dd10923b552d",
+        "242640e6-b7fe-48c4-8942-b6b8d2af8f25",
+        "85e8527e-a06a-496c-929d-58f03879249c",
+        "cc12d303-bfb2-4d4a-993f-2a6437a9e210",
+        "e2dc359e-e856-4bb0-a1d9-a62a8b6d33ae"
+      ],
+      "matched_target_uids": [],
+      "overlap_records": [
+        {
+          "uid": "1a614182-e0ef-4fa8-8401-dd10923b552d",
+          "visible_pixels": 73,
+          "severe_overlap_pixels": 0,
+          "visible_footprint_coverage": 0.0
+        },
+        {
+          "uid": "85e8527e-a06a-496c-929d-58f03879249c",
+          "visible_pixels": 167,
+          "severe_overlap_pixels": 0,
+          "visible_footprint_coverage": 0.0
+        },
+        {
+          "uid": "cc12d303-bfb2-4d4a-993f-2a6437a9e210",
+          "visible_pixels": 819,
+          "severe_overlap_pixels": 0,
+          "visible_footprint_coverage": 0.0
+        },
+        {
+          "uid": "e2dc359e-e856-4bb0-a1d9-a62a8b6d33ae",
+          "visible_pixels": 305,
+          "severe_overlap_pixels": 0,
+          "visible_footprint_coverage": 0.0
+        },
+        {
+          "uid": "242640e6-b7fe-48c4-8942-b6b8d2af8f25",
+          "visible_pixels": 1898,
+          "severe_overlap_pixels": 0,
+          "visible_footprint_coverage": 0.0
+        }
+      ],
+      "severe_pixels_on_targets": 0,
+      "severe_pixels_on_unknown_only": 0,
+      "severe_pixels_on_known_negative_or_background": 0,
+      "predicted": false,
+      "centroid_target": true
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000220",
+      "cell_id": "r05c05",
+      "mode": "native",
+      "observation_id": "santa-rosa-wildfire_00000220:r05c05:native",
+      "evidence_group_id": "santa-rosa-wildfire_00000220:r05c05",
+      "target": false,
+      "visible_target_uids": [],
+      "matched_target_uids": [],
+      "overlap_records": [],
+      "severe_pixels_on_targets": 0,
+      "severe_pixels_on_unknown_only": 0,
+      "severe_pixels_on_known_negative_or_background": 0,
+      "predicted": false,
+      "centroid_target": false
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000220",
+      "cell_id": "r05c05",
+      "mode": "blurred",
+      "observation_id": "santa-rosa-wildfire_00000220:r05c05:blurred",
+      "evidence_group_id": "santa-rosa-wildfire_00000220:r05c05",
+      "target": false,
+      "visible_target_uids": [],
+      "matched_target_uids": [],
+      "overlap_records": [],
+      "severe_pixels_on_targets": 0,
+      "severe_pixels_on_unknown_only": 0,
+      "severe_pixels_on_known_negative_or_background": 0,
+      "predicted": false,
+      "centroid_target": false
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000220",
+      "cell_id": "r07c01",
+      "mode": "native",
+      "observation_id": "santa-rosa-wildfire_00000220:r07c01:native",
+      "evidence_group_id": "santa-rosa-wildfire_00000220:r07c01",
+      "target": false,
+      "visible_target_uids": [],
+      "matched_target_uids": [],
+      "overlap_records": [],
+      "severe_pixels_on_targets": 0,
+      "severe_pixels_on_unknown_only": 0,
+      "severe_pixels_on_known_negative_or_background": 0,
+      "predicted": false,
+      "centroid_target": false
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000220",
+      "cell_id": "r07c01",
+      "mode": "blurred",
+      "observation_id": "santa-rosa-wildfire_00000220:r07c01:blurred",
+      "evidence_group_id": "santa-rosa-wildfire_00000220:r07c01",
+      "target": false,
+      "visible_target_uids": [],
+      "matched_target_uids": [],
+      "overlap_records": [],
+      "severe_pixels_on_targets": 0,
+      "severe_pixels_on_unknown_only": 0,
+      "severe_pixels_on_known_negative_or_background": 0,
+      "predicted": false,
+      "centroid_target": false
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000220",
+      "cell_id": "r07c05",
+      "mode": "native",
+      "observation_id": "santa-rosa-wildfire_00000220:r07c05:native",
+      "evidence_group_id": "santa-rosa-wildfire_00000220:r07c05",
+      "target": false,
+      "visible_target_uids": [],
+      "matched_target_uids": [],
+      "overlap_records": [],
+      "severe_pixels_on_targets": 0,
+      "severe_pixels_on_unknown_only": 0,
+      "severe_pixels_on_known_negative_or_background": 0,
+      "predicted": false,
+      "centroid_target": false
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000220",
+      "cell_id": "r07c05",
+      "mode": "blurred",
+      "observation_id": "santa-rosa-wildfire_00000220:r07c05:blurred",
+      "evidence_group_id": "santa-rosa-wildfire_00000220:r07c05",
+      "target": false,
+      "visible_target_uids": [],
+      "matched_target_uids": [],
+      "overlap_records": [],
+      "severe_pixels_on_targets": 0,
+      "severe_pixels_on_unknown_only": 0,
+      "severe_pixels_on_known_negative_or_background": 0,
+      "predicted": false,
+      "centroid_target": false
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000125",
+      "cell_id": "r01c01",
+      "mode": "native",
+      "observation_id": "santa-rosa-wildfire_00000125:r01c01:native",
+      "evidence_group_id": "santa-rosa-wildfire_00000125:r01c01",
+      "target": false,
+      "visible_target_uids": [],
+      "matched_target_uids": [],
+      "overlap_records": [],
+      "severe_pixels_on_targets": 0,
+      "severe_pixels_on_unknown_only": 0,
+      "severe_pixels_on_known_negative_or_background": 0,
+      "predicted": false,
+      "centroid_target": false
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000125",
+      "cell_id": "r01c01",
+      "mode": "blurred",
+      "observation_id": "santa-rosa-wildfire_00000125:r01c01:blurred",
+      "evidence_group_id": "santa-rosa-wildfire_00000125:r01c01",
+      "target": false,
+      "visible_target_uids": [],
+      "matched_target_uids": [],
+      "overlap_records": [],
+      "severe_pixels_on_targets": 0,
+      "severe_pixels_on_unknown_only": 0,
+      "severe_pixels_on_known_negative_or_background": 0,
+      "predicted": false,
+      "centroid_target": false
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000125",
+      "cell_id": "r01c05",
+      "mode": "native",
+      "observation_id": "santa-rosa-wildfire_00000125:r01c05:native",
+      "evidence_group_id": "santa-rosa-wildfire_00000125:r01c05",
+      "target": false,
+      "visible_target_uids": [],
+      "matched_target_uids": [],
+      "overlap_records": [],
+      "severe_pixels_on_targets": 0,
+      "severe_pixels_on_unknown_only": 0,
+      "severe_pixels_on_known_negative_or_background": 0,
+      "predicted": false,
+      "centroid_target": false
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000125",
+      "cell_id": "r01c05",
+      "mode": "blurred",
+      "observation_id": "santa-rosa-wildfire_00000125:r01c05:blurred",
+      "evidence_group_id": "santa-rosa-wildfire_00000125:r01c05",
+      "target": false,
+      "visible_target_uids": [],
+      "matched_target_uids": [],
+      "overlap_records": [],
+      "severe_pixels_on_targets": 0,
+      "severe_pixels_on_unknown_only": 0,
+      "severe_pixels_on_known_negative_or_background": 0,
+      "predicted": false,
+      "centroid_target": false
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000125",
+      "cell_id": "r03c01",
+      "mode": "native",
+      "observation_id": "santa-rosa-wildfire_00000125:r03c01:native",
+      "evidence_group_id": "santa-rosa-wildfire_00000125:r03c01",
+      "target": false,
+      "visible_target_uids": [],
+      "matched_target_uids": [],
+      "overlap_records": [],
+      "severe_pixels_on_targets": 0,
+      "severe_pixels_on_unknown_only": 0,
+      "severe_pixels_on_known_negative_or_background": 0,
+      "predicted": false,
+      "centroid_target": false
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000125",
+      "cell_id": "r03c01",
+      "mode": "blurred",
+      "observation_id": "santa-rosa-wildfire_00000125:r03c01:blurred",
+      "evidence_group_id": "santa-rosa-wildfire_00000125:r03c01",
+      "target": false,
+      "visible_target_uids": [],
+      "matched_target_uids": [],
+      "overlap_records": [],
+      "severe_pixels_on_targets": 0,
+      "severe_pixels_on_unknown_only": 0,
+      "severe_pixels_on_known_negative_or_background": 0,
+      "predicted": false,
+      "centroid_target": false
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000125",
+      "cell_id": "r03c05",
+      "mode": "native",
+      "observation_id": "santa-rosa-wildfire_00000125:r03c05:native",
+      "evidence_group_id": "santa-rosa-wildfire_00000125:r03c05",
+      "target": false,
+      "visible_target_uids": [],
+      "matched_target_uids": [],
+      "overlap_records": [],
+      "severe_pixels_on_targets": 0,
+      "severe_pixels_on_unknown_only": 0,
+      "severe_pixels_on_known_negative_or_background": 0,
+      "predicted": false,
+      "centroid_target": false
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000125",
+      "cell_id": "r03c05",
+      "mode": "blurred",
+      "observation_id": "santa-rosa-wildfire_00000125:r03c05:blurred",
+      "evidence_group_id": "santa-rosa-wildfire_00000125:r03c05",
+      "target": false,
+      "visible_target_uids": [],
+      "matched_target_uids": [],
+      "overlap_records": [],
+      "severe_pixels_on_targets": 0,
+      "severe_pixels_on_unknown_only": 0,
+      "severe_pixels_on_known_negative_or_background": 0,
+      "predicted": false,
+      "centroid_target": false
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000125",
+      "cell_id": "r05c01",
+      "mode": "native",
+      "observation_id": "santa-rosa-wildfire_00000125:r05c01:native",
+      "evidence_group_id": "santa-rosa-wildfire_00000125:r05c01",
+      "target": false,
+      "visible_target_uids": [],
+      "matched_target_uids": [],
+      "overlap_records": [],
+      "severe_pixels_on_targets": 0,
+      "severe_pixels_on_unknown_only": 0,
+      "severe_pixels_on_known_negative_or_background": 0,
+      "predicted": false,
+      "centroid_target": false
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000125",
+      "cell_id": "r05c01",
+      "mode": "blurred",
+      "observation_id": "santa-rosa-wildfire_00000125:r05c01:blurred",
+      "evidence_group_id": "santa-rosa-wildfire_00000125:r05c01",
+      "target": false,
+      "visible_target_uids": [],
+      "matched_target_uids": [],
+      "overlap_records": [],
+      "severe_pixels_on_targets": 0,
+      "severe_pixels_on_unknown_only": 0,
+      "severe_pixels_on_known_negative_or_background": 0,
+      "predicted": false,
+      "centroid_target": false
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000125",
+      "cell_id": "r05c05",
+      "mode": "native",
+      "observation_id": "santa-rosa-wildfire_00000125:r05c05:native",
+      "evidence_group_id": "santa-rosa-wildfire_00000125:r05c05",
+      "target": false,
+      "visible_target_uids": [],
+      "matched_target_uids": [],
+      "overlap_records": [],
+      "severe_pixels_on_targets": 0,
+      "severe_pixels_on_unknown_only": 0,
+      "severe_pixels_on_known_negative_or_background": 0,
+      "predicted": false,
+      "centroid_target": false
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000125",
+      "cell_id": "r05c05",
+      "mode": "blurred",
+      "observation_id": "santa-rosa-wildfire_00000125:r05c05:blurred",
+      "evidence_group_id": "santa-rosa-wildfire_00000125:r05c05",
+      "target": false,
+      "visible_target_uids": [],
+      "matched_target_uids": [],
+      "overlap_records": [],
+      "severe_pixels_on_targets": 0,
+      "severe_pixels_on_unknown_only": 0,
+      "severe_pixels_on_known_negative_or_background": 0,
+      "predicted": false,
+      "centroid_target": false
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000125",
+      "cell_id": "r07c01",
+      "mode": "native",
+      "observation_id": "santa-rosa-wildfire_00000125:r07c01:native",
+      "evidence_group_id": "santa-rosa-wildfire_00000125:r07c01",
+      "target": false,
+      "visible_target_uids": [],
+      "matched_target_uids": [],
+      "overlap_records": [],
+      "severe_pixels_on_targets": 0,
+      "severe_pixels_on_unknown_only": 0,
+      "severe_pixels_on_known_negative_or_background": 0,
+      "predicted": false,
+      "centroid_target": false
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000125",
+      "cell_id": "r07c01",
+      "mode": "blurred",
+      "observation_id": "santa-rosa-wildfire_00000125:r07c01:blurred",
+      "evidence_group_id": "santa-rosa-wildfire_00000125:r07c01",
+      "target": false,
+      "visible_target_uids": [],
+      "matched_target_uids": [],
+      "overlap_records": [],
+      "severe_pixels_on_targets": 0,
+      "severe_pixels_on_unknown_only": 0,
+      "severe_pixels_on_known_negative_or_background": 0,
+      "predicted": false,
+      "centroid_target": false
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000125",
+      "cell_id": "r07c05",
+      "mode": "native",
+      "observation_id": "santa-rosa-wildfire_00000125:r07c05:native",
+      "evidence_group_id": "santa-rosa-wildfire_00000125:r07c05",
+      "target": false,
+      "visible_target_uids": [],
+      "matched_target_uids": [],
+      "overlap_records": [],
+      "severe_pixels_on_targets": 0,
+      "severe_pixels_on_unknown_only": 0,
+      "severe_pixels_on_known_negative_or_background": 0,
+      "predicted": false,
+      "centroid_target": false
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000125",
+      "cell_id": "r07c05",
+      "mode": "blurred",
+      "observation_id": "santa-rosa-wildfire_00000125:r07c05:blurred",
+      "evidence_group_id": "santa-rosa-wildfire_00000125:r07c05",
+      "target": false,
+      "visible_target_uids": [],
+      "matched_target_uids": [],
+      "overlap_records": [],
+      "severe_pixels_on_targets": 0,
+      "severe_pixels_on_unknown_only": 0,
+      "severe_pixels_on_known_negative_or_background": 0,
+      "predicted": false,
+      "centroid_target": false
+    }
+  ],
+  "limitations": [
+    "Posthoc correction motivated by the inspected calibration pilot boundary errors; not preregistered pilot evaluation.",
+    "Engineering diagnostics on calibration pilot only; checkpoint training exposure expected. No thresholds selected by best score. No new inference or likelihood calibration.",
+    "The 4-pixel and 10% coverage rules are transparent engineering choices, not validated discovery thresholds.",
+    "A broad severe mask may cover multiple buildings. Coverage proxy needs the accompanying pixel-precision diagnostic; it is not instance-detection AP.",
+    "Repeated quality modes share a base image. Combined union is a deduplication check, not an independent trial.",
+    "Only selected cells are covered; not a search-policy experiment, full-scene recall, or calibrated likelihood."
+  ]
+}

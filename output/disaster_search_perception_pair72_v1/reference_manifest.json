@@ -1,0 +1,1871 @@
+[
+  {
+    "boundary_objects": 6,
+    "conflicting_known_pixels": 0,
+    "event": "hurricane-harvey",
+    "ignored_union_pixels": 0,
+    "label_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/hurricane-harvey_00000013/hurricane-harvey_00000013_post_disaster.json",
+    "label_sha256": "89e9263b49e9d3b8b171da5922d2102b3d9d2f0f657d1bc380f3c62c0654cd1a",
+    "objects": 46,
+    "objects_by_grade": {
+      "no-damage": 46
+    },
+    "pixels_by_id": {
+      "0": 743440,
+      "1": 305136,
+      "2": 0,
+      "255": 0,
+      "3": 0,
+      "4": 0
+    },
+    "reference_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_perception_pair72_v1/reference/hurricane-harvey_00000013.png",
+    "reference_pixel_sha256": "b357c4bbcffe7338663ffc45bbdd825f9cb7e078c38e5ccfc7525c2b99ba98cd",
+    "reference_sha256": "86cdb875aeb469dddadc0d9346215f679a78b460f47a84fa6949bf4de0df7d17",
+    "sample_id": "hurricane-harvey_00000013",
+    "unknown_polygon_pixels": 0
+  },
+  {
+    "boundary_objects": 5,
+    "conflicting_known_pixels": 0,
+    "event": "hurricane-harvey",
+    "ignored_union_pixels": 0,
+    "label_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/hurricane-harvey_00000014/hurricane-harvey_00000014_post_disaster.json",
+    "label_sha256": "644f89b85b990b3fb59e16ac0e09e6e5232798cbfc932995dd127dd18ed29e6e",
+    "objects": 26,
+    "objects_by_grade": {
+      "minor-damage": 8,
+      "no-damage": 18
+    },
+    "pixels_by_id": {
+      "0": 746484,
+      "1": 185286,
+      "2": 116806,
+      "255": 0,
+      "3": 0,
+      "4": 0
+    },
+    "reference_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_perception_pair72_v1/reference/hurricane-harvey_00000014.png",
+    "reference_pixel_sha256": "8ab20617f3d095eef5052dba37936e79b418c66a6c70053982b199c6ee1181b7",
+    "reference_sha256": "f367c0ab05ae0e04d5e332a2f42f4077c7593531c77cda32ae4836a377a7d1c7",
+    "sample_id": "hurricane-harvey_00000014",
+    "unknown_polygon_pixels": 0
+  },
+  {
+    "boundary_objects": 0,
+    "conflicting_known_pixels": 0,
+    "event": "hurricane-harvey",
+    "ignored_union_pixels": 0,
+    "label_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/hurricane-harvey_00000065/hurricane-harvey_00000065_post_disaster.json",
+    "label_sha256": "c7c28e4219832130ae76c1eb4cbd8db0e7db5bb6022ff420854da4ecfec94adf",
+    "objects": 4,
+    "objects_by_grade": {
+      "destroyed": 2,
+      "major-damage": 2
+    },
+    "pixels_by_id": {
+      "0": 1046398,
+      "1": 0,
+      "2": 0,
+      "255": 0,
+      "3": 1623,
+      "4": 555
+    },
+    "reference_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_perception_pair72_v1/reference/hurricane-harvey_00000065.png",
+    "reference_pixel_sha256": "908117f02a11898681c6adfa4a796c8b628ded8c0f3855cba8d4b05f872eafa3",
+    "reference_sha256": "68775b57f217b54604b9f1a4ae58a1ffcc79e99519abafc3bf16faade0b37b77",
+    "sample_id": "hurricane-harvey_00000065",
+    "unknown_polygon_pixels": 0
+  },
+  {
+    "boundary_objects": 0,
+    "conflicting_known_pixels": 0,
+    "event": "hurricane-harvey",
+    "ignored_union_pixels": 0,
+    "label_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/hurricane-harvey_00000074/hurricane-harvey_00000074_post_disaster.json",
+    "label_sha256": "34245389eefe5778a507ff59558959d0674830cf52f6d4cf1b07de8134d3cf04",
+    "objects": 10,
+    "objects_by_grade": {
+      "minor-damage": 10
+    },
+    "pixels_by_id": {
+      "0": 1035623,
+      "1": 0,
+      "2": 12953,
+      "255": 0,
+      "3": 0,
+      "4": 0
+    },
+    "reference_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_perception_pair72_v1/reference/hurricane-harvey_00000074.png",
+    "reference_pixel_sha256": "7f361d1442bb4fd855375872edb76a88f296964079e63e838c9a2f1bdd17f65d",
+    "reference_sha256": "adeaee95057caddf7dec9daaf99fda0d8d3cee7470260ad12f1531b1be5606c1",
+    "sample_id": "hurricane-harvey_00000074",
+    "unknown_polygon_pixels": 0
+  },
+  {
+    "boundary_objects": 0,
+    "conflicting_known_pixels": 0,
+    "event": "hurricane-harvey",
+    "ignored_union_pixels": 0,
+    "label_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/hurricane-harvey_00000121/hurricane-harvey_00000121_post_disaster.json",
+    "label_sha256": "18d1a127fc52e0259a62b0040ac3b85e9551106d2cf0f24a0db1d872cfdc5a0f",
+    "objects": 39,
+    "objects_by_grade": {
+      "major-damage": 33,
+      "minor-damage": 5,
+      "no-damage": 1
+    },
+    "pixels_by_id": {
+      "0": 997333,
+      "1": 3145,
+      "2": 10808,
+      "255": 0,
+      "3": 37290,
+      "4": 0
+    },
+    "reference_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_perception_pair72_v1/reference/hurricane-harvey_00000121.png",
+    "reference_pixel_sha256": "f0cec174cc76199677b47dd692911fcd0aa732a5af219e62e943bc58a3c04306",
+    "reference_sha256": "bb18843865f595d458ee04079f342662912274381443a09984eb37f58ba68e12",
+    "sample_id": "hurricane-harvey_00000121",
+    "unknown_polygon_pixels": 0
+  },
+  {
+    "boundary_objects": 3,
+    "conflicting_known_pixels": 0,
+    "event": "hurricane-harvey",
+    "ignored_union_pixels": 0,
+    "label_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/hurricane-harvey_00000125/hurricane-harvey_00000125_post_disaster.json",
+    "label_sha256": "b324d2ca942db4c1c4ece66c48193d557aefbea7f168effdbd0ef7d60b656e64",
+    "objects": 143,
+    "objects_by_grade": {
+      "destroyed": 1,
+      "major-damage": 122,
+      "minor-damage": 20
+    },
+    "pixels_by_id": {
+      "0": 801118,
+      "1": 0,
+      "2": 23695,
+      "255": 0,
+      "3": 223475,
+      "4": 288
+    },
+    "reference_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_perception_pair72_v1/reference/hurricane-harvey_00000125.png",
+    "reference_pixel_sha256": "c732935d00b479555497cfe0450d08f7efd2168c230a0126d44188132588ef95",
+    "reference_sha256": "a0d62f201b852ea921ed6d36a4fefebdbcc0c4322c81dfd22c546afa7b048e9a",
+    "sample_id": "hurricane-harvey_00000125",
+    "unknown_polygon_pixels": 0
+  },
+  {
+    "boundary_objects": 7,
+    "conflicting_known_pixels": 0,
+    "event": "hurricane-harvey",
+    "ignored_union_pixels": 0,
+    "label_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/hurricane-harvey_00000193/hurricane-harvey_00000193_post_disaster.json",
+    "label_sha256": "437f8efada0eca6314b5d7b898b4a1c7de73cf35c41598362a17e5017ee9497e",
+    "objects": 218,
+    "objects_by_grade": {
+      "no-damage": 218
+    },
+    "pixels_by_id": {
+      "0": 758637,
+      "1": 289939,
+      "2": 0,
+      "255": 0,
+      "3": 0,
+      "4": 0
+    },
+    "reference_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_perception_pair72_v1/reference/hurricane-harvey_00000193.png",
+    "reference_pixel_sha256": "78ef06a5d23ddc5b17adcbd75e9a0428b6719b74813bac27c9b49ba5e87c9060",
+    "reference_sha256": "3afa39a7aeaab5815762478704c296a1c0321a163be0d9726d2e3a27ace6e247",
+    "sample_id": "hurricane-harvey_00000193",
+    "unknown_polygon_pixels": 0
+  },
+  {
+    "boundary_objects": 9,
+    "conflicting_known_pixels": 0,
+    "event": "hurricane-harvey",
+    "ignored_union_pixels": 0,
+    "label_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/hurricane-harvey_00000201/hurricane-harvey_00000201_post_disaster.json",
+    "label_sha256": "3431a27e123003f180ecc500d97fe17e8baca1eb95c0ca03114984fd6c007090",
+    "objects": 153,
+    "objects_by_grade": {
+      "minor-damage": 2,
+      "no-damage": 151
+    },
+    "pixels_by_id": {
+      "0": 830552,
+      "1": 214091,
+      "2": 3933,
+      "255": 0,
+      "3": 0,
+      "4": 0
+    },
+    "reference_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_perception_pair72_v1/reference/hurricane-harvey_00000201.png",
+    "reference_pixel_sha256": "5ca1fc850af3801795ca934469c98ebb0ccb6ba6ede0969cb41c2481905e2532",
+    "reference_sha256": "8846af2bbc0c13f82127cdec5f2bf8fa30ec7ba07cb29d1ad987c339d311d65c",
+    "sample_id": "hurricane-harvey_00000201",
+    "unknown_polygon_pixels": 0
+  },
+  {
+    "boundary_objects": 0,
+    "conflicting_known_pixels": 0,
+    "event": "hurricane-harvey",
+    "ignored_union_pixels": 0,
+    "label_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/hurricane-harvey_00000219/hurricane-harvey_00000219_post_disaster.json",
+    "label_sha256": "313e34493e2c1e30f49fb8b5a2268eb6ea1a270304583681f641dca95f4792ac",
+    "objects": 0,
+    "objects_by_grade": {},
+    "pixels_by_id": {
+      "0": 1048576,
+      "1": 0,
+      "2": 0,
+      "255": 0,
+      "3": 0,
+      "4": 0
+    },
+    "reference_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_perception_pair72_v1/reference/hurricane-harvey_00000219.png",
+    "reference_pixel_sha256": "30e14955ebf1352266dc2ff8067e68104607e750abb9d3b36582b8af909fcb58",
+    "reference_sha256": "0f4b1668d119f77ceb6b86645573f088ab2341d7b284314d5df0be7226ea5d91",
+    "sample_id": "hurricane-harvey_00000219",
+    "unknown_polygon_pixels": 0
+  },
+  {
+    "boundary_objects": 3,
+    "conflicting_known_pixels": 0,
+    "event": "hurricane-harvey",
+    "ignored_union_pixels": 4337,
+    "label_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/hurricane-harvey_00000236/hurricane-harvey_00000236_post_disaster.json",
+    "label_sha256": "10997e58cb8b1d0e01cb3903826e5fafe9607d8a2ffb2be1595cbd8453db0417",
+    "objects": 93,
+    "objects_by_grade": {
+      "destroyed": 2,
+      "major-damage": 1,
+      "no-damage": 68,
+      "un-classified": 22
+    },
+    "pixels_by_id": {
+      "0": 948212,
+      "1": 95209,
+      "2": 0,
+      "255": 4337,
+      "3": 479,
+      "4": 339
+    },
+    "reference_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_perception_pair72_v1/reference/hurricane-harvey_00000236.png",
+    "reference_pixel_sha256": "327c57857cef689bba621404df898fa8dfa962129d28f504412c8677458e5cc2",
+    "reference_sha256": "4950461ba3b55774dbba159e184b764c545bde58c30dad3ca02707f72615fae8",
+    "sample_id": "hurricane-harvey_00000236",
+    "unknown_polygon_pixels": 4337
+  },
+  {
+    "boundary_objects": 0,
+    "conflicting_known_pixels": 0,
+    "event": "hurricane-harvey",
+    "ignored_union_pixels": 729,
+    "label_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/hurricane-harvey_00000279/hurricane-harvey_00000279_post_disaster.json",
+    "label_sha256": "08be1a0848253f5bfda375f4fbd90e5f943ba7ed6ad72126976ecfa1534c5d53",
+    "objects": 11,
+    "objects_by_grade": {
+      "destroyed": 1,
+      "major-damage": 2,
+      "minor-damage": 7,
+      "un-classified": 1
+    },
+    "pixels_by_id": {
+      "0": 1021753,
+      "1": 0,
+      "2": 24482,
+      "255": 729,
+      "3": 1530,
+      "4": 82
+    },
+    "reference_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_perception_pair72_v1/reference/hurricane-harvey_00000279.png",
+    "reference_pixel_sha256": "b0983363a5d3a19d64f4b86a1630631d4d33858d5bfb049a0bd39fd31c9931c3",
+    "reference_sha256": "f0d117366a10033cd1752d2602b95345d17b2c151300cde7e7f6c2d9ab8b020d",
+    "sample_id": "hurricane-harvey_00000279",
+    "unknown_polygon_pixels": 729
+  },
+  {
+    "boundary_objects": 2,
+    "conflicting_known_pixels": 16,
+    "event": "hurricane-harvey",
+    "ignored_union_pixels": 6329,
+    "label_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/hurricane-harvey_00000293/hurricane-harvey_00000293_post_disaster.json",
+    "label_sha256": "e32ffcee51cb1c60ea8bdc56f6c26395517c454223079452f458c86932b5fe2d",
+    "objects": 74,
+    "objects_by_grade": {
+      "destroyed": 5,
+      "major-damage": 4,
+      "minor-damage": 2,
+      "no-damage": 53,
+      "un-classified": 10
+    },
+    "pixels_by_id": {
+      "0": 948994,
+      "1": 85966,
+      "2": 3104,
+      "255": 6329,
+      "3": 3391,
+      "4": 792
+    },
+    "reference_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_perception_pair72_v1/reference/hurricane-harvey_00000293.png",
+    "reference_pixel_sha256": "b262cf0ad41bd6c611a92a18b146e16ba4c87ea377c07e38165279511e441161",
+    "reference_sha256": "1099548d3fcfa0368fad2715f587dbb6ead1469740da08759bf3c0aefd24ef32",
+    "sample_id": "hurricane-harvey_00000293",
+    "unknown_polygon_pixels": 6313
+  },
+  {
+    "boundary_objects": 0,
+    "conflicting_known_pixels": 0,
+    "event": "hurricane-harvey",
+    "ignored_union_pixels": 0,
+    "label_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/hurricane-harvey_00000311/hurricane-harvey_00000311_post_disaster.json",
+    "label_sha256": "cae20f32e850bc294c0cd821b441532f96bc910e0d52b98dc05346e96b3beeeb",
+    "objects": 6,
+    "objects_by_grade": {
+      "major-damage": 6
+    },
+    "pixels_by_id": {
+      "0": 1045448,
+      "1": 0,
+      "2": 0,
+      "255": 0,
+      "3": 3128,
+      "4": 0
+    },
+    "reference_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_perception_pair72_v1/reference/hurricane-harvey_00000311.png",
+    "reference_pixel_sha256": "ad2219ffa1fcec7c42a2962cb94d91a0a8e1cbf63b01bbf44d58d6206b27fa64",
+    "reference_sha256": "f2bace1d91bedb8d354c3250cd6929101773730fc3a5a732731cf1fbce4b0bc9",
+    "sample_id": "hurricane-harvey_00000311",
+    "unknown_polygon_pixels": 0
+  },
+  {
+    "boundary_objects": 0,
+    "conflicting_known_pixels": 0,
+    "event": "hurricane-harvey",
+    "ignored_union_pixels": 0,
+    "label_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/hurricane-harvey_00000334/hurricane-harvey_00000334_post_disaster.json",
+    "label_sha256": "c571a8ace588c676d06c30409a2c299e461cdf8f79323cc1b207f9c5c9c311b4",
+    "objects": 21,
+    "objects_by_grade": {
+      "destroyed": 3,
+      "major-damage": 18
+    },
+    "pixels_by_id": {
+      "0": 1044784,
+      "1": 0,
+      "2": 0,
+      "255": 0,
+      "3": 3398,
+      "4": 394
+    },
+    "reference_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_perception_pair72_v1/reference/hurricane-harvey_00000334.png",
+    "reference_pixel_sha256": "2b6f0a2d4a94b15e25ff1bbff2b6b10b1a72720466120293172dfbe8c98b1d74",
+    "reference_sha256": "9ec855fc99deb6e915dc5b0684e3162e33f3180995846d5db20a1a8b725fe6e3",
+    "sample_id": "hurricane-harvey_00000334",
+    "unknown_polygon_pixels": 0
+  },
+  {
+    "boundary_objects": 2,
+    "conflicting_known_pixels": 0,
+    "event": "hurricane-harvey",
+    "ignored_union_pixels": 122,
+    "label_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/hurricane-harvey_00000343/hurricane-harvey_00000343_post_disaster.json",
+    "label_sha256": "e01e747fec4040d8af4a664cbfdd2c5d40c9a8f43a071f3e7e3ffdc71997667a",
+    "objects": 46,
+    "objects_by_grade": {
+      "no-damage": 45,
+      "un-classified": 1
+    },
+    "pixels_by_id": {
+      "0": 994800,
+      "1": 53654,
+      "2": 0,
+      "255": 122,
+      "3": 0,
+      "4": 0
+    },
+    "reference_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_perception_pair72_v1/reference/hurricane-harvey_00000343.png",
+    "reference_pixel_sha256": "15d1f9ecdd0e4106c3957a03dcb8daef2306ac1d734c18fc2c6fbe3e88142bf4",
+    "reference_sha256": "f73c7414847b39f17968898046580b1ff1b83243409aa9cb796b6e646dc47413",
+    "sample_id": "hurricane-harvey_00000343",
+    "unknown_polygon_pixels": 122
+  },
+  {
+    "boundary_objects": 0,
+    "conflicting_known_pixels": 0,
+    "event": "hurricane-harvey",
+    "ignored_union_pixels": 0,
+    "label_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/hurricane-harvey_00000363/hurricane-harvey_00000363_post_disaster.json",
+    "label_sha256": "bd7d57ac49a79d019b80e027f952fee91dfdb8b863df188c30f15fdfd894dfc3",
+    "objects": 42,
+    "objects_by_grade": {
+      "no-damage": 42
+    },
+    "pixels_by_id": {
+      "0": 988953,
+      "1": 59623,
+      "2": 0,
+      "255": 0,
+      "3": 0,
+      "4": 0
+    },
+    "reference_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_perception_pair72_v1/reference/hurricane-harvey_00000363.png",
+    "reference_pixel_sha256": "15c17b4bbf9ac00477f20990d4522fed8113f6fe64963c1005843293f8a8e302",
+    "reference_sha256": "22f952536d01caaa51a6751d6b3d146300b76b8862914e977003d6f9ef47f527",
+    "sample_id": "hurricane-harvey_00000363",
+    "unknown_polygon_pixels": 0
+  },
+  {
+    "boundary_objects": 4,
+    "conflicting_known_pixels": 0,
+    "event": "hurricane-harvey",
+    "ignored_union_pixels": 2675,
+    "label_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/hurricane-harvey_00000372/hurricane-harvey_00000372_post_disaster.json",
+    "label_sha256": "130558d141c4daa2329e3f7df6dbbcb33c20ccd94dd78fb05d24122174a43269",
+    "objects": 155,
+    "objects_by_grade": {
+      "destroyed": 20,
+      "major-damage": 120,
+      "minor-damage": 13,
+      "un-classified": 2
+    },
+    "pixels_by_id": {
+      "0": 845875,
+      "1": 0,
+      "2": 24282,
+      "255": 2675,
+      "3": 150955,
+      "4": 24789
+    },
+    "reference_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_perception_pair72_v1/reference/hurricane-harvey_00000372.png",
+    "reference_pixel_sha256": "8a1d42976924c4822de397da6abfa58e1c92cd94e53aa55489e765dcb758808b",
+    "reference_sha256": "190031a1d180ef2ad08153038fd4bcc503358e3c780649236b9cdb151e97ce84",
+    "sample_id": "hurricane-harvey_00000372",
+    "unknown_polygon_pixels": 2675
+  },
+  {
+    "boundary_objects": 7,
+    "conflicting_known_pixels": 0,
+    "event": "hurricane-harvey",
+    "ignored_union_pixels": 0,
+    "label_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/hurricane-harvey_00000386/hurricane-harvey_00000386_post_disaster.json",
+    "label_sha256": "c4392f29bbe2d5a60cd7877a5fe6f8ada0ba6476e2f314723a1d9e6209697492",
+    "objects": 87,
+    "objects_by_grade": {
+      "minor-damage": 9,
+      "no-damage": 78
+    },
+    "pixels_by_id": {
+      "0": 778373,
+      "1": 207253,
+      "2": 62950,
+      "255": 0,
+      "3": 0,
+      "4": 0
+    },
+    "reference_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_perception_pair72_v1/reference/hurricane-harvey_00000386.png",
+    "reference_pixel_sha256": "2c1619c4c1b218eda9397f1612e9ec82a509f54317f8414cd3921a107e63adfd",
+    "reference_sha256": "120afb52911cfa5625ef556d76321c42651c748ff3a851bb566d91dc8009e09d",
+    "sample_id": "hurricane-harvey_00000386",
+    "unknown_polygon_pixels": 0
+  },
+  {
+    "boundary_objects": 8,
+    "conflicting_known_pixels": 0,
+    "event": "hurricane-harvey",
+    "ignored_union_pixels": 0,
+    "label_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/hurricane-harvey_00000403/hurricane-harvey_00000403_post_disaster.json",
+    "label_sha256": "814004e95330049f83eaf7b36da13075fdf6d035f38e64d7c599d3edb22371ce",
+    "objects": 63,
+    "objects_by_grade": {
+      "destroyed": 1,
+      "major-damage": 62
+    },
+    "pixels_by_id": {
+      "0": 731632,
+      "1": 0,
+      "2": 0,
+      "255": 0,
+      "3": 314229,
+      "4": 2715
+    },
+    "reference_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_perception_pair72_v1/reference/hurricane-harvey_00000403.png",
+    "reference_pixel_sha256": "ffd23bfbd3d6e8a872ae8d129d974da5595a730bc5894f66aa34ede79cec8943",
+    "reference_sha256": "2f279784090f39736bc6da04ce59b60fc13a7b25cbd37006daebb42512186fcd",
+    "sample_id": "hurricane-harvey_00000403",
+    "unknown_polygon_pixels": 0
+  },
+  {
+    "boundary_objects": 10,
+    "conflicting_known_pixels": 0,
+    "event": "hurricane-harvey",
+    "ignored_union_pixels": 0,
+    "label_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/hurricane-harvey_00000404/hurricane-harvey_00000404_post_disaster.json",
+    "label_sha256": "0bc39b36cb26af5a75c88715f62da7f878c2bc3c889c5f71cc6bef42914f9ebe",
+    "objects": 208,
+    "objects_by_grade": {
+      "major-damage": 155,
+      "minor-damage": 51,
+      "no-damage": 2
+    },
+    "pixels_by_id": {
+      "0": 736667,
+      "1": 2929,
+      "2": 66436,
+      "255": 0,
+      "3": 242544,
+      "4": 0
+    },
+    "reference_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_perception_pair72_v1/reference/hurricane-harvey_00000404.png",
+    "reference_pixel_sha256": "a73eaaa6d45ff25ed8960dc8c978dca73156ebf0c0f25910cce01b2778e58fe9",
+    "reference_sha256": "f5af7222fcadb93dec5f670f73a38618af0541d6e84718ca1cfc794e397e497c",
+    "sample_id": "hurricane-harvey_00000404",
+    "unknown_polygon_pixels": 0
+  },
+  {
+    "boundary_objects": 2,
+    "conflicting_known_pixels": 0,
+    "event": "hurricane-harvey",
+    "ignored_union_pixels": 3694,
+    "label_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/hurricane-harvey_00000421/hurricane-harvey_00000421_post_disaster.json",
+    "label_sha256": "f0ea93f5304e476cfe3bb8d1aa3f8d0a81ad8fb5e72ee1a5b2b648ec66d7c419",
+    "objects": 68,
+    "objects_by_grade": {
+      "destroyed": 31,
+      "major-damage": 31,
+      "un-classified": 6
+    },
+    "pixels_by_id": {
+      "0": 948827,
+      "1": 0,
+      "2": 0,
+      "255": 3694,
+      "3": 50848,
+      "4": 45207
+    },
+    "reference_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_perception_pair72_v1/reference/hurricane-harvey_00000421.png",
+    "reference_pixel_sha256": "33259e49d3275de7d178f596b4bd88dfd37df92f191682610e7c729a5644eac0",
+    "reference_sha256": "30e768c34b8cf6eac65546334fad74af11ce6f6c6db17fc5a5b589ac1db35fcf",
+    "sample_id": "hurricane-harvey_00000421",
+    "unknown_polygon_pixels": 3694
+  },
+  {
+    "boundary_objects": 1,
+    "conflicting_known_pixels": 0,
+    "event": "hurricane-harvey",
+    "ignored_union_pixels": 4059,
+    "label_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/hurricane-harvey_00000447/hurricane-harvey_00000447_post_disaster.json",
+    "label_sha256": "8315df3870f4f7da176467815d17a8e8ac1d02a3b0954970d007b66952673463",
+    "objects": 99,
+    "objects_by_grade": {
+      "destroyed": 7,
+      "major-damage": 76,
+      "minor-damage": 8,
+      "no-damage": 4,
+      "un-classified": 4
+    },
+    "pixels_by_id": {
+      "0": 907577,
+      "1": 5301,
+      "2": 11243,
+      "255": 4059,
+      "3": 108648,
+      "4": 11748
+    },
+    "reference_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_perception_pair72_v1/reference/hurricane-harvey_00000447.png",
+    "reference_pixel_sha256": "e7763521ddcd37a4ad243552ad6496f187538a24b60b0fe45e87c5f0cf7ad411",
+    "reference_sha256": "47fb7bbefe1d448091f2ff792269cf606b13ce2c2fa2a0d9e23785c54dbcf56c",
+    "sample_id": "hurricane-harvey_00000447",
+    "unknown_polygon_pixels": 4059
+  },
+  {
+    "boundary_objects": 6,
+    "conflicting_known_pixels": 0,
+    "event": "hurricane-harvey",
+    "ignored_union_pixels": 0,
+    "label_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/hurricane-harvey_00000459/hurricane-harvey_00000459_post_disaster.json",
+    "label_sha256": "7b69d582a01e38be35e721d3281b5dbcbd660b62fa43d3ca32adaf2e49eb60b7",
+    "objects": 92,
+    "objects_by_grade": {
+      "no-damage": 92
+    },
+    "pixels_by_id": {
+      "0": 840579,
+      "1": 207997,
+      "2": 0,
+      "255": 0,
+      "3": 0,
+      "4": 0
+    },
+    "reference_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_perception_pair72_v1/reference/hurricane-harvey_00000459.png",
+    "reference_pixel_sha256": "eae8e3b27281b578a0378808c1c2f12dc2356126e6c22e6ef4d702a40f8783b6",
+    "reference_sha256": "d3279c2ff68aa8c85094658ec0e5fedcfcfa2b9e48d1bc856b5b23357a6e2b37",
+    "sample_id": "hurricane-harvey_00000459",
+    "unknown_polygon_pixels": 0
+  },
+  {
+    "boundary_objects": 0,
+    "conflicting_known_pixels": 0,
+    "event": "hurricane-harvey",
+    "ignored_union_pixels": 0,
+    "label_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/hurricane-harvey_00000487/hurricane-harvey_00000487_post_disaster.json",
+    "label_sha256": "494bd9f5e01cccb735421f26c276b18ff44668719e1e4f07189321d954f36424",
+    "objects": 47,
+    "objects_by_grade": {
+      "no-damage": 47
+    },
+    "pixels_by_id": {
+      "0": 791515,
+      "1": 257061,
+      "2": 0,
+      "255": 0,
+      "3": 0,
+      "4": 0
+    },
+    "reference_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_perception_pair72_v1/reference/hurricane-harvey_00000487.png",
+    "reference_pixel_sha256": "02be111dd14e51f2e503b9351f81cad2f799dba7f3db8a1974e05a58d54eb485",
+    "reference_sha256": "0c7ba14d4e11baf5d88426cafef8c3bc0314aed690cbd7a391ae794117b32e68",
+    "sample_id": "hurricane-harvey_00000487",
+    "unknown_polygon_pixels": 0
+  },
+  {
+    "boundary_objects": 7,
+    "conflicting_known_pixels": 0,
+    "event": "mexico-earthquake",
+    "ignored_union_pixels": 0,
+    "label_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/mexico-earthquake_00000014/mexico-earthquake_00000014_post_disaster.json",
+    "label_sha256": "f6c45caef8bad9a84f30aaf1f7c48c15855272f3aa9f0d52fec6f77b5851a57a",
+    "objects": 199,
+    "objects_by_grade": {
+      "no-damage": 199
+    },
+    "pixels_by_id": {
+      "0": 708964,
+      "1": 339612,
+      "2": 0,
+      "255": 0,
+      "3": 0,
+      "4": 0
+    },
+    "reference_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_perception_pair72_v1/reference/mexico-earthquake_00000014.png",
+    "reference_pixel_sha256": "ad38f3b7cdd8ba6c0c414fb1326024e9f85c655137a66c638cc97aae5e29e05d",
+    "reference_sha256": "8dffcfdec6dc015af003bcc775250c75084f73cb4e5ea4f0dfdc880d89504f92",
+    "sample_id": "mexico-earthquake_00000014",
+    "unknown_polygon_pixels": 0
+  },
+  {
+    "boundary_objects": 7,
+    "conflicting_known_pixels": 0,
+    "event": "mexico-earthquake",
+    "ignored_union_pixels": 0,
+    "label_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/mexico-earthquake_00000036/mexico-earthquake_00000036_post_disaster.json",
+    "label_sha256": "55ec79254881fab90f931ea1fdb4a5dfd5e9d694cbaee77343c6a308db1fd097",
+    "objects": 508,
+    "objects_by_grade": {
+      "no-damage": 508
+    },
+    "pixels_by_id": {
+      "0": 643547,
+      "1": 405029,
+      "2": 0,
+      "255": 0,
+      "3": 0,
+      "4": 0
+    },
+    "reference_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_perception_pair72_v1/reference/mexico-earthquake_00000036.png",
+    "reference_pixel_sha256": "61d3ae9b3f9e4bf394918bad07966fea8f9a1a4581ab32ae8f87a8ac3812b6f9",
+    "reference_sha256": "06f5e5c40478b1558cee490efef7e06626e91058b92aeeff449455e2920fcb8d",
+    "sample_id": "mexico-earthquake_00000036",
+    "unknown_polygon_pixels": 0
+  },
+  {
+    "boundary_objects": 14,
+    "conflicting_known_pixels": 0,
+    "event": "mexico-earthquake",
+    "ignored_union_pixels": 7096,
+    "label_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/mexico-earthquake_00000038/mexico-earthquake_00000038_post_disaster.json",
+    "label_sha256": "ce53ad077f45b1b07fdb8f4b31f9a4e6653cbd9420bc590304f10cd096c2c5cf",
+    "objects": 501,
+    "objects_by_grade": {
+      "no-damage": 484,
+      "un-classified": 17
+    },
+    "pixels_by_id": {
+      "0": 624906,
+      "1": 416574,
+      "2": 0,
+      "255": 7096,
+      "3": 0,
+      "4": 0
+    },
+    "reference_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_perception_pair72_v1/reference/mexico-earthquake_00000038.png",
+    "reference_pixel_sha256": "a71f98ee870515aaade26398608e0453824eb04f6fbfbac086e78fc013b5dd2b",
+    "reference_sha256": "12cdf30bc1dd47ad9056cbc5f5e72e5a8105f776090f88ea6d45e6b434e89ad4",
+    "sample_id": "mexico-earthquake_00000038",
+    "unknown_polygon_pixels": 7096
+  },
+  {
+    "boundary_objects": 10,
+    "conflicting_known_pixels": 0,
+    "event": "mexico-earthquake",
+    "ignored_union_pixels": 0,
+    "label_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/mexico-earthquake_00000045/mexico-earthquake_00000045_post_disaster.json",
+    "label_sha256": "d997dfc236d59f827d781070250291fd1f6e39e95d16ed34d64be9b6f29ef9f8",
+    "objects": 227,
+    "objects_by_grade": {
+      "no-damage": 227
+    },
+    "pixels_by_id": {
+      "0": 632158,
+      "1": 416418,
+      "2": 0,
+      "255": 0,
+      "3": 0,
+      "4": 0
+    },
+    "reference_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_perception_pair72_v1/reference/mexico-earthquake_00000045.png",
+    "reference_pixel_sha256": "d0e5bffc044d8dec3af55b4bc184a91fa21122610ff3c469206e9f41396dd8c6",
+    "reference_sha256": "5e0f09c281395592e11f63ccb456f4527e1bbe0b00c12c8075ae516ada073d45",
+    "sample_id": "mexico-earthquake_00000045",
+    "unknown_polygon_pixels": 0
+  },
+  {
+    "boundary_objects": 6,
+    "conflicting_known_pixels": 0,
+    "event": "mexico-earthquake",
+    "ignored_union_pixels": 0,
+    "label_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/mexico-earthquake_00000054/mexico-earthquake_00000054_post_disaster.json",
+    "label_sha256": "08b566af857d4ddbca6468f1a5ec27d855556790cc1c3a230597f82ac942f653",
+    "objects": 109,
+    "objects_by_grade": {
+      "no-damage": 109
+    },
+    "pixels_by_id": {
+      "0": 708594,
+      "1": 339982,
+      "2": 0,
+      "255": 0,
+      "3": 0,
+      "4": 0
+    },
+    "reference_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_perception_pair72_v1/reference/mexico-earthquake_00000054.png",
+    "reference_pixel_sha256": "9f7730e774a1ade8b6a8a27add4e2d6bef866e965d0877fc61089a6e0c8b3ba8",
+    "reference_sha256": "a1949cd01db18c92b10044500528cec57dd010dd0e2aa58b2a97a106e52e8b5f",
+    "sample_id": "mexico-earthquake_00000054",
+    "unknown_polygon_pixels": 0
+  },
+  {
+    "boundary_objects": 6,
+    "conflicting_known_pixels": 0,
+    "event": "mexico-earthquake",
+    "ignored_union_pixels": 0,
+    "label_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/mexico-earthquake_00000056/mexico-earthquake_00000056_post_disaster.json",
+    "label_sha256": "8e405262535719d9870731bef53f91e5e89ce2bbe2455b6d5ac35263151386a4",
+    "objects": 133,
+    "objects_by_grade": {
+      "no-damage": 133
+    },
+    "pixels_by_id": {
+      "0": 466723,
+      "1": 581853,
+      "2": 0,
+      "255": 0,
+      "3": 0,
+      "4": 0
+    },
+    "reference_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_perception_pair72_v1/reference/mexico-earthquake_00000056.png",
+    "reference_pixel_sha256": "8caa304d32b630802a1e19b7c0c732eb8fa078dbc30a588ce9be513e294e1702",
+    "reference_sha256": "b9489a2da34e6cf7fae251e5f60545330d13b3af1ebd739775e67f95f8d4c496",
+    "sample_id": "mexico-earthquake_00000056",
+    "unknown_polygon_pixels": 0
+  },
+  {
+    "boundary_objects": 1,
+    "conflicting_known_pixels": 0,
+    "event": "mexico-earthquake",
+    "ignored_union_pixels": 0,
+    "label_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/mexico-earthquake_00000060/mexico-earthquake_00000060_post_disaster.json",
+    "label_sha256": "5ef77b2384393048147b6170d5c9dc85ba4b4e1b313c6a616ce8069c22f6ed02",
+    "objects": 169,
+    "objects_by_grade": {
+      "minor-damage": 1,
+      "no-damage": 168
+    },
+    "pixels_by_id": {
+      "0": 619967,
+      "1": 419616,
+      "2": 8993,
+      "255": 0,
+      "3": 0,
+      "4": 0
+    },
+    "reference_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_perception_pair72_v1/reference/mexico-earthquake_00000060.png",
+    "reference_pixel_sha256": "a377f8bcf7caa88999af9e06ab844b8dc82479122e8817fa4ad6cd047a18c84c",
+    "reference_sha256": "e7ed294b1cfb205bf2ef6e71805a02c4072837fe5590f427f3e2858608960619",
+    "sample_id": "mexico-earthquake_00000060",
+    "unknown_polygon_pixels": 0
+  },
+  {
+    "boundary_objects": 0,
+    "conflicting_known_pixels": 0,
+    "event": "mexico-earthquake",
+    "ignored_union_pixels": 0,
+    "label_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/mexico-earthquake_00000071/mexico-earthquake_00000071_post_disaster.json",
+    "label_sha256": "7e76643a2cbadfa69a689b1d0376805457feb5f761867c120a4cd4e9a5c979c9",
+    "objects": 111,
+    "objects_by_grade": {
+      "no-damage": 111
+    },
+    "pixels_by_id": {
+      "0": 912582,
+      "1": 135994,
+      "2": 0,
+      "255": 0,
+      "3": 0,
+      "4": 0
+    },
+    "reference_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_perception_pair72_v1/reference/mexico-earthquake_00000071.png",
+    "reference_pixel_sha256": "5d3ebc7fa1d541ed7c13c48eddf2f2a032febe2002c832afd7fd4f624d07a65c",
+    "reference_sha256": "e20d274b73b4cafe2decaddc84d77cfda0ae71745b2a3a61397af630b56b9b24",
+    "sample_id": "mexico-earthquake_00000071",
+    "unknown_polygon_pixels": 0
+  },
+  {
+    "boundary_objects": 4,
+    "conflicting_known_pixels": 0,
+    "event": "mexico-earthquake",
+    "ignored_union_pixels": 0,
+    "label_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/mexico-earthquake_00000077/mexico-earthquake_00000077_post_disaster.json",
+    "label_sha256": "b5cbd2c1c7f60ec04d820248c727ff7a1f7b08567addc660b465168b083cabc3",
+    "objects": 249,
+    "objects_by_grade": {
+      "no-damage": 249
+    },
+    "pixels_by_id": {
+      "0": 805542,
+      "1": 243034,
+      "2": 0,
+      "255": 0,
+      "3": 0,
+      "4": 0
+    },
+    "reference_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_perception_pair72_v1/reference/mexico-earthquake_00000077.png",
+    "reference_pixel_sha256": "b622b6c3870ec742097899ec9660f32e1974777ffd351067a785e7d5cc122d77",
+    "reference_sha256": "dfb6679a8ad871a1e773d93ed0204b0b16415f222352aa445b1bd03632c4b907",
+    "sample_id": "mexico-earthquake_00000077",
+    "unknown_polygon_pixels": 0
+  },
+  {
+    "boundary_objects": 9,
+    "conflicting_known_pixels": 4,
+    "event": "mexico-earthquake",
+    "ignored_union_pixels": 4,
+    "label_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/mexico-earthquake_00000081/mexico-earthquake_00000081_post_disaster.json",
+    "label_sha256": "bfd48ed7a8bfcc47bb793e4c875c74344eb5354e4edba28aa73d5ad68e04b293",
+    "objects": 277,
+    "objects_by_grade": {
+      "major-damage": 1,
+      "minor-damage": 4,
+      "no-damage": 272
+    },
+    "pixels_by_id": {
+      "0": 668657,
+      "1": 372757,
+      "2": 5355,
+      "255": 4,
+      "3": 1803,
+      "4": 0
+    },
+    "reference_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_perception_pair72_v1/reference/mexico-earthquake_00000081.png",
+    "reference_pixel_sha256": "712ca35ef74e5c0708370c35baf418f4e527fafd64830dcf3e00355811bf6089",
+    "reference_sha256": "65032c6aecdf5c59632551f906e3a28307813d51a274f41e378cfba908bb44ab",
+    "sample_id": "mexico-earthquake_00000081",
+    "unknown_polygon_pixels": 0
+  },
+  {
+    "boundary_objects": 0,
+    "conflicting_known_pixels": 0,
+    "event": "mexico-earthquake",
+    "ignored_union_pixels": 0,
+    "label_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/mexico-earthquake_00000099/mexico-earthquake_00000099_post_disaster.json",
+    "label_sha256": "d14a52e0674ab5c594a8a125a7023773d7ce90489247d8b28c0b49b32cd8eb60",
+    "objects": 3,
+    "objects_by_grade": {
+      "no-damage": 3
+    },
+    "pixels_by_id": {
+      "0": 1044975,
+      "1": 3601,
+      "2": 0,
+      "255": 0,
+      "3": 0,
+      "4": 0
+    },
+    "reference_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_perception_pair72_v1/reference/mexico-earthquake_00000099.png",
+    "reference_pixel_sha256": "343af56a428a10155fb74a55b3ed6afcd565203a82024b7319f72af9b4d5d59e",
+    "reference_sha256": "a65df1233f76735dbde17bb9438933d07676190031ab773c9e11951063895442",
+    "sample_id": "mexico-earthquake_00000099",
+    "unknown_polygon_pixels": 0
+  },
+  {
+    "boundary_objects": 1,
+    "conflicting_known_pixels": 1,
+    "event": "mexico-earthquake",
+    "ignored_union_pixels": 1,
+    "label_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/mexico-earthquake_00000116/mexico-earthquake_00000116_post_disaster.json",
+    "label_sha256": "3190c3910ed9560721ed003d009f1d823c47e22e634ba7091f254ac33eead0f3",
+    "objects": 237,
+    "objects_by_grade": {
+      "minor-damage": 6,
+      "no-damage": 231
+    },
+    "pixels_by_id": {
+      "0": 698124,
+      "1": 331954,
+      "2": 18497,
+      "255": 1,
+      "3": 0,
+      "4": 0
+    },
+    "reference_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_perception_pair72_v1/reference/mexico-earthquake_00000116.png",
+    "reference_pixel_sha256": "dab6cdafe04265250c40e8cb571ef7b5000a2b21ca470b8d95cd7ef741b2e91f",
+    "reference_sha256": "cf719dc534675787aa7085a66c1d24849765a48f3fc93c7f75c9468c8c6bbf88",
+    "sample_id": "mexico-earthquake_00000116",
+    "unknown_polygon_pixels": 0
+  },
+  {
+    "boundary_objects": 11,
+    "conflicting_known_pixels": 0,
+    "event": "mexico-earthquake",
+    "ignored_union_pixels": 0,
+    "label_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/mexico-earthquake_00000123/mexico-earthquake_00000123_post_disaster.json",
+    "label_sha256": "1dff2eda457bc37621fc6e0c890efeb752453b751aadfe06db57b2267cac4cf6",
+    "objects": 405,
+    "objects_by_grade": {
+      "no-damage": 405
+    },
+    "pixels_by_id": {
+      "0": 509805,
+      "1": 538771,
+      "2": 0,
+      "255": 0,
+      "3": 0,
+      "4": 0
+    },
+    "reference_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_perception_pair72_v1/reference/mexico-earthquake_00000123.png",
+    "reference_pixel_sha256": "e66d5160aaeabbe34b357fc8e25cf37b8029b4baf62f932fea8f354128db862f",
+    "reference_sha256": "26a69207484c631b125a5b4ecbd3f14c315b3b07b27187986bbaf438439ee394",
+    "sample_id": "mexico-earthquake_00000123",
+    "unknown_polygon_pixels": 0
+  },
+  {
+    "boundary_objects": 5,
+    "conflicting_known_pixels": 0,
+    "event": "mexico-earthquake",
+    "ignored_union_pixels": 0,
+    "label_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/mexico-earthquake_00000130/mexico-earthquake_00000130_post_disaster.json",
+    "label_sha256": "d300e36351409c3a9a1b7a9ecc3e6dca3253c33cba7e4f02a4dff935ff10837c",
+    "objects": 301,
+    "objects_by_grade": {
+      "no-damage": 301
+    },
+    "pixels_by_id": {
+      "0": 608028,
+      "1": 440548,
+      "2": 0,
+      "255": 0,
+      "3": 0,
+      "4": 0
+    },
+    "reference_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_perception_pair72_v1/reference/mexico-earthquake_00000130.png",
+    "reference_pixel_sha256": "2fc61b2acff550ab47d8855ce0606871d1063c2d9c16634a7223bb743c198cc6",
+    "reference_sha256": "35b4cdfa06a827ad655012c58863614c00c2657473743edf5e204072ace7b1aa",
+    "sample_id": "mexico-earthquake_00000130",
+    "unknown_polygon_pixels": 0
+  },
+  {
+    "boundary_objects": 7,
+    "conflicting_known_pixels": 0,
+    "event": "mexico-earthquake",
+    "ignored_union_pixels": 0,
+    "label_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/mexico-earthquake_00000133/mexico-earthquake_00000133_post_disaster.json",
+    "label_sha256": "d2a8ecd51a33bd44feac17015180ccd00ad9e5bca1cefc6eeadedf5543f71e72",
+    "objects": 180,
+    "objects_by_grade": {
+      "no-damage": 180
+    },
+    "pixels_by_id": {
+      "0": 676073,
+      "1": 372503,
+      "2": 0,
+      "255": 0,
+      "3": 0,
+      "4": 0
+    },
+    "reference_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_perception_pair72_v1/reference/mexico-earthquake_00000133.png",
+    "reference_pixel_sha256": "2e52644975004c1301dcfea3b608e7e7f02a3b04151d36fcfffcd6141de1ed52",
+    "reference_sha256": "cef7e6d2951453295d074a5921f3a696c4b933b6d9516cd00ca8ff59206b30dc",
+    "sample_id": "mexico-earthquake_00000133",
+    "unknown_polygon_pixels": 0
+  },
+  {
+    "boundary_objects": 5,
+    "conflicting_known_pixels": 0,
+    "event": "mexico-earthquake",
+    "ignored_union_pixels": 0,
+    "label_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/mexico-earthquake_00000134/mexico-earthquake_00000134_post_disaster.json",
+    "label_sha256": "03f7f5fe9e64c5ec75e1cdd815126eff05ffc7ef089d1d9b1d80f7b22d66fa2a",
+    "objects": 184,
+    "objects_by_grade": {
+      "no-damage": 184
+    },
+    "pixels_by_id": {
+      "0": 905295,
+      "1": 143281,
+      "2": 0,
+      "255": 0,
+      "3": 0,
+      "4": 0
+    },
+    "reference_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_perception_pair72_v1/reference/mexico-earthquake_00000134.png",
+    "reference_pixel_sha256": "39ddea7a12f6809081f545b189d263f15175db542c1b8de0b4b5f7e5bc7b6259",
+    "reference_sha256": "e772dfc20d9b74387f5f22a74d91e5a54629d16f5afd63e89411b6a69170d004",
+    "sample_id": "mexico-earthquake_00000134",
+    "unknown_polygon_pixels": 0
+  },
+  {
+    "boundary_objects": 1,
+    "conflicting_known_pixels": 0,
+    "event": "mexico-earthquake",
+    "ignored_union_pixels": 0,
+    "label_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/mexico-earthquake_00000137/mexico-earthquake_00000137_post_disaster.json",
+    "label_sha256": "e1474fd9ed1fd81872aa9be4a7316c0674939c19d128e7f4ab8d72918105d274",
+    "objects": 60,
+    "objects_by_grade": {
+      "no-damage": 60
+    },
+    "pixels_by_id": {
+      "0": 745754,
+      "1": 302822,
+      "2": 0,
+      "255": 0,
+      "3": 0,
+      "4": 0
+    },
+    "reference_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_perception_pair72_v1/reference/mexico-earthquake_00000137.png",
+    "reference_pixel_sha256": "0a72873c82836fb6d550e876bfeb6600383a8e02cbf2ec3efca5929024035a91",
+    "reference_sha256": "ecf61dfbd4d6ab618f5ba6285369a8b14e541a4c16a0ad1cf56f3fde1b5e6be1",
+    "sample_id": "mexico-earthquake_00000137",
+    "unknown_polygon_pixels": 0
+  },
+  {
+    "boundary_objects": 0,
+    "conflicting_known_pixels": 0,
+    "event": "mexico-earthquake",
+    "ignored_union_pixels": 400,
+    "label_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/mexico-earthquake_00000145/mexico-earthquake_00000145_post_disaster.json",
+    "label_sha256": "3a7b45a12f6dc86080356b0a9399e3a18556c663b88980b91aa55f98cc52f46a",
+    "objects": 43,
+    "objects_by_grade": {
+      "major-damage": 1,
+      "no-damage": 38,
+      "un-classified": 4
+    },
+    "pixels_by_id": {
+      "0": 1032791,
+      "1": 14941,
+      "2": 0,
+      "255": 400,
+      "3": 444,
+      "4": 0
+    },
+    "reference_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_perception_pair72_v1/reference/mexico-earthquake_00000145.png",
+    "reference_pixel_sha256": "34caaad183f9fd0c535e3f24fabecc6940b853b2531c68f90238a6f685caeff7",
+    "reference_sha256": "0b57fe00805c8a6ecada019f428f8833d9b557ddafd4a38747c48b40c9c12684",
+    "sample_id": "mexico-earthquake_00000145",
+    "unknown_polygon_pixels": 400
+  },
+  {
+    "boundary_objects": 16,
+    "conflicting_known_pixels": 0,
+    "event": "mexico-earthquake",
+    "ignored_union_pixels": 0,
+    "label_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/mexico-earthquake_00000147/mexico-earthquake_00000147_post_disaster.json",
+    "label_sha256": "42cd6d3a93e66328d8b894698f0c12532f26f97efbebe25b93ae19b317ba6490",
+    "objects": 554,
+    "objects_by_grade": {
+      "no-damage": 554
+    },
+    "pixels_by_id": {
+      "0": 669777,
+      "1": 378799,
+      "2": 0,
+      "255": 0,
+      "3": 0,
+      "4": 0
+    },
+    "reference_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_perception_pair72_v1/reference/mexico-earthquake_00000147.png",
+    "reference_pixel_sha256": "f4cc22ffe47123971809c3f5f12ddb361b0ef3bcb9ac30561fdb581de9dbe5b1",
+    "reference_sha256": "58ac9180100775c08d3da316ccb90b33659de4bf6d95f98e28bb84b36efcc266",
+    "sample_id": "mexico-earthquake_00000147",
+    "unknown_polygon_pixels": 0
+  },
+  {
+    "boundary_objects": 4,
+    "conflicting_known_pixels": 0,
+    "event": "mexico-earthquake",
+    "ignored_union_pixels": 0,
+    "label_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/mexico-earthquake_00000149/mexico-earthquake_00000149_post_disaster.json",
+    "label_sha256": "5834d490d5a475a77af5cac84c27aabd942ef6acb6e74145391589fa02234a5e",
+    "objects": 68,
+    "objects_by_grade": {
+      "no-damage": 68
+    },
+    "pixels_by_id": {
+      "0": 989567,
+      "1": 59009,
+      "2": 0,
+      "255": 0,
+      "3": 0,
+      "4": 0
+    },
+    "reference_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_perception_pair72_v1/reference/mexico-earthquake_00000149.png",
+    "reference_pixel_sha256": "255c190f85855b1d295affe666eb2f2d62a9adb5e38b9af9d255274d0c4fadd7",
+    "reference_sha256": "8033d177484821495c2b5493b5edd58dc9a2e9e0035bba0d1b734528761c7f12",
+    "sample_id": "mexico-earthquake_00000149",
+    "unknown_polygon_pixels": 0
+  },
+  {
+    "boundary_objects": 8,
+    "conflicting_known_pixels": 0,
+    "event": "mexico-earthquake",
+    "ignored_union_pixels": 0,
+    "label_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/mexico-earthquake_00000156/mexico-earthquake_00000156_post_disaster.json",
+    "label_sha256": "21b71b7e3f417fb3f71a4b246c1a51dd21b0d4e19f22efb3d193f3a3dec7f2c9",
+    "objects": 172,
+    "objects_by_grade": {
+      "no-damage": 172
+    },
+    "pixels_by_id": {
+      "0": 600199,
+      "1": 448377,
+      "2": 0,
+      "255": 0,
+      "3": 0,
+      "4": 0
+    },
+    "reference_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_perception_pair72_v1/reference/mexico-earthquake_00000156.png",
+    "reference_pixel_sha256": "b7c7e33690459cfdb99260e780ab864fc95dd8215caa2d4d2e825d848fe5724c",
+    "reference_sha256": "547248794067f96ded1abb82e68c117f41e0b9c2d20bd330a6da76323e97f81b",
+    "sample_id": "mexico-earthquake_00000156",
+    "unknown_polygon_pixels": 0
+  },
+  {
+    "boundary_objects": 8,
+    "conflicting_known_pixels": 0,
+    "event": "mexico-earthquake",
+    "ignored_union_pixels": 0,
+    "label_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/mexico-earthquake_00000162/mexico-earthquake_00000162_post_disaster.json",
+    "label_sha256": "ec9c4d281f18a646d0c7013a891916dc69800edae42c35f76944658f321012ec",
+    "objects": 699,
+    "objects_by_grade": {
+      "major-damage": 1,
+      "no-damage": 698
+    },
+    "pixels_by_id": {
+      "0": 703530,
+      "1": 344595,
+      "2": 0,
+      "255": 0,
+      "3": 451,
+      "4": 0
+    },
+    "reference_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_perception_pair72_v1/reference/mexico-earthquake_00000162.png",
+    "reference_pixel_sha256": "b54dbddba131f8c3d088aec12f0cab50f8b2cd25fb1af0fbe2d7f694feceae25",
+    "reference_sha256": "08487f6069097c854b3b215dfc0190c9ac710e69f774a3b29f349889dec614dc",
+    "sample_id": "mexico-earthquake_00000162",
+    "unknown_polygon_pixels": 0
+  },
+  {
+    "boundary_objects": 0,
+    "conflicting_known_pixels": 0,
+    "event": "mexico-earthquake",
+    "ignored_union_pixels": 0,
+    "label_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/mexico-earthquake_00000170/mexico-earthquake_00000170_post_disaster.json",
+    "label_sha256": "572d0b59c0fd73f409f3e59bc83440d89d430f9bcafea5afe588d5017862891c",
+    "objects": 18,
+    "objects_by_grade": {
+      "no-damage": 18
+    },
+    "pixels_by_id": {
+      "0": 1043210,
+      "1": 5366,
+      "2": 0,
+      "255": 0,
+      "3": 0,
+      "4": 0
+    },
+    "reference_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_perception_pair72_v1/reference/mexico-earthquake_00000170.png",
+    "reference_pixel_sha256": "445c441c58a0c5e13cedec8205606f8b7bae2b1becb6975282cb1a6b210d2144",
+    "reference_sha256": "f50d729d414add01dac94cc858e7b506d96f9097a471ae4daefc406b5e32231b",
+    "sample_id": "mexico-earthquake_00000170",
+    "unknown_polygon_pixels": 0
+  },
+  {
+    "boundary_objects": 0,
+    "conflicting_known_pixels": 0,
+    "event": "mexico-earthquake",
+    "ignored_union_pixels": 1088,
+    "label_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/mexico-earthquake_00000175/mexico-earthquake_00000175_post_disaster.json",
+    "label_sha256": "f1b510afd6d7b23628199d81d0fa9e1562cb13ab6825bc3c69175ddc2818d3f8",
+    "objects": 9,
+    "objects_by_grade": {
+      "no-damage": 5,
+      "un-classified": 4
+    },
+    "pixels_by_id": {
+      "0": 1044279,
+      "1": 3209,
+      "2": 0,
+      "255": 1088,
+      "3": 0,
+      "4": 0
+    },
+    "reference_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_perception_pair72_v1/reference/mexico-earthquake_00000175.png",
+    "reference_pixel_sha256": "dc372945ca63677bef69c48f19358c15e98afbec71c1cc047cab8e00705deee5",
+    "reference_sha256": "58f776a0beb55f34388f4d0bc21d6df26e6ce239e97b8b962d9d200b50a4c3e1",
+    "sample_id": "mexico-earthquake_00000175",
+    "unknown_polygon_pixels": 1088
+  },
+  {
+    "boundary_objects": 0,
+    "conflicting_known_pixels": 0,
+    "event": "santa-rosa-wildfire",
+    "ignored_union_pixels": 234,
+    "label_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000008/santa-rosa-wildfire_00000008_post_disaster.json",
+    "label_sha256": "08d5f90f5b6244845588e90df79179d9b9743bb0769428de3f9d08553205da12",
+    "objects": 25,
+    "objects_by_grade": {
+      "destroyed": 15,
+      "no-damage": 9,
+      "un-classified": 1
+    },
+    "pixels_by_id": {
+      "0": 946314,
+      "1": 49782,
+      "2": 0,
+      "255": 234,
+      "3": 0,
+      "4": 52246
+    },
+    "reference_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_perception_pair72_v1/reference/santa-rosa-wildfire_00000008.png",
+    "reference_pixel_sha256": "f8c8fcf9f267aac9aabc6db20e933fe7f36b2c91f0c0ec4335a5c9fff293a1e7",
+    "reference_sha256": "62c836afb36f7ad367927db05869607824df92c172ba9179ca8585cb5f0cc98a",
+    "sample_id": "santa-rosa-wildfire_00000008",
+    "unknown_polygon_pixels": 234
+  },
+  {
+    "boundary_objects": 0,
+    "conflicting_known_pixels": 46,
+    "event": "santa-rosa-wildfire",
+    "ignored_union_pixels": 46,
+    "label_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000010/santa-rosa-wildfire_00000010_post_disaster.json",
+    "label_sha256": "ebca6a54b904d688482d319ccc7f0d44617451b6b6129f605f090da4d4ecd273",
+    "objects": 135,
+    "objects_by_grade": {
+      "destroyed": 120,
+      "major-damage": 5,
+      "minor-damage": 5,
+      "no-damage": 5
+    },
+    "pixels_by_id": {
+      "0": 873611,
+      "1": 9254,
+      "2": 4245,
+      "255": 46,
+      "3": 1484,
+      "4": 159936
+    },
+    "reference_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_perception_pair72_v1/reference/santa-rosa-wildfire_00000010.png",
+    "reference_pixel_sha256": "94284f4c535435ffc9efc5b426e91c87d275474852118f55f932a69b02c49d5c",
+    "reference_sha256": "f3e8a652dd47db5fcfa63c718816d01b74f9825f8587a443525c3e78dd69395b",
+    "sample_id": "santa-rosa-wildfire_00000010",
+    "unknown_polygon_pixels": 0
+  },
+  {
+    "boundary_objects": 0,
+    "conflicting_known_pixels": 0,
+    "event": "santa-rosa-wildfire",
+    "ignored_union_pixels": 0,
+    "label_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000013/santa-rosa-wildfire_00000013_post_disaster.json",
+    "label_sha256": "4a3d3a8e424ce03bd2ed963117f474b31c8a6dd8be402609ea80449188db914c",
+    "objects": 6,
+    "objects_by_grade": {
+      "no-damage": 6
+    },
+    "pixels_by_id": {
+      "0": 1016603,
+      "1": 31973,
+      "2": 0,
+      "255": 0,
+      "3": 0,
+      "4": 0
+    },
+    "reference_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_perception_pair72_v1/reference/santa-rosa-wildfire_00000013.png",
+    "reference_pixel_sha256": "edc23301f8a1ddff4a3daa8ab8a07ad0b0aeb670bcd1f366c77df26ac8877def",
+    "reference_sha256": "dd00934f6792d81e95fd1114dd3c913ea939d0cd9fb543f5b53519e5c826dde3",
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "unknown_polygon_pixels": 0
+  },
+  {
+    "boundary_objects": 0,
+    "conflicting_known_pixels": 0,
+    "event": "santa-rosa-wildfire",
+    "ignored_union_pixels": 0,
+    "label_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000025/santa-rosa-wildfire_00000025_post_disaster.json",
+    "label_sha256": "2c29f7516c55da127b20d76312f68b2ab2fb33fea29b0b5c68332858251637ec",
+    "objects": 18,
+    "objects_by_grade": {
+      "destroyed": 14,
+      "minor-damage": 1,
+      "no-damage": 3
+    },
+    "pixels_by_id": {
+      "0": 1023094,
+      "1": 2467,
+      "2": 540,
+      "255": 0,
+      "3": 0,
+      "4": 22475
+    },
+    "reference_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_perception_pair72_v1/reference/santa-rosa-wildfire_00000025.png",
+    "reference_pixel_sha256": "cfcf56f4ec2d53b4f5b654645e3f74f6992d9a2e7810bd29d37f916214b91529",
+    "reference_sha256": "6eab5e5986e045e29d706e5c317336e39a6ab6e37ebb8f644df3a80e3f2482aa",
+    "sample_id": "santa-rosa-wildfire_00000025",
+    "unknown_polygon_pixels": 0
+  },
+  {
+    "boundary_objects": 0,
+    "conflicting_known_pixels": 0,
+    "event": "santa-rosa-wildfire",
+    "ignored_union_pixels": 0,
+    "label_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000029/santa-rosa-wildfire_00000029_post_disaster.json",
+    "label_sha256": "8f1c29bfc16324ae82c7eb85f090007b2f5bc012ef8657529a4da0cfce86c6e2",
+    "objects": 164,
+    "objects_by_grade": {
+      "destroyed": 93,
+      "major-damage": 1,
+      "no-damage": 70
+    },
+    "pixels_by_id": {
+      "0": 847719,
+      "1": 92565,
+      "2": 0,
+      "255": 0,
+      "3": 1220,
+      "4": 107072
+    },
+    "reference_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_perception_pair72_v1/reference/santa-rosa-wildfire_00000029.png",
+    "reference_pixel_sha256": "d303120ba48c24578b6cca82cb619da9282c207b69b7bc674f4606cc8fc62570",
+    "reference_sha256": "34ca36dd072c537bef24ea6c7442bb42dd695aa2fe4f068b108688b5f785e6ec",
+    "sample_id": "santa-rosa-wildfire_00000029",
+    "unknown_polygon_pixels": 0
+  },
+  {
+    "boundary_objects": 0,
+    "conflicting_known_pixels": 0,
+    "event": "santa-rosa-wildfire",
+    "ignored_union_pixels": 0,
+    "label_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000054/santa-rosa-wildfire_00000054_post_disaster.json",
+    "label_sha256": "80e7b3bdecac73679859a596a9212a6f1369d147d1649610527b6583c12c1fd8",
+    "objects": 28,
+    "objects_by_grade": {
+      "destroyed": 27,
+      "no-damage": 1
+    },
+    "pixels_by_id": {
+      "0": 1000465,
+      "1": 333,
+      "2": 0,
+      "255": 0,
+      "3": 0,
+      "4": 47778
+    },
+    "reference_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_perception_pair72_v1/reference/santa-rosa-wildfire_00000054.png",
+    "reference_pixel_sha256": "61ff4b22f7735efac2b2b744e1777755df3a18990f4792e52c17e3ab8f511f51",
+    "reference_sha256": "808885a9884eee6976f0c0ce0a210eb64dbdc1ef424a93b01bf5129da6615b77",
+    "sample_id": "santa-rosa-wildfire_00000054",
+    "unknown_polygon_pixels": 0
+  },
+  {
+    "boundary_objects": 0,
+    "conflicting_known_pixels": 0,
+    "event": "santa-rosa-wildfire",
+    "ignored_union_pixels": 0,
+    "label_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000062/santa-rosa-wildfire_00000062_post_disaster.json",
+    "label_sha256": "92deb1a306005e0e02fd8744c314f564354c64f256b70e0381e2f7f5c9c86b82",
+    "objects": 17,
+    "objects_by_grade": {
+      "destroyed": 3,
+      "no-damage": 14
+    },
+    "pixels_by_id": {
+      "0": 1033297,
+      "1": 12482,
+      "2": 0,
+      "255": 0,
+      "3": 0,
+      "4": 2797
+    },
+    "reference_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_perception_pair72_v1/reference/santa-rosa-wildfire_00000062.png",
+    "reference_pixel_sha256": "98867fce20c8eb3a8b9601fccc91db19fa2dd5575992498fb737eeab192841ff",
+    "reference_sha256": "d2d4855511c666884f396d61de735cba288eeb6163b10d600d589d6a31eaf0c2",
+    "sample_id": "santa-rosa-wildfire_00000062",
+    "unknown_polygon_pixels": 0
+  },
+  {
+    "boundary_objects": 0,
+    "conflicting_known_pixels": 0,
+    "event": "santa-rosa-wildfire",
+    "ignored_union_pixels": 0,
+    "label_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000108/santa-rosa-wildfire_00000108_post_disaster.json",
+    "label_sha256": "68d2eed00190526cb5d6570a6bf7081233d5ae3751eb7186a0357bac948ed0f8",
+    "objects": 364,
+    "objects_by_grade": {
+      "no-damage": 364
+    },
+    "pixels_by_id": {
+      "0": 741942,
+      "1": 306634,
+      "2": 0,
+      "255": 0,
+      "3": 0,
+      "4": 0
+    },
+    "reference_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_perception_pair72_v1/reference/santa-rosa-wildfire_00000108.png",
+    "reference_pixel_sha256": "41e2bc292a510c1fbe02f14344b00b46baf598b2f3113355d4e06226148f7222",
+    "reference_sha256": "4852151e179301cac17e0263a8335b2f7bde4422b6d9249fd171ec3fb1598ee0",
+    "sample_id": "santa-rosa-wildfire_00000108",
+    "unknown_polygon_pixels": 0
+  },
+  {
+    "boundary_objects": 0,
+    "conflicting_known_pixels": 0,
+    "event": "santa-rosa-wildfire",
+    "ignored_union_pixels": 190,
+    "label_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000112/santa-rosa-wildfire_00000112_post_disaster.json",
+    "label_sha256": "9de8303c1026b96938dae3ab075a25c25559dd31926888d75dc13d6f78adb67d",
+    "objects": 12,
+    "objects_by_grade": {
+      "destroyed": 10,
+      "no-damage": 1,
+      "un-classified": 1
+    },
+    "pixels_by_id": {
+      "0": 1036283,
+      "1": 294,
+      "2": 0,
+      "255": 190,
+      "3": 0,
+      "4": 11809
+    },
+    "reference_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_perception_pair72_v1/reference/santa-rosa-wildfire_00000112.png",
+    "reference_pixel_sha256": "c203f1cbba56bcb0fdb895b771ed5f544e79f9441e8c3a0e0e754aabe7f92d0a",
+    "reference_sha256": "b1f2dc5bfb808c3c3a5c145b56055950ecde43ccf8342d3aee39afa018d39498",
+    "sample_id": "santa-rosa-wildfire_00000112",
+    "unknown_polygon_pixels": 190
+  },
+  {
+    "boundary_objects": 0,
+    "conflicting_known_pixels": 0,
+    "event": "santa-rosa-wildfire",
+    "ignored_union_pixels": 0,
+    "label_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000115/santa-rosa-wildfire_00000115_post_disaster.json",
+    "label_sha256": "5db70d0799472d1e727a94986cb5e55d64ce3f9e04f61f199f50c70b082a94fb",
+    "objects": 42,
+    "objects_by_grade": {
+      "destroyed": 38,
+      "minor-damage": 2,
+      "no-damage": 2
+    },
+    "pixels_by_id": {
+      "0": 1004503,
+      "1": 1688,
+      "2": 3364,
+      "255": 0,
+      "3": 0,
+      "4": 39021
+    },
+    "reference_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_perception_pair72_v1/reference/santa-rosa-wildfire_00000115.png",
+    "reference_pixel_sha256": "812721ffce95560e5a324b5c2838ebd3585c51cb3e461761ee888666f3bb2fd3",
+    "reference_sha256": "98d099384de776f1660438f24c9e9d8481e151711211068bdf6a7d52d63f7b4e",
+    "sample_id": "santa-rosa-wildfire_00000115",
+    "unknown_polygon_pixels": 0
+  },
+  {
+    "boundary_objects": 0,
+    "conflicting_known_pixels": 0,
+    "event": "santa-rosa-wildfire",
+    "ignored_union_pixels": 0,
+    "label_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000122/santa-rosa-wildfire_00000122_post_disaster.json",
+    "label_sha256": "194f3b82a9b2e2e52b3b1a602c50afa0ac03d4bee0f4bbd253f057b0f695bb7c",
+    "objects": 32,
+    "objects_by_grade": {
+      "destroyed": 20,
+      "minor-damage": 1,
+      "no-damage": 11
+    },
+    "pixels_by_id": {
+      "0": 956844,
+      "1": 66119,
+      "2": 3108,
+      "255": 0,
+      "3": 0,
+      "4": 22505
+    },
+    "reference_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_perception_pair72_v1/reference/santa-rosa-wildfire_00000122.png",
+    "reference_pixel_sha256": "9d65e42cdc763f090f20423759b22ec49db4824868e6f9465a45af9133c7c508",
+    "reference_sha256": "80ee7f7fc1ebc7b0231d821b1097b68033db4c9456dcc55af1e5ec30b90749de",
+    "sample_id": "santa-rosa-wildfire_00000122",
+    "unknown_polygon_pixels": 0
+  },
+  {
+    "boundary_objects": 0,
+    "conflicting_known_pixels": 0,
+    "event": "santa-rosa-wildfire",
+    "ignored_union_pixels": 0,
+    "label_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000126/santa-rosa-wildfire_00000126_post_disaster.json",
+    "label_sha256": "b113d49375adb1221fc71188d82ce4d1adbfb511412fce84e546c132d404ae03",
+    "objects": 125,
+    "objects_by_grade": {
+      "no-damage": 125
+    },
+    "pixels_by_id": {
+      "0": 809483,
+      "1": 239093,
+      "2": 0,
+      "255": 0,
+      "3": 0,
+      "4": 0
+    },
+    "reference_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_perception_pair72_v1/reference/santa-rosa-wildfire_00000126.png",
+    "reference_pixel_sha256": "c1facb0d3ceee0c13cd6b31b6edc67201ab21bd826cb8738d46ad6f3851ba01e",
+    "reference_sha256": "d33daf2a2ab79395b90c779d8a7c18831612236b54930d3bf7fc76b577f4da4e",
+    "sample_id": "santa-rosa-wildfire_00000126",
+    "unknown_polygon_pixels": 0
+  },
+  {
+    "boundary_objects": 0,
+    "conflicting_known_pixels": 0,
+    "event": "santa-rosa-wildfire",
+    "ignored_union_pixels": 0,
+    "label_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000160/santa-rosa-wildfire_00000160_post_disaster.json",
+    "label_sha256": "7107fd508c9efa0a01a4211f6aa11ec9117e7f1e7bd519f4d8ec54073b61c30e",
+    "objects": 12,
+    "objects_by_grade": {
+      "destroyed": 1,
+      "minor-damage": 3,
+      "no-damage": 8
+    },
+    "pixels_by_id": {
+      "0": 1039944,
+      "1": 7928,
+      "2": 509,
+      "255": 0,
+      "3": 0,
+      "4": 195
+    },
+    "reference_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_perception_pair72_v1/reference/santa-rosa-wildfire_00000160.png",
+    "reference_pixel_sha256": "e489559635de598d341dccdde992fca87fd1f682802dc232a44011a71892d6c2",
+    "reference_sha256": "5879705fed70582aa547c9107eefded8a6c48421c968871502780c27444e7bc0",
+    "sample_id": "santa-rosa-wildfire_00000160",
+    "unknown_polygon_pixels": 0
+  },
+  {
+    "boundary_objects": 0,
+    "conflicting_known_pixels": 0,
+    "event": "santa-rosa-wildfire",
+    "ignored_union_pixels": 0,
+    "label_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000188/santa-rosa-wildfire_00000188_post_disaster.json",
+    "label_sha256": "9f9712ecf9feebd03834d7bc686e2d7955a7dbe7e43688bd352cea2715c97bb6",
+    "objects": 14,
+    "objects_by_grade": {
+      "destroyed": 14
+    },
+    "pixels_by_id": {
+      "0": 1036672,
+      "1": 0,
+      "2": 0,
+      "255": 0,
+      "3": 0,
+      "4": 11904
+    },
+    "reference_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_perception_pair72_v1/reference/santa-rosa-wildfire_00000188.png",
+    "reference_pixel_sha256": "d29902e944540fdf4bf50f73487faa0f4e0fea56a3c1bac1f115f581fc091318",
+    "reference_sha256": "493391d6aeb0c9dc696406629df7c47087dd410ec3307419b6ab34fcb7707b34",
+    "sample_id": "santa-rosa-wildfire_00000188",
+    "unknown_polygon_pixels": 0
+  },
+  {
+    "boundary_objects": 0,
+    "conflicting_known_pixels": 0,
+    "event": "santa-rosa-wildfire",
+    "ignored_union_pixels": 0,
+    "label_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000193/santa-rosa-wildfire_00000193_post_disaster.json",
+    "label_sha256": "5dfe849992a9550723927dd086f10c7c1a054e15ff5e1a0b5fb528a0ac690cd2",
+    "objects": 149,
+    "objects_by_grade": {
+      "no-damage": 149
+    },
+    "pixels_by_id": {
+      "0": 963187,
+      "1": 85389,
+      "2": 0,
+      "255": 0,
+      "3": 0,
+      "4": 0
+    },
+    "reference_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_perception_pair72_v1/reference/santa-rosa-wildfire_00000193.png",
+    "reference_pixel_sha256": "dca872a571be3bd5f55cf79a0707e527e47b550e426e7140668de9d48a8db4fd",
+    "reference_sha256": "07e437fd36072452904ad51be0458a2067d0b4ccb49ff1a00ac385ed3c63c09c",
+    "sample_id": "santa-rosa-wildfire_00000193",
+    "unknown_polygon_pixels": 0
+  },
+  {
+    "boundary_objects": 0,
+    "conflicting_known_pixels": 0,
+    "event": "santa-rosa-wildfire",
+    "ignored_union_pixels": 0,
+    "label_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000194/santa-rosa-wildfire_00000194_post_disaster.json",
+    "label_sha256": "47e7299afec0e38f62cb49deb36cdbf28560a0ff26a00488c7d5d45f2714ab18",
+    "objects": 358,
+    "objects_by_grade": {
+      "no-damage": 358
+    },
+    "pixels_by_id": {
+      "0": 753877,
+      "1": 294699,
+      "2": 0,
+      "255": 0,
+      "3": 0,
+      "4": 0
+    },
+    "reference_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_perception_pair72_v1/reference/santa-rosa-wildfire_00000194.png",
+    "reference_pixel_sha256": "bda90e693cfa27bd851280b095e7e39e4295906c84f26f67ba980cd3155fdb12",
+    "reference_sha256": "cba2fbd1ce12638bccaf7fe96f878173ca53545697eafd098f2d81200cf6d693",
+    "sample_id": "santa-rosa-wildfire_00000194",
+    "unknown_polygon_pixels": 0
+  },
+  {
+    "boundary_objects": 0,
+    "conflicting_known_pixels": 0,
+    "event": "santa-rosa-wildfire",
+    "ignored_union_pixels": 0,
+    "label_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000227/santa-rosa-wildfire_00000227_post_disaster.json",
+    "label_sha256": "09114514c475d2fbfa6f405f9bf2d4b69df9477d0d16e9f39dd994212786e1e2",
+    "objects": 9,
+    "objects_by_grade": {
+      "destroyed": 6,
+      "major-damage": 2,
+      "no-damage": 1
+    },
+    "pixels_by_id": {
+      "0": 1032360,
+      "1": 2479,
+      "2": 0,
+      "255": 0,
+      "3": 5891,
+      "4": 7846
+    },
+    "reference_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_perception_pair72_v1/reference/santa-rosa-wildfire_00000227.png",
+    "reference_pixel_sha256": "f82ee37070c5613b31f225f8537845525205e3347b6069dc80f20b18309ae626",
+    "reference_sha256": "258961335981db74b258ef03d5caebdfa2e7dc1cd7e07150c2ab9176443c8ac3",
+    "sample_id": "santa-rosa-wildfire_00000227",
+    "unknown_polygon_pixels": 0
+  },
+  {
+    "boundary_objects": 0,
+    "conflicting_known_pixels": 0,
+    "event": "santa-rosa-wildfire",
+    "ignored_union_pixels": 0,
+    "label_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000232/santa-rosa-wildfire_00000232_post_disaster.json",
+    "label_sha256": "43cc26aba17de182718a8beff1f6e3d12613e70353f6dda6355afee9dda24dfa",
+    "objects": 21,
+    "objects_by_grade": {
+      "destroyed": 16,
+      "no-damage": 5
+    },
+    "pixels_by_id": {
+      "0": 1007913,
+      "1": 4486,
+      "2": 0,
+      "255": 0,
+      "3": 0,
+      "4": 36177
+    },
+    "reference_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_perception_pair72_v1/reference/santa-rosa-wildfire_00000232.png",
+    "reference_pixel_sha256": "107abd8c42923e445c0aa55094bead2f429c906eef8190a2db30014678ddd195",
+    "reference_sha256": "6524b2bfa25fffc5d46d59609a5491124681f9a76a147f541703d4b5de78d7c9",
+    "sample_id": "santa-rosa-wildfire_00000232",
+    "unknown_polygon_pixels": 0
+  },
+  {
+    "boundary_objects": 0,
+    "conflicting_known_pixels": 0,
+    "event": "santa-rosa-wildfire",
+    "ignored_union_pixels": 0,
+    "label_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000255/santa-rosa-wildfire_00000255_post_disaster.json",
+    "label_sha256": "99350af10ecc49c523b5e73603340c078de0da7fa99388f9a7016cc863486fcc",
+    "objects": 33,
+    "objects_by_grade": {
+      "destroyed": 22,
+      "major-damage": 1,
+      "no-damage": 10
+    },
+    "pixels_by_id": {
+      "0": 1010183,
+      "1": 12743,
+      "2": 0,
+      "255": 0,
+      "3": 1637,
+      "4": 24013
+    },
+    "reference_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_perception_pair72_v1/reference/santa-rosa-wildfire_00000255.png",
+    "reference_pixel_sha256": "df77326cc7fd2979b81e437021d60a59a7db4ba07e5b4cd0051a16ff05cae0a8",
+    "reference_sha256": "8d309e6455c99d59743f1101514cc757775f35881f12fdd3d4b301e603fea7ff",
+    "sample_id": "santa-rosa-wildfire_00000255",
+    "unknown_polygon_pixels": 0
+  },
+  {
+    "boundary_objects": 0,
+    "conflicting_known_pixels": 0,
+    "event": "santa-rosa-wildfire",
+    "ignored_union_pixels": 138,
+    "label_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000263/santa-rosa-wildfire_00000263_post_disaster.json",
+    "label_sha256": "5113f0e969f468279202843e5fff6b70d1a44f974ae287d438109b6f946f5dec",
+    "objects": 5,
+    "objects_by_grade": {
+      "destroyed": 4,
+      "un-classified": 1
+    },
+    "pixels_by_id": {
+      "0": 1043572,
+      "1": 0,
+      "2": 0,
+      "255": 138,
+      "3": 0,
+      "4": 4866
+    },
+    "reference_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_perception_pair72_v1/reference/santa-rosa-wildfire_00000263.png",
+    "reference_pixel_sha256": "1faf7f0511d026e51072164c6e7974b82c17c63032f7282640f018292638d8d7",
+    "reference_sha256": "3bb980d1c16da35d5f21b84ef61de020da9b7d1b6faae89bb59bd8a2d3c5bfc7",
+    "sample_id": "santa-rosa-wildfire_00000263",
+    "unknown_polygon_pixels": 138
+  },
+  {
+    "boundary_objects": 0,
+    "conflicting_known_pixels": 0,
+    "event": "santa-rosa-wildfire",
+    "ignored_union_pixels": 0,
+    "label_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000266/santa-rosa-wildfire_00000266_post_disaster.json",
+    "label_sha256": "e4fb4f7cb4e2a17f39141585c09ecfedede63dd947f4216595371902f17e44b9",
+    "objects": 7,
+    "objects_by_grade": {
+      "destroyed": 7
+    },
+    "pixels_by_id": {
+      "0": 1044390,
+      "1": 0,
+      "2": 0,
+      "255": 0,
+      "3": 0,
+      "4": 4186
+    },
+    "reference_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_perception_pair72_v1/reference/santa-rosa-wildfire_00000266.png",
+    "reference_pixel_sha256": "5c35be1ec4bcd6f565d679cb64de1834925a9b66f5f951ba945651045ef28527",
+    "reference_sha256": "7c74545736ef8cc0a387d173755a04e5ebc2c357f611a7b4784f09f429f6d36d",
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "unknown_polygon_pixels": 0
+  },
+  {
+    "boundary_objects": 0,
+    "conflicting_known_pixels": 0,
+    "event": "santa-rosa-wildfire",
+    "ignored_union_pixels": 120,
+    "label_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000278/santa-rosa-wildfire_00000278_post_disaster.json",
+    "label_sha256": "eea05c91eb784381fd670868b629216d5bfa0af0b260716110cd1c9cb743535d",
+    "objects": 37,
+    "objects_by_grade": {
+      "destroyed": 12,
+      "major-damage": 2,
+      "no-damage": 22,
+      "un-classified": 1
+    },
+    "pixels_by_id": {
+      "0": 1000438,
+      "1": 29602,
+      "2": 0,
+      "255": 120,
+      "3": 5157,
+      "4": 13259
+    },
+    "reference_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_perception_pair72_v1/reference/santa-rosa-wildfire_00000278.png",
+    "reference_pixel_sha256": "eb5870a9294494cecca5d16db329eb56b385619270368302aeee25ef7ffa862d",
+    "reference_sha256": "db18942d5516bbde2d3fd8048288605e51f3a53f09c18d41f8d30e4b92b9e75d",
+    "sample_id": "santa-rosa-wildfire_00000278",
+    "unknown_polygon_pixels": 120
+  },
+  {
+    "boundary_objects": 0,
+    "conflicting_known_pixels": 0,
+    "event": "santa-rosa-wildfire",
+    "ignored_union_pixels": 563,
+    "label_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000342/santa-rosa-wildfire_00000342_post_disaster.json",
+    "label_sha256": "2fe99a3334911d9eb0edfaa41ea0a7e30f43868ac1e9981cfee9954bb8688aa5",
+    "objects": 77,
+    "objects_by_grade": {
+      "destroyed": 75,
+      "no-damage": 1,
+      "un-classified": 1
+    },
+    "pixels_by_id": {
+      "0": 907882,
+      "1": 1252,
+      "2": 0,
+      "255": 563,
+      "3": 0,
+      "4": 138879
+    },
+    "reference_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_perception_pair72_v1/reference/santa-rosa-wildfire_00000342.png",
+    "reference_pixel_sha256": "ffcebf67b7604b8a088fb6943e2f394e2f612e620c9e95d99d1ff9d2ddd940b7",
+    "reference_sha256": "f46818ee93b7f9da2fe293528ff11643c5747bd84725882affb9c355b4081c21",
+    "sample_id": "santa-rosa-wildfire_00000342",
+    "unknown_polygon_pixels": 563
+  },
+  {
+    "boundary_objects": 0,
+    "conflicting_known_pixels": 0,
+    "event": "santa-rosa-wildfire",
+    "ignored_union_pixels": 0,
+    "label_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000352/santa-rosa-wildfire_00000352_post_disaster.json",
+    "label_sha256": "a27294961b7156915fe93a7ec4f0f6f2afd9b2f11f1ecdbf3fc6e3e03f3f8618",
+    "objects": 102,
+    "objects_by_grade": {
+      "no-damage": 102
+    },
+    "pixels_by_id": {
+      "0": 875515,
+      "1": 173061,
+      "2": 0,
+      "255": 0,
+      "3": 0,
+      "4": 0
+    },
+    "reference_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_perception_pair72_v1/reference/santa-rosa-wildfire_00000352.png",
+    "reference_pixel_sha256": "d3bf3e3220c5f71ecc442a74c045100db98211b4f4509a8a581faee4f5998ce4",
+    "reference_sha256": "7f15a0113804bb97956f12994770191a7ea320bb92ccde96b12284890051dd96",
+    "sample_id": "santa-rosa-wildfire_00000352",
+    "unknown_polygon_pixels": 0
+  }
+]

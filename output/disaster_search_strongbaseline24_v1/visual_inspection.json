@@ -1,0 +1,15 @@
+{
+  "all_four_sheets_viewed": true,
+  "files": {
+    "figures/all24_sheet_1.png": "119a1fcb7cf9ab361089c958617748b7f217da17a92f8baa31d942e4bb67bb3b",
+    "figures/all24_sheet_2.png": "89d6ae37bece58b29f1ebfb123a1595e6613f6e18a005893a3361ad62d75e291",
+    "figures/all24_sheet_3.png": "9b0eff0620dada467ae192bd6352da4c300f0fbabceab495f06aa973b176759e",
+    "figures/all24_sheet_4.png": "29e865e5f03ae1f9224ddbb3a8422438564ce2546063a0a40fe502212b794be8"
+  },
+  "all24_fixed_scene_panels_present": true,
+  "observations": [
+    "No clipped labels or overlapping panels observed",
+    "Source black regions and known false-negative/false-positive differences retained",
+    "Visual review checks presentation and source-image issues;does not create new damage labels"
+  ]
+}

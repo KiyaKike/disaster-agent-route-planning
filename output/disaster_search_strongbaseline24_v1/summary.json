@@ -1,0 +1,23 @@
+{
+  "complete_miss_ids": [],
+  "evaluated_pixels": 25164533,
+  "f1": 0.8284906981562875,
+  "fn": 100596,
+  "fp": 156829,
+  "precision": 0.7985720267253714,
+  "predicted_severe_pixels": 778586,
+  "recall": 0.860738447822602,
+  "reference_negative_scene_ids": [
+    "santa-rosa-wildfire_00000013",
+    "santa-rosa-wildfire_00000108",
+    "santa-rosa-wildfire_00000126",
+    "santa-rosa-wildfire_00000193",
+    "santa-rosa-wildfire_00000194",
+    "santa-rosa-wildfire_00000352"
+  ],
+  "reference_severe_pixels": 722353,
+  "scenes": 24,
+  "severe_positive_scenes": 18,
+  "severe_positive_scenes_with_any_tp": 18,
+  "tp": 621757
+}

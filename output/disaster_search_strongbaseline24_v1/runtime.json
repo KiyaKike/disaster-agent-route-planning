@@ -1,0 +1,34 @@
+{
+  "device": "mps",
+  "forward_seconds": 36.589850038290024,
+  "gpu_rental": false,
+  "loop_seconds": 56.83540450001601,
+  "model_admission": {
+    "checkpoint_keys": [
+      "epoch",
+      "network",
+      "optimizer"
+    ],
+    "checkpoint_loader": "torch.load(weights_only=True,map_location=cpu); no optimizer restored",
+    "epoch": 36,
+    "parameters": 25728597,
+    "source_patches": [
+      "Remove config-class import; supply annotation-only CfgNode=object",
+      "Disable initialization-only ImageNet download; every tensor is strictly loaded from author checkpoint"
+    ],
+    "state_tensors": 236,
+    "strict_state_dict": true
+  },
+  "new_RGB": 0,
+  "new_forward_calls": 98,
+  "packages": {
+    "Pillow": "13.0.0",
+    "numpy": "2.5.4",
+    "torch": "2.9.1",
+    "torchvision": "0.24.1"
+  },
+  "production_calls": 96,
+  "status": "COMPLETE",
+  "synthetic_control_calls": 2,
+  "training": false
+}

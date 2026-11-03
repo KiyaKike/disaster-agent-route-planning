@@ -1,0 +1,7 @@
+..............................................................................................................................................................................................................................................{"stage": "FROZEN_SELECTION_BEFORE_LABEL_DOWNLOAD", "pairs": 72, "event_splits": {"calibration": ["hurricane-harvey", "santa-rosa-wildfire"], "validation": ["hurricane-michael", "mexico-earthquake"], "test": ["midwest-flooding", "socal-fire"]}, "protocol_sha256": "c1d70813cea2dd96190da3ec20d3539959876952f634b992bb0fcf240b196ab4"}
+{"stage": "FROZEN_SELECTION_BEFORE_LABEL_DOWNLOAD", "pairs": 72, "event_splits": {"calibration": ["hurricane-harvey", "santa-rosa-wildfire"], "validation": ["hurricane-michael", "mexico-earthquake"], "test": ["midwest-flooding", "socal-fire"]}, "protocol_sha256": "c1d70813cea2dd96190da3ec20d3539959876952f634b992bb0fcf240b196ab4"}
+...............................................................................................................
+----------------------------------------------------------------------
+Ran 349 tests in 1.659s
+
+OK

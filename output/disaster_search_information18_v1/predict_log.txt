@@ -1,0 +1,20 @@
+/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/.venv_inference/lib/python3.12/site-packages/torch/amp/autocast_mode.py:270: UserWarning: User provided device_type of 'cuda', but CUDA is not available. Disabling
+  warnings.warn(
+{"scene": "EARTHQUAKE-TURKEY_000237", "scenes_complete": 1, "completed_or_reused_calls": 51, "new_calls_this_invocation": 51, "device": "mps"}
+{"scene": "EARTHQUAKE-TURKEY_003472", "scenes_complete": 2, "completed_or_reused_calls": 100, "new_calls_this_invocation": 100, "device": "mps"}
+{"scene": "EARTHQUAKE-TURKEY_005459", "scenes_complete": 3, "completed_or_reused_calls": 149, "new_calls_this_invocation": 149, "device": "mps"}
+{"scene": "EARTHQUAKE-TURKEY_006807", "scenes_complete": 4, "completed_or_reused_calls": 198, "new_calls_this_invocation": 198, "device": "mps"}
+{"scene": "EARTHQUAKE-TURKEY_012987", "scenes_complete": 5, "completed_or_reused_calls": 247, "new_calls_this_invocation": 247, "device": "mps"}
+{"scene": "EARTHQUAKE-TURKEY_015741", "scenes_complete": 6, "completed_or_reused_calls": 296, "new_calls_this_invocation": 296, "device": "mps"}
+{"scene": "PAKISTAN-FLOODING_003197", "scenes_complete": 7, "completed_or_reused_calls": 345, "new_calls_this_invocation": 345, "device": "mps"}
+{"scene": "PAKISTAN-FLOODING_004697", "scenes_complete": 8, "completed_or_reused_calls": 394, "new_calls_this_invocation": 394, "device": "mps"}
+{"scene": "PAKISTAN-FLOODING_006998", "scenes_complete": 9, "completed_or_reused_calls": 443, "new_calls_this_invocation": 443, "device": "mps"}
+{"scene": "PAKISTAN-FLOODING_013475", "scenes_complete": 10, "completed_or_reused_calls": 492, "new_calls_this_invocation": 492, "device": "mps"}
+{"scene": "PAKISTAN-FLOODING_014536", "scenes_complete": 11, "completed_or_reused_calls": 541, "new_calls_this_invocation": 541, "device": "mps"}
+{"scene": "PAKISTAN-FLOODING_017841", "scenes_complete": 12, "completed_or_reused_calls": 590, "new_calls_this_invocation": 590, "device": "mps"}
+{"scene": "TEXAS-TORNADOES_000325", "scenes_complete": 13, "completed_or_reused_calls": 639, "new_calls_this_invocation": 639, "device": "mps"}
+{"scene": "TEXAS-TORNADOES_002697", "scenes_complete": 14, "completed_or_reused_calls": 688, "new_calls_this_invocation": 688, "device": "mps"}
+{"scene": "TEXAS-TORNADOES_002969", "scenes_complete": 15, "completed_or_reused_calls": 737, "new_calls_this_invocation": 737, "device": "mps"}
+{"scene": "TEXAS-TORNADOES_003987", "scenes_complete": 16, "completed_or_reused_calls": 786, "new_calls_this_invocation": 786, "device": "mps"}
+{"scene": "TEXAS-TORNADOES_004417", "scenes_complete": 17, "completed_or_reused_calls": 835, "new_calls_this_invocation": 835, "device": "mps"}
+{"scene": "TEXAS-TORNADOES_004813", "scenes_complete": 18, "completed_or_reused_calls": 884, "new_calls_this_invocation": 884, "device": "mps"}

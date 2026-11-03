@@ -1,0 +1,119 @@
+{
+  "stage": "FITTED_ON_CALIBRATION_NOT_VALIDATED",
+  "fit_protocol": {
+    "version": "real_calibration_fit_v1",
+    "split": "calibration",
+    "sensor": "Separate native/blurred likelihoods from fixed declared_target vs raster-visible presence; exclude null truth. Beta(0.5,0.5) posterior means for sensitivity and false-positive rate.",
+    "prior": "Four equal-frequency raw-change bins, quantile edges computed from image-only scores for all calibration cells. Each bin presence frequency shrunk toward the global Jeffreys-smoothed prevalence with 8 pseudo-observations. Null truths excluded from rate fitting.",
+    "correlation": "Each base cell occurs once per mode. Modes are not pooled as independent evidence; image registry keeps one representative per base cell. No binomial confidence intervals across correlated cells.",
+    "quality": "Mode is a controlled image degradation, not a measured real-world image-quality estimator. Do not use unknown future observation quality to select actions.",
+    "validation": "No threshold tuning, no validation/test labels. Event-specific diagnostics do not change chosen parameters. Calibrated parameter name means fitted on calibration split, not verified out of sample.",
+    "boundary_protocol": "raster_visibility_v2, motivated posthoc by pilot. Cell presence includes visible boundary fragments of >=4 pixels; unique building discovery uses separate deduplicated evaluator."
+  },
+  "likelihood_by_mode": {
+    "blurred": {
+      "n": 1530,
+      "tp": 32,
+      "fp": 0,
+      "fn": 211,
+      "tn": 1287,
+      "precision": 1.0,
+      "recall": 0.13168724279835392,
+      "false_positive_rate": 0.0,
+      "unknown_excluded": 6,
+      "smoothed_sensitivity": 0.13319672131147542,
+      "smoothed_false_positive_rate": 0.00038819875776397513
+    },
+    "native": {
+      "n": 1530,
+      "tp": 208,
+      "fp": 10,
+      "fn": 35,
+      "tn": 1277,
+      "precision": 0.9541284403669725,
+      "recall": 0.8559670781893004,
+      "false_positive_rate": 0.00777000777000777,
+      "unknown_excluded": 6,
+      "smoothed_sensitivity": 0.8545081967213115,
+      "smoothed_false_positive_rate": 0.008152173913043478
+    }
+  },
+  "initial_presence_prior": {
+    "input": "raw_change_score",
+    "bin_edges": [
+      0.07058823529411765,
+      0.09444444444444444,
+      0.12581699346405228
+    ],
+    "edge_assignment": "searchsorted(side=right)",
+    "global_smoothed_prevalence": 0.15904637491835402,
+    "shrinkage_pseudo_observations": 8,
+    "bins": [
+      {
+        "bin": 0,
+        "known_cells": 382,
+        "positive_cells": 20,
+        "unknown_cells": 0,
+        "fitted_presence_probability": 0.05454454102396624
+      },
+      {
+        "bin": 1,
+        "known_cells": 385,
+        "positive_cells": 54,
+        "unknown_cells": 0,
+        "fitted_presence_probability": 0.14064216539274002
+      },
+      {
+        "bin": 2,
+        "known_cells": 381,
+        "positive_cells": 84,
+        "unknown_cells": 0,
+        "fitted_presence_probability": 0.21920917994690703
+      },
+      {
+        "bin": 3,
+        "known_cells": 382,
+        "positive_cells": 85,
+        "unknown_cells": 6,
+        "fitted_presence_probability": 0.2212112076906329
+      }
+    ],
+    "note": "Not forced monotone: RGB change may be unrelated to severe damage. Fitted calibration values only."
+  },
+  "fit_scenes": 24,
+  "fit_events": [
+    "hurricane-harvey",
+    "santa-rosa-wildfire"
+  ],
+  "base_regions": 1536,
+  "source_observations_sha256": "46cafc0e181e764743f1923146a3c8aa4710f3bf7e900fa855dcf69ecc8ee20f",
+  "source_association_sha256": "cbb2239f0c9d268085d7b765f010ae8e830c73067cd8d12494bf03faed3b9128",
+  "public_cue_hashes": {
+    "hurricane-harvey_00000008": "17e0078b96af402ac48a577e78b64a1ed295a9cda958c42d54134d0f68265422",
+    "hurricane-harvey_00000066": "6593262cda5221769985e05ca44be59c2080e410c4adbcfbdda9550c18f736b4",
+    "hurricane-harvey_00000085": "c02873d4213e8ca455f79c6d1cfb6ef9fdea103bcae2396e6f1fdb6d3edd79d0",
+    "hurricane-harvey_00000098": "b55d506beac76cf96d09949688d1ca7221114a105c899c8965ce289e0a9299f1",
+    "hurricane-harvey_00000158": "1ac305efc721cd5075fa65d991bcc29e8e4702edde9559760b27913c2103d688",
+    "hurricane-harvey_00000178": "feb7238a7103e30429d4fa3f9838e3dbfc4c6afdcbcfaf8cced3defa0dfee735",
+    "hurricane-harvey_00000189": "fc542b19cb1730dced9d607f6687b10feb5083805488011f98d6be0494b233be",
+    "hurricane-harvey_00000242": "2b97683e9a7909bf9b3eecd6c486437ae1459306395df7f0c94295923441ab59",
+    "hurricane-harvey_00000268": "114d866f16b3b5436df3f2552dbe4c9006ed3a855ada1872201e558ae2163888",
+    "hurricane-harvey_00000392": "d3edbb36e0ec50476823eafaca98c6e13246e0ee6dad317924023de19c14047a",
+    "hurricane-harvey_00000406": "5548015050e8425ae08f160b0c4f91b4e4837664a824c7ce1b111e1780d96328",
+    "hurricane-harvey_00000505": "453b2823a8bbad9c21575f72b256e63c73a8602424595cbe8212fa60fb60bde5",
+    "santa-rosa-wildfire_00000023": "6b12e3bc75c349fc98d327c7537e07223f9e01c5eed5f6cdda01ba06ce4f70b9",
+    "santa-rosa-wildfire_00000035": "e030603eedc82871242771b4acefd155be04869dd9def17b68e9b9e4f3f2264d",
+    "santa-rosa-wildfire_00000039": "9b1e2446e1ac3d52700d933223221f87b536604ccf8a3a2487922c6435315b8c",
+    "santa-rosa-wildfire_00000056": "02706f1141ba3cb5eb7d33e28fc8160cde18b5b852bfa4826ee63bdd77b78cb2",
+    "santa-rosa-wildfire_00000079": "0c5dd565d0ea1f686025d360186319e42e07587062607a5ee9c37bb94593b416",
+    "santa-rosa-wildfire_00000125": "416fddb7e3afc59404bc8e1b874b0cf9b9dccbd252ada5c624a5d4d9154cd0c9",
+    "santa-rosa-wildfire_00000151": "f120468c3f4556ddec1776c2cd4d123b3b8e4fcce4052a00e56c5670ddf1680f",
+    "santa-rosa-wildfire_00000169": "8921f2cddfa409c7bb98fc791635de285ba5c8a46ec09aee9153f970da86b1f3",
+    "santa-rosa-wildfire_00000177": "7f6fad344fbba69eab16517e995c6844755b8e008524e1ffc5cb576b129d3041",
+    "santa-rosa-wildfire_00000182": "49976d96e20c377106cd0f02023710710b7700eb104fd7b811b632331588ff4c",
+    "santa-rosa-wildfire_00000196": "6645e44c6c4d6c8ae1da0d3d43713fc729b99a2345def1e2223c1eb209dd18fb",
+    "santa-rosa-wildfire_00000220": "226f135da8bfd5d5617ab703e25d3108da510d4bb599ddcb13242606754693ff"
+  },
+  "test_used": false,
+  "validation_used": false
+}

@@ -1,0 +1,58 @@
+{
+  "stage": "FROZEN_PERCEPTION_PILOT_COMPLETED",
+  "device": "mps",
+  "paid_gpu_used": false,
+  "observations": 64,
+  "scenes": 4,
+  "selected_cells": 32,
+  "model_id": "EVER-Z/torchange_example_changeos_swint_on_xview2_best42k",
+  "model_revision": "4007dd10c5eaee67161e2d4a45a43da3ead6c722",
+  "weights_sha256": "81ae6386ceebe225ab6c072cb987b57312fdcfdb2a7f72ab9b30e5e8f1041cc4",
+  "protocol_sha256": "aaa404f0f4e2f351eaa0d367fcd70614ae78f6db86912b0daeae722812f0ceb1",
+  "mini72_protocol_sha256": "957c04b5e681c4fcecc81fcc3b0109ccdf0025c6230ee5dec7a72c48e645f14a",
+  "runner_sha256": "158d2dd0e87f3baa46a9fd24b55b77ef000b2921aa311df37ead01af758f00d7",
+  "input_image_sha256": {
+    "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/hurricane-harvey_00000392_pre_disaster.png": "fc48f26a5d98f71491859ab150d11abdfab291fdba99c80c2ef18c21d71e8e0b",
+    "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/hurricane-harvey_00000392_post_disaster.png": "ba81af9dd77bbe983617d54b50a6be9d051280d56a3333c018c96d941f86fb7a",
+    "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/hurricane-harvey_00000406_pre_disaster.png": "55c7817717dca40ac119d579adb69bbc64bc70baf3c9726e926174771f2c6705",
+    "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/hurricane-harvey_00000406_post_disaster.png": "212c369b93f38fde23d72236ae4b216beb244a3c2062989b1467f416edcb4637",
+    "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/santa-rosa-wildfire_00000220_pre_disaster.png": "3081609436e47deeb7260b8ea9a22ef8581d9b51481e8ef9e5f8d52d127bc046",
+    "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/santa-rosa-wildfire_00000220_post_disaster.png": "98ed55ce18d8eaf42dd2891c9422a239050fcc041a9fd14e8aef87a7d1e042e8",
+    "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/santa-rosa-wildfire_00000125_pre_disaster.png": "a11a9be6c6fef379d4a15d45f46ca3579f6a200922c7148859173c6a382c9ead",
+    "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/santa-rosa-wildfire_00000125_post_disaster.png": "2d42ec904f696c066f91c886aebdf4f4a1f864ae83a8a397b1dbbe1df19367c6"
+  },
+  "load_seconds": 0.31505216599907726,
+  "median_forward_seconds": 0.03251060399634298,
+  "cache_probability_dtype": "float16; JSON declarations and scores are canonical float32-derived outputs",
+  "mean_forward_seconds": 0.0351843098756035,
+  "mean_end_to_end_seconds": 0.044454277359363914,
+  "estimated_calibration_3072_observation_minutes": 1.8014366656308993,
+  "estimated_all72_9216_observation_minutes": 5.404309996892698,
+  "estimate_note": "Linear single-crop extrapolation on this device, excludes model load and scene I/O; not a rented-GPU quote or a completed full pass.",
+  "packages": {
+    "torch": "2.9.1",
+    "torchvision": "0.24.1",
+    "torchange": "0.0.5",
+    "ever-beta": "0.6.1",
+    "numpy": "2.5.4",
+    "Pillow": "13.0.0",
+    "safetensors": "0.8.0"
+  },
+  "torchange_direct_url": {
+    "archive_info": {
+      "hash": "sha256=2927c4c5b4bc2a22f07e3425f93c9f78d32792457620528fc64ea5f82354604b",
+      "hashes": {
+        "sha256": "2927c4c5b4bc2a22f07e3425f93c9f78d32792457620528fc64ea5f82354604b"
+      }
+    },
+    "url": "https://github.com/Z-Zheng/pytorch-change-models/archive/190b07a2eb4c389a5dc3f72802c67f428cdfd6b7.zip"
+  },
+  "labels_read_by_prediction_path": false,
+  "test_inference_run": false,
+  "limitations": [
+    "Native crops are 128x128; the checkpoint was trained on 512x512 patches. Local context/boundary shift must be evaluated.",
+    "Native and blurred modes are derived from the same satellite image; not independent UAV viewpoints.",
+    "Raw score and the four-pixel declaration rule are not calibrated target probabilities.",
+    "Model training exposure is expected for this mini dataset. This pilot does not establish unseen-event generalization."
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "all_aggregations_replayed": true,
+  "all_decisions_and_threshold_scores_replayed": true,
+  "counts": {
+    "actions": 534740,
+    "complete_decision_replays": 17280,
+    "historical_one_stage_exact_trajectories": 8640,
+    "positive_upgrades": 7059,
+    "selected_actions_with_positive_two_stage_gain": 226693,
+    "threshold_scores": 51840,
+    "trajectories": 17280,
+    "upgrades": 18220
+  },
+  "faithful_original_mfens_reproduction": false,
+  "gpu_rented": false,
+  "held_event_fit_ids_checked": true,
+  "historical_one_stage_reproduced": true,
+  "new_fit": false,
+  "new_inference_calls": 0,
+  "prediction_masks_verified": 9216,
+  "source_models_unchanged": true,
+  "stage": "SERIAL_TWO_STAGE_PRIMARY_FULL_REPLAY_PASSED",
+  "validation_or_confirmation_scored": false
+}

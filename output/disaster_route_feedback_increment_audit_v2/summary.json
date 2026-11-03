@@ -1,0 +1,198 @@
+{
+  "primary_cell": "route|y_tp|event",
+  "states": 169,
+  "rows": 2217,
+  "unique_chips": 36,
+  "unique_positive_tp_tiles": 28,
+  "metrics": {
+    "prior": {
+      "n": 2217,
+      "positives": 78,
+      "auroc": 0.4997123026576042,
+      "average_precision": 0.03429937800070914,
+      "log_loss": 0.2268584069079414,
+      "brier": 0.04315223515886599
+    },
+    "prior_feedback": {
+      "n": 2217,
+      "positives": 78,
+      "auroc": 0.3301626688723463,
+      "average_precision": 0.025444689981455666,
+      "log_loss": 0.31820707621134414,
+      "brier": 0.0423608044751134
+    },
+    "post_utility_unfitted": {
+      "n": 2217,
+      "positives": 78,
+      "auroc": 0.6869882883206866,
+      "average_precision": 0.07808123551245484,
+      "log_loss": null,
+      "brier": null
+    },
+    "neighbor_rule_unfitted": {
+      "n": 2217,
+      "positives": 78,
+      "auroc": 0.7048015487706932,
+      "average_precision": 0.10214085818119857,
+      "log_loss": null,
+      "brier": null
+    }
+  },
+  "per_event": {
+    "nepal-flooding": {
+      "prior": {
+        "n": 735,
+        "positives": 58,
+        "auroc": 0.6123363724341669,
+        "average_precision": 0.1265712319077092,
+        "log_loss": 0.4254323190448707,
+        "brier": 0.07515860093993938
+      },
+      "prior_feedback": {
+        "n": 735,
+        "positives": 58,
+        "auroc": 0.3958386390261295,
+        "average_precision": 0.08178736650599858,
+        "log_loss": 0.6974730486693943,
+        "brier": 0.07761571273492926
+      }
+    },
+    "sunda-tsunami": {
+      "prior": {
+        "n": 735,
+        "positives": 0,
+        "auroc": null,
+        "average_precision": null,
+        "log_loss": 0.11650763359715695,
+        "brier": 0.02709943998434194
+      },
+      "prior_feedback": {
+        "n": 735,
+        "positives": 0,
+        "auroc": null,
+        "average_precision": null,
+        "log_loss": 0.10087494666599923,
+        "brier": 0.023465831283688243
+      }
+    },
+    "tuscaloosa-tornado": {
+      "prior": {
+        "n": 747,
+        "positives": 20,
+        "auroc": 0.5999312242090784,
+        "average_precision": 0.09384786862977129,
+        "log_loss": 0.14005250725972646,
+        "brier": 0.0274549468110564
+      },
+      "prior_feedback": {
+        "n": 747,
+        "positives": 20,
+        "auroc": 0.5847317744154058,
+        "average_precision": 0.053532137236854876,
+        "log_loss": 0.15887458017273853,
+        "brier": 0.02626367960862455
+      }
+    }
+  },
+  "feedback_delta": {
+    "auroc": -0.1695496337852579,
+    "average_precision": -0.008854688019253473,
+    "log_loss": 0.09134866930340274,
+    "brier": -0.000791430683752585
+  },
+  "conditional_fixed_prediction_bootstrap": {
+    "auroc": {
+      "ci95": [
+        -0.3089759838738497,
+        -0.008489954855119247
+      ],
+      "valid_reps": 2000
+    },
+    "average_precision": {
+      "ci95": [
+        -0.030081702987045045,
+        0.0028841361169282195
+      ],
+      "valid_reps": 2000
+    },
+    "log_loss": {
+      "ci95": [
+        -0.0025219889579268843,
+        0.25381958733704646
+      ],
+      "valid_reps": 2000
+    }
+  },
+  "cross_fold_donor_training_states": {
+    "nepal-flooding": 56,
+    "sunda-tsunami": 56,
+    "tuscaloosa-tornado": 57
+  },
+  "optimizer_checks": [
+    {
+      "n": 1482,
+      "positives": 20,
+      "success": true,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "n": 1482,
+      "positives": 78,
+      "success": true,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "n": 1470,
+      "positives": 58,
+      "success": true,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "n": 1482,
+      "positives": 20,
+      "success": true,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "n": 1482,
+      "positives": 78,
+      "success": true,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "n": 1470,
+      "positives": 58,
+      "success": true,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "next_pick": {
+    "prior": {
+      "opportunity_states": 42,
+      "hits": 18,
+      "rate": 0.42857142857142855
+    },
+    "prior_feedback": {
+      "opportunity_states": 42,
+      "hits": 18,
+      "rate": 0.42857142857142855
+    },
+    "post_utility_unfitted": {
+      "opportunity_states": 42,
+      "hits": 17,
+      "rate": 0.40476190476190477
+    },
+    "neighbor_rule_unfitted": {
+      "opportunity_states": 42,
+      "hits": 14,
+      "rate": 0.3333333333333333
+    }
+  },
+  "decision": "NOT_ESTABLISHED",
+  "interpretation": "No robust incremental benefit established for this model/features on reused36;not proof that feedback has no value.",
+  "v1_decision_unchanged": true,
+  "scope": "Development cross-validation; repeated prefix/tile rows are not independent samples. Bootstrap conditions on fitted predictions, does not refit or quantify transfer to new events.",
+  "bootstrap_seconds": 1.2239523750031367,
+  "gpu_rental": false,
+  "new_perception_inference": 0
+}

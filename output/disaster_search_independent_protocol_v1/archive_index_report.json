@@ -1,0 +1,96 @@
+{
+  "archives": [
+    {
+      "archive": "EARTHQUAKE-TURKEY.zip",
+      "central_directory_bytes": 559161,
+      "central_directory_offset": 931421731,
+      "index_sha256": "0513291ed0e98b63233b7faff8a043d1e5c7886349065b4975c46e305c2d7064",
+      "member_entries": 3779,
+      "published_md5_not_download_verified": "f4c99f2b91f6978e5fa8edf3d5a60171",
+      "published_size": 931980914,
+      "read_receipts": [
+        {
+          "bytes": 22,
+          "cache_hit": false,
+          "offset": 931980892,
+          "role": "eocd22",
+          "sha256": "a7d36519cdff75d9cc085978ee7ec0601774e25b72796f5e5a7a8bd5e872e534",
+          "url": "https://ndownloader.figshare.com/files/44696047"
+        },
+        {
+          "bytes": 559161,
+          "cache_hit": false,
+          "offset": 931421731,
+          "role": "central_directory",
+          "sha256": "0513291ed0e98b63233b7faff8a043d1e5c7886349065b4975c46e305c2d7064",
+          "url": "https://ndownloader.figshare.com/files/44696047"
+        }
+      ],
+      "status": "INDEX_PARSED_NO_PAYLOAD"
+    },
+    {
+      "archive": "PAKISTAN-FLOODING.zip",
+      "central_directory_bytes": 2095993,
+      "central_directory_offset": 2368729331,
+      "index_sha256": "055c7c2a844c0f7eaaf39b9fabca83edb6ef33e1685e35b6fb86ac9d01086c1d",
+      "member_entries": 14163,
+      "published_md5_not_download_verified": "6f1215e9dd5415764440654c3e6a906a",
+      "published_size": 2370825346,
+      "read_receipts": [
+        {
+          "bytes": 22,
+          "cache_hit": false,
+          "offset": 2370825324,
+          "role": "eocd22",
+          "sha256": "feeb05dc8bb3693d61b34c3016d98c5d7d5aa8a05ee852be43f4e5f3178f9b6f",
+          "url": "https://ndownloader.figshare.com/files/44708299"
+        },
+        {
+          "bytes": 2095993,
+          "cache_hit": false,
+          "offset": 2368729331,
+          "role": "central_directory",
+          "sha256": "055c7c2a844c0f7eaaf39b9fabca83edb6ef33e1685e35b6fb86ac9d01086c1d",
+          "url": "https://ndownloader.figshare.com/files/44708299"
+        }
+      ],
+      "status": "INDEX_PARSED_NO_PAYLOAD"
+    },
+    {
+      "archive": "TEXAS-TORNADOES.zip",
+      "central_directory_bytes": 261811,
+      "central_directory_offset": 361171575,
+      "index_sha256": "3f2b1bd5b8f47e2ad6e35c3f24c210fa6cfe9c6b2fe9f77630125c1905ebbf97",
+      "member_entries": 1819,
+      "published_md5_not_download_verified": "6f0e9005835f527e0857e1f305afaaa4",
+      "published_size": 361433408,
+      "read_receipts": [
+        {
+          "bytes": 22,
+          "cache_hit": false,
+          "offset": 361433386,
+          "role": "eocd22",
+          "sha256": "46095b95a3c46565b7f87fde32a3ccf6bf71724aac8a8ffae741c1df4b32e13a",
+          "url": "https://ndownloader.figshare.com/files/44705161"
+        },
+        {
+          "bytes": 261811,
+          "cache_hit": false,
+          "offset": 361171575,
+          "role": "central_directory",
+          "sha256": "3f2b1bd5b8f47e2ad6e35c3f24c210fa6cfe9c6b2fe9f77630125c1905ebbf97",
+          "url": "https://ndownloader.figshare.com/files/44705161"
+        }
+      ],
+      "status": "INDEX_PARSED_NO_PAYLOAD"
+    }
+  ],
+  "at_utc": "2026-10-25T14:05:36.116655+00:00",
+  "candidate_selection_complete": false,
+  "image_mask_payload_bytes_read": 0,
+  "image_or_label_decode": false,
+  "network_bytes_received_this_run": 2917031,
+  "new_detector_or_policy_fit": false,
+  "stage": "METADATA_INDEX_ATTEMPT_COMPLETE",
+  "validation_or_confirmation_scored": false
+}

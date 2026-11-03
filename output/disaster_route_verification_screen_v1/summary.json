@@ -1,0 +1,749 @@
+{
+  "status": "COMPLETE_MECHANISM_SCREEN_NO_DISTINCT_METHOD",
+  "conditions": 108,
+  "candidate_matches_exact_bayes_conditions": 108,
+  "common_static_optimum_conditions": 48,
+  "paid_calibration_improves_mixture_reward_conditions": 11,
+  "always_calibrate_worse_than_static_conditions": 60,
+  "uninformative_probe_zero_gain_conditions": 36,
+  "fully_correlated_revisit_zero_new_detection_conditions": 36,
+  "independent_branch_enumerations": 23694,
+  "independent_numerical_lp_checks": 216,
+  "tests_passed": 6,
+  "interpretation": "Decision disagreement is real,but this screen is only a computationally equivalent writing of standard Bayesian value-of-information within the frozen policy class. No independent algorithmic gain established. Grid counts are not disaster frequencies.",
+  "decision": "STOP_GENERIC_DISAGREEMENT_GATE_AS_NEW_METHOD",
+  "new_theorem_claim": false,
+  "real_disaster_efficacy": false,
+  "new_model_calls": 0,
+  "gpu_rental": false,
+  "primary": {
+    "budget": 4,
+    "rho": {
+      "exact": "0",
+      "value": 0.0
+    },
+    "c": {
+      "exact": "0",
+      "value": 0.0
+    },
+    "q": {
+      "exact": "1",
+      "value": 1.0
+    },
+    "common_optimal_static": false,
+    "oracle": [
+      {
+        "exact": "1/5",
+        "value": 0.2
+      },
+      {
+        "exact": "111/256",
+        "value": 0.43359375
+      }
+    ],
+    "policies": {
+      "static_mixture": {
+        "name": "A3",
+        "probe": false,
+        "tails": [
+          [
+            "A",
+            3
+          ],
+          [
+            "A",
+            3
+          ]
+        ],
+        "cost_cap": {
+          "exact": "4",
+          "value": 4.0
+        },
+        "values": [
+          {
+            "exact": "0",
+            "value": 0.0
+          },
+          {
+            "exact": "111/256",
+            "value": 0.43359375
+          }
+        ]
+      },
+      "fixed_model0": {
+        "name": "B1",
+        "probe": false,
+        "tails": [
+          [
+            "B",
+            1
+          ],
+          [
+            "B",
+            1
+          ]
+        ],
+        "cost_cap": {
+          "exact": "3",
+          "value": 3.0
+        },
+        "values": [
+          {
+            "exact": "1/5",
+            "value": 0.2
+          },
+          {
+            "exact": "1/5",
+            "value": 0.2
+          }
+        ]
+      },
+      "fixed_model1": {
+        "name": "A3",
+        "probe": false,
+        "tails": [
+          [
+            "A",
+            3
+          ],
+          [
+            "A",
+            3
+          ]
+        ],
+        "cost_cap": {
+          "exact": "4",
+          "value": 4.0
+        },
+        "values": [
+          {
+            "exact": "0",
+            "value": 0.0
+          },
+          {
+            "exact": "111/256",
+            "value": 0.43359375
+          }
+        ]
+      },
+      "always_probe": {
+        "name": "Q:('B', 1)|('A', 2)",
+        "probe": true,
+        "tails": [
+          [
+            "B",
+            1
+          ],
+          [
+            "A",
+            2
+          ]
+        ],
+        "cost_cap": {
+          "exact": "13/4",
+          "value": 3.25
+        },
+        "values": [
+          {
+            "exact": "1/5",
+            "value": 0.2
+          },
+          {
+            "exact": "21/64",
+            "value": 0.328125
+          }
+        ]
+      },
+      "exact_bayes_reference": {
+        "name": "Q:('B', 1)|('A', 2)",
+        "probe": true,
+        "tails": [
+          [
+            "B",
+            1
+          ],
+          [
+            "A",
+            2
+          ]
+        ],
+        "cost_cap": {
+          "exact": "13/4",
+          "value": 3.25
+        },
+        "values": [
+          {
+            "exact": "1/5",
+            "value": 0.2
+          },
+          {
+            "exact": "21/64",
+            "value": 0.328125
+          }
+        ]
+      },
+      "disagreement_screen_candidate": {
+        "name": "Q:('B', 1)|('A', 2)",
+        "probe": true,
+        "tails": [
+          [
+            "B",
+            1
+          ],
+          [
+            "A",
+            2
+          ]
+        ],
+        "cost_cap": {
+          "exact": "13/4",
+          "value": 3.25
+        },
+        "values": [
+          {
+            "exact": "1/5",
+            "value": 0.2
+          },
+          {
+            "exact": "21/64",
+            "value": 0.328125
+          }
+        ]
+      }
+    },
+    "static_strategies": [
+      {
+        "name": "stop0",
+        "probe": false,
+        "tails": [
+          [
+            "stop",
+            0
+          ],
+          [
+            "stop",
+            0
+          ]
+        ],
+        "cost_cap": {
+          "exact": "1",
+          "value": 1.0
+        },
+        "values": [
+          {
+            "exact": "0",
+            "value": 0.0
+          },
+          {
+            "exact": "0",
+            "value": 0.0
+          }
+        ]
+      },
+      {
+        "name": "A3",
+        "probe": false,
+        "tails": [
+          [
+            "A",
+            3
+          ],
+          [
+            "A",
+            3
+          ]
+        ],
+        "cost_cap": {
+          "exact": "4",
+          "value": 4.0
+        },
+        "values": [
+          {
+            "exact": "0",
+            "value": 0.0
+          },
+          {
+            "exact": "111/256",
+            "value": 0.43359375
+          }
+        ]
+      },
+      {
+        "name": "B1",
+        "probe": false,
+        "tails": [
+          [
+            "B",
+            1
+          ],
+          [
+            "B",
+            1
+          ]
+        ],
+        "cost_cap": {
+          "exact": "3",
+          "value": 3.0
+        },
+        "values": [
+          {
+            "exact": "1/5",
+            "value": 0.2
+          },
+          {
+            "exact": "1/5",
+            "value": 0.2
+          }
+        ]
+      }
+    ],
+    "probe_strategies": [
+      {
+        "name": "Q:('stop', 0)|('stop', 0)",
+        "probe": true,
+        "tails": [
+          [
+            "stop",
+            0
+          ],
+          [
+            "stop",
+            0
+          ]
+        ],
+        "cost_cap": {
+          "exact": "5/4",
+          "value": 1.25
+        },
+        "values": [
+          {
+            "exact": "0",
+            "value": 0.0
+          },
+          {
+            "exact": "0",
+            "value": 0.0
+          }
+        ]
+      },
+      {
+        "name": "Q:('stop', 0)|('A', 2)",
+        "probe": true,
+        "tails": [
+          [
+            "stop",
+            0
+          ],
+          [
+            "A",
+            2
+          ]
+        ],
+        "cost_cap": {
+          "exact": "13/4",
+          "value": 3.25
+        },
+        "values": [
+          {
+            "exact": "0",
+            "value": 0.0
+          },
+          {
+            "exact": "21/64",
+            "value": 0.328125
+          }
+        ]
+      },
+      {
+        "name": "Q:('stop', 0)|('B', 1)",
+        "probe": true,
+        "tails": [
+          [
+            "stop",
+            0
+          ],
+          [
+            "B",
+            1
+          ]
+        ],
+        "cost_cap": {
+          "exact": "13/4",
+          "value": 3.25
+        },
+        "values": [
+          {
+            "exact": "0",
+            "value": 0.0
+          },
+          {
+            "exact": "1/5",
+            "value": 0.2
+          }
+        ]
+      },
+      {
+        "name": "Q:('A', 2)|('stop', 0)",
+        "probe": true,
+        "tails": [
+          [
+            "A",
+            2
+          ],
+          [
+            "stop",
+            0
+          ]
+        ],
+        "cost_cap": {
+          "exact": "13/4",
+          "value": 3.25
+        },
+        "values": [
+          {
+            "exact": "0",
+            "value": 0.0
+          },
+          {
+            "exact": "0",
+            "value": 0.0
+          }
+        ]
+      },
+      {
+        "name": "Q:('A', 2)|('A', 2)",
+        "probe": true,
+        "tails": [
+          [
+            "A",
+            2
+          ],
+          [
+            "A",
+            2
+          ]
+        ],
+        "cost_cap": {
+          "exact": "13/4",
+          "value": 3.25
+        },
+        "values": [
+          {
+            "exact": "0",
+            "value": 0.0
+          },
+          {
+            "exact": "21/64",
+            "value": 0.328125
+          }
+        ]
+      },
+      {
+        "name": "Q:('A', 2)|('B', 1)",
+        "probe": true,
+        "tails": [
+          [
+            "A",
+            2
+          ],
+          [
+            "B",
+            1
+          ]
+        ],
+        "cost_cap": {
+          "exact": "13/4",
+          "value": 3.25
+        },
+        "values": [
+          {
+            "exact": "0",
+            "value": 0.0
+          },
+          {
+            "exact": "1/5",
+            "value": 0.2
+          }
+        ]
+      },
+      {
+        "name": "Q:('B', 1)|('stop', 0)",
+        "probe": true,
+        "tails": [
+          [
+            "B",
+            1
+          ],
+          [
+            "stop",
+            0
+          ]
+        ],
+        "cost_cap": {
+          "exact": "13/4",
+          "value": 3.25
+        },
+        "values": [
+          {
+            "exact": "1/5",
+            "value": 0.2
+          },
+          {
+            "exact": "0",
+            "value": 0.0
+          }
+        ]
+      },
+      {
+        "name": "Q:('B', 1)|('A', 2)",
+        "probe": true,
+        "tails": [
+          [
+            "B",
+            1
+          ],
+          [
+            "A",
+            2
+          ]
+        ],
+        "cost_cap": {
+          "exact": "13/4",
+          "value": 3.25
+        },
+        "values": [
+          {
+            "exact": "1/5",
+            "value": 0.2
+          },
+          {
+            "exact": "21/64",
+            "value": 0.328125
+          }
+        ]
+      },
+      {
+        "name": "Q:('B', 1)|('B', 1)",
+        "probe": true,
+        "tails": [
+          [
+            "B",
+            1
+          ],
+          [
+            "B",
+            1
+          ]
+        ],
+        "cost_cap": {
+          "exact": "13/4",
+          "value": 3.25
+        },
+        "values": [
+          {
+            "exact": "1/5",
+            "value": 0.2
+          },
+          {
+            "exact": "1/5",
+            "value": 0.2
+          }
+        ]
+      }
+    ],
+    "robust_no_probe": {
+      "kind": "generic_minimax_regret",
+      "components": [
+        [
+          {
+            "name": "A3",
+            "probe": false,
+            "tails": [
+              [
+                "A",
+                3
+              ],
+              [
+                "A",
+                3
+              ]
+            ],
+            "cost_cap": {
+              "exact": "4",
+              "value": 4.0
+            },
+            "values": [
+              {
+                "exact": "0",
+                "value": 0.0
+              },
+              {
+                "exact": "111/256",
+                "value": 0.43359375
+              }
+            ]
+          },
+          {
+            "exact": "299/555",
+            "value": 0.5387387387387388
+          }
+        ],
+        [
+          {
+            "name": "B1",
+            "probe": false,
+            "tails": [
+              [
+                "B",
+                1
+              ],
+              [
+                "B",
+                1
+              ]
+            ],
+            "cost_cap": {
+              "exact": "3",
+              "value": 3.0
+            },
+            "values": [
+              {
+                "exact": "1/5",
+                "value": 0.2
+              },
+              {
+                "exact": "1/5",
+                "value": 0.2
+              }
+            ]
+          },
+          {
+            "exact": "256/555",
+            "value": 0.46126126126126127
+          }
+        ]
+      ],
+      "values": [
+        {
+          "exact": "256/2775",
+          "value": 0.09225225225225225
+        },
+        {
+          "exact": "231481/710400",
+          "value": 0.32584600225225224
+        }
+      ],
+      "worst_regret": {
+        "exact": "299/2775",
+        "value": 0.10774774774774774
+      },
+      "probe_probability": {
+        "exact": "0",
+        "value": 0.0
+      },
+      "cost_cap": {
+        "exact": "4",
+        "value": 4.0
+      }
+    },
+    "robust_with_optional_probe": {
+      "kind": "generic_minimax_regret",
+      "components": [
+        [
+          {
+            "name": "A3",
+            "probe": false,
+            "tails": [
+              [
+                "A",
+                3
+              ],
+              [
+                "A",
+                3
+              ]
+            ],
+            "cost_cap": {
+              "exact": "4",
+              "value": 4.0
+            },
+            "values": [
+              {
+                "exact": "0",
+                "value": 0.0
+              },
+              {
+                "exact": "111/256",
+                "value": 0.43359375
+              }
+            ]
+          },
+          {
+            "exact": "135/391",
+            "value": 0.3452685421994885
+          }
+        ],
+        [
+          {
+            "name": "Q:('B', 1)|('A', 2)",
+            "probe": true,
+            "tails": [
+              [
+                "B",
+                1
+              ],
+              [
+                "A",
+                2
+              ]
+            ],
+            "cost_cap": {
+              "exact": "13/4",
+              "value": 3.25
+            },
+            "values": [
+              {
+                "exact": "1/5",
+                "value": 0.2
+              },
+              {
+                "exact": "21/64",
+                "value": 0.328125
+              }
+            ]
+          },
+          {
+            "exact": "256/391",
+            "value": 0.6547314578005116
+          }
+        ]
+      ],
+      "values": [
+        {
+          "exact": "256/1955",
+          "value": 0.1309462915601023
+        },
+        {
+          "exact": "36489/100096",
+          "value": 0.3645400415601023
+        }
+      ],
+      "worst_regret": {
+        "exact": "27/391",
+        "value": 0.06905370843989769
+      },
+      "probe_probability": {
+        "exact": "256/391",
+        "value": 0.6547314578005116
+      },
+      "cost_cap": {
+        "exact": "4",
+        "value": 4.0
+      }
+    },
+    "bayes_gain_vs_static": {
+      "exact": "121/2560",
+      "value": 0.047265625
+    }
+  }
+}

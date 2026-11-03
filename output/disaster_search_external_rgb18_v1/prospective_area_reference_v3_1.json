@@ -1,0 +1,65 @@
+{
+  "cohort": "Same18 preselected development pairs, unchanged. No promotion to formal confirmation.",
+  "continuation": "First establish that reference-area measurement and fixed-detector opportunity are usable across the selected events. A useful proxy result alone does not establish a new method or publishable independent efficacy claim.",
+  "executed_now": false,
+  "fitted_model_policy": "Do not reuse building-count utility magnitudes as pixel-area utility. Initial diagnostic has no target calibration or new fitted utility; any source-area fit requires a later separate source-only protocol.",
+  "fixed_geometry": {
+    "BOX_downsample_factor": 8,
+    "cell": [
+      128,
+      128
+    ],
+    "free_coarse": [
+      64,
+      64
+    ],
+    "grid": [
+      4,
+      4
+    ],
+    "native_scene": [
+      512,
+      512
+    ]
+  },
+  "formal_confirmation_enabled": false,
+  "future_detector": "Same frozen ChangeOS, native/blurred crop and severe declaration. Max576 observations, local CPU/MPS; no training or paid GPU.",
+  "future_main_setting": {
+    "budget": 8,
+    "quality": "mixed, native probability0.5",
+    "survey_cost": 1,
+    "upgrade_cost": 2
+  },
+  "initial_controls": [
+    "uniform random survey",
+    "raw RGB change survey",
+    "raw RGB change negative-upgrade gate"
+  ],
+  "limits": [
+    "Shared xBD-derived annotation/model lineage may bias apparent agreement.",
+    "Geographic and original acquisition independence remain unverified.",
+    "Reference masks can contain merged buildings or grading errors; area reward avoids inventing instance IDs but does not remove annotation error.",
+    "These are simulated observation costs from satellite RGB/degradation, not real flight savings."
+  ],
+  "mask_queue_sha256": "6166bd1a0ea30d24e34e206ccd79889c09646e056584273f59c411c44db7dda5",
+  "matching_change": "The old instance-overlap4pixels+10% discovery rule does not define this area metric. Do not report pixel reward as buildings found.",
+  "new_fit_enabled": false,
+  "next_execution_preflight": [
+    "Freeze a separate18-mask extraction protocol and exact-range ledger; do not widen the existing36-RGB extractor.",
+    "Check raw mask modes,512x512 shape and released integer schema before interpreting classes. Values outside0..4 stop the adapter; unknown values are not silently set to zero.",
+    "Check severe-region overlays, missing data, pairing and reference-prediction lineage. These checks remain technical diagnostics, not human label validation."
+  ],
+  "online_information": "Same free RGB cues, action/state and paid boolean detector feedback only. Reference masks, target area, future quality and evaluator overlaps never enter policy.",
+  "other_metrics": [
+    "Published-reference false-positive predicted pixel area, clearly qualified as reference-relative",
+    "per-event native/blurred full-coverage opportunity and reference-only severe area",
+    "budget-vs-covered-area curves, all zero-target and unscorable scenes retained"
+  ],
+  "primary_reward": "At each pixel, intersect the published severe reference with the union of severe detector predictions acquired in paid local observations. Count each covered severe pixel once across survey/upgrade. Report pixel count and fraction of reference severe area.",
+  "reason": "No human annotation resources currently available; do not manufacture instance gold.",
+  "reference": "EBD v2 post-disaster semantic damage PNG, severe classes3/4. Author-reported machine annotation with manual post-supervision; not new human gold or independent field verification.",
+  "statistics": "Average stochastic trajectories within scene, scenes within each of the3 events, then equal event weights. Development descriptive evidence only, seeds are not independent disasters.",
+  "status": "PROSPECTIVE_DIAGNOSTIC_ONLY_NO_MASK_OR_INFERENCE_EXECUTION",
+  "task_change": "Budgeted coverage of severe-damage area under published semantic reference labels. This changes the reward unit; it does not validate the original distinct-building objective.",
+  "zero_reference_scene": "Area recall is null, not100%; include scene counts and reference-relative false positives."
+}

@@ -1,0 +1,8 @@
+{
+  "at_utc": "2026-11-03T06:17:09.865790+00:00",
+  "case_rank04": "Iona Point UAS",
+  "reason": "Published source has no usable overview;fixed ROI compressed base tiles require692 additional64KiB blocks(about45MB),beyond original32MiB cached-source cap. This requirement is determined by TIFF offsets and geometry,not labels or method results.",
+  "cached_source_cap_bytes": 67108864,
+  "original_cached_source_cap_bytes": 33554432,
+  "changes_to_region_model_or_metrics": false
+}

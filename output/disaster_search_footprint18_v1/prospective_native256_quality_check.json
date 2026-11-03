@@ -1,0 +1,117 @@
+{
+  "area_cost_consequence": "Initial256 block observation costs4 native128-equivalent area units; at mixed quality native/blur known only after acquisition. A subsequent native upgrade costs8 under the prior2x upgrade multiplier. At budget8,4+8 is infeasible: no revisit benefit can be claimed. Any later full search protocol must state this and cannot switch primary budget to manufacture a gain.",
+  "basis_decision_sha256": "e9ad500aa71b3e5392d9e64d3ffc02aace8e9a17411f693f9f494f85fa06b615",
+  "basis_evidence_sha256": "dd96d816c300ef7fa3c248801f13de5e96a2a1ca4795c01bc0626111b2793853",
+  "basis_protocol_sha256": "5170b770dc09f48e994c420b32efeeec803c0abbf8ad7cad144370e44570a762",
+  "blocks": [
+    {
+      "block_id": "b00",
+      "bounds_xyxy": [
+        0,
+        0,
+        256,
+        256
+      ],
+      "cost": 4,
+      "paid_cell_ids": [
+        "r00c00",
+        "r00c01",
+        "r01c00",
+        "r01c01"
+      ]
+    },
+    {
+      "block_id": "b01",
+      "bounds_xyxy": [
+        256,
+        0,
+        512,
+        256
+      ],
+      "cost": 4,
+      "paid_cell_ids": [
+        "r00c02",
+        "r00c03",
+        "r01c02",
+        "r01c03"
+      ]
+    },
+    {
+      "block_id": "b10",
+      "bounds_xyxy": [
+        0,
+        256,
+        256,
+        512
+      ],
+      "cost": 4,
+      "paid_cell_ids": [
+        "r02c00",
+        "r02c01",
+        "r03c00",
+        "r03c01"
+      ]
+    },
+    {
+      "block_id": "b11",
+      "bounds_xyxy": [
+        256,
+        256,
+        512,
+        512
+      ],
+      "cost": 4,
+      "paid_cell_ids": [
+        "r02c02",
+        "r02c03",
+        "r03c02",
+        "r03c03"
+      ]
+    }
+  ],
+  "blur_limitation": "Same original pixels with synthetic degradation; not a new UAV view, independent observation or measured sensor quality.",
+  "blur_recipe": "For each purchased256 RGB date apply exactly existing degrade_image(...,blurred):GaussianBlur1.5 ->128 BOX ->256 BILINEAR. Same normalization/checkpoint/decoder; no additional resize or free-coarse canvas.",
+  "canonical_output": "256 boolean severe mask, >=4px declaration from full purchased256 footprint. No predictions from unpurchased pixels.",
+  "checkpoint": {
+    "code_commit": "190b07a2eb4c389a5dc3f72802c67f428cdfd6b7",
+    "config_sha256": "dd452bc568ff31a4706687b83d2ce0712b136f23d22705834311592d98a31d23",
+    "model_id": "EVER-Z/torchange_example_changeos_swint_on_xview2_best42k",
+    "revision": "4007dd10c5eaee67161e2d4a45a43da3ead6c722",
+    "weights_sha256": "81ae6386ceebe225ab6c072cb987b57312fdcfdb2a7f72ab9b30e5e8f1041cc4"
+  },
+  "client_report_date": "2026-10-26",
+  "cohort_status": "These18 remain feasibility/development. No new human annotation, independent geography or confirmed physical accuracy.",
+  "engineering_measurement_screen": "Advance mixed-quality feasibility only if blurred256 retains nonzero published severe-reference overlap in BOTH reference-positive events. Keep native-only positive result separate if this fails; do not retune blur or select another input condition.",
+  "evaluation": "Full16-area native/blur per-scene/event coverage, false pixels, gained/lost/preserved reference pixels; bothdomains; all18 includingzero targets. No new planner, utility fit or adaptive search scores.",
+  "fixed_primary_condition": "native256_contiguous",
+  "free_baseline": "Reuse free-coarse-only predictions and keep free detections out of paid incremental credit.",
+  "max_new_forward_calls": 74,
+  "new_inference": "Same18 pairs x4 fixed blocks =72 blurred256 calls, preceded by same2 locked128 native positive controls. Reuse72 native256 caches unchanged.",
+  "new_search_runs": 0,
+  "no_hidden_warmup": true,
+  "no_training_paid_gpu_download_or_reserved_scores": true,
+  "question": "Does the fixed synthetic blur preserve usable severe-reference coverage for native256 observation footprints?",
+  "required_preflight": "Verify byte-for-byte equality of blur inputs to frozen shared helper,4-block geometry, canonical256 output, allowed information and fixed code hashes before model calls.",
+  "secondary_context256_mixed_extension_enabled": false,
+  "selected_ids": [
+    "EARTHQUAKE-TURKEY_000237",
+    "EARTHQUAKE-TURKEY_003472",
+    "EARTHQUAKE-TURKEY_005459",
+    "EARTHQUAKE-TURKEY_006807",
+    "EARTHQUAKE-TURKEY_012987",
+    "EARTHQUAKE-TURKEY_015741",
+    "PAKISTAN-FLOODING_003197",
+    "PAKISTAN-FLOODING_004697",
+    "PAKISTAN-FLOODING_006998",
+    "PAKISTAN-FLOODING_013475",
+    "PAKISTAN-FLOODING_014536",
+    "PAKISTAN-FLOODING_017841",
+    "TEXAS-TORNADOES_000325",
+    "TEXAS-TORNADOES_002697",
+    "TEXAS-TORNADOES_002969",
+    "TEXAS-TORNADOES_003987",
+    "TEXAS-TORNADOES_004417",
+    "TEXAS-TORNADOES_004813"
+  ],
+  "status": "PROSPECTIVE_NOT_EXECUTED"
+}

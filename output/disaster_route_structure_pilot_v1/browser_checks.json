@@ -1,0 +1,393 @@
+{
+  "status": "PASS",
+  "configurations": 54,
+  "results": [
+    {
+      "sample": "hurricane-harvey_00000392",
+      "policy": "pre_static",
+      "budget": 300,
+      "observations": 4,
+      "status": "PASS"
+    },
+    {
+      "sample": "hurricane-harvey_00000392",
+      "policy": "pre_static",
+      "budget": 600,
+      "observations": 11,
+      "status": "PASS"
+    },
+    {
+      "sample": "hurricane-harvey_00000392",
+      "policy": "pre_static",
+      "budget": 900,
+      "observations": 20,
+      "status": "PASS"
+    },
+    {
+      "sample": "hurricane-harvey_00000392",
+      "policy": "post_static",
+      "budget": 300,
+      "observations": 4,
+      "status": "PASS"
+    },
+    {
+      "sample": "hurricane-harvey_00000392",
+      "policy": "post_static",
+      "budget": 600,
+      "observations": 12,
+      "status": "PASS"
+    },
+    {
+      "sample": "hurricane-harvey_00000392",
+      "policy": "post_static",
+      "budget": 900,
+      "observations": 20,
+      "status": "PASS"
+    },
+    {
+      "sample": "hurricane-harvey_00000392",
+      "policy": "online_frozen",
+      "budget": 300,
+      "observations": 4,
+      "status": "PASS"
+    },
+    {
+      "sample": "hurricane-harvey_00000392",
+      "policy": "online_frozen",
+      "budget": 600,
+      "observations": 13,
+      "status": "PASS"
+    },
+    {
+      "sample": "hurricane-harvey_00000392",
+      "policy": "online_frozen",
+      "budget": 900,
+      "observations": 19,
+      "status": "PASS"
+    },
+    {
+      "sample": "hurricane-harvey_00000392",
+      "policy": "online_neighbor",
+      "budget": 300,
+      "observations": 4,
+      "status": "PASS"
+    },
+    {
+      "sample": "hurricane-harvey_00000392",
+      "policy": "online_neighbor",
+      "budget": 600,
+      "observations": 12,
+      "status": "PASS"
+    },
+    {
+      "sample": "hurricane-harvey_00000392",
+      "policy": "online_neighbor",
+      "budget": 900,
+      "observations": 20,
+      "status": "PASS"
+    },
+    {
+      "sample": "hurricane-harvey_00000392",
+      "policy": "online_structure",
+      "budget": 300,
+      "observations": 4,
+      "status": "PASS"
+    },
+    {
+      "sample": "hurricane-harvey_00000392",
+      "policy": "online_structure",
+      "budget": 600,
+      "observations": 13,
+      "status": "PASS"
+    },
+    {
+      "sample": "hurricane-harvey_00000392",
+      "policy": "online_structure",
+      "budget": 900,
+      "observations": 19,
+      "status": "PASS"
+    },
+    {
+      "sample": "hurricane-harvey_00000392",
+      "policy": "online_structure_guard",
+      "budget": 300,
+      "observations": 4,
+      "status": "PASS"
+    },
+    {
+      "sample": "hurricane-harvey_00000392",
+      "policy": "online_structure_guard",
+      "budget": 600,
+      "observations": 13,
+      "status": "PASS"
+    },
+    {
+      "sample": "hurricane-harvey_00000392",
+      "policy": "online_structure_guard",
+      "budget": 900,
+      "observations": 19,
+      "status": "PASS"
+    },
+    {
+      "sample": "santa-rosa-wildfire_00000220",
+      "policy": "pre_static",
+      "budget": 300,
+      "observations": 6,
+      "status": "PASS"
+    },
+    {
+      "sample": "santa-rosa-wildfire_00000220",
+      "policy": "pre_static",
+      "budget": 600,
+      "observations": 11,
+      "status": "PASS"
+    },
+    {
+      "sample": "santa-rosa-wildfire_00000220",
+      "policy": "pre_static",
+      "budget": 900,
+      "observations": 19,
+      "status": "PASS"
+    },
+    {
+      "sample": "santa-rosa-wildfire_00000220",
+      "policy": "post_static",
+      "budget": 300,
+      "observations": 5,
+      "status": "PASS"
+    },
+    {
+      "sample": "santa-rosa-wildfire_00000220",
+      "policy": "post_static",
+      "budget": 600,
+      "observations": 12,
+      "status": "PASS"
+    },
+    {
+      "sample": "santa-rosa-wildfire_00000220",
+      "policy": "post_static",
+      "budget": 900,
+      "observations": 19,
+      "status": "PASS"
+    },
+    {
+      "sample": "santa-rosa-wildfire_00000220",
+      "policy": "online_frozen",
+      "budget": 300,
+      "observations": 4,
+      "status": "PASS"
+    },
+    {
+      "sample": "santa-rosa-wildfire_00000220",
+      "policy": "online_frozen",
+      "budget": 600,
+      "observations": 12,
+      "status": "PASS"
+    },
+    {
+      "sample": "santa-rosa-wildfire_00000220",
+      "policy": "online_frozen",
+      "budget": 900,
+      "observations": 21,
+      "status": "PASS"
+    },
+    {
+      "sample": "santa-rosa-wildfire_00000220",
+      "policy": "online_neighbor",
+      "budget": 300,
+      "observations": 6,
+      "status": "PASS"
+    },
+    {
+      "sample": "santa-rosa-wildfire_00000220",
+      "policy": "online_neighbor",
+      "budget": 600,
+      "observations": 13,
+      "status": "PASS"
+    },
+    {
+      "sample": "santa-rosa-wildfire_00000220",
+      "policy": "online_neighbor",
+      "budget": 900,
+      "observations": 20,
+      "status": "PASS"
+    },
+    {
+      "sample": "santa-rosa-wildfire_00000220",
+      "policy": "online_structure",
+      "budget": 300,
+      "observations": 4,
+      "status": "PASS"
+    },
+    {
+      "sample": "santa-rosa-wildfire_00000220",
+      "policy": "online_structure",
+      "budget": 600,
+      "observations": 12,
+      "status": "PASS"
+    },
+    {
+      "sample": "santa-rosa-wildfire_00000220",
+      "policy": "online_structure",
+      "budget": 900,
+      "observations": 21,
+      "status": "PASS"
+    },
+    {
+      "sample": "santa-rosa-wildfire_00000220",
+      "policy": "online_structure_guard",
+      "budget": 300,
+      "observations": 4,
+      "status": "PASS"
+    },
+    {
+      "sample": "santa-rosa-wildfire_00000220",
+      "policy": "online_structure_guard",
+      "budget": 600,
+      "observations": 12,
+      "status": "PASS"
+    },
+    {
+      "sample": "santa-rosa-wildfire_00000220",
+      "policy": "online_structure_guard",
+      "budget": 900,
+      "observations": 21,
+      "status": "PASS"
+    },
+    {
+      "sample": "mexico-earthquake_00000064",
+      "policy": "pre_static",
+      "budget": 300,
+      "observations": 5,
+      "status": "PASS"
+    },
+    {
+      "sample": "mexico-earthquake_00000064",
+      "policy": "pre_static",
+      "budget": 600,
+      "observations": 13,
+      "status": "PASS"
+    },
+    {
+      "sample": "mexico-earthquake_00000064",
+      "policy": "pre_static",
+      "budget": 900,
+      "observations": 23,
+      "status": "PASS"
+    },
+    {
+      "sample": "mexico-earthquake_00000064",
+      "policy": "post_static",
+      "budget": 300,
+      "observations": 5,
+      "status": "PASS"
+    },
+    {
+      "sample": "mexico-earthquake_00000064",
+      "policy": "post_static",
+      "budget": 600,
+      "observations": 13,
+      "status": "PASS"
+    },
+    {
+      "sample": "mexico-earthquake_00000064",
+      "policy": "post_static",
+      "budget": 900,
+      "observations": 21,
+      "status": "PASS"
+    },
+    {
+      "sample": "mexico-earthquake_00000064",
+      "policy": "online_frozen",
+      "budget": 300,
+      "observations": 4,
+      "status": "PASS"
+    },
+    {
+      "sample": "mexico-earthquake_00000064",
+      "policy": "online_frozen",
+      "budget": 600,
+      "observations": 12,
+      "status": "PASS"
+    },
+    {
+      "sample": "mexico-earthquake_00000064",
+      "policy": "online_frozen",
+      "budget": 900,
+      "observations": 21,
+      "status": "PASS"
+    },
+    {
+      "sample": "mexico-earthquake_00000064",
+      "policy": "online_neighbor",
+      "budget": 300,
+      "observations": 4,
+      "status": "PASS"
+    },
+    {
+      "sample": "mexico-earthquake_00000064",
+      "policy": "online_neighbor",
+      "budget": 600,
+      "observations": 11,
+      "status": "PASS"
+    },
+    {
+      "sample": "mexico-earthquake_00000064",
+      "policy": "online_neighbor",
+      "budget": 900,
+      "observations": 19,
+      "status": "PASS"
+    },
+    {
+      "sample": "mexico-earthquake_00000064",
+      "policy": "online_structure",
+      "budget": 300,
+      "observations": 4,
+      "status": "PASS"
+    },
+    {
+      "sample": "mexico-earthquake_00000064",
+      "policy": "online_structure",
+      "budget": 600,
+      "observations": 12,
+      "status": "PASS"
+    },
+    {
+      "sample": "mexico-earthquake_00000064",
+      "policy": "online_structure",
+      "budget": 900,
+      "observations": 23,
+      "status": "PASS"
+    },
+    {
+      "sample": "mexico-earthquake_00000064",
+      "policy": "online_structure_guard",
+      "budget": 300,
+      "observations": 4,
+      "status": "PASS"
+    },
+    {
+      "sample": "mexico-earthquake_00000064",
+      "policy": "online_structure_guard",
+      "budget": 600,
+      "observations": 12,
+      "status": "PASS"
+    },
+    {
+      "sample": "mexico-earthquake_00000064",
+      "policy": "online_structure_guard",
+      "budget": 900,
+      "observations": 23,
+      "status": "PASS"
+    }
+  ],
+  "play": {
+    "frame": 2,
+    "paused": true
+  },
+  "mobile": {
+    "width": 390,
+    "scrollWidth": 390,
+    "canvasWidth": 328
+  }
+}

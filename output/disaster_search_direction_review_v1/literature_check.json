@@ -1,0 +1,90 @@
+{
+  "additional_candidate_not_method_verified": {
+    "status": "Publisher search result found, direct page403; no detailed method claim used.",
+    "title": "Visual-language active search for wide-area remote sensing imagery",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0031320326000695"
+  },
+  "as_of": "2026-10-25",
+  "closest_works": [
+    {
+      "authors": [
+        "Quan Nguyen",
+        "Arghavan Modiri",
+        "Roman Garnett"
+      ],
+      "axis": "Different-cost feedback sources overlap; serial same-image fallible detector and unique-building scoring differ but do not establish novelty.",
+      "status": "ICML2021",
+      "title": "Nonmyopic Multifidelity Active Search",
+      "url": "https://proceedings.mlr.press/v139/nguyen21f.html",
+      "verified_level": "Official proceedings metadata and abstract; full text previously checked locally.",
+      "year": 2021
+    },
+    {
+      "authors": [
+        "Anindya Sarkar",
+        "Michael Lanier",
+        "Scott Alfeld",
+        "Jiarui Feng",
+        "Roman Garnett",
+        "Nathan Jacobs",
+        "Yevgeniy Vorobeychik"
+      ],
+      "axis": "Same broad image/subregion/budget/feedback structure; includes decision-time adaptation. Our paired imperfect observations and building-instance objective require a precise comparison.",
+      "status": "WACV2024; arXivv3 comments confirm acceptance",
+      "title": "A Visual Active Search Framework for Geospatial Exploration",
+      "url": "https://arxiv.org/abs/2211.15788v3",
+      "verified_level": "Author abstract, publication comment and official proceedings indexed first page. Direct CVF open returned403.",
+      "year": 2024
+    },
+    {
+      "authors": [
+        "Jowaria Khan",
+        "Anindya Sarkar",
+        "Yevgeniy Vorobeychik",
+        "Elizabeth Bondi-Kelly"
+      ],
+      "axis": "Sparse-data geospatial discovery with online meta-learning and concept relevance overlaps a generic cross-event adaptation story. Different target/observation settings alone do not prove a new mechanism.",
+      "status": "arXiv2602.17605v2; conference acceptance not verified in this review",
+      "title": "Adapting Actively on the Fly: Relevance-Guided Online Meta-Learning with Latent Concepts for Geospatial Discovery",
+      "url": "https://arxiv.org/html/2602.17605v2",
+      "verified_level": "Primary full-text abstract and structure.",
+      "year": 2026
+    },
+    {
+      "authors": [
+        "Anindya Sarkar",
+        "Srikumar Sastry",
+        "Aleksis Pirinen",
+        "Nathan Jacobs",
+        "Yevgeniy Vorobeychik"
+      ],
+      "axis": "Partial-view geospatial search and target-conditioned planning overlap broad POMDP-search claims. Its diffusion reconstruction mechanism differs from our fixed low/high-quality cache; partial visibility is not the same as detector miscalibration.",
+      "status": "AAMAS2026 according to author arXiv comments and lab publication page",
+      "title": "DiffVAS: Diffusion-Guided Visual Active Search in Partially Observable Environments",
+      "url": "https://arxiv.org/abs/2605.15519",
+      "verified_level": "Primary abstract and author lab bibliography; no numerical comparison adopted.",
+      "year": 2026
+    },
+    {
+      "authors": [
+        "Orlando Leone",
+        "Niclas Pokel",
+        "Pehuén Moure",
+        "Yingqiang Gao",
+        "Roman Boehringer"
+      ],
+      "axis": "Joint weak/strong feedback and shared-budget rollout already studied for translation error discovery; mechanism overlap must be addressed, domain change alone is insufficient.",
+      "status": "arXiv2609.26025v1 preprint",
+      "title": "MICRO: Multi-Fidelity Active Search for Severe Error Discovery",
+      "url": "https://arxiv.org/abs/2609.26025",
+      "verified_level": "Primary abstract; full text previously checked locally.",
+      "year": 2026
+    }
+  ],
+  "keyword_groups": [
+    "active search + model misspecification/distribution shift",
+    "multi-fidelity active search + remote sensing/disaster",
+    "visual active search + geospatial + adaptation/partial observation"
+  ],
+  "scope": "Targeted comparison only, not systematic literature review; no absence-based novelty claim."
+}

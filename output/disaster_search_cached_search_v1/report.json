@@ -1,0 +1,2391 @@
+{
+  "stage": "CALIBRATION_SEARCH_ENGINEERING_DIAGNOSTICS",
+  "episodes": 2520,
+  "scenes": 24,
+  "events": 2,
+  "protocol_sha256": "ea382ddf716df96460f8fd99491477d24a229b0aeae1aa593b318ceb62c845af",
+  "runner_sha256": "29059dbb824df8fd463d4ab006e4b739274c6979755d83a7c299bed0ca1e6829",
+  "validation_used": false,
+  "test_used": false,
+  "paid_gpu_used": false,
+  "new_inference_run": false,
+  "summary": [
+    {
+      "scenario": "native_survey",
+      "budget": 8,
+      "policy": "prior",
+      "scenes": 24,
+      "quality_maps": 1,
+      "sum_buildings_found": 112,
+      "micro_recall": 0.24669603524229075,
+      "macro_recall_target_scenes": 0.1968374527915185,
+      "sum_false_positive_cells": 2,
+      "sum_unmatched_positive_observations": 2,
+      "mean_upgrades": 0,
+      "scenes_with_discovery": 10,
+      "mean_feedback_rank_changes": 0
+    },
+    {
+      "scenario": "native_survey",
+      "budget": 8,
+      "policy": "pooled",
+      "scenes": 24,
+      "quality_maps": 1,
+      "sum_buildings_found": 112,
+      "micro_recall": 0.24669603524229075,
+      "macro_recall_target_scenes": 0.1968374527915185,
+      "sum_false_positive_cells": 2,
+      "sum_unmatched_positive_observations": 2,
+      "mean_upgrades": 0,
+      "scenes_with_discovery": 10,
+      "mean_feedback_rank_changes": 0
+    },
+    {
+      "scenario": "native_survey",
+      "budget": 8,
+      "policy": "quality_gate",
+      "scenes": 24,
+      "quality_maps": 1,
+      "sum_buildings_found": 112,
+      "micro_recall": 0.24669603524229075,
+      "macro_recall_target_scenes": 0.1968374527915185,
+      "sum_false_positive_cells": 2,
+      "sum_unmatched_positive_observations": 2,
+      "mean_upgrades": 0,
+      "scenes_with_discovery": 10,
+      "mean_feedback_rank_changes": 0
+    },
+    {
+      "scenario": "native_survey",
+      "budget": 8,
+      "policy": "quality",
+      "scenes": 24,
+      "quality_maps": 1,
+      "sum_buildings_found": 112,
+      "micro_recall": 0.24669603524229075,
+      "macro_recall_target_scenes": 0.1968374527915185,
+      "sum_false_positive_cells": 2,
+      "sum_unmatched_positive_observations": 2,
+      "mean_upgrades": 0,
+      "scenes_with_discovery": 10,
+      "mean_feedback_rank_changes": 0
+    },
+    {
+      "scenario": "native_survey",
+      "budget": 8,
+      "policy": "adaptive_prior",
+      "scenes": 24,
+      "quality_maps": 1,
+      "sum_buildings_found": 116,
+      "micro_recall": 0.2555066079295154,
+      "macro_recall_target_scenes": 0.23436289868800514,
+      "sum_false_positive_cells": 0,
+      "sum_unmatched_positive_observations": 0,
+      "mean_upgrades": 0,
+      "scenes_with_discovery": 9,
+      "mean_feedback_rank_changes": 4.166666666666667
+    },
+    {
+      "scenario": "native_survey",
+      "budget": 16,
+      "policy": "prior",
+      "scenes": 24,
+      "quality_maps": 1,
+      "sum_buildings_found": 196,
+      "micro_recall": 0.43171806167400884,
+      "macro_recall_target_scenes": 0.43365613564164396,
+      "sum_false_positive_cells": 4,
+      "sum_unmatched_positive_observations": 4,
+      "mean_upgrades": 0,
+      "scenes_with_discovery": 13,
+      "mean_feedback_rank_changes": 0
+    },
+    {
+      "scenario": "native_survey",
+      "budget": 16,
+      "policy": "pooled",
+      "scenes": 24,
+      "quality_maps": 1,
+      "sum_buildings_found": 196,
+      "micro_recall": 0.43171806167400884,
+      "macro_recall_target_scenes": 0.43365613564164396,
+      "sum_false_positive_cells": 4,
+      "sum_unmatched_positive_observations": 4,
+      "mean_upgrades": 0,
+      "scenes_with_discovery": 13,
+      "mean_feedback_rank_changes": 0
+    },
+    {
+      "scenario": "native_survey",
+      "budget": 16,
+      "policy": "quality_gate",
+      "scenes": 24,
+      "quality_maps": 1,
+      "sum_buildings_found": 196,
+      "micro_recall": 0.43171806167400884,
+      "macro_recall_target_scenes": 0.43365613564164396,
+      "sum_false_positive_cells": 4,
+      "sum_unmatched_positive_observations": 4,
+      "mean_upgrades": 0,
+      "scenes_with_discovery": 13,
+      "mean_feedback_rank_changes": 0
+    },
+    {
+      "scenario": "native_survey",
+      "budget": 16,
+      "policy": "quality",
+      "scenes": 24,
+      "quality_maps": 1,
+      "sum_buildings_found": 196,
+      "micro_recall": 0.43171806167400884,
+      "macro_recall_target_scenes": 0.43365613564164396,
+      "sum_false_positive_cells": 4,
+      "sum_unmatched_positive_observations": 4,
+      "mean_upgrades": 0,
+      "scenes_with_discovery": 13,
+      "mean_feedback_rank_changes": 0
+    },
+    {
+      "scenario": "native_survey",
+      "budget": 16,
+      "policy": "adaptive_prior",
+      "scenes": 24,
+      "quality_maps": 1,
+      "sum_buildings_found": 185,
+      "micro_recall": 0.40748898678414097,
+      "macro_recall_target_scenes": 0.3879547781755806,
+      "sum_false_positive_cells": 3,
+      "sum_unmatched_positive_observations": 3,
+      "mean_upgrades": 0,
+      "scenes_with_discovery": 11,
+      "mean_feedback_rank_changes": 6.875
+    },
+    {
+      "scenario": "native_survey",
+      "budget": 32,
+      "policy": "prior",
+      "scenes": 24,
+      "quality_maps": 1,
+      "sum_buildings_found": 311,
+      "micro_recall": 0.6850220264317181,
+      "macro_recall_target_scenes": 0.6766329680123445,
+      "sum_false_positive_cells": 7,
+      "sum_unmatched_positive_observations": 9,
+      "mean_upgrades": 0,
+      "scenes_with_discovery": 13,
+      "mean_feedback_rank_changes": 0
+    },
+    {
+      "scenario": "native_survey",
+      "budget": 32,
+      "policy": "pooled",
+      "scenes": 24,
+      "quality_maps": 1,
+      "sum_buildings_found": 311,
+      "micro_recall": 0.6850220264317181,
+      "macro_recall_target_scenes": 0.6766329680123445,
+      "sum_false_positive_cells": 7,
+      "sum_unmatched_positive_observations": 9,
+      "mean_upgrades": 0,
+      "scenes_with_discovery": 13,
+      "mean_feedback_rank_changes": 0
+    },
+    {
+      "scenario": "native_survey",
+      "budget": 32,
+      "policy": "quality_gate",
+      "scenes": 24,
+      "quality_maps": 1,
+      "sum_buildings_found": 311,
+      "micro_recall": 0.6850220264317181,
+      "macro_recall_target_scenes": 0.6766329680123445,
+      "sum_false_positive_cells": 7,
+      "sum_unmatched_positive_observations": 9,
+      "mean_upgrades": 0,
+      "scenes_with_discovery": 13,
+      "mean_feedback_rank_changes": 0
+    },
+    {
+      "scenario": "native_survey",
+      "budget": 32,
+      "policy": "quality",
+      "scenes": 24,
+      "quality_maps": 1,
+      "sum_buildings_found": 311,
+      "micro_recall": 0.6850220264317181,
+      "macro_recall_target_scenes": 0.6766329680123445,
+      "sum_false_positive_cells": 7,
+      "sum_unmatched_positive_observations": 9,
+      "mean_upgrades": 0,
+      "scenes_with_discovery": 13,
+      "mean_feedback_rank_changes": 0
+    },
+    {
+      "scenario": "native_survey",
+      "budget": 32,
+      "policy": "adaptive_prior",
+      "scenes": 24,
+      "quality_maps": 1,
+      "sum_buildings_found": 306,
+      "micro_recall": 0.6740088105726872,
+      "macro_recall_target_scenes": 0.6669257320607648,
+      "sum_false_positive_cells": 7,
+      "sum_unmatched_positive_observations": 9,
+      "mean_upgrades": 0,
+      "scenes_with_discovery": 13,
+      "mean_feedback_rank_changes": 9.666666666666666
+    },
+    {
+      "scenario": "mixed_survey",
+      "budget": 8,
+      "policy": "prior",
+      "scenes": 24,
+      "quality_maps": 5,
+      "sum_buildings_found": 72.4,
+      "micro_recall": 0.15947136563876652,
+      "macro_recall_target_scenes": 0.14499583256513696,
+      "sum_false_positive_cells": 1,
+      "sum_unmatched_positive_observations": 1.2,
+      "mean_upgrades": 0,
+      "scenes_with_discovery": 9.4,
+      "mean_feedback_rank_changes": 0
+    },
+    {
+      "scenario": "mixed_survey",
+      "budget": 8,
+      "policy": "pooled",
+      "scenes": 24,
+      "quality_maps": 5,
+      "sum_buildings_found": 72.4,
+      "micro_recall": 0.15947136563876652,
+      "macro_recall_target_scenes": 0.14499583256513696,
+      "sum_false_positive_cells": 1,
+      "sum_unmatched_positive_observations": 1.2,
+      "mean_upgrades": 0,
+      "scenes_with_discovery": 9.4,
+      "mean_feedback_rank_changes": 0
+    },
+    {
+      "scenario": "mixed_survey",
+      "budget": 8,
+      "policy": "quality_gate",
+      "scenes": 24,
+      "quality_maps": 5,
+      "sum_buildings_found": 72.4,
+      "micro_recall": 0.15947136563876652,
+      "macro_recall_target_scenes": 0.14499583256513696,
+      "sum_false_positive_cells": 1,
+      "sum_unmatched_positive_observations": 1.2,
+      "mean_upgrades": 0.075,
+      "scenes_with_discovery": 9.4,
+      "mean_feedback_rank_changes": 0
+    },
+    {
+      "scenario": "mixed_survey",
+      "budget": 8,
+      "policy": "quality",
+      "scenes": 24,
+      "quality_maps": 5,
+      "sum_buildings_found": 72.4,
+      "micro_recall": 0.15947136563876652,
+      "macro_recall_target_scenes": 0.14499583256513696,
+      "sum_false_positive_cells": 1,
+      "sum_unmatched_positive_observations": 1.2,
+      "mean_upgrades": 0.075,
+      "scenes_with_discovery": 9.4,
+      "mean_feedback_rank_changes": 0
+    },
+    {
+      "scenario": "mixed_survey",
+      "budget": 8,
+      "policy": "adaptive_prior",
+      "scenes": 24,
+      "quality_maps": 5,
+      "sum_buildings_found": 74.2,
+      "micro_recall": 0.16343612334801763,
+      "macro_recall_target_scenes": 0.14566788549963333,
+      "sum_false_positive_cells": 0.2,
+      "sum_unmatched_positive_observations": 0.2,
+      "mean_upgrades": 0.075,
+      "scenes_with_discovery": 8.8,
+      "mean_feedback_rank_changes": 2.15
+    },
+    {
+      "scenario": "mixed_survey",
+      "budget": 16,
+      "policy": "prior",
+      "scenes": 24,
+      "quality_maps": 5,
+      "sum_buildings_found": 129,
+      "micro_recall": 0.2841409691629956,
+      "macro_recall_target_scenes": 0.303707205872158,
+      "sum_false_positive_cells": 1.6,
+      "sum_unmatched_positive_observations": 1.8,
+      "mean_upgrades": 0,
+      "scenes_with_discovery": 11.6,
+      "mean_feedback_rank_changes": 0
+    },
+    {
+      "scenario": "mixed_survey",
+      "budget": 16,
+      "policy": "pooled",
+      "scenes": 24,
+      "quality_maps": 5,
+      "sum_buildings_found": 129,
+      "micro_recall": 0.2841409691629956,
+      "macro_recall_target_scenes": 0.303707205872158,
+      "sum_false_positive_cells": 1.6,
+      "sum_unmatched_positive_observations": 1.8,
+      "mean_upgrades": 0.13333333333333333,
+      "scenes_with_discovery": 11.6,
+      "mean_feedback_rank_changes": 0
+    },
+    {
+      "scenario": "mixed_survey",
+      "budget": 16,
+      "policy": "quality_gate",
+      "scenes": 24,
+      "quality_maps": 5,
+      "sum_buildings_found": 129,
+      "micro_recall": 0.2841409691629956,
+      "macro_recall_target_scenes": 0.303707205872158,
+      "sum_false_positive_cells": 1.6,
+      "sum_unmatched_positive_observations": 1.8,
+      "mean_upgrades": 0.275,
+      "scenes_with_discovery": 11.6,
+      "mean_feedback_rank_changes": 0
+    },
+    {
+      "scenario": "mixed_survey",
+      "budget": 16,
+      "policy": "quality",
+      "scenes": 24,
+      "quality_maps": 5,
+      "sum_buildings_found": 129,
+      "micro_recall": 0.2841409691629956,
+      "macro_recall_target_scenes": 0.303707205872158,
+      "sum_false_positive_cells": 1.6,
+      "sum_unmatched_positive_observations": 1.8,
+      "mean_upgrades": 0.275,
+      "scenes_with_discovery": 11.6,
+      "mean_feedback_rank_changes": 0
+    },
+    {
+      "scenario": "mixed_survey",
+      "budget": 16,
+      "policy": "adaptive_prior",
+      "scenes": 24,
+      "quality_maps": 5,
+      "sum_buildings_found": 122,
+      "micro_recall": 0.2687224669603524,
+      "macro_recall_target_scenes": 0.2759239263708811,
+      "sum_false_positive_cells": 1,
+      "sum_unmatched_positive_observations": 1,
+      "mean_upgrades": 0.275,
+      "scenes_with_discovery": 10.6,
+      "mean_feedback_rank_changes": 3.55
+    },
+    {
+      "scenario": "mixed_survey",
+      "budget": 32,
+      "policy": "prior",
+      "scenes": 24,
+      "quality_maps": 5,
+      "sum_buildings_found": 201.6,
+      "micro_recall": 0.4440528634361234,
+      "macro_recall_target_scenes": 0.4675036512941738,
+      "sum_false_positive_cells": 2.4,
+      "sum_unmatched_positive_observations": 3.6,
+      "mean_upgrades": 0,
+      "scenes_with_discovery": 12.4,
+      "mean_feedback_rank_changes": 0
+    },
+    {
+      "scenario": "mixed_survey",
+      "budget": 32,
+      "policy": "pooled",
+      "scenes": 24,
+      "quality_maps": 5,
+      "sum_buildings_found": 201.6,
+      "micro_recall": 0.4440528634361234,
+      "macro_recall_target_scenes": 0.4675036512941738,
+      "sum_false_positive_cells": 2.4,
+      "sum_unmatched_positive_observations": 3.6,
+      "mean_upgrades": 0.475,
+      "scenes_with_discovery": 12.4,
+      "mean_feedback_rank_changes": 0
+    },
+    {
+      "scenario": "mixed_survey",
+      "budget": 32,
+      "policy": "quality_gate",
+      "scenes": 24,
+      "quality_maps": 5,
+      "sum_buildings_found": 222.8,
+      "micro_recall": 0.4907488986784141,
+      "macro_recall_target_scenes": 0.500272538389984,
+      "sum_false_positive_cells": 2.8,
+      "sum_unmatched_positive_observations": 4,
+      "mean_upgrades": 2.033333333333333,
+      "scenes_with_discovery": 12.6,
+      "mean_feedback_rank_changes": 0
+    },
+    {
+      "scenario": "mixed_survey",
+      "budget": 32,
+      "policy": "quality",
+      "scenes": 24,
+      "quality_maps": 5,
+      "sum_buildings_found": 222.8,
+      "micro_recall": 0.4907488986784141,
+      "macro_recall_target_scenes": 0.500272538389984,
+      "sum_false_positive_cells": 2.8,
+      "sum_unmatched_positive_observations": 4,
+      "mean_upgrades": 2.033333333333333,
+      "scenes_with_discovery": 12.6,
+      "mean_feedback_rank_changes": 0
+    },
+    {
+      "scenario": "mixed_survey",
+      "budget": 32,
+      "policy": "adaptive_prior",
+      "scenes": 24,
+      "quality_maps": 5,
+      "sum_buildings_found": 218.2,
+      "micro_recall": 0.48061674008810573,
+      "macro_recall_target_scenes": 0.43794456081605687,
+      "sum_false_positive_cells": 3,
+      "sum_unmatched_positive_observations": 4,
+      "mean_upgrades": 2.5,
+      "scenes_with_discovery": 11,
+      "mean_feedback_rank_changes": 5.075
+    },
+    {
+      "scenario": "blurred_survey",
+      "budget": 8,
+      "policy": "prior",
+      "scenes": 24,
+      "quality_maps": 1,
+      "sum_buildings_found": 8,
+      "micro_recall": 0.01762114537444934,
+      "macro_recall_target_scenes": 0.05510459702275559,
+      "sum_false_positive_cells": 0,
+      "sum_unmatched_positive_observations": 1,
+      "mean_upgrades": 0,
+      "scenes_with_discovery": 5,
+      "mean_feedback_rank_changes": 0
+    },
+    {
+      "scenario": "blurred_survey",
+      "budget": 8,
+      "policy": "pooled",
+      "scenes": 24,
+      "quality_maps": 1,
+      "sum_buildings_found": 21,
+      "micro_recall": 0.046255506607929514,
+      "macro_recall_target_scenes": 0.04759923253045488,
+      "sum_false_positive_cells": 0,
+      "sum_unmatched_positive_observations": 0,
+      "mean_upgrades": 2,
+      "scenes_with_discovery": 6,
+      "mean_feedback_rank_changes": 0
+    },
+    {
+      "scenario": "blurred_survey",
+      "budget": 8,
+      "policy": "quality_gate",
+      "scenes": 24,
+      "quality_maps": 1,
+      "sum_buildings_found": 21,
+      "micro_recall": 0.046255506607929514,
+      "macro_recall_target_scenes": 0.04759923253045488,
+      "sum_false_positive_cells": 0,
+      "sum_unmatched_positive_observations": 0,
+      "mean_upgrades": 2,
+      "scenes_with_discovery": 6,
+      "mean_feedback_rank_changes": 0
+    },
+    {
+      "scenario": "blurred_survey",
+      "budget": 8,
+      "policy": "quality",
+      "scenes": 24,
+      "quality_maps": 1,
+      "sum_buildings_found": 21,
+      "micro_recall": 0.046255506607929514,
+      "macro_recall_target_scenes": 0.04759923253045488,
+      "sum_false_positive_cells": 0,
+      "sum_unmatched_positive_observations": 0,
+      "mean_upgrades": 2,
+      "scenes_with_discovery": 6,
+      "mean_feedback_rank_changes": 0
+    },
+    {
+      "scenario": "blurred_survey",
+      "budget": 8,
+      "policy": "adaptive_prior",
+      "scenes": 24,
+      "quality_maps": 1,
+      "sum_buildings_found": 14,
+      "micro_recall": 0.030837004405286344,
+      "macro_recall_target_scenes": 0.04299699715898874,
+      "sum_false_positive_cells": 0,
+      "sum_unmatched_positive_observations": 0,
+      "mean_upgrades": 2,
+      "scenes_with_discovery": 5,
+      "mean_feedback_rank_changes": 1.3333333333333333
+    },
+    {
+      "scenario": "blurred_survey",
+      "budget": 16,
+      "policy": "prior",
+      "scenes": 24,
+      "quality_maps": 1,
+      "sum_buildings_found": 33,
+      "micro_recall": 0.07268722466960352,
+      "macro_recall_target_scenes": 0.08944487105447423,
+      "sum_false_positive_cells": 0,
+      "sum_unmatched_positive_observations": 1,
+      "mean_upgrades": 0,
+      "scenes_with_discovery": 6,
+      "mean_feedback_rank_changes": 0
+    },
+    {
+      "scenario": "blurred_survey",
+      "budget": 16,
+      "policy": "pooled",
+      "scenes": 24,
+      "quality_maps": 1,
+      "sum_buildings_found": 75,
+      "micro_recall": 0.16519823788546256,
+      "macro_recall_target_scenes": 0.09826772000561292,
+      "sum_false_positive_cells": 0,
+      "sum_unmatched_positive_observations": 0,
+      "mean_upgrades": 4.958333333333333,
+      "scenes_with_discovery": 7,
+      "mean_feedback_rank_changes": 0
+    },
+    {
+      "scenario": "blurred_survey",
+      "budget": 16,
+      "policy": "quality_gate",
+      "scenes": 24,
+      "quality_maps": 1,
+      "sum_buildings_found": 75,
+      "micro_recall": 0.16519823788546256,
+      "macro_recall_target_scenes": 0.09826772000561292,
+      "sum_false_positive_cells": 0,
+      "sum_unmatched_positive_observations": 0,
+      "mean_upgrades": 4.958333333333333,
+      "scenes_with_discovery": 7,
+      "mean_feedback_rank_changes": 0
+    },
+    {
+      "scenario": "blurred_survey",
+      "budget": 16,
+      "policy": "quality",
+      "scenes": 24,
+      "quality_maps": 1,
+      "sum_buildings_found": 75,
+      "micro_recall": 0.16519823788546256,
+      "macro_recall_target_scenes": 0.09826772000561292,
+      "sum_false_positive_cells": 0,
+      "sum_unmatched_positive_observations": 0,
+      "mean_upgrades": 4.958333333333333,
+      "scenes_with_discovery": 7,
+      "mean_feedback_rank_changes": 0
+    },
+    {
+      "scenario": "blurred_survey",
+      "budget": 16,
+      "policy": "adaptive_prior",
+      "scenes": 24,
+      "quality_maps": 1,
+      "sum_buildings_found": 60,
+      "micro_recall": 0.13215859030837004,
+      "macro_recall_target_scenes": 0.1133893505118588,
+      "sum_false_positive_cells": 0,
+      "sum_unmatched_positive_observations": 0,
+      "mean_upgrades": 4.958333333333333,
+      "scenes_with_discovery": 8,
+      "mean_feedback_rank_changes": 2.9583333333333335
+    },
+    {
+      "scenario": "blurred_survey",
+      "budget": 32,
+      "policy": "prior",
+      "scenes": 24,
+      "quality_maps": 1,
+      "sum_buildings_found": 45,
+      "micro_recall": 0.09911894273127753,
+      "macro_recall_target_scenes": 0.16209815979471948,
+      "sum_false_positive_cells": 0,
+      "sum_unmatched_positive_observations": 1,
+      "mean_upgrades": 0,
+      "scenes_with_discovery": 7,
+      "mean_feedback_rank_changes": 0
+    },
+    {
+      "scenario": "blurred_survey",
+      "budget": 32,
+      "policy": "pooled",
+      "scenes": 24,
+      "quality_maps": 1,
+      "sum_buildings_found": 142,
+      "micro_recall": 0.31277533039647576,
+      "macro_recall_target_scenes": 0.216421231109217,
+      "sum_false_positive_cells": 4,
+      "sum_unmatched_positive_observations": 5,
+      "mean_upgrades": 9.916666666666666,
+      "scenes_with_discovery": 10,
+      "mean_feedback_rank_changes": 0
+    },
+    {
+      "scenario": "blurred_survey",
+      "budget": 32,
+      "policy": "quality_gate",
+      "scenes": 24,
+      "quality_maps": 1,
+      "sum_buildings_found": 142,
+      "micro_recall": 0.31277533039647576,
+      "macro_recall_target_scenes": 0.216421231109217,
+      "sum_false_positive_cells": 4,
+      "sum_unmatched_positive_observations": 5,
+      "mean_upgrades": 9.916666666666666,
+      "scenes_with_discovery": 10,
+      "mean_feedback_rank_changes": 0
+    },
+    {
+      "scenario": "blurred_survey",
+      "budget": 32,
+      "policy": "quality",
+      "scenes": 24,
+      "quality_maps": 1,
+      "sum_buildings_found": 142,
+      "micro_recall": 0.31277533039647576,
+      "macro_recall_target_scenes": 0.216421231109217,
+      "sum_false_positive_cells": 4,
+      "sum_unmatched_positive_observations": 5,
+      "mean_upgrades": 9.916666666666666,
+      "scenes_with_discovery": 10,
+      "mean_feedback_rank_changes": 0
+    },
+    {
+      "scenario": "blurred_survey",
+      "budget": 32,
+      "policy": "adaptive_prior",
+      "scenes": 24,
+      "quality_maps": 1,
+      "sum_buildings_found": 163,
+      "micro_recall": 0.3590308370044053,
+      "macro_recall_target_scenes": 0.342249651055284,
+      "sum_false_positive_cells": 1,
+      "sum_unmatched_positive_observations": 1,
+      "mean_upgrades": 9.916666666666666,
+      "scenes_with_discovery": 11,
+      "mean_feedback_rank_changes": 5
+    }
+  ],
+  "adaptive_vs_quality": [
+    {
+      "scenario": "native_survey",
+      "budget": 8,
+      "scene_mean_differences": [
+        {
+          "sample_id": "hurricane-harvey_00000008",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000066",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000085",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000098",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000158",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000178",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000189",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000242",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000268",
+          "mean_building_delta": -1
+        },
+        {
+          "sample_id": "hurricane-harvey_00000392",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000406",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000505",
+          "mean_building_delta": -1
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000023",
+          "mean_building_delta": 8
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000035",
+          "mean_building_delta": 3
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000039",
+          "mean_building_delta": -5
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000056",
+          "mean_building_delta": 10
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000079",
+          "mean_building_delta": -11
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000125",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000151",
+          "mean_building_delta": 1
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000169",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000177",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000182",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000196",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000220",
+          "mean_building_delta": 0
+        }
+      ],
+      "sum_mean_building_delta": 4,
+      "scene_wins": 4,
+      "scene_ties": 16,
+      "scene_losses": 4,
+      "paired_trajectories_different": 16,
+      "paired_trajectories_total": 24
+    },
+    {
+      "scenario": "native_survey",
+      "budget": 16,
+      "scene_mean_differences": [
+        {
+          "sample_id": "hurricane-harvey_00000008",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000066",
+          "mean_building_delta": -1
+        },
+        {
+          "sample_id": "hurricane-harvey_00000085",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000098",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000158",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000178",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000189",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000242",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000268",
+          "mean_building_delta": -2
+        },
+        {
+          "sample_id": "hurricane-harvey_00000392",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000406",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000505",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000023",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000035",
+          "mean_building_delta": -1
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000039",
+          "mean_building_delta": -3
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000056",
+          "mean_building_delta": 8
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000079",
+          "mean_building_delta": -13
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000125",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000151",
+          "mean_building_delta": 1
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000169",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000177",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000182",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000196",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000220",
+          "mean_building_delta": 0
+        }
+      ],
+      "sum_mean_building_delta": -11,
+      "scene_wins": 2,
+      "scene_ties": 17,
+      "scene_losses": 5,
+      "paired_trajectories_different": 16,
+      "paired_trajectories_total": 24
+    },
+    {
+      "scenario": "native_survey",
+      "budget": 32,
+      "scene_mean_differences": [
+        {
+          "sample_id": "hurricane-harvey_00000008",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000066",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000085",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000098",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000158",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000178",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000189",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000242",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000268",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000392",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000406",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000505",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000023",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000035",
+          "mean_building_delta": -2
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000039",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000056",
+          "mean_building_delta": -2
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000079",
+          "mean_building_delta": -1
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000125",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000151",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000169",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000177",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000182",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000196",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000220",
+          "mean_building_delta": 0
+        }
+      ],
+      "sum_mean_building_delta": -5,
+      "scene_wins": 0,
+      "scene_ties": 21,
+      "scene_losses": 3,
+      "paired_trajectories_different": 16,
+      "paired_trajectories_total": 24
+    },
+    {
+      "scenario": "mixed_survey",
+      "budget": 8,
+      "scene_mean_differences": [
+        {
+          "sample_id": "hurricane-harvey_00000008",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000066",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000085",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000098",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000158",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000178",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000189",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000242",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000268",
+          "mean_building_delta": -0.8
+        },
+        {
+          "sample_id": "hurricane-harvey_00000392",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000406",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000505",
+          "mean_building_delta": -0.2
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000023",
+          "mean_building_delta": 4.8
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000035",
+          "mean_building_delta": -0.2
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000039",
+          "mean_building_delta": -4
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000056",
+          "mean_building_delta": 1.6
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000079",
+          "mean_building_delta": 0.4
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000125",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000151",
+          "mean_building_delta": 0.2
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000169",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000177",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000182",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000196",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000220",
+          "mean_building_delta": 0
+        }
+      ],
+      "sum_mean_building_delta": 1.7999999999999998,
+      "scene_wins": 4,
+      "scene_ties": 16,
+      "scene_losses": 4,
+      "paired_trajectories_different": 73,
+      "paired_trajectories_total": 120
+    },
+    {
+      "scenario": "mixed_survey",
+      "budget": 16,
+      "scene_mean_differences": [
+        {
+          "sample_id": "hurricane-harvey_00000008",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000066",
+          "mean_building_delta": -0.2
+        },
+        {
+          "sample_id": "hurricane-harvey_00000085",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000098",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000158",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000178",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000189",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000242",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000268",
+          "mean_building_delta": -1.2
+        },
+        {
+          "sample_id": "hurricane-harvey_00000392",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000406",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000505",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000023",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000035",
+          "mean_building_delta": -0.4
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000039",
+          "mean_building_delta": -2.4
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000056",
+          "mean_building_delta": 4.2
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000079",
+          "mean_building_delta": -7
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000125",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000151",
+          "mean_building_delta": 0.2
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000169",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000177",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000182",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000196",
+          "mean_building_delta": -0.2
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000220",
+          "mean_building_delta": 0
+        }
+      ],
+      "sum_mean_building_delta": -7.0,
+      "scene_wins": 2,
+      "scene_ties": 16,
+      "scene_losses": 6,
+      "paired_trajectories_different": 76,
+      "paired_trajectories_total": 120
+    },
+    {
+      "scenario": "mixed_survey",
+      "budget": 32,
+      "scene_mean_differences": [
+        {
+          "sample_id": "hurricane-harvey_00000008",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000066",
+          "mean_building_delta": -1.2
+        },
+        {
+          "sample_id": "hurricane-harvey_00000085",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000098",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000158",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000178",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000189",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000242",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000268",
+          "mean_building_delta": -1
+        },
+        {
+          "sample_id": "hurricane-harvey_00000392",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000406",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000505",
+          "mean_building_delta": -0.2
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000023",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000035",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000039",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000056",
+          "mean_building_delta": -1
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000079",
+          "mean_building_delta": -0.8
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000125",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000151",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000169",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000177",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000182",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000196",
+          "mean_building_delta": -0.4
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000220",
+          "mean_building_delta": 0
+        }
+      ],
+      "sum_mean_building_delta": -4.6000000000000005,
+      "scene_wins": 0,
+      "scene_ties": 18,
+      "scene_losses": 6,
+      "paired_trajectories_different": 76,
+      "paired_trajectories_total": 120
+    },
+    {
+      "scenario": "blurred_survey",
+      "budget": 8,
+      "scene_mean_differences": [
+        {
+          "sample_id": "hurricane-harvey_00000008",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000066",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000085",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000098",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000158",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000178",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000189",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000242",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000268",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000392",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000406",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000505",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000023",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000035",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000039",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000056",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000079",
+          "mean_building_delta": -7
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000125",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000151",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000169",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000177",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000182",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000196",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000220",
+          "mean_building_delta": 0
+        }
+      ],
+      "sum_mean_building_delta": -7,
+      "scene_wins": 0,
+      "scene_ties": 23,
+      "scene_losses": 1,
+      "paired_trajectories_different": 16,
+      "paired_trajectories_total": 24
+    },
+    {
+      "scenario": "blurred_survey",
+      "budget": 16,
+      "scene_mean_differences": [
+        {
+          "sample_id": "hurricane-harvey_00000008",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000066",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000085",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000098",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000158",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000178",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000189",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000242",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000268",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000392",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000406",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000505",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000023",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000035",
+          "mean_building_delta": -3
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000039",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000056",
+          "mean_building_delta": 3
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000079",
+          "mean_building_delta": -16
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000125",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000151",
+          "mean_building_delta": 1
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000169",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000177",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000182",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000196",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000220",
+          "mean_building_delta": 0
+        }
+      ],
+      "sum_mean_building_delta": -15,
+      "scene_wins": 2,
+      "scene_ties": 20,
+      "scene_losses": 2,
+      "paired_trajectories_different": 16,
+      "paired_trajectories_total": 24
+    },
+    {
+      "scenario": "blurred_survey",
+      "budget": 32,
+      "scene_mean_differences": [
+        {
+          "sample_id": "hurricane-harvey_00000008",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000066",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000085",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000098",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000158",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000178",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000189",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000242",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000268",
+          "mean_building_delta": -1
+        },
+        {
+          "sample_id": "hurricane-harvey_00000392",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000406",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "hurricane-harvey_00000505",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000023",
+          "mean_building_delta": 8
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000035",
+          "mean_building_delta": 2
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000039",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000056",
+          "mean_building_delta": 10
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000079",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000125",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000151",
+          "mean_building_delta": 2
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000169",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000177",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000182",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000196",
+          "mean_building_delta": 0
+        },
+        {
+          "sample_id": "santa-rosa-wildfire_00000220",
+          "mean_building_delta": 0
+        }
+      ],
+      "sum_mean_building_delta": 21,
+      "scene_wins": 4,
+      "scene_ties": 19,
+      "scene_losses": 1,
+      "paired_trajectories_different": 16,
+      "paired_trajectories_total": 24
+    }
+  ],
+  "event_summary": [
+    {
+      "event": "hurricane-harvey",
+      "scenario": "native_survey",
+      "budget": 8,
+      "policy": "prior",
+      "mean_sum_buildings_found": 13.0,
+      "mean_sum_false_positive_cells": 0.0
+    },
+    {
+      "event": "hurricane-harvey",
+      "scenario": "native_survey",
+      "budget": 8,
+      "policy": "pooled",
+      "mean_sum_buildings_found": 13.0,
+      "mean_sum_false_positive_cells": 0.0
+    },
+    {
+      "event": "hurricane-harvey",
+      "scenario": "native_survey",
+      "budget": 8,
+      "policy": "quality_gate",
+      "mean_sum_buildings_found": 13.0,
+      "mean_sum_false_positive_cells": 0.0
+    },
+    {
+      "event": "hurricane-harvey",
+      "scenario": "native_survey",
+      "budget": 8,
+      "policy": "quality",
+      "mean_sum_buildings_found": 13.0,
+      "mean_sum_false_positive_cells": 0.0
+    },
+    {
+      "event": "hurricane-harvey",
+      "scenario": "native_survey",
+      "budget": 8,
+      "policy": "adaptive_prior",
+      "mean_sum_buildings_found": 11.0,
+      "mean_sum_false_positive_cells": 0.0
+    },
+    {
+      "event": "hurricane-harvey",
+      "scenario": "native_survey",
+      "budget": 16,
+      "policy": "prior",
+      "mean_sum_buildings_found": 41.0,
+      "mean_sum_false_positive_cells": 2.0
+    },
+    {
+      "event": "hurricane-harvey",
+      "scenario": "native_survey",
+      "budget": 16,
+      "policy": "pooled",
+      "mean_sum_buildings_found": 41.0,
+      "mean_sum_false_positive_cells": 2.0
+    },
+    {
+      "event": "hurricane-harvey",
+      "scenario": "native_survey",
+      "budget": 16,
+      "policy": "quality_gate",
+      "mean_sum_buildings_found": 41.0,
+      "mean_sum_false_positive_cells": 2.0
+    },
+    {
+      "event": "hurricane-harvey",
+      "scenario": "native_survey",
+      "budget": 16,
+      "policy": "quality",
+      "mean_sum_buildings_found": 41.0,
+      "mean_sum_false_positive_cells": 2.0
+    },
+    {
+      "event": "hurricane-harvey",
+      "scenario": "native_survey",
+      "budget": 16,
+      "policy": "adaptive_prior",
+      "mean_sum_buildings_found": 38.0,
+      "mean_sum_false_positive_cells": 1.0
+    },
+    {
+      "event": "hurricane-harvey",
+      "scenario": "native_survey",
+      "budget": 32,
+      "policy": "prior",
+      "mean_sum_buildings_found": 91.0,
+      "mean_sum_false_positive_cells": 4.0
+    },
+    {
+      "event": "hurricane-harvey",
+      "scenario": "native_survey",
+      "budget": 32,
+      "policy": "pooled",
+      "mean_sum_buildings_found": 91.0,
+      "mean_sum_false_positive_cells": 4.0
+    },
+    {
+      "event": "hurricane-harvey",
+      "scenario": "native_survey",
+      "budget": 32,
+      "policy": "quality_gate",
+      "mean_sum_buildings_found": 91.0,
+      "mean_sum_false_positive_cells": 4.0
+    },
+    {
+      "event": "hurricane-harvey",
+      "scenario": "native_survey",
+      "budget": 32,
+      "policy": "quality",
+      "mean_sum_buildings_found": 91.0,
+      "mean_sum_false_positive_cells": 4.0
+    },
+    {
+      "event": "hurricane-harvey",
+      "scenario": "native_survey",
+      "budget": 32,
+      "policy": "adaptive_prior",
+      "mean_sum_buildings_found": 91.0,
+      "mean_sum_false_positive_cells": 4.0
+    },
+    {
+      "event": "hurricane-harvey",
+      "scenario": "mixed_survey",
+      "budget": 8,
+      "policy": "prior",
+      "mean_sum_buildings_found": 9.8,
+      "mean_sum_false_positive_cells": 0.0
+    },
+    {
+      "event": "hurricane-harvey",
+      "scenario": "mixed_survey",
+      "budget": 8,
+      "policy": "pooled",
+      "mean_sum_buildings_found": 9.8,
+      "mean_sum_false_positive_cells": 0.0
+    },
+    {
+      "event": "hurricane-harvey",
+      "scenario": "mixed_survey",
+      "budget": 8,
+      "policy": "quality_gate",
+      "mean_sum_buildings_found": 9.8,
+      "mean_sum_false_positive_cells": 0.0
+    },
+    {
+      "event": "hurricane-harvey",
+      "scenario": "mixed_survey",
+      "budget": 8,
+      "policy": "quality",
+      "mean_sum_buildings_found": 9.8,
+      "mean_sum_false_positive_cells": 0.0
+    },
+    {
+      "event": "hurricane-harvey",
+      "scenario": "mixed_survey",
+      "budget": 8,
+      "policy": "adaptive_prior",
+      "mean_sum_buildings_found": 8.8,
+      "mean_sum_false_positive_cells": 0.0
+    },
+    {
+      "event": "hurricane-harvey",
+      "scenario": "mixed_survey",
+      "budget": 16,
+      "policy": "prior",
+      "mean_sum_buildings_found": 34.4,
+      "mean_sum_false_positive_cells": 0.6
+    },
+    {
+      "event": "hurricane-harvey",
+      "scenario": "mixed_survey",
+      "budget": 16,
+      "policy": "pooled",
+      "mean_sum_buildings_found": 34.4,
+      "mean_sum_false_positive_cells": 0.6
+    },
+    {
+      "event": "hurricane-harvey",
+      "scenario": "mixed_survey",
+      "budget": 16,
+      "policy": "quality_gate",
+      "mean_sum_buildings_found": 34.4,
+      "mean_sum_false_positive_cells": 0.6
+    },
+    {
+      "event": "hurricane-harvey",
+      "scenario": "mixed_survey",
+      "budget": 16,
+      "policy": "quality",
+      "mean_sum_buildings_found": 34.4,
+      "mean_sum_false_positive_cells": 0.6
+    },
+    {
+      "event": "hurricane-harvey",
+      "scenario": "mixed_survey",
+      "budget": 16,
+      "policy": "adaptive_prior",
+      "mean_sum_buildings_found": 33.0,
+      "mean_sum_false_positive_cells": 0.2
+    },
+    {
+      "event": "hurricane-harvey",
+      "scenario": "mixed_survey",
+      "budget": 32,
+      "policy": "prior",
+      "mean_sum_buildings_found": 67.6,
+      "mean_sum_false_positive_cells": 1.2
+    },
+    {
+      "event": "hurricane-harvey",
+      "scenario": "mixed_survey",
+      "budget": 32,
+      "policy": "pooled",
+      "mean_sum_buildings_found": 67.6,
+      "mean_sum_false_positive_cells": 1.2
+    },
+    {
+      "event": "hurricane-harvey",
+      "scenario": "mixed_survey",
+      "budget": 32,
+      "policy": "quality_gate",
+      "mean_sum_buildings_found": 67.8,
+      "mean_sum_false_positive_cells": 1.2
+    },
+    {
+      "event": "hurricane-harvey",
+      "scenario": "mixed_survey",
+      "budget": 32,
+      "policy": "quality",
+      "mean_sum_buildings_found": 67.8,
+      "mean_sum_false_positive_cells": 1.2
+    },
+    {
+      "event": "hurricane-harvey",
+      "scenario": "mixed_survey",
+      "budget": 32,
+      "policy": "adaptive_prior",
+      "mean_sum_buildings_found": 65.4,
+      "mean_sum_false_positive_cells": 1.4
+    },
+    {
+      "event": "hurricane-harvey",
+      "scenario": "blurred_survey",
+      "budget": 8,
+      "policy": "prior",
+      "mean_sum_buildings_found": 2.0,
+      "mean_sum_false_positive_cells": 0.0
+    },
+    {
+      "event": "hurricane-harvey",
+      "scenario": "blurred_survey",
+      "budget": 8,
+      "policy": "pooled",
+      "mean_sum_buildings_found": 10.0,
+      "mean_sum_false_positive_cells": 0.0
+    },
+    {
+      "event": "hurricane-harvey",
+      "scenario": "blurred_survey",
+      "budget": 8,
+      "policy": "quality_gate",
+      "mean_sum_buildings_found": 10.0,
+      "mean_sum_false_positive_cells": 0.0
+    },
+    {
+      "event": "hurricane-harvey",
+      "scenario": "blurred_survey",
+      "budget": 8,
+      "policy": "quality",
+      "mean_sum_buildings_found": 10.0,
+      "mean_sum_false_positive_cells": 0.0
+    },
+    {
+      "event": "hurricane-harvey",
+      "scenario": "blurred_survey",
+      "budget": 8,
+      "policy": "adaptive_prior",
+      "mean_sum_buildings_found": 10.0,
+      "mean_sum_false_positive_cells": 0.0
+    },
+    {
+      "event": "hurricane-harvey",
+      "scenario": "blurred_survey",
+      "budget": 16,
+      "policy": "prior",
+      "mean_sum_buildings_found": 22.0,
+      "mean_sum_false_positive_cells": 0.0
+    },
+    {
+      "event": "hurricane-harvey",
+      "scenario": "blurred_survey",
+      "budget": 16,
+      "policy": "pooled",
+      "mean_sum_buildings_found": 10.0,
+      "mean_sum_false_positive_cells": 0.0
+    },
+    {
+      "event": "hurricane-harvey",
+      "scenario": "blurred_survey",
+      "budget": 16,
+      "policy": "quality_gate",
+      "mean_sum_buildings_found": 10.0,
+      "mean_sum_false_positive_cells": 0.0
+    },
+    {
+      "event": "hurricane-harvey",
+      "scenario": "blurred_survey",
+      "budget": 16,
+      "policy": "quality",
+      "mean_sum_buildings_found": 10.0,
+      "mean_sum_false_positive_cells": 0.0
+    },
+    {
+      "event": "hurricane-harvey",
+      "scenario": "blurred_survey",
+      "budget": 16,
+      "policy": "adaptive_prior",
+      "mean_sum_buildings_found": 10.0,
+      "mean_sum_false_positive_cells": 0.0
+    },
+    {
+      "event": "hurricane-harvey",
+      "scenario": "blurred_survey",
+      "budget": 32,
+      "policy": "prior",
+      "mean_sum_buildings_found": 33.0,
+      "mean_sum_false_positive_cells": 0.0
+    },
+    {
+      "event": "hurricane-harvey",
+      "scenario": "blurred_survey",
+      "budget": 32,
+      "policy": "pooled",
+      "mean_sum_buildings_found": 32.0,
+      "mean_sum_false_positive_cells": 2.0
+    },
+    {
+      "event": "hurricane-harvey",
+      "scenario": "blurred_survey",
+      "budget": 32,
+      "policy": "quality_gate",
+      "mean_sum_buildings_found": 32.0,
+      "mean_sum_false_positive_cells": 2.0
+    },
+    {
+      "event": "hurricane-harvey",
+      "scenario": "blurred_survey",
+      "budget": 32,
+      "policy": "quality",
+      "mean_sum_buildings_found": 32.0,
+      "mean_sum_false_positive_cells": 2.0
+    },
+    {
+      "event": "hurricane-harvey",
+      "scenario": "blurred_survey",
+      "budget": 32,
+      "policy": "adaptive_prior",
+      "mean_sum_buildings_found": 31.0,
+      "mean_sum_false_positive_cells": 1.0
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "scenario": "native_survey",
+      "budget": 8,
+      "policy": "prior",
+      "mean_sum_buildings_found": 99.0,
+      "mean_sum_false_positive_cells": 2.0
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "scenario": "native_survey",
+      "budget": 8,
+      "policy": "pooled",
+      "mean_sum_buildings_found": 99.0,
+      "mean_sum_false_positive_cells": 2.0
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "scenario": "native_survey",
+      "budget": 8,
+      "policy": "quality_gate",
+      "mean_sum_buildings_found": 99.0,
+      "mean_sum_false_positive_cells": 2.0
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "scenario": "native_survey",
+      "budget": 8,
+      "policy": "quality",
+      "mean_sum_buildings_found": 99.0,
+      "mean_sum_false_positive_cells": 2.0
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "scenario": "native_survey",
+      "budget": 8,
+      "policy": "adaptive_prior",
+      "mean_sum_buildings_found": 105.0,
+      "mean_sum_false_positive_cells": 0.0
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "scenario": "native_survey",
+      "budget": 16,
+      "policy": "prior",
+      "mean_sum_buildings_found": 155.0,
+      "mean_sum_false_positive_cells": 2.0
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "scenario": "native_survey",
+      "budget": 16,
+      "policy": "pooled",
+      "mean_sum_buildings_found": 155.0,
+      "mean_sum_false_positive_cells": 2.0
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "scenario": "native_survey",
+      "budget": 16,
+      "policy": "quality_gate",
+      "mean_sum_buildings_found": 155.0,
+      "mean_sum_false_positive_cells": 2.0
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "scenario": "native_survey",
+      "budget": 16,
+      "policy": "quality",
+      "mean_sum_buildings_found": 155.0,
+      "mean_sum_false_positive_cells": 2.0
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "scenario": "native_survey",
+      "budget": 16,
+      "policy": "adaptive_prior",
+      "mean_sum_buildings_found": 147.0,
+      "mean_sum_false_positive_cells": 2.0
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "scenario": "native_survey",
+      "budget": 32,
+      "policy": "prior",
+      "mean_sum_buildings_found": 220.0,
+      "mean_sum_false_positive_cells": 3.0
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "scenario": "native_survey",
+      "budget": 32,
+      "policy": "pooled",
+      "mean_sum_buildings_found": 220.0,
+      "mean_sum_false_positive_cells": 3.0
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "scenario": "native_survey",
+      "budget": 32,
+      "policy": "quality_gate",
+      "mean_sum_buildings_found": 220.0,
+      "mean_sum_false_positive_cells": 3.0
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "scenario": "native_survey",
+      "budget": 32,
+      "policy": "quality",
+      "mean_sum_buildings_found": 220.0,
+      "mean_sum_false_positive_cells": 3.0
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "scenario": "native_survey",
+      "budget": 32,
+      "policy": "adaptive_prior",
+      "mean_sum_buildings_found": 215.0,
+      "mean_sum_false_positive_cells": 3.0
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "scenario": "mixed_survey",
+      "budget": 8,
+      "policy": "prior",
+      "mean_sum_buildings_found": 62.6,
+      "mean_sum_false_positive_cells": 1.0
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "scenario": "mixed_survey",
+      "budget": 8,
+      "policy": "pooled",
+      "mean_sum_buildings_found": 62.6,
+      "mean_sum_false_positive_cells": 1.0
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "scenario": "mixed_survey",
+      "budget": 8,
+      "policy": "quality_gate",
+      "mean_sum_buildings_found": 62.6,
+      "mean_sum_false_positive_cells": 1.0
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "scenario": "mixed_survey",
+      "budget": 8,
+      "policy": "quality",
+      "mean_sum_buildings_found": 62.6,
+      "mean_sum_false_positive_cells": 1.0
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "scenario": "mixed_survey",
+      "budget": 8,
+      "policy": "adaptive_prior",
+      "mean_sum_buildings_found": 65.4,
+      "mean_sum_false_positive_cells": 0.2
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "scenario": "mixed_survey",
+      "budget": 16,
+      "policy": "prior",
+      "mean_sum_buildings_found": 94.6,
+      "mean_sum_false_positive_cells": 1.0
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "scenario": "mixed_survey",
+      "budget": 16,
+      "policy": "pooled",
+      "mean_sum_buildings_found": 94.6,
+      "mean_sum_false_positive_cells": 1.0
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "scenario": "mixed_survey",
+      "budget": 16,
+      "policy": "quality_gate",
+      "mean_sum_buildings_found": 94.6,
+      "mean_sum_false_positive_cells": 1.0
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "scenario": "mixed_survey",
+      "budget": 16,
+      "policy": "quality",
+      "mean_sum_buildings_found": 94.6,
+      "mean_sum_false_positive_cells": 1.0
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "scenario": "mixed_survey",
+      "budget": 16,
+      "policy": "adaptive_prior",
+      "mean_sum_buildings_found": 89.0,
+      "mean_sum_false_positive_cells": 0.8
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "scenario": "mixed_survey",
+      "budget": 32,
+      "policy": "prior",
+      "mean_sum_buildings_found": 134.0,
+      "mean_sum_false_positive_cells": 1.2
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "scenario": "mixed_survey",
+      "budget": 32,
+      "policy": "pooled",
+      "mean_sum_buildings_found": 134.0,
+      "mean_sum_false_positive_cells": 1.2
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "scenario": "mixed_survey",
+      "budget": 32,
+      "policy": "quality_gate",
+      "mean_sum_buildings_found": 155.0,
+      "mean_sum_false_positive_cells": 1.6
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "scenario": "mixed_survey",
+      "budget": 32,
+      "policy": "quality",
+      "mean_sum_buildings_found": 155.0,
+      "mean_sum_false_positive_cells": 1.6
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "scenario": "mixed_survey",
+      "budget": 32,
+      "policy": "adaptive_prior",
+      "mean_sum_buildings_found": 152.8,
+      "mean_sum_false_positive_cells": 1.6
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "scenario": "blurred_survey",
+      "budget": 8,
+      "policy": "prior",
+      "mean_sum_buildings_found": 6.0,
+      "mean_sum_false_positive_cells": 0.0
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "scenario": "blurred_survey",
+      "budget": 8,
+      "policy": "pooled",
+      "mean_sum_buildings_found": 11.0,
+      "mean_sum_false_positive_cells": 0.0
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "scenario": "blurred_survey",
+      "budget": 8,
+      "policy": "quality_gate",
+      "mean_sum_buildings_found": 11.0,
+      "mean_sum_false_positive_cells": 0.0
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "scenario": "blurred_survey",
+      "budget": 8,
+      "policy": "quality",
+      "mean_sum_buildings_found": 11.0,
+      "mean_sum_false_positive_cells": 0.0
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "scenario": "blurred_survey",
+      "budget": 8,
+      "policy": "adaptive_prior",
+      "mean_sum_buildings_found": 4.0,
+      "mean_sum_false_positive_cells": 0.0
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "scenario": "blurred_survey",
+      "budget": 16,
+      "policy": "prior",
+      "mean_sum_buildings_found": 11.0,
+      "mean_sum_false_positive_cells": 0.0
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "scenario": "blurred_survey",
+      "budget": 16,
+      "policy": "pooled",
+      "mean_sum_buildings_found": 65.0,
+      "mean_sum_false_positive_cells": 0.0
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "scenario": "blurred_survey",
+      "budget": 16,
+      "policy": "quality_gate",
+      "mean_sum_buildings_found": 65.0,
+      "mean_sum_false_positive_cells": 0.0
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "scenario": "blurred_survey",
+      "budget": 16,
+      "policy": "quality",
+      "mean_sum_buildings_found": 65.0,
+      "mean_sum_false_positive_cells": 0.0
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "scenario": "blurred_survey",
+      "budget": 16,
+      "policy": "adaptive_prior",
+      "mean_sum_buildings_found": 50.0,
+      "mean_sum_false_positive_cells": 0.0
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "scenario": "blurred_survey",
+      "budget": 32,
+      "policy": "prior",
+      "mean_sum_buildings_found": 12.0,
+      "mean_sum_false_positive_cells": 0.0
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "scenario": "blurred_survey",
+      "budget": 32,
+      "policy": "pooled",
+      "mean_sum_buildings_found": 110.0,
+      "mean_sum_false_positive_cells": 2.0
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "scenario": "blurred_survey",
+      "budget": 32,
+      "policy": "quality_gate",
+      "mean_sum_buildings_found": 110.0,
+      "mean_sum_false_positive_cells": 2.0
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "scenario": "blurred_survey",
+      "budget": 32,
+      "policy": "quality",
+      "mean_sum_buildings_found": 110.0,
+      "mean_sum_false_positive_cells": 2.0
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "scenario": "blurred_survey",
+      "budget": 32,
+      "policy": "adaptive_prior",
+      "mean_sum_buildings_found": 132.0,
+      "mean_sum_false_positive_cells": 0.0
+    }
+  ],
+  "limitations": [
+    "Calibration data reused to fit sensor/prior and run these diagnostics: no held-out policy result.",
+    "Checkpoint training exposure expected; two events, no real UAV measurements.",
+    "Presence-oriented acquisition and terminal positive cells may miss additional buildings in dense positive cells.",
+    "Coverage-based building matching is an evaluator proxy, not instance AP; spatial peers are not guaranteed exchangeable."
+  ]
+}

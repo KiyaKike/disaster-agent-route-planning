@@ -1,0 +1,210 @@
+{
+  "already_scored_event_summaries": [
+    {
+      "actions": 32.0,
+      "budget": 32,
+      "cross_cell_duplicate_match_events": 1.7083333333333333,
+      "distinct_found": 8.891666666666667,
+      "event": "hurricane-harvey",
+      "false_positive_cells": 0.35000000000000003,
+      "first_discovery_censored": 0.525,
+      "fit_scope": "event_holdout",
+      "negative_upgrades": 0.0,
+      "new_buildings_from_positive_upgrades": 0.0,
+      "new_buildings_from_upgrades": 0.0,
+      "planning_s": 0.0001288253755774349,
+      "policy": "count_survey",
+      "positive_upgrades": 0.0,
+      "scenario": "mixed_survey",
+      "scenes": 24,
+      "spent": 32.0,
+      "threshold": 0.1,
+      "tie_rule": "raw_change",
+      "upgrade_cost": 2,
+      "upgrades": 0.0
+    },
+    {
+      "actions": 32.0,
+      "budget": 32,
+      "cross_cell_duplicate_match_events": 0.0,
+      "distinct_found": 0.0,
+      "event": "mexico-earthquake",
+      "false_positive_cells": 0.016666666666666666,
+      "first_discovery_censored": 1.0,
+      "fit_scope": "event_holdout",
+      "negative_upgrades": 0.0,
+      "new_buildings_from_positive_upgrades": 0.0,
+      "new_buildings_from_upgrades": 0.0,
+      "planning_s": 0.0001279170161675817,
+      "policy": "count_survey",
+      "positive_upgrades": 0.0,
+      "scenario": "mixed_survey",
+      "scenes": 24,
+      "spent": 32.0,
+      "threshold": 0.1,
+      "tie_rule": "raw_change",
+      "upgrade_cost": 2,
+      "upgrades": 0.0
+    },
+    {
+      "actions": 32.0,
+      "budget": 32,
+      "cross_cell_duplicate_match_events": 1.1083333333333334,
+      "distinct_found": 6.866666666666667,
+      "event": "santa-rosa-wildfire",
+      "false_positive_cells": 0.10833333333333334,
+      "first_discovery_censored": 0.325,
+      "fit_scope": "event_holdout",
+      "negative_upgrades": 0.0,
+      "new_buildings_from_positive_upgrades": 0.0,
+      "new_buildings_from_upgrades": 0.0,
+      "planning_s": 0.00012738117487363828,
+      "policy": "count_survey",
+      "positive_upgrades": 0.0,
+      "scenario": "mixed_survey",
+      "scenes": 24,
+      "spent": 32.0,
+      "threshold": 0.1,
+      "tie_rule": "raw_change",
+      "upgrade_cost": 2,
+      "upgrades": 0.0
+    },
+    {
+      "actions": 32.0,
+      "budget": 32,
+      "cross_cell_duplicate_match_events": 1.7083333333333333,
+      "distinct_found": 8.891666666666667,
+      "event": "hurricane-harvey",
+      "false_positive_cells": 0.35000000000000003,
+      "first_discovery_censored": 0.525,
+      "fit_scope": "event_holdout",
+      "negative_upgrades": 0.0,
+      "new_buildings_from_positive_upgrades": 0.0,
+      "new_buildings_from_upgrades": 0.0,
+      "planning_s": 0.00011643437416447947,
+      "policy": "prior_survey",
+      "positive_upgrades": 0.0,
+      "scenario": "mixed_survey",
+      "scenes": 24,
+      "spent": 32.0,
+      "threshold": 0.1,
+      "tie_rule": "raw_change",
+      "upgrade_cost": 2,
+      "upgrades": 0.0
+    },
+    {
+      "actions": 32.0,
+      "budget": 32,
+      "cross_cell_duplicate_match_events": 0.0,
+      "distinct_found": 0.0,
+      "event": "mexico-earthquake",
+      "false_positive_cells": 0.041666666666666664,
+      "first_discovery_censored": 1.0,
+      "fit_scope": "event_holdout",
+      "negative_upgrades": 0.0,
+      "new_buildings_from_positive_upgrades": 0.0,
+      "new_buildings_from_upgrades": 0.0,
+      "planning_s": 0.00011506385805356938,
+      "policy": "prior_survey",
+      "positive_upgrades": 0.0,
+      "scenario": "mixed_survey",
+      "scenes": 24,
+      "spent": 32.0,
+      "threshold": 0.1,
+      "tie_rule": "raw_change",
+      "upgrade_cost": 2,
+      "upgrades": 0.0
+    },
+    {
+      "actions": 32.0,
+      "budget": 32,
+      "cross_cell_duplicate_match_events": 1.7583333333333335,
+      "distinct_found": 9.424999999999999,
+      "event": "santa-rosa-wildfire",
+      "false_positive_cells": 0.16666666666666666,
+      "first_discovery_censored": 0.3416666666666666,
+      "fit_scope": "event_holdout",
+      "negative_upgrades": 0.0,
+      "new_buildings_from_positive_upgrades": 0.0,
+      "new_buildings_from_upgrades": 0.0,
+      "planning_s": 0.00011813292609682928,
+      "policy": "prior_survey",
+      "positive_upgrades": 0.0,
+      "scenario": "mixed_survey",
+      "scenes": 24,
+      "spent": 32.0,
+      "threshold": 0.1,
+      "tie_rule": "raw_change",
+      "upgrade_cost": 2,
+      "upgrades": 0.0
+    }
+  ],
+  "interpretation": "For held Santa Rosa, raw bin4 has lower fitted utility than bin1; the same raw-tie survey-only gap is concentrated in Santa Rosa. This is an observed alignment, not proof of a sole cause or that monotonicity is universally correct.",
+  "model_sha256": "c9566ab3c6aaa920e1baf62d3093c28e6bea121e5d85c8c78965b01d59390350",
+  "new_experiment": false,
+  "new_model_fit": false,
+  "new_truth_access": false,
+  "public_bin_values": [
+    {
+      "adjacent_decreases": [
+        [
+          2,
+          3
+        ]
+      ],
+      "fit_scope": "development_fit",
+      "mixed_survey_utility_ascending_raw_bins": [
+        0.06616144724840377,
+        0.23740005623746882,
+        0.28183722068769607,
+        0.20707490435234602
+      ]
+    },
+    {
+      "adjacent_decreases": [],
+      "fit_scope": "held_hurricane-harvey",
+      "mixed_survey_utility_ascending_raw_bins": [
+        0.02667304373283043,
+        0.07696896154449209,
+        0.1491814088559706,
+        0.22395150775748518
+      ]
+    },
+    {
+      "adjacent_decreases": [
+        [
+          2,
+          3
+        ]
+      ],
+      "fit_scope": "held_mexico-earthquake",
+      "mixed_survey_utility_ascending_raw_bins": [
+        0.06794051947100789,
+        0.37979174210045785,
+        0.44429217120432435,
+        0.29984792324148013
+      ]
+    },
+    {
+      "adjacent_decreases": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "fit_scope": "held_santa-rosa-wildfire",
+      "mixed_survey_utility_ascending_raw_bins": [
+        0.1381218496603112,
+        0.2489208300951824,
+        0.2173162817331552,
+        0.10519395134779749
+      ]
+    }
+  ],
+  "stage": "READ_ONLY_PUBLIC_MODEL_AND_EXISTING_RESULT_INSPECTION",
+  "summary_sha256": "ec893ad99e016ffcae93d97a4d8e966447d1c53343da37fc68e6df56a3a093d0"
+}

@@ -1,0 +1,11 @@
+{
+  "capture_metadata_sha256": "cdbf510506ed743c492f78de3c99161cb3a044bdbed0759874f7e6c8bbcf1897",
+  "damage_or_polygon_columns_read": false,
+  "new_imagery_bytes": 0,
+  "new_network_bytes": 84672,
+  "public_metadata_only": true,
+  "selected_post_gsd_max_m": 2.9729018,
+  "selected_post_gsd_min_m": 1.7746705,
+  "selected_rows": 36,
+  "status": "PASS"
+}

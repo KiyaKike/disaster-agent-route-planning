@@ -1,0 +1,50 @@
+{
+  "area_is_published_reference_proxy": true,
+  "followup_screen_passed": true,
+  "gained_reference_pixels": 3882,
+  "input_interface_changes_prediction": true,
+  "lost_reference_pixels": 1,
+  "native_crop": {
+    "covered_reference_pixels": 915,
+    "detectable_reference_events": 1,
+    "detectable_reference_scenes": 1,
+    "domain": "all_published_pixels",
+    "event_macro_covered_pixels_per_scene": 50.833333333333336,
+    "event_macro_recall_target_events": 0.16770527859237536,
+    "events": 3,
+    "input_mode": "crop128_mosaic_native",
+    "pooled_area_recall": 0.04775823372827392,
+    "pooled_reference_precision": 0.13545521835677277,
+    "reference_false_positive_pixels": 5840,
+    "reference_pixels": 19159,
+    "reference_positive_events": 2,
+    "scenes": 18
+  },
+  "native_whole": {
+    "covered_reference_pixels": 4796,
+    "detectable_reference_events": 2,
+    "detectable_reference_scenes": 2,
+    "domain": "all_published_pixels",
+    "event_macro_covered_pixels_per_scene": 266.44444444444446,
+    "event_macro_recall_target_events": 0.34618261008311485,
+    "events": 3,
+    "input_mode": "whole512_native",
+    "pooled_area_recall": 0.25032621744349914,
+    "pooled_reference_precision": 0.8099983110960987,
+    "reference_false_positive_pixels": 1125,
+    "reference_pixels": 19159,
+    "reference_positive_events": 2,
+    "scenes": 18
+  },
+  "new_search_method_selected": false,
+  "preserved_reference_pixels": 914,
+  "primary_domain": "all_published_pixels",
+  "reference_coverage_decreased_scenes": 0,
+  "reference_coverage_equal_scenes": 16,
+  "reference_coverage_increased_scenes": 2,
+  "reopened_events": [
+    "EARTHQUAKE-TURKEY"
+  ],
+  "unique_cause_identified": false,
+  "whole_input_is_not_budget8_policy": true
+}

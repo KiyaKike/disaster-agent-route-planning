@@ -1,0 +1,6994 @@
+{
+  "episodes": [
+    {
+      "budget": 20,
+      "energy_used": 0.0,
+      "environment_seed": 2028110300,
+      "history": [],
+      "moves": 0,
+      "planner_seed": 2026110300,
+      "planning_simulations": 100,
+      "policy": "pomcp_random",
+      "remaining_energy": 20.0,
+      "returned": true,
+      "senses": 0,
+      "sensor_model": "uninformative",
+      "total_reward": 0.0,
+      "truth": [
+        false,
+        false,
+        false
+      ],
+      "world_id": 0
+    },
+    {
+      "budget": 20,
+      "energy_used": 0.0,
+      "environment_seed": 2028110300,
+      "history": [],
+      "moves": 0,
+      "planner_seed": 2026110300,
+      "planning_simulations": 100,
+      "policy": "pomcp_gcb",
+      "remaining_energy": 20.0,
+      "returned": true,
+      "senses": 0,
+      "sensor_model": "uninformative",
+      "total_reward": 0.0,
+      "truth": [
+        false,
+        false,
+        false
+      ],
+      "world_id": 0
+    },
+    {
+      "budget": 20,
+      "energy_used": 0.0,
+      "environment_seed": 2028110301,
+      "history": [],
+      "moves": 0,
+      "planner_seed": 2026110301,
+      "planning_simulations": 100,
+      "policy": "pomcp_random",
+      "remaining_energy": 20.0,
+      "returned": true,
+      "senses": 0,
+      "sensor_model": "uninformative",
+      "total_reward": 0.0,
+      "truth": [
+        false,
+        false,
+        false
+      ],
+      "world_id": 0
+    },
+    {
+      "budget": 20,
+      "energy_used": 20.0,
+      "environment_seed": 2028110301,
+      "history": [
+        {
+          "action": [
+            "sense",
+            1
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            0,
+            0
+          ],
+          "after_remaining_energy": 18.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              0,
+              0
+            ],
+            "remaining_energy": 20.0
+          },
+          "observation": [
+            true,
+            true,
+            true
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              1,
+              0
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            1,
+            0
+          ],
+          "after_remaining_energy": 17.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              0,
+              0
+            ],
+            "remaining_energy": 18.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              2,
+              0
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            2,
+            0
+          ],
+          "after_remaining_energy": 16.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              1,
+              0
+            ],
+            "remaining_energy": 17.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              3,
+              0
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            3,
+            0
+          ],
+          "after_remaining_energy": 15.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              2,
+              0
+            ],
+            "remaining_energy": 16.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              4,
+              0
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            4,
+            0
+          ],
+          "after_remaining_energy": 14.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              3,
+              0
+            ],
+            "remaining_energy": 15.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              4,
+              1
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            4,
+            1
+          ],
+          "after_remaining_energy": 13.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              4,
+              0
+            ],
+            "remaining_energy": 14.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              4,
+              0
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            4,
+            0
+          ],
+          "after_remaining_energy": 12.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              4,
+              1
+            ],
+            "remaining_energy": 13.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              3,
+              0
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            3,
+            0
+          ],
+          "after_remaining_energy": 11.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              4,
+              0
+            ],
+            "remaining_energy": 12.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              4,
+              0
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            4,
+            0
+          ],
+          "after_remaining_energy": 10.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              3,
+              0
+            ],
+            "remaining_energy": 11.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              4,
+              1
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            4,
+            1
+          ],
+          "after_remaining_energy": 9.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              4,
+              0
+            ],
+            "remaining_energy": 10.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              4,
+              0
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            4,
+            0
+          ],
+          "after_remaining_energy": 8.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              4,
+              1
+            ],
+            "remaining_energy": 9.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              4,
+              1
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            4,
+            1
+          ],
+          "after_remaining_energy": 7.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              4,
+              0
+            ],
+            "remaining_energy": 8.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              3,
+              1
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            3,
+            1
+          ],
+          "after_remaining_energy": 6.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              4,
+              1
+            ],
+            "remaining_energy": 7.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              3,
+              2
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            3,
+            2
+          ],
+          "after_remaining_energy": 5.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              3,
+              1
+            ],
+            "remaining_energy": 6.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              2,
+              2
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            2,
+            2
+          ],
+          "after_remaining_energy": 4.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              3,
+              2
+            ],
+            "remaining_energy": 5.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              2,
+              1
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            2,
+            1
+          ],
+          "after_remaining_energy": 3.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              2,
+              2
+            ],
+            "remaining_energy": 4.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              1,
+              1
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            1,
+            1
+          ],
+          "after_remaining_energy": 2.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              2,
+              1
+            ],
+            "remaining_energy": 3.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              0,
+              1
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            0,
+            1
+          ],
+          "after_remaining_energy": 1.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              1,
+              1
+            ],
+            "remaining_energy": 2.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              0,
+              0
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            0,
+            0
+          ],
+          "after_remaining_energy": 0.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              0,
+              1
+            ],
+            "remaining_energy": 1.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        }
+      ],
+      "moves": 18,
+      "planner_seed": 2026110301,
+      "planning_simulations": 2000,
+      "policy": "pomcp_gcb",
+      "remaining_energy": 0.0,
+      "returned": true,
+      "senses": 1,
+      "sensor_model": "uninformative",
+      "total_reward": 0.0,
+      "truth": [
+        false,
+        false,
+        false
+      ],
+      "world_id": 0
+    },
+    {
+      "budget": 20,
+      "energy_used": 0.0,
+      "environment_seed": 2028110302,
+      "history": [],
+      "moves": 0,
+      "planner_seed": 2026110302,
+      "planning_simulations": 100,
+      "policy": "pomcp_random",
+      "remaining_energy": 20.0,
+      "returned": true,
+      "senses": 0,
+      "sensor_model": "uninformative",
+      "total_reward": 0.0,
+      "truth": [
+        false,
+        false,
+        false
+      ],
+      "world_id": 0
+    },
+    {
+      "budget": 20,
+      "energy_used": 0.0,
+      "environment_seed": 2028110302,
+      "history": [],
+      "moves": 0,
+      "planner_seed": 2026110302,
+      "planning_simulations": 100,
+      "policy": "pomcp_gcb",
+      "remaining_energy": 20.0,
+      "returned": true,
+      "senses": 0,
+      "sensor_model": "uninformative",
+      "total_reward": 0.0,
+      "truth": [
+        false,
+        false,
+        false
+      ],
+      "world_id": 0
+    },
+    {
+      "budget": 20,
+      "energy_used": 0.0,
+      "environment_seed": 2028110303,
+      "history": [],
+      "moves": 0,
+      "planner_seed": 2026110303,
+      "planning_simulations": 100,
+      "policy": "pomcp_random",
+      "remaining_energy": 20.0,
+      "returned": true,
+      "senses": 0,
+      "sensor_model": "uninformative",
+      "total_reward": 0.0,
+      "truth": [
+        false,
+        false,
+        false
+      ],
+      "world_id": 0
+    },
+    {
+      "budget": 20,
+      "energy_used": 0.0,
+      "environment_seed": 2028110303,
+      "history": [],
+      "moves": 0,
+      "planner_seed": 2026110303,
+      "planning_simulations": 100,
+      "policy": "pomcp_gcb",
+      "remaining_energy": 20.0,
+      "returned": true,
+      "senses": 0,
+      "sensor_model": "uninformative",
+      "total_reward": 0.0,
+      "truth": [
+        false,
+        false,
+        false
+      ],
+      "world_id": 0
+    },
+    {
+      "budget": 20,
+      "energy_used": 0.0,
+      "environment_seed": 2028111300,
+      "history": [],
+      "moves": 0,
+      "planner_seed": 2026120300,
+      "planning_simulations": 100,
+      "policy": "pomcp_random",
+      "remaining_energy": 20.0,
+      "returned": true,
+      "senses": 0,
+      "sensor_model": "uninformative",
+      "total_reward": 0.0,
+      "truth": [
+        false,
+        false,
+        true
+      ],
+      "world_id": 1
+    },
+    {
+      "budget": 20,
+      "energy_used": 0.0,
+      "environment_seed": 2028111300,
+      "history": [],
+      "moves": 0,
+      "planner_seed": 2026120300,
+      "planning_simulations": 100,
+      "policy": "pomcp_gcb",
+      "remaining_energy": 20.0,
+      "returned": true,
+      "senses": 0,
+      "sensor_model": "uninformative",
+      "total_reward": 0.0,
+      "truth": [
+        false,
+        false,
+        true
+      ],
+      "world_id": 1
+    },
+    {
+      "budget": 20,
+      "energy_used": 0.0,
+      "environment_seed": 2028111301,
+      "history": [],
+      "moves": 0,
+      "planner_seed": 2026120301,
+      "planning_simulations": 100,
+      "policy": "pomcp_random",
+      "remaining_energy": 20.0,
+      "returned": true,
+      "senses": 0,
+      "sensor_model": "uninformative",
+      "total_reward": 0.0,
+      "truth": [
+        false,
+        false,
+        true
+      ],
+      "world_id": 1
+    },
+    {
+      "budget": 20,
+      "energy_used": 20.0,
+      "environment_seed": 2028111301,
+      "history": [
+        {
+          "action": [
+            "sense",
+            0
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            0,
+            0
+          ],
+          "after_remaining_energy": 19.5,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              0,
+              0
+            ],
+            "remaining_energy": 20.0
+          },
+          "observation": [
+            false,
+            false,
+            false
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              1,
+              0
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            1,
+            0
+          ],
+          "after_remaining_energy": 18.5,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              0,
+              0
+            ],
+            "remaining_energy": 19.5
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              2,
+              0
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            2,
+            0
+          ],
+          "after_remaining_energy": 17.5,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              1,
+              0
+            ],
+            "remaining_energy": 18.5
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              1,
+              0
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            1,
+            0
+          ],
+          "after_remaining_energy": 16.5,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              2,
+              0
+            ],
+            "remaining_energy": 17.5
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              2,
+              0
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            2,
+            0
+          ],
+          "after_remaining_energy": 15.5,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              1,
+              0
+            ],
+            "remaining_energy": 16.5
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              3,
+              0
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            3,
+            0
+          ],
+          "after_remaining_energy": 14.5,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              2,
+              0
+            ],
+            "remaining_energy": 15.5
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              4,
+              0
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            4,
+            0
+          ],
+          "after_remaining_energy": 13.5,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              3,
+              0
+            ],
+            "remaining_energy": 14.5
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              4,
+              1
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            4,
+            1
+          ],
+          "after_remaining_energy": 12.5,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              4,
+              0
+            ],
+            "remaining_energy": 13.5
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              4,
+              2
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            4,
+            2
+          ],
+          "after_remaining_energy": 11.5,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              4,
+              1
+            ],
+            "remaining_energy": 12.5
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              4,
+              1
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            4,
+            1
+          ],
+          "after_remaining_energy": 10.5,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              4,
+              2
+            ],
+            "remaining_energy": 11.5
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              4,
+              0
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            4,
+            0
+          ],
+          "after_remaining_energy": 9.5,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              4,
+              1
+            ],
+            "remaining_energy": 10.5
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              3,
+              0
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            3,
+            0
+          ],
+          "after_remaining_energy": 8.5,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              4,
+              0
+            ],
+            "remaining_energy": 9.5
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              4,
+              0
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            4,
+            0
+          ],
+          "after_remaining_energy": 7.5,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              3,
+              0
+            ],
+            "remaining_energy": 8.5
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              3,
+              0
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            3,
+            0
+          ],
+          "after_remaining_energy": 6.5,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              4,
+              0
+            ],
+            "remaining_energy": 7.5
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              2,
+              0
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            2,
+            0
+          ],
+          "after_remaining_energy": 5.5,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              3,
+              0
+            ],
+            "remaining_energy": 6.5
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              1,
+              0
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            1,
+            0
+          ],
+          "after_remaining_energy": 4.5,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              2,
+              0
+            ],
+            "remaining_energy": 5.5
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              0,
+              0
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            0,
+            0
+          ],
+          "after_remaining_energy": 3.5,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              1,
+              0
+            ],
+            "remaining_energy": 4.5
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              0,
+              1
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            0,
+            1
+          ],
+          "after_remaining_energy": 2.5,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              0,
+              0
+            ],
+            "remaining_energy": 3.5
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              0,
+              0
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            0,
+            0
+          ],
+          "after_remaining_energy": 1.5,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              0,
+              1
+            ],
+            "remaining_energy": 2.5
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "sense",
+            0
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            0,
+            0
+          ],
+          "after_remaining_energy": 1.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              0,
+              0
+            ],
+            "remaining_energy": 1.5
+          },
+          "observation": [
+            true,
+            true,
+            false
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "sense",
+            0
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            0,
+            0
+          ],
+          "after_remaining_energy": 0.5,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              0,
+              0
+            ],
+            "remaining_energy": 1.0
+          },
+          "observation": [
+            false,
+            true,
+            false
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "sense",
+            0
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            0,
+            0
+          ],
+          "after_remaining_energy": 0.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              0,
+              0
+            ],
+            "remaining_energy": 0.5
+          },
+          "observation": [
+            true,
+            true,
+            false
+          ],
+          "reward": 0.0
+        }
+      ],
+      "moves": 18,
+      "planner_seed": 2026120301,
+      "planning_simulations": 2300,
+      "policy": "pomcp_gcb",
+      "remaining_energy": 0.0,
+      "returned": true,
+      "senses": 4,
+      "sensor_model": "uninformative",
+      "total_reward": 0.0,
+      "truth": [
+        false,
+        false,
+        true
+      ],
+      "world_id": 1
+    },
+    {
+      "budget": 20,
+      "energy_used": 0.0,
+      "environment_seed": 2028111302,
+      "history": [],
+      "moves": 0,
+      "planner_seed": 2026120302,
+      "planning_simulations": 100,
+      "policy": "pomcp_random",
+      "remaining_energy": 20.0,
+      "returned": true,
+      "senses": 0,
+      "sensor_model": "uninformative",
+      "total_reward": 0.0,
+      "truth": [
+        false,
+        false,
+        true
+      ],
+      "world_id": 1
+    },
+    {
+      "budget": 20,
+      "energy_used": 3.0,
+      "environment_seed": 2028111302,
+      "history": [
+        {
+          "action": [
+            "move",
+            [
+              0,
+              1
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            0,
+            1
+          ],
+          "after_remaining_energy": 19.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              0,
+              0
+            ],
+            "remaining_energy": 20.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              0,
+              0
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            0,
+            0
+          ],
+          "after_remaining_energy": 18.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              0,
+              1
+            ],
+            "remaining_energy": 19.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "sense",
+            0
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            0,
+            0
+          ],
+          "after_remaining_energy": 17.5,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              0,
+              0
+            ],
+            "remaining_energy": 18.0
+          },
+          "observation": [
+            true,
+            false,
+            true
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "sense",
+            0
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            0,
+            0
+          ],
+          "after_remaining_energy": 17.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              0,
+              0
+            ],
+            "remaining_energy": 17.5
+          },
+          "observation": [
+            true,
+            true,
+            false
+          ],
+          "reward": 0.0
+        }
+      ],
+      "moves": 2,
+      "planner_seed": 2026120302,
+      "planning_simulations": 500,
+      "policy": "pomcp_gcb",
+      "remaining_energy": 17.0,
+      "returned": true,
+      "senses": 2,
+      "sensor_model": "uninformative",
+      "total_reward": 0.0,
+      "truth": [
+        false,
+        false,
+        true
+      ],
+      "world_id": 1
+    },
+    {
+      "budget": 20,
+      "energy_used": 0.0,
+      "environment_seed": 2028111303,
+      "history": [],
+      "moves": 0,
+      "planner_seed": 2026120303,
+      "planning_simulations": 100,
+      "policy": "pomcp_random",
+      "remaining_energy": 20.0,
+      "returned": true,
+      "senses": 0,
+      "sensor_model": "uninformative",
+      "total_reward": 0.0,
+      "truth": [
+        false,
+        false,
+        true
+      ],
+      "world_id": 1
+    },
+    {
+      "budget": 20,
+      "energy_used": 0.5,
+      "environment_seed": 2028111303,
+      "history": [
+        {
+          "action": [
+            "sense",
+            0
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            0,
+            0
+          ],
+          "after_remaining_energy": 19.5,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              0,
+              0
+            ],
+            "remaining_energy": 20.0
+          },
+          "observation": [
+            false,
+            true,
+            false
+          ],
+          "reward": 0.0
+        }
+      ],
+      "moves": 0,
+      "planner_seed": 2026120303,
+      "planning_simulations": 200,
+      "policy": "pomcp_gcb",
+      "remaining_energy": 19.5,
+      "returned": true,
+      "senses": 1,
+      "sensor_model": "uninformative",
+      "total_reward": 0.0,
+      "truth": [
+        false,
+        false,
+        true
+      ],
+      "world_id": 1
+    },
+    {
+      "budget": 20,
+      "energy_used": 0.0,
+      "environment_seed": 2028112300,
+      "history": [],
+      "moves": 0,
+      "planner_seed": 2026130300,
+      "planning_simulations": 100,
+      "policy": "pomcp_random",
+      "remaining_energy": 20.0,
+      "returned": true,
+      "senses": 0,
+      "sensor_model": "uninformative",
+      "total_reward": 0.0,
+      "truth": [
+        false,
+        true,
+        false
+      ],
+      "world_id": 2
+    },
+    {
+      "budget": 20,
+      "energy_used": 0.0,
+      "environment_seed": 2028112300,
+      "history": [],
+      "moves": 0,
+      "planner_seed": 2026130300,
+      "planning_simulations": 100,
+      "policy": "pomcp_gcb",
+      "remaining_energy": 20.0,
+      "returned": true,
+      "senses": 0,
+      "sensor_model": "uninformative",
+      "total_reward": 0.0,
+      "truth": [
+        false,
+        true,
+        false
+      ],
+      "world_id": 2
+    },
+    {
+      "budget": 20,
+      "energy_used": 0.0,
+      "environment_seed": 2028112301,
+      "history": [],
+      "moves": 0,
+      "planner_seed": 2026130301,
+      "planning_simulations": 100,
+      "policy": "pomcp_random",
+      "remaining_energy": 20.0,
+      "returned": true,
+      "senses": 0,
+      "sensor_model": "uninformative",
+      "total_reward": 0.0,
+      "truth": [
+        false,
+        true,
+        false
+      ],
+      "world_id": 2
+    },
+    {
+      "budget": 20,
+      "energy_used": 20.0,
+      "environment_seed": 2028112301,
+      "history": [
+        {
+          "action": [
+            "move",
+            [
+              1,
+              0
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            1,
+            0
+          ],
+          "after_remaining_energy": 19.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              0,
+              0
+            ],
+            "remaining_energy": 20.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              2,
+              0
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            2,
+            0
+          ],
+          "after_remaining_energy": 18.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              1,
+              0
+            ],
+            "remaining_energy": 19.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              3,
+              0
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            3,
+            0
+          ],
+          "after_remaining_energy": 17.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              2,
+              0
+            ],
+            "remaining_energy": 18.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              4,
+              0
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            4,
+            0
+          ],
+          "after_remaining_energy": 16.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              3,
+              0
+            ],
+            "remaining_energy": 17.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              4,
+              1
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            4,
+            1
+          ],
+          "after_remaining_energy": 15.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              4,
+              0
+            ],
+            "remaining_energy": 16.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              4,
+              2
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            4,
+            2
+          ],
+          "after_remaining_energy": 14.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              4,
+              1
+            ],
+            "remaining_energy": 15.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              4,
+              1
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            4,
+            1
+          ],
+          "after_remaining_energy": 13.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              4,
+              2
+            ],
+            "remaining_energy": 14.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              4,
+              0
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            4,
+            0
+          ],
+          "after_remaining_energy": 12.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              4,
+              1
+            ],
+            "remaining_energy": 13.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              4,
+              1
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            4,
+            1
+          ],
+          "after_remaining_energy": 11.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              4,
+              0
+            ],
+            "remaining_energy": 12.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              3,
+              1
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            3,
+            1
+          ],
+          "after_remaining_energy": 10.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              4,
+              1
+            ],
+            "remaining_energy": 11.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              3,
+              2
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            3,
+            2
+          ],
+          "after_remaining_energy": 9.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              3,
+              1
+            ],
+            "remaining_energy": 10.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              4,
+              2
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            4,
+            2
+          ],
+          "after_remaining_energy": 8.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              3,
+              2
+            ],
+            "remaining_energy": 9.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              4,
+              1
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            4,
+            1
+          ],
+          "after_remaining_energy": 7.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              4,
+              2
+            ],
+            "remaining_energy": 8.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              4,
+              2
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            4,
+            2
+          ],
+          "after_remaining_energy": 6.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              4,
+              1
+            ],
+            "remaining_energy": 7.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              4,
+              1
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            4,
+            1
+          ],
+          "after_remaining_energy": 5.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              4,
+              2
+            ],
+            "remaining_energy": 6.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              3,
+              1
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            3,
+            1
+          ],
+          "after_remaining_energy": 4.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              4,
+              1
+            ],
+            "remaining_energy": 5.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              2,
+              1
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            2,
+            1
+          ],
+          "after_remaining_energy": 3.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              3,
+              1
+            ],
+            "remaining_energy": 4.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              1,
+              1
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            1,
+            1
+          ],
+          "after_remaining_energy": 2.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              2,
+              1
+            ],
+            "remaining_energy": 3.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              0,
+              1
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            0,
+            1
+          ],
+          "after_remaining_energy": 1.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              1,
+              1
+            ],
+            "remaining_energy": 2.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              0,
+              0
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            0,
+            0
+          ],
+          "after_remaining_energy": 0.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              0,
+              1
+            ],
+            "remaining_energy": 1.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        }
+      ],
+      "moves": 20,
+      "planner_seed": 2026130301,
+      "planning_simulations": 2100,
+      "policy": "pomcp_gcb",
+      "remaining_energy": 0.0,
+      "returned": true,
+      "senses": 0,
+      "sensor_model": "uninformative",
+      "total_reward": 0.0,
+      "truth": [
+        false,
+        true,
+        false
+      ],
+      "world_id": 2
+    },
+    {
+      "budget": 20,
+      "energy_used": 0.0,
+      "environment_seed": 2028112302,
+      "history": [],
+      "moves": 0,
+      "planner_seed": 2026130302,
+      "planning_simulations": 100,
+      "policy": "pomcp_random",
+      "remaining_energy": 20.0,
+      "returned": true,
+      "senses": 0,
+      "sensor_model": "uninformative",
+      "total_reward": 0.0,
+      "truth": [
+        false,
+        true,
+        false
+      ],
+      "world_id": 2
+    },
+    {
+      "budget": 20,
+      "energy_used": 8.5,
+      "environment_seed": 2028112302,
+      "history": [
+        {
+          "action": [
+            "move",
+            [
+              0,
+              1
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            0,
+            1
+          ],
+          "after_remaining_energy": 19.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              0,
+              0
+            ],
+            "remaining_energy": 20.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              0,
+              0
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            0,
+            0
+          ],
+          "after_remaining_energy": 18.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              0,
+              1
+            ],
+            "remaining_energy": 19.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "sense",
+            1
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            0,
+            0
+          ],
+          "after_remaining_energy": 16.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              0,
+              0
+            ],
+            "remaining_energy": 18.0
+          },
+          "observation": [
+            true,
+            true,
+            true
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "sense",
+            1
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            0,
+            0
+          ],
+          "after_remaining_energy": 14.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              0,
+              0
+            ],
+            "remaining_energy": 16.0
+          },
+          "observation": [
+            false,
+            true,
+            true
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "sense",
+            0
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            0,
+            0
+          ],
+          "after_remaining_energy": 13.5,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              0,
+              0
+            ],
+            "remaining_energy": 14.0
+          },
+          "observation": [
+            true,
+            true,
+            true
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              1,
+              0
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            1,
+            0
+          ],
+          "after_remaining_energy": 12.5,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              0,
+              0
+            ],
+            "remaining_energy": 13.5
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              0,
+              0
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            0,
+            0
+          ],
+          "after_remaining_energy": 11.5,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              1,
+              0
+            ],
+            "remaining_energy": 12.5
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        }
+      ],
+      "moves": 4,
+      "planner_seed": 2026130302,
+      "planning_simulations": 800,
+      "policy": "pomcp_gcb",
+      "remaining_energy": 11.5,
+      "returned": true,
+      "senses": 3,
+      "sensor_model": "uninformative",
+      "total_reward": 0.0,
+      "truth": [
+        false,
+        true,
+        false
+      ],
+      "world_id": 2
+    },
+    {
+      "budget": 20,
+      "energy_used": 0.0,
+      "environment_seed": 2028112303,
+      "history": [],
+      "moves": 0,
+      "planner_seed": 2026130303,
+      "planning_simulations": 100,
+      "policy": "pomcp_random",
+      "remaining_energy": 20.0,
+      "returned": true,
+      "senses": 0,
+      "sensor_model": "uninformative",
+      "total_reward": 0.0,
+      "truth": [
+        false,
+        true,
+        false
+      ],
+      "world_id": 2
+    },
+    {
+      "budget": 20,
+      "energy_used": 0.0,
+      "environment_seed": 2028112303,
+      "history": [],
+      "moves": 0,
+      "planner_seed": 2026130303,
+      "planning_simulations": 100,
+      "policy": "pomcp_gcb",
+      "remaining_energy": 20.0,
+      "returned": true,
+      "senses": 0,
+      "sensor_model": "uninformative",
+      "total_reward": 0.0,
+      "truth": [
+        false,
+        true,
+        false
+      ],
+      "world_id": 2
+    },
+    {
+      "budget": 20,
+      "energy_used": 0.0,
+      "environment_seed": 2028113300,
+      "history": [],
+      "moves": 0,
+      "planner_seed": 2026140300,
+      "planning_simulations": 100,
+      "policy": "pomcp_random",
+      "remaining_energy": 20.0,
+      "returned": true,
+      "senses": 0,
+      "sensor_model": "uninformative",
+      "total_reward": 0.0,
+      "truth": [
+        false,
+        true,
+        true
+      ],
+      "world_id": 3
+    },
+    {
+      "budget": 20,
+      "energy_used": 2.0,
+      "environment_seed": 2028113300,
+      "history": [
+        {
+          "action": [
+            "sense",
+            1
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            0,
+            0
+          ],
+          "after_remaining_energy": 18.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              0,
+              0
+            ],
+            "remaining_energy": 20.0
+          },
+          "observation": [
+            false,
+            false,
+            false
+          ],
+          "reward": 0.0
+        }
+      ],
+      "moves": 0,
+      "planner_seed": 2026140300,
+      "planning_simulations": 200,
+      "policy": "pomcp_gcb",
+      "remaining_energy": 18.0,
+      "returned": true,
+      "senses": 1,
+      "sensor_model": "uninformative",
+      "total_reward": 0.0,
+      "truth": [
+        false,
+        true,
+        true
+      ],
+      "world_id": 3
+    },
+    {
+      "budget": 20,
+      "energy_used": 0.0,
+      "environment_seed": 2028113301,
+      "history": [],
+      "moves": 0,
+      "planner_seed": 2026140301,
+      "planning_simulations": 100,
+      "policy": "pomcp_random",
+      "remaining_energy": 20.0,
+      "returned": true,
+      "senses": 0,
+      "sensor_model": "uninformative",
+      "total_reward": 0.0,
+      "truth": [
+        false,
+        true,
+        true
+      ],
+      "world_id": 3
+    },
+    {
+      "budget": 20,
+      "energy_used": 0.5,
+      "environment_seed": 2028113301,
+      "history": [
+        {
+          "action": [
+            "sense",
+            0
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            0,
+            0
+          ],
+          "after_remaining_energy": 19.5,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              0,
+              0
+            ],
+            "remaining_energy": 20.0
+          },
+          "observation": [
+            true,
+            false,
+            true
+          ],
+          "reward": 0.0
+        }
+      ],
+      "moves": 0,
+      "planner_seed": 2026140301,
+      "planning_simulations": 200,
+      "policy": "pomcp_gcb",
+      "remaining_energy": 19.5,
+      "returned": true,
+      "senses": 1,
+      "sensor_model": "uninformative",
+      "total_reward": 0.0,
+      "truth": [
+        false,
+        true,
+        true
+      ],
+      "world_id": 3
+    },
+    {
+      "budget": 20,
+      "energy_used": 2.0,
+      "environment_seed": 2028113302,
+      "history": [
+        {
+          "action": [
+            "sense",
+            1
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            0,
+            0
+          ],
+          "after_remaining_energy": 18.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              0,
+              0
+            ],
+            "remaining_energy": 20.0
+          },
+          "observation": [
+            false,
+            true,
+            true
+          ],
+          "reward": 0.0
+        }
+      ],
+      "moves": 0,
+      "planner_seed": 2026140302,
+      "planning_simulations": 200,
+      "policy": "pomcp_random",
+      "remaining_energy": 18.0,
+      "returned": true,
+      "senses": 1,
+      "sensor_model": "uninformative",
+      "total_reward": 0.0,
+      "truth": [
+        false,
+        true,
+        true
+      ],
+      "world_id": 3
+    },
+    {
+      "budget": 20,
+      "energy_used": 0.0,
+      "environment_seed": 2028113302,
+      "history": [],
+      "moves": 0,
+      "planner_seed": 2026140302,
+      "planning_simulations": 100,
+      "policy": "pomcp_gcb",
+      "remaining_energy": 20.0,
+      "returned": true,
+      "senses": 0,
+      "sensor_model": "uninformative",
+      "total_reward": 0.0,
+      "truth": [
+        false,
+        true,
+        true
+      ],
+      "world_id": 3
+    },
+    {
+      "budget": 20,
+      "energy_used": 0.0,
+      "environment_seed": 2028113303,
+      "history": [],
+      "moves": 0,
+      "planner_seed": 2026140303,
+      "planning_simulations": 100,
+      "policy": "pomcp_random",
+      "remaining_energy": 20.0,
+      "returned": true,
+      "senses": 0,
+      "sensor_model": "uninformative",
+      "total_reward": 0.0,
+      "truth": [
+        false,
+        true,
+        true
+      ],
+      "world_id": 3
+    },
+    {
+      "budget": 20,
+      "energy_used": 20.0,
+      "environment_seed": 2028113303,
+      "history": [
+        {
+          "action": [
+            "move",
+            [
+              0,
+              1
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            0,
+            1
+          ],
+          "after_remaining_energy": 19.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              0,
+              0
+            ],
+            "remaining_energy": 20.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              0,
+              2
+            ]
+          ],
+          "after_belief": [
+            0.0,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            0,
+            2
+          ],
+          "after_remaining_energy": 18.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              0,
+              1
+            ],
+            "remaining_energy": 19.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": -10.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              1,
+              2
+            ]
+          ],
+          "after_belief": [
+            0.0,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            1,
+            2
+          ],
+          "after_remaining_energy": 17.0,
+          "before": {
+            "belief": [
+              0.0,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 1,
+            "position": [
+              0,
+              2
+            ],
+            "remaining_energy": 18.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              2,
+              2
+            ]
+          ],
+          "after_belief": [
+            0.0,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            2,
+            2
+          ],
+          "after_remaining_energy": 16.0,
+          "before": {
+            "belief": [
+              0.0,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 1,
+            "position": [
+              1,
+              2
+            ],
+            "remaining_energy": 17.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              1,
+              2
+            ]
+          ],
+          "after_belief": [
+            0.0,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            1,
+            2
+          ],
+          "after_remaining_energy": 15.0,
+          "before": {
+            "belief": [
+              0.0,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 1,
+            "position": [
+              2,
+              2
+            ],
+            "remaining_energy": 16.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              2,
+              2
+            ]
+          ],
+          "after_belief": [
+            0.0,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            2,
+            2
+          ],
+          "after_remaining_energy": 14.0,
+          "before": {
+            "belief": [
+              0.0,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 1,
+            "position": [
+              1,
+              2
+            ],
+            "remaining_energy": 15.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "sense",
+            0
+          ],
+          "after_belief": [
+            0.0,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            2,
+            2
+          ],
+          "after_remaining_energy": 13.5,
+          "before": {
+            "belief": [
+              0.0,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 1,
+            "position": [
+              2,
+              2
+            ],
+            "remaining_energy": 14.0
+          },
+          "observation": [
+            true,
+            true,
+            true
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "sense",
+            0
+          ],
+          "after_belief": [
+            0.0,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            2,
+            2
+          ],
+          "after_remaining_energy": 13.0,
+          "before": {
+            "belief": [
+              0.0,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 1,
+            "position": [
+              2,
+              2
+            ],
+            "remaining_energy": 13.5
+          },
+          "observation": [
+            true,
+            true,
+            true
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              2,
+              1
+            ]
+          ],
+          "after_belief": [
+            0.0,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            2,
+            1
+          ],
+          "after_remaining_energy": 12.0,
+          "before": {
+            "belief": [
+              0.0,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 1,
+            "position": [
+              2,
+              2
+            ],
+            "remaining_energy": 13.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              3,
+              1
+            ]
+          ],
+          "after_belief": [
+            0.0,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            3,
+            1
+          ],
+          "after_remaining_energy": 11.0,
+          "before": {
+            "belief": [
+              0.0,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 1,
+            "position": [
+              2,
+              1
+            ],
+            "remaining_energy": 12.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              3,
+              0
+            ]
+          ],
+          "after_belief": [
+            0.0,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            3,
+            0
+          ],
+          "after_remaining_energy": 10.0,
+          "before": {
+            "belief": [
+              0.0,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 1,
+            "position": [
+              3,
+              1
+            ],
+            "remaining_energy": 11.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              3,
+              1
+            ]
+          ],
+          "after_belief": [
+            0.0,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            3,
+            1
+          ],
+          "after_remaining_energy": 9.0,
+          "before": {
+            "belief": [
+              0.0,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 1,
+            "position": [
+              3,
+              0
+            ],
+            "remaining_energy": 10.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              2,
+              1
+            ]
+          ],
+          "after_belief": [
+            0.0,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            2,
+            1
+          ],
+          "after_remaining_energy": 8.0,
+          "before": {
+            "belief": [
+              0.0,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 1,
+            "position": [
+              3,
+              1
+            ],
+            "remaining_energy": 9.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              2,
+              0
+            ]
+          ],
+          "after_belief": [
+            0.0,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            2,
+            0
+          ],
+          "after_remaining_energy": 7.0,
+          "before": {
+            "belief": [
+              0.0,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 1,
+            "position": [
+              2,
+              1
+            ],
+            "remaining_energy": 8.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              3,
+              0
+            ]
+          ],
+          "after_belief": [
+            0.0,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            3,
+            0
+          ],
+          "after_remaining_energy": 6.0,
+          "before": {
+            "belief": [
+              0.0,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 1,
+            "position": [
+              2,
+              0
+            ],
+            "remaining_energy": 7.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              2,
+              0
+            ]
+          ],
+          "after_belief": [
+            0.0,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            2,
+            0
+          ],
+          "after_remaining_energy": 5.0,
+          "before": {
+            "belief": [
+              0.0,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 1,
+            "position": [
+              3,
+              0
+            ],
+            "remaining_energy": 6.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              1,
+              0
+            ]
+          ],
+          "after_belief": [
+            0.0,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            1,
+            0
+          ],
+          "after_remaining_energy": 4.0,
+          "before": {
+            "belief": [
+              0.0,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 1,
+            "position": [
+              2,
+              0
+            ],
+            "remaining_energy": 5.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              0,
+              0
+            ]
+          ],
+          "after_belief": [
+            0.0,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            0,
+            0
+          ],
+          "after_remaining_energy": 3.0,
+          "before": {
+            "belief": [
+              0.0,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 1,
+            "position": [
+              1,
+              0
+            ],
+            "remaining_energy": 4.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              0,
+              1
+            ]
+          ],
+          "after_belief": [
+            0.0,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            0,
+            1
+          ],
+          "after_remaining_energy": 2.0,
+          "before": {
+            "belief": [
+              0.0,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 1,
+            "position": [
+              0,
+              0
+            ],
+            "remaining_energy": 3.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              0,
+              0
+            ]
+          ],
+          "after_belief": [
+            0.0,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            0,
+            0
+          ],
+          "after_remaining_energy": 1.0,
+          "before": {
+            "belief": [
+              0.0,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 1,
+            "position": [
+              0,
+              1
+            ],
+            "remaining_energy": 2.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "sense",
+            0
+          ],
+          "after_belief": [
+            0.0,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            0,
+            0
+          ],
+          "after_remaining_energy": 0.5,
+          "before": {
+            "belief": [
+              0.0,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 1,
+            "position": [
+              0,
+              0
+            ],
+            "remaining_energy": 1.0
+          },
+          "observation": [
+            false,
+            true,
+            false
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "sense",
+            0
+          ],
+          "after_belief": [
+            0.0,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            0,
+            0
+          ],
+          "after_remaining_energy": 0.0,
+          "before": {
+            "belief": [
+              0.0,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 1,
+            "position": [
+              0,
+              0
+            ],
+            "remaining_energy": 0.5
+          },
+          "observation": [
+            true,
+            true,
+            true
+          ],
+          "reward": 0.0
+        }
+      ],
+      "moves": 18,
+      "planner_seed": 2026140303,
+      "planning_simulations": 2300,
+      "policy": "pomcp_gcb",
+      "remaining_energy": 0.0,
+      "returned": true,
+      "senses": 4,
+      "sensor_model": "uninformative",
+      "total_reward": -10.0,
+      "truth": [
+        false,
+        true,
+        true
+      ],
+      "world_id": 3
+    },
+    {
+      "budget": 20,
+      "energy_used": 0.0,
+      "environment_seed": 2028114300,
+      "history": [],
+      "moves": 0,
+      "planner_seed": 2026150300,
+      "planning_simulations": 100,
+      "policy": "pomcp_random",
+      "remaining_energy": 20.0,
+      "returned": true,
+      "senses": 0,
+      "sensor_model": "uninformative",
+      "total_reward": 0.0,
+      "truth": [
+        true,
+        false,
+        false
+      ],
+      "world_id": 4
+    },
+    {
+      "budget": 20,
+      "energy_used": 4.5,
+      "environment_seed": 2028114300,
+      "history": [
+        {
+          "action": [
+            "sense",
+            0
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            0,
+            0
+          ],
+          "after_remaining_energy": 19.5,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              0,
+              0
+            ],
+            "remaining_energy": 20.0
+          },
+          "observation": [
+            false,
+            true,
+            false
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              1,
+              0
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            1,
+            0
+          ],
+          "after_remaining_energy": 18.5,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              0,
+              0
+            ],
+            "remaining_energy": 19.5
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              0,
+              0
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            0,
+            0
+          ],
+          "after_remaining_energy": 17.5,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              1,
+              0
+            ],
+            "remaining_energy": 18.5
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "sense",
+            1
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            0,
+            0
+          ],
+          "after_remaining_energy": 15.5,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              0,
+              0
+            ],
+            "remaining_energy": 17.5
+          },
+          "observation": [
+            false,
+            false,
+            false
+          ],
+          "reward": 0.0
+        }
+      ],
+      "moves": 2,
+      "planner_seed": 2026150300,
+      "planning_simulations": 500,
+      "policy": "pomcp_gcb",
+      "remaining_energy": 15.5,
+      "returned": true,
+      "senses": 2,
+      "sensor_model": "uninformative",
+      "total_reward": 0.0,
+      "truth": [
+        true,
+        false,
+        false
+      ],
+      "world_id": 4
+    },
+    {
+      "budget": 20,
+      "energy_used": 0.0,
+      "environment_seed": 2028114301,
+      "history": [],
+      "moves": 0,
+      "planner_seed": 2026150301,
+      "planning_simulations": 100,
+      "policy": "pomcp_random",
+      "remaining_energy": 20.0,
+      "returned": true,
+      "senses": 0,
+      "sensor_model": "uninformative",
+      "total_reward": 0.0,
+      "truth": [
+        true,
+        false,
+        false
+      ],
+      "world_id": 4
+    },
+    {
+      "budget": 20,
+      "energy_used": 0.0,
+      "environment_seed": 2028114301,
+      "history": [],
+      "moves": 0,
+      "planner_seed": 2026150301,
+      "planning_simulations": 100,
+      "policy": "pomcp_gcb",
+      "remaining_energy": 20.0,
+      "returned": true,
+      "senses": 0,
+      "sensor_model": "uninformative",
+      "total_reward": 0.0,
+      "truth": [
+        true,
+        false,
+        false
+      ],
+      "world_id": 4
+    },
+    {
+      "budget": 20,
+      "energy_used": 0.0,
+      "environment_seed": 2028114302,
+      "history": [],
+      "moves": 0,
+      "planner_seed": 2026150302,
+      "planning_simulations": 100,
+      "policy": "pomcp_random",
+      "remaining_energy": 20.0,
+      "returned": true,
+      "senses": 0,
+      "sensor_model": "uninformative",
+      "total_reward": 0.0,
+      "truth": [
+        true,
+        false,
+        false
+      ],
+      "world_id": 4
+    },
+    {
+      "budget": 20,
+      "energy_used": 0.0,
+      "environment_seed": 2028114302,
+      "history": [],
+      "moves": 0,
+      "planner_seed": 2026150302,
+      "planning_simulations": 100,
+      "policy": "pomcp_gcb",
+      "remaining_energy": 20.0,
+      "returned": true,
+      "senses": 0,
+      "sensor_model": "uninformative",
+      "total_reward": 0.0,
+      "truth": [
+        true,
+        false,
+        false
+      ],
+      "world_id": 4
+    },
+    {
+      "budget": 20,
+      "energy_used": 0.0,
+      "environment_seed": 2028114303,
+      "history": [],
+      "moves": 0,
+      "planner_seed": 2026150303,
+      "planning_simulations": 100,
+      "policy": "pomcp_random",
+      "remaining_energy": 20.0,
+      "returned": true,
+      "senses": 0,
+      "sensor_model": "uninformative",
+      "total_reward": 0.0,
+      "truth": [
+        true,
+        false,
+        false
+      ],
+      "world_id": 4
+    },
+    {
+      "budget": 20,
+      "energy_used": 2.5,
+      "environment_seed": 2028114303,
+      "history": [
+        {
+          "action": [
+            "sense",
+            0
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            0,
+            0
+          ],
+          "after_remaining_energy": 19.5,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              0,
+              0
+            ],
+            "remaining_energy": 20.0
+          },
+          "observation": [
+            true,
+            false,
+            false
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              1,
+              0
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            1,
+            0
+          ],
+          "after_remaining_energy": 18.5,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              0,
+              0
+            ],
+            "remaining_energy": 19.5
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              0,
+              0
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            0,
+            0
+          ],
+          "after_remaining_energy": 17.5,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              1,
+              0
+            ],
+            "remaining_energy": 18.5
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        }
+      ],
+      "moves": 2,
+      "planner_seed": 2026150303,
+      "planning_simulations": 400,
+      "policy": "pomcp_gcb",
+      "remaining_energy": 17.5,
+      "returned": true,
+      "senses": 1,
+      "sensor_model": "uninformative",
+      "total_reward": 0.0,
+      "truth": [
+        true,
+        false,
+        false
+      ],
+      "world_id": 4
+    },
+    {
+      "budget": 20,
+      "energy_used": 0.0,
+      "environment_seed": 2028115300,
+      "history": [],
+      "moves": 0,
+      "planner_seed": 2026160300,
+      "planning_simulations": 100,
+      "policy": "pomcp_random",
+      "remaining_energy": 20.0,
+      "returned": true,
+      "senses": 0,
+      "sensor_model": "uninformative",
+      "total_reward": 0.0,
+      "truth": [
+        true,
+        false,
+        true
+      ],
+      "world_id": 5
+    },
+    {
+      "budget": 20,
+      "energy_used": 20.0,
+      "environment_seed": 2028115300,
+      "history": [
+        {
+          "action": [
+            "move",
+            [
+              1,
+              0
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            1,
+            0
+          ],
+          "after_remaining_energy": 19.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              0,
+              0
+            ],
+            "remaining_energy": 20.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              2,
+              0
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            2,
+            0
+          ],
+          "after_remaining_energy": 18.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              1,
+              0
+            ],
+            "remaining_energy": 19.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              2,
+              1
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            2,
+            1
+          ],
+          "after_remaining_energy": 17.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              2,
+              0
+            ],
+            "remaining_energy": 18.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              2,
+              2
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            2,
+            2
+          ],
+          "after_remaining_energy": 16.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              2,
+              1
+            ],
+            "remaining_energy": 17.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              3,
+              2
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            3,
+            2
+          ],
+          "after_remaining_energy": 15.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              2,
+              2
+            ],
+            "remaining_energy": 16.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              3,
+              1
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            3,
+            1
+          ],
+          "after_remaining_energy": 14.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              3,
+              2
+            ],
+            "remaining_energy": 15.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              3,
+              0
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            3,
+            0
+          ],
+          "after_remaining_energy": 13.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              3,
+              1
+            ],
+            "remaining_energy": 14.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              3,
+              1
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            3,
+            1
+          ],
+          "after_remaining_energy": 12.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              3,
+              0
+            ],
+            "remaining_energy": 13.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              4,
+              1
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            4,
+            1
+          ],
+          "after_remaining_energy": 11.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              3,
+              1
+            ],
+            "remaining_energy": 12.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              4,
+              2
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            4,
+            2
+          ],
+          "after_remaining_energy": 10.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              4,
+              1
+            ],
+            "remaining_energy": 11.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              4,
+              1
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            4,
+            1
+          ],
+          "after_remaining_energy": 9.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              4,
+              2
+            ],
+            "remaining_energy": 10.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              3,
+              1
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            3,
+            1
+          ],
+          "after_remaining_energy": 8.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              4,
+              1
+            ],
+            "remaining_energy": 9.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              4,
+              1
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            4,
+            1
+          ],
+          "after_remaining_energy": 7.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              3,
+              1
+            ],
+            "remaining_energy": 8.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              3,
+              1
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            3,
+            1
+          ],
+          "after_remaining_energy": 6.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              4,
+              1
+            ],
+            "remaining_energy": 7.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              3,
+              0
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            3,
+            0
+          ],
+          "after_remaining_energy": 5.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              3,
+              1
+            ],
+            "remaining_energy": 6.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              2,
+              0
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            2,
+            0
+          ],
+          "after_remaining_energy": 4.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              3,
+              0
+            ],
+            "remaining_energy": 5.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              1,
+              0
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            1,
+            0
+          ],
+          "after_remaining_energy": 3.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              2,
+              0
+            ],
+            "remaining_energy": 4.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              0,
+              0
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            0,
+            0
+          ],
+          "after_remaining_energy": 2.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              1,
+              0
+            ],
+            "remaining_energy": 3.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              0,
+              1
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            0,
+            1
+          ],
+          "after_remaining_energy": 1.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              0,
+              0
+            ],
+            "remaining_energy": 2.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              0,
+              0
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            0,
+            0
+          ],
+          "after_remaining_energy": 0.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              0,
+              1
+            ],
+            "remaining_energy": 1.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        }
+      ],
+      "moves": 20,
+      "planner_seed": 2026160300,
+      "planning_simulations": 2100,
+      "policy": "pomcp_gcb",
+      "remaining_energy": 0.0,
+      "returned": true,
+      "senses": 0,
+      "sensor_model": "uninformative",
+      "total_reward": 0.0,
+      "truth": [
+        true,
+        false,
+        true
+      ],
+      "world_id": 5
+    },
+    {
+      "budget": 20,
+      "energy_used": 0.0,
+      "environment_seed": 2028115301,
+      "history": [],
+      "moves": 0,
+      "planner_seed": 2026160301,
+      "planning_simulations": 100,
+      "policy": "pomcp_random",
+      "remaining_energy": 20.0,
+      "returned": true,
+      "senses": 0,
+      "sensor_model": "uninformative",
+      "total_reward": 0.0,
+      "truth": [
+        true,
+        false,
+        true
+      ],
+      "world_id": 5
+    },
+    {
+      "budget": 20,
+      "energy_used": 20.0,
+      "environment_seed": 2028115301,
+      "history": [
+        {
+          "action": [
+            "sense",
+            1
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            0,
+            0
+          ],
+          "after_remaining_energy": 18.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              0,
+              0
+            ],
+            "remaining_energy": 20.0
+          },
+          "observation": [
+            false,
+            false,
+            false
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "sense",
+            0
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            0,
+            0
+          ],
+          "after_remaining_energy": 17.5,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              0,
+              0
+            ],
+            "remaining_energy": 18.0
+          },
+          "observation": [
+            true,
+            true,
+            false
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              0,
+              1
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            0,
+            1
+          ],
+          "after_remaining_energy": 16.5,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              0,
+              0
+            ],
+            "remaining_energy": 17.5
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              0,
+              0
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            0,
+            0
+          ],
+          "after_remaining_energy": 15.5,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              0,
+              1
+            ],
+            "remaining_energy": 16.5
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              1,
+              0
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            1,
+            0
+          ],
+          "after_remaining_energy": 14.5,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              0,
+              0
+            ],
+            "remaining_energy": 15.5
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              2,
+              0
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            2,
+            0
+          ],
+          "after_remaining_energy": 13.5,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              1,
+              0
+            ],
+            "remaining_energy": 14.5
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              2,
+              1
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            2,
+            1
+          ],
+          "after_remaining_energy": 12.5,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              2,
+              0
+            ],
+            "remaining_energy": 13.5
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              2,
+              0
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            2,
+            0
+          ],
+          "after_remaining_energy": 11.5,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              2,
+              1
+            ],
+            "remaining_energy": 12.5
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              3,
+              0
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            3,
+            0
+          ],
+          "after_remaining_energy": 10.5,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              2,
+              0
+            ],
+            "remaining_energy": 11.5
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              4,
+              0
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            4,
+            0
+          ],
+          "after_remaining_energy": 9.5,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              3,
+              0
+            ],
+            "remaining_energy": 10.5
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              3,
+              0
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            3,
+            0
+          ],
+          "after_remaining_energy": 8.5,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              4,
+              0
+            ],
+            "remaining_energy": 9.5
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              4,
+              0
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            4,
+            0
+          ],
+          "after_remaining_energy": 7.5,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              3,
+              0
+            ],
+            "remaining_energy": 8.5
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              3,
+              0
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            3,
+            0
+          ],
+          "after_remaining_energy": 6.5,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              4,
+              0
+            ],
+            "remaining_energy": 7.5
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              2,
+              0
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            2,
+            0
+          ],
+          "after_remaining_energy": 5.5,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              3,
+              0
+            ],
+            "remaining_energy": 6.5
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              1,
+              0
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            1,
+            0
+          ],
+          "after_remaining_energy": 4.5,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              2,
+              0
+            ],
+            "remaining_energy": 5.5
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              0,
+              0
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            0,
+            0
+          ],
+          "after_remaining_energy": 3.5,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              1,
+              0
+            ],
+            "remaining_energy": 4.5
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              0,
+              1
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            0,
+            1
+          ],
+          "after_remaining_energy": 2.5,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              0,
+              0
+            ],
+            "remaining_energy": 3.5
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              0,
+              0
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            0,
+            0
+          ],
+          "after_remaining_energy": 1.5,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              0,
+              1
+            ],
+            "remaining_energy": 2.5
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "sense",
+            0
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            0,
+            0
+          ],
+          "after_remaining_energy": 1.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              0,
+              0
+            ],
+            "remaining_energy": 1.5
+          },
+          "observation": [
+            true,
+            true,
+            false
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "sense",
+            0
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            0,
+            0
+          ],
+          "after_remaining_energy": 0.5,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              0,
+              0
+            ],
+            "remaining_energy": 1.0
+          },
+          "observation": [
+            false,
+            false,
+            true
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "sense",
+            0
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            0,
+            0
+          ],
+          "after_remaining_energy": 0.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              0,
+              0
+            ],
+            "remaining_energy": 0.5
+          },
+          "observation": [
+            false,
+            true,
+            false
+          ],
+          "reward": 0.0
+        }
+      ],
+      "moves": 16,
+      "planner_seed": 2026160301,
+      "planning_simulations": 2200,
+      "policy": "pomcp_gcb",
+      "remaining_energy": 0.0,
+      "returned": true,
+      "senses": 5,
+      "sensor_model": "uninformative",
+      "total_reward": 0.0,
+      "truth": [
+        true,
+        false,
+        true
+      ],
+      "world_id": 5
+    },
+    {
+      "budget": 20,
+      "energy_used": 0.0,
+      "environment_seed": 2028115302,
+      "history": [],
+      "moves": 0,
+      "planner_seed": 2026160302,
+      "planning_simulations": 100,
+      "policy": "pomcp_random",
+      "remaining_energy": 20.0,
+      "returned": true,
+      "senses": 0,
+      "sensor_model": "uninformative",
+      "total_reward": 0.0,
+      "truth": [
+        true,
+        false,
+        true
+      ],
+      "world_id": 5
+    },
+    {
+      "budget": 20,
+      "energy_used": 0.0,
+      "environment_seed": 2028115302,
+      "history": [],
+      "moves": 0,
+      "planner_seed": 2026160302,
+      "planning_simulations": 100,
+      "policy": "pomcp_gcb",
+      "remaining_energy": 20.0,
+      "returned": true,
+      "senses": 0,
+      "sensor_model": "uninformative",
+      "total_reward": 0.0,
+      "truth": [
+        true,
+        false,
+        true
+      ],
+      "world_id": 5
+    },
+    {
+      "budget": 20,
+      "energy_used": 0.0,
+      "environment_seed": 2028115303,
+      "history": [],
+      "moves": 0,
+      "planner_seed": 2026160303,
+      "planning_simulations": 100,
+      "policy": "pomcp_random",
+      "remaining_energy": 20.0,
+      "returned": true,
+      "senses": 0,
+      "sensor_model": "uninformative",
+      "total_reward": 0.0,
+      "truth": [
+        true,
+        false,
+        true
+      ],
+      "world_id": 5
+    },
+    {
+      "budget": 20,
+      "energy_used": 4.0,
+      "environment_seed": 2028115303,
+      "history": [
+        {
+          "action": [
+            "sense",
+            1
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            0,
+            0
+          ],
+          "after_remaining_energy": 18.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              0,
+              0
+            ],
+            "remaining_energy": 20.0
+          },
+          "observation": [
+            true,
+            false,
+            false
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "sense",
+            1
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            0,
+            0
+          ],
+          "after_remaining_energy": 16.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              0,
+              0
+            ],
+            "remaining_energy": 18.0
+          },
+          "observation": [
+            true,
+            true,
+            false
+          ],
+          "reward": 0.0
+        }
+      ],
+      "moves": 0,
+      "planner_seed": 2026160303,
+      "planning_simulations": 300,
+      "policy": "pomcp_gcb",
+      "remaining_energy": 16.0,
+      "returned": true,
+      "senses": 2,
+      "sensor_model": "uninformative",
+      "total_reward": 0.0,
+      "truth": [
+        true,
+        false,
+        true
+      ],
+      "world_id": 5
+    },
+    {
+      "budget": 20,
+      "energy_used": 0.0,
+      "environment_seed": 2028116300,
+      "history": [],
+      "moves": 0,
+      "planner_seed": 2026170300,
+      "planning_simulations": 100,
+      "policy": "pomcp_random",
+      "remaining_energy": 20.0,
+      "returned": true,
+      "senses": 0,
+      "sensor_model": "uninformative",
+      "total_reward": 0.0,
+      "truth": [
+        true,
+        true,
+        false
+      ],
+      "world_id": 6
+    },
+    {
+      "budget": 20,
+      "energy_used": 2.5,
+      "environment_seed": 2028116300,
+      "history": [
+        {
+          "action": [
+            "move",
+            [
+              0,
+              1
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            0,
+            1
+          ],
+          "after_remaining_energy": 19.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              0,
+              0
+            ],
+            "remaining_energy": 20.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "move",
+            [
+              0,
+              0
+            ]
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            0,
+            0
+          ],
+          "after_remaining_energy": 18.0,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              0,
+              1
+            ],
+            "remaining_energy": 19.0
+          },
+          "observation": [
+            "visit"
+          ],
+          "reward": 0.0
+        },
+        {
+          "action": [
+            "sense",
+            0
+          ],
+          "after_belief": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "after_position": [
+            0,
+            0
+          ],
+          "after_remaining_energy": 17.5,
+          "before": {
+            "belief": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "consumed_mask": 0,
+            "position": [
+              0,
+              0
+            ],
+            "remaining_energy": 18.0
+          },
+          "observation": [
+            true,
+            true,
+            false
+          ],
+          "reward": 0.0
+        }
+      ],
+      "moves": 2,
+      "planner_seed": 2026170300,
+      "planning_simulations": 400,
+      "policy": "pomcp_gcb",
+      "remaining_energy": 17.5,
+      "returned": true,
+      "senses": 1,
+      "sensor_model": "uninformative",
+      "total_reward": 0.0,
+      "truth": [
+        true,
+        true,
+        false
+      ],
+      "world_id": 6
+    },
+    {
+      "budget": 20,
+      "energy_used": 0.0,
+      "environment_seed": 2028116301,
+      "history": [],
+      "moves": 0,
+      "planner_seed": 2026170301,
+      "planning_simulations": 100,
+      "policy": "pomcp_random",
+      "remaining_energy": 20.0,
+      "returned": true,
+      "senses": 0,
+      "sensor_model": "uninformative",
+      "total_reward": 0.0,
+      "truth": [
+        true,
+        true,
+        false
+      ],
+      "world_id": 6
+    },
+    {
+      "budget": 20,
+      "energy_used": 0.0,
+      "environment_seed": 2028116301,
+      "history": [],
+      "moves": 0,
+      "planner_seed": 2026170301,
+      "planning_simulations": 100,
+      "policy": "pomcp_gcb",
+      "remaining_energy": 20.0,
+      "returned": true,
+      "senses": 0,
+      "sensor_model": "uninformative",
+      "total_reward": 0.0,
+      "truth": [
+        true,
+        true,
+        false
+      ],
+      "world_id": 6
+    },
+    {
+      "budget": 20,
+      "energy_used": 0.0,
+      "environment_seed": 2028116302,
+      "history": [],
+      "moves": 0,
+      "planner_seed": 2026170302,
+      "planning_simulations": 100,
+      "policy": "pomcp_random",
+      "remaining_energy": 20.0,
+      "returned": true,
+      "senses": 0,
+      "sensor_model": "uninformative",
+      "total_reward": 0.0,
+      "truth": [
+        true,
+        true,
+        false
+      ],
+      "world_id": 6
+    },
+    {
+      "budget": 20,
+      "energy_used": 0.0,
+      "environment_seed": 2028116302,
+      "history": [],
+      "moves": 0,
+      "planner_seed": 2026170302,
+      "planning_simulations": 100,
+      "policy": "pomcp_gcb",
+      "remaining_energy": 20.0,
+      "returned": true,
+      "senses": 0,
+      "sensor_model": "uninformative",
+      "total_reward": 0.0,
+      "truth": [
+        true,
+        true,
+        false
+      ],
+      "world_id": 6
+    },
+    {
+      "budget": 20,
+      "energy_used": 0.0,
+      "environment_seed": 2028116303,
+      "history": [],
+      "moves": 0,
+      "planner_seed": 2026170303,
+      "planning_simulations": 100,
+      "policy": "pomcp_random",
+      "remaining_energy": 20.0,
+      "returned": true,
+      "senses": 0,
+      "sensor_model": "uninformative",
+      "total_reward": 0.0,
+      "truth": [
+        true,
+        true,
+        false
+      ],
+      "world_id": 6
+    },
+    {
+      "budget": 20,
+      "energy_used": 0.0,
+      "environment_seed": 2028116303,
+      "history": [],
+      "moves": 0,
+      "planner_seed": 2026170303,
+      "planning_simulations": 100,
+      "policy": "pomcp_gcb",
+      "remaining_energy": 20.0,
+      "returned": true,
+      "senses": 0,
+      "sensor_model": "uninformative",
+      "total_reward": 0.0,
+      "truth": [
+        true,
+        true,
+        false
+      ],
+      "world_id": 6
+    },
+    {
+      "budget": 20,
+      "energy_used": 0.0,
+      "environment_seed": 2028117300,
+      "history": [],
+      "moves": 0,
+      "planner_seed": 2026180300,
+      "planning_simulations": 100,
+      "policy": "pomcp_random",
+      "remaining_energy": 20.0,
+      "returned": true,
+      "senses": 0,
+      "sensor_model": "uninformative",
+      "total_reward": 0.0,
+      "truth": [
+        true,
+        true,
+        true
+      ],
+      "world_id": 7
+    },
+    {
+      "budget": 20,
+      "energy_used": 0.0,
+      "environment_seed": 2028117300,
+      "history": [],
+      "moves": 0,
+      "planner_seed": 2026180300,
+      "planning_simulations": 100,
+      "policy": "pomcp_gcb",
+      "remaining_energy": 20.0,
+      "returned": true,
+      "senses": 0,
+      "sensor_model": "uninformative",
+      "total_reward": 0.0,
+      "truth": [
+        true,
+        true,
+        true
+      ],
+      "world_id": 7
+    },
+    {
+      "budget": 20,
+      "energy_used": 0.0,
+      "environment_seed": 2028117301,
+      "history": [],
+      "moves": 0,
+      "planner_seed": 2026180301,
+      "planning_simulations": 100,
+      "policy": "pomcp_random",
+      "remaining_energy": 20.0,
+      "returned": true,
+      "senses": 0,
+      "sensor_model": "uninformative",
+      "total_reward": 0.0,
+      "truth": [
+        true,
+        true,
+        true
+      ],
+      "world_id": 7
+    },
+    {
+      "budget": 20,
+      "energy_used": 0.0,
+      "environment_seed": 2028117301,
+      "history": [],
+      "moves": 0,
+      "planner_seed": 2026180301,
+      "planning_simulations": 100,
+      "policy": "pomcp_gcb",
+      "remaining_energy": 20.0,
+      "returned": true,
+      "senses": 0,
+      "sensor_model": "uninformative",
+      "total_reward": 0.0,
+      "truth": [
+        true,
+        true,
+        true
+      ],
+      "world_id": 7
+    },
+    {
+      "budget": 20,
+      "energy_used": 0.0,
+      "environment_seed": 2028117302,
+      "history": [],
+      "moves": 0,
+      "planner_seed": 2026180302,
+      "planning_simulations": 100,
+      "policy": "pomcp_random",
+      "remaining_energy": 20.0,
+      "returned": true,
+      "senses": 0,
+      "sensor_model": "uninformative",
+      "total_reward": 0.0,
+      "truth": [
+        true,
+        true,
+        true
+      ],
+      "world_id": 7
+    },
+    {
+      "budget": 20,
+      "energy_used": 0.0,
+      "environment_seed": 2028117302,
+      "history": [],
+      "moves": 0,
+      "planner_seed": 2026180302,
+      "planning_simulations": 100,
+      "policy": "pomcp_gcb",
+      "remaining_energy": 20.0,
+      "returned": true,
+      "senses": 0,
+      "sensor_model": "uninformative",
+      "total_reward": 0.0,
+      "truth": [
+        true,
+        true,
+        true
+      ],
+      "world_id": 7
+    },
+    {
+      "budget": 20,
+      "energy_used": 0.0,
+      "environment_seed": 2028117303,
+      "history": [],
+      "moves": 0,
+      "planner_seed": 2026180303,
+      "planning_simulations": 100,
+      "policy": "pomcp_random",
+      "remaining_energy": 20.0,
+      "returned": true,
+      "senses": 0,
+      "sensor_model": "uninformative",
+      "total_reward": 0.0,
+      "truth": [
+        true,
+        true,
+        true
+      ],
+      "world_id": 7
+    },
+    {
+      "budget": 20,
+      "energy_used": 0.0,
+      "environment_seed": 2028117303,
+      "history": [],
+      "moves": 0,
+      "planner_seed": 2026180303,
+      "planning_simulations": 100,
+      "policy": "pomcp_gcb",
+      "remaining_energy": 20.0,
+      "returned": true,
+      "senses": 0,
+      "sensor_model": "uninformative",
+      "total_reward": 0.0,
+      "truth": [
+        true,
+        true,
+        true
+      ],
+      "world_id": 7
+    }
+  ],
+  "exact": [
+    {
+      "bellman_value": 0.0,
+      "branches": [
+        {
+          "energy_used": 0.0,
+          "history": [],
+          "probability": 0.125,
+          "returned": true,
+          "reward": 0.0,
+          "truth": [
+            false,
+            false,
+            false
+          ]
+        },
+        {
+          "energy_used": 0.0,
+          "history": [],
+          "probability": 0.125,
+          "returned": true,
+          "reward": 0.0,
+          "truth": [
+            false,
+            false,
+            true
+          ]
+        },
+        {
+          "energy_used": 0.0,
+          "history": [],
+          "probability": 0.125,
+          "returned": true,
+          "reward": 0.0,
+          "truth": [
+            false,
+            true,
+            false
+          ]
+        },
+        {
+          "energy_used": 0.0,
+          "history": [],
+          "probability": 0.125,
+          "returned": true,
+          "reward": 0.0,
+          "truth": [
+            false,
+            true,
+            true
+          ]
+        },
+        {
+          "energy_used": 0.0,
+          "history": [],
+          "probability": 0.125,
+          "returned": true,
+          "reward": 0.0,
+          "truth": [
+            true,
+            false,
+            false
+          ]
+        },
+        {
+          "energy_used": 0.0,
+          "history": [],
+          "probability": 0.125,
+          "returned": true,
+          "reward": 0.0,
+          "truth": [
+            true,
+            false,
+            true
+          ]
+        },
+        {
+          "energy_used": 0.0,
+          "history": [],
+          "probability": 0.125,
+          "returned": true,
+          "reward": 0.0,
+          "truth": [
+            true,
+            true,
+            false
+          ]
+        },
+        {
+          "energy_used": 0.0,
+          "history": [],
+          "probability": 0.125,
+          "returned": true,
+          "reward": 0.0,
+          "truth": [
+            true,
+            true,
+            true
+          ]
+        }
+      ],
+      "budget": 20,
+      "expected_energy": 0.0,
+      "expected_reward": 0.0,
+      "policy": "exact_no_sense",
+      "sense_probability": 0,
+      "sensor_model": "uninformative"
+    },
+    {
+      "bellman_value": 0.0,
+      "branches": [
+        {
+          "energy_used": 0.0,
+          "history": [],
+          "probability": 0.125,
+          "returned": true,
+          "reward": 0.0,
+          "truth": [
+            false,
+            false,
+            false
+          ]
+        },
+        {
+          "energy_used": 0.0,
+          "history": [],
+          "probability": 0.125,
+          "returned": true,
+          "reward": 0.0,
+          "truth": [
+            false,
+            false,
+            true
+          ]
+        },
+        {
+          "energy_used": 0.0,
+          "history": [],
+          "probability": 0.125,
+          "returned": true,
+          "reward": 0.0,
+          "truth": [
+            false,
+            true,
+            false
+          ]
+        },
+        {
+          "energy_used": 0.0,
+          "history": [],
+          "probability": 0.125,
+          "returned": true,
+          "reward": 0.0,
+          "truth": [
+            false,
+            true,
+            true
+          ]
+        },
+        {
+          "energy_used": 0.0,
+          "history": [],
+          "probability": 0.125,
+          "returned": true,
+          "reward": 0.0,
+          "truth": [
+            true,
+            false,
+            false
+          ]
+        },
+        {
+          "energy_used": 0.0,
+          "history": [],
+          "probability": 0.125,
+          "returned": true,
+          "reward": 0.0,
+          "truth": [
+            true,
+            false,
+            true
+          ]
+        },
+        {
+          "energy_used": 0.0,
+          "history": [],
+          "probability": 0.125,
+          "returned": true,
+          "reward": 0.0,
+          "truth": [
+            true,
+            true,
+            false
+          ]
+        },
+        {
+          "energy_used": 0.0,
+          "history": [],
+          "probability": 0.125,
+          "returned": true,
+          "reward": 0.0,
+          "truth": [
+            true,
+            true,
+            true
+          ]
+        }
+      ],
+      "budget": 20,
+      "expected_energy": 0.0,
+      "expected_reward": 0.0,
+      "policy": "exact_one_sense",
+      "sense_probability": 0,
+      "sensor_model": "uninformative"
+    }
+  ],
+  "protocol_sha256": "f51caedbfc53d75eadfe46913854c58328a629e21c13114e308c6fc0de07f35a",
+  "runtime": {
+    "budget": 20,
+    "exact_wall_s": 0.012105999998311745,
+    "pomcp_wall_s": 0.7697981659985089,
+    "sensor_model": "uninformative"
+  }
+}

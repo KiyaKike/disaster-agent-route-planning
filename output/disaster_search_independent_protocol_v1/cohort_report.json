@@ -1,0 +1,25 @@
+{
+  "available_complete_image_pairs": {
+    "EARTHQUAKE-TURKEY": 944,
+    "PAKISTAN-FLOODING": 3540,
+    "TEXAS-TORNADOES": 454
+  },
+  "events": 3,
+  "future_all_cells_all_qualities_observations_if_admitted": 576,
+  "human_gold_complete": false,
+  "image_members_queued_disabled": 36,
+  "independent_validation_admitted": false,
+  "new_detector_or_policy_fit": false,
+  "new_image_or_label_payload_reads": 0,
+  "new_inference": 0,
+  "paid_gpu": false,
+  "primary_expected_budget": 8,
+  "primary_expected_grid": [
+    4,
+    4
+  ],
+  "selected_compressed_image_bytes_from_index": 13691009,
+  "selected_pairs": 18,
+  "selected_uncompressed_png_file_bytes_from_index": 13736991,
+  "stage": "18_PAIRS_TENTATIVELY_FIXED_NOT_DATA_ADMITTED"
+}

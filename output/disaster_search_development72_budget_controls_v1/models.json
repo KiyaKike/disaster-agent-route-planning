@@ -1,0 +1,958 @@
+{
+  "development_fit": {
+    "count": {
+      "bins": [
+        {
+          "bin": 0,
+          "known_cells": 1142,
+          "survey_mean_count": {
+            "blurred": 0.004691395560960778,
+            "native": 0.12763149893584677
+          },
+          "upgrade": {
+            "0": {
+              "cells": 1134,
+              "mean_new_within_cell": 0.11382628598621163
+            },
+            "1": {
+              "cells": 8,
+              "mean_new_within_cell": 1.590948275862069
+            }
+          }
+        },
+        {
+          "bin": 1,
+          "known_cells": 1136,
+          "survey_mean_count": {
+            "blurred": 0.040555161621595184,
+            "native": 0.43424495085334247
+          },
+          "upgrade": {
+            "0": {
+              "cells": 1107,
+              "mean_new_within_cell": 0.3399010032253396
+            },
+            "1": {
+              "cells": 29,
+              "mean_new_within_cell": 2.309599254426841
+            }
+          }
+        },
+        {
+          "bin": 2,
+          "known_cells": 1149,
+          "survey_mean_count": {
+            "blurred": 0.0859076101081287,
+            "native": 0.47776683126726344
+          },
+          "upgrade": {
+            "0": {
+              "cells": 1089,
+              "mean_new_within_cell": 0.30901514913058675
+            },
+            "1": {
+              "cells": 60,
+              "mean_new_within_cell": 1.9037525354969573
+            }
+          }
+        },
+        {
+          "bin": 3,
+          "known_cells": 1149,
+          "survey_mean_count": {
+            "blurred": 0.06602861270104139,
+            "native": 0.34812119600365066
+          },
+          "upgrade": {
+            "0": {
+              "cells": 1101,
+              "mean_new_within_cell": 0.23623951180906552
+            },
+            "1": {
+              "cells": 48,
+              "mean_new_within_cell": 1.4188423645320198
+            }
+          }
+        }
+      ],
+      "global_survey_mean_count": {
+        "blurred": 0.04938811188811189,
+        "native": 0.34702797202797203
+      },
+      "global_upgrade": {
+        "0": {
+          "cells": 4431,
+          "mean": 0.24870232453170843
+        },
+        "1": {
+          "cells": 145,
+          "mean": 1.806896551724138
+        }
+      },
+      "limits": [
+        "Only same-cell prior discovery is removed from upgrade rewards; cross-cell duplicate discovery is not modeled.",
+        "No reliable quality estimator or new viewpoint: fixed synthetic modes.",
+        "Fit on 72 development scenes; event-held-out count diagnostics do not constitute independent policy validation."
+      ],
+      "paired_known_cells": 4576,
+      "paired_sensor": {
+        "alpha_per_outcome": 0.5,
+        "counts": {
+          "0": {
+            "00": 3815,
+            "01": 39,
+            "10": 1,
+            "11": 1
+          },
+          "1": {
+            "00": 105,
+            "01": 472,
+            "10": 1,
+            "11": 142
+          }
+        },
+        "outcome_order": "blurred,native",
+        "probabilities": {
+          "0": {
+            "00": 0.9889839294971488,
+            "01": 0.010238465526179368,
+            "10": 0.00038880248833592535,
+            "11": 0.00038880248833592535
+          },
+          "1": {
+            "00": 0.1461218836565097,
+            "01": 0.6544321329639889,
+            "10": 0.002077562326869806,
+            "11": 0.19736842105263158
+          }
+        }
+      },
+      "public_quantile_edges": [
+        0.0761437908496732,
+        0.09836601307189542,
+        0.13145424836601308
+      ],
+      "shrinkage_pseudo_cells": 8,
+      "source_hashes": {
+        "association": "59c51a09e2c46eeac0c778de1dd9af2771f72bee5ff526ac967c0a6fb75fbffc",
+        "contract": "452de54015d0c717819553487885007d8aabc82751499387d17b0ba2044919c0",
+        "cues": "912294a718d1b31509886d72fcdffbee51fd9987a59bb6b1bd80e7283043fb6e",
+        "manifest": "a70646afabf0822b3adea609835ab95c1cfdb2e7f834d6d8173d38fa4b042346"
+      },
+      "source_scenes": 72,
+      "stage": "DEVELOPMENT72_AGGREGATE_BASELINE_FIT_NOT_VALIDATED",
+      "unknown_pairs_excluded": 32
+    },
+    "presence": {
+      "bins": [
+        {
+          "known_cells": 1142,
+          "prior": 0.07935594798187535
+        },
+        {
+          "known_cells": 1136,
+          "prior": 0.17592599666010197
+        },
+        {
+          "known_cells": 1149,
+          "prior": 0.21630020758786228
+        },
+        {
+          "known_cells": 1149,
+          "prior": 0.15752751960169115
+        }
+      ],
+      "count_shrinkage_pseudo_cells": 8,
+      "global_prior": 0.1574175223945816,
+      "paired_sensor": {
+        "alpha_per_outcome": 0.5,
+        "counts": {
+          "0": {
+            "00": 3815,
+            "01": 39,
+            "10": 1,
+            "11": 1
+          },
+          "1": {
+            "00": 105,
+            "01": 472,
+            "10": 1,
+            "11": 142
+          }
+        },
+        "outcome_order": "blurred,native",
+        "probabilities": {
+          "0": {
+            "00": 0.9889839294971488,
+            "01": 0.010238465526179368,
+            "10": 0.00038880248833592535,
+            "11": 0.00038880248833592535
+          },
+          "1": {
+            "00": 0.1461218836565097,
+            "01": 0.6544321329639889,
+            "10": 0.002077562326869806,
+            "11": 0.19736842105263158
+          }
+        }
+      },
+      "public_quantile_edges": [
+        0.0761437908496732,
+        0.09836601307189542,
+        0.13145424836601308
+      ],
+      "stage": "DEVELOPMENT_ONLY_EXISTENCE_ABLATION",
+      "truth_prior_pseudocount_per_class": 0.5
+    }
+  },
+  "held_hurricane-harvey": {
+    "count": {
+      "bins": [
+        {
+          "bin": 0,
+          "known_cells": 759,
+          "survey_mean_count": {
+            "blurred": 0.0014910079962963088,
+            "native": 0.051855079469364546
+          },
+          "upgrade": {
+            "0": {
+              "cells": 757,
+              "mean_new_within_cell": 0.05025480034333725
+            },
+            "1": {
+              "cells": 2,
+              "mean_new_within_cell": 1.5219512195121951
+            }
+          }
+        },
+        {
+          "bin": 1,
+          "known_cells": 758,
+          "survey_mean_count": {
+            "blurred": 0.0027984375106517873,
+            "native": 0.1511394855783324
+          },
+          "upgrade": {
+            "0": {
+              "cells": 753,
+              "mean_new_within_cell": 0.13067663897851906
+            },
+            "1": {
+              "cells": 5,
+              "mean_new_within_cell": 2.24765478424015
+            }
+          }
+        },
+        {
+          "bin": 2,
+          "known_cells": 776,
+          "survey_mean_count": {
+            "blurred": 0.0142137795065807,
+            "native": 0.28414903820536047
+          },
+          "upgrade": {
+            "0": {
+              "cells": 763,
+              "mean_new_within_cell": 0.24311922472458236
+            },
+            "1": {
+              "cells": 13,
+              "mean_new_within_cell": 1.867595818815331
+            }
+          }
+        },
+        {
+          "bin": 3,
+          "known_cells": 771,
+          "survey_mean_count": {
+            "blurred": 0.05281592186541626,
+            "native": 0.3950870936495541
+          },
+          "upgrade": {
+            "0": {
+              "cells": 750,
+              "mean_new_within_cell": 0.29874000298503034
+            },
+            "1": {
+              "cells": 21,
+              "mean_new_within_cell": 1.904121110176619
+            }
+          }
+        }
+      ],
+      "global_survey_mean_count": {
+        "blurred": 0.017950391644908616,
+        "native": 0.22160574412532638
+      },
+      "global_upgrade": {
+        "0": {
+          "cells": 3023,
+          "mean": 0.1806152828316242
+        },
+        "1": {
+          "cells": 41,
+          "mean": 1.9024390243902438
+        }
+      },
+      "limits": [
+        "Only same-cell prior discovery is removed from upgrade rewards; cross-cell duplicate discovery is not modeled.",
+        "No reliable quality estimator or new viewpoint: fixed synthetic modes.",
+        "Fit on development data only; six interface scenes cannot establish transfer or policy improvement."
+      ],
+      "paired_known_cells": 3064,
+      "paired_sensor": {
+        "alpha_per_outcome": 0.5,
+        "counts": {
+          "0": {
+            "00": 2689,
+            "01": 19,
+            "10": 1,
+            "11": 0
+          },
+          "1": {
+            "00": 42,
+            "01": 273,
+            "10": 0,
+            "11": 40
+          }
+        },
+        "outcome_order": "blurred,native",
+        "probabilities": {
+          "0": {
+            "00": 0.9920693471043895,
+            "01": 0.007192917742530431,
+            "10": 0.0005533013648100332,
+            "11": 0.00018443378827001107
+          },
+          "1": {
+            "00": 0.11904761904761904,
+            "01": 0.7661064425770309,
+            "10": 0.0014005602240896359,
+            "11": 0.1134453781512605
+          }
+        }
+      },
+      "public_quantile_edges": [
+        0.0718954248366013,
+        0.0957516339869281,
+        0.12679738562091505
+      ],
+      "shrinkage_pseudo_cells": 8,
+      "source_scenes": 48,
+      "stage": "DEVELOPMENT_INTERFACE_FIT_NOT_VALIDATED",
+      "unknown_pairs_excluded": 8
+    },
+    "fit_ids": [
+      "mexico-earthquake_00000014",
+      "mexico-earthquake_00000036",
+      "mexico-earthquake_00000038",
+      "mexico-earthquake_00000045",
+      "mexico-earthquake_00000054",
+      "mexico-earthquake_00000056",
+      "mexico-earthquake_00000060",
+      "mexico-earthquake_00000071",
+      "mexico-earthquake_00000077",
+      "mexico-earthquake_00000081",
+      "mexico-earthquake_00000099",
+      "mexico-earthquake_00000116",
+      "mexico-earthquake_00000123",
+      "mexico-earthquake_00000130",
+      "mexico-earthquake_00000133",
+      "mexico-earthquake_00000134",
+      "mexico-earthquake_00000137",
+      "mexico-earthquake_00000145",
+      "mexico-earthquake_00000147",
+      "mexico-earthquake_00000149",
+      "mexico-earthquake_00000156",
+      "mexico-earthquake_00000162",
+      "mexico-earthquake_00000170",
+      "mexico-earthquake_00000175",
+      "santa-rosa-wildfire_00000008",
+      "santa-rosa-wildfire_00000010",
+      "santa-rosa-wildfire_00000013",
+      "santa-rosa-wildfire_00000025",
+      "santa-rosa-wildfire_00000029",
+      "santa-rosa-wildfire_00000054",
+      "santa-rosa-wildfire_00000062",
+      "santa-rosa-wildfire_00000108",
+      "santa-rosa-wildfire_00000112",
+      "santa-rosa-wildfire_00000115",
+      "santa-rosa-wildfire_00000122",
+      "santa-rosa-wildfire_00000126",
+      "santa-rosa-wildfire_00000160",
+      "santa-rosa-wildfire_00000188",
+      "santa-rosa-wildfire_00000193",
+      "santa-rosa-wildfire_00000194",
+      "santa-rosa-wildfire_00000227",
+      "santa-rosa-wildfire_00000232",
+      "santa-rosa-wildfire_00000255",
+      "santa-rosa-wildfire_00000263",
+      "santa-rosa-wildfire_00000266",
+      "santa-rosa-wildfire_00000278",
+      "santa-rosa-wildfire_00000342",
+      "santa-rosa-wildfire_00000352"
+    ],
+    "presence": {
+      "bins": [
+        {
+          "known_cells": 759,
+          "prior": 0.04944966831216727
+        },
+        {
+          "known_cells": 758,
+          "prior": 0.09259516396270535
+        },
+        {
+          "known_cells": 776,
+          "prior": 0.14786721376968406
+        },
+        {
+          "known_cells": 771,
+          "prior": 0.17192284415331488
+        }
+      ],
+      "count_shrinkage_pseudo_cells": 8,
+      "global_prior": 0.11598694942903752,
+      "paired_sensor": {
+        "alpha_per_outcome": 0.5,
+        "counts": {
+          "0": {
+            "00": 2689,
+            "01": 19,
+            "10": 1,
+            "11": 0
+          },
+          "1": {
+            "00": 42,
+            "01": 273,
+            "10": 0,
+            "11": 40
+          }
+        },
+        "outcome_order": "blurred,native",
+        "probabilities": {
+          "0": {
+            "00": 0.9920693471043895,
+            "01": 0.007192917742530431,
+            "10": 0.0005533013648100332,
+            "11": 0.00018443378827001107
+          },
+          "1": {
+            "00": 0.11904761904761904,
+            "01": 0.7661064425770309,
+            "10": 0.0014005602240896359,
+            "11": 0.1134453781512605
+          }
+        }
+      },
+      "public_quantile_edges": [
+        0.0718954248366013,
+        0.0957516339869281,
+        0.12679738562091505
+      ],
+      "stage": "DEVELOPMENT_ONLY_EXISTENCE_ABLATION",
+      "truth_prior_pseudocount_per_class": 0.5
+    }
+  },
+  "held_mexico-earthquake": {
+    "count": {
+      "bins": [
+        {
+          "bin": 0,
+          "known_cells": 763,
+          "survey_mean_count": {
+            "blurred": 0.0020668811045167356,
+            "native": 0.13381415783749903
+          },
+          "upgrade": {
+            "0": {
+              "cells": 759,
+              "mean_new_within_cell": 0.12390997664339995
+            },
+            "1": {
+              "cells": 4,
+              "mean_new_within_cell": 1.7045977011494253
+            }
+          }
+        },
+        {
+          "bin": 1,
+          "known_cells": 750,
+          "survey_mean_count": {
+            "blurred": 0.06278834476462059,
+            "native": 0.6967951394362951
+          },
+          "upgrade": {
+            "0": {
+              "cells": 720,
+              "mean_new_within_cell": 0.5577458133042414
+            },
+            "1": {
+              "cells": 30,
+              "mean_new_within_cell": 2.3277676950998187
+            }
+          }
+        },
+        {
+          "bin": 2,
+          "known_cells": 766,
+          "survey_mean_count": {
+            "blurred": 0.13642579500204444,
+            "native": 0.7521585474066043
+          },
+          "upgrade": {
+            "0": {
+              "cells": 702,
+              "mean_new_within_cell": 0.507097115613363
+            },
+            "1": {
+              "cells": 64,
+              "mean_new_within_cell": 1.825766283524904
+            }
+          }
+        },
+        {
+          "bin": 3,
+          "known_cells": 767,
+          "survey_mean_count": {
+            "blurred": 0.09495943913752568,
+            "native": 0.5047364073454346
+          },
+          "upgrade": {
+            "0": {
+              "cells": 720,
+              "mean_new_within_cell": 0.34758097813940625
+            },
+            "1": {
+              "cells": 47,
+              "mean_new_within_cell": 1.4446394984326019
+            }
+          }
+        }
+      ],
+      "global_survey_mean_count": {
+        "blurred": 0.07419566644780039,
+        "native": 0.5213394615889692
+      },
+      "global_upgrade": {
+        "0": {
+          "cells": 2901,
+          "mean": 0.37986901068597034
+        },
+        "1": {
+          "cells": 145,
+          "mean": 1.806896551724138
+        }
+      },
+      "limits": [
+        "Only same-cell prior discovery is removed from upgrade rewards; cross-cell duplicate discovery is not modeled.",
+        "No reliable quality estimator or new viewpoint: fixed synthetic modes.",
+        "Fit on development data only; six interface scenes cannot establish transfer or policy improvement."
+      ],
+      "paired_known_cells": 3046,
+      "paired_sensor": {
+        "alpha_per_outcome": 0.5,
+        "counts": {
+          "0": {
+            "00": 2292,
+            "01": 35,
+            "10": 1,
+            "11": 1
+          },
+          "1": {
+            "00": 102,
+            "01": 472,
+            "10": 1,
+            "11": 142
+          }
+        },
+        "outcome_order": "blurred,native",
+        "probabilities": {
+          "0": {
+            "00": 0.9834834834834835,
+            "01": 0.015229515229515229,
+            "10": 0.0006435006435006435,
+            "11": 0.0006435006435006435
+          },
+          "1": {
+            "00": 0.14255910987482615,
+            "01": 0.6571627260083449,
+            "10": 0.002086230876216968,
+            "11": 0.19819193324061196
+          }
+        }
+      },
+      "public_quantile_edges": [
+        0.0724673202614379,
+        0.09705882352941177,
+        0.13366013071895425
+      ],
+      "shrinkage_pseudo_cells": 8,
+      "source_scenes": 48,
+      "stage": "DEVELOPMENT_INTERFACE_FIT_NOT_VALIDATED",
+      "unknown_pairs_excluded": 26
+    },
+    "fit_ids": [
+      "hurricane-harvey_00000013",
+      "hurricane-harvey_00000014",
+      "hurricane-harvey_00000065",
+      "hurricane-harvey_00000074",
+      "hurricane-harvey_00000121",
+      "hurricane-harvey_00000125",
+      "hurricane-harvey_00000193",
+      "hurricane-harvey_00000201",
+      "hurricane-harvey_00000219",
+      "hurricane-harvey_00000236",
+      "hurricane-harvey_00000279",
+      "hurricane-harvey_00000293",
+      "hurricane-harvey_00000311",
+      "hurricane-harvey_00000334",
+      "hurricane-harvey_00000343",
+      "hurricane-harvey_00000363",
+      "hurricane-harvey_00000372",
+      "hurricane-harvey_00000386",
+      "hurricane-harvey_00000403",
+      "hurricane-harvey_00000404",
+      "hurricane-harvey_00000421",
+      "hurricane-harvey_00000447",
+      "hurricane-harvey_00000459",
+      "hurricane-harvey_00000487",
+      "santa-rosa-wildfire_00000008",
+      "santa-rosa-wildfire_00000010",
+      "santa-rosa-wildfire_00000013",
+      "santa-rosa-wildfire_00000025",
+      "santa-rosa-wildfire_00000029",
+      "santa-rosa-wildfire_00000054",
+      "santa-rosa-wildfire_00000062",
+      "santa-rosa-wildfire_00000108",
+      "santa-rosa-wildfire_00000112",
+      "santa-rosa-wildfire_00000115",
+      "santa-rosa-wildfire_00000122",
+      "santa-rosa-wildfire_00000126",
+      "santa-rosa-wildfire_00000160",
+      "santa-rosa-wildfire_00000188",
+      "santa-rosa-wildfire_00000193",
+      "santa-rosa-wildfire_00000194",
+      "santa-rosa-wildfire_00000227",
+      "santa-rosa-wildfire_00000232",
+      "santa-rosa-wildfire_00000255",
+      "santa-rosa-wildfire_00000263",
+      "santa-rosa-wildfire_00000266",
+      "santa-rosa-wildfire_00000278",
+      "santa-rosa-wildfire_00000342",
+      "santa-rosa-wildfire_00000352"
+    ],
+    "presence": {
+      "bins": [
+        {
+          "known_cells": 763,
+          "prior": 0.08804645933977713
+        },
+        {
+          "known_cells": 750,
+          "prior": 0.28612641180866516
+        },
+        {
+          "known_cells": 766,
+          "prior": 0.34093516815370567
+        },
+        {
+          "known_cells": 767,
+          "prior": 0.22694686471092668
+        }
+      ],
+      "count_shrinkage_pseudo_cells": 8,
+      "global_prior": 0.23547751887102067,
+      "paired_sensor": {
+        "alpha_per_outcome": 0.5,
+        "counts": {
+          "0": {
+            "00": 2292,
+            "01": 35,
+            "10": 1,
+            "11": 1
+          },
+          "1": {
+            "00": 102,
+            "01": 472,
+            "10": 1,
+            "11": 142
+          }
+        },
+        "outcome_order": "blurred,native",
+        "probabilities": {
+          "0": {
+            "00": 0.9834834834834835,
+            "01": 0.015229515229515229,
+            "10": 0.0006435006435006435,
+            "11": 0.0006435006435006435
+          },
+          "1": {
+            "00": 0.14255910987482615,
+            "01": 0.6571627260083449,
+            "10": 0.002086230876216968,
+            "11": 0.19819193324061196
+          }
+        }
+      },
+      "public_quantile_edges": [
+        0.0724673202614379,
+        0.09705882352941177,
+        0.13366013071895425
+      ],
+      "stage": "DEVELOPMENT_ONLY_EXISTENCE_ABLATION",
+      "truth_prior_pseudocount_per_class": 0.5
+    }
+  },
+  "held_santa-rosa-wildfire": {
+    "count": {
+      "bins": [
+        {
+          "bin": 0,
+          "known_cells": 748,
+          "survey_mean_count": {
+            "blurred": 0.011176857330703484,
+            "native": 0.2650668419899189
+          },
+          "upgrade": {
+            "0": {
+              "cells": 740,
+              "mean_new_within_cell": 0.23598122335758984
+            },
+            "1": {
+              "cells": 8,
+              "mean_new_within_cell": 1.8221153846153846
+            }
+          }
+        },
+        {
+          "bin": 1,
+          "known_cells": 761,
+          "survey_mean_count": {
+            "blurred": 0.06300351643954724,
+            "native": 0.43483814375081753
+          },
+          "upgrade": {
+            "0": {
+              "cells": 734,
+              "mean_new_within_cell": 0.2931454920100771
+            },
+            "1": {
+              "cells": 27,
+              "mean_new_within_cell": 2.375824175824176
+            }
+          }
+        },
+        {
+          "bin": 2,
+          "known_cells": 767,
+          "survey_mean_count": {
+            "blurred": 0.09864477953807979,
+            "native": 0.3359877839282306
+          },
+          "upgrade": {
+            "0": {
+              "cells": 728,
+              "mean_new_within_cell": 0.1569483085210288
+            },
+            "1": {
+              "cells": 39,
+              "mean_new_within_cell": 1.7479541734860886
+            }
+          }
+        },
+        {
+          "bin": 3,
+          "known_cells": 766,
+          "survey_mean_count": {
+            "blurred": 0.050968610002599266,
+            "native": 0.15941929269299573
+          },
+          "upgrade": {
+            "0": {
+              "cells": 736,
+              "mean_new_within_cell": 0.07058327294553388
+            },
+            "1": {
+              "cells": 30,
+              "mean_new_within_cell": 1.214574898785425
+            }
+          }
+        }
+      ],
+      "global_survey_mean_count": {
+        "blurred": 0.05621301775147929,
+        "native": 0.2988165680473373
+      },
+      "global_upgrade": {
+        "0": {
+          "cells": 2938,
+          "mean": 0.18924438393464943
+        },
+        "1": {
+          "cells": 104,
+          "mean": 1.7692307692307692
+        }
+      },
+      "limits": [
+        "Only same-cell prior discovery is removed from upgrade rewards; cross-cell duplicate discovery is not modeled.",
+        "No reliable quality estimator or new viewpoint: fixed synthetic modes.",
+        "Fit on development data only; six interface scenes cannot establish transfer or policy improvement."
+      ],
+      "paired_known_cells": 3042,
+      "paired_sensor": {
+        "alpha_per_outcome": 0.5,
+        "counts": {
+          "0": {
+            "00": 2649,
+            "01": 24,
+            "10": 0,
+            "11": 1
+          },
+          "1": {
+            "00": 66,
+            "01": 199,
+            "10": 1,
+            "11": 102
+          }
+        },
+        "outcome_order": "blurred,native",
+        "probabilities": {
+          "0": {
+            "00": 0.9900971599402093,
+            "01": 0.009155455904334827,
+            "10": 0.0001868460388639761,
+            "11": 0.0005605381165919282
+          },
+          "1": {
+            "00": 0.17972972972972973,
+            "01": 0.5391891891891892,
+            "10": 0.004054054054054054,
+            "11": 0.27702702702702703
+          }
+        }
+      },
+      "public_quantile_edges": [
+        0.0826797385620915,
+        0.10196078431372549,
+        0.13464052287581701
+      ],
+      "shrinkage_pseudo_cells": 8,
+      "source_scenes": 48,
+      "stage": "DEVELOPMENT_INTERFACE_FIT_NOT_VALIDATED",
+      "unknown_pairs_excluded": 30
+    },
+    "fit_ids": [
+      "hurricane-harvey_00000013",
+      "hurricane-harvey_00000014",
+      "hurricane-harvey_00000065",
+      "hurricane-harvey_00000074",
+      "hurricane-harvey_00000121",
+      "hurricane-harvey_00000125",
+      "hurricane-harvey_00000193",
+      "hurricane-harvey_00000201",
+      "hurricane-harvey_00000219",
+      "hurricane-harvey_00000236",
+      "hurricane-harvey_00000279",
+      "hurricane-harvey_00000293",
+      "hurricane-harvey_00000311",
+      "hurricane-harvey_00000334",
+      "hurricane-harvey_00000343",
+      "hurricane-harvey_00000363",
+      "hurricane-harvey_00000372",
+      "hurricane-harvey_00000386",
+      "hurricane-harvey_00000403",
+      "hurricane-harvey_00000404",
+      "hurricane-harvey_00000421",
+      "hurricane-harvey_00000447",
+      "hurricane-harvey_00000459",
+      "hurricane-harvey_00000487",
+      "mexico-earthquake_00000014",
+      "mexico-earthquake_00000036",
+      "mexico-earthquake_00000038",
+      "mexico-earthquake_00000045",
+      "mexico-earthquake_00000054",
+      "mexico-earthquake_00000056",
+      "mexico-earthquake_00000060",
+      "mexico-earthquake_00000071",
+      "mexico-earthquake_00000077",
+      "mexico-earthquake_00000081",
+      "mexico-earthquake_00000099",
+      "mexico-earthquake_00000116",
+      "mexico-earthquake_00000123",
+      "mexico-earthquake_00000130",
+      "mexico-earthquake_00000133",
+      "mexico-earthquake_00000134",
+      "mexico-earthquake_00000137",
+      "mexico-earthquake_00000145",
+      "mexico-earthquake_00000147",
+      "mexico-earthquake_00000149",
+      "mexico-earthquake_00000156",
+      "mexico-earthquake_00000162",
+      "mexico-earthquake_00000170",
+      "mexico-earthquake_00000175"
+    ],
+    "presence": {
+      "bins": [
+        {
+          "known_cells": 748,
+          "prior": 0.10710156191588988
+        },
+        {
+          "known_cells": 761,
+          "prior": 0.14560309597973048
+        },
+        {
+          "known_cells": 767,
+          "prior": 0.14834681394633903
+        },
+        {
+          "known_cells": 766,
+          "prior": 0.08264700362844025
+        }
+      ],
+      "count_shrinkage_pseudo_cells": 8,
+      "global_prior": 0.12109760105159383,
+      "paired_sensor": {
+        "alpha_per_outcome": 0.5,
+        "counts": {
+          "0": {
+            "00": 2649,
+            "01": 24,
+            "10": 0,
+            "11": 1
+          },
+          "1": {
+            "00": 66,
+            "01": 199,
+            "10": 1,
+            "11": 102
+          }
+        },
+        "outcome_order": "blurred,native",
+        "probabilities": {
+          "0": {
+            "00": 0.9900971599402093,
+            "01": 0.009155455904334827,
+            "10": 0.0001868460388639761,
+            "11": 0.0005605381165919282
+          },
+          "1": {
+            "00": 0.17972972972972973,
+            "01": 0.5391891891891892,
+            "10": 0.004054054054054054,
+            "11": 0.27702702702702703
+          }
+        }
+      },
+      "public_quantile_edges": [
+        0.0826797385620915,
+        0.10196078431372549,
+        0.13464052287581701
+      ],
+      "stage": "DEVELOPMENT_ONLY_EXISTENCE_ABLATION",
+      "truth_prior_pseudocount_per_class": 0.5
+    }
+  }
+}

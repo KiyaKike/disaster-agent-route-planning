@@ -1,0 +1,11 @@
+{
+  "client_date": "2026-11-02",
+  "all_four_figures_viewed": true,
+  "files": {
+    "figures/checkpoint_sensitivity.png": "fd4487761b7477dc3db2afcdcf912f0faffd411d221f6d1204e461dfea851f85",
+    "figures/fork_examples.png": "8d5fa3e8b83fc284d5ce2df6ac4956cb88ec7c32788430e9a02c38dc59607cdb",
+    "figures/predicted_vs_realized.png": "8efd2769a58729b7a5d51c93beba8639e38d3d952328beda9b8566dd9cac19de",
+    "figures/same_state_deltas.png": "f2e5594b6de5063f9bd7f74d9fc1f3ad15098ed8bbe71df152eb893dbd751527"
+  },
+  "inspection": "Viewed four PNGs. All18 primary conditions and adverse outcomes are readable;axes,titles and legends have no material clipping. Route examples show identical black paid prefixes and separate committed suffixes. Every figure explicitly marks simulation. Predicted-vs-realized plot is descriptive,not a calibration or policy-validity claim."
+}

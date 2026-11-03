@@ -1,0 +1,59 @@
+{
+  "cell_mode_contexts": 1162,
+  "no_contact_rule": "No discount. Absence of a predicted edge does not establish absence of duplicates.",
+  "offline_action_records": 25134,
+  "parameters": {
+    "survey": {
+      "0": {
+        "cell_mode_contexts": 764,
+        "mean_global_reward_sum": 9.0,
+        "mean_local_reward_sum": 9.0,
+        "remaining_fraction": 1.0,
+        "reward_support": true
+      },
+      "1": {
+        "cell_mode_contexts": 15,
+        "mean_global_reward_sum": 5.055555555555555,
+        "mean_local_reward_sum": 9.0,
+        "remaining_fraction": 0.6055555555555555,
+        "reward_support": true
+      }
+    },
+    "upgrade_B0": {
+      "0": {
+        "cell_mode_contexts": 377,
+        "mean_global_reward_sum": 7.0,
+        "mean_local_reward_sum": 7.0,
+        "remaining_fraction": 1.0,
+        "reward_support": true
+      },
+      "1": {
+        "cell_mode_contexts": 4,
+        "mean_global_reward_sum": 3.5,
+        "mean_local_reward_sum": 6.0,
+        "remaining_fraction": 0.6428571428571429,
+        "reward_support": true
+      }
+    },
+    "upgrade_B1": {
+      "0": {
+        "cell_mode_contexts": 1,
+        "mean_global_reward_sum": 0.0,
+        "mean_local_reward_sum": 0.0,
+        "remaining_fraction": 1.0,
+        "reward_support": false
+      },
+      "1": {
+        "cell_mode_contexts": 1,
+        "mean_global_reward_sum": 0.0,
+        "mean_local_reward_sum": 0.0,
+        "remaining_fraction": 1.0,
+        "reward_support": false
+      }
+    }
+  },
+  "reward_pseudocount_toward_one": 1.0,
+  "stage": "SIX_SCENE_IN_SAMPLE_ENGINEERING_ONLY",
+  "true_ids_retained_in_parameters": false,
+  "zero_support_fallback": 1.0
+}

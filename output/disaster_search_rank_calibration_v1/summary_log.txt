@@ -1,0 +1,1 @@
+{"stage": "RANK_CALIBRATION_CONTROL_EVIDENCE_COMPLETE", "variant_stopped": true, "held_primary_isotonic_minus_unprojected": 0.0, "held_primary_isotonic_minus_raw_gate": -0.5058333333333334, "action_comparison": {"compared_trajectories": 120960, "changed_action_sequences": 16788, "primary_all_ties_compared": 8640, "primary_all_ties_changed": 0}}

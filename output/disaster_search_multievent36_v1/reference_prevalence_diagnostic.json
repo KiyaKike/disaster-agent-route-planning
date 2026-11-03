@@ -1,0 +1,49 @@
+{
+  "scope": "Selected36only;descriptive,no filtering or outcome-based replacement",
+  "events": [
+    {
+      "event": "nepal-flooding",
+      "source_building_counts_by_grade": {
+        "major-damage": 65,
+        "minor-damage": 67,
+        "no-damage": 487,
+        "un-classified": 34,
+        "destroyed": 13
+      },
+      "known_severe_reference_pixels_on_zero_RGB": {
+        "pre": 0,
+        "post": 0
+      },
+      "source_unknown_pixels": 9841
+    },
+    {
+      "event": "sunda-tsunami",
+      "source_building_counts_by_grade": {
+        "no-damage": 2461,
+        "un-classified": 199,
+        "destroyed": 1,
+        "major-damage": 2
+      },
+      "known_severe_reference_pixels_on_zero_RGB": {
+        "pre": 0,
+        "post": 0
+      },
+      "source_unknown_pixels": 99371
+    },
+    {
+      "event": "tuscaloosa-tornado",
+      "source_building_counts_by_grade": {
+        "no-damage": 415,
+        "destroyed": 3,
+        "major-damage": 7,
+        "minor-damage": 14,
+        "un-classified": 34
+      },
+      "known_severe_reference_pixels_on_zero_RGB": {
+        "pre": 0,
+        "post": 0
+      },
+      "source_unknown_pixels": 15518
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "actions": 74908,
+  "domain_scores": 16200,
+  "independent_efficacy_or_building_count_claim": false,
+  "new_inference_in_controls": 0,
+  "primary": [
+    {
+      "budget": 8,
+      "covered_reference_pixels": 0.6222222222222221,
+      "domain": "all_published_pixels",
+      "events": 3,
+      "mean_pooled_recall_target_events": 0.0020527859237536657,
+      "policy": "prior_gate",
+      "reference_false_positive_pixels": 158.1888888888889,
+      "spent": 8.0,
+      "surveys": 7.833333333333333,
+      "target_events": 2,
+      "upgrades": 0.08333333333333333
+    },
+    {
+      "budget": 8,
+      "covered_reference_pixels": 0.6222222222222221,
+      "domain": "all_published_pixels",
+      "events": 3,
+      "mean_pooled_recall_target_events": 0.0020527859237536657,
+      "policy": "prior_survey",
+      "reference_false_positive_pixels": 158.1888888888889,
+      "spent": 8.0,
+      "surveys": 8.0,
+      "target_events": 2,
+      "upgrades": 0.0
+    },
+    {
+      "budget": 8,
+      "covered_reference_pixels": 5.238888888888889,
+      "domain": "all_published_pixels",
+      "events": 3,
+      "mean_pooled_recall_target_events": 0.017283724340175954,
+      "policy": "random_exact_expectation",
+      "reference_false_positive_pixels": 81.56111111111112,
+      "spent": 8.0,
+      "surveys": 8.0,
+      "target_events": 2,
+      "upgrades": 0.0
+    },
+    {
+      "budget": 8,
+      "covered_reference_pixels": 7.272222222222222,
+      "domain": "all_published_pixels",
+      "events": 3,
+      "mean_pooled_recall_target_events": 0.02399193548387097,
+      "policy": "random_survey",
+      "reference_false_positive_pixels": 82.31555555555555,
+      "spent": 8.0,
+      "surveys": 8.0,
+      "target_events": 2,
+      "upgrades": 0.0
+    }
+  ],
+  "trajectories": 8100,
+  "trajectory_sha256": "d3fc4ce2c33dcc384737b6dd39b8951da19b1778043e6e1ac977180b8ba14d00"
+}

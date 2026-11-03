@@ -1,0 +1,12 @@
+{
+  "unit_test_exit_code": 0,
+  "source_hashes": {
+    "experiment.py": "74fc5d21d4bf378f48514697dcbf0a6ef94ceb8b07b17e36407e8afa9c78bda7",
+    "fetch_xbd_sample.py": "688a2e4b321fdf9cfd5019562a51729840f4d03418dec5ca5dace0b8969f4262",
+    "prepare_xbd_sample.py": "d6e1e367d828977f2a60638ee9a1e7390387a0126a8e6a670bf99cd17e618df7",
+    "test_experiment.py": "aaaf95ec4bdcf572607b3c9b254cceec73d54270db60ab3c6d5c51c52565384b",
+    "test_xbd_adapter.py": "47e9cd66dec082b353700eea789d2859f56697ee43eaeb50e46f9ff39f93e28c"
+  },
+  "existing_ps_label_file_sha256": "ba0815428fc864b44a922854ff56b5b3d903e72825d9562bed4327cc199c22f1",
+  "gpu_used": false
+}

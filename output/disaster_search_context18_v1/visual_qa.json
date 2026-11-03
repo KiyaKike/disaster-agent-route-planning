@@ -1,0 +1,14 @@
+{
+  "all18_pairs_in_sheets": true,
+  "all3_event_overlay_sheets_viewed": true,
+  "comparison_figure_viewed": true,
+  "figures_sha256": {
+    "EARTHQUAKE-TURKEY_overlays.png": "8ab4abac4408a94c556c21242ff54da55d3c6f888397ba21754cb2df1ebd536a",
+    "PAKISTAN-FLOODING_overlays.png": "f68a1d12fc1108f44bbd2028d16a6f95315ebc1c3c6a19ce240053f42283abb0",
+    "TEXAS-TORNADOES_overlays.png": "51e97aed0da7869ec998cf1a1c343e82ff23ac5afe8d3f2c3c4df149c70c2ba9",
+    "context_comparison.png": "a0c2805752dada4c609c7105f390a33d47b056e81731cbdf442703f7959f1003"
+  },
+  "readable_titles_and_colors": true,
+  "reviewed_by": "agent visual QA, not human annotation",
+  "semantic_reference_or_registration_certified": false
+}

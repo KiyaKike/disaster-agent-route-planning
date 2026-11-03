@@ -1,0 +1,10 @@
+{
+  "all_geometric_threshold_selected_pairs_checked": 3,
+  "complete_metadata_probe_replay_identical": true,
+  "geometry_probe_output_sha256": "7eed6e08fb642997387596510912cef4c30b83dfce9a7667d7996e9d7e2db624",
+  "image_payload_bytes_read": 0,
+  "network_bytes_received": 0,
+  "new_damage_reads": 0,
+  "pixel_duplicate_confirmed": false,
+  "stage": "SUPPLEMENTARY_METADATA_PROBE_REPLAY_PASSED"
+}

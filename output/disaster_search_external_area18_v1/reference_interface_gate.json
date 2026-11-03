@@ -1,0 +1,27 @@
+{
+  "human_or_geographic_independence_passed": false,
+  "purpose": "Fixed-detector descriptive reference-area diagnostic only",
+  "reference_manifest_sha256": "2fe4670a1baa7b92136d0da675e4649a94c67f99a02a992859e313467a2e2a4c",
+  "rgb_manifest_sha256": "4857076df9a54615d023cd4308bd71e505cda70087b7ea74614245debe9379b0",
+  "selected_ids": [
+    "EARTHQUAKE-TURKEY_000237",
+    "EARTHQUAKE-TURKEY_003472",
+    "EARTHQUAKE-TURKEY_005459",
+    "EARTHQUAKE-TURKEY_006807",
+    "EARTHQUAKE-TURKEY_012987",
+    "EARTHQUAKE-TURKEY_015741",
+    "PAKISTAN-FLOODING_003197",
+    "PAKISTAN-FLOODING_004697",
+    "PAKISTAN-FLOODING_006998",
+    "PAKISTAN-FLOODING_013475",
+    "PAKISTAN-FLOODING_014536",
+    "PAKISTAN-FLOODING_017841",
+    "TEXAS-TORNADOES_000325",
+    "TEXAS-TORNADOES_002697",
+    "TEXAS-TORNADOES_002969",
+    "TEXAS-TORNADOES_003987",
+    "TEXAS-TORNADOES_004417",
+    "TEXAS-TORNADOES_004813"
+  ],
+  "technical_interface_passed": true
+}

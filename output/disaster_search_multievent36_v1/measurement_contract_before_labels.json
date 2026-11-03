@@ -1,0 +1,20 @@
+{
+  "native_tile": 256,
+  "tile_cost": 4,
+  "primary_budget": 16,
+  "budgets": [
+    8,
+    16,
+    32,
+    64
+  ],
+  "free_coarse": 64,
+  "fixed_checkpoint": "fe7ded8c5012dee3d39675226b0aa1fd671d8c19cef5c88080daa8b13645c6b6",
+  "new_forward_cap": 2308,
+  "new_samples": 36,
+  "new_events": 3,
+  "minimum_locally_detectable_scenes_per_event_for_method_review": 6,
+  "no_replacement_or_SantaRosa_pooling": true,
+  "run_source_sha256_before_labels": "5467ef35bed5b5aa175929fb49cdd095935f6582b2123256abe1cf9f8b9eb638",
+  "scope": "Engineering measurement replication,not method validation"
+}

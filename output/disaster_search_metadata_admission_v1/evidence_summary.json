@@ -1,0 +1,350 @@
+{
+  "area_distributions": {
+    "selection_test_inferred_overlaps": {
+      "area_bin_pair_counts": {
+        "0.01_to_0.1_percent": 0,
+        "0.1_to_1_percent": 0,
+        "10_to_99_percent": 3,
+        "1_to_10_percent": 3,
+        "99_percent_or_more": 0,
+        "below_0.01_percent": 36
+      },
+      "candidate_flags": 37,
+      "fraction_quantiles_min_median_p90_p99_max": [
+        1.0413916013203225e-06,
+        5.4355176547321894e-06,
+        0.018447908691188866,
+        0.5175991263397294,
+        0.6874888642170632
+      ],
+      "pairs": 42,
+      "thresholds_are_descriptive_not_new_admission_rules": true
+    },
+    "training_inferred_overlaps": {
+      "area_bin_pair_counts": {
+        "0.01_to_0.1_percent": 0,
+        "0.1_to_1_percent": 0,
+        "10_to_99_percent": 6,
+        "1_to_10_percent": 3,
+        "99_percent_or_more": 3,
+        "below_0.01_percent": 113
+      },
+      "candidate_flags": 84,
+      "fraction_quantiles_min_median_p90_p99_max": [
+        1.1098078625481765e-06,
+        4.4888661809023764e-06,
+        3.10958950114593e-05,
+        0.9999988267024664,
+        0.9999996575131552
+      ],
+      "pairs": 125,
+      "thresholds_are_descriptive_not_new_admission_rules": true
+    },
+    "training_padded_inferred_overlaps": {
+      "area_bin_pair_counts": {
+        "0.01_to_0.1_percent": 0,
+        "0.1_to_1_percent": 222,
+        "10_to_99_percent": 6,
+        "1_to_10_percent": 3,
+        "99_percent_or_more": 3,
+        "below_0.01_percent": 171
+      },
+      "candidate_flags": 132,
+      "fraction_quantiles_min_median_p90_p99_max": [
+        8.496577545455279e-06,
+        0.0038882591788595416,
+        0.003894503901731433,
+        0.38103538743310056,
+        0.9999996581168343
+      ],
+      "pairs": 405,
+      "thresholds_are_descriptive_not_new_admission_rules": true
+    }
+  },
+  "basis_probe_sha256": "7eed6e08fb642997387596510912cef4c30b83dfce9a7667d7996e9d7e2db624",
+  "basis_report_sha256": "43b6e9e15d8b090b90bc0f0b5872f1d5e6aaddbae6f04aedaed9fff034e7d46a",
+  "by_split_and_event": [
+    {
+      "candidates": 24,
+      "event": "hurricane-florence",
+      "independently_admitted_scenes": 0,
+      "inferred_selection_test_overlap_flags": 3,
+      "inferred_training_overlap_flags": 10,
+      "new_inferred_training_flags_beyond_old_envelopes": 7,
+      "original_training_building_envelope_flags": 5,
+      "padded_inferred_training_overlap_flags": 15,
+      "split": "confirmation",
+      "unknown_inferred_ranges": 8,
+      "usable_inferred_ranges": 16
+    },
+    {
+      "candidates": 24,
+      "event": "hurricane-matthew",
+      "independently_admitted_scenes": 0,
+      "inferred_selection_test_overlap_flags": 6,
+      "inferred_training_overlap_flags": 18,
+      "new_inferred_training_flags_beyond_old_envelopes": 12,
+      "original_training_building_envelope_flags": 8,
+      "padded_inferred_training_overlap_flags": 20,
+      "split": "confirmation",
+      "unknown_inferred_ranges": 3,
+      "usable_inferred_ranges": 21
+    },
+    {
+      "candidates": 24,
+      "event": "palu-tsunami",
+      "independently_admitted_scenes": 0,
+      "inferred_selection_test_overlap_flags": 0,
+      "inferred_training_overlap_flags": 0,
+      "new_inferred_training_flags_beyond_old_envelopes": 0,
+      "original_training_building_envelope_flags": 0,
+      "padded_inferred_training_overlap_flags": 15,
+      "split": "confirmation",
+      "unknown_inferred_ranges": 6,
+      "usable_inferred_ranges": 18
+    },
+    {
+      "candidates": 24,
+      "event": "hurricane-harvey",
+      "independently_admitted_scenes": 0,
+      "inferred_selection_test_overlap_flags": 8,
+      "inferred_training_overlap_flags": 9,
+      "new_inferred_training_flags_beyond_old_envelopes": 2,
+      "original_training_building_envelope_flags": 10,
+      "padded_inferred_training_overlap_flags": 13,
+      "split": "development",
+      "unknown_inferred_ranges": 5,
+      "usable_inferred_ranges": 19
+    },
+    {
+      "candidates": 24,
+      "event": "mexico-earthquake",
+      "independently_admitted_scenes": 0,
+      "inferred_selection_test_overlap_flags": 4,
+      "inferred_training_overlap_flags": 8,
+      "new_inferred_training_flags_beyond_old_envelopes": 6,
+      "original_training_building_envelope_flags": 3,
+      "padded_inferred_training_overlap_flags": 18,
+      "split": "development",
+      "unknown_inferred_ranges": 2,
+      "usable_inferred_ranges": 22
+    },
+    {
+      "candidates": 24,
+      "event": "santa-rosa-wildfire",
+      "independently_admitted_scenes": 0,
+      "inferred_selection_test_overlap_flags": 7,
+      "inferred_training_overlap_flags": 16,
+      "new_inferred_training_flags_beyond_old_envelopes": 10,
+      "original_training_building_envelope_flags": 7,
+      "padded_inferred_training_overlap_flags": 18,
+      "split": "development",
+      "unknown_inferred_ranges": 2,
+      "usable_inferred_ranges": 22
+    },
+    {
+      "candidates": 24,
+      "event": "hurricane-michael",
+      "independently_admitted_scenes": 0,
+      "inferred_selection_test_overlap_flags": 5,
+      "inferred_training_overlap_flags": 16,
+      "new_inferred_training_flags_beyond_old_envelopes": 2,
+      "original_training_building_envelope_flags": 16,
+      "padded_inferred_training_overlap_flags": 20,
+      "split": "validation",
+      "unknown_inferred_ranges": 2,
+      "usable_inferred_ranges": 22
+    },
+    {
+      "candidates": 24,
+      "event": "midwest-flooding",
+      "independently_admitted_scenes": 0,
+      "inferred_selection_test_overlap_flags": 1,
+      "inferred_training_overlap_flags": 3,
+      "new_inferred_training_flags_beyond_old_envelopes": 2,
+      "original_training_building_envelope_flags": 2,
+      "padded_inferred_training_overlap_flags": 8,
+      "split": "validation",
+      "unknown_inferred_ranges": 11,
+      "usable_inferred_ranges": 13
+    },
+    {
+      "candidates": 24,
+      "event": "socal-fire",
+      "independently_admitted_scenes": 0,
+      "inferred_selection_test_overlap_flags": 3,
+      "inferred_training_overlap_flags": 4,
+      "new_inferred_training_flags_beyond_old_envelopes": 0,
+      "original_training_building_envelope_flags": 11,
+      "padded_inferred_training_overlap_flags": 5,
+      "split": "validation",
+      "unknown_inferred_ranges": 18,
+      "usable_inferred_ranges": 6
+    }
+  ],
+  "candidate_ranges_unknown": 57,
+  "cross_split_inferred_pair_count": 0,
+  "independent_validation_admitted": false,
+  "near_complete_spatial_pairs": [
+    {
+      "candidate_geometry_rings": 56,
+      "candidate_id": "socal-fire_00000453",
+      "fraction_of_smaller_inferred_post_range": 0.9999996575131552,
+      "images": {
+        "post": {
+          "candidate_archive_reference": {
+            "bytes": 1634936,
+            "offset": 29025381943
+          },
+          "encoded_size_equal": false,
+          "image_bytes_read": 0,
+          "pixel_hash_equality_verified": false,
+          "same_archive_payload_reference": false,
+          "training_archive_reference": {
+            "bytes": 1840542,
+            "offset": 25805826230
+          }
+        },
+        "pre": {
+          "candidate_archive_reference": {
+            "bytes": 1593355,
+            "offset": 29023788540
+          },
+          "encoded_size_equal": true,
+          "image_bytes_read": 0,
+          "pixel_hash_equality_verified": false,
+          "same_archive_payload_reference": false,
+          "training_archive_reference": {
+            "bytes": 1593355,
+            "offset": 25804232827
+          }
+        }
+      },
+      "pixel_hash_equality_verified": false,
+      "raw_wgs84_array_equal": false,
+      "raw_xy_array_equal": false,
+      "training_geometry_rings": 51,
+      "training_id": "woolsey-fire_00000568",
+      "xy_polygon_fingerprint_multisets_equal_round6": false
+    },
+    {
+      "candidate_geometry_rings": 12,
+      "candidate_id": "socal-fire_00000134",
+      "fraction_of_smaller_inferred_post_range": 0.999997434789842,
+      "images": {
+        "post": {
+          "candidate_archive_reference": {
+            "bytes": 1458307,
+            "offset": 28843786381
+          },
+          "encoded_size_equal": false,
+          "image_bytes_read": 0,
+          "pixel_hash_equality_verified": false,
+          "same_archive_payload_reference": false,
+          "training_archive_reference": {
+            "bytes": 1685509,
+            "offset": 24204409556
+          }
+        },
+        "pre": {
+          "candidate_archive_reference": {
+            "bytes": 1762993,
+            "offset": 28842023340
+          },
+          "encoded_size_equal": true,
+          "image_bytes_read": 0,
+          "pixel_hash_equality_verified": false,
+          "same_archive_payload_reference": false,
+          "training_archive_reference": {
+            "bytes": 1762993,
+            "offset": 24202646515
+          }
+        }
+      },
+      "pixel_hash_equality_verified": false,
+      "raw_wgs84_array_equal": false,
+      "raw_xy_array_equal": false,
+      "training_geometry_rings": 13,
+      "training_id": "woolsey-fire_00000056",
+      "xy_polygon_fingerprint_multisets_equal_round6": false
+    },
+    {
+      "candidate_geometry_rings": 42,
+      "candidate_id": "socal-fire_00000165",
+      "fraction_of_smaller_inferred_post_range": 0.9999992662538215,
+      "images": {
+        "post": {
+          "candidate_archive_reference": {
+            "bytes": 1565355,
+            "offset": 28871077077
+          },
+          "encoded_size_equal": false,
+          "image_bytes_read": 0,
+          "pixel_hash_equality_verified": false,
+          "same_archive_payload_reference": false,
+          "training_archive_reference": {
+            "bytes": 1778344,
+            "offset": 24457020725
+          }
+        },
+        "pre": {
+          "candidate_archive_reference": {
+            "bytes": 1847189,
+            "offset": 28869229840
+          },
+          "encoded_size_equal": true,
+          "image_bytes_read": 0,
+          "pixel_hash_equality_verified": false,
+          "same_archive_payload_reference": false,
+          "training_archive_reference": {
+            "bytes": 1847189,
+            "offset": 24455173488
+          }
+        }
+      },
+      "pixel_hash_equality_verified": false,
+      "raw_wgs84_array_equal": false,
+      "raw_xy_array_equal": false,
+      "training_geometry_rings": 100,
+      "training_id": "woolsey-fire_00000137",
+      "xy_polygon_fingerprint_multisets_equal_round6": false
+    }
+  ],
+  "official_full_footprints_verified": false,
+  "pixel_duplicate_confirmed": false,
+  "split_summary": [
+    {
+      "candidates": 72,
+      "inferred_selection_test_overlap_flags": 9,
+      "inferred_training_overlap_flags": 28,
+      "old_or_new_training_screen_flags": 32,
+      "original_training_envelope_flags": 13,
+      "split": "confirmation",
+      "unknown_inferred_ranges": 17,
+      "usable_inferred_ranges": 55
+    },
+    {
+      "candidates": 72,
+      "inferred_selection_test_overlap_flags": 19,
+      "inferred_training_overlap_flags": 33,
+      "old_or_new_training_screen_flags": 38,
+      "original_training_envelope_flags": 20,
+      "split": "development",
+      "unknown_inferred_ranges": 9,
+      "usable_inferred_ranges": 63
+    },
+    {
+      "candidates": 72,
+      "inferred_selection_test_overlap_flags": 9,
+      "inferred_training_overlap_flags": 23,
+      "old_or_new_training_screen_flags": 33,
+      "original_training_envelope_flags": 29,
+      "split": "validation",
+      "unknown_inferred_ranges": 31,
+      "usable_inferred_ranges": 41
+    }
+  ],
+  "stage": "METADATA_ADMISSION_EVIDENCE_SUMMARIZED",
+  "training_ranges_unknown": 2550,
+  "validation_or_confirmation_scores_run": false
+}

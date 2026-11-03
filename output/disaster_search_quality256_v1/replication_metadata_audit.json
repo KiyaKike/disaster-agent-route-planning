@@ -1,0 +1,18 @@
+{
+  "RGB_members": 72,
+  "all_queue_entries_disabled": true,
+  "future_forward_cap": 758,
+  "new_inference": 0,
+  "new_pairs": 36,
+  "new_payload_bytes_read": 0,
+  "old18_overlap": 0,
+  "post_reference_members": 36,
+  "queue_members": 108,
+  "ranking_used_classes_or_predictions": false,
+  "ranks_per_event": [
+    7,
+    18
+  ],
+  "selected_compressed_bytes": 29635418,
+  "status": "NEW36_IDENTITY_HASH_RANKING_REPLAYED_METADATA_ONLY"
+}

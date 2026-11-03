@@ -1,0 +1,5186 @@
+[
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000040",
+    "tile_id": 0,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000040",
+    "tile_id": 1,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000040",
+    "tile_id": 2,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000040",
+    "tile_id": 3,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000040",
+    "tile_id": 4,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000040",
+    "tile_id": 5,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000040",
+    "tile_id": 6,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000040",
+    "tile_id": 7,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000040",
+    "tile_id": 8,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000040",
+    "tile_id": 9,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000040",
+    "tile_id": 10,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000040",
+    "tile_id": 11,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000040",
+    "tile_id": 12,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 117,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000040",
+    "tile_id": 13,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000040",
+    "tile_id": 14,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000040",
+    "tile_id": 15,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000055",
+    "tile_id": 0,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 8754,
+    "reference": 1090,
+    "sample_id": "nepal-flooding_00000055",
+    "tile_id": 1,
+    "tp": 873,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 2332,
+    "reference": 195,
+    "sample_id": "nepal-flooding_00000055",
+    "tile_id": 2,
+    "tp": 151,
+    "valid_pixels": 65466
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000055",
+    "tile_id": 3,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000055",
+    "tile_id": 4,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000055",
+    "tile_id": 5,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000055",
+    "tile_id": 6,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 52,
+    "sample_id": "nepal-flooding_00000055",
+    "tile_id": 7,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000055",
+    "tile_id": 8,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000055",
+    "tile_id": 9,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000055",
+    "tile_id": 10,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000055",
+    "tile_id": 11,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000055",
+    "tile_id": 12,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000055",
+    "tile_id": 13,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000055",
+    "tile_id": 14,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000055",
+    "tile_id": 15,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 11,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000104",
+    "tile_id": 0,
+    "tp": 0,
+    "valid_pixels": 65386
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 1,
+    "reference": 1623,
+    "sample_id": "nepal-flooding_00000104",
+    "tile_id": 1,
+    "tp": 903,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000104",
+    "tile_id": 2,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 268,
+    "reference": 1895,
+    "sample_id": "nepal-flooding_00000104",
+    "tile_id": 3,
+    "tp": 615,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 1070,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000104",
+    "tile_id": 4,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 10951,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000104",
+    "tile_id": 5,
+    "tp": 0,
+    "valid_pixels": 65159
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 195,
+    "reference": 1898,
+    "sample_id": "nepal-flooding_00000104",
+    "tile_id": 6,
+    "tp": 1142,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 545,
+    "reference": 615,
+    "sample_id": "nepal-flooding_00000104",
+    "tile_id": 7,
+    "tp": 361,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000104",
+    "tile_id": 8,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000104",
+    "tile_id": 9,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000104",
+    "tile_id": 10,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000104",
+    "tile_id": 11,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000104",
+    "tile_id": 12,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000104",
+    "tile_id": 13,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000104",
+    "tile_id": 14,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000104",
+    "tile_id": 15,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000150",
+    "tile_id": 0,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000150",
+    "tile_id": 1,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000150",
+    "tile_id": 2,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000150",
+    "tile_id": 3,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000150",
+    "tile_id": 4,
+    "tp": 0,
+    "valid_pixels": 65357
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000150",
+    "tile_id": 5,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000150",
+    "tile_id": 6,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000150",
+    "tile_id": 7,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000150",
+    "tile_id": 8,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000150",
+    "tile_id": 9,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000150",
+    "tile_id": 10,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000150",
+    "tile_id": 11,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000150",
+    "tile_id": 12,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000150",
+    "tile_id": 13,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000150",
+    "tile_id": 14,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 153,
+    "reference": 2923,
+    "sample_id": "nepal-flooding_00000150",
+    "tile_id": 15,
+    "tp": 1414,
+    "valid_pixels": 63453
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 7382,
+    "reference": 6443,
+    "sample_id": "nepal-flooding_00000333",
+    "tile_id": 0,
+    "tp": 4652,
+    "valid_pixels": 65478
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 6856,
+    "reference": 459,
+    "sample_id": "nepal-flooding_00000333",
+    "tile_id": 1,
+    "tp": 0,
+    "valid_pixels": 65522
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 3209,
+    "reference": 9301,
+    "sample_id": "nepal-flooding_00000333",
+    "tile_id": 2,
+    "tp": 5256,
+    "valid_pixels": 65533
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 151,
+    "sample_id": "nepal-flooding_00000333",
+    "tile_id": 3,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 5,
+    "reference": 1156,
+    "sample_id": "nepal-flooding_00000333",
+    "tile_id": 4,
+    "tp": 299,
+    "valid_pixels": 65535
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 427,
+    "reference": 9278,
+    "sample_id": "nepal-flooding_00000333",
+    "tile_id": 5,
+    "tp": 6555,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 275,
+    "reference": 1599,
+    "sample_id": "nepal-flooding_00000333",
+    "tile_id": 6,
+    "tp": 902,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 8,
+    "reference": 2629,
+    "sample_id": "nepal-flooding_00000333",
+    "tile_id": 7,
+    "tp": 898,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 34,
+    "reference": 1861,
+    "sample_id": "nepal-flooding_00000333",
+    "tile_id": 8,
+    "tp": 473,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 1092,
+    "sample_id": "nepal-flooding_00000333",
+    "tile_id": 9,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000333",
+    "tile_id": 10,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 218,
+    "sample_id": "nepal-flooding_00000333",
+    "tile_id": 11,
+    "tp": 18,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000333",
+    "tile_id": 12,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000333",
+    "tile_id": 13,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000333",
+    "tile_id": 14,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 1648,
+    "sample_id": "nepal-flooding_00000333",
+    "tile_id": 15,
+    "tp": 8,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000356",
+    "tile_id": 0,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000356",
+    "tile_id": 1,
+    "tp": 0,
+    "valid_pixels": 65450
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 3,
+    "reference": 220,
+    "sample_id": "nepal-flooding_00000356",
+    "tile_id": 2,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 334,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000356",
+    "tile_id": 3,
+    "tp": 0,
+    "valid_pixels": 65525
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000356",
+    "tile_id": 4,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000356",
+    "tile_id": 5,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000356",
+    "tile_id": 6,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000356",
+    "tile_id": 7,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000356",
+    "tile_id": 8,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 37,
+    "reference": 214,
+    "sample_id": "nepal-flooding_00000356",
+    "tile_id": 9,
+    "tp": 46,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 192,
+    "sample_id": "nepal-flooding_00000356",
+    "tile_id": 10,
+    "tp": 80,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000356",
+    "tile_id": 11,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000356",
+    "tile_id": 12,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000356",
+    "tile_id": 13,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000356",
+    "tile_id": 14,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000356",
+    "tile_id": 15,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000392",
+    "tile_id": 0,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000392",
+    "tile_id": 1,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 105,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000392",
+    "tile_id": 2,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000392",
+    "tile_id": 3,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000392",
+    "tile_id": 4,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000392",
+    "tile_id": 5,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 3066,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000392",
+    "tile_id": 6,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 102,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000392",
+    "tile_id": 7,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000392",
+    "tile_id": 8,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000392",
+    "tile_id": 9,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 189,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000392",
+    "tile_id": 10,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 3247,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000392",
+    "tile_id": 11,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000392",
+    "tile_id": 12,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000392",
+    "tile_id": 13,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000392",
+    "tile_id": 14,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 6732,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000392",
+    "tile_id": 15,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 5805,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000470",
+    "tile_id": 0,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 7540,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000470",
+    "tile_id": 1,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000470",
+    "tile_id": 2,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000470",
+    "tile_id": 3,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 1001,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000470",
+    "tile_id": 4,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000470",
+    "tile_id": 5,
+    "tp": 0,
+    "valid_pixels": 64550
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000470",
+    "tile_id": 6,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000470",
+    "tile_id": 7,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 7443,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000470",
+    "tile_id": 8,
+    "tp": 0,
+    "valid_pixels": 65532
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 2309,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000470",
+    "tile_id": 9,
+    "tp": 0,
+    "valid_pixels": 65412
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000470",
+    "tile_id": 10,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000470",
+    "tile_id": 11,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 4050,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000470",
+    "tile_id": 12,
+    "tp": 0,
+    "valid_pixels": 64605
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000470",
+    "tile_id": 13,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 2086,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000470",
+    "tile_id": 14,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000470",
+    "tile_id": 15,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 255,
+    "reference": 1141,
+    "sample_id": "nepal-flooding_00000534",
+    "tile_id": 0,
+    "tp": 1141,
+    "valid_pixels": 65160
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000534",
+    "tile_id": 1,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000534",
+    "tile_id": 2,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000534",
+    "tile_id": 3,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 26,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000534",
+    "tile_id": 4,
+    "tp": 0,
+    "valid_pixels": 65276
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000534",
+    "tile_id": 5,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000534",
+    "tile_id": 6,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000534",
+    "tile_id": 7,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 9,
+    "reference": 151,
+    "sample_id": "nepal-flooding_00000534",
+    "tile_id": 8,
+    "tp": 73,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000534",
+    "tile_id": 9,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000534",
+    "tile_id": 10,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000534",
+    "tile_id": 11,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 571,
+    "reference": 2459,
+    "sample_id": "nepal-flooding_00000534",
+    "tile_id": 12,
+    "tp": 722,
+    "valid_pixels": 62899
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000534",
+    "tile_id": 13,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000534",
+    "tile_id": 14,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000534",
+    "tile_id": 15,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000574",
+    "tile_id": 0,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000574",
+    "tile_id": 1,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000574",
+    "tile_id": 2,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000574",
+    "tile_id": 3,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000574",
+    "tile_id": 4,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 67,
+    "reference": 1212,
+    "sample_id": "nepal-flooding_00000574",
+    "tile_id": 5,
+    "tp": 869,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000574",
+    "tile_id": 6,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000574",
+    "tile_id": 7,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000574",
+    "tile_id": 8,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 124,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000574",
+    "tile_id": 9,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000574",
+    "tile_id": 10,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000574",
+    "tile_id": 11,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000574",
+    "tile_id": 12,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 114,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000574",
+    "tile_id": 13,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 2947,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000574",
+    "tile_id": 14,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000574",
+    "tile_id": 15,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000583",
+    "tile_id": 0,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000583",
+    "tile_id": 1,
+    "tp": 0,
+    "valid_pixels": 65486
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000583",
+    "tile_id": 2,
+    "tp": 0,
+    "valid_pixels": 65516
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 117,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000583",
+    "tile_id": 3,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000583",
+    "tile_id": 4,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000583",
+    "tile_id": 5,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 150,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000583",
+    "tile_id": 6,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000583",
+    "tile_id": 7,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000583",
+    "tile_id": 8,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000583",
+    "tile_id": 9,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000583",
+    "tile_id": 10,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000583",
+    "tile_id": 11,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000583",
+    "tile_id": 12,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000583",
+    "tile_id": 13,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 107,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000583",
+    "tile_id": 14,
+    "tp": 0,
+    "valid_pixels": 65078
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 196,
+    "reference": 966,
+    "sample_id": "nepal-flooding_00000583",
+    "tile_id": 15,
+    "tp": 712,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000614",
+    "tile_id": 0,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000614",
+    "tile_id": 1,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000614",
+    "tile_id": 2,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000614",
+    "tile_id": 3,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000614",
+    "tile_id": 4,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000614",
+    "tile_id": 5,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000614",
+    "tile_id": 6,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000614",
+    "tile_id": 7,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000614",
+    "tile_id": 8,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000614",
+    "tile_id": 9,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000614",
+    "tile_id": 10,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000614",
+    "tile_id": 11,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 3880,
+    "reference": 2318,
+    "sample_id": "nepal-flooding_00000614",
+    "tile_id": 12,
+    "tp": 1300,
+    "valid_pixels": 64573
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000614",
+    "tile_id": 13,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000614",
+    "tile_id": 14,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "nepal-flooding",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "nepal-flooding_00000614",
+    "tile_id": 15,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000014",
+    "tile_id": 0,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000014",
+    "tile_id": 1,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000014",
+    "tile_id": 2,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000014",
+    "tile_id": 3,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 10,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000014",
+    "tile_id": 4,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 449,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000014",
+    "tile_id": 5,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 1,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000014",
+    "tile_id": 6,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000014",
+    "tile_id": 7,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000014",
+    "tile_id": 8,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000014",
+    "tile_id": 9,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 1447,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000014",
+    "tile_id": 10,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000014",
+    "tile_id": 11,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000014",
+    "tile_id": 12,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000014",
+    "tile_id": 13,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000014",
+    "tile_id": 14,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000014",
+    "tile_id": 15,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000015",
+    "tile_id": 0,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000015",
+    "tile_id": 1,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000015",
+    "tile_id": 2,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000015",
+    "tile_id": 3,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000015",
+    "tile_id": 4,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000015",
+    "tile_id": 5,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000015",
+    "tile_id": 6,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000015",
+    "tile_id": 7,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000015",
+    "tile_id": 8,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000015",
+    "tile_id": 9,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000015",
+    "tile_id": 10,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000015",
+    "tile_id": 11,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000015",
+    "tile_id": 12,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000015",
+    "tile_id": 13,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000015",
+    "tile_id": 14,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000015",
+    "tile_id": 15,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 14,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000016",
+    "tile_id": 0,
+    "tp": 0,
+    "valid_pixels": 62563
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000016",
+    "tile_id": 1,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 1,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000016",
+    "tile_id": 2,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000016",
+    "tile_id": 3,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000016",
+    "tile_id": 4,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000016",
+    "tile_id": 5,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000016",
+    "tile_id": 6,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000016",
+    "tile_id": 7,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000016",
+    "tile_id": 8,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000016",
+    "tile_id": 9,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 12,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000016",
+    "tile_id": 10,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 2583,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000016",
+    "tile_id": 11,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000016",
+    "tile_id": 12,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 140,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000016",
+    "tile_id": 13,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000016",
+    "tile_id": 14,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000016",
+    "tile_id": 15,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000047",
+    "tile_id": 0,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000047",
+    "tile_id": 1,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000047",
+    "tile_id": 2,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000047",
+    "tile_id": 3,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000047",
+    "tile_id": 4,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000047",
+    "tile_id": 5,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000047",
+    "tile_id": 6,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000047",
+    "tile_id": 7,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000047",
+    "tile_id": 8,
+    "tp": 0,
+    "valid_pixels": 64554
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000047",
+    "tile_id": 9,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000047",
+    "tile_id": 10,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000047",
+    "tile_id": 11,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 452,
+    "sample_id": "sunda-tsunami_00000047",
+    "tile_id": 12,
+    "tp": 0,
+    "valid_pixels": 65002
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000047",
+    "tile_id": 13,
+    "tp": 0,
+    "valid_pixels": 65362
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 207,
+    "sample_id": "sunda-tsunami_00000047",
+    "tile_id": 14,
+    "tp": 0,
+    "valid_pixels": 63842
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 615,
+    "sample_id": "sunda-tsunami_00000047",
+    "tile_id": 15,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 51,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000053",
+    "tile_id": 0,
+    "tp": 0,
+    "valid_pixels": 65442
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 925,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000053",
+    "tile_id": 1,
+    "tp": 0,
+    "valid_pixels": 65341
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000053",
+    "tile_id": 2,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000053",
+    "tile_id": 3,
+    "tp": 0,
+    "valid_pixels": 65271
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000053",
+    "tile_id": 4,
+    "tp": 0,
+    "valid_pixels": 65428
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 35,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000053",
+    "tile_id": 5,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000053",
+    "tile_id": 6,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000053",
+    "tile_id": 7,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000053",
+    "tile_id": 8,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000053",
+    "tile_id": 9,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000053",
+    "tile_id": 10,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000053",
+    "tile_id": 11,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000053",
+    "tile_id": 12,
+    "tp": 0,
+    "valid_pixels": 60915
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 45,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000053",
+    "tile_id": 13,
+    "tp": 0,
+    "valid_pixels": 61768
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000053",
+    "tile_id": 14,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000053",
+    "tile_id": 15,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 15146,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000059",
+    "tile_id": 0,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000059",
+    "tile_id": 1,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000059",
+    "tile_id": 2,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000059",
+    "tile_id": 3,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 1547,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000059",
+    "tile_id": 4,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000059",
+    "tile_id": 5,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000059",
+    "tile_id": 6,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000059",
+    "tile_id": 7,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000059",
+    "tile_id": 8,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000059",
+    "tile_id": 9,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000059",
+    "tile_id": 10,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000059",
+    "tile_id": 11,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000059",
+    "tile_id": 12,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000059",
+    "tile_id": 13,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000059",
+    "tile_id": 14,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000059",
+    "tile_id": 15,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000061",
+    "tile_id": 0,
+    "tp": 0,
+    "valid_pixels": 63981
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000061",
+    "tile_id": 1,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000061",
+    "tile_id": 2,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000061",
+    "tile_id": 3,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000061",
+    "tile_id": 4,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000061",
+    "tile_id": 5,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000061",
+    "tile_id": 6,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000061",
+    "tile_id": 7,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000061",
+    "tile_id": 8,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000061",
+    "tile_id": 9,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000061",
+    "tile_id": 10,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000061",
+    "tile_id": 11,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000061",
+    "tile_id": 12,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000061",
+    "tile_id": 13,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000061",
+    "tile_id": 14,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000061",
+    "tile_id": 15,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000078",
+    "tile_id": 0,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000078",
+    "tile_id": 1,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000078",
+    "tile_id": 2,
+    "tp": 0,
+    "valid_pixels": 64306
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000078",
+    "tile_id": 3,
+    "tp": 0,
+    "valid_pixels": 53430
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000078",
+    "tile_id": 4,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000078",
+    "tile_id": 5,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000078",
+    "tile_id": 6,
+    "tp": 0,
+    "valid_pixels": 63405
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000078",
+    "tile_id": 7,
+    "tp": 0,
+    "valid_pixels": 56541
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000078",
+    "tile_id": 8,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000078",
+    "tile_id": 9,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000078",
+    "tile_id": 10,
+    "tp": 0,
+    "valid_pixels": 60235
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000078",
+    "tile_id": 11,
+    "tp": 0,
+    "valid_pixels": 50816
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000078",
+    "tile_id": 12,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000078",
+    "tile_id": 13,
+    "tp": 0,
+    "valid_pixels": 64954
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000078",
+    "tile_id": 14,
+    "tp": 0,
+    "valid_pixels": 56916
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000078",
+    "tile_id": 15,
+    "tp": 0,
+    "valid_pixels": 51959
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000105",
+    "tile_id": 0,
+    "tp": 0,
+    "valid_pixels": 64554
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000105",
+    "tile_id": 1,
+    "tp": 0,
+    "valid_pixels": 63475
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000105",
+    "tile_id": 2,
+    "tp": 0,
+    "valid_pixels": 63883
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000105",
+    "tile_id": 3,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000105",
+    "tile_id": 4,
+    "tp": 0,
+    "valid_pixels": 64407
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000105",
+    "tile_id": 5,
+    "tp": 0,
+    "valid_pixels": 64623
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000105",
+    "tile_id": 6,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000105",
+    "tile_id": 7,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000105",
+    "tile_id": 8,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000105",
+    "tile_id": 9,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000105",
+    "tile_id": 10,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000105",
+    "tile_id": 11,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000105",
+    "tile_id": 12,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000105",
+    "tile_id": 13,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000105",
+    "tile_id": 14,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000105",
+    "tile_id": 15,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 182,
+    "sample_id": "sunda-tsunami_00000118",
+    "tile_id": 0,
+    "tp": 0,
+    "valid_pixels": 64434
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000118",
+    "tile_id": 1,
+    "tp": 0,
+    "valid_pixels": 65109
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000118",
+    "tile_id": 2,
+    "tp": 0,
+    "valid_pixels": 64833
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000118",
+    "tile_id": 3,
+    "tp": 0,
+    "valid_pixels": 64335
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000118",
+    "tile_id": 4,
+    "tp": 0,
+    "valid_pixels": 65044
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000118",
+    "tile_id": 5,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000118",
+    "tile_id": 6,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000118",
+    "tile_id": 7,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000118",
+    "tile_id": 8,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000118",
+    "tile_id": 9,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000118",
+    "tile_id": 10,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000118",
+    "tile_id": 11,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000118",
+    "tile_id": 12,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000118",
+    "tile_id": 13,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000118",
+    "tile_id": 14,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000118",
+    "tile_id": 15,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000131",
+    "tile_id": 0,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000131",
+    "tile_id": 1,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000131",
+    "tile_id": 2,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000131",
+    "tile_id": 3,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000131",
+    "tile_id": 4,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000131",
+    "tile_id": 5,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000131",
+    "tile_id": 6,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000131",
+    "tile_id": 7,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000131",
+    "tile_id": 8,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000131",
+    "tile_id": 9,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000131",
+    "tile_id": 10,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000131",
+    "tile_id": 11,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000131",
+    "tile_id": 12,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000131",
+    "tile_id": 13,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000131",
+    "tile_id": 14,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000131",
+    "tile_id": 15,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000137",
+    "tile_id": 0,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000137",
+    "tile_id": 1,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000137",
+    "tile_id": 2,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000137",
+    "tile_id": 3,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000137",
+    "tile_id": 4,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000137",
+    "tile_id": 5,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000137",
+    "tile_id": 6,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000137",
+    "tile_id": 7,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000137",
+    "tile_id": 8,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000137",
+    "tile_id": 9,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000137",
+    "tile_id": 10,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000137",
+    "tile_id": 11,
+    "tp": 0,
+    "valid_pixels": 64252
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000137",
+    "tile_id": 12,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000137",
+    "tile_id": 13,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000137",
+    "tile_id": 14,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "sunda-tsunami",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "sunda-tsunami_00000137",
+    "tile_id": 15,
+    "tp": 0,
+    "valid_pixels": 62337
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000010",
+    "tile_id": 0,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000010",
+    "tile_id": 1,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000010",
+    "tile_id": 2,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000010",
+    "tile_id": 3,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000010",
+    "tile_id": 4,
+    "tp": 0,
+    "valid_pixels": 64796
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000010",
+    "tile_id": 5,
+    "tp": 0,
+    "valid_pixels": 64608
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000010",
+    "tile_id": 6,
+    "tp": 0,
+    "valid_pixels": 64983
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000010",
+    "tile_id": 7,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000010",
+    "tile_id": 8,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000010",
+    "tile_id": 9,
+    "tp": 0,
+    "valid_pixels": 65319
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000010",
+    "tile_id": 10,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000010",
+    "tile_id": 11,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000010",
+    "tile_id": 12,
+    "tp": 0,
+    "valid_pixels": 65332
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000010",
+    "tile_id": 13,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000010",
+    "tile_id": 14,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000010",
+    "tile_id": 15,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000053",
+    "tile_id": 0,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000053",
+    "tile_id": 1,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000053",
+    "tile_id": 2,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000053",
+    "tile_id": 3,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000053",
+    "tile_id": 4,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000053",
+    "tile_id": 5,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000053",
+    "tile_id": 6,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000053",
+    "tile_id": 7,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000053",
+    "tile_id": 8,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000053",
+    "tile_id": 9,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000053",
+    "tile_id": 10,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000053",
+    "tile_id": 11,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000053",
+    "tile_id": 12,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000053",
+    "tile_id": 13,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000053",
+    "tile_id": 14,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000053",
+    "tile_id": 15,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000073",
+    "tile_id": 0,
+    "tp": 0,
+    "valid_pixels": 65389
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000073",
+    "tile_id": 1,
+    "tp": 0,
+    "valid_pixels": 62011
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000073",
+    "tile_id": 2,
+    "tp": 0,
+    "valid_pixels": 65484
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000073",
+    "tile_id": 3,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000073",
+    "tile_id": 4,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000073",
+    "tile_id": 5,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000073",
+    "tile_id": 6,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000073",
+    "tile_id": 7,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000073",
+    "tile_id": 8,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000073",
+    "tile_id": 9,
+    "tp": 0,
+    "valid_pixels": 65069
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000073",
+    "tile_id": 10,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000073",
+    "tile_id": 11,
+    "tp": 0,
+    "valid_pixels": 65297
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000073",
+    "tile_id": 12,
+    "tp": 0,
+    "valid_pixels": 65023
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000073",
+    "tile_id": 13,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000073",
+    "tile_id": 14,
+    "tp": 0,
+    "valid_pixels": 65317
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000073",
+    "tile_id": 15,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000096",
+    "tile_id": 0,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000096",
+    "tile_id": 1,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000096",
+    "tile_id": 2,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000096",
+    "tile_id": 3,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000096",
+    "tile_id": 4,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000096",
+    "tile_id": 5,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000096",
+    "tile_id": 6,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000096",
+    "tile_id": 7,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000096",
+    "tile_id": 8,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 487,
+    "sample_id": "tuscaloosa-tornado_00000096",
+    "tile_id": 9,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000096",
+    "tile_id": 10,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 155,
+    "reference": 568,
+    "sample_id": "tuscaloosa-tornado_00000096",
+    "tile_id": 11,
+    "tp": 224,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 719,
+    "sample_id": "tuscaloosa-tornado_00000096",
+    "tile_id": 12,
+    "tp": 408,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 873,
+    "sample_id": "tuscaloosa-tornado_00000096",
+    "tile_id": 13,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000096",
+    "tile_id": 14,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 52,
+    "reference": 1682,
+    "sample_id": "tuscaloosa-tornado_00000096",
+    "tile_id": 15,
+    "tp": 0,
+    "valid_pixels": 65399
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000104",
+    "tile_id": 0,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000104",
+    "tile_id": 1,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000104",
+    "tile_id": 2,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000104",
+    "tile_id": 3,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000104",
+    "tile_id": 4,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000104",
+    "tile_id": 5,
+    "tp": 0,
+    "valid_pixels": 65428
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000104",
+    "tile_id": 6,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000104",
+    "tile_id": 7,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000104",
+    "tile_id": 8,
+    "tp": 0,
+    "valid_pixels": 65176
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000104",
+    "tile_id": 9,
+    "tp": 0,
+    "valid_pixels": 65491
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000104",
+    "tile_id": 10,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000104",
+    "tile_id": 11,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000104",
+    "tile_id": 12,
+    "tp": 0,
+    "valid_pixels": 65483
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000104",
+    "tile_id": 13,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000104",
+    "tile_id": 14,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000104",
+    "tile_id": 15,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000133",
+    "tile_id": 0,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000133",
+    "tile_id": 1,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000133",
+    "tile_id": 2,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000133",
+    "tile_id": 3,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000133",
+    "tile_id": 4,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 2739,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000133",
+    "tile_id": 5,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000133",
+    "tile_id": 6,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000133",
+    "tile_id": 7,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000133",
+    "tile_id": 8,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000133",
+    "tile_id": 9,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000133",
+    "tile_id": 10,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000133",
+    "tile_id": 11,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000133",
+    "tile_id": 12,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000133",
+    "tile_id": 13,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 1,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000133",
+    "tile_id": 14,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000133",
+    "tile_id": 15,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 2512,
+    "reference": 7095,
+    "sample_id": "tuscaloosa-tornado_00000171",
+    "tile_id": 0,
+    "tp": 5499,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 237,
+    "reference": 2235,
+    "sample_id": "tuscaloosa-tornado_00000171",
+    "tile_id": 1,
+    "tp": 2133,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000171",
+    "tile_id": 2,
+    "tp": 0,
+    "valid_pixels": 63839
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000171",
+    "tile_id": 3,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 170,
+    "reference": 2513,
+    "sample_id": "tuscaloosa-tornado_00000171",
+    "tile_id": 4,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000171",
+    "tile_id": 5,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000171",
+    "tile_id": 6,
+    "tp": 0,
+    "valid_pixels": 64204
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000171",
+    "tile_id": 7,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000171",
+    "tile_id": 8,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000171",
+    "tile_id": 9,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000171",
+    "tile_id": 10,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000171",
+    "tile_id": 11,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000171",
+    "tile_id": 12,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000171",
+    "tile_id": 13,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000171",
+    "tile_id": 14,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000171",
+    "tile_id": 15,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000175",
+    "tile_id": 0,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000175",
+    "tile_id": 1,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000175",
+    "tile_id": 2,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000175",
+    "tile_id": 3,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000175",
+    "tile_id": 4,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 71,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000175",
+    "tile_id": 5,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000175",
+    "tile_id": 6,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000175",
+    "tile_id": 7,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 947,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000175",
+    "tile_id": 8,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000175",
+    "tile_id": 9,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000175",
+    "tile_id": 10,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000175",
+    "tile_id": 11,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000175",
+    "tile_id": 12,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000175",
+    "tile_id": 13,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000175",
+    "tile_id": 14,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000175",
+    "tile_id": 15,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000181",
+    "tile_id": 0,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000181",
+    "tile_id": 1,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000181",
+    "tile_id": 2,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000181",
+    "tile_id": 3,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000181",
+    "tile_id": 4,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000181",
+    "tile_id": 5,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000181",
+    "tile_id": 6,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000181",
+    "tile_id": 7,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 1100,
+    "sample_id": "tuscaloosa-tornado_00000181",
+    "tile_id": 8,
+    "tp": 0,
+    "valid_pixels": 65467
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000181",
+    "tile_id": 9,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000181",
+    "tile_id": 10,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000181",
+    "tile_id": 11,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 307,
+    "sample_id": "tuscaloosa-tornado_00000181",
+    "tile_id": 12,
+    "tp": 0,
+    "valid_pixels": 65191
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000181",
+    "tile_id": 13,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000181",
+    "tile_id": 14,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000181",
+    "tile_id": 15,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000280",
+    "tile_id": 0,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000280",
+    "tile_id": 1,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000280",
+    "tile_id": 2,
+    "tp": 0,
+    "valid_pixels": 65258
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000280",
+    "tile_id": 3,
+    "tp": 0,
+    "valid_pixels": 65439
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000280",
+    "tile_id": 4,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000280",
+    "tile_id": 5,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000280",
+    "tile_id": 6,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000280",
+    "tile_id": 7,
+    "tp": 0,
+    "valid_pixels": 65112
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000280",
+    "tile_id": 8,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000280",
+    "tile_id": 9,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000280",
+    "tile_id": 10,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000280",
+    "tile_id": 11,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000280",
+    "tile_id": 12,
+    "tp": 0,
+    "valid_pixels": 64038
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000280",
+    "tile_id": 13,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000280",
+    "tile_id": 14,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000280",
+    "tile_id": 15,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000285",
+    "tile_id": 0,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000285",
+    "tile_id": 1,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000285",
+    "tile_id": 2,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000285",
+    "tile_id": 3,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000285",
+    "tile_id": 4,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000285",
+    "tile_id": 5,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000285",
+    "tile_id": 6,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000285",
+    "tile_id": 7,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000285",
+    "tile_id": 8,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000285",
+    "tile_id": 9,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000285",
+    "tile_id": 10,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000285",
+    "tile_id": 11,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000285",
+    "tile_id": 12,
+    "tp": 0,
+    "valid_pixels": 64265
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000285",
+    "tile_id": 13,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000285",
+    "tile_id": 14,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000285",
+    "tile_id": 15,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000313",
+    "tile_id": 0,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000313",
+    "tile_id": 1,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000313",
+    "tile_id": 2,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000313",
+    "tile_id": 3,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000313",
+    "tile_id": 4,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000313",
+    "tile_id": 5,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000313",
+    "tile_id": 6,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000313",
+    "tile_id": 7,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000313",
+    "tile_id": 8,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000313",
+    "tile_id": 9,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000313",
+    "tile_id": 10,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000313",
+    "tile_id": 11,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000313",
+    "tile_id": 12,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000313",
+    "tile_id": 13,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000313",
+    "tile_id": 14,
+    "tp": 0,
+    "valid_pixels": 65536
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "fp": 0,
+    "reference": 0,
+    "sample_id": "tuscaloosa-tornado_00000313",
+    "tile_id": 15,
+    "tp": 0,
+    "valid_pixels": 65536
+  }
+]

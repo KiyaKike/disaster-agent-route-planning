@@ -1,0 +1,22 @@
+{
+  "status": "COMPLETE_CANDIDATE_STOPPED_NO_METHOD_CONTRIBUTION",
+  "files": {
+    "README.md": "74c9cefc4700cd37e0819a06d3ab2b0912944de4e09beea72ff8c71ae78528ef",
+    "audit.json": "a6ac1e11322df4154538bb9c3812259c93e7df539bff8bfde7131692f71e54c1",
+    "metadata_entry/ranges/000000000000.bin": "e55fac32d3029ceeea134cfb98a7aacab97d109fd41140904a1c3049ad244fa2",
+    "metadata_entry/ranges/000000000001.bin": "a4f39f63d8ae14e8fda31017b288069ba5d45fccd5f0c4023805ef073d691019",
+    "problem_protocol.md": "bdaae73467bc25f43890c25d3561de4087c268b656351c958fd37fc44c3aabaf",
+    "protocol.json": "84b17f33985aceb3ce353ee0535831ea86b0135862ccdb18838c88fa79e86a12",
+    "real_entry_metadata.json": "e04f897da516cef529d7ae2c9aa7380bed7ff7c98ebc962a176aa445e48cc893",
+    "results.json": "5e04a03b9862d4169aeb24d278c4d2f6f4c52a08a355c38ecfdfce4834823564",
+    "source_snapshots/finish_verification_screen.py": "e4795d318a21298112e5fe074eb2ad268e53e26a119bf5b6294dd665058bea4e",
+    "source_snapshots/probe_crasar_region.py": "d8eac16f551682984f278c3f61a3e0b8b48cdcdeb44402dcc4d031d1d6892824",
+    "source_snapshots/probe_verification_entry.py": "86ebb5d930254c61a752b897e25cae1e50c9f9d24ab5c761a75e7b6caf316802",
+    "source_snapshots/run_verification_screen.py": "6f4a351c97a785922ef52cd8d33dbffcab6c85f34905f66e49084c944ab7d2a4",
+    "source_snapshots/test_verification_screen.py": "3ef639a145f8ed5b3d3bb85f4e23cbae19baea8f6d223f3f0e79029415fa2931",
+    "source_snapshots/verification_screen_core.py": "afe673a4002d2b48cba38bca7442dda12590d3157950439854faa57f6e20f03f",
+    "summary.json": "cc016290e00c392a2700bc84b0ec53b6dfba14864329169ba2702b8d996fb9ec",
+    "tests.txt": "8c842fc931b163c6d34b6e3ab58641facfdf6b8c9e04cfb9fffae90b45c8d8f6"
+  },
+  "excluded_ephemeral": "Header-only sparse TIFF is a partial logical-size container,not a complete image"
+}

@@ -1,0 +1,18 @@
+{
+  "advisor_archive_files_unchanged": 46,
+  "boundary": "Full-policy tests on new draws of the same model and geometry;not external/real-disaster confirmation.",
+  "budget_violations": 0,
+  "condition_means_checked": 324,
+  "free_candidate_solves": 0,
+  "old_frozen_outputs_and_sources_unchanged": true,
+  "paid_observations_replayed": 227037,
+  "paid_planner_calls_replayed": 60611,
+  "paid_rejections_verified": 9775,
+  "paired_comparisons_checked": 486,
+  "proposal_decisions_replayed": 54131,
+  "replay": "Worlds,history,costs,posterior,acceptance,moment covariance and scores independently reconstructed. Candidate choices use frozen V2 solver with rebuilt public inputs.",
+  "routes_replayed": 6480,
+  "static_trajectories_checked": 2160,
+  "status": "PASS",
+  "worlds_regenerated": 120
+}

@@ -1,0 +1,121 @@
+{
+  "budgets": [
+    12,
+    20
+  ],
+  "client_date": "2026-11-02",
+  "continuation": "If exact zero-information reference gains value,fail implementation. Informative gain only validates this remote-sensing mechanism,not real disaster noise handling or new method.",
+  "cost_units": "Source energy units,not meters or seconds;4-neighbor move1,sensing.5/2,return paid.",
+  "exact_reference": "Exact finite-energy DP,at most0or1sensor action. All hidden worlds and all possible observed sensor outputs evaluated exhaustively. Not an upper bound on unrestricted repeated sensing.",
+  "gpu_rental": false,
+  "inputs_sha256": {
+    "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_route/vendor/sbo_aippms_24db0a6/InformationRockSample/AIPPMS/scripts/Trials_ISRS.jl": "5c50acf154c3e9db96294b71baa9b1615a3aa7bff4336e61db062a34def1a5c2",
+    "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_route/vendor/sbo_aippms_24db0a6/InformationRockSample/AIPPMS/src/MultimodalIPP.jl": "b3855a7c4a4264a2569d1a2b4072739d91be680726bf29310d4e048d38581a54",
+    "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_route/vendor/sbo_aippms_24db0a6/InformationRockSample/AIPPMS/src/envs/InfSearchRockSample.jl": "67b1fb28b14a1a6e30724a3b835ed7571e251f82fc5d8b5a900475155d463a23",
+    "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_route/vendor/sbo_aippms_24db0a6/InformationRockSample/AIPPMS/src/envs/common.jl": "bdadee2cd51937a3197c966cf2e3050ecffe9a5fd74275abefdefec0c1b915e8",
+    "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_route/vendor/sbo_aippms_24db0a6/LICENSE": "5564b863c39d157527a6a89bd4746fd78539831e6b44d4b5435673fa961eb7dc",
+    "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_route/vendor/sbo_aippms_24db0a6/README.md": "12f13553e33df222156e00748ff2114ae3102b0c41209c54fc6994f6977570cd",
+    "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_route/vendor/sbo_aippms_24db0a6/tree.json": "0127b66e773858976a6c4b1e46e7c23aff0b3f253b93a924b9ae869306952281"
+  },
+  "layout": {
+    "beacons": [
+      [
+        0,
+        0
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        4,
+        4
+      ]
+    ],
+    "grid": [
+      5,
+      5
+    ],
+    "home": [
+      0,
+      0
+    ],
+    "rocks": [
+      [
+        0,
+        2
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        3
+      ]
+    ],
+    "selection": "Rock layout is pinned author default5x5three-rock. Fixed3beacons are a declared controlled addition;no outcome tuning."
+  },
+  "native_paper_table_reproduction": false,
+  "new_model_calls": 0,
+  "new_training": false,
+  "old_receipt_sha256": {
+    "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_route_dual_map_demo_v1/completion_receipt.json": "bb1a54f641f4361f55b23680eeb6cf88240ba60c3b3c47134e31ad63f707d89d",
+    "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_route_factor_v2/completion_receipt.json": "7860f9cd3994cfde1fdada57ed135fa0ef94b5896d9682177996bf3617d1ca01",
+    "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_route_headroom_v1/completion_receipt.json": "8e26005a385fdb676f6c4ec9d75bfee6406fab362412ac7151f0393746b44355",
+    "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_route_loop_v1/completion_receipt.json": "7847672c26b0188947cbb6be798360585547a3aa448ad23fa2c694fbaebd6c26",
+    "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_route_real_xbd36_v1/completion_receipt.json": "936fbb040f21a4089df20eb982e2666c6ea26ee41949122507c237979a8e7c7e",
+    "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_route_snapshot_v3/completion_receipt.json": "186da8adb7c289a35d6b4f58c876205c0c639d848c46547ee4d623754e8d235d",
+    "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_route_structure_pilot_v1/completion_receipt.json": "a7347a3e2fe6dad7564666b5dd71f5a2c09c0cc54d0b25741a63ecfa76bcef8c",
+    "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_route_trigger_v4/completion_receipt.json": "abc47115a4d14d6f54a51120a478aadbfb659ace41f4b082fd1fc725cf02281f",
+    "/Users/bethany/Documents/ChatGPT/复现论文/output/感知检查_阶段汇报_20261028/归档校验.json": "899a0f4651349f85d4c9e2a34b17f30e307ac2eea4f7a6467ba9c661cde6f07b"
+  },
+  "planning_time": "Actual CPU wall time reported separately,not charged as source energy;not deployment timing or identical prior route-time contract.",
+  "policies": [
+    "exact_no_sense",
+    "exact_one_sense",
+    "pomcp_random",
+    "pomcp_gcb"
+  ],
+  "pomcp_reference": {
+    "depth": 5,
+    "differences": "Python POMCP-style reference,not BasicPOMCP.jl execution. UCT10/discount1/early stop at home and exact rather than sampled IG declared;no post-outcome tuning.",
+    "discount": 1,
+    "queries_per_decision": 100,
+    "rollout": "Continue feasible GCB-softmax or random actions to early stop/return;GCB uses exact expected mode improvement,paper Eq5.",
+    "seeds": [
+      2026110300,
+      2026110301,
+      2026110302,
+      2026110303
+    ],
+    "tree_reuse": false,
+    "uct_scale": 10
+  },
+  "primary_budget": 20,
+  "real_disaster_efficacy": false,
+  "reward": "First good-rock visit+10,bad or consumed-rock visit-10,other movement/sensing0. This follows pinned code;not severe-pixel recall or number of rescued people.",
+  "sensor_randomness": "Separate seeded RNG from planner;matched environment seed for each world/condition/budget across POMCP variants. Same nth sensor action uses same random stream,but actions/ranges may differ.",
+  "sensors": {
+    "far": {
+      "cost": 2,
+      "efficiency": 10
+    },
+    "footprint": "Paid beacon reading returns noisy bits about all rocks,including unvisited ones;unlike current local-image-only replay.",
+    "informative": "P(correct)=.5*(1+2^(-4*EuclideanDistance/efficiency)) from pinned author ISRS code.",
+    "near": {
+      "cost": 0.5,
+      "efficiency": 2.5
+    },
+    "uninformative": "P(correct)=.5 for each rock regardless of distance;known zero-information negative control."
+  },
+  "source_commit": "24db0a618a98f7c0c9bed470d25cc68fe6dc9b50",
+  "source_sha256": {
+    "aippms_control_core.py": "9f8514f2113f5ce142ce7041019b7582aa6a8a220f6094fb9a4113e2271e6f74",
+    "run_aippms_control.py": "0c64e5e22c519916ce9cecf27416f6606cb780020ab2e2a1beffddea1f24bec4",
+    "test_route_aippms_control.py": "bdbe46a2855bb29f44ddb88c521bd38e18da40436d72a107c04cf41426ab160c"
+  },
+  "source_url": "https://github.com/sisl/SBO_AIPPMS/tree/24db0a618a98f7c0c9bed470d25cc68fe6dc9b50",
+  "stage": "CORRECTED_AIPPMS_ISRS_MECHANISM_REFERENCE",
+  "worlds": "All8good/bad configurations,equal independent prior0.5;world IDs0..7,no filtering."
+}

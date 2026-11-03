@@ -1,0 +1,254 @@
+{
+  "stage": "FROZEN_COMPLETE_VALIDATION_RGB_PASS",
+  "samples": [
+    {
+      "sample_id": "hurricane-michael_00000341",
+      "event": "hurricane-michael",
+      "split": "validation",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/hurricane-michael_00000341_pre_disaster.png",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/hurricane-michael_00000341_post_disaster.png"
+    },
+    {
+      "sample_id": "hurricane-michael_00000184",
+      "event": "hurricane-michael",
+      "split": "validation",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/hurricane-michael_00000184_pre_disaster.png",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/hurricane-michael_00000184_post_disaster.png"
+    },
+    {
+      "sample_id": "hurricane-michael_00000275",
+      "event": "hurricane-michael",
+      "split": "validation",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/hurricane-michael_00000275_pre_disaster.png",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/hurricane-michael_00000275_post_disaster.png"
+    },
+    {
+      "sample_id": "hurricane-michael_00000135",
+      "event": "hurricane-michael",
+      "split": "validation",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/hurricane-michael_00000135_pre_disaster.png",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/hurricane-michael_00000135_post_disaster.png"
+    },
+    {
+      "sample_id": "hurricane-michael_00000484",
+      "event": "hurricane-michael",
+      "split": "validation",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/hurricane-michael_00000484_pre_disaster.png",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/hurricane-michael_00000484_post_disaster.png"
+    },
+    {
+      "sample_id": "hurricane-michael_00000059",
+      "event": "hurricane-michael",
+      "split": "validation",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/hurricane-michael_00000059_pre_disaster.png",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/hurricane-michael_00000059_post_disaster.png"
+    },
+    {
+      "sample_id": "hurricane-michael_00000546",
+      "event": "hurricane-michael",
+      "split": "validation",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/hurricane-michael_00000546_pre_disaster.png",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/hurricane-michael_00000546_post_disaster.png"
+    },
+    {
+      "sample_id": "hurricane-michael_00000039",
+      "event": "hurricane-michael",
+      "split": "validation",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/hurricane-michael_00000039_pre_disaster.png",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/hurricane-michael_00000039_post_disaster.png"
+    },
+    {
+      "sample_id": "hurricane-michael_00000357",
+      "event": "hurricane-michael",
+      "split": "validation",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/hurricane-michael_00000357_pre_disaster.png",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/hurricane-michael_00000357_post_disaster.png"
+    },
+    {
+      "sample_id": "hurricane-michael_00000452",
+      "event": "hurricane-michael",
+      "split": "validation",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/hurricane-michael_00000452_pre_disaster.png",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/hurricane-michael_00000452_post_disaster.png"
+    },
+    {
+      "sample_id": "hurricane-michael_00000430",
+      "event": "hurricane-michael",
+      "split": "validation",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/hurricane-michael_00000430_pre_disaster.png",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/hurricane-michael_00000430_post_disaster.png"
+    },
+    {
+      "sample_id": "hurricane-michael_00000220",
+      "event": "hurricane-michael",
+      "split": "validation",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/hurricane-michael_00000220_pre_disaster.png",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/hurricane-michael_00000220_post_disaster.png"
+    },
+    {
+      "sample_id": "mexico-earthquake_00000064",
+      "event": "mexico-earthquake",
+      "split": "validation",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/mexico-earthquake_00000064_pre_disaster.png",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/mexico-earthquake_00000064_post_disaster.png"
+    },
+    {
+      "sample_id": "mexico-earthquake_00000072",
+      "event": "mexico-earthquake",
+      "split": "validation",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/mexico-earthquake_00000072_pre_disaster.png",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/mexico-earthquake_00000072_post_disaster.png"
+    },
+    {
+      "sample_id": "mexico-earthquake_00000078",
+      "event": "mexico-earthquake",
+      "split": "validation",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/mexico-earthquake_00000078_pre_disaster.png",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/mexico-earthquake_00000078_post_disaster.png"
+    },
+    {
+      "sample_id": "mexico-earthquake_00000166",
+      "event": "mexico-earthquake",
+      "split": "validation",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/mexico-earthquake_00000166_pre_disaster.png",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/mexico-earthquake_00000166_post_disaster.png"
+    },
+    {
+      "sample_id": "mexico-earthquake_00000115",
+      "event": "mexico-earthquake",
+      "split": "validation",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/mexico-earthquake_00000115_pre_disaster.png",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/mexico-earthquake_00000115_post_disaster.png"
+    },
+    {
+      "sample_id": "mexico-earthquake_00000000",
+      "event": "mexico-earthquake",
+      "split": "validation",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/mexico-earthquake_00000000_pre_disaster.png",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/mexico-earthquake_00000000_post_disaster.png"
+    },
+    {
+      "sample_id": "mexico-earthquake_00000089",
+      "event": "mexico-earthquake",
+      "split": "validation",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/mexico-earthquake_00000089_pre_disaster.png",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/mexico-earthquake_00000089_post_disaster.png"
+    },
+    {
+      "sample_id": "mexico-earthquake_00000159",
+      "event": "mexico-earthquake",
+      "split": "validation",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/mexico-earthquake_00000159_pre_disaster.png",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/mexico-earthquake_00000159_post_disaster.png"
+    },
+    {
+      "sample_id": "mexico-earthquake_00000160",
+      "event": "mexico-earthquake",
+      "split": "validation",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/mexico-earthquake_00000160_pre_disaster.png",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/mexico-earthquake_00000160_post_disaster.png"
+    },
+    {
+      "sample_id": "mexico-earthquake_00000118",
+      "event": "mexico-earthquake",
+      "split": "validation",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/mexico-earthquake_00000118_pre_disaster.png",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/mexico-earthquake_00000118_post_disaster.png"
+    },
+    {
+      "sample_id": "mexico-earthquake_00000013",
+      "event": "mexico-earthquake",
+      "split": "validation",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/mexico-earthquake_00000013_pre_disaster.png",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/mexico-earthquake_00000013_post_disaster.png"
+    },
+    {
+      "sample_id": "mexico-earthquake_00000168",
+      "event": "mexico-earthquake",
+      "split": "validation",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/mexico-earthquake_00000168_pre_disaster.png",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/mexico-earthquake_00000168_post_disaster.png"
+    }
+  ],
+  "cells": [
+    "r00c00",
+    "r00c01",
+    "r00c02",
+    "r00c03",
+    "r00c04",
+    "r00c05",
+    "r00c06",
+    "r00c07",
+    "r01c00",
+    "r01c01",
+    "r01c02",
+    "r01c03",
+    "r01c04",
+    "r01c05",
+    "r01c06",
+    "r01c07",
+    "r02c00",
+    "r02c01",
+    "r02c02",
+    "r02c03",
+    "r02c04",
+    "r02c05",
+    "r02c06",
+    "r02c07",
+    "r03c00",
+    "r03c01",
+    "r03c02",
+    "r03c03",
+    "r03c04",
+    "r03c05",
+    "r03c06",
+    "r03c07",
+    "r04c00",
+    "r04c01",
+    "r04c02",
+    "r04c03",
+    "r04c04",
+    "r04c05",
+    "r04c06",
+    "r04c07",
+    "r05c00",
+    "r05c01",
+    "r05c02",
+    "r05c03",
+    "r05c04",
+    "r05c05",
+    "r05c06",
+    "r05c07",
+    "r06c00",
+    "r06c01",
+    "r06c02",
+    "r06c03",
+    "r06c04",
+    "r06c05",
+    "r06c06",
+    "r06c07",
+    "r07c00",
+    "r07c01",
+    "r07c02",
+    "r07c03",
+    "r07c04",
+    "r07c05",
+    "r07c06",
+    "r07c07"
+  ],
+  "modes": [
+    "native",
+    "blurred"
+  ],
+  "observations": 3072,
+  "model_id": "EVER-Z/torchange_example_changeos_swint_on_xview2_best42k",
+  "model_revision": "4007dd10c5eaee67161e2d4a45a43da3ead6c722",
+  "weights_sha256": "81ae6386ceebe225ab6c072cb987b57312fdcfdb2a7f72ab9b30e5e8f1041cc4",
+  "code_commit": "190b07a2eb4c389a5dc3f72802c67f428cdfd6b7",
+  "selection": "All 24 frozen validation scenes and all 64 cells. No label filtering or substitutions.",
+  "rules": "Unchanged pilot RGB preprocessing, synthetic degradation, four severe pixel declaration and top-16 score.",
+  "independence": "Modes share base imagery; 3072 records are 1536 paired regions in 24 scenes and two events.",
+  "scope": "Validation of frozen calibration-fitted parameters and search rules. No fitting, threshold adjustment or test inference. Checkpoint exposure still expected.",
+  "planned_calibration": "No refitting: apply original calibration parameters unchanged. Evaluate all previously frozen local variants and controls; preserve validation failures.",
+  "mini72_protocol_sha256": "957c04b5e681c4fcecc81fcc3b0109ccdf0025c6230ee5dec7a72c48e645f14a"
+}

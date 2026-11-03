@@ -1,0 +1,10 @@
+{
+  "gpu_rental": false,
+  "new_data_payloads_enabled": false,
+  "new_inference_enabled": false,
+  "next": "Review per-event measurement failure and damage prevalence before any policy variants",
+  "old_reserved_sets_enabled": false,
+  "screen": "INSUFFICIENT_CROSS_EVENT_MEASUREMENT_SIGNAL_DO_NOT_TUNE_PLANNER",
+  "status": "NOT_EXECUTED",
+  "training": false
+}

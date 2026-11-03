@@ -1,0 +1,27 @@
+{
+  "revision": "4c2732a7ab9658517ca8caa69bfee9e1f87ca532",
+  "scene": "1001-Ft-Myers-Beach-Boone.geo.tif",
+  "path": "train/imagery/CREWED/1001-Ft-Myers-Beach-Boone.geo.tif_20220930d_RGB.geo.tif",
+  "selection": "Previously fixed first metadata candidate,Boone;existing128m ROI unchanged;no replacement by damage or model score",
+  "claims_to_check": [
+    "Actual image support",
+    "Published local alignment and independent image matching diagnostic",
+    "Shared building IDs and view-specific label disagreement",
+    "Capture-day ordering and ground-reference availability"
+  ],
+  "rules": "No new model calls,threshold tuning,route runs or new human truth. Published view labels used only for diagnostic comparison,never as agent observations.",
+  "payload_cap_bytes": 50331648,
+  "annotation_cap_bytes": 12582912,
+  "acceptance": "A real acquired view is not automatically a calibration anchor or independent same-state truth;full UAV reinspection remains unsupported without timing/pose/error/ground-reference evidence.",
+  "output_grid": {
+    "crs": "EPSG:32617",
+    "bounds": [
+      409968.8316348396,
+      2922769.563126834,
+      410096.8316348396,
+      2922897.563126834
+    ],
+    "pixels": 1024
+  },
+  "gpu_rental": false
+}

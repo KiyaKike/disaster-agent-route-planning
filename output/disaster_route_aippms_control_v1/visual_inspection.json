@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "viewed": "figures/control_results.png",
+  "sha256": "3aec782c051dfc562fa5b4b38c7ade2ab326b58f947c3b65265abbe2721b1621",
+  "checks": [
+    "Shared vertical scale for both conditions.",
+    "Exact expectation and finite POMCP sample means separated.",
+    "Small null-model sample outcomes labeled.",
+    "Native Julia/table replication explicitly excluded."
+  ],
+  "real_disaster_efficacy": false
+}

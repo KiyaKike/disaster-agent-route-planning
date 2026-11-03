@@ -1,0 +1,9 @@
+{
+  "adapter_source_sha256": "96a33d7c768409e26f90e562208e5f11977a70ad69a503ea1f33ea99de3a41b0",
+  "audit_replay": "Original frozen audit with read-time tuple normalization only for that recorded metadata field.",
+  "canonical_json_snapshot_continuations_checked": 12,
+  "diagnosis": "Only /maps/assumed_likelihood is an in-memory tuple and a saved JSON list;JSON-value equality holds.",
+  "original_frozen_source_unchanged": true,
+  "route_or_policy_changes": false,
+  "status": "PASS"
+}

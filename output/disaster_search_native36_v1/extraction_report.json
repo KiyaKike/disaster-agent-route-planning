@@ -1,0 +1,10 @@
+{
+  "exact_ranges": 324,
+  "failure": null,
+  "inference_calls": 0,
+  "members_complete": 108,
+  "received_bytes": 29645678,
+  "reserved_bytes": 29645678,
+  "status": "COMPLETE",
+  "transfer_cap": 50331648
+}

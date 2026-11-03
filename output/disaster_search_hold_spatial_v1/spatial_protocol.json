@@ -1,0 +1,15 @@
+{
+  "conclusion_limit": "No intersection does not certify absence of full-image overlap or nearby pixels.",
+  "max_network_bytes": 67108864,
+  "missing_geometry": "Record missing envelope; do not treat it as geographic independence.",
+  "overlap": "Strict positive-area rectangle intersection of WGS84 building-annotation envelopes, not full-scene footprints.",
+  "policy_split": "Retain every prespecified candidate; flag cross-split intersections and connected candidate groups. No automatic replacement.",
+  "projected_columns": [
+    "ml:polygon_lnglat",
+    "ml:polygon_lnglat_len"
+  ],
+  "revision": "44e219dc1d88c9d0903d6b478d7f2f3c435e574f",
+  "selection_sha256": "4119345fdfc0587c55cd8558ac2bc78a0a2041556e0e6fd7a4bcadcfaf011ad0",
+  "training": "Report envelope intersections against the audited published detector train+tier3 identity pool; no damage outcomes or perception scores.",
+  "version": "hold_annotation_envelope_screen_v1"
+}

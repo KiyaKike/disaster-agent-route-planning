@@ -1,0 +1,36 @@
+{"stage": "FROZEN_SELECTION_BEFORE_LABEL_DOWNLOAD", "pairs": 72, "event_splits": {"calibration": ["hurricane-harvey", "santa-rosa-wildfire"], "validation": ["hurricane-michael", "mexico-earthquake"], "test": ["midwest-flooding", "socal-fire"]}, "protocol_sha256": "c1d70813cea2dd96190da3ec20d3539959876952f634b992bb0fcf240b196ab4"}
+{"stage": "FROZEN_SELECTION_BEFORE_LABEL_DOWNLOAD", "pairs": 72, "event_splits": {"calibration": ["hurricane-harvey", "santa-rosa-wildfire"], "validation": ["hurricane-michael", "mexico-earthquake"], "test": ["midwest-flooding", "socal-fire"]}, "protocol_sha256": "c1d70813cea2dd96190da3ec20d3539959876952f634b992bb0fcf240b196ab4"}
+test_background_and_minor_damage_do_not_count_as_severe (test_changeos_pilot.PerceptionInputChecks.test_background_and_minor_damage_do_not_count_as_severe) ... ok
+test_declared_target_uses_both_localization_and_four_pixel_rule (test_changeos_pilot.PerceptionInputChecks.test_declared_target_uses_both_localization_and_four_pixel_rule) ... ok
+test_local_crop_does_not_include_neighboring_pixels (test_changeos_pilot.PerceptionInputChecks.test_local_crop_does_not_include_neighboring_pixels) ... ok
+test_non_probability_output_and_batch_broadcast_rejected (test_changeos_pilot.PerceptionInputChecks.test_non_probability_output_and_batch_broadcast_rejected) ... ok
+test_pre_post_channel_order_and_imagenet_normalization (test_changeos_pilot.PerceptionInputChecks.test_pre_post_channel_order_and_imagenet_normalization) ... ok
+test_changed_plan_is_rejected (test_changeos_pilot.PilotPlanChecks.test_changed_plan_is_rejected) ... ok
+test_confusion_counts_keep_false_positives (test_changeos_pilot.PilotPlanChecks.test_confusion_counts_keep_false_positives) ... ok
+test_empty_predictions_do_not_imply_perfect_precision (test_changeos_pilot.PilotPlanChecks.test_empty_predictions_do_not_imply_perfect_precision) ... ok
+test_only_first_two_calibration_scenes_without_labels (test_changeos_pilot.PilotPlanChecks.test_only_first_two_calibration_scenes_without_labels) ... ok
+test_adaptive_feedback_changes_unvisited_peer_belief (test_experiment.SearchChecks.test_adaptive_feedback_changes_unvisited_peer_belief) ... ok
+test_all_negative_scene_and_empty_predictions_are_defined (test_experiment.SearchChecks.test_all_negative_scene_and_empty_predictions_are_defined) ... ok
+test_budget_accounting_and_unique_opportunities_all_policies (test_experiment.SearchChecks.test_budget_accounting_and_unique_opportunities_all_policies) ... ok
+test_clear_negative_is_stronger_than_poor_negative (test_experiment.SearchChecks.test_clear_negative_is_stronger_than_poor_negative) ... ok
+test_duplicate_evidence_and_unsupported_verify_are_rejected (test_experiment.SearchChecks.test_duplicate_evidence_and_unsupported_verify_are_rejected) ... ok
+test_ground_truth_is_not_used_by_planner (test_experiment.SearchChecks.test_ground_truth_is_not_used_by_planner) ... ok
+test_outcomes_are_paired_across_policies (test_experiment.SearchChecks.test_outcomes_are_paired_across_policies) ... ok
+test_repeatability (test_experiment.SearchChecks.test_repeatability) ... ok
+test_revisit_can_be_chosen_and_costs_more (test_experiment.SearchChecks.test_revisit_can_be_chosen_and_costs_more) ... ok
+test_unobserved_quality_cannot_affect_first_action (test_experiment.SearchChecks.test_unobserved_quality_cannot_affect_first_action) ... ok
+test_corrupt_cached_input_rejected_before_network (test_mini_protocol.MiniProtocolChecks.test_corrupt_cached_input_rejected_before_network) ... ok
+test_fixed_count_event_disjoint_and_diagnostic_exclusion (test_mini_protocol.MiniProtocolChecks.test_fixed_count_event_disjoint_and_diagnostic_exclusion) ... ok
+test_freeze_receipt_and_tamper_detection (test_mini_protocol.MiniProtocolChecks.test_freeze_receipt_and_tamper_detection) ... ok
+test_inventory_requires_four_complete_files (test_mini_protocol.MiniProtocolChecks.test_inventory_requires_four_complete_files) ... ok
+test_no_substitution_for_insufficient_events (test_mini_protocol.MiniProtocolChecks.test_no_substitution_for_insufficient_events) ... ok
+test_order_independent_selection_and_stable_seed (test_mini_protocol.MiniProtocolChecks.test_order_independent_selection_and_stable_seed) ... ok
+test_duplicates_and_unsupported_geometry_rejected (test_xbd_adapter.LabelChecks.test_duplicates_and_unsupported_geometry_rejected) ... ok
+test_multiple_target_buildings_are_counted_once_each (test_xbd_adapter.LabelChecks.test_multiple_target_buildings_are_counted_once_each) ... ok
+test_polygon_centroid_independent_of_vertex_order (test_xbd_adapter.LabelChecks.test_polygon_centroid_independent_of_vertex_order) ... ok
+test_unknown_label_never_becomes_negative (test_xbd_adapter.LabelChecks.test_unknown_label_never_becomes_negative) ... ok
+
+----------------------------------------------------------------------
+Ran 29 tests in 0.614s
+
+OK

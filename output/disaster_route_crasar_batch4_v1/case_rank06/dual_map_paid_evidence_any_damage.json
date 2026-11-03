@@ -1,0 +1,3827 @@
+[
+  {
+    "policy": "distance",
+    "budget_proxy_s": 60,
+    "step": 1,
+    "accessed_window": 13,
+    "observation_complete_proxy_s": 15.525483399593904,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.6319910514541387,
+        0.0
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      0.3680089485458613,
+      1.0
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  },
+  {
+    "policy": "distance",
+    "budget_proxy_s": 60,
+    "step": 2,
+    "accessed_window": 9,
+    "observation_complete_proxy_s": 31.9254833995939,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.0,
+        0.0,
+        0.0,
+        0.26967960959049436,
+        0.6319910514541387,
+        0.04540420819490587
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.0,
+        0.0,
+        0.045406322936558455,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      1.0,
+      1.0,
+      1.0,
+      0.7303203904095057,
+      0.3680089485458613,
+      0.9545957918050941
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  },
+  {
+    "policy": "distance",
+    "budget_proxy_s": 60,
+    "step": 3,
+    "accessed_window": 10,
+    "observation_complete_proxy_s": 48.3254833995939,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.6541138675709441,
+        0.0,
+        0.0,
+        0.26967960959049436,
+        0.6319910514541387,
+        0.04540420819490587
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.0,
+        0.0,
+        0.045406322936558455,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      0.34588613242905586,
+      1.0,
+      1.0,
+      0.7303203904095057,
+      0.3680089485458613,
+      0.9545957918050941
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  },
+  {
+    "policy": "damage",
+    "budget_proxy_s": 60,
+    "step": 1,
+    "accessed_window": 8,
+    "observation_complete_proxy_s": 24.57645019878171,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.0,
+        0.0,
+        0.0,
+        0.7303203904095056,
+        0.0,
+        0.0
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.0,
+        0.0,
+        0.437937619350732,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      1.0,
+      1.0,
+      1.0,
+      0.2696796095904944,
+      1.0,
+      1.0
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  },
+  {
+    "policy": "damage",
+    "budget_proxy_s": 60,
+    "step": 2,
+    "accessed_window": 9,
+    "observation_complete_proxy_s": 40.976450198781706,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.04540420819490587
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.0,
+        0.0,
+        0.48334394228729044,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      1.0,
+      1.0,
+      1.0,
+      0.0,
+      1.0,
+      0.9545957918050941
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  },
+  {
+    "policy": "uncertainty",
+    "budget_proxy_s": 60,
+    "step": 1,
+    "accessed_window": 8,
+    "observation_complete_proxy_s": 24.57645019878171,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.0,
+        0.0,
+        0.0,
+        0.7303203904095056,
+        0.0,
+        0.0
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.0,
+        0.0,
+        0.437937619350732,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      1.0,
+      1.0,
+      1.0,
+      0.2696796095904944,
+      1.0,
+      1.0
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  },
+  {
+    "policy": "uncertainty",
+    "budget_proxy_s": 60,
+    "step": 2,
+    "accessed_window": 9,
+    "observation_complete_proxy_s": 40.976450198781706,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.04540420819490587
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.0,
+        0.0,
+        0.48334394228729044,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      1.0,
+      1.0,
+      1.0,
+      0.0,
+      1.0,
+      0.9545957918050941
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  },
+  {
+    "policy": "static_exact_damage",
+    "budget_proxy_s": 60,
+    "step": 1,
+    "accessed_window": 8,
+    "observation_complete_proxy_s": 24.57645019878171,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.0,
+        0.0,
+        0.0,
+        0.7303203904095056,
+        0.0,
+        0.0
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.0,
+        0.0,
+        0.437937619350732,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      1.0,
+      1.0,
+      1.0,
+      0.2696796095904944,
+      1.0,
+      1.0
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  },
+  {
+    "policy": "static_exact_damage",
+    "budget_proxy_s": 60,
+    "step": 2,
+    "accessed_window": 9,
+    "observation_complete_proxy_s": 40.976450198781706,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.04540420819490587
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.0,
+        0.0,
+        0.48334394228729044,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      1.0,
+      1.0,
+      1.0,
+      0.0,
+      1.0,
+      0.9545957918050941
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  },
+  {
+    "policy": "static_exact",
+    "budget_proxy_s": 60,
+    "step": 1,
+    "accessed_window": 8,
+    "observation_complete_proxy_s": 24.57645019878171,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.0,
+        0.0,
+        0.0,
+        0.7303203904095056,
+        0.0,
+        0.0
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.0,
+        0.0,
+        0.437937619350732,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      1.0,
+      1.0,
+      1.0,
+      0.2696796095904944,
+      1.0,
+      1.0
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  },
+  {
+    "policy": "static_exact",
+    "budget_proxy_s": 60,
+    "step": 2,
+    "accessed_window": 9,
+    "observation_complete_proxy_s": 40.976450198781706,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.04540420819490587
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.0,
+        0.0,
+        0.48334394228729044,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      1.0,
+      1.0,
+      1.0,
+      0.0,
+      1.0,
+      0.9545957918050941
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  },
+  {
+    "policy": "value_cost_proxy",
+    "budget_proxy_s": 60,
+    "step": 1,
+    "accessed_window": 8,
+    "observation_complete_proxy_s": 24.57645019878171,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.0,
+        0.0,
+        0.0,
+        0.7303203904095056,
+        0.0,
+        0.0
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.0,
+        0.0,
+        0.437937619350732,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      1.0,
+      1.0,
+      1.0,
+      0.2696796095904944,
+      1.0,
+      1.0
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  },
+  {
+    "policy": "value_cost_proxy",
+    "budget_proxy_s": 60,
+    "step": 2,
+    "accessed_window": 9,
+    "observation_complete_proxy_s": 40.976450198781706,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.04540420819490587
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.0,
+        0.0,
+        0.48334394228729044,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      1.0,
+      1.0,
+      1.0,
+      0.0,
+      1.0,
+      0.9545957918050941
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  },
+  {
+    "policy": "distance",
+    "budget_proxy_s": 100,
+    "step": 1,
+    "accessed_window": 13,
+    "observation_complete_proxy_s": 15.525483399593904,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.6319910514541387,
+        0.0
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      0.3680089485458613,
+      1.0
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  },
+  {
+    "policy": "distance",
+    "budget_proxy_s": 100,
+    "step": 2,
+    "accessed_window": 9,
+    "observation_complete_proxy_s": 31.9254833995939,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.0,
+        0.0,
+        0.0,
+        0.26967960959049436,
+        0.6319910514541387,
+        0.04540420819490587
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.0,
+        0.0,
+        0.045406322936558455,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      1.0,
+      1.0,
+      1.0,
+      0.7303203904095057,
+      0.3680089485458613,
+      0.9545957918050941
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  },
+  {
+    "policy": "distance",
+    "budget_proxy_s": 100,
+    "step": 3,
+    "accessed_window": 5,
+    "observation_complete_proxy_s": 48.3254833995939,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.0,
+        0.2504302925989673,
+        0.0,
+        0.26967960959049436,
+        0.6319910514541387,
+        1.0
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.0004302925989672978,
+        0.0,
+        0.045406322936558455,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      1.0,
+      0.7495697074010327,
+      1.0,
+      0.7303203904095057,
+      0.3680089485458613,
+      0.0
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  },
+  {
+    "policy": "distance",
+    "budget_proxy_s": 100,
+    "step": 4,
+    "accessed_window": 1,
+    "observation_complete_proxy_s": 64.7254833995939,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.0,
+        0.9685886402753873,
+        0.0,
+        0.26967960959049436,
+        0.6319910514541387,
+        1.0
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.41566265060240964,
+        0.0,
+        0.045406322936558455,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      1.0,
+      0.03141135972461273,
+      1.0,
+      0.7303203904095057,
+      0.3680089485458613,
+      0.0
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  },
+  {
+    "policy": "distance",
+    "budget_proxy_s": 100,
+    "step": 5,
+    "accessed_window": 10,
+    "observation_complete_proxy_s": 89.03631845559255,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.6541138675709441,
+        0.9685886402753873,
+        0.0,
+        0.26967960959049436,
+        0.6319910514541387,
+        1.0
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.41566265060240964,
+        0.0,
+        0.045406322936558455,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      0.34588613242905586,
+      0.03141135972461273,
+      1.0,
+      0.7303203904095057,
+      0.3680089485458613,
+      0.0
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  },
+  {
+    "policy": "damage",
+    "budget_proxy_s": 100,
+    "step": 1,
+    "accessed_window": 8,
+    "observation_complete_proxy_s": 24.57645019878171,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.0,
+        0.0,
+        0.0,
+        0.7303203904095056,
+        0.0,
+        0.0
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.0,
+        0.0,
+        0.437937619350732,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      1.0,
+      1.0,
+      1.0,
+      0.2696796095904944,
+      1.0,
+      1.0
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  },
+  {
+    "policy": "damage",
+    "budget_proxy_s": 100,
+    "step": 2,
+    "accessed_window": 9,
+    "observation_complete_proxy_s": 40.976450198781706,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.04540420819490587
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.0,
+        0.0,
+        0.48334394228729044,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      1.0,
+      1.0,
+      1.0,
+      0.0,
+      1.0,
+      0.9545957918050941
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  },
+  {
+    "policy": "damage",
+    "budget_proxy_s": 100,
+    "step": 3,
+    "accessed_window": 5,
+    "observation_complete_proxy_s": 57.376450198781704,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.0,
+        0.2504302925989673,
+        0.0,
+        1.0,
+        0.0,
+        1.0
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.0004302925989672978,
+        0.0,
+        0.48334394228729044,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      1.0,
+      0.7495697074010327,
+      1.0,
+      0.0,
+      1.0,
+      0.0
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  },
+  {
+    "policy": "damage",
+    "budget_proxy_s": 100,
+    "step": 4,
+    "accessed_window": 1,
+    "observation_complete_proxy_s": 73.7764501987817,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.0,
+        0.9685886402753873,
+        0.0,
+        1.0,
+        0.0,
+        1.0
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.41566265060240964,
+        0.0,
+        0.48334394228729044,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      1.0,
+      0.03141135972461273,
+      1.0,
+      0.0,
+      1.0,
+      0.0
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  },
+  {
+    "policy": "uncertainty",
+    "budget_proxy_s": 100,
+    "step": 1,
+    "accessed_window": 8,
+    "observation_complete_proxy_s": 24.57645019878171,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.0,
+        0.0,
+        0.0,
+        0.7303203904095056,
+        0.0,
+        0.0
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.0,
+        0.0,
+        0.437937619350732,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      1.0,
+      1.0,
+      1.0,
+      0.2696796095904944,
+      1.0,
+      1.0
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  },
+  {
+    "policy": "uncertainty",
+    "budget_proxy_s": 100,
+    "step": 2,
+    "accessed_window": 9,
+    "observation_complete_proxy_s": 40.976450198781706,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.04540420819490587
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.0,
+        0.0,
+        0.48334394228729044,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      1.0,
+      1.0,
+      1.0,
+      0.0,
+      1.0,
+      0.9545957918050941
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  },
+  {
+    "policy": "uncertainty",
+    "budget_proxy_s": 100,
+    "step": 3,
+    "accessed_window": 10,
+    "observation_complete_proxy_s": 57.376450198781704,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.6541138675709441,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.04540420819490587
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.0,
+        0.0,
+        0.48334394228729044,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      0.34588613242905586,
+      1.0,
+      1.0,
+      0.0,
+      1.0,
+      0.9545957918050941
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  },
+  {
+    "policy": "uncertainty",
+    "budget_proxy_s": 100,
+    "step": 4,
+    "accessed_window": 5,
+    "observation_complete_proxy_s": 76.42741699796952,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.6541138675709441,
+        0.2504302925989673,
+        0.0,
+        1.0,
+        0.0,
+        1.0
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.0004302925989672978,
+        0.0,
+        0.48334394228729044,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      0.34588613242905586,
+      0.7495697074010327,
+      1.0,
+      0.0,
+      1.0,
+      0.0
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  },
+  {
+    "policy": "static_exact_damage",
+    "budget_proxy_s": 100,
+    "step": 1,
+    "accessed_window": 8,
+    "observation_complete_proxy_s": 24.57645019878171,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.0,
+        0.0,
+        0.0,
+        0.7303203904095056,
+        0.0,
+        0.0
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.0,
+        0.0,
+        0.437937619350732,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      1.0,
+      1.0,
+      1.0,
+      0.2696796095904944,
+      1.0,
+      1.0
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  },
+  {
+    "policy": "static_exact_damage",
+    "budget_proxy_s": 100,
+    "step": 2,
+    "accessed_window": 1,
+    "observation_complete_proxy_s": 48.887285254780366,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.0,
+        0.71815834767642,
+        0.0,
+        0.7303203904095056,
+        0.0,
+        0.0
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.4152323580034423,
+        0.0,
+        0.437937619350732,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      1.0,
+      0.28184165232358005,
+      1.0,
+      0.2696796095904944,
+      1.0,
+      1.0
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  },
+  {
+    "policy": "static_exact_damage",
+    "budget_proxy_s": 100,
+    "step": 3,
+    "accessed_window": 5,
+    "observation_complete_proxy_s": 65.28728525478036,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.0,
+        0.9685886402753873,
+        0.0,
+        0.7303203904095056,
+        0.0,
+        0.9545957918050941
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.41566265060240964,
+        0.0,
+        0.437937619350732,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      1.0,
+      0.03141135972461273,
+      1.0,
+      0.2696796095904944,
+      1.0,
+      0.04540420819490587
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  },
+  {
+    "policy": "static_exact_damage",
+    "budget_proxy_s": 100,
+    "step": 4,
+    "accessed_window": 9,
+    "observation_complete_proxy_s": 81.68728525478036,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.0,
+        0.9685886402753873,
+        0.0,
+        1.0,
+        0.0,
+        1.0
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.41566265060240964,
+        0.0,
+        0.48334394228729044,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      1.0,
+      0.03141135972461273,
+      1.0,
+      0.0,
+      1.0,
+      0.0
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  },
+  {
+    "policy": "static_exact",
+    "budget_proxy_s": 100,
+    "step": 1,
+    "accessed_window": 8,
+    "observation_complete_proxy_s": 24.57645019878171,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.0,
+        0.0,
+        0.0,
+        0.7303203904095056,
+        0.0,
+        0.0
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.0,
+        0.0,
+        0.437937619350732,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      1.0,
+      1.0,
+      1.0,
+      0.2696796095904944,
+      1.0,
+      1.0
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  },
+  {
+    "policy": "static_exact",
+    "budget_proxy_s": 100,
+    "step": 2,
+    "accessed_window": 1,
+    "observation_complete_proxy_s": 48.887285254780366,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.0,
+        0.71815834767642,
+        0.0,
+        0.7303203904095056,
+        0.0,
+        0.0
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.4152323580034423,
+        0.0,
+        0.437937619350732,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      1.0,
+      0.28184165232358005,
+      1.0,
+      0.2696796095904944,
+      1.0,
+      1.0
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  },
+  {
+    "policy": "static_exact",
+    "budget_proxy_s": 100,
+    "step": 3,
+    "accessed_window": 5,
+    "observation_complete_proxy_s": 65.28728525478036,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.0,
+        0.9685886402753873,
+        0.0,
+        0.7303203904095056,
+        0.0,
+        0.9545957918050941
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.41566265060240964,
+        0.0,
+        0.437937619350732,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      1.0,
+      0.03141135972461273,
+      1.0,
+      0.2696796095904944,
+      1.0,
+      0.04540420819490587
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  },
+  {
+    "policy": "static_exact",
+    "budget_proxy_s": 100,
+    "step": 4,
+    "accessed_window": 9,
+    "observation_complete_proxy_s": 81.68728525478036,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.0,
+        0.9685886402753873,
+        0.0,
+        1.0,
+        0.0,
+        1.0
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.41566265060240964,
+        0.0,
+        0.48334394228729044,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      1.0,
+      0.03141135972461273,
+      1.0,
+      0.0,
+      1.0,
+      0.0
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  },
+  {
+    "policy": "value_cost_proxy",
+    "budget_proxy_s": 100,
+    "step": 1,
+    "accessed_window": 8,
+    "observation_complete_proxy_s": 24.57645019878171,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.0,
+        0.0,
+        0.0,
+        0.7303203904095056,
+        0.0,
+        0.0
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.0,
+        0.0,
+        0.437937619350732,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      1.0,
+      1.0,
+      1.0,
+      0.2696796095904944,
+      1.0,
+      1.0
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  },
+  {
+    "policy": "value_cost_proxy",
+    "budget_proxy_s": 100,
+    "step": 2,
+    "accessed_window": 9,
+    "observation_complete_proxy_s": 40.976450198781706,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.04540420819490587
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.0,
+        0.0,
+        0.48334394228729044,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      1.0,
+      1.0,
+      1.0,
+      0.0,
+      1.0,
+      0.9545957918050941
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  },
+  {
+    "policy": "value_cost_proxy",
+    "budget_proxy_s": 100,
+    "step": 3,
+    "accessed_window": 5,
+    "observation_complete_proxy_s": 57.376450198781704,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.0,
+        0.2504302925989673,
+        0.0,
+        1.0,
+        0.0,
+        1.0
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.0004302925989672978,
+        0.0,
+        0.48334394228729044,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      1.0,
+      0.7495697074010327,
+      1.0,
+      0.0,
+      1.0,
+      0.0
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  },
+  {
+    "policy": "value_cost_proxy",
+    "budget_proxy_s": 100,
+    "step": 4,
+    "accessed_window": 1,
+    "observation_complete_proxy_s": 73.7764501987817,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.0,
+        0.9685886402753873,
+        0.0,
+        1.0,
+        0.0,
+        1.0
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.41566265060240964,
+        0.0,
+        0.48334394228729044,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      1.0,
+      0.03141135972461273,
+      1.0,
+      0.0,
+      1.0,
+      0.0
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  },
+  {
+    "policy": "distance",
+    "budget_proxy_s": 140,
+    "step": 1,
+    "accessed_window": 13,
+    "observation_complete_proxy_s": 15.525483399593904,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.6319910514541387,
+        0.0
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      0.3680089485458613,
+      1.0
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  },
+  {
+    "policy": "distance",
+    "budget_proxy_s": 140,
+    "step": 2,
+    "accessed_window": 9,
+    "observation_complete_proxy_s": 31.9254833995939,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.0,
+        0.0,
+        0.0,
+        0.26967960959049436,
+        0.6319910514541387,
+        0.04540420819490587
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.0,
+        0.0,
+        0.045406322936558455,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      1.0,
+      1.0,
+      1.0,
+      0.7303203904095057,
+      0.3680089485458613,
+      0.9545957918050941
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  },
+  {
+    "policy": "distance",
+    "budget_proxy_s": 140,
+    "step": 3,
+    "accessed_window": 5,
+    "observation_complete_proxy_s": 48.3254833995939,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.0,
+        0.2504302925989673,
+        0.0,
+        0.26967960959049436,
+        0.6319910514541387,
+        1.0
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.0004302925989672978,
+        0.0,
+        0.045406322936558455,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      1.0,
+      0.7495697074010327,
+      1.0,
+      0.7303203904095057,
+      0.3680089485458613,
+      0.0
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  },
+  {
+    "policy": "distance",
+    "budget_proxy_s": 140,
+    "step": 4,
+    "accessed_window": 1,
+    "observation_complete_proxy_s": 64.7254833995939,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.0,
+        0.9685886402753873,
+        0.0,
+        0.26967960959049436,
+        0.6319910514541387,
+        1.0
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.41566265060240964,
+        0.0,
+        0.045406322936558455,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      1.0,
+      0.03141135972461273,
+      1.0,
+      0.7303203904095057,
+      0.3680089485458613,
+      0.0
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  },
+  {
+    "policy": "distance",
+    "budget_proxy_s": 140,
+    "step": 5,
+    "accessed_window": 2,
+    "observation_complete_proxy_s": 81.12548339959389,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.0,
+        1.0,
+        0.0,
+        0.26967960959049436,
+        0.6319910514541387,
+        1.0
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.41566265060240964,
+        0.0,
+        0.045406322936558455,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      1.0,
+      0.0,
+      1.0,
+      0.7303203904095057,
+      0.3680089485458613,
+      0.0
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  },
+  {
+    "policy": "distance",
+    "budget_proxy_s": 140,
+    "step": 6,
+    "accessed_window": 3,
+    "observation_complete_proxy_s": 97.5254833995939,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.0,
+        1.0,
+        0.6201530612244898,
+        0.26967960959049436,
+        0.6319910514541387,
+        1.0
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.41566265060240964,
+        0.0,
+        0.045406322936558455,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      1.0,
+      0.0,
+      0.37984693877551023,
+      0.7303203904095057,
+      0.3680089485458613,
+      0.0
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  },
+  {
+    "policy": "distance",
+    "budget_proxy_s": 140,
+    "step": 7,
+    "accessed_window": 7,
+    "observation_complete_proxy_s": 113.9254833995939,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.0,
+        1.0,
+        0.9994897959183673,
+        0.26967960959049436,
+        0.6319910514541387,
+        1.0
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.41566265060240964,
+        0.0005102040816326531,
+        0.045406322936558455,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      1.0,
+      0.0,
+      0.0005102040816327147,
+      0.7303203904095057,
+      0.3680089485458613,
+      0.0
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  },
+  {
+    "policy": "damage",
+    "budget_proxy_s": 140,
+    "step": 1,
+    "accessed_window": 8,
+    "observation_complete_proxy_s": 24.57645019878171,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.0,
+        0.0,
+        0.0,
+        0.7303203904095056,
+        0.0,
+        0.0
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.0,
+        0.0,
+        0.437937619350732,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      1.0,
+      1.0,
+      1.0,
+      0.2696796095904944,
+      1.0,
+      1.0
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  },
+  {
+    "policy": "damage",
+    "budget_proxy_s": 140,
+    "step": 2,
+    "accessed_window": 9,
+    "observation_complete_proxy_s": 40.976450198781706,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.04540420819490587
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.0,
+        0.0,
+        0.48334394228729044,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      1.0,
+      1.0,
+      1.0,
+      0.0,
+      1.0,
+      0.9545957918050941
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  },
+  {
+    "policy": "damage",
+    "budget_proxy_s": 140,
+    "step": 3,
+    "accessed_window": 5,
+    "observation_complete_proxy_s": 57.376450198781704,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.0,
+        0.2504302925989673,
+        0.0,
+        1.0,
+        0.0,
+        1.0
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.0004302925989672978,
+        0.0,
+        0.48334394228729044,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      1.0,
+      0.7495697074010327,
+      1.0,
+      0.0,
+      1.0,
+      0.0
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  },
+  {
+    "policy": "damage",
+    "budget_proxy_s": 140,
+    "step": 4,
+    "accessed_window": 1,
+    "observation_complete_proxy_s": 73.7764501987817,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.0,
+        0.9685886402753873,
+        0.0,
+        1.0,
+        0.0,
+        1.0
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.41566265060240964,
+        0.0,
+        0.48334394228729044,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      1.0,
+      0.03141135972461273,
+      1.0,
+      0.0,
+      1.0,
+      0.0
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  },
+  {
+    "policy": "damage",
+    "budget_proxy_s": 140,
+    "step": 5,
+    "accessed_window": 3,
+    "observation_complete_proxy_s": 96.5764501987817,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.0,
+        0.9685886402753873,
+        0.6201530612244898,
+        1.0,
+        0.0,
+        1.0
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.41566265060240964,
+        0.0,
+        0.48334394228729044,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      1.0,
+      0.03141135972461273,
+      0.37984693877551023,
+      0.0,
+      1.0,
+      0.0
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  },
+  {
+    "policy": "damage",
+    "budget_proxy_s": 140,
+    "step": 6,
+    "accessed_window": 7,
+    "observation_complete_proxy_s": 112.97645019878169,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.0,
+        0.9685886402753873,
+        0.9994897959183673,
+        1.0,
+        0.0,
+        1.0
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.41566265060240964,
+        0.0005102040816326531,
+        0.48334394228729044,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      1.0,
+      0.03141135972461273,
+      0.0005102040816327147,
+      0.0,
+      1.0,
+      0.0
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  },
+  {
+    "policy": "uncertainty",
+    "budget_proxy_s": 140,
+    "step": 1,
+    "accessed_window": 8,
+    "observation_complete_proxy_s": 24.57645019878171,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.0,
+        0.0,
+        0.0,
+        0.7303203904095056,
+        0.0,
+        0.0
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.0,
+        0.0,
+        0.437937619350732,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      1.0,
+      1.0,
+      1.0,
+      0.2696796095904944,
+      1.0,
+      1.0
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  },
+  {
+    "policy": "uncertainty",
+    "budget_proxy_s": 140,
+    "step": 2,
+    "accessed_window": 9,
+    "observation_complete_proxy_s": 40.976450198781706,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.04540420819490587
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.0,
+        0.0,
+        0.48334394228729044,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      1.0,
+      1.0,
+      1.0,
+      0.0,
+      1.0,
+      0.9545957918050941
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  },
+  {
+    "policy": "uncertainty",
+    "budget_proxy_s": 140,
+    "step": 3,
+    "accessed_window": 10,
+    "observation_complete_proxy_s": 57.376450198781704,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.6541138675709441,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.04540420819490587
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.0,
+        0.0,
+        0.48334394228729044,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      0.34588613242905586,
+      1.0,
+      1.0,
+      0.0,
+      1.0,
+      0.9545957918050941
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  },
+  {
+    "policy": "uncertainty",
+    "budget_proxy_s": 140,
+    "step": 4,
+    "accessed_window": 5,
+    "observation_complete_proxy_s": 76.42741699796952,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.6541138675709441,
+        0.2504302925989673,
+        0.0,
+        1.0,
+        0.0,
+        1.0
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.0004302925989672978,
+        0.0,
+        0.48334394228729044,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      0.34588613242905586,
+      0.7495697074010327,
+      1.0,
+      0.0,
+      1.0,
+      0.0
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  },
+  {
+    "policy": "uncertainty",
+    "budget_proxy_s": 140,
+    "step": 5,
+    "accessed_window": 1,
+    "observation_complete_proxy_s": 92.82741699796952,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.6541138675709441,
+        0.9685886402753873,
+        0.0,
+        1.0,
+        0.0,
+        1.0
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.41566265060240964,
+        0.0,
+        0.48334394228729044,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      0.34588613242905586,
+      0.03141135972461273,
+      1.0,
+      0.0,
+      1.0,
+      0.0
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  },
+  {
+    "policy": "uncertainty",
+    "budget_proxy_s": 140,
+    "step": 6,
+    "accessed_window": 11,
+    "observation_complete_proxy_s": 120.92935059634513,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.9021952525432804,
+        0.9685886402753873,
+        0.0,
+        1.0,
+        0.0,
+        1.0
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.41566265060240964,
+        0.0,
+        0.48334394228729044,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      0.09780474745671963,
+      0.03141135972461273,
+      1.0,
+      0.0,
+      1.0,
+      0.0
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  },
+  {
+    "policy": "static_exact_damage",
+    "budget_proxy_s": 140,
+    "step": 1,
+    "accessed_window": 9,
+    "observation_complete_proxy_s": 21.119288512538816,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.0,
+        0.0,
+        0.0,
+        0.26967960959049436,
+        0.0,
+        0.04540420819490587
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.0,
+        0.0,
+        0.045406322936558455,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      1.0,
+      1.0,
+      1.0,
+      0.7303203904095057,
+      1.0,
+      0.9545957918050941
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  },
+  {
+    "policy": "static_exact_damage",
+    "budget_proxy_s": 140,
+    "step": 2,
+    "accessed_window": 8,
+    "observation_complete_proxy_s": 37.519288512538814,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.04540420819490587
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.0,
+        0.0,
+        0.48334394228729044,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      1.0,
+      1.0,
+      1.0,
+      0.0,
+      1.0,
+      0.9545957918050941
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  },
+  {
+    "policy": "static_exact_damage",
+    "budget_proxy_s": 140,
+    "step": 3,
+    "accessed_window": 5,
+    "observation_complete_proxy_s": 56.570255311726626,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.0,
+        0.2504302925989673,
+        0.0,
+        1.0,
+        0.0,
+        1.0
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.0004302925989672978,
+        0.0,
+        0.48334394228729044,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      1.0,
+      0.7495697074010327,
+      1.0,
+      0.0,
+      1.0,
+      0.0
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  },
+  {
+    "policy": "static_exact_damage",
+    "budget_proxy_s": 140,
+    "step": 4,
+    "accessed_window": 1,
+    "observation_complete_proxy_s": 72.97025531172662,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.0,
+        0.9685886402753873,
+        0.0,
+        1.0,
+        0.0,
+        1.0
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.41566265060240964,
+        0.0,
+        0.48334394228729044,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      1.0,
+      0.03141135972461273,
+      1.0,
+      0.0,
+      1.0,
+      0.0
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  },
+  {
+    "policy": "static_exact_damage",
+    "budget_proxy_s": 140,
+    "step": 5,
+    "accessed_window": 3,
+    "observation_complete_proxy_s": 95.77025531172661,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.0,
+        0.9685886402753873,
+        0.6201530612244898,
+        1.0,
+        0.0,
+        1.0
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.41566265060240964,
+        0.0,
+        0.48334394228729044,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      1.0,
+      0.03141135972461273,
+      0.37984693877551023,
+      0.0,
+      1.0,
+      0.0
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  },
+  {
+    "policy": "static_exact_damage",
+    "budget_proxy_s": 140,
+    "step": 6,
+    "accessed_window": 7,
+    "observation_complete_proxy_s": 112.1702553117266,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.0,
+        0.9685886402753873,
+        0.9994897959183673,
+        1.0,
+        0.0,
+        1.0
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.41566265060240964,
+        0.0005102040816326531,
+        0.48334394228729044,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      1.0,
+      0.03141135972461273,
+      0.0005102040816327147,
+      0.0,
+      1.0,
+      0.0
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  },
+  {
+    "policy": "static_exact",
+    "budget_proxy_s": 140,
+    "step": 1,
+    "accessed_window": 9,
+    "observation_complete_proxy_s": 21.119288512538816,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.0,
+        0.0,
+        0.0,
+        0.26967960959049436,
+        0.0,
+        0.04540420819490587
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.0,
+        0.0,
+        0.045406322936558455,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      1.0,
+      1.0,
+      1.0,
+      0.7303203904095057,
+      1.0,
+      0.9545957918050941
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  },
+  {
+    "policy": "static_exact",
+    "budget_proxy_s": 140,
+    "step": 2,
+    "accessed_window": 8,
+    "observation_complete_proxy_s": 37.519288512538814,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.04540420819490587
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.0,
+        0.0,
+        0.48334394228729044,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      1.0,
+      1.0,
+      1.0,
+      0.0,
+      1.0,
+      0.9545957918050941
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  },
+  {
+    "policy": "static_exact",
+    "budget_proxy_s": 140,
+    "step": 3,
+    "accessed_window": 5,
+    "observation_complete_proxy_s": 56.570255311726626,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.0,
+        0.2504302925989673,
+        0.0,
+        1.0,
+        0.0,
+        1.0
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.0004302925989672978,
+        0.0,
+        0.48334394228729044,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      1.0,
+      0.7495697074010327,
+      1.0,
+      0.0,
+      1.0,
+      0.0
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  },
+  {
+    "policy": "static_exact",
+    "budget_proxy_s": 140,
+    "step": 4,
+    "accessed_window": 1,
+    "observation_complete_proxy_s": 72.97025531172662,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.0,
+        0.9685886402753873,
+        0.0,
+        1.0,
+        0.0,
+        1.0
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.41566265060240964,
+        0.0,
+        0.48334394228729044,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      1.0,
+      0.03141135972461273,
+      1.0,
+      0.0,
+      1.0,
+      0.0
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  },
+  {
+    "policy": "static_exact",
+    "budget_proxy_s": 140,
+    "step": 5,
+    "accessed_window": 3,
+    "observation_complete_proxy_s": 95.77025531172661,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.0,
+        0.9685886402753873,
+        0.6201530612244898,
+        1.0,
+        0.0,
+        1.0
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.41566265060240964,
+        0.0,
+        0.48334394228729044,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      1.0,
+      0.03141135972461273,
+      0.37984693877551023,
+      0.0,
+      1.0,
+      0.0
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  },
+  {
+    "policy": "static_exact",
+    "budget_proxy_s": 140,
+    "step": 6,
+    "accessed_window": 7,
+    "observation_complete_proxy_s": 112.1702553117266,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.0,
+        0.9685886402753873,
+        0.9994897959183673,
+        1.0,
+        0.0,
+        1.0
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.41566265060240964,
+        0.0005102040816326531,
+        0.48334394228729044,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      1.0,
+      0.03141135972461273,
+      0.0005102040816327147,
+      0.0,
+      1.0,
+      0.0
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  },
+  {
+    "policy": "value_cost_proxy",
+    "budget_proxy_s": 140,
+    "step": 1,
+    "accessed_window": 8,
+    "observation_complete_proxy_s": 24.57645019878171,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.0,
+        0.0,
+        0.0,
+        0.7303203904095056,
+        0.0,
+        0.0
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.0,
+        0.0,
+        0.437937619350732,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      1.0,
+      1.0,
+      1.0,
+      0.2696796095904944,
+      1.0,
+      1.0
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  },
+  {
+    "policy": "value_cost_proxy",
+    "budget_proxy_s": 140,
+    "step": 2,
+    "accessed_window": 9,
+    "observation_complete_proxy_s": 40.976450198781706,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.04540420819490587
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.0,
+        0.0,
+        0.48334394228729044,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      1.0,
+      1.0,
+      1.0,
+      0.0,
+      1.0,
+      0.9545957918050941
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  },
+  {
+    "policy": "value_cost_proxy",
+    "budget_proxy_s": 140,
+    "step": 3,
+    "accessed_window": 5,
+    "observation_complete_proxy_s": 57.376450198781704,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.0,
+        0.2504302925989673,
+        0.0,
+        1.0,
+        0.0,
+        1.0
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.0004302925989672978,
+        0.0,
+        0.48334394228729044,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      1.0,
+      0.7495697074010327,
+      1.0,
+      0.0,
+      1.0,
+      0.0
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  },
+  {
+    "policy": "value_cost_proxy",
+    "budget_proxy_s": 140,
+    "step": 4,
+    "accessed_window": 1,
+    "observation_complete_proxy_s": 73.7764501987817,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.0,
+        0.9685886402753873,
+        0.0,
+        1.0,
+        0.0,
+        1.0
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.41566265060240964,
+        0.0,
+        0.48334394228729044,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      1.0,
+      0.03141135972461273,
+      1.0,
+      0.0,
+      1.0,
+      0.0
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  },
+  {
+    "policy": "value_cost_proxy",
+    "budget_proxy_s": 140,
+    "step": 5,
+    "accessed_window": 3,
+    "observation_complete_proxy_s": 96.5764501987817,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.0,
+        0.9685886402753873,
+        0.6201530612244898,
+        1.0,
+        0.0,
+        1.0
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.41566265060240964,
+        0.0,
+        0.48334394228729044,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      1.0,
+      0.03141135972461273,
+      0.37984693877551023,
+      0.0,
+      1.0,
+      0.0
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  },
+  {
+    "policy": "value_cost_proxy",
+    "budget_proxy_s": 140,
+    "step": 6,
+    "accessed_window": 7,
+    "observation_complete_proxy_s": 112.97645019878169,
+    "prior_damage_score": [
+      2.532406171457019e-06,
+      0.0006162683596103589,
+      0.0006868426158689545,
+      0.4523753273039392,
+      0.00032923011405089293,
+      0.003615406398586558
+    ],
+    "prior_uncertainty_score": [
+      0.014099489019190692,
+      0.007178394678537694,
+      0.005006513805413733,
+      0.06152820566923229,
+      0.0006293630706650566,
+      0.007508701396278896
+    ],
+    "evidence": {
+      "observed_building_fraction": [
+        0.0,
+        0.9685886402753873,
+        0.9994897959183673,
+        1.0,
+        0.0,
+        1.0
+      ],
+      "observed_damage_model_pixel_fraction": [
+        0.0,
+        0.41566265060240964,
+        0.0005102040816326531,
+        0.48334394228729044,
+        0.0,
+        0.0
+      ]
+    },
+    "unobserved_coverage": [
+      1.0,
+      0.03141135972461273,
+      0.0005102040816327147,
+      0.0,
+      1.0,
+      0.0
+    ],
+    "reference_labels_in_state": false,
+    "online_replanning": false
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "cases_replayed": 13440,
+  "distinct_paid_probes": 6720,
+  "features_only_use_paid_observations_and_public_prior": true,
+  "features_do_not_depend_on_future_budget": true,
+  "matching_prefix_cost_and_random_exact_expectation_recomputed": true,
+  "no_opportunity_not_labeled_as_prior_failure": true,
+  "old_prior_baseline_reproduced": true,
+  "all_sources_and_parameters_unchanged": true,
+  "unit_tests_passed": 72,
+  "test_used": false,
+  "report_sha256": "c9d20246f6fdc0ac220cc8b9b72a615eeaf790656ed0da811a864e06296aa9f5",
+  "cases_sha256": "c275bb553009af77f62b12277a56f9e0b8f1963c703d4a00e4a23c4177ab0d8a"
+}

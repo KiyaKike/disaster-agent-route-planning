@@ -1,0 +1,84 @@
+{
+  "discount": "If any paid neighboring 4px edge strip has >=4 severe pixels: (new_global+1)/(new_local+1), by survey/upgrade_B0/upgrade_B1. No support or no edge contact: factor 1.",
+  "evaluation_budgets": [
+    8,
+    16,
+    32
+  ],
+  "fit_history_budget": 64,
+  "fit_history_order_seeds": [
+    20261101,
+    20261102,
+    20261103,
+    20261104,
+    20261105
+  ],
+  "fit_history_policy": "uniform eligible random action",
+  "fit_history_upgrade_cost": 2,
+  "fit_weighting": "Within cell/mode/stratum/boundary flag average rewards over histories; then pool ratios.",
+  "limitations": [
+    "Previously inspected six scenes, fitted and scored in sample; no effect-size go/no-go test.",
+    "Boundary contact is an imperfect proxy, not a predicted or true building identity.",
+    "Full-image geographic independence and complete 72-scene development fit remain pending."
+  ],
+  "mask_access": "Only chosen/paid observation; expose four boolean edge flags, not ground truth or future masks.",
+  "measurement_thresholds": [
+    0.05,
+    0.1,
+    0.25
+  ],
+  "new_method_selected": false,
+  "policies": [
+    "random_survey",
+    "coverage_survey",
+    "prior_survey",
+    "random_upgrade",
+    "prior_gate",
+    "local_count",
+    "boundary_count"
+  ],
+  "quality_scenarios": [
+    "native_survey",
+    "mixed_survey",
+    "blurred_survey"
+  ],
+  "quality_seeds": [
+    20261025,
+    20261026,
+    20261027,
+    20261028,
+    20261029
+  ],
+  "random_order_seeds": [
+    20261030,
+    20261031,
+    20261032,
+    20261033,
+    20261034,
+    20261035,
+    20261036,
+    20261037,
+    20261038,
+    20261039
+  ],
+  "runner_sha256": "4312afc1ac40d33210ee15a8cc91464d6620b5fd638e437e47d1db1b5d1fbc0c",
+  "separate_budget_trajectories": true,
+  "sources": {
+    "association": "7a493209b22b3452d2104944fea64302284947881bc3776e77ce1d0c7c584de8",
+    "contract": "316d7dc61cac5cd68780bd8ae713d76feb030310b5d39297e91bc25b83487ee4",
+    "count_parameters": "2fd8a6c770ea7991469ad3985de9a4ba882117ea5ddfa3df864f621de2e21243",
+    "cues": "26be4691ec15c538da747c35d03ea3aceb9c8e00b6199a899e5f354b1ad159ca",
+    "observations": "1dc578b1724774a6d4952adcebf286bab3524d8c98d298f91f80c538fbb9aca1",
+    "probes": "aa2395f13937d547d8712d78ee8bec69a7856b4d85c964be2dfe928a90b26f98",
+    "selection": "4119345fdfc0587c55cd8558ac2bc78a0a2041556e0e6fd7a4bcadcfaf011ad0",
+    "spatial": "07cdee090d3a17ccd4fc168ef108010573e60983ca9a8fcdc66ea3b4ebb5a6f7"
+  },
+  "spatial": "Preserve all fixed IDs. Connected annotation-envelope groups; missing geometry pooled by event as unverified; no full-image independence claim. Training overlaps are a separate stratum, never outcome-based exclusion.",
+  "stage": "SIX_DEVELOPMENT_IN_SAMPLE_ENGINEERING_DIAGNOSTIC",
+  "upgrade_costs": [
+    1,
+    2,
+    4
+  ],
+  "validation_or_confirmation_access": false
+}

@@ -1,0 +1,28 @@
+{
+  "cross_cell_deduplication_model_completed": false,
+  "full_72_scene_fit_completed": false,
+  "global_survey_mean_count": {
+    "blurred": 0.002617801047120419,
+    "native": 0.020942408376963352
+  },
+  "global_upgrade": {
+    "0": {
+      "cells": 381,
+      "mean": 0.01837270341207349
+    },
+    "1": {
+      "cells": 1,
+      "mean": 0.0
+    }
+  },
+  "native_positive_given_blurred_negative": {
+    "negative_cell": 0.00663129973474801,
+    "target_cell": 0.75
+  },
+  "paired_known_cells": 382,
+  "search_policy_evaluated": false,
+  "source_scenes": 6,
+  "stage": "DEVELOPMENT_INTERFACE_FIT_NOT_VALIDATED",
+  "unavailable_blur_outcome_conditions": [],
+  "unknown_pairs_excluded": 2
+}

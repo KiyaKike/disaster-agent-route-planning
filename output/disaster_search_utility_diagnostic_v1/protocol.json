@@ -1,0 +1,131 @@
+{
+  "aggregation": "Seeds/orders within scene, scenes within event, events equally; retain zero targets and zero-detection Mexico. No seed-level statistical inference.",
+  "budgets": [
+    8,
+    16,
+    32
+  ],
+  "component_calibration": "Frozen full/other-two-event bins. Known truth pairs only as in original fit. Source counts and shrunk means reconstructed; held native/blurred/same-cell upgrade means reported per bin/B result. Unknown excluded and counted. No refit or monotonic correction.",
+  "counterfactual": "At each factual upgrade, privately evaluate surveying the next2 unvisited cells selected by that policy's own public initial ranking and same fixed tie order. Compare equal cost from the factual prefix. No true-count selection of alternatives. One-step diagnostic only: alternatives can overlap across distinct hypothetical prefixes; summed effects are NOT a complete alternate-policy gain.",
+  "new_inference_calls": 0,
+  "no_new_policy_or_fit": true,
+  "oracle": {
+    "bounds": "Replay feasible solver/greedy/previous-policy incumbents for LB. UB is floor(sign-reversed finite MILP dual bound +1e-6), capped by accessible union; union UB if no finite dual. Optimal only if integer bounds close. No time-limit result called exact without certificate.",
+    "cases": 2160,
+    "formulation": "Binary survey s, blurred-only upgrade u<=s, unique-instance coverage z. Cost sum(s)+2sum(u)<=B. Survey mode fixed by original hidden quality map. Blurred and native target sets are unioned, never replace previous discoveries.",
+    "incumbents": "Best valid prior factual or newly recomputed unchanged survey traces may seed feasible lower bound, evaluator-only. Full oracle also admits survey-only oracle incumbent.",
+    "interpretation": "Perfect-information offline diagnostic sees private instances/future quality. Not an executable method, not fair efficacy comparison, and not evidence that its gap is learnable from allowed inputs.",
+    "kinds": [
+      "survey_only",
+      "survey_and_upgrade"
+    ],
+    "mip_rel_gap": 0.0,
+    "objective_threshold": 0.1,
+    "sensitivity": "Re-score threshold10 oracle traces at5/25; these are feasible traces, NOT reoptimized ceilings or certified bounds at5/25.",
+    "solver": "scipy.optimize.milp/HiGHS",
+    "time_limit_s_per_call": 2.0
+  },
+  "paid_gpu": false,
+  "preflight": "Implementation schema probe inspected first already-used development cached row; only keys and that row printed. No new aggregate diagnostic before freeze; development data previously inspected in earlier experiments.",
+  "primary": {
+    "budget": 32,
+    "scenario": "mixed_survey",
+    "threshold": 0.1,
+    "upgrade_cost": 2
+  },
+  "quality_seeds": [
+    20261025,
+    20261026,
+    20261027,
+    20261028,
+    20261029
+  ],
+  "random_order_seeds": [
+    20261030,
+    20261031,
+    20261032,
+    20261033,
+    20261034,
+    20261035,
+    20261036,
+    20261037,
+    20261038,
+    20261039
+  ],
+  "ranking": "Only unchanged prior_survey and count_survey; all3 ties/5 quality/10 random orders at B8/16/32 in both development fit scopes. Same cost2/mixed scenario. All3 measurement thresholds. Reproduce all available old scene means exactly, excluding runtime.",
+  "scipy_version": "1.18.1",
+  "selected_actions": "Replay all6 policies at primary B32/mixed/cost2. Compare count-policy expected local increments with actual local then global unique increments; noncount utilities never treated as expected building counts. Known/unknown calibration separated.",
+  "source_code_sha256": {
+    "build_xbd_mini.py": "080c23c373b59827acf78f3bfd421c85a14e6407094ce871dfaeed5e55c3e501",
+    "cache_budget_oracle.py": "5578f732dd8b208120e9e1349e26393e57fb6b7932cc63bb87a5671ea068bab2",
+    "cross_cell_count_smoke.py": "4312afc1ac40d33210ee15a8cc91464d6620b5fd638e437e47d1db1b5d1fbc0c",
+    "paired_count_baseline.py": "b04ea42f2e9880b67d054ae76df98b0ddb7c3f4ca49a4ff462de803cafe67818",
+    "plan_search_v2.py": "3f88219832ca8d3939d5cbc38919974d1932f4b941e1248c208534493254b83b",
+    "run_budget_planning.py": "75734fac1c2c4d65cf2980c7eb7a6749c769ebe7902c7c90f01d640c21005bd2",
+    "run_development_budget_controls.py": "baca8a89a7b1ceef36670b406fd0cbabf8a3818b72dc2c387644c3ce0afed53e",
+    "run_unified_revisit_controls.py": "5f60d12c40d946bff3552fc6cda7947b7da179883fd47c613f6eebf5b1e9e159",
+    "run_utility_failure_diagnostic.py": "bee57136c3e3ff5e00e382aed12a65dcaa70f360f42d12fbd307866454444897",
+    "run_utility_tie_controls.py": "29f532e6ab62cc175398af6b8d4ad03203d42b2207818c094c30c7db0726cf4d"
+  },
+  "sources": {
+    "association": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_perception_v1/association_report.json",
+      "sha256": "59c51a09e2c46eeac0c778de1dd9af2771f72bee5ff526ac967c0a6fb75fbffc"
+    },
+    "contract": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_v2_design/experiment_contract_v2_2.json",
+      "sha256": "452de54015d0c717819553487885007d8aabc82751499387d17b0ba2044919c0"
+    },
+    "features": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_development72_budget_controls_v1/public_features.json",
+      "sha256": "ce768154dd129816ff5ecf30042fbd60e621e04a0e93dcad90f36cdc42cb2e27"
+    },
+    "models": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_development72_budget_controls_v1/models.json",
+      "sha256": "c9566ab3c6aaa920e1baf62d3093c28e6bea121e5d85c8c78965b01d59390350"
+    },
+    "observations": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_perception_v1/observations.json",
+      "sha256": "30aca3da060f9fd6acfdc6e73efea0c593360765b455150195cbfbc02f2556e2"
+    },
+    "review": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_direction_review_v1/review.json",
+      "sha256": "988dc5cc13fe9166d7d7913513b4b860c0b215113de608d7fd53a8ad336b4aff"
+    },
+    "review_receipt": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_direction_review_v1/completion_receipt.json",
+      "sha256": "d60cbbf48fe6df9933b9e161d1bc0319578e7edea7cf79d1daa8319696140b2e"
+    },
+    "selection": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_v2_design/next_development_batch.json",
+      "sha256": "0b93aa296f53276f508a4d2dd4fcfa122f93578f3f3e939ee731d350021569c8"
+    },
+    "spatial": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_cross_cell_smoke_v1/spatial_groups.json",
+      "sha256": "d8a2dc9fe8d4120ade4ccd07b6ea6411d6fda24a596f848d2823ddfba1ba654a"
+    },
+    "unified_means": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_unified_revisit_v1/scene_means.json",
+      "sha256": "9d367b94fe4de157d29803ee69629979ed584747f6b54c3fdc95f12fc9d2836b"
+    },
+    "unified_protocol": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_unified_revisit_v1/protocol.json",
+      "sha256": "aefa5180b2efd7f4c4e93f7a2a55c29f57810140870609ba460d66e1480051e1"
+    },
+    "unified_receipt": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_unified_revisit_v1/completion_receipt.json",
+      "sha256": "fe607694e42d453f166f659b051c675c0de578ad3cc3b0cb744279a922425c08"
+    },
+    "unified_traces": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_unified_revisit_v1/trajectories.jsonl.gz",
+      "sha256": "007d92587c5d33b1209c782677129eea2a1440cf75faea28802575157269f933"
+    }
+  },
+  "stage": "DEVELOPMENT72_UTILITY_FAILURE_AND_PERFECT_INFORMATION_DIAGNOSTIC",
+  "tie_rules": [
+    "row_major",
+    "raw_change",
+    "fixed_random"
+  ],
+  "validation_or_confirmation_access": false
+}

@@ -1,0 +1,2410 @@
+{
+  "route|y_tp|event": {
+    "pooled": {
+      "prior": {
+        "n": 2217,
+        "positives": 78,
+        "auroc": 0.4997123026576042,
+        "average_precision": 0.034299378000709146,
+        "log_loss": 0.2268584069079414,
+        "brier": 0.04315223515886599
+      },
+      "prior_feedback": {
+        "n": 2217,
+        "positives": 78,
+        "auroc": 0.3301626688723463,
+        "average_precision": 0.025444689981455663,
+        "log_loss": 0.31820707621134414,
+        "brier": 0.0423608044751134
+      },
+      "prior_permuted_feedback": {
+        "n": 2217,
+        "positives": 78,
+        "auroc": 0.5013186128193141,
+        "average_precision": 0.03724354125817133,
+        "log_loss": 0.23630745853452179,
+        "brier": 0.03902288737583973
+      },
+      "post_utility_unfitted": {
+        "n": 2217,
+        "positives": 78,
+        "auroc": 0.6869882883206866,
+        "average_precision": 0.08718069757791969,
+        "log_loss": 0.8363272878130854,
+        "brier": 0.2800305104495565
+      },
+      "neighbor_rule_unfitted": {
+        "n": 2217,
+        "positives": 78,
+        "auroc": 0.7048015487706932,
+        "average_precision": 0.11379174311055668,
+        "log_loss": 0.7138770597879827,
+        "brier": 0.23748102543581584
+      }
+    },
+    "per_event": {
+      "prior": {
+        "nepal-flooding": {
+          "n": 735,
+          "positives": 58,
+          "auroc": 0.6123363724341669,
+          "average_precision": 0.12657123190770922,
+          "log_loss": 0.4254323190448707,
+          "brier": 0.07515860093993938
+        },
+        "sunda-tsunami": {
+          "n": 735,
+          "positives": 0,
+          "auroc": null,
+          "average_precision": null,
+          "log_loss": 0.11650763359715695,
+          "brier": 0.02709943998434194
+        },
+        "tuscaloosa-tornado": {
+          "n": 747,
+          "positives": 20,
+          "auroc": 0.5999312242090784,
+          "average_precision": 0.09384786862977128,
+          "log_loss": 0.14005250725972646,
+          "brier": 0.0274549468110564
+        }
+      },
+      "prior_feedback": {
+        "nepal-flooding": {
+          "n": 735,
+          "positives": 58,
+          "auroc": 0.3958386390261295,
+          "average_precision": 0.08178736650599858,
+          "log_loss": 0.6974730486693943,
+          "brier": 0.07761571273492926
+        },
+        "sunda-tsunami": {
+          "n": 735,
+          "positives": 0,
+          "auroc": null,
+          "average_precision": null,
+          "log_loss": 0.10087494666599923,
+          "brier": 0.023465831283688243
+        },
+        "tuscaloosa-tornado": {
+          "n": 747,
+          "positives": 20,
+          "auroc": 0.5847317744154058,
+          "average_precision": 0.05353213723685487,
+          "log_loss": 0.15887458017273853,
+          "brier": 0.02626367960862455
+        }
+      },
+      "prior_permuted_feedback": {
+        "nepal-flooding": {
+          "n": 735,
+          "positives": 58,
+          "auroc": 0.6553761523964753,
+          "average_precision": 0.17200470589489478,
+          "log_loss": 0.47087991223670017,
+          "brier": 0.076711146301921
+        },
+        "sunda-tsunami": {
+          "n": 735,
+          "positives": 0,
+          "auroc": null,
+          "average_precision": null,
+          "log_loss": 0.07771528588637944,
+          "brier": 0.015080498230022823
+        },
+        "tuscaloosa-tornado": {
+          "n": 747,
+          "positives": 20,
+          "auroc": 0.6024759284731774,
+          "average_precision": 0.1322241003269778,
+          "log_loss": 0.16154774424440602,
+          "brier": 0.025497834780800494
+        }
+      },
+      "post_utility_unfitted": {
+        "nepal-flooding": {
+          "n": 735,
+          "positives": 58,
+          "auroc": 0.6993200224112464,
+          "average_precision": 0.2226207991027919,
+          "log_loss": 0.7298373445163568,
+          "brier": 0.26168503401360543
+        },
+        "sunda-tsunami": {
+          "n": 735,
+          "positives": 0,
+          "auroc": null,
+          "average_precision": null,
+          "log_loss": 0.9103744983065437,
+          "brier": 0.28662719198790626
+        },
+        "tuscaloosa-tornado": {
+          "n": 747,
+          "positives": 20,
+          "auroc": 0.687414030261348,
+          "average_precision": 0.05357780970203183,
+          "log_loss": 0.8682488522179094,
+          "brier": 0.29159056968615205
+        }
+      },
+      "neighbor_rule_unfitted": {
+        "nepal-flooding": {
+          "n": 735,
+          "positives": 58,
+          "auroc": 0.6868282992920084,
+          "average_precision": 0.24872443718404155,
+          "log_loss": 0.7405179745449425,
+          "brier": 0.2617598804537247
+        },
+        "sunda-tsunami": {
+          "n": 735,
+          "positives": 0,
+          "auroc": null,
+          "average_precision": null,
+          "log_loss": 0.7546753714977278,
+          "brier": 0.22875401247690433
+        },
+        "tuscaloosa-tornado": {
+          "n": 747,
+          "positives": 20,
+          "auroc": 0.7167469050894085,
+          "average_precision": 0.04978242431260001,
+          "log_loss": 0.6475211943890156,
+          "brier": 0.2221790121649148
+        }
+      }
+    },
+    "next_pick": {
+      "prior": {
+        "opportunity_states": 42,
+        "hits": 18,
+        "rate": 0.42857142857142855
+      },
+      "prior_feedback": {
+        "opportunity_states": 42,
+        "hits": 18,
+        "rate": 0.42857142857142855
+      },
+      "prior_permuted_feedback": {
+        "opportunity_states": 42,
+        "hits": 18,
+        "rate": 0.42857142857142855
+      },
+      "post_utility_unfitted": {
+        "opportunity_states": 42,
+        "hits": 17,
+        "rate": 0.40476190476190477
+      },
+      "neighbor_rule_unfitted": {
+        "opportunity_states": 42,
+        "hits": 14,
+        "rate": 0.3333333333333333
+      }
+    },
+    "delta_vs_prior": {
+      "prior_feedback": {
+        "baseline": "prior",
+        "point": {
+          "auroc": -0.1695496337852579,
+          "average_precision": -0.008854688019253484,
+          "log_loss": 0.09134866930340274
+        },
+        "bootstrap": {
+          "auroc": {
+            "ci95": [
+              -0.3089759838738497,
+              -0.008489954855119247
+            ],
+            "valid_reps": 2000
+          },
+          "average_precision": {
+            "ci95": [
+              -0.029072831205409495,
+              0.002119322259602757
+            ],
+            "valid_reps": 2000
+          },
+          "log_loss": {
+            "ci95": [
+              -0.0025219889579268843,
+              0.25381958733704646
+            ],
+            "valid_reps": 2000
+          }
+        }
+      },
+      "prior_permuted_feedback": {
+        "baseline": "prior",
+        "point": {
+          "auroc": 0.001606310161709923,
+          "average_precision": 0.002944163257462183,
+          "log_loss": 0.009449051626580385
+        },
+        "bootstrap": {
+          "auroc": {
+            "ci95": [
+              -0.0934106256289635,
+              0.08533653714314243
+            ],
+            "valid_reps": 2000
+          },
+          "average_precision": {
+            "ci95": [
+              -0.004055563808339498,
+              0.04038871316871301
+            ],
+            "valid_reps": 2000
+          },
+          "log_loss": {
+            "ci95": [
+              -0.02188316723410192,
+              0.043820493733506494
+            ],
+            "valid_reps": 2000
+          }
+        }
+      },
+      "neighbor_rule_unfitted": {
+        "baseline": "post_utility_unfitted",
+        "point": {
+          "auroc": 0.01781326045000664,
+          "average_precision": 0.02661104553263699,
+          "log_loss": -0.12245022802510275
+        },
+        "bootstrap": {
+          "auroc": {
+            "ci95": [
+              -0.12393612280637978,
+              0.09931435086966833
+            ],
+            "valid_reps": 2000
+          },
+          "average_precision": {
+            "ci95": [
+              -0.013558086035646552,
+              0.08648474332473975
+            ],
+            "valid_reps": 2000
+          },
+          "log_loss": {
+            "ci95": [
+              -0.18869358056848967,
+              -0.06561447979657997
+            ],
+            "valid_reps": 2000
+          }
+        }
+      }
+    },
+    "states": 169,
+    "rows": 2217,
+    "chips": 36
+  },
+  "route|y_tp|chip": {
+    "pooled": {
+      "prior": {
+        "n": 2217,
+        "positives": 78,
+        "auroc": 0.6071013294014697,
+        "average_precision": 0.05694509820779486,
+        "log_loss": 0.1943225440382602,
+        "brier": 0.034387902376398334
+      },
+      "prior_feedback": {
+        "n": 2217,
+        "positives": 78,
+        "auroc": 0.6293439301854449,
+        "average_precision": 0.09224489224475026,
+        "log_loss": 0.19290964126846705,
+        "brier": 0.034645980925200895
+      },
+      "prior_permuted_feedback": {
+        "n": 2217,
+        "positives": 78,
+        "auroc": 0.6643111446758011,
+        "average_precision": 0.11260214494065658,
+        "log_loss": 0.1888638749485373,
+        "brier": 0.03383024553024827
+      },
+      "post_utility_unfitted": {
+        "n": 2217,
+        "positives": 78,
+        "auroc": 0.6869882883206866,
+        "average_precision": 0.08718069757791969,
+        "log_loss": 0.8363272878130854,
+        "brier": 0.2800305104495565
+      },
+      "neighbor_rule_unfitted": {
+        "n": 2217,
+        "positives": 78,
+        "auroc": 0.7048015487706932,
+        "average_precision": 0.11379174311055668,
+        "log_loss": 0.7138770597879827,
+        "brier": 0.23748102543581584
+      }
+    },
+    "per_event": {
+      "prior": {
+        "nepal-flooding": {
+          "n": 735,
+          "positives": 58,
+          "auroc": 0.6345438802017013,
+          "average_precision": 0.13685513009130756,
+          "log_loss": 0.40352282417034646,
+          "brier": 0.07345605842040791
+        },
+        "sunda-tsunami": {
+          "n": 735,
+          "positives": 0,
+          "auroc": null,
+          "average_precision": null,
+          "log_loss": 0.030095841328947086,
+          "brier": 0.0020148724047872805
+        },
+        "tuscaloosa-tornado": {
+          "n": 747,
+          "positives": 20,
+          "auroc": 0.5097661623108666,
+          "average_precision": 0.03312710238399788,
+          "log_loss": 0.15007143372267998,
+          "brier": 0.027800328530062438
+        }
+      },
+      "prior_feedback": {
+        "nepal-flooding": {
+          "n": 735,
+          "positives": 58,
+          "auroc": 0.6260887281617684,
+          "average_precision": 0.13897973154488663,
+          "log_loss": 0.39208778418870194,
+          "brier": 0.07580226554883251
+        },
+        "sunda-tsunami": {
+          "n": 735,
+          "positives": 0,
+          "auroc": null,
+          "average_precision": null,
+          "log_loss": 0.022670769492143018,
+          "brier": 0.0016383963263210473
+        },
+        "tuscaloosa-tornado": {
+          "n": 747,
+          "positives": 20,
+          "auroc": 0.4640302613480055,
+          "average_precision": 0.03610665188194049,
+          "log_loss": 0.1644352580144182,
+          "brier": 0.02662818371209172
+        }
+      },
+      "prior_permuted_feedback": {
+        "nepal-flooding": {
+          "n": 735,
+          "positives": 58,
+          "auroc": 0.6514287169561452,
+          "average_precision": 0.16717329064919,
+          "log_loss": 0.3958714313248371,
+          "brier": 0.07184177942153383
+        },
+        "sunda-tsunami": {
+          "n": 735,
+          "positives": 0,
+          "auroc": null,
+          "average_precision": null,
+          "log_loss": 0.03448279045114936,
+          "brier": 0.004725287140513713
+        },
+        "tuscaloosa-tornado": {
+          "n": 747,
+          "positives": 20,
+          "auroc": 0.649656121045392,
+          "average_precision": 0.1670131729703596,
+          "log_loss": 0.13708280824037097,
+          "brier": 0.025066747546794485
+        }
+      },
+      "post_utility_unfitted": {
+        "nepal-flooding": {
+          "n": 735,
+          "positives": 58,
+          "auroc": 0.6993200224112464,
+          "average_precision": 0.2226207991027919,
+          "log_loss": 0.7298373445163568,
+          "brier": 0.26168503401360543
+        },
+        "sunda-tsunami": {
+          "n": 735,
+          "positives": 0,
+          "auroc": null,
+          "average_precision": null,
+          "log_loss": 0.9103744983065437,
+          "brier": 0.28662719198790626
+        },
+        "tuscaloosa-tornado": {
+          "n": 747,
+          "positives": 20,
+          "auroc": 0.687414030261348,
+          "average_precision": 0.05357780970203183,
+          "log_loss": 0.8682488522179094,
+          "brier": 0.29159056968615205
+        }
+      },
+      "neighbor_rule_unfitted": {
+        "nepal-flooding": {
+          "n": 735,
+          "positives": 58,
+          "auroc": 0.6868282992920084,
+          "average_precision": 0.24872443718404155,
+          "log_loss": 0.7405179745449425,
+          "brier": 0.2617598804537247
+        },
+        "sunda-tsunami": {
+          "n": 735,
+          "positives": 0,
+          "auroc": null,
+          "average_precision": null,
+          "log_loss": 0.7546753714977278,
+          "brier": 0.22875401247690433
+        },
+        "tuscaloosa-tornado": {
+          "n": 747,
+          "positives": 20,
+          "auroc": 0.7167469050894085,
+          "average_precision": 0.04978242431260001,
+          "log_loss": 0.6475211943890156,
+          "brier": 0.2221790121649148
+        }
+      }
+    },
+    "next_pick": {
+      "prior": {
+        "opportunity_states": 42,
+        "hits": 22,
+        "rate": 0.5238095238095238
+      },
+      "prior_feedback": {
+        "opportunity_states": 42,
+        "hits": 15,
+        "rate": 0.35714285714285715
+      },
+      "prior_permuted_feedback": {
+        "opportunity_states": 42,
+        "hits": 23,
+        "rate": 0.5476190476190477
+      },
+      "post_utility_unfitted": {
+        "opportunity_states": 42,
+        "hits": 17,
+        "rate": 0.40476190476190477
+      },
+      "neighbor_rule_unfitted": {
+        "opportunity_states": 42,
+        "hits": 14,
+        "rate": 0.3333333333333333
+      }
+    },
+    "delta_vs_prior": {
+      "prior_feedback": {
+        "baseline": "prior",
+        "point": {
+          "auroc": 0.02224260078397522,
+          "average_precision": 0.0352997940369554,
+          "log_loss": -0.0014129027697931396
+        },
+        "bootstrap": {
+          "auroc": {
+            "ci95": [
+              -0.08380860100589893,
+              0.11882414996000612
+            ],
+            "valid_reps": 2000
+          },
+          "average_precision": {
+            "ci95": [
+              -0.010930199383305137,
+              0.11577477949060894
+            ],
+            "valid_reps": 2000
+          },
+          "log_loss": {
+            "ci95": [
+              -0.02338887706458352,
+              0.022939165658106962
+            ],
+            "valid_reps": 2000
+          }
+        }
+      },
+      "prior_permuted_feedback": {
+        "baseline": "prior",
+        "point": {
+          "auroc": 0.057209815274331444,
+          "average_precision": 0.055657046732861724,
+          "log_loss": -0.005458669089722895
+        },
+        "bootstrap": {
+          "auroc": {
+            "ci95": [
+              0.00975789731881119,
+              0.11666855472465408
+            ],
+            "valid_reps": 2000
+          },
+          "average_precision": {
+            "ci95": [
+              0.01142296320433411,
+              0.1323863337496404
+            ],
+            "valid_reps": 2000
+          },
+          "log_loss": {
+            "ci95": [
+              -0.012672078408616935,
+              0.0034274662994238734
+            ],
+            "valid_reps": 2000
+          }
+        }
+      },
+      "neighbor_rule_unfitted": {
+        "baseline": "post_utility_unfitted",
+        "point": {
+          "auroc": 0.01781326045000664,
+          "average_precision": 0.02661104553263699,
+          "log_loss": -0.12245022802510275
+        },
+        "bootstrap": {
+          "auroc": {
+            "ci95": [
+              -0.12393612280637978,
+              0.09931435086966833
+            ],
+            "valid_reps": 2000
+          },
+          "average_precision": {
+            "ci95": [
+              -0.013558086035646552,
+              0.08648474332473975
+            ],
+            "valid_reps": 2000
+          },
+          "log_loss": {
+            "ci95": [
+              -0.18869358056848967,
+              -0.06561447979657997
+            ],
+            "valid_reps": 2000
+          }
+        }
+      }
+    },
+    "states": 169,
+    "rows": 2217,
+    "chips": 36
+  },
+  "route|y_ref|event": {
+    "pooled": {
+      "prior": {
+        "n": 2217,
+        "positives": 116,
+        "auroc": 0.6276690902525891,
+        "average_precision": 0.08719278131818081,
+        "log_loss": 0.2309100518567216,
+        "brier": 0.05885885985330747
+      },
+      "prior_feedback": {
+        "n": 2217,
+        "positives": 116,
+        "auroc": 0.45826289615782306,
+        "average_precision": 0.05631453755637297,
+        "log_loss": 0.3658051444857411,
+        "brier": 0.059806755755591676
+      },
+      "prior_permuted_feedback": {
+        "n": 2217,
+        "positives": 116,
+        "auroc": 0.6656641336637726,
+        "average_precision": 0.12149275510062468,
+        "log_loss": 0.252514625601875,
+        "brier": 0.058495761066852836
+      },
+      "post_utility_unfitted": {
+        "n": 2217,
+        "positives": 116,
+        "auroc": 0.6571316614420063,
+        "average_precision": 0.10031210108111081,
+        "log_loss": 0.8310939664377299,
+        "brier": 0.2780879454217411
+      },
+      "neighbor_rule_unfitted": {
+        "n": 2217,
+        "positives": 116,
+        "auroc": 0.6755055064090991,
+        "average_precision": 0.12277638706107373,
+        "log_loss": 0.7119770651485694,
+        "brier": 0.23711265977651652
+      }
+    },
+    "per_event": {
+      "prior": {
+        "nepal-flooding": {
+          "n": 735,
+          "positives": 74,
+          "auroc": 0.7719262378869035,
+          "average_precision": 0.29021293368033685,
+          "log_loss": 0.35334069303195653,
+          "brier": 0.091900955040347
+        },
+        "sunda-tsunami": {
+          "n": 735,
+          "positives": 15,
+          "auroc": 0.7490740740740741,
+          "average_precision": 0.053092668583890494,
+          "log_loss": 0.18275865737809152,
+          "brier": 0.04996039631321827
+        },
+        "tuscaloosa-tornado": {
+          "n": 747,
+          "positives": 27,
+          "auroc": 0.6669753086419753,
+          "average_precision": 0.16042104272268484,
+          "log_loss": 0.15782404607090555,
+          "brier": 0.03510307771072585
+        }
+      },
+      "prior_feedback": {
+        "nepal-flooding": {
+          "n": 735,
+          "positives": 74,
+          "auroc": 0.4824385656458274,
+          "average_precision": 0.14556726448492627,
+          "log_loss": 0.7619727053312625,
+          "brier": 0.09737004035475037
+        },
+        "sunda-tsunami": {
+          "n": 735,
+          "positives": 15,
+          "auroc": 0.7593518518518518,
+          "average_precision": 0.05156024774803409,
+          "log_loss": 0.17276687148249376,
+          "brier": 0.048150191128346405
+        },
+        "tuscaloosa-tornado": {
+          "n": 747,
+          "positives": 27,
+          "auroc": 0.6478395061728395,
+          "average_precision": 0.14947367381860086,
+          "log_loss": 0.16593897773330263,
+          "brier": 0.034316207992062406
+        }
+      },
+      "prior_permuted_feedback": {
+        "nepal-flooding": {
+          "n": 735,
+          "positives": 74,
+          "auroc": 0.7956822177699636,
+          "average_precision": 0.31443971038963714,
+          "log_loss": 0.41006433013071814,
+          "brier": 0.10019128298382882
+        },
+        "sunda-tsunami": {
+          "n": 735,
+          "positives": 15,
+          "auroc": 0.7904629629629629,
+          "average_precision": 0.06148311318907805,
+          "log_loss": 0.15131328356727428,
+          "brier": 0.03934026182272624
+        },
+        "tuscaloosa-tornado": {
+          "n": 747,
+          "positives": 27,
+          "auroc": 0.6044753086419753,
+          "average_precision": 0.08228770714059408,
+          "log_loss": 0.1970714576858534,
+          "brier": 0.03631782711163956
+        }
+      },
+      "post_utility_unfitted": {
+        "nepal-flooding": {
+          "n": 735,
+          "positives": 74,
+          "auroc": 0.6468700167641166,
+          "average_precision": 0.2185956040888919,
+          "log_loss": 0.7344243516858934,
+          "brier": 0.2639571428571429
+        },
+        "sunda-tsunami": {
+          "n": 735,
+          "positives": 15,
+          "auroc": 0.5999537037037037,
+          "average_precision": 0.02478388353889222,
+          "log_loss": 0.9062118120823178,
+          "brier": 0.2845727702191988
+        },
+        "tuscaloosa-tornado": {
+          "n": 747,
+          "positives": 27,
+          "auroc": 0.7439300411522634,
+          "average_precision": 0.09320027050775923,
+          "log_loss": 0.8522995223866289,
+          "brier": 0.28561109623679903
+        }
+      },
+      "neighbor_rule_unfitted": {
+        "nepal-flooding": {
+          "n": 735,
+          "positives": 74,
+          "auroc": 0.6658114241321503,
+          "average_precision": 0.2554052201050211,
+          "log_loss": 0.7371799434323485,
+          "brier": 0.2607576128800286
+        },
+        "sunda-tsunami": {
+          "n": 735,
+          "positives": 15,
+          "auroc": 0.5359259259259259,
+          "average_precision": 0.022043339603866823,
+          "log_loss": 0.7606665664938702,
+          "brier": 0.23154539569685903
+        },
+        "tuscaloosa-tornado": {
+          "n": 747,
+          "positives": 27,
+          "auroc": 0.7355452674897119,
+          "average_precision": 0.07707452099320203,
+          "log_loss": 0.6392717116982699,
+          "brier": 0.2193253753956154
+        }
+      }
+    },
+    "next_pick": {
+      "prior": {
+        "opportunity_states": 57,
+        "hits": 20,
+        "rate": 0.3508771929824561
+      },
+      "prior_feedback": {
+        "opportunity_states": 57,
+        "hits": 26,
+        "rate": 0.45614035087719296
+      },
+      "prior_permuted_feedback": {
+        "opportunity_states": 57,
+        "hits": 28,
+        "rate": 0.49122807017543857
+      },
+      "post_utility_unfitted": {
+        "opportunity_states": 57,
+        "hits": 21,
+        "rate": 0.3684210526315789
+      },
+      "neighbor_rule_unfitted": {
+        "opportunity_states": 57,
+        "hits": 17,
+        "rate": 0.2982456140350877
+      }
+    },
+    "delta_vs_prior": {
+      "prior_feedback": {
+        "baseline": "prior",
+        "point": {
+          "auroc": -0.16940619409476604,
+          "average_precision": -0.03087824376180784,
+          "log_loss": 0.1348950926290195
+        },
+        "bootstrap": {
+          "auroc": {
+            "ci95": [
+              -0.2707372333287718,
+              -0.04418799540626488
+            ],
+            "valid_reps": 2000
+          },
+          "average_precision": {
+            "ci95": [
+              -0.08911033338682496,
+              -0.0014747807937348233
+            ],
+            "valid_reps": 2000
+          },
+          "log_loss": {
+            "ci95": [
+              0.012046077414760801,
+              0.349776482426183
+            ],
+            "valid_reps": 2000
+          }
+        }
+      },
+      "prior_permuted_feedback": {
+        "baseline": "prior",
+        "point": {
+          "auroc": 0.03799504341118354,
+          "average_precision": 0.03429997378244387,
+          "log_loss": 0.0216045737451534
+        },
+        "bootstrap": {
+          "auroc": {
+            "ci95": [
+              -0.06400754217815803,
+              0.13407084682205303
+            ],
+            "valid_reps": 2000
+          },
+          "average_precision": {
+            "ci95": [
+              -0.006145510606489135,
+              0.06696894718535207
+            ],
+            "valid_reps": 2000
+          },
+          "log_loss": {
+            "ci95": [
+              -0.02728344286200222,
+              0.08303985474611578
+            ],
+            "valid_reps": 2000
+          }
+        }
+      },
+      "neighbor_rule_unfitted": {
+        "baseline": "post_utility_unfitted",
+        "point": {
+          "auroc": 0.018373844967092823,
+          "average_precision": 0.022464285979962917,
+          "log_loss": -0.11911690128916053
+        },
+        "bootstrap": {
+          "auroc": {
+            "ci95": [
+              -0.09257798082887604,
+              0.09666353509907408
+            ],
+            "valid_reps": 2000
+          },
+          "average_precision": {
+            "ci95": [
+              -0.017520606499265543,
+              0.0816046429344324
+            ],
+            "valid_reps": 2000
+          },
+          "log_loss": {
+            "ci95": [
+              -0.18799645948514906,
+              -0.0626391618968124
+            ],
+            "valid_reps": 2000
+          }
+        }
+      }
+    },
+    "states": 169,
+    "rows": 2217,
+    "chips": 36
+  },
+  "route|y_ref|chip": {
+    "pooled": {
+      "prior": {
+        "n": 2217,
+        "positives": 116,
+        "auroc": 0.6181210917625433,
+        "average_precision": 0.08399408535022716,
+        "log_loss": 0.22554731024165459,
+        "brier": 0.05062964592998832
+      },
+      "prior_feedback": {
+        "n": 2217,
+        "positives": 116,
+        "auroc": 0.7346829916788393,
+        "average_precision": 0.162600602353614,
+        "log_loss": 0.2062224267391082,
+        "brier": 0.05206401137381652
+      },
+      "prior_permuted_feedback": {
+        "n": 2217,
+        "positives": 116,
+        "auroc": 0.6712485023552003,
+        "average_precision": 0.11245142528129692,
+        "log_loss": 0.2121429007929521,
+        "brier": 0.050876176237871946
+      },
+      "post_utility_unfitted": {
+        "n": 2217,
+        "positives": 116,
+        "auroc": 0.6571316614420063,
+        "average_precision": 0.10031210108111081,
+        "log_loss": 0.8310939664377299,
+        "brier": 0.2780879454217411
+      },
+      "neighbor_rule_unfitted": {
+        "n": 2217,
+        "positives": 116,
+        "auroc": 0.6755055064090991,
+        "average_precision": 0.12277638706107373,
+        "log_loss": 0.7119770651485694,
+        "brier": 0.23711265977651652
+      }
+    },
+    "per_event": {
+      "prior": {
+        "nepal-flooding": {
+          "n": 735,
+          "positives": 74,
+          "auroc": 0.6196794373798913,
+          "average_precision": 0.18225263330315783,
+          "log_loss": 0.391314953873017,
+          "brier": 0.09079969510151457
+        },
+        "sunda-tsunami": {
+          "n": 735,
+          "positives": 15,
+          "auroc": 0.6112037037037037,
+          "average_precision": 0.02884274338329348,
+          "log_loss": 0.11984035178559405,
+          "brier": 0.024923473890170016
+        },
+        "tuscaloosa-tornado": {
+          "n": 747,
+          "positives": 27,
+          "auroc": 0.6188271604938271,
+          "average_precision": 0.0646187283237921,
+          "log_loss": 0.1664514553502932,
+          "brier": 0.03639812023814716
+        }
+      },
+      "prior_feedback": {
+        "nepal-flooding": {
+          "n": 735,
+          "positives": 74,
+          "auroc": 0.7518910741301059,
+          "average_precision": 0.24398775483931584,
+          "log_loss": 0.33207535606318833,
+          "brier": 0.09723685630515873
+        },
+        "sunda-tsunami": {
+          "n": 735,
+          "positives": 15,
+          "auroc": 0.6375925925925926,
+          "average_precision": 0.031375835105988584,
+          "log_loss": 0.11519689320651848,
+          "brier": 0.02434067439720333
+        },
+        "tuscaloosa-tornado": {
+          "n": 747,
+          "positives": 27,
+          "auroc": 0.5874485596707819,
+          "average_precision": 0.07520921119533643,
+          "log_loss": 0.1719545071852321,
+          "brier": 0.034894816799886354
+        }
+      },
+      "prior_permuted_feedback": {
+        "nepal-flooding": {
+          "n": 735,
+          "positives": 74,
+          "auroc": 0.6540458764361942,
+          "average_precision": 0.20279155876883037,
+          "log_loss": 0.3398136653816935,
+          "brier": 0.0887304381374466
+        },
+        "sunda-tsunami": {
+          "n": 735,
+          "positives": 15,
+          "auroc": 0.6719444444444445,
+          "average_precision": 0.03772668926072809,
+          "log_loss": 0.12574387810459184,
+          "brier": 0.029456715208630017
+        },
+        "tuscaloosa-tornado": {
+          "n": 747,
+          "positives": 27,
+          "auroc": 0.6280864197530864,
+          "average_precision": 0.155521224967406,
+          "log_loss": 0.1715341587624566,
+          "brier": 0.03470538823292611
+        }
+      },
+      "post_utility_unfitted": {
+        "nepal-flooding": {
+          "n": 735,
+          "positives": 74,
+          "auroc": 0.6468700167641166,
+          "average_precision": 0.2185956040888919,
+          "log_loss": 0.7344243516858934,
+          "brier": 0.2639571428571429
+        },
+        "sunda-tsunami": {
+          "n": 735,
+          "positives": 15,
+          "auroc": 0.5999537037037037,
+          "average_precision": 0.02478388353889222,
+          "log_loss": 0.9062118120823178,
+          "brier": 0.2845727702191988
+        },
+        "tuscaloosa-tornado": {
+          "n": 747,
+          "positives": 27,
+          "auroc": 0.7439300411522634,
+          "average_precision": 0.09320027050775923,
+          "log_loss": 0.8522995223866289,
+          "brier": 0.28561109623679903
+        }
+      },
+      "neighbor_rule_unfitted": {
+        "nepal-flooding": {
+          "n": 735,
+          "positives": 74,
+          "auroc": 0.6658114241321503,
+          "average_precision": 0.2554052201050211,
+          "log_loss": 0.7371799434323485,
+          "brier": 0.2607576128800286
+        },
+        "sunda-tsunami": {
+          "n": 735,
+          "positives": 15,
+          "auroc": 0.5359259259259259,
+          "average_precision": 0.022043339603866823,
+          "log_loss": 0.7606665664938702,
+          "brier": 0.23154539569685903
+        },
+        "tuscaloosa-tornado": {
+          "n": 747,
+          "positives": 27,
+          "auroc": 0.7355452674897119,
+          "average_precision": 0.07707452099320203,
+          "log_loss": 0.6392717116982699,
+          "brier": 0.2193253753956154
+        }
+      }
+    },
+    "next_pick": {
+      "prior": {
+        "opportunity_states": 57,
+        "hits": 30,
+        "rate": 0.5263157894736842
+      },
+      "prior_feedback": {
+        "opportunity_states": 57,
+        "hits": 23,
+        "rate": 0.40350877192982454
+      },
+      "prior_permuted_feedback": {
+        "opportunity_states": 57,
+        "hits": 29,
+        "rate": 0.5087719298245614
+      },
+      "post_utility_unfitted": {
+        "opportunity_states": 57,
+        "hits": 21,
+        "rate": 0.3684210526315789
+      },
+      "neighbor_rule_unfitted": {
+        "opportunity_states": 57,
+        "hits": 17,
+        "rate": 0.2982456140350877
+      }
+    },
+    "delta_vs_prior": {
+      "prior_feedback": {
+        "baseline": "prior",
+        "point": {
+          "auroc": 0.11656189991629606,
+          "average_precision": 0.07860651700338685,
+          "log_loss": -0.01932488350254638
+        },
+        "bootstrap": {
+          "auroc": {
+            "ci95": [
+              -0.04125586187334997,
+              0.2751617709021515
+            ],
+            "valid_reps": 2000
+          },
+          "average_precision": {
+            "ci95": [
+              -0.006252968360389783,
+              0.17217672375337714
+            ],
+            "valid_reps": 2000
+          },
+          "log_loss": {
+            "ci95": [
+              -0.06296795195663732,
+              0.016537012866007388
+            ],
+            "valid_reps": 2000
+          }
+        }
+      },
+      "prior_permuted_feedback": {
+        "baseline": "prior",
+        "point": {
+          "auroc": 0.05312741059265702,
+          "average_precision": 0.02845733993106976,
+          "log_loss": -0.013404409448702498
+        },
+        "bootstrap": {
+          "auroc": {
+            "ci95": [
+              -0.00369318701979158,
+              0.10819957131730719
+            ],
+            "valid_reps": 2000
+          },
+          "average_precision": {
+            "ci95": [
+              0.003530762307972509,
+              0.11194876770612447
+            ],
+            "valid_reps": 2000
+          },
+          "log_loss": {
+            "ci95": [
+              -0.04928116158392156,
+              0.015093162341031908
+            ],
+            "valid_reps": 2000
+          }
+        }
+      },
+      "neighbor_rule_unfitted": {
+        "baseline": "post_utility_unfitted",
+        "point": {
+          "auroc": 0.018373844967092823,
+          "average_precision": 0.022464285979962917,
+          "log_loss": -0.11911690128916053
+        },
+        "bootstrap": {
+          "auroc": {
+            "ci95": [
+              -0.09257798082887604,
+              0.09666353509907408
+            ],
+            "valid_reps": 2000
+          },
+          "average_precision": {
+            "ci95": [
+              -0.017520606499265543,
+              0.0816046429344324
+            ],
+            "valid_reps": 2000
+          },
+          "log_loss": {
+            "ci95": [
+              -0.18799645948514906,
+              -0.0626391618968124
+            ],
+            "valid_reps": 2000
+          }
+        }
+      }
+    },
+    "states": 169,
+    "rows": 2217,
+    "chips": 36
+  },
+  "random|y_tp|event": {
+    "pooled": {
+      "prior": {
+        "n": 44280,
+        "positives": 2148,
+        "auroc": 0.5120902940320048,
+        "average_precision": 0.04658704923158301,
+        "log_loss": 0.3057573849428579,
+        "brier": 0.05723905476391934
+      },
+      "prior_feedback": {
+        "n": 44280,
+        "positives": 2148,
+        "auroc": 0.5464014312736366,
+        "average_precision": 0.05296417642370951,
+        "log_loss": 0.29685874624815217,
+        "brier": 0.05598139645918704
+      },
+      "prior_permuted_feedback": {
+        "n": 44280,
+        "positives": 2148,
+        "auroc": 0.4935616575978909,
+        "average_precision": 0.04451965283054856,
+        "log_loss": 0.31126961341455134,
+        "brier": 0.055924401560096655
+      },
+      "post_utility_unfitted": {
+        "n": 44280,
+        "positives": 2148,
+        "auroc": 0.7097523958575876,
+        "average_precision": 0.18764645090166102,
+        "log_loss": 0.9494522034087434,
+        "brier": 0.31144604135300613
+      },
+      "neighbor_rule_unfitted": {
+        "n": 44280,
+        "positives": 2148,
+        "auroc": 0.7396087920273978,
+        "average_precision": 0.19446913127692467,
+        "log_loss": 0.7576106671043122,
+        "brier": 0.24546215263279691
+      }
+    },
+    "per_event": {
+      "prior": {
+        "nepal-flooding": {
+          "n": 14760,
+          "positives": 1854,
+          "auroc": 0.647572957628565,
+          "average_precision": 0.2133663396705177,
+          "log_loss": 0.678999722759849,
+          "brier": 0.11966304866165751
+        },
+        "sunda-tsunami": {
+          "n": 14760,
+          "positives": 0,
+          "auroc": null,
+          "average_precision": null,
+          "log_loss": 0.11000365038079779,
+          "brier": 0.02680603425042417
+        },
+        "tuscaloosa-tornado": {
+          "n": 14760,
+          "positives": 294,
+          "auroc": 0.6027116362928415,
+          "average_precision": 0.03140397279962139,
+          "log_loss": 0.1282687816879269,
+          "brier": 0.025248081379676345
+        }
+      },
+      "prior_feedback": {
+        "nepal-flooding": {
+          "n": 14760,
+          "positives": 1854,
+          "auroc": 0.6332843859282229,
+          "average_precision": 0.22686467384474848,
+          "log_loss": 0.6572679431739102,
+          "brier": 0.11640234080121487
+        },
+        "sunda-tsunami": {
+          "n": 14760,
+          "positives": 0,
+          "auroc": null,
+          "average_precision": null,
+          "log_loss": 0.11453885511119992,
+          "brier": 0.028641783970422437
+        },
+        "tuscaloosa-tornado": {
+          "n": 14760,
+          "positives": 294,
+          "auroc": 0.6286248496356928,
+          "average_precision": 0.04045081519784615,
+          "log_loss": 0.11876944045934626,
+          "brier": 0.022900064605923802
+        }
+      },
+      "prior_permuted_feedback": {
+        "nepal-flooding": {
+          "n": 14760,
+          "positives": 1854,
+          "auroc": 0.6231223245470401,
+          "average_precision": 0.19336966507623177,
+          "log_loss": 0.7098680263282973,
+          "brier": 0.12107260969982911
+        },
+        "sunda-tsunami": {
+          "n": 14760,
+          "positives": 0,
+          "auroc": null,
+          "average_precision": null,
+          "log_loss": 0.09860525683818855,
+          "brier": 0.022860861309816422
+        },
+        "tuscaloosa-tornado": {
+          "n": 14760,
+          "positives": 294,
+          "auroc": 0.599774418270004,
+          "average_precision": 0.030845584116320636,
+          "log_loss": 0.12533555707716804,
+          "brier": 0.02383973367064446
+        }
+      },
+      "post_utility_unfitted": {
+        "nepal-flooding": {
+          "n": 14760,
+          "positives": 1854,
+          "auroc": 0.7355612677578528,
+          "average_precision": 0.374431675072107,
+          "log_loss": 0.7926414446515253,
+          "brier": 0.28125131831526656
+        },
+        "sunda-tsunami": {
+          "n": 14760,
+          "positives": 0,
+          "auroc": null,
+          "average_precision": null,
+          "log_loss": 1.080445122530929,
+          "brier": 0.32292789859981935
+        },
+        "tuscaloosa-tornado": {
+          "n": 14760,
+          "positives": 294,
+          "auroc": 0.6471214228813328,
+          "average_precision": 0.03202409158549614,
+          "log_loss": 0.975270043043776,
+          "brier": 0.3301589071439326
+        }
+      },
+      "neighbor_rule_unfitted": {
+        "nepal-flooding": {
+          "n": 14760,
+          "positives": 1854,
+          "auroc": 0.7342364029274159,
+          "average_precision": 0.36297944205740534,
+          "log_loss": 0.7148037811715541,
+          "brier": 0.24722589827831729
+        },
+        "sunda-tsunami": {
+          "n": 14760,
+          "positives": 0,
+          "auroc": null,
+          "average_precision": null,
+          "log_loss": 0.8185993514109593,
+          "brier": 0.2448131799873072
+        },
+        "tuscaloosa-tornado": {
+          "n": 14760,
+          "positives": 294,
+          "auroc": 0.7226824851328614,
+          "average_precision": 0.041407562127864506,
+          "log_loss": 0.7394288687304231,
+          "brier": 0.24434737963276623
+        }
+      }
+    },
+    "next_pick": {
+      "prior": {
+        "opportunity_states": 939,
+        "hits": 437,
+        "rate": 0.4653887113951012
+      },
+      "prior_feedback": {
+        "opportunity_states": 939,
+        "hits": 397,
+        "rate": 0.422790202342918
+      },
+      "prior_permuted_feedback": {
+        "opportunity_states": 939,
+        "hits": 473,
+        "rate": 0.503727369542066
+      },
+      "post_utility_unfitted": {
+        "opportunity_states": 939,
+        "hits": 518,
+        "rate": 0.5516506922257721
+      },
+      "neighbor_rule_unfitted": {
+        "opportunity_states": 939,
+        "hits": 466,
+        "rate": 0.49627263045793396
+      }
+    },
+    "delta_vs_prior": {
+      "prior_feedback": {
+        "baseline": "prior",
+        "point": {
+          "auroc": 0.03431113724163182,
+          "average_precision": 0.0063771271921264985,
+          "log_loss": -0.008898638694705752
+        },
+        "bootstrap": {
+          "auroc": {
+            "ci95": [
+              -0.02832363514572127,
+              0.08516313077958722
+            ],
+            "valid_reps": 2000
+          },
+          "average_precision": {
+            "ci95": [
+              -0.002068635718918583,
+              0.021904894484749284
+            ],
+            "valid_reps": 2000
+          },
+          "log_loss": {
+            "ci95": [
+              -0.02842943954549717,
+              0.0035098225612095317
+            ],
+            "valid_reps": 2000
+          }
+        }
+      },
+      "prior_permuted_feedback": {
+        "baseline": "prior",
+        "point": {
+          "auroc": -0.0185286364341139,
+          "average_precision": -0.002067396401034448,
+          "log_loss": 0.0055122284716934145
+        },
+        "bootstrap": {
+          "auroc": {
+            "ci95": [
+              -0.04144797013090763,
+              0.006234300822441512
+            ],
+            "valid_reps": 2000
+          },
+          "average_precision": {
+            "ci95": [
+              -0.0074640808250054065,
+              0.0005710169123203009
+            ],
+            "valid_reps": 2000
+          },
+          "log_loss": {
+            "ci95": [
+              -0.008478908328406637,
+              0.02116500340333354
+            ],
+            "valid_reps": 2000
+          }
+        }
+      },
+      "neighbor_rule_unfitted": {
+        "baseline": "post_utility_unfitted",
+        "point": {
+          "auroc": 0.029856396169810173,
+          "average_precision": 0.006822680375263651,
+          "log_loss": -0.19184153630443113
+        },
+        "bootstrap": {
+          "auroc": {
+            "ci95": [
+              -0.031627805987962415,
+              0.07414463328092129
+            ],
+            "valid_reps": 2000
+          },
+          "average_precision": {
+            "ci95": [
+              -0.01292181245753867,
+              0.04316381278362213
+            ],
+            "valid_reps": 2000
+          },
+          "log_loss": {
+            "ci95": [
+              -0.2408281802767354,
+              -0.14808278564711627
+            ],
+            "valid_reps": 2000
+          }
+        }
+      }
+    },
+    "states": 3240,
+    "rows": 44280,
+    "chips": 36
+  },
+  "random|y_tp|chip": {
+    "pooled": {
+      "prior": {
+        "n": 44280,
+        "positives": 2148,
+        "auroc": 0.6359811612735783,
+        "average_precision": 0.08719188169043203,
+        "log_loss": 0.2622324929600628,
+        "brier": 0.04780692958235516
+      },
+      "prior_feedback": {
+        "n": 44280,
+        "positives": 2148,
+        "auroc": 0.6412722712744074,
+        "average_precision": 0.08641087573365351,
+        "log_loss": 0.2634835727784372,
+        "brier": 0.048409783529802526
+      },
+      "prior_permuted_feedback": {
+        "n": 44280,
+        "positives": 2148,
+        "auroc": 0.6411205356898183,
+        "average_precision": 0.09372028551870265,
+        "log_loss": 0.2619892561914698,
+        "brier": 0.04744390788345142
+      },
+      "post_utility_unfitted": {
+        "n": 44280,
+        "positives": 2148,
+        "auroc": 0.7097523958575876,
+        "average_precision": 0.18764645090166102,
+        "log_loss": 0.9494522034087434,
+        "brier": 0.31144604135300613
+      },
+      "neighbor_rule_unfitted": {
+        "n": 44280,
+        "positives": 2148,
+        "auroc": 0.7396087920273978,
+        "average_precision": 0.19446913127692467,
+        "log_loss": 0.7576106671043122,
+        "brier": 0.24546215263279691
+      }
+    },
+    "per_event": {
+      "prior": {
+        "nepal-flooding": {
+          "n": 14760,
+          "positives": 1854,
+          "auroc": 0.612294759000062,
+          "average_precision": 0.17860770835338113,
+          "log_loss": 0.6202474855414137,
+          "brier": 0.11407342970565439
+        },
+        "sunda-tsunami": {
+          "n": 14760,
+          "positives": 0,
+          "auroc": null,
+          "average_precision": null,
+          "log_loss": 0.0326001660139231,
+          "brier": 0.0031179360879140684
+        },
+        "tuscaloosa-tornado": {
+          "n": 14760,
+          "positives": 294,
+          "auroc": 0.5549879567477481,
+          "average_precision": 0.024846039959644524,
+          "log_loss": 0.13384982732485143,
+          "brier": 0.02622942295349702
+        }
+      },
+      "prior_feedback": {
+        "nepal-flooding": {
+          "n": 14760,
+          "positives": 1854,
+          "auroc": 0.5983915143788854,
+          "average_precision": 0.16221260886785682,
+          "log_loss": 0.6356398735452747,
+          "brier": 0.11866676618067086
+        },
+        "sunda-tsunami": {
+          "n": 14760,
+          "positives": 0,
+          "auroc": null,
+          "average_precision": null,
+          "log_loss": 0.0325377862455259,
+          "brier": 0.0032088770161178047
+        },
+        "tuscaloosa-tornado": {
+          "n": 14760,
+          "positives": 294,
+          "auroc": 0.5902472699296779,
+          "average_precision": 0.033352610085036344,
+          "log_loss": 0.12227305854451086,
+          "brier": 0.023353707392618925
+        }
+      },
+      "prior_permuted_feedback": {
+        "nepal-flooding": {
+          "n": 14760,
+          "positives": 1854,
+          "auroc": 0.6067932746131642,
+          "average_precision": 0.17706755124130208,
+          "log_loss": 0.618611165804789,
+          "brier": 0.11385563626576585
+        },
+        "sunda-tsunami": {
+          "n": 14760,
+          "positives": 0,
+          "auroc": null,
+          "average_precision": null,
+          "log_loss": 0.03266869295700759,
+          "brier": 0.003134315733533311
+        },
+        "tuscaloosa-tornado": {
+          "n": 14760,
+          "positives": 294,
+          "auroc": 0.5337516729351771,
+          "average_precision": 0.023857790351386497,
+          "log_loss": 0.13468790981261253,
+          "brier": 0.025341771651055098
+        }
+      },
+      "post_utility_unfitted": {
+        "nepal-flooding": {
+          "n": 14760,
+          "positives": 1854,
+          "auroc": 0.7355612677578528,
+          "average_precision": 0.374431675072107,
+          "log_loss": 0.7926414446515253,
+          "brier": 0.28125131831526656
+        },
+        "sunda-tsunami": {
+          "n": 14760,
+          "positives": 0,
+          "auroc": null,
+          "average_precision": null,
+          "log_loss": 1.080445122530929,
+          "brier": 0.32292789859981935
+        },
+        "tuscaloosa-tornado": {
+          "n": 14760,
+          "positives": 294,
+          "auroc": 0.6471214228813328,
+          "average_precision": 0.03202409158549614,
+          "log_loss": 0.975270043043776,
+          "brier": 0.3301589071439326
+        }
+      },
+      "neighbor_rule_unfitted": {
+        "nepal-flooding": {
+          "n": 14760,
+          "positives": 1854,
+          "auroc": 0.7342364029274159,
+          "average_precision": 0.36297944205740534,
+          "log_loss": 0.7148037811715541,
+          "brier": 0.24722589827831729
+        },
+        "sunda-tsunami": {
+          "n": 14760,
+          "positives": 0,
+          "auroc": null,
+          "average_precision": null,
+          "log_loss": 0.8185993514109593,
+          "brier": 0.2448131799873072
+        },
+        "tuscaloosa-tornado": {
+          "n": 14760,
+          "positives": 294,
+          "auroc": 0.7226824851328614,
+          "average_precision": 0.041407562127864506,
+          "log_loss": 0.7394288687304231,
+          "brier": 0.24434737963276623
+        }
+      }
+    },
+    "next_pick": {
+      "prior": {
+        "opportunity_states": 939,
+        "hits": 512,
+        "rate": 0.5452609158679447
+      },
+      "prior_feedback": {
+        "opportunity_states": 939,
+        "hits": 543,
+        "rate": 0.5782747603833865
+      },
+      "prior_permuted_feedback": {
+        "opportunity_states": 939,
+        "hits": 515,
+        "rate": 0.5484558040468583
+      },
+      "post_utility_unfitted": {
+        "opportunity_states": 939,
+        "hits": 518,
+        "rate": 0.5516506922257721
+      },
+      "neighbor_rule_unfitted": {
+        "opportunity_states": 939,
+        "hits": 466,
+        "rate": 0.49627263045793396
+      }
+    },
+    "delta_vs_prior": {
+      "prior_feedback": {
+        "baseline": "prior",
+        "point": {
+          "auroc": 0.005291110000829158,
+          "average_precision": -0.0007810059567785188,
+          "log_loss": 0.001251079818374412
+        },
+        "bootstrap": {
+          "auroc": {
+            "ci95": [
+              -0.016366956017600444,
+              0.02290283779745943
+            ],
+            "valid_reps": 2000
+          },
+          "average_precision": {
+            "ci95": [
+              -0.025062052790513496,
+              0.01436896045837474
+            ],
+            "valid_reps": 2000
+          },
+          "log_loss": {
+            "ci95": [
+              -0.004901231238235167,
+              0.008119579746620415
+            ],
+            "valid_reps": 2000
+          }
+        }
+      },
+      "prior_permuted_feedback": {
+        "baseline": "prior",
+        "point": {
+          "auroc": 0.005139374416240017,
+          "average_precision": 0.006528403828270621,
+          "log_loss": -0.00024323676859300258
+        },
+        "bootstrap": {
+          "auroc": {
+            "ci95": [
+              -0.01682041008593947,
+              0.021820676631192866
+            ],
+            "valid_reps": 2000
+          },
+          "average_precision": {
+            "ci95": [
+              -0.0032054114683044343,
+              0.02527513500345031
+            ],
+            "valid_reps": 2000
+          },
+          "log_loss": {
+            "ci95": [
+              -0.005148955757307577,
+              0.004843189994876984
+            ],
+            "valid_reps": 2000
+          }
+        }
+      },
+      "neighbor_rule_unfitted": {
+        "baseline": "post_utility_unfitted",
+        "point": {
+          "auroc": 0.029856396169810173,
+          "average_precision": 0.006822680375263651,
+          "log_loss": -0.19184153630443113
+        },
+        "bootstrap": {
+          "auroc": {
+            "ci95": [
+              -0.031627805987962415,
+              0.07414463328092129
+            ],
+            "valid_reps": 2000
+          },
+          "average_precision": {
+            "ci95": [
+              -0.01292181245753867,
+              0.04316381278362213
+            ],
+            "valid_reps": 2000
+          },
+          "log_loss": {
+            "ci95": [
+              -0.2408281802767354,
+              -0.14808278564711627
+            ],
+            "valid_reps": 2000
+          }
+        }
+      }
+    },
+    "states": 3240,
+    "rows": 44280,
+    "chips": 36
+  },
+  "random|y_ref|event": {
+    "pooled": {
+      "prior": {
+        "n": 44280,
+        "positives": 3309,
+        "auroc": 0.5918031608039708,
+        "average_precision": 0.1253528895698524,
+        "log_loss": 0.3919218493848263,
+        "brier": 0.09401857065841517
+      },
+      "prior_feedback": {
+        "n": 44280,
+        "positives": 3309,
+        "auroc": 0.6326584225938905,
+        "average_precision": 0.14299523977617834,
+        "log_loss": 0.39542239706430665,
+        "brier": 0.09246258439637076
+      },
+      "prior_permuted_feedback": {
+        "n": 44280,
+        "positives": 3309,
+        "auroc": 0.6139151605209646,
+        "average_precision": 0.1321294900235786,
+        "log_loss": 0.3811592850414329,
+        "brier": 0.09189609087729103
+      },
+      "post_utility_unfitted": {
+        "n": 44280,
+        "positives": 3309,
+        "auroc": 0.696848825524963,
+        "average_precision": 0.2051479244586355,
+        "log_loss": 0.9283823534279099,
+        "brier": 0.303667284954331
+      },
+      "neighbor_rule_unfitted": {
+        "n": 44280,
+        "positives": 3309,
+        "auroc": 0.7125018640321251,
+        "average_precision": 0.21336746899866443,
+        "log_loss": 0.7459278114683737,
+        "brier": 0.24176755763129135
+      }
+    },
+    "per_event": {
+      "prior": {
+        "nepal-flooding": {
+          "n": 14760,
+          "positives": 2237,
+          "auroc": 0.7508408221318014,
+          "average_precision": 0.3910438908411832,
+          "log_loss": 0.675383575001561,
+          "brier": 0.142899314200066
+        },
+        "sunda-tsunami": {
+          "n": 14760,
+          "positives": 320,
+          "auroc": 0.6221816568559557,
+          "average_precision": 0.035306119353263755,
+          "log_loss": 0.29219354795812236,
+          "brier": 0.08715550447094578
+        },
+        "tuscaloosa-tornado": {
+          "n": 14760,
+          "positives": 752,
+          "auroc": 0.6550297626280424,
+          "average_precision": 0.07778512191120292,
+          "log_loss": 0.20818842519479588,
+          "brier": 0.052000893304233735
+        }
+      },
+      "prior_feedback": {
+        "nepal-flooding": {
+          "n": 14760,
+          "positives": 2237,
+          "auroc": 0.7540366583778204,
+          "average_precision": 0.3557332241228008,
+          "log_loss": 0.6847188230693082,
+          "brier": 0.13756736611267115
+        },
+        "sunda-tsunami": {
+          "n": 14760,
+          "positives": 320,
+          "auroc": 0.6288196849030471,
+          "average_precision": 0.03617117266149187,
+          "log_loss": 0.30335509767627467,
+          "brier": 0.09068529416973654
+        },
+        "tuscaloosa-tornado": {
+          "n": 14760,
+          "positives": 752,
+          "auroc": 0.681965073909134,
+          "average_precision": 0.1056520519123277,
+          "log_loss": 0.19819327044733692,
+          "brier": 0.049135092906704605
+        }
+      },
+      "prior_permuted_feedback": {
+        "nepal-flooding": {
+          "n": 14760,
+          "positives": 2237,
+          "auroc": 0.7646672188439253,
+          "average_precision": 0.3864583264646674,
+          "log_loss": 0.6548958354316525,
+          "brier": 0.14268174434424874
+        },
+        "sunda-tsunami": {
+          "n": 14760,
+          "positives": 320,
+          "auroc": 0.6427906423130194,
+          "average_precision": 0.038494960052001405,
+          "log_loss": 0.2708601990365019,
+          "brier": 0.08074257543658855
+        },
+        "tuscaloosa-tornado": {
+          "n": 14760,
+          "positives": 752,
+          "auroc": 0.6355789662745908,
+          "average_precision": 0.07416711495293339,
+          "log_loss": 0.2177218206561444,
+          "brier": 0.052263952851035786
+        }
+      },
+      "post_utility_unfitted": {
+        "nepal-flooding": {
+          "n": 14760,
+          "positives": 2237,
+          "auroc": 0.6930154193530217,
+          "average_precision": 0.3752893953210106,
+          "log_loss": 0.7904034256243706,
+          "brier": 0.2812325739611563
+        },
+        "sunda-tsunami": {
+          "n": 14760,
+          "positives": 320,
+          "auroc": 0.5706725025969529,
+          "average_precision": 0.02358352438879314,
+          "log_loss": 1.074053479715561,
+          "brier": 0.3197971397922313
+        },
+        "tuscaloosa-tornado": {
+          "n": 14760,
+          "positives": 752,
+          "auroc": 0.7890778312848585,
+          "average_precision": 0.15601153217535907,
+          "log_loss": 0.9206901549437982,
+          "brier": 0.3099721411096055
+        }
+      },
+      "neighbor_rule_unfitted": {
+        "nepal-flooding": {
+          "n": 14760,
+          "positives": 2237,
+          "auroc": 0.7043363858243344,
+          "average_precision": 0.37622075808543165,
+          "log_loss": 0.7119416210689,
+          "brier": 0.24729967123826907
+        },
+        "sunda-tsunami": {
+          "n": 14760,
+          "positives": 320,
+          "auroc": 0.5684130453601108,
+          "average_precision": 0.02376868382647481,
+          "log_loss": 0.8212454749495021,
+          "brier": 0.24592508152298923
+        },
+        "tuscaloosa-tornado": {
+          "n": 14760,
+          "positives": 752,
+          "auroc": 0.7725236035335431,
+          "average_precision": 0.15366670126750334,
+          "log_loss": 0.7045963383867193,
+          "brier": 0.2320779201326157
+        }
+      }
+    },
+    "next_pick": {
+      "prior": {
+        "opportunity_states": 1206,
+        "hits": 753,
+        "rate": 0.6243781094527363
+      },
+      "prior_feedback": {
+        "opportunity_states": 1206,
+        "hits": 783,
+        "rate": 0.6492537313432836
+      },
+      "prior_permuted_feedback": {
+        "opportunity_states": 1206,
+        "hits": 753,
+        "rate": 0.6243781094527363
+      },
+      "post_utility_unfitted": {
+        "opportunity_states": 1206,
+        "hits": 683,
+        "rate": 0.5663349917081261
+      },
+      "neighbor_rule_unfitted": {
+        "opportunity_states": 1206,
+        "hits": 628,
+        "rate": 0.5207296849087893
+      }
+    },
+    "delta_vs_prior": {
+      "prior_feedback": {
+        "baseline": "prior",
+        "point": {
+          "auroc": 0.04085526178991972,
+          "average_precision": 0.01764235020632593,
+          "log_loss": 0.003500547679480326
+        },
+        "bootstrap": {
+          "auroc": {
+            "ci95": [
+              -0.01576258943536835,
+              0.10392669485830054
+            ],
+            "valid_reps": 2000
+          },
+          "average_precision": {
+            "ci95": [
+              -0.0001393754005780385,
+              0.03838351696816993
+            ],
+            "valid_reps": 2000
+          },
+          "log_loss": {
+            "ci95": [
+              -0.041367540532078174,
+              0.04938592225674047
+            ],
+            "valid_reps": 2000
+          }
+        }
+      },
+      "prior_permuted_feedback": {
+        "baseline": "prior",
+        "point": {
+          "auroc": 0.022111999716993846,
+          "average_precision": 0.006776600453726189,
+          "log_loss": -0.0107625643433934
+        },
+        "bootstrap": {
+          "auroc": {
+            "ci95": [
+              -0.02263786291004913,
+              0.060355617041113536
+            ],
+            "valid_reps": 2000
+          },
+          "average_precision": {
+            "ci95": [
+              -0.0045021881564426,
+              0.015692951549061442
+            ],
+            "valid_reps": 2000
+          },
+          "log_loss": {
+            "ci95": [
+              -0.03145355784764894,
+              0.009040752526908589
+            ],
+            "valid_reps": 2000
+          }
+        }
+      },
+      "neighbor_rule_unfitted": {
+        "baseline": "post_utility_unfitted",
+        "point": {
+          "auroc": 0.015653038507162154,
+          "average_precision": 0.008219544540028934,
+          "log_loss": -0.18245454195953614
+        },
+        "bootstrap": {
+          "auroc": {
+            "ci95": [
+              -0.04080611058197023,
+              0.06519517925913636
+            ],
+            "valid_reps": 2000
+          },
+          "average_precision": {
+            "ci95": [
+              -0.019944394722550836,
+              0.04816834350048833
+            ],
+            "valid_reps": 2000
+          },
+          "log_loss": {
+            "ci95": [
+              -0.23213940915049047,
+              -0.1395780542499522
+            ],
+            "valid_reps": 2000
+          }
+        }
+      }
+    },
+    "states": 3240,
+    "rows": 44280,
+    "chips": 36
+  },
+  "random|y_ref|chip": {
+    "pooled": {
+      "prior": {
+        "n": 44280,
+        "positives": 3309,
+        "auroc": 0.6707099410820171,
+        "average_precision": 0.1349705009896938,
+        "log_loss": 0.26379586560743357,
+        "brier": 0.06917889650711326
+      },
+      "prior_feedback": {
+        "n": 44280,
+        "positives": 3309,
+        "auroc": 0.6810211726536572,
+        "average_precision": 0.1703439227472063,
+        "log_loss": 0.2704433992397923,
+        "brier": 0.07131619889946504
+      },
+      "prior_permuted_feedback": {
+        "n": 44280,
+        "positives": 3309,
+        "auroc": 0.6798860575811094,
+        "average_precision": 0.1637398020178864,
+        "log_loss": 0.2621884747363716,
+        "brier": 0.0684876481348699
+      },
+      "post_utility_unfitted": {
+        "n": 44280,
+        "positives": 3309,
+        "auroc": 0.696848825524963,
+        "average_precision": 0.2051479244586355,
+        "log_loss": 0.9283823534279099,
+        "brier": 0.303667284954331
+      },
+      "neighbor_rule_unfitted": {
+        "n": 44280,
+        "positives": 3309,
+        "auroc": 0.7125018640321251,
+        "average_precision": 0.21336746899866443,
+        "log_loss": 0.7459278114683737,
+        "brier": 0.24176755763129135
+      }
+    },
+    "per_event": {
+      "prior": {
+        "nepal-flooding": {
+          "n": 14760,
+          "positives": 2237,
+          "auroc": 0.6826241682224689,
+          "average_precision": 0.2913292995967268,
+          "log_loss": 0.4334742973039076,
+          "brier": 0.12416365256080737
+        },
+        "sunda-tsunami": {
+          "n": 14760,
+          "positives": 320,
+          "auroc": 0.4791053497229917,
+          "average_precision": 0.021643961601259743,
+          "log_loss": 0.15118937632418958,
+          "brier": 0.03168693503515877
+        },
+        "tuscaloosa-tornado": {
+          "n": 14760,
+          "positives": 752,
+          "auroc": 0.6540442885220603,
+          "average_precision": 0.07105946725981971,
+          "log_loss": 0.2067239231942036,
+          "brier": 0.05168610192537363
+        }
+      },
+      "prior_feedback": {
+        "nepal-flooding": {
+          "n": 14760,
+          "positives": 2237,
+          "auroc": 0.6732137498205805,
+          "average_precision": 0.2778137552277422,
+          "log_loss": 0.4660470854960483,
+          "brier": 0.13377968154244305
+        },
+        "sunda-tsunami": {
+          "n": 14760,
+          "positives": 320,
+          "auroc": 0.4785967797783934,
+          "average_precision": 0.02131250286109061,
+          "log_loss": 0.1517757299905412,
+          "brier": 0.032101162305275086
+        },
+        "tuscaloosa-tornado": {
+          "n": 14760,
+          "positives": 752,
+          "auroc": 0.6975417542559267,
+          "average_precision": 0.10837136957466201,
+          "log_loss": 0.19350738223278735,
+          "brier": 0.048067752850677
+        }
+      },
+      "prior_permuted_feedback": {
+        "nepal-flooding": {
+          "n": 14760,
+          "positives": 2237,
+          "auroc": 0.6811571848612143,
+          "average_precision": 0.30189168039362474,
+          "log_loss": 0.4275471738568646,
+          "brier": 0.12238315514902183
+        },
+        "sunda-tsunami": {
+          "n": 14760,
+          "positives": 320,
+          "auroc": 0.519529518698061,
+          "average_precision": 0.024835109592803408,
+          "log_loss": 0.14904765452599394,
+          "brier": 0.03171384398875014
+        },
+        "tuscaloosa-tornado": {
+          "n": 14760,
+          "positives": 752,
+          "auroc": 0.6475812263812776,
+          "average_precision": 0.0734131851485481,
+          "log_loss": 0.2099705958262563,
+          "brier": 0.05136594526683775
+        }
+      },
+      "post_utility_unfitted": {
+        "nepal-flooding": {
+          "n": 14760,
+          "positives": 2237,
+          "auroc": 0.6930154193530217,
+          "average_precision": 0.3752893953210106,
+          "log_loss": 0.7904034256243706,
+          "brier": 0.2812325739611563
+        },
+        "sunda-tsunami": {
+          "n": 14760,
+          "positives": 320,
+          "auroc": 0.5706725025969529,
+          "average_precision": 0.02358352438879314,
+          "log_loss": 1.074053479715561,
+          "brier": 0.3197971397922313
+        },
+        "tuscaloosa-tornado": {
+          "n": 14760,
+          "positives": 752,
+          "auroc": 0.7890778312848585,
+          "average_precision": 0.15601153217535907,
+          "log_loss": 0.9206901549437982,
+          "brier": 0.3099721411096055
+        }
+      },
+      "neighbor_rule_unfitted": {
+        "nepal-flooding": {
+          "n": 14760,
+          "positives": 2237,
+          "auroc": 0.7043363858243344,
+          "average_precision": 0.37622075808543165,
+          "log_loss": 0.7119416210689,
+          "brier": 0.24729967123826907
+        },
+        "sunda-tsunami": {
+          "n": 14760,
+          "positives": 320,
+          "auroc": 0.5684130453601108,
+          "average_precision": 0.02376868382647481,
+          "log_loss": 0.8212454749495021,
+          "brier": 0.24592508152298923
+        },
+        "tuscaloosa-tornado": {
+          "n": 14760,
+          "positives": 752,
+          "auroc": 0.7725236035335431,
+          "average_precision": 0.15366670126750334,
+          "log_loss": 0.7045963383867193,
+          "brier": 0.2320779201326157
+        }
+      }
+    },
+    "next_pick": {
+      "prior": {
+        "opportunity_states": 1206,
+        "hits": 753,
+        "rate": 0.6243781094527363
+      },
+      "prior_feedback": {
+        "opportunity_states": 1206,
+        "hits": 753,
+        "rate": 0.6243781094527363
+      },
+      "prior_permuted_feedback": {
+        "opportunity_states": 1206,
+        "hits": 729,
+        "rate": 0.6044776119402985
+      },
+      "post_utility_unfitted": {
+        "opportunity_states": 1206,
+        "hits": 683,
+        "rate": 0.5663349917081261
+      },
+      "neighbor_rule_unfitted": {
+        "opportunity_states": 1206,
+        "hits": 628,
+        "rate": 0.5207296849087893
+      }
+    },
+    "delta_vs_prior": {
+      "prior_feedback": {
+        "baseline": "prior",
+        "point": {
+          "auroc": 0.010311231571640156,
+          "average_precision": 0.03537342175751251,
+          "log_loss": 0.00664753363235876
+        },
+        "bootstrap": {
+          "auroc": {
+            "ci95": [
+              -0.015703744395862543,
+              0.030398986296338536
+            ],
+            "valid_reps": 2000
+          },
+          "average_precision": {
+            "ci95": [
+              -0.009885455158277281,
+              0.07888441988071407
+            ],
+            "valid_reps": 2000
+          },
+          "log_loss": {
+            "ci95": [
+              -0.004913674370616071,
+              0.021965487436181996
+            ],
+            "valid_reps": 2000
+          }
+        }
+      },
+      "prior_permuted_feedback": {
+        "baseline": "prior",
+        "point": {
+          "auroc": 0.009176116499092335,
+          "average_precision": 0.028769301028192612,
+          "log_loss": -0.0016073908710619866
+        },
+        "bootstrap": {
+          "auroc": {
+            "ci95": [
+              -0.020746758785596127,
+              0.032248835995490006
+            ],
+            "valid_reps": 2000
+          },
+          "average_precision": {
+            "ci95": [
+              -0.0023991813548893855,
+              0.06920421856597792
+            ],
+            "valid_reps": 2000
+          },
+          "log_loss": {
+            "ci95": [
+              -0.009606487486836573,
+              0.008116992229850356
+            ],
+            "valid_reps": 2000
+          }
+        }
+      },
+      "neighbor_rule_unfitted": {
+        "baseline": "post_utility_unfitted",
+        "point": {
+          "auroc": 0.015653038507162154,
+          "average_precision": 0.008219544540028934,
+          "log_loss": -0.18245454195953614
+        },
+        "bootstrap": {
+          "auroc": {
+            "ci95": [
+              -0.04080611058197023,
+              0.06519517925913636
+            ],
+            "valid_reps": 2000
+          },
+          "average_precision": {
+            "ci95": [
+              -0.019944394722550836,
+              0.04816834350048833
+            ],
+            "valid_reps": 2000
+          },
+          "log_loss": {
+            "ci95": [
+              -0.23213940915049047,
+              -0.1395780542499522
+            ],
+            "valid_reps": 2000
+          }
+        }
+      }
+    },
+    "states": 3240,
+    "rows": 44280,
+    "chips": 36
+  }
+}

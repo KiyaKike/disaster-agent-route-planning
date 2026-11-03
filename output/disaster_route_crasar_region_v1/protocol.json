@@ -1,0 +1,39 @@
+{
+  "date": "2026-11-03",
+  "revision": "4c2732a7ab9658517ca8caa69bfee9e1f87ca532",
+  "selection": "First lexicographic training UAS scene with published PRE and POST satellite metadata and all three files. Latest reported PRE;earliest POST then filename. No damage classes/scores used.",
+  "original_pecan_pair": "Both POST;cannot supply before/after condition.",
+  "eligible_train_scenes": 24,
+  "images": {
+    "uas": {
+      "Orthomosaic": "090402-DMS-Assessment-Sienna-Village.geo.tif",
+      "Train/Test": "Train",
+      "Source": "sUAS",
+      "Event": "Hurricane Harvey",
+      "Date (mm/dd/yyy)": "9/4/2017",
+      "Pre/Post Event": "POST",
+      "GSD (m/px)": "2.12E-02"
+    },
+    "pre": {
+      "Orthomosaic": "090402-DMS-Assessment-Sienna-Village.geo.tif_1030010066D17500.tif.geo.tif",
+      "Train/Test": "Train",
+      "Source": "Satellite",
+      "Event": "Hurricane Harvey",
+      "Date (mm/dd/yyy)": "2/16/2017",
+      "Pre/Post Event": "PRE",
+      "GSD (m/px)": "0.553224753"
+    },
+    "post": {
+      "Orthomosaic": "090402-DMS-Assessment-Sienna-Village.geo.tif_103001006F884000.tif.geo.tif",
+      "Train/Test": "Train",
+      "Source": "Satellite",
+      "Event": "Hurricane Harvey",
+      "Date (mm/dd/yyy)": "8/30/2017",
+      "Pre/Post Event": "POST",
+      "GSD (m/px)": "0.803628676"
+    }
+  },
+  "scope": "First geographic/temporal qualification. Capture dates are author catalog claims,not independently verified flight logs.",
+  "metadata_transfer_cap_per_image_bytes": 16777216,
+  "test_files_opened": false
+}

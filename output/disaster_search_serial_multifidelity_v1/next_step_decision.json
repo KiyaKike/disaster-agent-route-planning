@@ -1,0 +1,21 @@
+{
+  "basis_audit_sha256": "562250c9811f3ac4d1e92e9a1d0559c61d17a5b891e1f0df820f2853fb17eff7",
+  "basis_evidence_sha256": "f64df512654a49a275d85ae24b4b7cd1dfde82b6f39b8f51b175269d8358124c",
+  "do_not_advance_this_planner_as_new_method": true,
+  "full_grid_robustness_gate": "NOT_TESTED_ONLY_PRESPECIFIED_PRIMARY_SETTING",
+  "independent_data_gate": "NOT_ADMITTED_PER_METADATA_AUDIT",
+  "interpretation": "Record development evidence without tuning exploratory batch size or deeper lookahead. If real discovery fails the simple/one-stage controls, surrogate value gains do not justify continuing this planner.",
+  "new_method_selected": false,
+  "new_model_fit_enabled": false,
+  "next_work": [
+    "Freeze the one/two-stage controls and all positive/negative results; do not tune another planner on these72.",
+    "Prepare a concrete independent-data protocol for any geography/event generalization claim, retaining the SoCal/Woolsey overlap evidence and missing footprints.",
+    "Before a new method, settle observation/utility shift and the defensible evaluation scope; fuller literature baseline and cost/quality robustness cannot be declared solved by this primary-only adapter."
+  ],
+  "old_stopped_variants_remain_stopped": true,
+  "original_mfens_faithful_reproduction_gate": "NOT_CLAIMED_DIFFERENT_NOISY_SERIAL_TASK",
+  "paid_gpu_enabled": false,
+  "stage": "SERIAL_MULTIFIDELITY_PRIMARY_CONTROL_COMPLETED",
+  "two_stage_structure_implementation_gate": "PASS_SAME_INTERFACE_ENGINEERING_CONTROL",
+  "validation_or_confirmation_scoring_enabled": false
+}

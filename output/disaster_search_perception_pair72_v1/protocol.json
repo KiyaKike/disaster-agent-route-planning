@@ -1,0 +1,173 @@
+{
+  "call_cap": 578,
+  "call_inventory": {
+    "old_swin128_regression_controls": 2,
+    "r34512": 288,
+    "swint512": 288
+  },
+  "client_date": "2026-10-28",
+  "data_directory": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2",
+  "data_manifest_sha256": "a70646afabf0822b3adea609835ab95c1cfdb2e7f834d6d8173d38fa4b042346",
+  "events": 3,
+  "forward_order": "2oldSwincontrols, all72Swin scenes sortedID, then all72R34 scenes sortedID, four row-major tiles each; no unlogged warmup",
+  "input": {
+    "batch_size": 1,
+    "native_tile_size": 512,
+    "normalization": "Model-specific official RGB ImageNet float32 normalization",
+    "resize": false,
+    "scene_size": 1024,
+    "tile_bounds_xyxy": [
+      [
+        0,
+        0,
+        512,
+        512
+      ],
+      [
+        512,
+        0,
+        1024,
+        512
+      ],
+      [
+        0,
+        512,
+        512,
+        1024
+      ],
+      [
+        512,
+        512,
+        1024,
+        1024
+      ]
+    ],
+    "tta": false
+  },
+  "legacy128_secondary": {
+    "directory": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_perception_v1",
+    "interpretation": "Existing Swin128 native masks; severe-only metrics under same new post reference. Context differs; not a model comparison.",
+    "observations_sha256": "30aca3da060f9fd6acfdc6e73efea0c593360765b455150195cbfbc02f2556e2"
+  },
+  "limitations": [
+    "Already-open development data and prior experiments; training exposure expected for Swin, unknown forR34; no independent generalization claim.",
+    "Same ChangeOS family, different backbones/checkpoint generations; not a cross-architecture strong-baseline study.",
+    "512tiling is an offline perception diagnostic; not legal unpaid context for the old128 budgeted search.",
+    "Derived TACO IDs preserve source polygons but are not original UIDs; no new human annotations."
+  ],
+  "models": {
+    "r34": {
+      "README.upstream.md": "48e1b84f03df0611e27b9876bf3d7fc4ed1f8468ac59d9f5b1a4b201a87a7676",
+      "changeos_r34.pt": "3aa0520284ba5b2358b695732902295ef5fbc225b75ff1885a9eb41609c038d2",
+      "directory": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/changeos_r34_v02",
+      "format": "author-published TorchScript,5damage channels and1localization logit",
+      "license_file_at_pinned_root": "LICENSE returned404; no redistribution-rights claim",
+      "official_wrapper.py": "abe5e01193e920e5c68ff616ce90b3e9ec8a6f77aa262c47a9d127f2f1bf37af",
+      "source": "https://github.com/Z-Zheng/ChangeOS/releases/download/v0.2/changeos_r34.pt",
+      "source_commit": "7936b84aceb9c4b89e959690f3da28749b38d10c",
+      "training_sample_membership": "not supplied with release; event/sample exposure cannot be excluded"
+    },
+    "swint": {
+      "config.json": "dd452bc568ff31a4706687b83d2ce0712b136f23d22705834311592d98a31d23",
+      "directory": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/changeos_swint",
+      "model.safetensors": "81ae6386ceebe225ab6c072cb987b57312fdcfdb2a7f72ab9b30e5e8f1041cc4",
+      "source": "https://huggingface.co/EVER-Z/torchange_example_changeos_swint_on_xview2_best42k",
+      "torchange_commit": "190b07a2eb4c389a5dc3f72802c67f428cdfd6b7"
+    }
+  },
+  "new_imagery": false,
+  "not_official_xview2_score": "Post-reference only; missing original pre-localization polygons; do not call this official mixedF1 or instanceAP",
+  "paid_gpu": false,
+  "parent_receipt_sha256": "5d8ac4162c2a3f61a080041655e27ed08b57cd2f2bbe4887335b6a8defb3094d",
+  "positive_controls": [
+    {
+      "cell_id": "r07c04",
+      "event": "hurricane-harvey",
+      "images": [
+        {
+          "mode": "pre",
+          "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/hurricane-harvey_00000125/hurricane-harvey_00000125_pre_disaster.png",
+          "sha256": "8d572ee976b4a43511cef9824fd20e84015844f68ff970f3ada065bf42ee7524"
+        },
+        {
+          "mode": "post",
+          "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/hurricane-harvey_00000125/hurricane-harvey_00000125_post_disaster.png",
+          "sha256": "aa02ca17d0d831b36233b89e9c868651c8c924afe0e82f223f8ad7125d39437e"
+        }
+      ],
+      "legacy_cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_perception_v1/cache/hurricane-harvey_00000125_r07c04_native.npz",
+      "legacy_cache_sha256": "d3ab4afb595d7fe888ba923ce9a3301e63eac6beb1554015b3ebad6439fa10b3",
+      "legacy_severe_pixel_sha256": "2c902787d83c53a1c2b64b4d0ab8edc47ece0ddd5c5eb4c57c35dd7f6d63ceb8",
+      "legacy_severe_pixels": 3943,
+      "observation_id": "hurricane-harvey_00000125:r07c04:native",
+      "prepared_tensor_sha256": "f983bfc2be71bff8a9e8edc0a44e1a89975cf7a0b454eb4bb0533e017fddfe5f",
+      "prepared_tensor_shape": [
+        1,
+        6,
+        128,
+        128
+      ],
+      "sample_id": "hurricane-harvey_00000125"
+    },
+    {
+      "cell_id": "r05c01",
+      "event": "santa-rosa-wildfire",
+      "images": [
+        {
+          "mode": "pre",
+          "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000025/santa-rosa-wildfire_00000025_pre_disaster.png",
+          "sha256": "d4010886f53fbc7f7b362cf23c2b13f839912de608cd2f026e1066159044bdfb"
+        },
+        {
+          "mode": "post",
+          "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000025/santa-rosa-wildfire_00000025_post_disaster.png",
+          "sha256": "bc3097775b2a07cabcddfc78de0e103c55700fc342858f4b54b700ce2ebd2ea6"
+        }
+      ],
+      "legacy_cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_perception_v1/cache/santa-rosa-wildfire_00000025_r05c01_native.npz",
+      "legacy_cache_sha256": "3596e6fa70ea2c8a01c95026b8aa8c6ce472d52903a6becb15a542f2649ed3e3",
+      "legacy_severe_pixel_sha256": "c72372f5074262637fb04104bbd2b0defd0742e8e821e343ebb20f53775749f6",
+      "legacy_severe_pixels": 1379,
+      "observation_id": "santa-rosa-wildfire_00000025:r05c01:native",
+      "prepared_tensor_sha256": "b1ff1f4c04a7b92d51b5ac2985eb7550185167134e5a76cddca45bbaf6f68e28",
+      "prepared_tensor_shape": [
+        1,
+        6,
+        128,
+        128
+      ],
+      "sample_id": "santa-rosa-wildfire_00000025"
+    }
+  ],
+  "preview_ids": [
+    "hurricane-harvey_00000013",
+    "hurricane-harvey_00000065",
+    "mexico-earthquake_00000014",
+    "mexico-earthquake_00000081",
+    "santa-rosa-wildfire_00000013",
+    "santa-rosa-wildfire_00000008"
+  ],
+  "preview_selection": "For each event, firstID with and without severe reference; fixed before predictions; qualitative only",
+  "primary_decoder": "Swin loc>.5 probability; R34 loc>0 logit; damage argmax over5 channels; raw classes multiplied by predicted building mask",
+  "primary_metrics": "Severe classes3or4 pooled pixel precision/recall/F1 and FP; primary comparison equal-event macroF1; per-event results mandatory",
+  "prospective_decision": "Report both checkpoints and per-event failures. A higher development macroF1 can inform a working detector only; no threshold fitting, new method claim or reserved-set use. Do not restart EBD input/planner variants.",
+  "reference": "Existing post polygons; np.round vertices and cv2.fillPoly; background0,grades1..4,unknown255. Conflicting known class overlaps and all unknown footprints ignored. Existing +/-0.5pixel boundary tolerance; OpenCV clips only at raster boundary.",
+  "reference_manifest_sha256": "72735ec2234d91f86ad9a0ddaec3f4dc1f391bffc5f3407d7950dfec976d0a44",
+  "reserved_sets_enabled": false,
+  "rgb_jobs_sha256": "8edfc905d21913e53b8f35e4cff50f60c6689492a7def82d2777615c3c74fd06",
+  "samples": 72,
+  "secondary_decoder": "Common scene-level8-connected weighted damage vote, weights[8,38,25,11]; no ground-truth objects used",
+  "source_code_sha256": {
+    "build_xbd_mini.py": "080c23c373b59827acf78f3bfd421c85a14e6407094ce871dfaeed5e55c3e501",
+    "extract_external_area_masks.py": "17bd552aaaea712f3385bffe48d3d649ba03f0b9dfb9183de00f051dae80e3ea",
+    "perception_pair72_core.py": "8a1bba44385019c7a24aec6d4bf3b09fedc326b4a24772bff223b36a6237b6e3",
+    "plan_search_v2.py": "3f88219832ca8d3939d5cbc38919974d1932f4b941e1248c208534493254b83b",
+    "run_changeos_pilot.py": "158d2dd0e87f3baa46a9fd24b55b77ef000b2921aa311df37ead01af758f00d7",
+    "run_perception_pair72.py": "626691bb9bd00d4143043558774ad6464f405c11598e4dab755f006b393b5179",
+    "test_perception_pair72.py": "a94f482aec3aadaa4f96b2cfe5aa37a1095dbb15bb00c13a93dd1c5f5261c23d"
+  },
+  "stage": "XBD_DEVELOPMENT72_PAIRED_CHECKPOINT_PIXEL_DIAGNOSTIC",
+  "test_log_sha256": "17047898276cb8b742f31ef2c2a56b50ba4959e27b57cdc02a8bd75d45c5e3a1",
+  "tests_passed_before_production": 338,
+  "training": false
+}

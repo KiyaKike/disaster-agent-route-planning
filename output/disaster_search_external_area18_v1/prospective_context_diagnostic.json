@@ -1,0 +1,12 @@
+{
+  "fixed_cohort": "All18 pairs, including all zero-reference and zero-opportunity scenes; no favorable-scene replacement.",
+  "information_warning": "Whole512px pairs contain unpurchased high-resolution context. This is an offline diagnostic with full-scene information, not a legal budget8 search policy or a claimed cost saving.",
+  "interpretation": "A difference can implicate context/scale; it does not independently validate reference semantics or establish a novel method.",
+  "paid_gpu_or_training": false,
+  "positive_control": "Before blaming domain shift, reproduce a prespecified already-used development crop whose old canonical prediction was positive; verify crop/tensor/code/model lineage. Not a new evaluation sample.",
+  "possible_followup": "Only if evidence supports an input-context effect, preregister a separate comparison of128-to512 scaling and free-coarse-context plus paid-native-cell input. Do not train or tune to these labels.",
+  "question": "Does the128px crop interface, rather than a usable search rule, explain loss of published-reference overlap?",
+  "source_evidence_sha256": "0258433955f255e896ad5c7bcb65760711df16c80be4f07c90db426f3a481082",
+  "stage1": "Same fixed checkpoint on whole512x512 native pairs,18forward calls. Compare full-scene output with mosaic of16cached native128px crops and their reference overlaps.",
+  "status": "PROSPECTIVE_NOT_EXECUTED"
+}

@@ -1,0 +1,20 @@
+/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/.venv_inference/lib/python3.12/site-packages/torch/amp/autocast_mode.py:270: UserWarning: User provided device_type of 'cuda', but CUDA is not available. Disabling
+  warnings.warn(
+{"sample_id": "EARTHQUAKE-TURKEY_000237", "whole_scenes_complete": 1, "device": "mps"}
+{"sample_id": "EARTHQUAKE-TURKEY_003472", "whole_scenes_complete": 2, "device": "mps"}
+{"sample_id": "EARTHQUAKE-TURKEY_005459", "whole_scenes_complete": 3, "device": "mps"}
+{"sample_id": "EARTHQUAKE-TURKEY_006807", "whole_scenes_complete": 4, "device": "mps"}
+{"sample_id": "EARTHQUAKE-TURKEY_012987", "whole_scenes_complete": 5, "device": "mps"}
+{"sample_id": "EARTHQUAKE-TURKEY_015741", "whole_scenes_complete": 6, "device": "mps"}
+{"sample_id": "PAKISTAN-FLOODING_003197", "whole_scenes_complete": 7, "device": "mps"}
+{"sample_id": "PAKISTAN-FLOODING_004697", "whole_scenes_complete": 8, "device": "mps"}
+{"sample_id": "PAKISTAN-FLOODING_006998", "whole_scenes_complete": 9, "device": "mps"}
+{"sample_id": "PAKISTAN-FLOODING_013475", "whole_scenes_complete": 10, "device": "mps"}
+{"sample_id": "PAKISTAN-FLOODING_014536", "whole_scenes_complete": 11, "device": "mps"}
+{"sample_id": "PAKISTAN-FLOODING_017841", "whole_scenes_complete": 12, "device": "mps"}
+{"sample_id": "TEXAS-TORNADOES_000325", "whole_scenes_complete": 13, "device": "mps"}
+{"sample_id": "TEXAS-TORNADOES_002697", "whole_scenes_complete": 14, "device": "mps"}
+{"sample_id": "TEXAS-TORNADOES_002969", "whole_scenes_complete": 15, "device": "mps"}
+{"sample_id": "TEXAS-TORNADOES_003987", "whole_scenes_complete": 16, "device": "mps"}
+{"sample_id": "TEXAS-TORNADOES_004417", "whole_scenes_complete": 17, "device": "mps"}
+{"sample_id": "TEXAS-TORNADOES_004813", "whole_scenes_complete": 18, "device": "mps"}

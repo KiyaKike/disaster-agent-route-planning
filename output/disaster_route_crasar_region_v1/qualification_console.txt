@@ -1,0 +1,62 @@
+{
+  "region": "090402-DMS-Assessment-Sienna-Village.geo.tif",
+  "capture_dates_author_catalog": {
+    "uas": "2017-09-04",
+    "pre": "2017-02-16",
+    "post": "2017-08-30"
+  },
+  "temporal_scope": "Published PRE/POST roles; UAS minus POST satellite gap5days. Dates are author metadata,not flight logs.",
+  "roi_area_m2": 16384,
+  "rgb_nonzero_support_fraction": {
+    "pre": 0.7071542739868164,
+    "post": 0.7103891372680664,
+    "uas": 0.7101945877075195
+  },
+  "shared_ids_all": 16,
+  "centroids_inside": 9,
+  "geometry_eligible": 1,
+  "private_eligible_label_histograms": {
+    "pre": {
+      "no damage": 1
+    },
+    "post": {
+      "no damage": 1
+    },
+    "uas": {
+      "no damage": 1
+    }
+  },
+  "eligible_primary_targets": 0,
+  "internal_coordinate_checks": {
+    "pre": {
+      "median_vertex_residual_native_px": 0.8223582392236588,
+      "max_vertex_residual_native_px": 1.3406508604132807,
+      "scope": "Internal polygon-coordinate consistency only, not image registration or survey accuracy"
+    },
+    "post": {
+      "median_vertex_residual_native_px": 0.8244496715041167,
+      "max_vertex_residual_native_px": 1.28075713741761,
+      "scope": "Internal polygon-coordinate consistency only, not image registration or survey accuracy"
+    },
+    "uas": {
+      "median_vertex_residual_native_px": 0.7980000906907943,
+      "max_vertex_residual_native_px": 1.3976302276339678,
+      "scope": "Internal polygon-coordinate consistency only, not image registration or survey accuracy"
+    }
+  },
+  "image_feature_diagnostics": {
+    "pre_to_uas": {
+      "status": "INSUFFICIENT_MATCHES",
+      "matches": 2
+    },
+    "post_to_uas": {
+      "status": "INSUFFICIENT_MATCHES",
+      "matches": 1
+    }
+  },
+  "task_gate": "NO_PRIMARY_TARGETS",
+  "flight_execution_gate": "NOT_ESTABLISHED:no trajectory,pose,altitude,camera footprint,measured service/energy cost",
+  "new_model_calls": 0,
+  "method_gain_established": false,
+  "protocol_sha256": "c65ef85c7c13ad74efff5a3d6be434e981a0c0a59d74563a54697fa7ce5bbe00"
+}

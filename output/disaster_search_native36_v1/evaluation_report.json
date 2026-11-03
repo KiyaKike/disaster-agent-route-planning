@@ -1,0 +1,12 @@
+{
+  "controller_fitting": false,
+  "exact_random_scene_domain_scores": 432,
+  "full_coverage_scores": 144,
+  "new36_only": true,
+  "old18_pooled": false,
+  "paid_acquisitions": 12600,
+  "ranked_domain_scores": 4320,
+  "ranked_records": 2160,
+  "scene_domain_policy_means": 864,
+  "trajectory_sha256": "295839131cc883c194df2a1ddecc55009c775b3882aaafd5dda65b89c106adc8"
+}

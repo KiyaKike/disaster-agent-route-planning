@@ -1,0 +1,616 @@
+{
+  "dataset_server_info_note": "Info endpoint marked partial; use all pinned shard row counts and IDs, not viewer subset counts.",
+  "event_counts": {
+    "hold": {
+      "guatemala-volcano": 5,
+      "hurricane-florence": 119,
+      "hurricane-harvey": 95,
+      "hurricane-matthew": 94,
+      "hurricane-michael": 109,
+      "mexico-earthquake": 34,
+      "midwest-flooding": 86,
+      "palu-tsunami": 41,
+      "santa-rosa-wildfire": 77,
+      "socal-fire": 273
+    },
+    "test": {
+      "guatemala-volcano": 5,
+      "hurricane-florence": 108,
+      "hurricane-harvey": 108,
+      "hurricane-matthew": 73,
+      "hurricane-michael": 98,
+      "mexico-earthquake": 38,
+      "midwest-flooding": 80,
+      "palu-tsunami": 42,
+      "santa-rosa-wildfire": 74,
+      "socal-fire": 307
+    },
+    "tier3": {
+      "joplin-tornado": 148,
+      "lower-puna-volcano": 183,
+      "moore-tornado": 222,
+      "nepal-flooding": 576,
+      "pinery-bushfire": 479,
+      "portugal-wildfire": 975,
+      "sunda-tsunami": 105,
+      "tuscaloosa-tornado": 288,
+      "woolsey-fire": 402
+    },
+    "train": {
+      "guatemala-volcano": 18,
+      "hurricane-florence": 319,
+      "hurricane-harvey": 319,
+      "hurricane-matthew": 238,
+      "hurricane-michael": 343,
+      "mexico-earthquake": 121,
+      "midwest-flooding": 279,
+      "palu-tsunami": 113,
+      "santa-rosa-wildfire": 226,
+      "socal-fire": 823
+    }
+  },
+  "hold_count_in_checkpoint_selection_test": 0,
+  "hold_count_in_training_pool": 0,
+  "hold_events_also_in_training_pool": [
+    "guatemala-volcano",
+    "hurricane-florence",
+    "hurricane-harvey",
+    "hurricane-matthew",
+    "hurricane-michael",
+    "mexico-earthquake",
+    "midwest-flooding",
+    "palu-tsunami",
+    "santa-rosa-wildfire",
+    "socal-fire"
+  ],
+  "hold_has_original_polygon_uid_fields_in_published_schema": false,
+  "hold_ids_present_in_loose_mirror": 0,
+  "image_or_mask_columns_read": false,
+  "loose_mirror_mapping": {
+    "test": {
+      "hold": 0,
+      "test": 933,
+      "tier3": 0,
+      "train": 0
+    },
+    "train": {
+      "hold": 0,
+      "test": 0,
+      "tier3": 0,
+      "train": 2799
+    }
+  },
+  "mini_count_in_training_pool": 72,
+  "mini_memberships": [
+    {
+      "author_splits": [
+        "train"
+      ],
+      "mini_split": "calibration",
+      "sample_id": "hurricane-harvey_00000392"
+    },
+    {
+      "author_splits": [
+        "train"
+      ],
+      "mini_split": "calibration",
+      "sample_id": "hurricane-harvey_00000406"
+    },
+    {
+      "author_splits": [
+        "train"
+      ],
+      "mini_split": "calibration",
+      "sample_id": "hurricane-harvey_00000098"
+    },
+    {
+      "author_splits": [
+        "train"
+      ],
+      "mini_split": "calibration",
+      "sample_id": "hurricane-harvey_00000242"
+    },
+    {
+      "author_splits": [
+        "train"
+      ],
+      "mini_split": "calibration",
+      "sample_id": "hurricane-harvey_00000066"
+    },
+    {
+      "author_splits": [
+        "train"
+      ],
+      "mini_split": "calibration",
+      "sample_id": "hurricane-harvey_00000158"
+    },
+    {
+      "author_splits": [
+        "train"
+      ],
+      "mini_split": "calibration",
+      "sample_id": "hurricane-harvey_00000189"
+    },
+    {
+      "author_splits": [
+        "train"
+      ],
+      "mini_split": "calibration",
+      "sample_id": "hurricane-harvey_00000008"
+    },
+    {
+      "author_splits": [
+        "train"
+      ],
+      "mini_split": "calibration",
+      "sample_id": "hurricane-harvey_00000085"
+    },
+    {
+      "author_splits": [
+        "train"
+      ],
+      "mini_split": "calibration",
+      "sample_id": "hurricane-harvey_00000268"
+    },
+    {
+      "author_splits": [
+        "train"
+      ],
+      "mini_split": "calibration",
+      "sample_id": "hurricane-harvey_00000178"
+    },
+    {
+      "author_splits": [
+        "train"
+      ],
+      "mini_split": "calibration",
+      "sample_id": "hurricane-harvey_00000505"
+    },
+    {
+      "author_splits": [
+        "train"
+      ],
+      "mini_split": "calibration",
+      "sample_id": "santa-rosa-wildfire_00000220"
+    },
+    {
+      "author_splits": [
+        "train"
+      ],
+      "mini_split": "calibration",
+      "sample_id": "santa-rosa-wildfire_00000125"
+    },
+    {
+      "author_splits": [
+        "train"
+      ],
+      "mini_split": "calibration",
+      "sample_id": "santa-rosa-wildfire_00000079"
+    },
+    {
+      "author_splits": [
+        "train"
+      ],
+      "mini_split": "calibration",
+      "sample_id": "santa-rosa-wildfire_00000023"
+    },
+    {
+      "author_splits": [
+        "train"
+      ],
+      "mini_split": "calibration",
+      "sample_id": "santa-rosa-wildfire_00000056"
+    },
+    {
+      "author_splits": [
+        "train"
+      ],
+      "mini_split": "calibration",
+      "sample_id": "santa-rosa-wildfire_00000196"
+    },
+    {
+      "author_splits": [
+        "train"
+      ],
+      "mini_split": "calibration",
+      "sample_id": "santa-rosa-wildfire_00000177"
+    },
+    {
+      "author_splits": [
+        "train"
+      ],
+      "mini_split": "calibration",
+      "sample_id": "santa-rosa-wildfire_00000151"
+    },
+    {
+      "author_splits": [
+        "train"
+      ],
+      "mini_split": "calibration",
+      "sample_id": "santa-rosa-wildfire_00000169"
+    },
+    {
+      "author_splits": [
+        "train"
+      ],
+      "mini_split": "calibration",
+      "sample_id": "santa-rosa-wildfire_00000182"
+    },
+    {
+      "author_splits": [
+        "train"
+      ],
+      "mini_split": "calibration",
+      "sample_id": "santa-rosa-wildfire_00000035"
+    },
+    {
+      "author_splits": [
+        "train"
+      ],
+      "mini_split": "calibration",
+      "sample_id": "santa-rosa-wildfire_00000039"
+    },
+    {
+      "author_splits": [
+        "train"
+      ],
+      "mini_split": "validation",
+      "sample_id": "hurricane-michael_00000341"
+    },
+    {
+      "author_splits": [
+        "train"
+      ],
+      "mini_split": "validation",
+      "sample_id": "hurricane-michael_00000184"
+    },
+    {
+      "author_splits": [
+        "train"
+      ],
+      "mini_split": "validation",
+      "sample_id": "hurricane-michael_00000275"
+    },
+    {
+      "author_splits": [
+        "train"
+      ],
+      "mini_split": "validation",
+      "sample_id": "hurricane-michael_00000135"
+    },
+    {
+      "author_splits": [
+        "train"
+      ],
+      "mini_split": "validation",
+      "sample_id": "hurricane-michael_00000484"
+    },
+    {
+      "author_splits": [
+        "train"
+      ],
+      "mini_split": "validation",
+      "sample_id": "hurricane-michael_00000059"
+    },
+    {
+      "author_splits": [
+        "train"
+      ],
+      "mini_split": "validation",
+      "sample_id": "hurricane-michael_00000546"
+    },
+    {
+      "author_splits": [
+        "train"
+      ],
+      "mini_split": "validation",
+      "sample_id": "hurricane-michael_00000039"
+    },
+    {
+      "author_splits": [
+        "train"
+      ],
+      "mini_split": "validation",
+      "sample_id": "hurricane-michael_00000357"
+    },
+    {
+      "author_splits": [
+        "train"
+      ],
+      "mini_split": "validation",
+      "sample_id": "hurricane-michael_00000452"
+    },
+    {
+      "author_splits": [
+        "train"
+      ],
+      "mini_split": "validation",
+      "sample_id": "hurricane-michael_00000430"
+    },
+    {
+      "author_splits": [
+        "train"
+      ],
+      "mini_split": "validation",
+      "sample_id": "hurricane-michael_00000220"
+    },
+    {
+      "author_splits": [
+        "train"
+      ],
+      "mini_split": "validation",
+      "sample_id": "mexico-earthquake_00000064"
+    },
+    {
+      "author_splits": [
+        "train"
+      ],
+      "mini_split": "validation",
+      "sample_id": "mexico-earthquake_00000072"
+    },
+    {
+      "author_splits": [
+        "train"
+      ],
+      "mini_split": "validation",
+      "sample_id": "mexico-earthquake_00000078"
+    },
+    {
+      "author_splits": [
+        "train"
+      ],
+      "mini_split": "validation",
+      "sample_id": "mexico-earthquake_00000166"
+    },
+    {
+      "author_splits": [
+        "train"
+      ],
+      "mini_split": "validation",
+      "sample_id": "mexico-earthquake_00000115"
+    },
+    {
+      "author_splits": [
+        "train"
+      ],
+      "mini_split": "validation",
+      "sample_id": "mexico-earthquake_00000000"
+    },
+    {
+      "author_splits": [
+        "train"
+      ],
+      "mini_split": "validation",
+      "sample_id": "mexico-earthquake_00000089"
+    },
+    {
+      "author_splits": [
+        "train"
+      ],
+      "mini_split": "validation",
+      "sample_id": "mexico-earthquake_00000159"
+    },
+    {
+      "author_splits": [
+        "train"
+      ],
+      "mini_split": "validation",
+      "sample_id": "mexico-earthquake_00000160"
+    },
+    {
+      "author_splits": [
+        "train"
+      ],
+      "mini_split": "validation",
+      "sample_id": "mexico-earthquake_00000118"
+    },
+    {
+      "author_splits": [
+        "train"
+      ],
+      "mini_split": "validation",
+      "sample_id": "mexico-earthquake_00000013"
+    },
+    {
+      "author_splits": [
+        "train"
+      ],
+      "mini_split": "validation",
+      "sample_id": "mexico-earthquake_00000168"
+    },
+    {
+      "author_splits": [
+        "train"
+      ],
+      "mini_split": "test",
+      "sample_id": "midwest-flooding_00000430"
+    },
+    {
+      "author_splits": [
+        "train"
+      ],
+      "mini_split": "test",
+      "sample_id": "midwest-flooding_00000130"
+    },
+    {
+      "author_splits": [
+        "train"
+      ],
+      "mini_split": "test",
+      "sample_id": "midwest-flooding_00000170"
+    },
+    {
+      "author_splits": [
+        "train"
+      ],
+      "mini_split": "test",
+      "sample_id": "midwest-flooding_00000109"
+    },
+    {
+      "author_splits": [
+        "train"
+      ],
+      "mini_split": "test",
+      "sample_id": "midwest-flooding_00000177"
+    },
+    {
+      "author_splits": [
+        "train"
+      ],
+      "mini_split": "test",
+      "sample_id": "midwest-flooding_00000021"
+    },
+    {
+      "author_splits": [
+        "train"
+      ],
+      "mini_split": "test",
+      "sample_id": "midwest-flooding_00000114"
+    },
+    {
+      "author_splits": [
+        "train"
+      ],
+      "mini_split": "test",
+      "sample_id": "midwest-flooding_00000018"
+    },
+    {
+      "author_splits": [
+        "train"
+      ],
+      "mini_split": "test",
+      "sample_id": "midwest-flooding_00000139"
+    },
+    {
+      "author_splits": [
+        "train"
+      ],
+      "mini_split": "test",
+      "sample_id": "midwest-flooding_00000276"
+    },
+    {
+      "author_splits": [
+        "train"
+      ],
+      "mini_split": "test",
+      "sample_id": "midwest-flooding_00000079"
+    },
+    {
+      "author_splits": [
+        "train"
+      ],
+      "mini_split": "test",
+      "sample_id": "midwest-flooding_00000196"
+    },
+    {
+      "author_splits": [
+        "train"
+      ],
+      "mini_split": "test",
+      "sample_id": "socal-fire_00001337"
+    },
+    {
+      "author_splits": [
+        "train"
+      ],
+      "mini_split": "test",
+      "sample_id": "socal-fire_00000429"
+    },
+    {
+      "author_splits": [
+        "train"
+      ],
+      "mini_split": "test",
+      "sample_id": "socal-fire_00000354"
+    },
+    {
+      "author_splits": [
+        "train"
+      ],
+      "mini_split": "test",
+      "sample_id": "socal-fire_00001334"
+    },
+    {
+      "author_splits": [
+        "train"
+      ],
+      "mini_split": "test",
+      "sample_id": "socal-fire_00000296"
+    },
+    {
+      "author_splits": [
+        "train"
+      ],
+      "mini_split": "test",
+      "sample_id": "socal-fire_00000698"
+    },
+    {
+      "author_splits": [
+        "train"
+      ],
+      "mini_split": "test",
+      "sample_id": "socal-fire_00001318"
+    },
+    {
+      "author_splits": [
+        "train"
+      ],
+      "mini_split": "test",
+      "sample_id": "socal-fire_00001083"
+    },
+    {
+      "author_splits": [
+        "train"
+      ],
+      "mini_split": "test",
+      "sample_id": "socal-fire_00000932"
+    },
+    {
+      "author_splits": [
+        "train"
+      ],
+      "mini_split": "test",
+      "sample_id": "socal-fire_00000969"
+    },
+    {
+      "author_splits": [
+        "train"
+      ],
+      "mini_split": "test",
+      "sample_id": "socal-fire_00000265"
+    },
+    {
+      "author_splits": [
+        "train"
+      ],
+      "mini_split": "test",
+      "sample_id": "socal-fire_00000781"
+    }
+  ],
+  "network_bytes_this_run": 3368933,
+  "pairwise_id_overlaps": {
+    "hold|test": 0,
+    "hold|tier3": 0,
+    "hold|train": 0,
+    "test|tier3": 0,
+    "test|train": 0,
+    "tier3|train": 0
+  },
+  "per_image_pixel_hashes_verified": false,
+  "projected_columns": [
+    "image_name"
+  ],
+  "protocol_sha256": "d74ba0114d285cfe8ef888cdd00632d396006e838682efd65cf6bdc2163cc279",
+  "revision": "cda47e44377258222166dac63a85068e8bdca446",
+  "scope": "Exact canonical-ID membership from the pinned author file columns, combined with author's documented training/selection roles. Does not prove byte identity, geographic separation or unseen-event generalization.",
+  "shards_read": 50,
+  "source_repo": "EVER-Z/torchange_xView2",
+  "split_counts": {
+    "hold": 933,
+    "test": 933,
+    "tier3": 3378,
+    "train": 2799
+  },
+  "stage": "AUTHOR_SPLIT_IDENTITY_ADMISSION_AUDIT",
+  "successful_metadata_read_bytes_in_cached_shards": 3368933
+}

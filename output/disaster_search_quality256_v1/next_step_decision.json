@@ -1,0 +1,41 @@
+{
+  "blur_not_retuned": true,
+  "budget8_initial_cost": 4,
+  "budget8_revisit_feasible": false,
+  "decision": "STOP_THIS_SYNTHETIC_BLUR_MIXED_QUALITY_CANDIDATE",
+  "domain_screens": [
+    {
+      "checks": {
+        "both_positive_events_have_blurred_reference_overlap": false,
+        "two_reference_positive_events_retained": true
+      },
+      "domain": "all_published_pixels",
+      "passed": false,
+      "reference_positive_events": [
+        "EARTHQUAKE-TURKEY",
+        "PAKISTAN-FLOODING"
+      ]
+    },
+    {
+      "checks": {
+        "both_positive_events_have_blurred_reference_overlap": false,
+        "two_reference_positive_events_retained": true
+      },
+      "domain": "both_dates_nonzero",
+      "passed": false,
+      "reference_positive_events": [
+        "EARTHQUAKE-TURKEY",
+        "PAKISTAN-FLOODING"
+      ]
+    }
+  ],
+  "independent_efficacy_claim": false,
+  "native_only_footprint_result_preserved": true,
+  "native_upgrade_cost": 8,
+  "new_fitting_enabled": false,
+  "new_method_selected": false,
+  "new_search_runs": 0,
+  "primary_domain": "all_published_pixels",
+  "primary_screen_passed": false,
+  "secondary_input_not_substituted": true
+}

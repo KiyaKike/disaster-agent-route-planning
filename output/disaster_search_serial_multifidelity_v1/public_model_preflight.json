@@ -1,0 +1,158 @@
+{
+  "artificial_states_only": true,
+  "budget": 32,
+  "evaluator_read": false,
+  "features_sha256": "ce768154dd129816ff5ecf30042fbd60e621e04a0e93dcad90f36cdc42cb2e27",
+  "models_sha256": "c9566ab3c6aaa920e1baf62d3093c28e6bea121e5d85c8c78965b01d59390350",
+  "outcome_cache_read": false,
+  "records": [
+    {
+      "counterfactual_value_queries": 76,
+      "fit_key": "development_fit",
+      "queries_with_positive_proxy_gain": 72,
+      "sample_id": "hurricane-harvey_00000013",
+      "tail_cache": {
+        "currsize": 2104,
+        "hits": 1645,
+        "maxsize": 50000,
+        "misses": 2104
+      }
+    },
+    {
+      "counterfactual_value_queries": 73,
+      "fit_key": "development_fit",
+      "queries_with_positive_proxy_gain": 71,
+      "sample_id": "hurricane-harvey_00000014",
+      "tail_cache": {
+        "currsize": 1925,
+        "hits": 1501,
+        "maxsize": 50000,
+        "misses": 1925
+      }
+    },
+    {
+      "counterfactual_value_queries": 71,
+      "fit_key": "development_fit",
+      "queries_with_positive_proxy_gain": 71,
+      "sample_id": "hurricane-harvey_00000065",
+      "tail_cache": {
+        "currsize": 1697,
+        "hits": 1348,
+        "maxsize": 50000,
+        "misses": 1697
+      }
+    },
+    {
+      "counterfactual_value_queries": 83,
+      "fit_key": "held_hurricane-harvey",
+      "queries_with_positive_proxy_gain": 81,
+      "sample_id": "hurricane-harvey_00000013",
+      "tail_cache": {
+        "currsize": 2004,
+        "hits": 1458,
+        "maxsize": 50000,
+        "misses": 2004
+      }
+    },
+    {
+      "counterfactual_value_queries": 75,
+      "fit_key": "held_hurricane-harvey",
+      "queries_with_positive_proxy_gain": 75,
+      "sample_id": "hurricane-harvey_00000014",
+      "tail_cache": {
+        "currsize": 2285,
+        "hits": 2321,
+        "maxsize": 50000,
+        "misses": 2285
+      }
+    },
+    {
+      "counterfactual_value_queries": 70,
+      "fit_key": "held_hurricane-harvey",
+      "queries_with_positive_proxy_gain": 70,
+      "sample_id": "hurricane-harvey_00000065",
+      "tail_cache": {
+        "currsize": 2108,
+        "hits": 2308,
+        "maxsize": 50000,
+        "misses": 2108
+      }
+    },
+    {
+      "counterfactual_value_queries": 75,
+      "fit_key": "held_mexico-earthquake",
+      "queries_with_positive_proxy_gain": 67,
+      "sample_id": "hurricane-harvey_00000013",
+      "tail_cache": {
+        "currsize": 2211,
+        "hits": 1759,
+        "maxsize": 50000,
+        "misses": 2211
+      }
+    },
+    {
+      "counterfactual_value_queries": 80,
+      "fit_key": "held_mexico-earthquake",
+      "queries_with_positive_proxy_gain": 75,
+      "sample_id": "hurricane-harvey_00000014",
+      "tail_cache": {
+        "currsize": 2073,
+        "hits": 1676,
+        "maxsize": 50000,
+        "misses": 2073
+      }
+    },
+    {
+      "counterfactual_value_queries": 74,
+      "fit_key": "held_mexico-earthquake",
+      "queries_with_positive_proxy_gain": 74,
+      "sample_id": "hurricane-harvey_00000065",
+      "tail_cache": {
+        "currsize": 1809,
+        "hits": 1381,
+        "maxsize": 50000,
+        "misses": 1809
+      }
+    },
+    {
+      "counterfactual_value_queries": 74,
+      "fit_key": "held_santa-rosa-wildfire",
+      "queries_with_positive_proxy_gain": 70,
+      "sample_id": "hurricane-harvey_00000013",
+      "tail_cache": {
+        "currsize": 1970,
+        "hits": 1466,
+        "maxsize": 50000,
+        "misses": 1970
+      }
+    },
+    {
+      "counterfactual_value_queries": 77,
+      "fit_key": "held_santa-rosa-wildfire",
+      "queries_with_positive_proxy_gain": 73,
+      "sample_id": "hurricane-harvey_00000014",
+      "tail_cache": {
+        "currsize": 1961,
+        "hits": 1484,
+        "maxsize": 50000,
+        "misses": 1961
+      }
+    },
+    {
+      "counterfactual_value_queries": 69,
+      "fit_key": "held_santa-rosa-wildfire",
+      "queries_with_positive_proxy_gain": 68,
+      "sample_id": "hurricane-harvey_00000065",
+      "tail_cache": {
+        "currsize": 1410,
+        "hits": 1011,
+        "maxsize": 50000,
+        "misses": 1410
+      }
+    }
+  ],
+  "scenario": "mixed_survey",
+  "stage": "PUBLIC_MODEL_ONLY_ENGINEERING_PREFLIGHT",
+  "upgrade_cost": 2,
+  "wall_s": 0.3895174580102321
+}

@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-03",
+  "revision": "4c2732a7ab9658517ca8caa69bfee9e1f87ca532",
+  "selection": "First lexicographic training UAS scene with published PRE and POST satellite metadata and all three files. Latest reported PRE;earliest POST then filename. No damage classes/scores used.",
+  "original_pecan_pair": "Both POST;cannot supply before/after condition.",
+  "eligible_train_scenes": 24,
+  "selected_zero_based_rank": 4,
+  "images": {
+    "uas": {
+      "Orthomosaic": "1001-Kennedy-Green-Mobile-Homes.geo.tif",
+      "Train/Test": "Train",
+      "Source": "sUAS",
+      "Event": "Hurricane Ian",
+      "Date (mm/dd/yyy)": "10/1/2022",
+      "Pre/Post Event": "POST",
+      "GSD (m/px)": "0.03458574"
+    },
+    "pre": {
+      "Orthomosaic": "1001-Kennedy-Green-Mobile-Homes.geo.tif_10200100B01E7400-visual.tif.geo.tif",
+      "Train/Test": "Train",
+      "Source": "Satellite",
+      "Event": "Hurricane Ian",
+      "Date (mm/dd/yyy)": "5/7/2021",
+      "Pre/Post Event": "PRE",
+      "GSD (m/px)": "0.305175781"
+    },
+    "post": {
+      "Orthomosaic": "1001-Kennedy-Green-Mobile-Homes.geo.tif_10300100DB06A700-visual.tif.geo.tif",
+      "Train/Test": "Train",
+      "Source": "Satellite",
+      "Event": "Hurricane Ian",
+      "Date (mm/dd/yyy)": "9/30/2022",
+      "Pre/Post Event": "POST",
+      "GSD (m/px)": "0.305175781"
+    }
+  },
+  "scope": "First geographic/temporal qualification. Capture dates are author catalog claims,not independently verified flight logs.",
+  "metadata_transfer_cap_per_image_bytes": 16777216,
+  "test_files_opened": false
+}

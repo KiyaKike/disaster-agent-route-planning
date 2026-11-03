@@ -1,0 +1,126 @@
+{
+  "version": "coverage_controls_v1",
+  "splits": [
+    "calibration",
+    "validation"
+  ],
+  "timing": "Posthoc supplement after inspecting calibration and validation policy results. Definitions frozen before these controls run; not a new blind validation.",
+  "policies": [
+    "prior_survey",
+    "uniform_survey",
+    "uniform_gate",
+    "spatial_survey",
+    "spatial_gate",
+    "random_survey",
+    "random_gate"
+  ],
+  "random_order_seeds": [
+    20261030,
+    20261031,
+    20261032,
+    20261033,
+    20261034,
+    20261035,
+    20261036,
+    20261037,
+    20261038,
+    20261039
+  ],
+  "budgets": [
+    8,
+    16,
+    32
+  ],
+  "quality_scenarios_and_seeds": {
+    "native_survey": [
+      20261024
+    ],
+    "mixed_survey": [
+      20261024,
+      20261025,
+      20261026,
+      20261027,
+      20261028
+    ],
+    "blurred_survey": [
+      20261024
+    ]
+  },
+  "uniform_prior": "Original calibration global smoothed prevalence, identical for all cells and events; not the validation prevalence.",
+  "uniform_order": "Euclidean nearest tie-break, exactly the original quality-gate selector after flattening its prior.",
+  "spatial_order": "Fixed maximin ordering of public grid coordinates, starting at lexicographically first cell; iteratively farthest from already ordered cells, lexicographic ties. Spreads early observations over the map. No motion cost is charged in this E0 proxy.",
+  "random_order": "Sort SHA256(search_seed|sample_id|cell_id|coverage_order), independent of labels and quality seed. Same cell order paired between random_survey and random_gate. Report all 10 orders, their mean and range; never select best seed.",
+  "survey_variants": "No upgrades, static priority with the indicated prior/order. Standard cached survey quality unchanged.",
+  "gate_variants": "Same action inventory and quality-gate posterior as existing controls: survey cost1, one native upgrade cost2 after negative blurred survey. Common expected-presence-per-cost criterion. Ordered coverage changes tie-breaking only; it does not override upgrade scores.",
+  "prior_survey": "Original four-bin fitted probabilities and original nearest tie-break, no upgrades. Reproduces the old prior baseline to isolate observation-upgrade effects.",
+  "random_exact": "For random survey only, compute exact expected unique discoveries at budget k: sum_buildings [1-C(64-m,k)/C(64,k)], m=number of survey cells whose fixed outcome matches this building. Evaluator-only expectation is never passed to planner. Also exact known-negative positive-cell expectation.",
+  "metrics": "Unique target buildings, false-positive cells, upgrades/surveys, discovery-scene count, conditional first-discovery cost AND budget+1-censored first-discovery cost for scenes with known targets. No-target recall stays null.",
+  "aggregation": "Within each scene/quality map, average random-order seeds first; average quality maps second, then sum discoveries across 24 scenes. Seeds are Monte Carlo allocations, not independent events. Retain per-event and scene-paired comparisons.",
+  "inference": "Fixed cached outcomes only. Calibration parameters and all earlier reports/traces unchanged. No test inference or evaluation.",
+  "limitations": [
+    "Posthoc controls cannot turn previously inspected validation results into an untouched test.",
+    "Validation targets occur only in Michael; the sampled Mexico scenes contain no severe-damage targets.",
+    "Artificial blur restoration with declared costs is not physical drone revisiting or measured compute cost.",
+    "The sensor checkpoint is expected to have training exposure; target-building coverage matching is an evaluator proxy, not instance AP.",
+    "Presence-oriented acquisition and terminal positive cells may miss additional targets in a dense cell; travel costs are excluded."
+  ],
+  "sources": {
+    "parameters": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_calibration_v2/calibration_parameters.json",
+      "sha256": "db3c3a77647b18009e2e192e187084c5148f39c24fb952a0f7b40420ea3fc600"
+    },
+    "calibration_observations": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_changeos_calibration/observations.json",
+      "sha256": "46cafc0e181e764743f1923146a3c8aa4710f3bf7e900fa855dcf69ecc8ee20f"
+    },
+    "calibration_association": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_calibration_v2/association_report.json",
+      "sha256": "cbb2239f0c9d268085d7b765f010ae8e830c73067cd8d12494bf03faed3b9128"
+    },
+    "calibration_old_runs": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_local_feedback_v1/runs.json",
+      "sha256": "499d8ac2892054a964df0b7ee12d40f4acf638399fcf6a502e97a07cbe1e8bbc"
+    },
+    "calibration_old_report": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_local_feedback_v1/report.json",
+      "sha256": "4b8bdae4e73a0060ac8685e71ce9fde8f02132ae5c895abfd37606d49286669a"
+    },
+    "calibration_old_traces": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_local_feedback_v1/traces.jsonl",
+      "sha256": "1b07c2082d42ccc7305f700d25ed57bb096fad759e219dd3fa6cc03ab3a14d55"
+    },
+    "calibration_old_checks": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_local_feedback_v1/integrity_checks.json",
+      "sha256": "27efc80c5ed0f2764b5f0f1c52a81e10924461e6102f535858449a3a1c9f5ca1"
+    },
+    "validation_observations": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_changeos_validation/observations.json",
+      "sha256": "15e9395ad6375d3b89d3d2ff0615eb5ac43141740242ea833ebd63e973081ce4"
+    },
+    "validation_association": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_validation_v1/association_report.json",
+      "sha256": "22a96c61e3e2feb1a62d78b045bcd7075e0ea41f13588fef3367f07391c6615c"
+    },
+    "validation_old_runs": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_validation_v1/runs.json",
+      "sha256": "2eb65b14f513f19ae478475fd88b19eb1367cdd2f520b4a998b858ff64014514"
+    },
+    "validation_old_report": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_validation_v1/report.json",
+      "sha256": "a3de8a56e253956d60e262f15e2a5f5234611c5142c9bf68dad32531b2b36798"
+    },
+    "validation_old_traces": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_validation_v1/traces.jsonl",
+      "sha256": "9710d5c6f5c45a63563b559d090f4aaa0b6d9e1de72b00bbe3ec60783e566b25"
+    },
+    "validation_old_checks": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_validation_v1/integrity_checks.json",
+      "sha256": "c1b2d922e7e5c17bbacfc480dc1c0c5f0f5fd87b54fec2866b001210421feddf"
+    }
+  },
+  "implementation_sha256": {
+    "run_coverage_controls.py": "d9d5a567ab2b72a80b5a3b209e691631a4b9531fb610eb7b731a0c52993fad76",
+    "run_cached_search.py": "29059dbb824df8fd463d4ab006e4b739274c6979755d83a7c299bed0ca1e6829",
+    "real_evidence.py": "eff31afdb2135592e41f53d70d5a0d089c20ff2d782fafb14aac5f3480b21127"
+  }
+}

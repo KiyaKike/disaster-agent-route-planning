@@ -1,0 +1,10 @@
+{
+  "builder_sha256": "0defd41fcf9f59c44d86b4a8972ee90d226c80e5694de2360aa5670a2d99c251",
+  "completed_gold_records": 0,
+  "export_role": "First-review draft, never final gold. Distinct second review/adjudication still required.",
+  "images_only_no_masks_or_predictions": true,
+  "index_sha256": "e4fc988c6e433d4a847e52fe695cfc1dea18d7f6509d36dc6a087ebf389c939d",
+  "initial_human_records": 0,
+  "stage": "PREDICTION_BLIND_FIRST_REVIEW_TOOL_ONLY",
+  "template_sha256": "95a8a114950a69d380b05d0a0e0d613c36a523f82eaa0802b75a99e60c31cb31"
+}

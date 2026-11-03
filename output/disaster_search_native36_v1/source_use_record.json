@@ -1,0 +1,38 @@
+{
+  "scope": "ATTRIBUTED_LOCAL_NONCOMMERCIAL_RESEARCH_COPY_ONLY",
+  "local_research_rgb_copy_enabled": true,
+  "commercial_use_or_publication_of_raw_images_enabled": false,
+  "basis": [
+    {
+      "source": "EBD figshare v2",
+      "url": "https://api.figshare.com/v2/articles/25285009/versions/2",
+      "declared_license": "CC BY 4.0",
+      "original_imagery_claim": "Maxar Open Data Program",
+      "evidence": "../disaster_search_independent_protocol_v1/sources/ebd_figshare_v2.json"
+    },
+    {
+      "source": "Maxar Open Data official bucket STAC root",
+      "url": "https://maxar-opendata.s3.amazonaws.com/events/catalog.json",
+      "declared_license": "CC-BY-NC-4.0",
+      "evidence": "sources/maxar_catalog.json"
+    },
+    {
+      "source": "AWS Registry entry managed by Maxar",
+      "url": "https://registry.opendata.aws/maxar-open-data/",
+      "declared_license": "Creative Commons Attribution Non Commercial 4.0",
+      "evidence": "sources/maxar_aws_registry.json"
+    }
+  ],
+  "use_decision": "Current work is local academic/research feasibility. Retain source and provider credit plus both declarations; do not interpret the derivative CC BY listing as removing the original imagery noncommercial condition.",
+  "license_links": [
+    "https://creativecommons.org/licenses/by/4.0/",
+    "https://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "attribution": "EBD dataset, Zeyu Wang, Feng Zhang and Chuyi Wu (figshare record), DOI10.6084/m9.figshare.25285009.v2; associated paper DOI10.34133/remotesensing.0733. Original imagery: Maxar Open Data Program. Accessed2026-10-25. This project extracts fixed PNG members without modifying their bytes; any previews are resized derivatives.",
+  "unresolved": "No per-chip original acquisition ID, time or footprint mapping recovered. Turkey/Pakistan official event collections identified; Texas2022 event collection not found in current ARD root. This is not blanket license-chain or geographic-independence clearance.",
+  "maxar_website_access": "Original www.maxar.com/open-data returned certificate-date error in browser; no bypass. Retained official S3 metadata and Maxar-managed AWS registry instead.",
+  "inference_enabled": false,
+  "mask_access_enabled": false,
+  "independent_evaluation_admitted": false,
+  "recorded_at_utc": "2026-10-25T14:23:56.846692+00:00"
+}

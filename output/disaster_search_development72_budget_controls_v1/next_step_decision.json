@@ -1,0 +1,21 @@
+{
+  "basis_audit_sha256": "a3026831b7e4a63348419d4480a700320cb4fd8b61fc3d671ab21982ae67ce8c",
+  "basis_report_sha256": "f96a6fa568dff0855f945ba16d7ea61012afd3a4bb5847d5884703ee924340ae",
+  "decision": "Do not promote the current all-upgrade count-greedy rule. Preserve fixed primary setting and all failures.",
+  "limits": [
+    "Current reward estimates are same-cell incremental counts, not an exact global distinct-building objective.",
+    "Mexico has zero detectable targets in current caches; all events occurred in detector training. Full-image spatial independence unverified.",
+    "No parameter retuning of the failed boundary discount or primary cost selection based on this result."
+  ],
+  "next_question": "Does a remaining-budget-aware planning baseline improve distinct-building discovery relative to greedy when sensor/count parameters are held identical, and does that survive leaving out a development event?",
+  "no_new_data_or_paid_gpu_needed_for_next_development_baseline": true,
+  "required_before_execution": [
+    "Verify and specify ENS/MF-ENS/rollout adaptation against primary sources; distinguish adaptation from reproduction.",
+    "Freeze simulator/count assumptions, candidate actions, planning horizon/computation budget and seeds before scoring.",
+    "Compare planner vs greedy using identical parameters; report full development fit and leave-one-development-event-out.",
+    "Retain raw-change/coverage/random/negative-gate controls; rescore all trajectories at 5/10/25 and report event/FP/cost differences."
+  ],
+  "stage": "NEXT_DEVELOPMENT_EXPERIMENT_PLANNING_ONLY",
+  "status": "NOT_IMPLEMENTED_OR_RUN; no claim of new method or independent validation",
+  "validation_or_confirmation_scoring_enabled": false
+}

@@ -1,0 +1,15 @@
+{
+  "auditor_sha256": "9eae3d4ac89f61780900b6a544314c336484abdcb9860c68eee33fa14df194ae",
+  "event_scores_checked": 15,
+  "gpu_rented": false,
+  "input_tensors_reconstructed": 578,
+  "legacy128_masks_verified": 4608,
+  "new_fitting": false,
+  "new_model_calls_by_audit": 0,
+  "old_frozen_sources_verified": 45,
+  "pixel_identical_old_controls": 2,
+  "references_independently_rasterized": 72,
+  "scene_scores_independently_replayed": 360,
+  "status": "PASS",
+  "total_scores_checked": 5
+}

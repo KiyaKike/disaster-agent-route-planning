@@ -1,0 +1,15 @@
+{
+  "status": "NOT_EXECUTED",
+  "next": "Evaluate a predeclared simple trigger using uncertainty and realized cost;separate development from prospective new instances and test online-behavior states.",
+  "constraints": [
+    "Do not tune only adverse examples.",
+    "Do not interpret positive expected gain as a single-action guarantee.",
+    "Preserve fixed checkpoint10 as primary for the completed study.",
+    "One-time forks are not end-to-end online-policy results."
+  ],
+  "learner_fitted": false,
+  "new_training_enabled": false,
+  "new_perception_calls_enabled": false,
+  "gpu_rental": false,
+  "real_targets_available": false
+}

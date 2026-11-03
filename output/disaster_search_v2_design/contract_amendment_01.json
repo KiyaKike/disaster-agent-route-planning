@@ -1,0 +1,18 @@
+{
+  "basis": "The alternative source preserves individual polygon arrays but omits original UID; only metadata and OLD calibration correspondence have been inspected.",
+  "bridge_report_sha256": "08ccf4689af1f04830914aaf5715b10fd71a9d61f5638bd3ae973b767391940d",
+  "changes": {
+    "annotation_access": "The source stores all damage arrays in one Parquet column/row group. A later trusted materializer may read the shared column and retain ONLY the six frozen development probes for admission. Such a run must disclose physical access to shared/confirmation compressed payloads; never report their values, class summaries, model outputs or policy scores. Copying bytes is not a blind-score result. No such damage-column read has occurred yet.",
+    "instance_identity": "Original UID when available; otherwise (pinned_source_revision, sample_id, source_object_index) with polygon fingerprint. Clearly mark as derived identity, never claim original UID recovered. Verify duplicates and object/class ordering before admission; no mask connected-component substitution.",
+    "zero_baseline": "If a baseline primary mean is zero, do not report relative percentage gain; apply the absolute-gain and event/false-positive conditions and report the zero denominator."
+  },
+  "new_hold_damage_read": false,
+  "parent_contract_sha256": "5658ef8bee4801850cf9e2e4c4bd0280a6b79c4590afff69dcd6605afd108b38",
+  "unchanged": [
+    "All 216 candidate identities and event roles",
+    "Building discovery proxy, budgets, quality seeds and declared costs",
+    "No outcome-driven swaps",
+    "No final confirmation scores before full method lock"
+  ],
+  "version": "search_v2_amendment_01_before_new_damage_access"
+}

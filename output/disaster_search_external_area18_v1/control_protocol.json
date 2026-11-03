@@ -1,0 +1,49 @@
+{
+  "budgets": [
+    4,
+    8,
+    16
+  ],
+  "core_sha256": "a54bda4c1b40d14fe92c6307edbd39de29b753eadd6545c25af75308cacfc5a8",
+  "independent_confirmatory_efficacy": false,
+  "new_method_selected": false,
+  "no_new_fitting_or_policy_selection": true,
+  "online_feedback": "Paid bool>=4 predicted severe pixels only; evaluator pixel union includes even1..3 pixels. No true reference counts or masks enter planner.",
+  "order_seeds": [
+    20261030,
+    20261031,
+    20261032,
+    20261033,
+    20261034,
+    20261035,
+    20261036,
+    20261037,
+    20261038,
+    20261039
+  ],
+  "perception_protocol_sha256": "5748e9b81b82b4f539ba1d15ab4e20e7b368ec8accbf5c19999548afe9109723",
+  "policies": [
+    "random_survey",
+    "prior_survey",
+    "prior_gate"
+  ],
+  "policy_definition": "Random follows fixed random ranks. Change survey uses coarse75percentile absoluteRGB change. Negative gate compares raw change for unseen cells vs raw change/cost for paid blurred-negative cells; no positive upgrade. No target-calibrated threshold or count utility.",
+  "primary_budget": 8,
+  "primary_domain": "All512x512 published pixels, union across acquired predictions without duplicate counting.",
+  "quality_assignment": "Frozen SHA256(seed|sample_id|cell_id|survey_quality) parity, known only after paid observation.",
+  "quality_seeds": [
+    20261025,
+    20261026,
+    20261027,
+    20261028,
+    20261029
+  ],
+  "random_exact_reference": "Also compute evaluator-only expected survey area budget/16 times full fixed-quality survey area; cell supports do not overlap. Keep10-order empirical traces and never supply expectation to planner.",
+  "scenario": "mixed_survey",
+  "sensitivity_domain": "Both RGB dates have at least1 nonzero channel, evaluator-only diagnostic. Not certified nodata or selection of better score.",
+  "stage": "DESCRIPTIVE_PUBLISHED_REFERENCE_AREA_CONTROLS",
+  "statistics": "Quality/order means within each scene, scenes within event, events equally. Pixel-count macro includes all3events; recall with zero reference remains null and target-event recall explicitly states2events.",
+  "tie_rule": "One fixed random cell permutation per order seed; same ranks shared by policies.",
+  "timing": "Registered after reference composition was known, before any new detector prediction or policy score.",
+  "upgrade_cost": 2
+}

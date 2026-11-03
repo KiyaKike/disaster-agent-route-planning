@@ -1,0 +1,24 @@
+{
+  "status": "PASS_FOR_PROVISIONAL_REPLAY_ONLY",
+  "fixed_regions": 4,
+  "provisional_replay_regions": 3,
+  "routes_verified": 108,
+  "return_budget_checks": 108,
+  "paid_evidence_prefix_checks": 493,
+  "exact_control_dominance_checks": 18,
+  "new_detector_forward_calls": 384,
+  "tests_passed": 20,
+  "parent_sealed_files_verified": {
+    "disaster_route_crasar_region_v1": 426,
+    "disaster_route_crasar_region_rank2_v1": 674,
+    "disaster_route_crasar_feasibility_20261103": 6
+  },
+  "prediction_folds_evaluated": 3,
+  "human_truth_prediction_test": false,
+  "regions_passing_independent_registration_gate": 0,
+  "registration_absolute_accuracy_certified": false,
+  "flight_validation": false,
+  "method_gain_established": false,
+  "gpu_rental": false,
+  "new_detector_training": false
+}

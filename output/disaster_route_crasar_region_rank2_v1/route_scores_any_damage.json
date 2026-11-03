@@ -1,0 +1,365 @@
+[
+  {
+    "policy": "distance",
+    "budget_proxy_s": 60,
+    "route": [
+      13,
+      9,
+      10
+    ],
+    "correctly_checked_target_buildings": 0,
+    "eligible_target_buildings": 3,
+    "target_recall": 0.0,
+    "checked_buildings_geometry_only": 0,
+    "first_correct_check_proxy_s": null,
+    "false_positive_checked_buildings": 0,
+    "checked_prediction_precision": null,
+    "distance_m": 137.22385956066358,
+    "elapsed_proxy_s": 58.444771912132715,
+    "budget_verified": true
+  },
+  {
+    "policy": "damage",
+    "budget_proxy_s": 60,
+    "route": [
+      11,
+      6
+    ],
+    "correctly_checked_target_buildings": 1,
+    "eligible_target_buildings": 3,
+    "target_recall": 0.3333333333333333,
+    "checked_buildings_geometry_only": 2,
+    "first_correct_check_proxy_s": 24.57645019878171,
+    "false_positive_checked_buildings": 1,
+    "checked_prediction_precision": 0.5,
+    "distance_m": 194.72139720733216,
+    "elapsed_proxy_s": 59.944279441466435,
+    "budget_verified": true
+  },
+  {
+    "policy": "uncertainty",
+    "budget_proxy_s": 60,
+    "route": [
+      2
+    ],
+    "correctly_checked_target_buildings": 0,
+    "eligible_target_buildings": 3,
+    "target_recall": 0.0,
+    "checked_buildings_geometry_only": 0,
+    "first_correct_check_proxy_s": null,
+    "false_positive_checked_buildings": 0,
+    "checked_prediction_precision": null,
+    "distance_m": 226.27416997969522,
+    "elapsed_proxy_s": 56.254833995939045,
+    "budget_verified": true
+  },
+  {
+    "policy": "static_exact_damage",
+    "budget_proxy_s": 60,
+    "route": [
+      6,
+      11
+    ],
+    "correctly_checked_target_buildings": 1,
+    "eligible_target_buildings": 3,
+    "target_recall": 0.3333333333333333,
+    "checked_buildings_geometry_only": 2,
+    "first_correct_check_proxy_s": 46.36782924268472,
+    "false_positive_checked_buildings": 1,
+    "checked_prediction_precision": 0.5,
+    "distance_m": 194.72139720733216,
+    "elapsed_proxy_s": 59.944279441466435,
+    "budget_verified": true
+  },
+  {
+    "policy": "static_exact",
+    "budget_proxy_s": 60,
+    "route": [
+      6,
+      11
+    ],
+    "correctly_checked_target_buildings": 1,
+    "eligible_target_buildings": 3,
+    "target_recall": 0.3333333333333333,
+    "checked_buildings_geometry_only": 2,
+    "first_correct_check_proxy_s": 46.36782924268472,
+    "false_positive_checked_buildings": 1,
+    "checked_prediction_precision": 0.5,
+    "distance_m": 194.72139720733216,
+    "elapsed_proxy_s": 59.944279441466435,
+    "budget_verified": true
+  },
+  {
+    "policy": "value_cost_proxy",
+    "budget_proxy_s": 60,
+    "route": [
+      11,
+      6
+    ],
+    "correctly_checked_target_buildings": 1,
+    "eligible_target_buildings": 3,
+    "target_recall": 0.3333333333333333,
+    "checked_buildings_geometry_only": 2,
+    "first_correct_check_proxy_s": 24.57645019878171,
+    "false_positive_checked_buildings": 1,
+    "checked_prediction_precision": 0.5,
+    "distance_m": 194.72139720733216,
+    "elapsed_proxy_s": 59.944279441466435,
+    "budget_verified": true
+  },
+  {
+    "policy": "distance",
+    "budget_proxy_s": 100,
+    "route": [
+      13,
+      9,
+      5,
+      1,
+      10
+    ],
+    "correctly_checked_target_buildings": 0,
+    "eligible_target_buildings": 3,
+    "target_recall": 0.0,
+    "checked_buildings_geometry_only": 1,
+    "first_correct_check_proxy_s": null,
+    "false_positive_checked_buildings": 0,
+    "checked_prediction_precision": null,
+    "distance_m": 240.77803484065686,
+    "elapsed_proxy_s": 99.15560696813137,
+    "budget_verified": true
+  },
+  {
+    "policy": "damage",
+    "budget_proxy_s": 100,
+    "route": [
+      11,
+      2,
+      6,
+      14
+    ],
+    "correctly_checked_target_buildings": 1,
+    "eligible_target_buildings": 3,
+    "target_recall": 0.3333333333333333,
+    "checked_buildings_geometry_only": 3,
+    "first_correct_check_proxy_s": 24.57645019878171,
+    "false_positive_checked_buildings": 2,
+    "checked_prediction_precision": 0.3333333333333333,
+    "distance_m": 258.06384327187135,
+    "elapsed_proxy_s": 92.61276865437426,
+    "budget_verified": true
+  },
+  {
+    "policy": "uncertainty",
+    "budget_proxy_s": 100,
+    "route": [
+      2,
+      6,
+      11,
+      14
+    ],
+    "correctly_checked_target_buildings": 1,
+    "eligible_target_buildings": 3,
+    "target_recall": 0.3333333333333333,
+    "checked_buildings_geometry_only": 3,
+    "first_correct_check_proxy_s": 69.07838379715733,
+    "false_positive_checked_buildings": 2,
+    "checked_prediction_precision": 0.3333333333333333,
+    "distance_m": 258.2741699796952,
+    "elapsed_proxy_s": 92.65483399593904,
+    "budget_verified": true
+  },
+  {
+    "policy": "static_exact_damage",
+    "budget_proxy_s": 100,
+    "route": [
+      11,
+      3,
+      2,
+      6
+    ],
+    "correctly_checked_target_buildings": 2,
+    "eligible_target_buildings": 3,
+    "target_recall": 0.6666666666666666,
+    "checked_buildings_geometry_only": 4,
+    "first_correct_check_proxy_s": 24.57645019878171,
+    "false_positive_checked_buildings": 2,
+    "checked_prediction_precision": 0.5,
+    "distance_m": 277.4665632113931,
+    "elapsed_proxy_s": 96.49331264227862,
+    "budget_verified": true
+  },
+  {
+    "policy": "static_exact",
+    "budget_proxy_s": 100,
+    "route": [
+      11,
+      3,
+      2,
+      6
+    ],
+    "correctly_checked_target_buildings": 2,
+    "eligible_target_buildings": 3,
+    "target_recall": 0.6666666666666666,
+    "checked_buildings_geometry_only": 4,
+    "first_correct_check_proxy_s": 24.57645019878171,
+    "false_positive_checked_buildings": 2,
+    "checked_prediction_precision": 0.5,
+    "distance_m": 277.4665632113931,
+    "elapsed_proxy_s": 96.49331264227862,
+    "budget_verified": true
+  },
+  {
+    "policy": "value_cost_proxy",
+    "budget_proxy_s": 100,
+    "route": [
+      11,
+      2,
+      6,
+      14
+    ],
+    "correctly_checked_target_buildings": 1,
+    "eligible_target_buildings": 3,
+    "target_recall": 0.3333333333333333,
+    "checked_buildings_geometry_only": 3,
+    "first_correct_check_proxy_s": 24.57645019878171,
+    "false_positive_checked_buildings": 2,
+    "checked_prediction_precision": 0.3333333333333333,
+    "distance_m": 258.06384327187135,
+    "elapsed_proxy_s": 92.61276865437426,
+    "budget_verified": true
+  },
+  {
+    "policy": "distance",
+    "budget_proxy_s": 140,
+    "route": [
+      13,
+      9,
+      5,
+      1,
+      0,
+      2,
+      6
+    ],
+    "correctly_checked_target_buildings": 0,
+    "eligible_target_buildings": 3,
+    "target_recall": 0.0,
+    "checked_buildings_geometry_only": 5,
+    "first_correct_check_proxy_s": null,
+    "false_positive_checked_buildings": 4,
+    "checked_prediction_precision": 0.0,
+    "distance_m": 328.21172921545406,
+    "elapsed_proxy_s": 136.64234584309082,
+    "budget_verified": true
+  },
+  {
+    "policy": "damage",
+    "budget_proxy_s": 140,
+    "route": [
+      11,
+      2,
+      6,
+      3,
+      14,
+      13
+    ],
+    "correctly_checked_target_buildings": 2,
+    "eligible_target_buildings": 3,
+    "target_recall": 0.6666666666666666,
+    "checked_buildings_geometry_only": 5,
+    "first_correct_check_proxy_s": 24.57645019878171,
+    "false_positive_checked_buildings": 3,
+    "checked_prediction_precision": 0.4,
+    "distance_m": 372.5115623931985,
+    "elapsed_proxy_s": 135.5023124786397,
+    "budget_verified": true
+  },
+  {
+    "policy": "uncertainty",
+    "budget_proxy_s": 140,
+    "route": [
+      2,
+      6,
+      11,
+      3,
+      14
+    ],
+    "correctly_checked_target_buildings": 2,
+    "eligible_target_buildings": 3,
+    "target_recall": 0.6666666666666666,
+    "checked_buildings_geometry_only": 5,
+    "first_correct_check_proxy_s": 69.07838379715733,
+    "false_positive_checked_buildings": 3,
+    "checked_prediction_precision": 0.4,
+    "distance_m": 378.2122211091443,
+    "elapsed_proxy_s": 126.64244422182887,
+    "budget_verified": true
+  },
+  {
+    "policy": "static_exact_damage",
+    "budget_proxy_s": 140,
+    "route": [
+      14,
+      11,
+      7,
+      3,
+      2,
+      6,
+      5
+    ],
+    "correctly_checked_target_buildings": 2,
+    "eligible_target_buildings": 3,
+    "target_recall": 0.6666666666666666,
+    "checked_buildings_geometry_only": 6,
+    "first_correct_check_proxy_s": 34.576450198781714,
+    "false_positive_checked_buildings": 4,
+    "checked_prediction_precision": 0.3333333333333333,
+    "distance_m": 309.4665632113931,
+    "elapsed_proxy_s": 132.89331264227863,
+    "budget_verified": true
+  },
+  {
+    "policy": "static_exact",
+    "budget_proxy_s": 140,
+    "route": [
+      14,
+      11,
+      7,
+      3,
+      2,
+      6,
+      5
+    ],
+    "correctly_checked_target_buildings": 2,
+    "eligible_target_buildings": 3,
+    "target_recall": 0.6666666666666666,
+    "checked_buildings_geometry_only": 6,
+    "first_correct_check_proxy_s": 34.576450198781714,
+    "false_positive_checked_buildings": 4,
+    "checked_prediction_precision": 0.3333333333333333,
+    "distance_m": 309.4665632113931,
+    "elapsed_proxy_s": 132.89331264227863,
+    "budget_verified": true
+  },
+  {
+    "policy": "value_cost_proxy",
+    "budget_proxy_s": 140,
+    "route": [
+      11,
+      2,
+      6,
+      3,
+      7,
+      14
+    ],
+    "correctly_checked_target_buildings": 2,
+    "eligible_target_buildings": 3,
+    "target_recall": 0.6666666666666666,
+    "checked_buildings_geometry_only": 5,
+    "first_correct_check_proxy_s": 24.57645019878171,
+    "false_positive_checked_buildings": 3,
+    "checked_prediction_precision": 0.4,
+    "distance_m": 342.8728525478037,
+    "elapsed_proxy_s": 129.57457050956074,
+    "budget_verified": true
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "rank": 5,
+  "scene": "1001-McGregor-College-Pkwy-South.1.geo.tif",
+  "history": [
+    {
+      "script": "probe_crasar_region.py",
+      "exit_code": 0,
+      "wall_seconds": 53.94577783400018
+    },
+    {
+      "script": "extract_crasar_region.py",
+      "exit_code": 0,
+      "wall_seconds": 174.46497833399917
+    },
+    {
+      "script": "qualify_crasar_region.py",
+      "exit_code": 0,
+      "wall_seconds": 1.1976194579910953
+    }
+  ],
+  "last_stage": "qualify_crasar_region.py",
+  "exit_code": 0
+}

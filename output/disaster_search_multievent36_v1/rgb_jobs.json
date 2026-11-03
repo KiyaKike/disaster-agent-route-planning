@@ -1,0 +1,578 @@
+[
+  {
+    "event": "nepal-flooding",
+    "images": [
+      {
+        "mode": "pre",
+        "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/samples/nepal-flooding_00000040/nepal-flooding_00000040_pre_disaster.png",
+        "sha256": "019b6960492ca7a673b53a7194fc7c5cd28bab4870f659976d86a73ae239e64c"
+      },
+      {
+        "mode": "post",
+        "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/samples/nepal-flooding_00000040/nepal-flooding_00000040_post_disaster.png",
+        "sha256": "f15262315cf8cf39f627849ab26c59f9a966a1886a09ac477148c68adb43977d"
+      }
+    ],
+    "sample_id": "nepal-flooding_00000040"
+  },
+  {
+    "event": "nepal-flooding",
+    "images": [
+      {
+        "mode": "pre",
+        "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/samples/nepal-flooding_00000055/nepal-flooding_00000055_pre_disaster.png",
+        "sha256": "1fd4f9135515a3f8663b013722043f7c78e856f1e7cb327a4c3df2b1800cbcd5"
+      },
+      {
+        "mode": "post",
+        "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/samples/nepal-flooding_00000055/nepal-flooding_00000055_post_disaster.png",
+        "sha256": "2350147648d33c9b7a3a04a741e98f031be1199b861985a022fd0e34a08178fc"
+      }
+    ],
+    "sample_id": "nepal-flooding_00000055"
+  },
+  {
+    "event": "nepal-flooding",
+    "images": [
+      {
+        "mode": "pre",
+        "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/samples/nepal-flooding_00000104/nepal-flooding_00000104_pre_disaster.png",
+        "sha256": "23eca38884849db0eee15ab85aa3f24869d830c8a94c6cadfd49ccd571944370"
+      },
+      {
+        "mode": "post",
+        "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/samples/nepal-flooding_00000104/nepal-flooding_00000104_post_disaster.png",
+        "sha256": "b56a1e132ab0e4096be4016c37903027bc25e11ac91dd8c273e1108baba37cc2"
+      }
+    ],
+    "sample_id": "nepal-flooding_00000104"
+  },
+  {
+    "event": "nepal-flooding",
+    "images": [
+      {
+        "mode": "pre",
+        "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/samples/nepal-flooding_00000150/nepal-flooding_00000150_pre_disaster.png",
+        "sha256": "289cf9c6b18c0ee1fee37af64a31573df2b7cb2677bdc5015b41721dec377cc3"
+      },
+      {
+        "mode": "post",
+        "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/samples/nepal-flooding_00000150/nepal-flooding_00000150_post_disaster.png",
+        "sha256": "eaf2dfd72bd337569610cc0b5c0663dd1f3bc7505b1bb0a010dfbe422a0e3c12"
+      }
+    ],
+    "sample_id": "nepal-flooding_00000150"
+  },
+  {
+    "event": "nepal-flooding",
+    "images": [
+      {
+        "mode": "pre",
+        "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/samples/nepal-flooding_00000333/nepal-flooding_00000333_pre_disaster.png",
+        "sha256": "6b17201c3cd31bbebe8510a565a974a93bcc850db991a331cbd55884c662af92"
+      },
+      {
+        "mode": "post",
+        "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/samples/nepal-flooding_00000333/nepal-flooding_00000333_post_disaster.png",
+        "sha256": "3ea5dc35b77316bebc112dfa380348325fbc650bd1278560169870d996e0c943"
+      }
+    ],
+    "sample_id": "nepal-flooding_00000333"
+  },
+  {
+    "event": "nepal-flooding",
+    "images": [
+      {
+        "mode": "pre",
+        "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/samples/nepal-flooding_00000356/nepal-flooding_00000356_pre_disaster.png",
+        "sha256": "c5a675d88e4824d24eab0a4f10534ce05946d0373df25d877af9030bb24fa888"
+      },
+      {
+        "mode": "post",
+        "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/samples/nepal-flooding_00000356/nepal-flooding_00000356_post_disaster.png",
+        "sha256": "dfaef49e571f2740e5a94fe63b958f51cd54b8aaf3851105a74a8188323199b4"
+      }
+    ],
+    "sample_id": "nepal-flooding_00000356"
+  },
+  {
+    "event": "nepal-flooding",
+    "images": [
+      {
+        "mode": "pre",
+        "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/samples/nepal-flooding_00000392/nepal-flooding_00000392_pre_disaster.png",
+        "sha256": "d5383446f0c3e1bb8362b097728945e66556cf94b50820e4054a7a57bafd3125"
+      },
+      {
+        "mode": "post",
+        "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/samples/nepal-flooding_00000392/nepal-flooding_00000392_post_disaster.png",
+        "sha256": "084b4c88745f909b9796d7834d5de0dd0cb89b3ec6a6dafff9f839050bf3ea25"
+      }
+    ],
+    "sample_id": "nepal-flooding_00000392"
+  },
+  {
+    "event": "nepal-flooding",
+    "images": [
+      {
+        "mode": "pre",
+        "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/samples/nepal-flooding_00000470/nepal-flooding_00000470_pre_disaster.png",
+        "sha256": "23894a460816f78a82c5a27d9653bfcaf7f4cd0ea5f89f5e89c16b3580c5610d"
+      },
+      {
+        "mode": "post",
+        "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/samples/nepal-flooding_00000470/nepal-flooding_00000470_post_disaster.png",
+        "sha256": "c192f44f278667044a30defff902018cedc0c9c870fcbce9a3dafe1da897316e"
+      }
+    ],
+    "sample_id": "nepal-flooding_00000470"
+  },
+  {
+    "event": "nepal-flooding",
+    "images": [
+      {
+        "mode": "pre",
+        "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/samples/nepal-flooding_00000534/nepal-flooding_00000534_pre_disaster.png",
+        "sha256": "39595ea2cf4bf115728622b416e4ac8edc34a24ccfccc72117cd2858beeb8ca6"
+      },
+      {
+        "mode": "post",
+        "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/samples/nepal-flooding_00000534/nepal-flooding_00000534_post_disaster.png",
+        "sha256": "c526969b674a728863a76016037dcdce3f6763a79199f1a29a5d862cc16aad5a"
+      }
+    ],
+    "sample_id": "nepal-flooding_00000534"
+  },
+  {
+    "event": "nepal-flooding",
+    "images": [
+      {
+        "mode": "pre",
+        "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/samples/nepal-flooding_00000574/nepal-flooding_00000574_pre_disaster.png",
+        "sha256": "71d7d5af85f1f64a5241c7bf4ae3185f779f763068de63e0f7730a3bc74d4a45"
+      },
+      {
+        "mode": "post",
+        "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/samples/nepal-flooding_00000574/nepal-flooding_00000574_post_disaster.png",
+        "sha256": "2e9b618bcf202b9a0edef79d91669e8706570f2eda71e135f0fcd1819d23971f"
+      }
+    ],
+    "sample_id": "nepal-flooding_00000574"
+  },
+  {
+    "event": "nepal-flooding",
+    "images": [
+      {
+        "mode": "pre",
+        "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/samples/nepal-flooding_00000583/nepal-flooding_00000583_pre_disaster.png",
+        "sha256": "a3ddc54931cc4372e187df138eceb5b244f2994f53714e99da5982916837faa9"
+      },
+      {
+        "mode": "post",
+        "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/samples/nepal-flooding_00000583/nepal-flooding_00000583_post_disaster.png",
+        "sha256": "187d33dc56167bb9e5a3a49425eaf94483e77ce3b960c5a6091ff94171265ce8"
+      }
+    ],
+    "sample_id": "nepal-flooding_00000583"
+  },
+  {
+    "event": "nepal-flooding",
+    "images": [
+      {
+        "mode": "pre",
+        "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/samples/nepal-flooding_00000614/nepal-flooding_00000614_pre_disaster.png",
+        "sha256": "bc182228928dbe2d4b201d446737e19dff6a4e6db04b498bea216463f1b34f57"
+      },
+      {
+        "mode": "post",
+        "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/samples/nepal-flooding_00000614/nepal-flooding_00000614_post_disaster.png",
+        "sha256": "a1508e479790bd7092895d5bb5aaf5403d2f8d03501606421e89fb26dce24b2b"
+      }
+    ],
+    "sample_id": "nepal-flooding_00000614"
+  },
+  {
+    "event": "sunda-tsunami",
+    "images": [
+      {
+        "mode": "pre",
+        "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/samples/sunda-tsunami_00000014/sunda-tsunami_00000014_pre_disaster.png",
+        "sha256": "bcbbabb6ee1d628bb4d245b70fb3ac9a57022425b26273f1d02175f445b0d702"
+      },
+      {
+        "mode": "post",
+        "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/samples/sunda-tsunami_00000014/sunda-tsunami_00000014_post_disaster.png",
+        "sha256": "b5d91e9c43f89719b7525fdeaf7f99a59ac1073a9a8fa39244b91aaae082cbf6"
+      }
+    ],
+    "sample_id": "sunda-tsunami_00000014"
+  },
+  {
+    "event": "sunda-tsunami",
+    "images": [
+      {
+        "mode": "pre",
+        "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/samples/sunda-tsunami_00000015/sunda-tsunami_00000015_pre_disaster.png",
+        "sha256": "dbf109f212220e05068b0fbccbd2aeaee4240eccc73f4d9e6f0032c0789b93b1"
+      },
+      {
+        "mode": "post",
+        "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/samples/sunda-tsunami_00000015/sunda-tsunami_00000015_post_disaster.png",
+        "sha256": "64de69413d6e1985b4379145cb72f511617860f474c550cb4542564f8b0e8178"
+      }
+    ],
+    "sample_id": "sunda-tsunami_00000015"
+  },
+  {
+    "event": "sunda-tsunami",
+    "images": [
+      {
+        "mode": "pre",
+        "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/samples/sunda-tsunami_00000016/sunda-tsunami_00000016_pre_disaster.png",
+        "sha256": "84bd7d2f553935b462b284b972c85c13049dc61672f23213ddaa9698e3995350"
+      },
+      {
+        "mode": "post",
+        "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/samples/sunda-tsunami_00000016/sunda-tsunami_00000016_post_disaster.png",
+        "sha256": "86f373c28d1ca35c4e474d71bc0f1a83c5edbd095d5f64d2f3b4477784bc1693"
+      }
+    ],
+    "sample_id": "sunda-tsunami_00000016"
+  },
+  {
+    "event": "sunda-tsunami",
+    "images": [
+      {
+        "mode": "pre",
+        "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/samples/sunda-tsunami_00000047/sunda-tsunami_00000047_pre_disaster.png",
+        "sha256": "0bd4a64f6fcde23b327a8b525433f4fdc47aeaa6fd865f1a3e92ced35dbba61d"
+      },
+      {
+        "mode": "post",
+        "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/samples/sunda-tsunami_00000047/sunda-tsunami_00000047_post_disaster.png",
+        "sha256": "17b531c12786779036cb2bdc4a0adf34d632be103f6dd3251937e69488ba8ad0"
+      }
+    ],
+    "sample_id": "sunda-tsunami_00000047"
+  },
+  {
+    "event": "sunda-tsunami",
+    "images": [
+      {
+        "mode": "pre",
+        "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/samples/sunda-tsunami_00000053/sunda-tsunami_00000053_pre_disaster.png",
+        "sha256": "f2681abf0370fbd062d582af08f6cce6b35018d78c4fbdaff06a623be2ea62bd"
+      },
+      {
+        "mode": "post",
+        "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/samples/sunda-tsunami_00000053/sunda-tsunami_00000053_post_disaster.png",
+        "sha256": "bdf0ab7d4cab083e92fa83f2ce73ab460cddd66fc1d62c600e6790e76c810190"
+      }
+    ],
+    "sample_id": "sunda-tsunami_00000053"
+  },
+  {
+    "event": "sunda-tsunami",
+    "images": [
+      {
+        "mode": "pre",
+        "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/samples/sunda-tsunami_00000059/sunda-tsunami_00000059_pre_disaster.png",
+        "sha256": "47b0da782fe9a86847df0b26fba2c08c02446c3033cd1f1383f137b82cb107ed"
+      },
+      {
+        "mode": "post",
+        "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/samples/sunda-tsunami_00000059/sunda-tsunami_00000059_post_disaster.png",
+        "sha256": "7efa861f37c9a1b49a00ac0b8388edfcd66d14e51a0cfd7b73318793de9c9de1"
+      }
+    ],
+    "sample_id": "sunda-tsunami_00000059"
+  },
+  {
+    "event": "sunda-tsunami",
+    "images": [
+      {
+        "mode": "pre",
+        "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/samples/sunda-tsunami_00000061/sunda-tsunami_00000061_pre_disaster.png",
+        "sha256": "59149b4727889a59caed4a19b8750016561feb7bf73e5967b64009ad9c086545"
+      },
+      {
+        "mode": "post",
+        "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/samples/sunda-tsunami_00000061/sunda-tsunami_00000061_post_disaster.png",
+        "sha256": "7213d93b046ea5f07f1e02e9dec327a02f191df2ed68272a31ce620143e81406"
+      }
+    ],
+    "sample_id": "sunda-tsunami_00000061"
+  },
+  {
+    "event": "sunda-tsunami",
+    "images": [
+      {
+        "mode": "pre",
+        "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/samples/sunda-tsunami_00000078/sunda-tsunami_00000078_pre_disaster.png",
+        "sha256": "de9bb4466704fe1a6f1e0f83c092d653003fb549f38e0b5512df5f55bf10ae79"
+      },
+      {
+        "mode": "post",
+        "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/samples/sunda-tsunami_00000078/sunda-tsunami_00000078_post_disaster.png",
+        "sha256": "fc55ad795ae6c5314850fe3a799f769c6ef7ee5ca319f04f93155cb8f27c6cb2"
+      }
+    ],
+    "sample_id": "sunda-tsunami_00000078"
+  },
+  {
+    "event": "sunda-tsunami",
+    "images": [
+      {
+        "mode": "pre",
+        "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/samples/sunda-tsunami_00000105/sunda-tsunami_00000105_pre_disaster.png",
+        "sha256": "fdb47f77419976199e833e1f2c4c3a32bda0ff2027459890d8ce33dca29de4d7"
+      },
+      {
+        "mode": "post",
+        "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/samples/sunda-tsunami_00000105/sunda-tsunami_00000105_post_disaster.png",
+        "sha256": "2aa4edfd4d3ce3f4ec24b4c5d64c10cedd48fe89a30e6e58a0ecc36ed6ab6dd9"
+      }
+    ],
+    "sample_id": "sunda-tsunami_00000105"
+  },
+  {
+    "event": "sunda-tsunami",
+    "images": [
+      {
+        "mode": "pre",
+        "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/samples/sunda-tsunami_00000118/sunda-tsunami_00000118_pre_disaster.png",
+        "sha256": "0e6f1d09665e77650728d8bf7553ef7ddfadeccebbaab4010d890412341a0d4d"
+      },
+      {
+        "mode": "post",
+        "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/samples/sunda-tsunami_00000118/sunda-tsunami_00000118_post_disaster.png",
+        "sha256": "e37bd2a8ea565dd7c7c7864bcb29f73f7d81db8eff9d4ca4924220fb5b07caf1"
+      }
+    ],
+    "sample_id": "sunda-tsunami_00000118"
+  },
+  {
+    "event": "sunda-tsunami",
+    "images": [
+      {
+        "mode": "pre",
+        "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/samples/sunda-tsunami_00000131/sunda-tsunami_00000131_pre_disaster.png",
+        "sha256": "df7e2d24e8e0ec1a3164f860502cb094bdb7647d3eaec1cf5854db9677d3aa44"
+      },
+      {
+        "mode": "post",
+        "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/samples/sunda-tsunami_00000131/sunda-tsunami_00000131_post_disaster.png",
+        "sha256": "c38971fea70c62e135907511c037eefe7771d3f7576d8317842e378e9e2e3aa7"
+      }
+    ],
+    "sample_id": "sunda-tsunami_00000131"
+  },
+  {
+    "event": "sunda-tsunami",
+    "images": [
+      {
+        "mode": "pre",
+        "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/samples/sunda-tsunami_00000137/sunda-tsunami_00000137_pre_disaster.png",
+        "sha256": "f1a17c5efae156d804cc62e4ac39e4b956d22038eddd80a4e6d9443273dd2097"
+      },
+      {
+        "mode": "post",
+        "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/samples/sunda-tsunami_00000137/sunda-tsunami_00000137_post_disaster.png",
+        "sha256": "e9eedecb759e4d491360c695bab9638ef81f0373a25e7d3b300ccc87bb288a3e"
+      }
+    ],
+    "sample_id": "sunda-tsunami_00000137"
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "images": [
+      {
+        "mode": "pre",
+        "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/samples/tuscaloosa-tornado_00000010/tuscaloosa-tornado_00000010_pre_disaster.png",
+        "sha256": "e2149e84f404bef3253b4e9b7b28abb4dc51fdb1c91bd8d83b5418f0bfe447d9"
+      },
+      {
+        "mode": "post",
+        "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/samples/tuscaloosa-tornado_00000010/tuscaloosa-tornado_00000010_post_disaster.png",
+        "sha256": "64d8e56965d8639b3384cbc604408a65b8e3b103c4576dda45f0d055621e5ce8"
+      }
+    ],
+    "sample_id": "tuscaloosa-tornado_00000010"
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "images": [
+      {
+        "mode": "pre",
+        "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/samples/tuscaloosa-tornado_00000053/tuscaloosa-tornado_00000053_pre_disaster.png",
+        "sha256": "8d976ead2b81ec115688f82f1f6eaecc1d0f7c92e556ba049de996a2056c5442"
+      },
+      {
+        "mode": "post",
+        "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/samples/tuscaloosa-tornado_00000053/tuscaloosa-tornado_00000053_post_disaster.png",
+        "sha256": "dfac4ad5edb07e17902cb01faa4a614682e3010f9c5b19ae91d5a96312b4f20c"
+      }
+    ],
+    "sample_id": "tuscaloosa-tornado_00000053"
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "images": [
+      {
+        "mode": "pre",
+        "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/samples/tuscaloosa-tornado_00000073/tuscaloosa-tornado_00000073_pre_disaster.png",
+        "sha256": "cc0a310ba16b91ee581810388a0c2c73c3eb572eeb2bb05dc0fa38535eb46e11"
+      },
+      {
+        "mode": "post",
+        "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/samples/tuscaloosa-tornado_00000073/tuscaloosa-tornado_00000073_post_disaster.png",
+        "sha256": "2bf51139f464925289b80d5005c7d4160c53bdc97ea8f84fded7f1672201d24d"
+      }
+    ],
+    "sample_id": "tuscaloosa-tornado_00000073"
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "images": [
+      {
+        "mode": "pre",
+        "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/samples/tuscaloosa-tornado_00000096/tuscaloosa-tornado_00000096_pre_disaster.png",
+        "sha256": "0a2c0c83494f187f68e3e88b0da68f0b1d302293093eade0e82a3e86e2f86748"
+      },
+      {
+        "mode": "post",
+        "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/samples/tuscaloosa-tornado_00000096/tuscaloosa-tornado_00000096_post_disaster.png",
+        "sha256": "c4f0cdc5a60e3123bb0326d0d0255b007726dac46d8283631c72013e04a4112e"
+      }
+    ],
+    "sample_id": "tuscaloosa-tornado_00000096"
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "images": [
+      {
+        "mode": "pre",
+        "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/samples/tuscaloosa-tornado_00000104/tuscaloosa-tornado_00000104_pre_disaster.png",
+        "sha256": "14ecdd1fb759ebdef7e4a73768542aec8a0b85928c2db4bc49634a24cd072e18"
+      },
+      {
+        "mode": "post",
+        "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/samples/tuscaloosa-tornado_00000104/tuscaloosa-tornado_00000104_post_disaster.png",
+        "sha256": "d48f92fed83fc4fee4b6b513b723b1950343beeddefe9f7ac375561ee64bbc9b"
+      }
+    ],
+    "sample_id": "tuscaloosa-tornado_00000104"
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "images": [
+      {
+        "mode": "pre",
+        "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/samples/tuscaloosa-tornado_00000133/tuscaloosa-tornado_00000133_pre_disaster.png",
+        "sha256": "596d74d2fa622ebfcf31ba92f0c449467151239aafef22f3cfa80da2786f8b94"
+      },
+      {
+        "mode": "post",
+        "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/samples/tuscaloosa-tornado_00000133/tuscaloosa-tornado_00000133_post_disaster.png",
+        "sha256": "39d911b2cc096cc3f848f2eca5cbb49c0180e79a74cffff4e12b22099553da6e"
+      }
+    ],
+    "sample_id": "tuscaloosa-tornado_00000133"
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "images": [
+      {
+        "mode": "pre",
+        "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/samples/tuscaloosa-tornado_00000171/tuscaloosa-tornado_00000171_pre_disaster.png",
+        "sha256": "4ee21076eb509154be6142fbefb6e93b6eca30b4b3782aa0405823b83bc03e1f"
+      },
+      {
+        "mode": "post",
+        "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/samples/tuscaloosa-tornado_00000171/tuscaloosa-tornado_00000171_post_disaster.png",
+        "sha256": "184f24c91e158d5ad5455a86cbaf7d08212dc771fa9f97e794dbd093b1c696b2"
+      }
+    ],
+    "sample_id": "tuscaloosa-tornado_00000171"
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "images": [
+      {
+        "mode": "pre",
+        "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/samples/tuscaloosa-tornado_00000175/tuscaloosa-tornado_00000175_pre_disaster.png",
+        "sha256": "d1ed73009ec41d5bb229b51ca653d8a6343c04cd28564668275b3c0b783a5270"
+      },
+      {
+        "mode": "post",
+        "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/samples/tuscaloosa-tornado_00000175/tuscaloosa-tornado_00000175_post_disaster.png",
+        "sha256": "5e601b2945dd3a16c72ddf8f9e39772c4bc5be66c86cd4b53cc05bd20d8a4027"
+      }
+    ],
+    "sample_id": "tuscaloosa-tornado_00000175"
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "images": [
+      {
+        "mode": "pre",
+        "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/samples/tuscaloosa-tornado_00000181/tuscaloosa-tornado_00000181_pre_disaster.png",
+        "sha256": "9f2be345238a3bc0ae6db553f82c37782851d29569de2b57da7b81f68282bbfd"
+      },
+      {
+        "mode": "post",
+        "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/samples/tuscaloosa-tornado_00000181/tuscaloosa-tornado_00000181_post_disaster.png",
+        "sha256": "03f0d400f346c42d098979ed9c8629104bb7a2f73142bc7da10765911c729e99"
+      }
+    ],
+    "sample_id": "tuscaloosa-tornado_00000181"
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "images": [
+      {
+        "mode": "pre",
+        "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/samples/tuscaloosa-tornado_00000280/tuscaloosa-tornado_00000280_pre_disaster.png",
+        "sha256": "e69a179c5357c18d11f726e0de9377707cadddc2850f1a00d3603359430265f8"
+      },
+      {
+        "mode": "post",
+        "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/samples/tuscaloosa-tornado_00000280/tuscaloosa-tornado_00000280_post_disaster.png",
+        "sha256": "f03b9edb9cf83be91a85c7cb29a3585ee650f1caf47fdd9076819be666c01e99"
+      }
+    ],
+    "sample_id": "tuscaloosa-tornado_00000280"
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "images": [
+      {
+        "mode": "pre",
+        "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/samples/tuscaloosa-tornado_00000285/tuscaloosa-tornado_00000285_pre_disaster.png",
+        "sha256": "856671d3b0204001e605817028e317bb425860b8e3cf1efa75cdff30d4a976a1"
+      },
+      {
+        "mode": "post",
+        "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/samples/tuscaloosa-tornado_00000285/tuscaloosa-tornado_00000285_post_disaster.png",
+        "sha256": "fc3df016faae9b27bdd529b15968ac0ae52ad10ffec85eb7c71515a1db4caaad"
+      }
+    ],
+    "sample_id": "tuscaloosa-tornado_00000285"
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "images": [
+      {
+        "mode": "pre",
+        "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/samples/tuscaloosa-tornado_00000313/tuscaloosa-tornado_00000313_pre_disaster.png",
+        "sha256": "6c025f71c0c8e00978b6e3c2979aecbc2f198c250dc6c0f8717b5a112d4363bc"
+      },
+      {
+        "mode": "post",
+        "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/samples/tuscaloosa-tornado_00000313/tuscaloosa-tornado_00000313_post_disaster.png",
+        "sha256": "aab38a4bf74ce654085c06a79c02fae84614dbc540163d10384e7cab1feb7cc5"
+      }
+    ],
+    "sample_id": "tuscaloosa-tornado_00000313"
+  }
+]

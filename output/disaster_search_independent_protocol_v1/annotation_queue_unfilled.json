@@ -1,0 +1,380 @@
+[
+  {
+    "blind_to_detector_predictions": true,
+    "buildings": [],
+    "empty_scene_confirmed": false,
+    "event": "EARTHQUAKE-TURKEY",
+    "image_sha256": {
+      "post": null,
+      "pre": null
+    },
+    "notes": "Empty list is an unfilled form, never a negative scene label.",
+    "review_seconds": null,
+    "reviewed_at_utc": null,
+    "reviewer": null,
+    "sample_id": "EARTHQUAKE-TURKEY_012987",
+    "second_review": {
+      "reviewer": null,
+      "status": "PENDING"
+    },
+    "status": "NOT_STARTED",
+    "whole_scene_reviewed": false
+  },
+  {
+    "blind_to_detector_predictions": true,
+    "buildings": [],
+    "empty_scene_confirmed": false,
+    "event": "EARTHQUAKE-TURKEY",
+    "image_sha256": {
+      "post": null,
+      "pre": null
+    },
+    "notes": "Empty list is an unfilled form, never a negative scene label.",
+    "review_seconds": null,
+    "reviewed_at_utc": null,
+    "reviewer": null,
+    "sample_id": "EARTHQUAKE-TURKEY_006807",
+    "second_review": {
+      "reviewer": null,
+      "status": "PENDING"
+    },
+    "status": "NOT_STARTED",
+    "whole_scene_reviewed": false
+  },
+  {
+    "blind_to_detector_predictions": true,
+    "buildings": [],
+    "empty_scene_confirmed": false,
+    "event": "EARTHQUAKE-TURKEY",
+    "image_sha256": {
+      "post": null,
+      "pre": null
+    },
+    "notes": "Empty list is an unfilled form, never a negative scene label.",
+    "review_seconds": null,
+    "reviewed_at_utc": null,
+    "reviewer": null,
+    "sample_id": "EARTHQUAKE-TURKEY_005459",
+    "second_review": {
+      "reviewer": null,
+      "status": "PENDING"
+    },
+    "status": "NOT_STARTED",
+    "whole_scene_reviewed": false
+  },
+  {
+    "blind_to_detector_predictions": true,
+    "buildings": [],
+    "empty_scene_confirmed": false,
+    "event": "EARTHQUAKE-TURKEY",
+    "image_sha256": {
+      "post": null,
+      "pre": null
+    },
+    "notes": "Empty list is an unfilled form, never a negative scene label.",
+    "review_seconds": null,
+    "reviewed_at_utc": null,
+    "reviewer": null,
+    "sample_id": "EARTHQUAKE-TURKEY_000237",
+    "second_review": {
+      "reviewer": null,
+      "status": "PENDING"
+    },
+    "status": "NOT_STARTED",
+    "whole_scene_reviewed": false
+  },
+  {
+    "blind_to_detector_predictions": true,
+    "buildings": [],
+    "empty_scene_confirmed": false,
+    "event": "EARTHQUAKE-TURKEY",
+    "image_sha256": {
+      "post": null,
+      "pre": null
+    },
+    "notes": "Empty list is an unfilled form, never a negative scene label.",
+    "review_seconds": null,
+    "reviewed_at_utc": null,
+    "reviewer": null,
+    "sample_id": "EARTHQUAKE-TURKEY_003472",
+    "second_review": {
+      "reviewer": null,
+      "status": "PENDING"
+    },
+    "status": "NOT_STARTED",
+    "whole_scene_reviewed": false
+  },
+  {
+    "blind_to_detector_predictions": true,
+    "buildings": [],
+    "empty_scene_confirmed": false,
+    "event": "EARTHQUAKE-TURKEY",
+    "image_sha256": {
+      "post": null,
+      "pre": null
+    },
+    "notes": "Empty list is an unfilled form, never a negative scene label.",
+    "review_seconds": null,
+    "reviewed_at_utc": null,
+    "reviewer": null,
+    "sample_id": "EARTHQUAKE-TURKEY_015741",
+    "second_review": {
+      "reviewer": null,
+      "status": "PENDING"
+    },
+    "status": "NOT_STARTED",
+    "whole_scene_reviewed": false
+  },
+  {
+    "blind_to_detector_predictions": true,
+    "buildings": [],
+    "empty_scene_confirmed": false,
+    "event": "PAKISTAN-FLOODING",
+    "image_sha256": {
+      "post": null,
+      "pre": null
+    },
+    "notes": "Empty list is an unfilled form, never a negative scene label.",
+    "review_seconds": null,
+    "reviewed_at_utc": null,
+    "reviewer": null,
+    "sample_id": "PAKISTAN-FLOODING_017841",
+    "second_review": {
+      "reviewer": null,
+      "status": "PENDING"
+    },
+    "status": "NOT_STARTED",
+    "whole_scene_reviewed": false
+  },
+  {
+    "blind_to_detector_predictions": true,
+    "buildings": [],
+    "empty_scene_confirmed": false,
+    "event": "PAKISTAN-FLOODING",
+    "image_sha256": {
+      "post": null,
+      "pre": null
+    },
+    "notes": "Empty list is an unfilled form, never a negative scene label.",
+    "review_seconds": null,
+    "reviewed_at_utc": null,
+    "reviewer": null,
+    "sample_id": "PAKISTAN-FLOODING_004697",
+    "second_review": {
+      "reviewer": null,
+      "status": "PENDING"
+    },
+    "status": "NOT_STARTED",
+    "whole_scene_reviewed": false
+  },
+  {
+    "blind_to_detector_predictions": true,
+    "buildings": [],
+    "empty_scene_confirmed": false,
+    "event": "PAKISTAN-FLOODING",
+    "image_sha256": {
+      "post": null,
+      "pre": null
+    },
+    "notes": "Empty list is an unfilled form, never a negative scene label.",
+    "review_seconds": null,
+    "reviewed_at_utc": null,
+    "reviewer": null,
+    "sample_id": "PAKISTAN-FLOODING_014536",
+    "second_review": {
+      "reviewer": null,
+      "status": "PENDING"
+    },
+    "status": "NOT_STARTED",
+    "whole_scene_reviewed": false
+  },
+  {
+    "blind_to_detector_predictions": true,
+    "buildings": [],
+    "empty_scene_confirmed": false,
+    "event": "PAKISTAN-FLOODING",
+    "image_sha256": {
+      "post": null,
+      "pre": null
+    },
+    "notes": "Empty list is an unfilled form, never a negative scene label.",
+    "review_seconds": null,
+    "reviewed_at_utc": null,
+    "reviewer": null,
+    "sample_id": "PAKISTAN-FLOODING_003197",
+    "second_review": {
+      "reviewer": null,
+      "status": "PENDING"
+    },
+    "status": "NOT_STARTED",
+    "whole_scene_reviewed": false
+  },
+  {
+    "blind_to_detector_predictions": true,
+    "buildings": [],
+    "empty_scene_confirmed": false,
+    "event": "PAKISTAN-FLOODING",
+    "image_sha256": {
+      "post": null,
+      "pre": null
+    },
+    "notes": "Empty list is an unfilled form, never a negative scene label.",
+    "review_seconds": null,
+    "reviewed_at_utc": null,
+    "reviewer": null,
+    "sample_id": "PAKISTAN-FLOODING_006998",
+    "second_review": {
+      "reviewer": null,
+      "status": "PENDING"
+    },
+    "status": "NOT_STARTED",
+    "whole_scene_reviewed": false
+  },
+  {
+    "blind_to_detector_predictions": true,
+    "buildings": [],
+    "empty_scene_confirmed": false,
+    "event": "PAKISTAN-FLOODING",
+    "image_sha256": {
+      "post": null,
+      "pre": null
+    },
+    "notes": "Empty list is an unfilled form, never a negative scene label.",
+    "review_seconds": null,
+    "reviewed_at_utc": null,
+    "reviewer": null,
+    "sample_id": "PAKISTAN-FLOODING_013475",
+    "second_review": {
+      "reviewer": null,
+      "status": "PENDING"
+    },
+    "status": "NOT_STARTED",
+    "whole_scene_reviewed": false
+  },
+  {
+    "blind_to_detector_predictions": true,
+    "buildings": [],
+    "empty_scene_confirmed": false,
+    "event": "TEXAS-TORNADOES",
+    "image_sha256": {
+      "post": null,
+      "pre": null
+    },
+    "notes": "Empty list is an unfilled form, never a negative scene label.",
+    "review_seconds": null,
+    "reviewed_at_utc": null,
+    "reviewer": null,
+    "sample_id": "TEXAS-TORNADOES_004417",
+    "second_review": {
+      "reviewer": null,
+      "status": "PENDING"
+    },
+    "status": "NOT_STARTED",
+    "whole_scene_reviewed": false
+  },
+  {
+    "blind_to_detector_predictions": true,
+    "buildings": [],
+    "empty_scene_confirmed": false,
+    "event": "TEXAS-TORNADOES",
+    "image_sha256": {
+      "post": null,
+      "pre": null
+    },
+    "notes": "Empty list is an unfilled form, never a negative scene label.",
+    "review_seconds": null,
+    "reviewed_at_utc": null,
+    "reviewer": null,
+    "sample_id": "TEXAS-TORNADOES_000325",
+    "second_review": {
+      "reviewer": null,
+      "status": "PENDING"
+    },
+    "status": "NOT_STARTED",
+    "whole_scene_reviewed": false
+  },
+  {
+    "blind_to_detector_predictions": true,
+    "buildings": [],
+    "empty_scene_confirmed": false,
+    "event": "TEXAS-TORNADOES",
+    "image_sha256": {
+      "post": null,
+      "pre": null
+    },
+    "notes": "Empty list is an unfilled form, never a negative scene label.",
+    "review_seconds": null,
+    "reviewed_at_utc": null,
+    "reviewer": null,
+    "sample_id": "TEXAS-TORNADOES_003987",
+    "second_review": {
+      "reviewer": null,
+      "status": "PENDING"
+    },
+    "status": "NOT_STARTED",
+    "whole_scene_reviewed": false
+  },
+  {
+    "blind_to_detector_predictions": true,
+    "buildings": [],
+    "empty_scene_confirmed": false,
+    "event": "TEXAS-TORNADOES",
+    "image_sha256": {
+      "post": null,
+      "pre": null
+    },
+    "notes": "Empty list is an unfilled form, never a negative scene label.",
+    "review_seconds": null,
+    "reviewed_at_utc": null,
+    "reviewer": null,
+    "sample_id": "TEXAS-TORNADOES_002697",
+    "second_review": {
+      "reviewer": null,
+      "status": "PENDING"
+    },
+    "status": "NOT_STARTED",
+    "whole_scene_reviewed": false
+  },
+  {
+    "blind_to_detector_predictions": true,
+    "buildings": [],
+    "empty_scene_confirmed": false,
+    "event": "TEXAS-TORNADOES",
+    "image_sha256": {
+      "post": null,
+      "pre": null
+    },
+    "notes": "Empty list is an unfilled form, never a negative scene label.",
+    "review_seconds": null,
+    "reviewed_at_utc": null,
+    "reviewer": null,
+    "sample_id": "TEXAS-TORNADOES_002969",
+    "second_review": {
+      "reviewer": null,
+      "status": "PENDING"
+    },
+    "status": "NOT_STARTED",
+    "whole_scene_reviewed": false
+  },
+  {
+    "blind_to_detector_predictions": true,
+    "buildings": [],
+    "empty_scene_confirmed": false,
+    "event": "TEXAS-TORNADOES",
+    "image_sha256": {
+      "post": null,
+      "pre": null
+    },
+    "notes": "Empty list is an unfilled form, never a negative scene label.",
+    "review_seconds": null,
+    "reviewed_at_utc": null,
+    "reviewer": null,
+    "sample_id": "TEXAS-TORNADOES_004813",
+    "second_review": {
+      "reviewer": null,
+      "status": "PENDING"
+    },
+    "status": "NOT_STARTED",
+    "whole_scene_reviewed": false
+  }
+]

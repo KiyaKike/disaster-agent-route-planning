@@ -1,0 +1,92 @@
+[
+  {
+    "building_id": "1729be369b34473ab07e9725797ac0da",
+    "eligible": false,
+    "labels": {
+      "pre": "un-classified",
+      "post": "un-classified",
+      "uas": "un-classified"
+    },
+    "primary_target": false
+  },
+  {
+    "building_id": "20384c213fd74a0c9cc3978607b031b8",
+    "eligible": true,
+    "labels": {
+      "pre": "no damage",
+      "post": "no damage",
+      "uas": "no damage"
+    },
+    "primary_target": false
+  },
+  {
+    "building_id": "41296eb55fcd4e918a7efc4b072159e1",
+    "eligible": false,
+    "labels": {
+      "pre": "no damage",
+      "post": "no damage",
+      "uas": "no damage"
+    },
+    "primary_target": false
+  },
+  {
+    "building_id": "45425e2abb0a421bb42c37ddd06ce854",
+    "eligible": false,
+    "labels": {
+      "pre": "no damage",
+      "post": "no damage",
+      "uas": "no damage"
+    },
+    "primary_target": false
+  },
+  {
+    "building_id": "589784ab80754a0c999d6c048820bb59",
+    "eligible": false,
+    "labels": {
+      "pre": "no damage",
+      "post": "no damage",
+      "uas": "no damage"
+    },
+    "primary_target": false
+  },
+  {
+    "building_id": "90274863bad440d5ae77925ca1fc9328",
+    "eligible": false,
+    "labels": {
+      "pre": "no damage",
+      "post": "un-classified",
+      "uas": "un-classified"
+    },
+    "primary_target": false
+  },
+  {
+    "building_id": "b2876c120fd2410fa2ac77d1c7b7bcbc",
+    "eligible": false,
+    "labels": {
+      "pre": "no damage",
+      "post": "no damage",
+      "uas": "no damage"
+    },
+    "primary_target": false
+  },
+  {
+    "building_id": "c78c6b251ceb4d198b8c0c503aa7b04b",
+    "eligible": false,
+    "labels": {
+      "pre": "no damage",
+      "post": "no damage",
+      "uas": "no damage"
+    },
+    "primary_target": false
+  },
+  {
+    "building_id": "fcedfc4478a8427db2d7bf63802bb25c",
+    "eligible": false,
+    "labels": {
+      "pre": "un-classified",
+      "post": "un-classified",
+      "uas": "un-classified"
+    },
+    "primary_target": false
+  }
+]

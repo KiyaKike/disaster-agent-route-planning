@@ -1,0 +1,16 @@
+{
+  "closed_budget_violations": 0,
+  "condition_summaries_replayed": 216,
+  "future_signal_accesses_by_observer": 0,
+  "independent_replay_note": "Independent feasibility,choice,belief,timing and reward formulas;uses recorded public geometry and independently regenerated synthetic truth. No real target efficacy claim.",
+  "old_perception_frozen_sources_unchanged": 68,
+  "original_real_target_table_sha256_unchanged": true,
+  "paid_observation_steps_checked": 53552,
+  "paired_condition_comparisons_replayed": 162,
+  "realPS_geometry_routes_checked": 4,
+  "replanning_events_checked": 27812,
+  "routes_independently_replayed": 2160,
+  "simulation_worlds_regenerated": 60,
+  "status": "PASS",
+  "synthetic_targets_created_in_separate_artifact": true
+}

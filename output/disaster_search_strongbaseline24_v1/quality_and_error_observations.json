@@ -1,0 +1,395 @@
+{
+  "status": "DESCRIPTIVE_POSTHOC_NO_SCORE_CHANGES",
+  "method": "Exact RGB(0,0,0) pixel fraction,not a validated cloud/nodata mask. All24 retained and scoring domain unchanged.",
+  "images": [
+    {
+      "sample_id": "santa-rosa-wildfire_00000008",
+      "mode": "pre",
+      "source_sha256": "21823e41e04b6058d294fedd2a58e5b9dd68b3d98664e50bc779f82b8e82419d",
+      "all_zero_RGB_pixels": 0,
+      "total_pixels": 1048576,
+      "all_zero_RGB_fraction": 0.0
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000008",
+      "mode": "post",
+      "source_sha256": "a457996f562ea597130994d1f7b5870b83ab19658b3f58bba93e872fb65aeacf",
+      "all_zero_RGB_pixels": 0,
+      "total_pixels": 1048576,
+      "all_zero_RGB_fraction": 0.0
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000010",
+      "mode": "pre",
+      "source_sha256": "32c89128fa56967952c25dc336e76962344b7cb830761bc367ed1d298d5b2d36",
+      "all_zero_RGB_pixels": 29401,
+      "total_pixels": 1048576,
+      "all_zero_RGB_fraction": 0.028038978576660156
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000010",
+      "mode": "post",
+      "source_sha256": "4259abbffaa3e545df679455059924db0e7643c0ff49069f2b082b08a3adf7ac",
+      "all_zero_RGB_pixels": 24266,
+      "total_pixels": 1048576,
+      "all_zero_RGB_fraction": 0.023141860961914062
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000013",
+      "mode": "pre",
+      "source_sha256": "9d648ae2c24f5fc1ca8aa01b1306089afb7325024d09a6a4ad38732aefa8f7fe",
+      "all_zero_RGB_pixels": 0,
+      "total_pixels": 1048576,
+      "all_zero_RGB_fraction": 0.0
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000013",
+      "mode": "post",
+      "source_sha256": "255d64cd68505c01b44ce2dbc42757cd8c6a5f475b5a99a710a60056d41e6970",
+      "all_zero_RGB_pixels": 0,
+      "total_pixels": 1048576,
+      "all_zero_RGB_fraction": 0.0
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000025",
+      "mode": "pre",
+      "source_sha256": "d4010886f53fbc7f7b362cf23c2b13f839912de608cd2f026e1066159044bdfb",
+      "all_zero_RGB_pixels": 0,
+      "total_pixels": 1048576,
+      "all_zero_RGB_fraction": 0.0
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000025",
+      "mode": "post",
+      "source_sha256": "bc3097775b2a07cabcddfc78de0e103c55700fc342858f4b54b700ce2ebd2ea6",
+      "all_zero_RGB_pixels": 0,
+      "total_pixels": 1048576,
+      "all_zero_RGB_fraction": 0.0
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000029",
+      "mode": "pre",
+      "source_sha256": "caa0609596d073d577607f5b379a68fb97d4d7deaf48ea859cd27f16c8934fcf",
+      "all_zero_RGB_pixels": 0,
+      "total_pixels": 1048576,
+      "all_zero_RGB_fraction": 0.0
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000029",
+      "mode": "post",
+      "source_sha256": "06c05f874fbbd732467e0fc10e7a7f837b62c7784bdc6cd70d145576a8bf4fbd",
+      "all_zero_RGB_pixels": 0,
+      "total_pixels": 1048576,
+      "all_zero_RGB_fraction": 0.0
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000054",
+      "mode": "pre",
+      "source_sha256": "301aedfe44a94c6fdd0af795b3186b417079083016a7d88962b940883d5a3f56",
+      "all_zero_RGB_pixels": 297044,
+      "total_pixels": 1048576,
+      "all_zero_RGB_fraction": 0.2832832336425781
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000054",
+      "mode": "post",
+      "source_sha256": "f1fe040ce0b0a1c68e0f10280de67f900198b16b80e086ad2128495583e400db",
+      "all_zero_RGB_pixels": 302144,
+      "total_pixels": 1048576,
+      "all_zero_RGB_fraction": 0.28814697265625
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000062",
+      "mode": "pre",
+      "source_sha256": "c7d74d80ed857232bb3d551dea3fd1810957810e646a5487d823d779b3b21437",
+      "all_zero_RGB_pixels": 0,
+      "total_pixels": 1048576,
+      "all_zero_RGB_fraction": 0.0
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000062",
+      "mode": "post",
+      "source_sha256": "4b36c7e615e15e2587df0fe04d2491000e0dc93275440aaf88d2ad0106056acc",
+      "all_zero_RGB_pixels": 0,
+      "total_pixels": 1048576,
+      "all_zero_RGB_fraction": 0.0
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000108",
+      "mode": "pre",
+      "source_sha256": "05b571898b027cb68941309e397ba37a2c93fcc5166035e64e4c542ef7368a2d",
+      "all_zero_RGB_pixels": 0,
+      "total_pixels": 1048576,
+      "all_zero_RGB_fraction": 0.0
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000108",
+      "mode": "post",
+      "source_sha256": "267fa07813903a1ebb7a6e1f8cce948484ff3088e34ce7f2ceb1af4a840d2e49",
+      "all_zero_RGB_pixels": 0,
+      "total_pixels": 1048576,
+      "all_zero_RGB_fraction": 0.0
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000112",
+      "mode": "pre",
+      "source_sha256": "231b0239c1a76a25bc17eb9109d5168873ef144d655e6d92cd8ae21c1497dd48",
+      "all_zero_RGB_pixels": 830303,
+      "total_pixels": 1048576,
+      "all_zero_RGB_fraction": 0.7918386459350586
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000112",
+      "mode": "post",
+      "source_sha256": "809a1ab6d17b9a0f88d7196ee0856772d358de0b659e788aa4940f123ebc715e",
+      "all_zero_RGB_pixels": 834820,
+      "total_pixels": 1048576,
+      "all_zero_RGB_fraction": 0.7961463928222656
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000115",
+      "mode": "pre",
+      "source_sha256": "37cc14f9ffd6e575c50e0b4a1af0f04ae389ca2d16de45664595736d377e6cf1",
+      "all_zero_RGB_pixels": 0,
+      "total_pixels": 1048576,
+      "all_zero_RGB_fraction": 0.0
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000115",
+      "mode": "post",
+      "source_sha256": "84fc34eb18fa265ca02928a9a381d03497527f3aa85b145ad6d90923c754bff1",
+      "all_zero_RGB_pixels": 0,
+      "total_pixels": 1048576,
+      "all_zero_RGB_fraction": 0.0
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000122",
+      "mode": "pre",
+      "source_sha256": "5280986d81d1ed0d4b90d4c10d5e6ef57b4cc2b2e21f08c3a05c55674db9a6cc",
+      "all_zero_RGB_pixels": 0,
+      "total_pixels": 1048576,
+      "all_zero_RGB_fraction": 0.0
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000122",
+      "mode": "post",
+      "source_sha256": "f1eff86655db713509004c06d78c73cf1ef895a0fa51e1776330ddeca3e43f53",
+      "all_zero_RGB_pixels": 0,
+      "total_pixels": 1048576,
+      "all_zero_RGB_fraction": 0.0
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000126",
+      "mode": "pre",
+      "source_sha256": "a5165f80dcb65434c3e08c0b3845d5c4b1d6515c9eee38346a524636c17c4c81",
+      "all_zero_RGB_pixels": 0,
+      "total_pixels": 1048576,
+      "all_zero_RGB_fraction": 0.0
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000126",
+      "mode": "post",
+      "source_sha256": "34b87154303b19bc2c7c8fe8fc83a6c3d3aa4e9d72137a2cb0ac5ef477678f87",
+      "all_zero_RGB_pixels": 0,
+      "total_pixels": 1048576,
+      "all_zero_RGB_fraction": 0.0
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000160",
+      "mode": "pre",
+      "source_sha256": "c8d92833d68a78037ac6cd76a5235fe83f41b24b0b09a5bdd10ccec955cc2663",
+      "all_zero_RGB_pixels": 0,
+      "total_pixels": 1048576,
+      "all_zero_RGB_fraction": 0.0
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000160",
+      "mode": "post",
+      "source_sha256": "c144e22d616092dbe689c854cecf49b5165d97fbc00085559f4b1a26e0bf277e",
+      "all_zero_RGB_pixels": 0,
+      "total_pixels": 1048576,
+      "all_zero_RGB_fraction": 0.0
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000188",
+      "mode": "pre",
+      "source_sha256": "b86e8e668bc30f009698387ef3cdcf6789e9342c576a82e1701dde5e3d8a0f15",
+      "all_zero_RGB_pixels": 18907,
+      "total_pixels": 1048576,
+      "all_zero_RGB_fraction": 0.01803112030029297
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000188",
+      "mode": "post",
+      "source_sha256": "411f89a2d8cdbd9441b281980c97ae55af4bb0017c9818599cac9b6da00ae6bb",
+      "all_zero_RGB_pixels": 247350,
+      "total_pixels": 1048576,
+      "all_zero_RGB_fraction": 0.23589134216308594
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000193",
+      "mode": "pre",
+      "source_sha256": "5650c11895756fb049579c6a824206202140bcb96e425aed524cc56b1b43e40e",
+      "all_zero_RGB_pixels": 0,
+      "total_pixels": 1048576,
+      "all_zero_RGB_fraction": 0.0
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000193",
+      "mode": "post",
+      "source_sha256": "ede06fd81c86ac6e895b9d27f0849598e4787980045fde25a12de4a2025c7449",
+      "all_zero_RGB_pixels": 0,
+      "total_pixels": 1048576,
+      "all_zero_RGB_fraction": 0.0
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000194",
+      "mode": "pre",
+      "source_sha256": "38b89403ff7767f4b21b090ad8d095ef0eba9c91a12741de0345d5121c05e699",
+      "all_zero_RGB_pixels": 0,
+      "total_pixels": 1048576,
+      "all_zero_RGB_fraction": 0.0
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000194",
+      "mode": "post",
+      "source_sha256": "1717eab92f75f2f09165e228e0ff946fe7dc0fb73c6ed3f37da7353ba502c5dd",
+      "all_zero_RGB_pixels": 0,
+      "total_pixels": 1048576,
+      "all_zero_RGB_fraction": 0.0
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000227",
+      "mode": "pre",
+      "source_sha256": "7e89a34092a5650215fbf5bd39a7fd494c43df16ec520edf498dbafebcc649aa",
+      "all_zero_RGB_pixels": 0,
+      "total_pixels": 1048576,
+      "all_zero_RGB_fraction": 0.0
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000227",
+      "mode": "post",
+      "source_sha256": "3f31c3ae8236454499a1b92e1787fc24dc889d39c0e02eb01a0dbf85ce54c22d",
+      "all_zero_RGB_pixels": 0,
+      "total_pixels": 1048576,
+      "all_zero_RGB_fraction": 0.0
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000232",
+      "mode": "pre",
+      "source_sha256": "48a648aedaba2cbdb9018bc09c5b1090d6d5ed1796819a25e1c3448314a3544b",
+      "all_zero_RGB_pixels": 0,
+      "total_pixels": 1048576,
+      "all_zero_RGB_fraction": 0.0
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000232",
+      "mode": "post",
+      "source_sha256": "366193c7be82683edf534d5284c5c368bb94673dc4bb9ad8cb6415364382965f",
+      "all_zero_RGB_pixels": 0,
+      "total_pixels": 1048576,
+      "all_zero_RGB_fraction": 0.0
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000255",
+      "mode": "pre",
+      "source_sha256": "50b5612d50b9a6036afe35a69239f092388ef491c02c24af87b0d565a22e4fe7",
+      "all_zero_RGB_pixels": 0,
+      "total_pixels": 1048576,
+      "all_zero_RGB_fraction": 0.0
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000255",
+      "mode": "post",
+      "source_sha256": "cd03704e654f8722a1e7eb6ebf310bb5a1abe2ada091af716d68eef4d2e1d70a",
+      "all_zero_RGB_pixels": 0,
+      "total_pixels": 1048576,
+      "all_zero_RGB_fraction": 0.0
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000263",
+      "mode": "pre",
+      "source_sha256": "640f9525c133a269a25c8e722ac99bc9d50fffa3dde2f6faabfb2904f9c82bbb",
+      "all_zero_RGB_pixels": 64054,
+      "total_pixels": 1048576,
+      "all_zero_RGB_fraction": 0.06108665466308594
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000263",
+      "mode": "post",
+      "source_sha256": "3414383c28c0197a829b2a6722066be3ef05d12ea2c739f171919e0cfbf64dae",
+      "all_zero_RGB_pixels": 61997,
+      "total_pixels": 1048576,
+      "all_zero_RGB_fraction": 0.05912494659423828
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000266",
+      "mode": "pre",
+      "source_sha256": "b320f03132e59f47f2a694db849b151db8776f9969eff5581b63852611896b95",
+      "all_zero_RGB_pixels": 0,
+      "total_pixels": 1048576,
+      "all_zero_RGB_fraction": 0.0
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000266",
+      "mode": "post",
+      "source_sha256": "d8311e69c987821bc3f19f071ffb0cc9e35dcdf07a3bda04e6f1376de6326fba",
+      "all_zero_RGB_pixels": 0,
+      "total_pixels": 1048576,
+      "all_zero_RGB_fraction": 0.0
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000278",
+      "mode": "pre",
+      "source_sha256": "0916804d00199efdff7f0d3f2427efa584b1d2cb8a6d30f737adf7403d3833f1",
+      "all_zero_RGB_pixels": 0,
+      "total_pixels": 1048576,
+      "all_zero_RGB_fraction": 0.0
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000278",
+      "mode": "post",
+      "source_sha256": "367df6a1cc65a184ada0792c3dc1aff9e6c8bd95bb86f1f05cbdb4f987eb4c4f",
+      "all_zero_RGB_pixels": 0,
+      "total_pixels": 1048576,
+      "all_zero_RGB_fraction": 0.0
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000342",
+      "mode": "pre",
+      "source_sha256": "2a2b2cdc678bbbca5994b779ec490e3768ae509b1a6170a214ebfe941018e683",
+      "all_zero_RGB_pixels": 4963,
+      "total_pixels": 1048576,
+      "all_zero_RGB_fraction": 0.004733085632324219
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000342",
+      "mode": "post",
+      "source_sha256": "e79a75b6a5117e1d457a75b620860646e4e3cde7963719e4a5bbecc54623ebd8",
+      "all_zero_RGB_pixels": 1863,
+      "total_pixels": 1048576,
+      "all_zero_RGB_fraction": 0.0017766952514648438
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000352",
+      "mode": "pre",
+      "source_sha256": "fef0fc9b0a0be7b6484f005359af087b11a7b9aa4de9da36fe4295435a12ac59",
+      "all_zero_RGB_pixels": 0,
+      "total_pixels": 1048576,
+      "all_zero_RGB_fraction": 0.0
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000352",
+      "mode": "post",
+      "source_sha256": "21c5ed19b21c8b5b07b93dcae07a0d90e5b809fba2e960733f23c0986e422bc3",
+      "all_zero_RGB_pixels": 0,
+      "total_pixels": 1048576,
+      "all_zero_RGB_fraction": 0.0
+    }
+  ],
+  "lowest_positive_recall": 0.5067204301075269,
+  "reference_negative_scenes_with_FP": 4,
+  "negative_scene_FP_total": 907,
+  "new_model_calls": 0,
+  "samples_dropped": 0
+}

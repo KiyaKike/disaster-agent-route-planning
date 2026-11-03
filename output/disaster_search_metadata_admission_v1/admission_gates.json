@@ -1,0 +1,16 @@
+{
+  "automatic_scene_exclusion_or_replacement": false,
+  "candidate_identity_gate": "PASS_AUTHOR_HOLD_ID_DISJOINT_FROM_TRAIN_AND_SELECTION_TEST",
+  "checkpoint_exposure_gate": "PUBLISHED_RECIPE_IDENTITIES_CHECKED_ALL_NINE_CANDIDATE_EVENTS_SEEN_NO_UNSEEN_EVENT_PERCEPTION_CLAIM",
+  "development_diversity_gate": "TWO_EVENTS_WITH_CACHE_DETECTIONS_MEXICO_RETAINED_NO_REPLACEMENT",
+  "geometry_gate": "INFERRED_SCREEN_ONLY_OFFICIAL_FOOTPRINT_AND_MISSING_TRAINING_RANGES_UNRESOLVED",
+  "independent_validation_admitted": false,
+  "license_gate": "PINNED_DECLARATIONS_INVENTORIED_ORIGINAL_PERMISSION_CHAIN_NOT_REVERIFIED",
+  "measurement_gate": "DEVELOPMENT_ENGINEERING_PROXY_CHECKED_REAL_WORLD_IDENTIFICATION_UNVERIFIED",
+  "new_method_selected": false,
+  "next": "Use the inferred overlap ledger to define the limits of fixed-detector policy evaluation. Do not rerun heuristics or call this cohort geographically independent. Next specify a budget-compatible strong baseline and a feasible independent-data claim before new controller training or reserved scoring.",
+  "pixel_duplicate_gate": "FULL_TRAINING_POOL_PIXEL_HASHES_UNVERIFIED",
+  "stage": "METADATA_ADMISSION_REMAINS_CONDITIONAL",
+  "strong_baseline_gate": "BUDGET_COMPATIBLE_STRONG_BASELINE_STILL_REQUIRED_NOT_FULL_MF_ENS",
+  "validation_or_confirmation_scoring_enabled": false
+}

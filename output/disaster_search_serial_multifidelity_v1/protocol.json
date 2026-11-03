@@ -1,0 +1,166 @@
+{
+  "budgets": [
+    32
+  ],
+  "control_required": "Every one-stage trajectory must exactly reproduce the previously saved matched batch_tail trace after removing greedy_utility; all policies fully decision/paid-outcome/score replayed.",
+  "expected_threshold_scores": 51840,
+  "expected_trajectories": 17280,
+  "exploration": "At most min(C,R-C) unseen cells outside current cost-optimal final batch; exchange-value ranking; all prefixes including0; pay every survey and possible upgrade. Exact native/B-/B+ enumeration then outcome-adapted costed tail. No new unlocks inside final tail batch.",
+  "fit_scopes": {
+    "development_fit": "Frozen all72 models; in-sample.",
+    "event_holdout": "Frozen other-two-development-events models; already inspected development, not independent validation."
+  },
+  "interpretation_stop": "If two-stage improves only surrogate values, or fails to beat raw ranking/gate or its one-stage control, record that result and do not deepen this planner or tune k on these72. Any positive development result remains provisional; no method selected or reserved scoring automatically enabled.",
+  "limits": [
+    "Serial shared costs and noisy native feedback differ from original exact parallel high fidelity.",
+    "Expected same-cell count proxy omits cross-cell duplicate discoveries.",
+    "Only2 development events have cached detections, geographic independence unverified, all candidate events exposed to detector training.",
+    "Only primary B32,C2,mixed tested in this bounded stage; no full cost/quality/budget robustness claim."
+  ],
+  "new_inference_calls": 0,
+  "new_method_selected": false,
+  "new_model_fit": false,
+  "not_faithful_original_mfens": true,
+  "numeric_anchor": "serial_one_stage directly uses frozen batch_tail values. two_stage adds nonnegative extra value to the same values; compressed h0 must match original Q within1e-9. All original online EPS/greedy/cell ties unchanged.",
+  "old_stopped_variants_remain_stopped": true,
+  "paid_gpu": false,
+  "policies": [
+    "serial_one_stage",
+    "serial_two_stage"
+  ],
+  "primary_threshold": 0.1,
+  "primary_tie_rule": "fixed_random",
+  "quality_seeds": [
+    20261025,
+    20261026,
+    20261027,
+    20261028,
+    20261029
+  ],
+  "random_order_seeds": [
+    20261030,
+    20261031,
+    20261032,
+    20261033,
+    20261034,
+    20261035,
+    20261036,
+    20261037,
+    20261038,
+    20261039
+  ],
+  "scenarios": [
+    "mixed_survey"
+  ],
+  "source_code_sha256": {
+    "audit_development_budget_controls.py": "d911b1847a5464fe392f2b76b7689f294f3d84b086f1956f746172e98bcaa2ef",
+    "audit_serial_multifidelity_controls.py": "0c99aaf6c2f24f39d2fa765e1dad4c81f6349d33e9a48a0a8ed53a13d41f31db",
+    "build_xbd_mini.py": "080c23c373b59827acf78f3bfd421c85a14e6407094ce871dfaeed5e55c3e501",
+    "cross_cell_count_smoke.py": "4312afc1ac40d33210ee15a8cc91464d6620b5fd638e437e47d1db1b5d1fbc0c",
+    "paired_count_baseline.py": "b04ea42f2e9880b67d054ae76df98b0ddb7c3f4ca49a4ff462de803cafe67818",
+    "plan_search_v2.py": "3f88219832ca8d3939d5cbc38919974d1932f4b941e1248c208534493254b83b",
+    "run_budget_planning.py": "75734fac1c2c4d65cf2980c7eb7a6749c769ebe7902c7c90f01d640c21005bd2",
+    "run_development_budget_controls.py": "baca8a89a7b1ceef36670b406fd0cbabf8a3818b72dc2c387644c3ce0afed53e",
+    "run_rank_calibration_control.py": "c0fd2a267e491b09633e86c87a2aa34783d92104260ef9642dbae6110bb3ac9e",
+    "run_serial_multifidelity_controls.py": "9dcdb93afac0ead97b744f121a039981b2c90913aa5e7deab634d114af50cdc4",
+    "run_utility_tie_controls.py": "29f532e6ab62cc175398af6b8d4ad03203d42b2207818c094c30c7db0726cf4d",
+    "serial_multifidelity_baseline.py": "2fe7accabd4c63deef4fc4ce0682a097aed6b22e80d6e44fa52b6fa6054ebe8b",
+    "test_serial_multifidelity_baseline.py": "43e7a128cda634f6db2f5609e5a5ca6e301241bed4d7573f02ac485ce3e8d3ba"
+  },
+  "source_model": "Exactly frozen local count means and paired blur declaration probabilities; no refit, spatial propagation, global building identity or future outcomes.",
+  "sources": {
+    "adaptation": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/serial_multifidelity_adaptation.md",
+      "sha256": "be0f178493454b110c7f43ac9ec168e03a2992ae57b5e730f5cfb11509f3977b"
+    },
+    "association": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_perception_v1/association_report.json",
+      "sha256": "59c51a09e2c46eeac0c778de1dd9af2771f72bee5ff526ac967c0a6fb75fbffc"
+    },
+    "contract": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_v2_design/experiment_contract_v2_2.json",
+      "sha256": "452de54015d0c717819553487885007d8aabc82751499387d17b0ba2044919c0"
+    },
+    "features": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_development72_budget_controls_v1/public_features.json",
+      "sha256": "ce768154dd129816ff5ecf30042fbd60e621e04a0e93dcad90f36cdc42cb2e27"
+    },
+    "model_receipt": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_development72_budget_controls_v1/completion_receipt.json",
+      "sha256": "14534c581054e6fb613cb97d0a4012fec8a6b3decfe53e26358610378094bed2"
+    },
+    "models": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_development72_budget_controls_v1/models.json",
+      "sha256": "c9566ab3c6aaa920e1baf62d3093c28e6bea121e5d85c8c78965b01d59390350"
+    },
+    "observations": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_perception_v1/observations.json",
+      "sha256": "30aca3da060f9fd6acfdc6e73efea0c593360765b455150195cbfbc02f2556e2"
+    },
+    "old_batch_scenes": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_utility_ties_v1/scene_means.json",
+      "sha256": "c1dfa13e4cc8e552248f421a496e2473944cd2aae514d1bab16de3a999264c26"
+    },
+    "old_batch_trajectories": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_utility_ties_v1/trajectories.jsonl.gz",
+      "sha256": "2c886d893b3e686fb1325425fd7e9269fac349c5dab50cee7bd53a90d85a4117"
+    },
+    "paper": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_budget_planning_v1/sources/nguyen21f.pdf",
+      "sha256": "c71e775dcc77a0765a366b3e9a71786b9dc6611e2cbee90775e330a1f83cc1f0"
+    },
+    "paper_receipt": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_budget_planning_v1/sources/source_receipt.json",
+      "sha256": "8da8aaeb068c6318a72385c56309f16e9a24eb8f50cde0e97a679bc0ef78ca66"
+    },
+    "paper_text": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_budget_planning_v1/sources/nguyen21f.txt",
+      "sha256": "d0167932fddfd0ef5e5d69ebb4724a42ddfc2dbb308984c72a11a36735998cea"
+    },
+    "preflight": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/serial_multifidelity_public_preflight.json",
+      "sha256": "f91facf4608d50b96f046392e3a8b2503a9c7f28b1ce5b8076398af0660e9cfd"
+    },
+    "previous_receipt": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_metadata_admission_v1/completion_receipt.json",
+      "sha256": "a98111b295b3cbf42fe0ad8e684f40b72cc0e2e3250bee81288c7fc724d3e058"
+    },
+    "selection": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_v2_design/next_development_batch.json",
+      "sha256": "0b93aa296f53276f508a4d2dd4fcfa122f93578f3f3e939ee731d350021569c8"
+    },
+    "simple_receipt": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_unified_revisit_v1/completion_receipt.json",
+      "sha256": "fe607694e42d453f166f659b051c675c0de578ad3cc3b0cb744279a922425c08"
+    },
+    "simple_scenes": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_unified_revisit_v1/scene_means.json",
+      "sha256": "9d367b94fe4de157d29803ee69629979ed584747f6b54c3fdc95f12fc9d2836b"
+    },
+    "spatial": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_cross_cell_smoke_v1/spatial_groups.json",
+      "sha256": "d8a2dc9fe8d4120ade4ccd07b6ea6411d6fda24a596f848d2823ddfba1ba654a"
+    },
+    "ties_receipt": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_utility_ties_v1/completion_receipt.json",
+      "sha256": "4c873404263ab5163b77c4e1c13f3d96a2a4c5888f6762f30c783d545b2f5e0d"
+    }
+  },
+  "stage": "DEVELOPMENT72_SERIAL_TWO_STAGE_MULTIFIDELITY_PRIMARY_CONTROL",
+  "statistics": "All repeats within scene, scenes within event, then events equally; all3 tie rules and all3 thresholds, retain Mexico. No efficacy claim from surrogate Q or number of trajectories.",
+  "thresholds": [
+    0.05,
+    0.1,
+    0.25
+  ],
+  "tie_rules": [
+    "row_major",
+    "raw_change",
+    "fixed_random"
+  ],
+  "timing": "Bounded public-parameter caches reused within scene/fit scope across repetitions, then cleared; saved planning_s is execution accounting, not a cold-cache runtime benchmark.",
+  "upgrade_costs": [
+    2
+  ],
+  "validation_or_confirmation_access": false
+}

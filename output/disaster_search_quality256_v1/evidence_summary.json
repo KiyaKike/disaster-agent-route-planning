@@ -1,0 +1,65 @@
+{
+  "blurred_boolean_positives": 0,
+  "blurred_masks_all_zero": true,
+  "blurred_predicted_building_pixels": 314301,
+  "budget8_revisit_feasible": false,
+  "full16_area_blurred": {
+    "covered_reference_pixels": 0,
+    "detectable_reference_events": 0,
+    "detectable_reference_scenes": 0,
+    "domain": "all_published_pixels",
+    "event_macro_covered_pixels_per_scene": 0.0,
+    "event_macro_recall_target_events": 0.0,
+    "events": 3,
+    "free_covered_reference_pixels": 0,
+    "free_false_positive_pixels": 0,
+    "incremental_covered_reference_pixels": 0,
+    "incremental_false_positive_pixels": 0,
+    "input_mode": "blurred256",
+    "pooled_area_recall": 0.0,
+    "pooled_reference_precision": null,
+    "reference_false_positive_pixels": 0,
+    "reference_pixels": 19159,
+    "reference_positive_events": 2,
+    "scenes": 18
+  },
+  "full16_area_native": {
+    "covered_reference_pixels": 5353,
+    "detectable_reference_events": 2,
+    "detectable_reference_scenes": 2,
+    "domain": "all_published_pixels",
+    "event_macro_covered_pixels_per_scene": 297.38888888888886,
+    "event_macro_recall_target_events": 0.3623680075267211,
+    "events": 3,
+    "free_covered_reference_pixels": 0,
+    "free_false_positive_pixels": 0,
+    "incremental_covered_reference_pixels": 5353,
+    "incremental_false_positive_pixels": 4355,
+    "input_mode": "native256",
+    "pooled_area_recall": 0.27939871600814237,
+    "pooled_reference_precision": 0.5514009064688916,
+    "reference_false_positive_pixels": 4355,
+    "reference_pixels": 19159,
+    "reference_positive_events": 2,
+    "scenes": 18
+  },
+  "gained_reference_pixels": 0,
+  "lost_reference_pixels": 5353,
+  "matrix_is_prediction_comparison_not_ground_truth_confusion": true,
+  "native_only_footprint_evidence_preserved": true,
+  "native_vs_blur_boolean_matrix": [
+    [
+      67,
+      0
+    ],
+    [
+      5,
+      0
+    ]
+  ],
+  "new_search_method_selected": false,
+  "new_search_runs": 0,
+  "physical_accuracy_claim": false,
+  "preserved_reference_pixels": 0,
+  "primary_screen_passed": false
+}

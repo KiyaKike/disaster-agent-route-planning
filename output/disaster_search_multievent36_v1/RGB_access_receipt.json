@@ -1,0 +1,8 @@
+{
+  "queue_sha256": "3532c8cb613bd4d3643dc135be5b268ddc53807a87e2cab22d8db1ee0beea112",
+  "selected_sha256": "1b25f314b403b80f37490e7641f0ac257e24cf1df9049f2f1e434ea5be3ec0e5",
+  "exact_pairs": 36,
+  "images": 72,
+  "expected_native_RGB_bytes": 106554040,
+  "replacements_allowed": false
+}

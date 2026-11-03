@@ -1,0 +1,18 @@
+{
+  "budget_primary": 8,
+  "control_plan_sha256": "88eab63a8b39d552aaab0522fbfff7b136df7d09d6469b53414c115541790e2c",
+  "new_fitting": false,
+  "pixel_domains": [
+    "all_published_pixels",
+    "both_dates_nonzero"
+  ],
+  "runner_sha256": "0bd573858bead6e4ac24d6b427e736c2cc1e4e980d6c13f9e28517278e7aaefd",
+  "scores": 16200,
+  "source_sha256": {
+    "features": "38017f159b429c0cf4c7a875971e99e9cf053c3e2c5370697e632218c91436ca",
+    "observations": "05b53b1550f1a315059588195ade66007c5b6f0711d8961160b5f586313677c0",
+    "references": "2fe4670a1baa7b92136d0da675e4649a94c67f99a02a992859e313467a2e2a4c",
+    "rgb_manifest": "4857076df9a54615d023cd4308bd71e505cda70087b7ea74614245debe9379b0"
+  },
+  "trajectories": 8100
+}

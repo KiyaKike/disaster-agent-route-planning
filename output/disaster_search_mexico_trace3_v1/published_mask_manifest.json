@@ -1,0 +1,32 @@
+[
+  {
+    "image_name": "hold/images/mexico-earthquake_00000162",
+    "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_mexico_trace3_v1/published_masks/mexico-earthquake_00000162.png",
+    "pixel_sha256": "b54dbddba131f8c3d088aec12f0cab50f8b2cd25fb1af0fbe2d7f694feceae25",
+    "publisher_path_field": null,
+    "sample_id": "mexico-earthquake_00000162",
+    "selected_row_index_in_full_shard": 26,
+    "sha256": "b73d26c68572801d2c461646d83690fb4d9f11baee15a2e231508af9c6b76b3f",
+    "shard_path": "data/hold-00000-of-00006.parquet"
+  },
+  {
+    "image_name": "hold/images/mexico-earthquake_00000145",
+    "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_mexico_trace3_v1/published_masks/mexico-earthquake_00000145.png",
+    "pixel_sha256": "a650c9a9a3fcb124129e949013a257d885d0ac9f6115cafd35552c583ccf7505",
+    "publisher_path_field": null,
+    "sample_id": "mexico-earthquake_00000145",
+    "selected_row_index_in_full_shard": 11,
+    "sha256": "2b9570a2a67a8bbbd91cedda5fe656791d98fde7b7db72d12dd124851a1b4ab9",
+    "shard_path": "data/hold-00003-of-00006.parquet"
+  },
+  {
+    "image_name": "hold/images/mexico-earthquake_00000081",
+    "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_mexico_trace3_v1/published_masks/mexico-earthquake_00000081.png",
+    "pixel_sha256": "fef13ec0780313c2d5b5f1dd1c150c129271849d7b4e6ddea09d2ae7048f8f6a",
+    "publisher_path_field": null,
+    "sample_id": "mexico-earthquake_00000081",
+    "selected_row_index_in_full_shard": 80,
+    "sha256": "08094733e7dab9bbbe02c4cd9adcf5f0f4f76c8d7d71567d1c7bf4442aa51ee2",
+    "shard_path": "data/hold-00004-of-00006.parquet"
+  }
+]

@@ -1,0 +1,58 @@
+{
+  "date": "2026-11-03",
+  "stage": "FEEDBACK_INCREMENT_DIAGNOSTIC_V1",
+  "question": "Given the same paid prefix, do fixed-detector predictions on paid tiles improve prediction of unvisited tiles beyond free public pre/post cues?",
+  "data": "Existing xBD36 cache (36 chips x16 tiles, 3 events x12). Already used for development: results are development diagnostics, never independent validation.",
+  "free_inputs": [
+    "pre_rank",
+    "change_rank",
+    "log_pre_texture",
+    "log_post_change",
+    "chip_mean_log_pre_texture",
+    "chip_mean_log_post_change",
+    "log_prefix_k"
+  ],
+  "feedback_inputs": [
+    "any_observed_positive",
+    "fraction_observed_positive",
+    "log1p_mean_observed_pixels",
+    "has_observed_neighbor",
+    "fraction_neighbor_positive",
+    "distance_to_observed_positive"
+  ],
+  "feedback_source": "predicted_severe_pixels of paid prefix tiles only. tp/fp/reference never used as features.",
+  "targets": {
+    "primary": "y_tp: unvisited tile contains fixed-model true-positive severe pixels (route opportunity actually realizable by this detector)",
+    "secondary": "y_ref: unvisited tile contains published major/destroyed reference pixels (separates route opportunity from detector misses)"
+  },
+  "prefixes": {
+    "primary": "route: prefixes k=1..n of executed post_static budget240 routes (feedback-free policy, not outcome-selected)",
+    "secondary": "random: k in {1,2,4}, 30 uniform draws per chip, seed 20261102"
+  },
+  "model": "L2 logistic regression, lambda=1.0 on standardized features, intercept unpenalized. No tuning.",
+  "splits": {
+    "primary": "leave-one-event-out (train two events, score third)",
+    "secondary": "leave-one-chip-out (event-mixed; weaker isolation)"
+  },
+  "controls": [
+    "prior_permuted_feedback: same feature count, feedback values borrowed from another chip with same scheme and k",
+    "post_utility_unfitted: existing post-cue utility",
+    "neighbor_rule_unfitted: existing untuned 4-neighbor rule from xBD36 replay"
+  ],
+  "metrics": [
+    "pooled out-of-fold AUROC, average precision, log loss, Brier",
+    "per-event blocks (Sunda y_tp has no positives: AUROC/AP null)",
+    "next-pick hit rate over states with any positive unvisited tile",
+    "chip-cluster bootstrap 95% CI of deltas vs prior, 2000 reps, predictions held fixed (no refit)"
+  ],
+  "decision_rule": "Incremental information SUPPORTED only if in primary cell (route, leave-one-event-out, y_tp): AP delta CI lower>0 AND log-loss delta CI upper<0 AND permuted-control AP delta CI lower<=0. Otherwise NOT ESTABLISHED. If not established, do not design a new online updater on this signal; old neighbor/floor/trigger rules stay retired.",
+  "power_note": "Fixed-model TP tiles: Nepal 24 (9 chips), Sunda 0, Tuscaloosa 4 (2 chips). Expect wide intervals; a null result is not evidence of absence.",
+  "gpu_rental": false,
+  "new_model_inference": 0,
+  "new_annotations": 0,
+  "input_sha256": {
+    "public_features.json": "562c1ff2a15a931605dd93d550f915a74efb9f293f3221e3b115e6dc138bbeb2",
+    "private_tile_scores.json": "4113ed32d70d721a5f20a8b4a21b75956fe64969f68e7c179e8a29d89f4819f6",
+    "routes.json": "6cb161ceb05a2d24f54485fd3ec233aa007a6e2b6d744a3792790564ef8f61d7"
+  }
+}

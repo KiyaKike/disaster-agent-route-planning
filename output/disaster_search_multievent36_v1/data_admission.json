@@ -1,0 +1,31 @@
+{
+  "by_event": {
+    "nepal-flooding": {
+      "reference_positive_scenes": 9,
+      "scenes": 12,
+      "severe_pixels": 54999
+    },
+    "sunda-tsunami": {
+      "reference_positive_scenes": 2,
+      "scenes": 12,
+      "severe_pixels": 1456
+    },
+    "tuscaloosa-tornado": {
+      "reference_positive_scenes": 3,
+      "scenes": 12,
+      "severe_pixels": 17579
+    }
+  },
+  "fixed_pairs": 36,
+  "geometry_rule": "Existing halfpixel tolerance,original coordinates retained;unknown/conflicting pixels ignored;no new clipping/relabel rule",
+  "gpu_rental": false,
+  "network_bytes_received": 106639088,
+  "new_human_annotations": 0,
+  "new_model_calls": 0,
+  "original_uids_recovered": false,
+  "selected_damage_rows_returned": 36,
+  "source_revision": "44e219dc1d88c9d0903d6b478d7f2f3c435e574f",
+  "status": "PASS",
+  "training": false,
+  "unselected_outcomes_exposed_or_persisted": false
+}

@@ -1,0 +1,68 @@
+{
+  "region": "1001-Ft-Myers-Beach-Boone.geo.tif",
+  "capture_dates_author_catalog": {
+    "uas": "2022-10-01",
+    "pre": "2022-01-21",
+    "post": "2022-09-30"
+  },
+  "temporal_scope": "Published PRE/POST roles; UAS minus POST satellite gap1days. Dates are author metadata,not flight logs.",
+  "roi_area_m2": 16384,
+  "rgb_nonzero_support_fraction": {
+    "pre": 1.0,
+    "post": 0.9999980926513672,
+    "uas": 1.0
+  },
+  "shared_ids_all": 549,
+  "centroids_inside": 16,
+  "geometry_eligible": 12,
+  "private_eligible_label_histograms": {
+    "pre": {
+      "no damage": 12
+    },
+    "post": {
+      "no damage": 8,
+      "minor damage": 4
+    },
+    "uas": {
+      "no damage": 9,
+      "minor damage": 3
+    }
+  },
+  "eligible_primary_targets": 0,
+  "internal_coordinate_checks": {
+    "pre": {
+      "median_vertex_residual_native_px": 0.8061116439750715,
+      "max_vertex_residual_native_px": 1.4058796734103562,
+      "scope": "Internal polygon-coordinate consistency only, not image registration or survey accuracy"
+    },
+    "post": {
+      "median_vertex_residual_native_px": 0.8057616331289219,
+      "max_vertex_residual_native_px": 1.4058796734103562,
+      "scope": "Internal polygon-coordinate consistency only, not image registration or survey accuracy"
+    },
+    "uas": {
+      "median_vertex_residual_native_px": 0.813324583633604,
+      "max_vertex_residual_native_px": 1.4037034820065677,
+      "scope": "Internal polygon-coordinate consistency only, not image registration or survey accuracy"
+    }
+  },
+  "image_feature_diagnostics": {
+    "pre_to_uas": {
+      "status": "INSUFFICIENT_CONSENSUS",
+      "matches": 14,
+      "largest_translation_consensus": 1,
+      "independent_absolute_accuracy": false
+    },
+    "post_to_uas": {
+      "status": "INSUFFICIENT_CONSENSUS",
+      "matches": 10,
+      "largest_translation_consensus": 1,
+      "independent_absolute_accuracy": false
+    }
+  },
+  "task_gate": "NO_PRIMARY_TARGETS",
+  "flight_execution_gate": "NOT_ESTABLISHED:no trajectory,pose,altitude,camera footprint,measured service/energy cost",
+  "new_model_calls": 0,
+  "method_gain_established": false,
+  "protocol_sha256": "14c262f44c8a0cfc623274bf6031a88b03d107af8ee1f4732e6732d9c9d3846e"
+}

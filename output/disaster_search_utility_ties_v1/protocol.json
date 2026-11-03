@@ -1,0 +1,132 @@
+{
+  "budgets": [
+    8,
+    16,
+    32
+  ],
+  "candidate_symmetry": "Expand each exact state/reward/branch-probability class to all eligible cells with the same representative Q. Same candidate universe under all rules; no shortlist.",
+  "expected_threshold_scores": 1088640,
+  "expected_trajectories": 362880,
+  "fit_scopes": {
+    "development_fit": "All 72 fit, entire grid; in-sample.",
+    "event_holdout": "Frozen other-two-development-events models; primary configuration only. Previously inspected data; not independent validation."
+  },
+  "limits": [
+    "Same-cell count proxy can duplicate global buildings.",
+    "Batch tail omits future unlocks by other surveys; not full MF-ENS.",
+    "Mexico has zero cached detectable targets; retains denominator.",
+    "Full-image spatial independence unverified; fitted detector has seen all three events."
+  ],
+  "new_inference_calls": 0,
+  "new_method_selected": false,
+  "no_tuning_after_run": true,
+  "original_controls": "Reuse frozen prior_survey, count_survey and count_negative scene means as references; every row-major trajectory must reproduce the preceding planning run.",
+  "paid_gpu": false,
+  "policies": [
+    "proxy_greedy",
+    "two_step",
+    "batch_tail"
+  ],
+  "primary": {
+    "budget": 32,
+    "scenario": "mixed_survey",
+    "threshold": 0.1,
+    "upgrade_cost": 2
+  },
+  "quality_seeds": [
+    20261025,
+    20261026,
+    20261027,
+    20261028,
+    20261029
+  ],
+  "random_order_seeds": [
+    20261030,
+    20261031,
+    20261032,
+    20261033,
+    20261034,
+    20261035,
+    20261036,
+    20261037,
+    20261038,
+    20261039
+  ],
+  "ranks": "Row-major; descending initial public raw change with row-major fallback; Python random.Random(order_seed).shuffle(range(64)). One permutation fixed throughout each trajectory, identical across scenes/policies/quality seeds/settings for a given order_seed. Random rules averaged across all ten established seeds, never select a seed.",
+  "scenarios": [
+    "native_survey",
+    "mixed_survey",
+    "blurred_survey"
+  ],
+  "source_code_sha256": {
+    "build_xbd_mini.py": "080c23c373b59827acf78f3bfd421c85a14e6407094ce871dfaeed5e55c3e501",
+    "cross_cell_count_smoke.py": "4312afc1ac40d33210ee15a8cc91464d6620b5fd638e437e47d1db1b5d1fbc0c",
+    "paired_count_baseline.py": "b04ea42f2e9880b67d054ae76df98b0ddb7c3f4ca49a4ff462de803cafe67818",
+    "plan_search_v2.py": "3f88219832ca8d3939d5cbc38919974d1932f4b941e1248c208534493254b83b",
+    "run_budget_planning.py": "75734fac1c2c4d65cf2980c7eb7a6749c769ebe7902c7c90f01d640c21005bd2",
+    "run_development_budget_controls.py": "baca8a89a7b1ceef36670b406fd0cbabf8a3818b72dc2c387644c3ce0afed53e",
+    "run_utility_tie_controls.py": "29f532e6ab62cc175398af6b8d4ad03203d42b2207818c094c30c7db0726cf4d"
+  },
+  "sources": {
+    "association": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_perception_v1/association_report.json",
+      "sha256": "59c51a09e2c46eeac0c778de1dd9af2771f72bee5ff526ac967c0a6fb75fbffc"
+    },
+    "contract": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_v2_design/experiment_contract_v2_2.json",
+      "sha256": "452de54015d0c717819553487885007d8aabc82751499387d17b0ba2044919c0"
+    },
+    "features": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_development72_budget_controls_v1/public_features.json",
+      "sha256": "ce768154dd129816ff5ecf30042fbd60e621e04a0e93dcad90f36cdc42cb2e27"
+    },
+    "models": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_development72_budget_controls_v1/models.json",
+      "sha256": "c9566ab3c6aaa920e1baf62d3093c28e6bea121e5d85c8c78965b01d59390350"
+    },
+    "observations": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_perception_v1/observations.json",
+      "sha256": "30aca3da060f9fd6acfdc6e73efea0c593360765b455150195cbfbc02f2556e2"
+    },
+    "planning_decision": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_budget_planning_v1/next_step_decision.json",
+      "sha256": "64f2abaf909a383cc14f8ee4bd7549672a22686c7af9519418600de6d7e5193a"
+    },
+    "planning_receipt": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_budget_planning_v1/completion_receipt.json",
+      "sha256": "96e974b501ab6aa2c1e9d7e83d4b1552cc12e5c655ed896a79d28252e3b70487"
+    },
+    "previous_receipt": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_development72_budget_controls_v1/completion_receipt.json",
+      "sha256": "14534c581054e6fb613cb97d0a4012fec8a6b3decfe53e26358610378094bed2"
+    },
+    "selection": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_v2_design/next_development_batch.json",
+      "sha256": "0b93aa296f53276f508a4d2dd4fcfa122f93578f3f3e939ee731d350021569c8"
+    },
+    "spatial": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_cross_cell_smoke_v1/spatial_groups.json",
+      "sha256": "d8a2dc9fe8d4120ade4ccd07b6ea6411d6fda24a596f848d2823ddfba1ba654a"
+    }
+  },
+  "stage": "DEVELOPMENT72_TIE_ONLY_CONTROLS",
+  "statistics": "Average quality/order repeats within scene, then scenes within event and events equally. Random order range is descriptive algorithm sensitivity, not a confidence interval. All thresholds and grid reported, no outcome-dependent rule/setting selection.",
+  "thresholds": [
+    0.05,
+    0.1,
+    0.25
+  ],
+  "tie_comparison": "Original row-major candidate iteration. Greedy strict score with exact equality ties. Planning original EPS=1e-12, then higher original greedy utility, then new cell rank. No EPS in greedy or secondary utility.",
+  "tie_only": "Same four-bin count means, paired likelihoods, actions, costs, eligibility, cached outcomes and quality maps. No fit or utility change.",
+  "tie_rules": [
+    "row_major",
+    "raw_change",
+    "fixed_random"
+  ],
+  "upgrade_costs": [
+    1,
+    2,
+    4
+  ],
+  "validation_or_confirmation_access": false
+}

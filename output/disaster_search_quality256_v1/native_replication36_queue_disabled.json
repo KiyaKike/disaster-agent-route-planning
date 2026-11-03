@@ -1,0 +1,1730 @@
+[
+  {
+    "archive_size": 931980914,
+    "archive_url": "https://ndownloader.figshare.com/files/44696047",
+    "enabled": false,
+    "event": "EARTHQUAKE-TURKEY",
+    "member": {
+      "compressed_bytes": 518699,
+      "compression_method": 8,
+      "crc32_unverified": "a56d4343",
+      "directory": false,
+      "path": "EARTHQUAKE-TURKEY/images/EARTHQUAKE-TURKEY_001258_pre_disaster.png",
+      "uncompressed_bytes": 521723
+    },
+    "mode": "pre",
+    "sample_id": "EARTHQUAKE-TURKEY_001258"
+  },
+  {
+    "archive_size": 931980914,
+    "archive_url": "https://ndownloader.figshare.com/files/44696047",
+    "enabled": false,
+    "event": "EARTHQUAKE-TURKEY",
+    "member": {
+      "compressed_bytes": 545623,
+      "compression_method": 8,
+      "crc32_unverified": "bf923798",
+      "directory": false,
+      "path": "EARTHQUAKE-TURKEY/images/EARTHQUAKE-TURKEY_001258_post_disaster.png",
+      "uncompressed_bytes": 547565
+    },
+    "mode": "post",
+    "sample_id": "EARTHQUAKE-TURKEY_001258"
+  },
+  {
+    "archive_size": 931980914,
+    "archive_url": "https://ndownloader.figshare.com/files/44696047",
+    "enabled": false,
+    "event": "EARTHQUAKE-TURKEY",
+    "member": {
+      "compressed_bytes": 4724,
+      "compression_method": 8,
+      "crc32_unverified": "bb8c60bc",
+      "directory": false,
+      "path": "EARTHQUAKE-TURKEY/masks/EARTHQUAKE-TURKEY_001258_post_disaster.png",
+      "uncompressed_bytes": 4814
+    },
+    "mode": "published_post_mask",
+    "sample_id": "EARTHQUAKE-TURKEY_001258"
+  },
+  {
+    "archive_size": 931980914,
+    "archive_url": "https://ndownloader.figshare.com/files/44696047",
+    "enabled": false,
+    "event": "EARTHQUAKE-TURKEY",
+    "member": {
+      "compressed_bytes": 242704,
+      "compression_method": 8,
+      "crc32_unverified": "0f8e8ff9",
+      "directory": false,
+      "path": "EARTHQUAKE-TURKEY/images/EARTHQUAKE-TURKEY_008873_pre_disaster.png",
+      "uncompressed_bytes": 244783
+    },
+    "mode": "pre",
+    "sample_id": "EARTHQUAKE-TURKEY_008873"
+  },
+  {
+    "archive_size": 931980914,
+    "archive_url": "https://ndownloader.figshare.com/files/44696047",
+    "enabled": false,
+    "event": "EARTHQUAKE-TURKEY",
+    "member": {
+      "compressed_bytes": 544502,
+      "compression_method": 8,
+      "crc32_unverified": "4110cefb",
+      "directory": false,
+      "path": "EARTHQUAKE-TURKEY/images/EARTHQUAKE-TURKEY_008873_post_disaster.png",
+      "uncompressed_bytes": 546884
+    },
+    "mode": "post",
+    "sample_id": "EARTHQUAKE-TURKEY_008873"
+  },
+  {
+    "archive_size": 931980914,
+    "archive_url": "https://ndownloader.figshare.com/files/44696047",
+    "enabled": false,
+    "event": "EARTHQUAKE-TURKEY",
+    "member": {
+      "compressed_bytes": 477,
+      "compression_method": 8,
+      "crc32_unverified": "a33b206a",
+      "directory": false,
+      "path": "EARTHQUAKE-TURKEY/masks/EARTHQUAKE-TURKEY_008873_post_disaster.png",
+      "uncompressed_bytes": 691
+    },
+    "mode": "published_post_mask",
+    "sample_id": "EARTHQUAKE-TURKEY_008873"
+  },
+  {
+    "archive_size": 931980914,
+    "archive_url": "https://ndownloader.figshare.com/files/44696047",
+    "enabled": false,
+    "event": "EARTHQUAKE-TURKEY",
+    "member": {
+      "compressed_bytes": 539429,
+      "compression_method": 8,
+      "crc32_unverified": "a423da62",
+      "directory": false,
+      "path": "EARTHQUAKE-TURKEY/images/EARTHQUAKE-TURKEY_014265_pre_disaster.png",
+      "uncompressed_bytes": 541646
+    },
+    "mode": "pre",
+    "sample_id": "EARTHQUAKE-TURKEY_014265"
+  },
+  {
+    "archive_size": 931980914,
+    "archive_url": "https://ndownloader.figshare.com/files/44696047",
+    "enabled": false,
+    "event": "EARTHQUAKE-TURKEY",
+    "member": {
+      "compressed_bytes": 564563,
+      "compression_method": 8,
+      "crc32_unverified": "94f62c95",
+      "directory": false,
+      "path": "EARTHQUAKE-TURKEY/images/EARTHQUAKE-TURKEY_014265_post_disaster.png",
+      "uncompressed_bytes": 566246
+    },
+    "mode": "post",
+    "sample_id": "EARTHQUAKE-TURKEY_014265"
+  },
+  {
+    "archive_size": 931980914,
+    "archive_url": "https://ndownloader.figshare.com/files/44696047",
+    "enabled": false,
+    "event": "EARTHQUAKE-TURKEY",
+    "member": {
+      "compressed_bytes": 8024,
+      "compression_method": 8,
+      "crc32_unverified": "f07196a9",
+      "directory": false,
+      "path": "EARTHQUAKE-TURKEY/masks/EARTHQUAKE-TURKEY_014265_post_disaster.png",
+      "uncompressed_bytes": 8026
+    },
+    "mode": "published_post_mask",
+    "sample_id": "EARTHQUAKE-TURKEY_014265"
+  },
+  {
+    "archive_size": 931980914,
+    "archive_url": "https://ndownloader.figshare.com/files/44696047",
+    "enabled": false,
+    "event": "EARTHQUAKE-TURKEY",
+    "member": {
+      "compressed_bytes": 598012,
+      "compression_method": 8,
+      "crc32_unverified": "a5e60470",
+      "directory": false,
+      "path": "EARTHQUAKE-TURKEY/images/EARTHQUAKE-TURKEY_015918_pre_disaster.png",
+      "uncompressed_bytes": 599397
+    },
+    "mode": "pre",
+    "sample_id": "EARTHQUAKE-TURKEY_015918"
+  },
+  {
+    "archive_size": 931980914,
+    "archive_url": "https://ndownloader.figshare.com/files/44696047",
+    "enabled": false,
+    "event": "EARTHQUAKE-TURKEY",
+    "member": {
+      "compressed_bytes": 501284,
+      "compression_method": 8,
+      "crc32_unverified": "ab9d60cd",
+      "directory": false,
+      "path": "EARTHQUAKE-TURKEY/images/EARTHQUAKE-TURKEY_015918_post_disaster.png",
+      "uncompressed_bytes": 503844
+    },
+    "mode": "post",
+    "sample_id": "EARTHQUAKE-TURKEY_015918"
+  },
+  {
+    "archive_size": 931980914,
+    "archive_url": "https://ndownloader.figshare.com/files/44696047",
+    "enabled": false,
+    "event": "EARTHQUAKE-TURKEY",
+    "member": {
+      "compressed_bytes": 5447,
+      "compression_method": 8,
+      "crc32_unverified": "66f24ad7",
+      "directory": false,
+      "path": "EARTHQUAKE-TURKEY/masks/EARTHQUAKE-TURKEY_015918_post_disaster.png",
+      "uncompressed_bytes": 5488
+    },
+    "mode": "published_post_mask",
+    "sample_id": "EARTHQUAKE-TURKEY_015918"
+  },
+  {
+    "archive_size": 931980914,
+    "archive_url": "https://ndownloader.figshare.com/files/44696047",
+    "enabled": false,
+    "event": "EARTHQUAKE-TURKEY",
+    "member": {
+      "compressed_bytes": 551114,
+      "compression_method": 8,
+      "crc32_unverified": "6e2f5d84",
+      "directory": false,
+      "path": "EARTHQUAKE-TURKEY/images/EARTHQUAKE-TURKEY_008609_pre_disaster.png",
+      "uncompressed_bytes": 555607
+    },
+    "mode": "pre",
+    "sample_id": "EARTHQUAKE-TURKEY_008609"
+  },
+  {
+    "archive_size": 931980914,
+    "archive_url": "https://ndownloader.figshare.com/files/44696047",
+    "enabled": false,
+    "event": "EARTHQUAKE-TURKEY",
+    "member": {
+      "compressed_bytes": 556262,
+      "compression_method": 8,
+      "crc32_unverified": "fb0b3419",
+      "directory": false,
+      "path": "EARTHQUAKE-TURKEY/images/EARTHQUAKE-TURKEY_008609_post_disaster.png",
+      "uncompressed_bytes": 558441
+    },
+    "mode": "post",
+    "sample_id": "EARTHQUAKE-TURKEY_008609"
+  },
+  {
+    "archive_size": 931980914,
+    "archive_url": "https://ndownloader.figshare.com/files/44696047",
+    "enabled": false,
+    "event": "EARTHQUAKE-TURKEY",
+    "member": {
+      "compressed_bytes": 2479,
+      "compression_method": 8,
+      "crc32_unverified": "cf0d47dd",
+      "directory": false,
+      "path": "EARTHQUAKE-TURKEY/masks/EARTHQUAKE-TURKEY_008609_post_disaster.png",
+      "uncompressed_bytes": 2594
+    },
+    "mode": "published_post_mask",
+    "sample_id": "EARTHQUAKE-TURKEY_008609"
+  },
+  {
+    "archive_size": 931980914,
+    "archive_url": "https://ndownloader.figshare.com/files/44696047",
+    "enabled": false,
+    "event": "EARTHQUAKE-TURKEY",
+    "member": {
+      "compressed_bytes": 575125,
+      "compression_method": 8,
+      "crc32_unverified": "22b2b07f",
+      "directory": false,
+      "path": "EARTHQUAKE-TURKEY/images/EARTHQUAKE-TURKEY_006691_pre_disaster.png",
+      "uncompressed_bytes": 577720
+    },
+    "mode": "pre",
+    "sample_id": "EARTHQUAKE-TURKEY_006691"
+  },
+  {
+    "archive_size": 931980914,
+    "archive_url": "https://ndownloader.figshare.com/files/44696047",
+    "enabled": false,
+    "event": "EARTHQUAKE-TURKEY",
+    "member": {
+      "compressed_bytes": 514571,
+      "compression_method": 8,
+      "crc32_unverified": "b4555f22",
+      "directory": false,
+      "path": "EARTHQUAKE-TURKEY/images/EARTHQUAKE-TURKEY_006691_post_disaster.png",
+      "uncompressed_bytes": 517170
+    },
+    "mode": "post",
+    "sample_id": "EARTHQUAKE-TURKEY_006691"
+  },
+  {
+    "archive_size": 931980914,
+    "archive_url": "https://ndownloader.figshare.com/files/44696047",
+    "enabled": false,
+    "event": "EARTHQUAKE-TURKEY",
+    "member": {
+      "compressed_bytes": 7084,
+      "compression_method": 8,
+      "crc32_unverified": "42dfd577",
+      "directory": false,
+      "path": "EARTHQUAKE-TURKEY/masks/EARTHQUAKE-TURKEY_006691_post_disaster.png",
+      "uncompressed_bytes": 7123
+    },
+    "mode": "published_post_mask",
+    "sample_id": "EARTHQUAKE-TURKEY_006691"
+  },
+  {
+    "archive_size": 931980914,
+    "archive_url": "https://ndownloader.figshare.com/files/44696047",
+    "enabled": false,
+    "event": "EARTHQUAKE-TURKEY",
+    "member": {
+      "compressed_bytes": 490693,
+      "compression_method": 8,
+      "crc32_unverified": "4b7d3aab",
+      "directory": false,
+      "path": "EARTHQUAKE-TURKEY/images/EARTHQUAKE-TURKEY_010027_pre_disaster.png",
+      "uncompressed_bytes": 493516
+    },
+    "mode": "pre",
+    "sample_id": "EARTHQUAKE-TURKEY_010027"
+  },
+  {
+    "archive_size": 931980914,
+    "archive_url": "https://ndownloader.figshare.com/files/44696047",
+    "enabled": false,
+    "event": "EARTHQUAKE-TURKEY",
+    "member": {
+      "compressed_bytes": 494711,
+      "compression_method": 8,
+      "crc32_unverified": "2d98c615",
+      "directory": false,
+      "path": "EARTHQUAKE-TURKEY/images/EARTHQUAKE-TURKEY_010027_post_disaster.png",
+      "uncompressed_bytes": 496103
+    },
+    "mode": "post",
+    "sample_id": "EARTHQUAKE-TURKEY_010027"
+  },
+  {
+    "archive_size": 931980914,
+    "archive_url": "https://ndownloader.figshare.com/files/44696047",
+    "enabled": false,
+    "event": "EARTHQUAKE-TURKEY",
+    "member": {
+      "compressed_bytes": 2196,
+      "compression_method": 8,
+      "crc32_unverified": "71e4b5d1",
+      "directory": false,
+      "path": "EARTHQUAKE-TURKEY/masks/EARTHQUAKE-TURKEY_010027_post_disaster.png",
+      "uncompressed_bytes": 2337
+    },
+    "mode": "published_post_mask",
+    "sample_id": "EARTHQUAKE-TURKEY_010027"
+  },
+  {
+    "archive_size": 931980914,
+    "archive_url": "https://ndownloader.figshare.com/files/44696047",
+    "enabled": false,
+    "event": "EARTHQUAKE-TURKEY",
+    "member": {
+      "compressed_bytes": 594396,
+      "compression_method": 8,
+      "crc32_unverified": "8be3e8a3",
+      "directory": false,
+      "path": "EARTHQUAKE-TURKEY/images/EARTHQUAKE-TURKEY_000943_pre_disaster.png",
+      "uncompressed_bytes": 597073
+    },
+    "mode": "pre",
+    "sample_id": "EARTHQUAKE-TURKEY_000943"
+  },
+  {
+    "archive_size": 931980914,
+    "archive_url": "https://ndownloader.figshare.com/files/44696047",
+    "enabled": false,
+    "event": "EARTHQUAKE-TURKEY",
+    "member": {
+      "compressed_bytes": 514248,
+      "compression_method": 8,
+      "crc32_unverified": "2b4ba2a7",
+      "directory": false,
+      "path": "EARTHQUAKE-TURKEY/images/EARTHQUAKE-TURKEY_000943_post_disaster.png",
+      "uncompressed_bytes": 516043
+    },
+    "mode": "post",
+    "sample_id": "EARTHQUAKE-TURKEY_000943"
+  },
+  {
+    "archive_size": 931980914,
+    "archive_url": "https://ndownloader.figshare.com/files/44696047",
+    "enabled": false,
+    "event": "EARTHQUAKE-TURKEY",
+    "member": {
+      "compressed_bytes": 7799,
+      "compression_method": 8,
+      "crc32_unverified": "3c79b795",
+      "directory": false,
+      "path": "EARTHQUAKE-TURKEY/masks/EARTHQUAKE-TURKEY_000943_post_disaster.png",
+      "uncompressed_bytes": 7816
+    },
+    "mode": "published_post_mask",
+    "sample_id": "EARTHQUAKE-TURKEY_000943"
+  },
+  {
+    "archive_size": 931980914,
+    "archive_url": "https://ndownloader.figshare.com/files/44696047",
+    "enabled": false,
+    "event": "EARTHQUAKE-TURKEY",
+    "member": {
+      "compressed_bytes": 491665,
+      "compression_method": 8,
+      "crc32_unverified": "11039bf7",
+      "directory": false,
+      "path": "EARTHQUAKE-TURKEY/images/EARTHQUAKE-TURKEY_009379_pre_disaster.png",
+      "uncompressed_bytes": 494516
+    },
+    "mode": "pre",
+    "sample_id": "EARTHQUAKE-TURKEY_009379"
+  },
+  {
+    "archive_size": 931980914,
+    "archive_url": "https://ndownloader.figshare.com/files/44696047",
+    "enabled": false,
+    "event": "EARTHQUAKE-TURKEY",
+    "member": {
+      "compressed_bytes": 480145,
+      "compression_method": 8,
+      "crc32_unverified": "01877b3b",
+      "directory": false,
+      "path": "EARTHQUAKE-TURKEY/images/EARTHQUAKE-TURKEY_009379_post_disaster.png",
+      "uncompressed_bytes": 481408
+    },
+    "mode": "post",
+    "sample_id": "EARTHQUAKE-TURKEY_009379"
+  },
+  {
+    "archive_size": 931980914,
+    "archive_url": "https://ndownloader.figshare.com/files/44696047",
+    "enabled": false,
+    "event": "EARTHQUAKE-TURKEY",
+    "member": {
+      "compressed_bytes": 668,
+      "compression_method": 8,
+      "crc32_unverified": "8d5df54d",
+      "directory": false,
+      "path": "EARTHQUAKE-TURKEY/masks/EARTHQUAKE-TURKEY_009379_post_disaster.png",
+      "uncompressed_bytes": 876
+    },
+    "mode": "published_post_mask",
+    "sample_id": "EARTHQUAKE-TURKEY_009379"
+  },
+  {
+    "archive_size": 931980914,
+    "archive_url": "https://ndownloader.figshare.com/files/44696047",
+    "enabled": false,
+    "event": "EARTHQUAKE-TURKEY",
+    "member": {
+      "compressed_bytes": 554016,
+      "compression_method": 8,
+      "crc32_unverified": "1321fdce",
+      "directory": false,
+      "path": "EARTHQUAKE-TURKEY/images/EARTHQUAKE-TURKEY_013074_pre_disaster.png",
+      "uncompressed_bytes": 556743
+    },
+    "mode": "pre",
+    "sample_id": "EARTHQUAKE-TURKEY_013074"
+  },
+  {
+    "archive_size": 931980914,
+    "archive_url": "https://ndownloader.figshare.com/files/44696047",
+    "enabled": false,
+    "event": "EARTHQUAKE-TURKEY",
+    "member": {
+      "compressed_bytes": 533436,
+      "compression_method": 8,
+      "crc32_unverified": "d085f47e",
+      "directory": false,
+      "path": "EARTHQUAKE-TURKEY/images/EARTHQUAKE-TURKEY_013074_post_disaster.png",
+      "uncompressed_bytes": 535415
+    },
+    "mode": "post",
+    "sample_id": "EARTHQUAKE-TURKEY_013074"
+  },
+  {
+    "archive_size": 931980914,
+    "archive_url": "https://ndownloader.figshare.com/files/44696047",
+    "enabled": false,
+    "event": "EARTHQUAKE-TURKEY",
+    "member": {
+      "compressed_bytes": 1177,
+      "compression_method": 8,
+      "crc32_unverified": "370916c9",
+      "directory": false,
+      "path": "EARTHQUAKE-TURKEY/masks/EARTHQUAKE-TURKEY_013074_post_disaster.png",
+      "uncompressed_bytes": 1316
+    },
+    "mode": "published_post_mask",
+    "sample_id": "EARTHQUAKE-TURKEY_013074"
+  },
+  {
+    "archive_size": 931980914,
+    "archive_url": "https://ndownloader.figshare.com/files/44696047",
+    "enabled": false,
+    "event": "EARTHQUAKE-TURKEY",
+    "member": {
+      "compressed_bytes": 492799,
+      "compression_method": 8,
+      "crc32_unverified": "964e3b0e",
+      "directory": false,
+      "path": "EARTHQUAKE-TURKEY/images/EARTHQUAKE-TURKEY_017525_pre_disaster.png",
+      "uncompressed_bytes": 495493
+    },
+    "mode": "pre",
+    "sample_id": "EARTHQUAKE-TURKEY_017525"
+  },
+  {
+    "archive_size": 931980914,
+    "archive_url": "https://ndownloader.figshare.com/files/44696047",
+    "enabled": false,
+    "event": "EARTHQUAKE-TURKEY",
+    "member": {
+      "compressed_bytes": 521780,
+      "compression_method": 8,
+      "crc32_unverified": "cc50bfcb",
+      "directory": false,
+      "path": "EARTHQUAKE-TURKEY/images/EARTHQUAKE-TURKEY_017525_post_disaster.png",
+      "uncompressed_bytes": 523773
+    },
+    "mode": "post",
+    "sample_id": "EARTHQUAKE-TURKEY_017525"
+  },
+  {
+    "archive_size": 931980914,
+    "archive_url": "https://ndownloader.figshare.com/files/44696047",
+    "enabled": false,
+    "event": "EARTHQUAKE-TURKEY",
+    "member": {
+      "compressed_bytes": 2084,
+      "compression_method": 8,
+      "crc32_unverified": "f94468bb",
+      "directory": false,
+      "path": "EARTHQUAKE-TURKEY/masks/EARTHQUAKE-TURKEY_017525_post_disaster.png",
+      "uncompressed_bytes": 2217
+    },
+    "mode": "published_post_mask",
+    "sample_id": "EARTHQUAKE-TURKEY_017525"
+  },
+  {
+    "archive_size": 931980914,
+    "archive_url": "https://ndownloader.figshare.com/files/44696047",
+    "enabled": false,
+    "event": "EARTHQUAKE-TURKEY",
+    "member": {
+      "compressed_bytes": 510773,
+      "compression_method": 8,
+      "crc32_unverified": "49e3b531",
+      "directory": false,
+      "path": "EARTHQUAKE-TURKEY/images/EARTHQUAKE-TURKEY_003096_pre_disaster.png",
+      "uncompressed_bytes": 513357
+    },
+    "mode": "pre",
+    "sample_id": "EARTHQUAKE-TURKEY_003096"
+  },
+  {
+    "archive_size": 931980914,
+    "archive_url": "https://ndownloader.figshare.com/files/44696047",
+    "enabled": false,
+    "event": "EARTHQUAKE-TURKEY",
+    "member": {
+      "compressed_bytes": 519278,
+      "compression_method": 8,
+      "crc32_unverified": "9032d8b4",
+      "directory": false,
+      "path": "EARTHQUAKE-TURKEY/images/EARTHQUAKE-TURKEY_003096_post_disaster.png",
+      "uncompressed_bytes": 521238
+    },
+    "mode": "post",
+    "sample_id": "EARTHQUAKE-TURKEY_003096"
+  },
+  {
+    "archive_size": 931980914,
+    "archive_url": "https://ndownloader.figshare.com/files/44696047",
+    "enabled": false,
+    "event": "EARTHQUAKE-TURKEY",
+    "member": {
+      "compressed_bytes": 1471,
+      "compression_method": 8,
+      "crc32_unverified": "647f73ec",
+      "directory": false,
+      "path": "EARTHQUAKE-TURKEY/masks/EARTHQUAKE-TURKEY_003096_post_disaster.png",
+      "uncompressed_bytes": 1741
+    },
+    "mode": "published_post_mask",
+    "sample_id": "EARTHQUAKE-TURKEY_003096"
+  },
+  {
+    "archive_size": 2370825346,
+    "archive_url": "https://ndownloader.figshare.com/files/44708299",
+    "enabled": false,
+    "event": "PAKISTAN-FLOODING",
+    "member": {
+      "compressed_bytes": 344449,
+      "compression_method": 8,
+      "crc32_unverified": "a88522cb",
+      "directory": false,
+      "path": "PAKISTAN-FLOODING/images/PAKISTAN-FLOODING_005905_pre_disaster.png",
+      "uncompressed_bytes": 344643
+    },
+    "mode": "pre",
+    "sample_id": "PAKISTAN-FLOODING_005905"
+  },
+  {
+    "archive_size": 2370825346,
+    "archive_url": "https://ndownloader.figshare.com/files/44708299",
+    "enabled": false,
+    "event": "PAKISTAN-FLOODING",
+    "member": {
+      "compressed_bytes": 325016,
+      "compression_method": 8,
+      "crc32_unverified": "4c684356",
+      "directory": false,
+      "path": "PAKISTAN-FLOODING/images/PAKISTAN-FLOODING_005905_post_disaster.png",
+      "uncompressed_bytes": 325253
+    },
+    "mode": "post",
+    "sample_id": "PAKISTAN-FLOODING_005905"
+  },
+  {
+    "archive_size": 2370825346,
+    "archive_url": "https://ndownloader.figshare.com/files/44708299",
+    "enabled": false,
+    "event": "PAKISTAN-FLOODING",
+    "member": {
+      "compressed_bytes": 79,
+      "compression_method": 8,
+      "crc32_unverified": "ceb60ca4",
+      "directory": false,
+      "path": "PAKISTAN-FLOODING/masks/PAKISTAN-FLOODING_005905_post_disaster.png",
+      "uncompressed_bytes": 334
+    },
+    "mode": "published_post_mask",
+    "sample_id": "PAKISTAN-FLOODING_005905"
+  },
+  {
+    "archive_size": 2370825346,
+    "archive_url": "https://ndownloader.figshare.com/files/44708299",
+    "enabled": false,
+    "event": "PAKISTAN-FLOODING",
+    "member": {
+      "compressed_bytes": 440529,
+      "compression_method": 8,
+      "crc32_unverified": "f1b58045",
+      "directory": false,
+      "path": "PAKISTAN-FLOODING/images/PAKISTAN-FLOODING_005310_pre_disaster.png",
+      "uncompressed_bytes": 442807
+    },
+    "mode": "pre",
+    "sample_id": "PAKISTAN-FLOODING_005310"
+  },
+  {
+    "archive_size": 2370825346,
+    "archive_url": "https://ndownloader.figshare.com/files/44708299",
+    "enabled": false,
+    "event": "PAKISTAN-FLOODING",
+    "member": {
+      "compressed_bytes": 272859,
+      "compression_method": 8,
+      "crc32_unverified": "3c27d872",
+      "directory": false,
+      "path": "PAKISTAN-FLOODING/images/PAKISTAN-FLOODING_005310_post_disaster.png",
+      "uncompressed_bytes": 272882
+    },
+    "mode": "post",
+    "sample_id": "PAKISTAN-FLOODING_005310"
+  },
+  {
+    "archive_size": 2370825346,
+    "archive_url": "https://ndownloader.figshare.com/files/44708299",
+    "enabled": false,
+    "event": "PAKISTAN-FLOODING",
+    "member": {
+      "compressed_bytes": 445,
+      "compression_method": 8,
+      "crc32_unverified": "d3eaba0b",
+      "directory": false,
+      "path": "PAKISTAN-FLOODING/masks/PAKISTAN-FLOODING_005310_post_disaster.png",
+      "uncompressed_bytes": 670
+    },
+    "mode": "published_post_mask",
+    "sample_id": "PAKISTAN-FLOODING_005310"
+  },
+  {
+    "archive_size": 2370825346,
+    "archive_url": "https://ndownloader.figshare.com/files/44708299",
+    "enabled": false,
+    "event": "PAKISTAN-FLOODING",
+    "member": {
+      "compressed_bytes": 288865,
+      "compression_method": 8,
+      "crc32_unverified": "64c53df0",
+      "directory": false,
+      "path": "PAKISTAN-FLOODING/images/PAKISTAN-FLOODING_013624_pre_disaster.png",
+      "uncompressed_bytes": 288945
+    },
+    "mode": "pre",
+    "sample_id": "PAKISTAN-FLOODING_013624"
+  },
+  {
+    "archive_size": 2370825346,
+    "archive_url": "https://ndownloader.figshare.com/files/44708299",
+    "enabled": false,
+    "event": "PAKISTAN-FLOODING",
+    "member": {
+      "compressed_bytes": 206367,
+      "compression_method": 8,
+      "crc32_unverified": "4ba55804",
+      "directory": false,
+      "path": "PAKISTAN-FLOODING/images/PAKISTAN-FLOODING_013624_post_disaster.png",
+      "uncompressed_bytes": 206332
+    },
+    "mode": "post",
+    "sample_id": "PAKISTAN-FLOODING_013624"
+  },
+  {
+    "archive_size": 2370825346,
+    "archive_url": "https://ndownloader.figshare.com/files/44708299",
+    "enabled": false,
+    "event": "PAKISTAN-FLOODING",
+    "member": {
+      "compressed_bytes": 79,
+      "compression_method": 8,
+      "crc32_unverified": "ceb60ca4",
+      "directory": false,
+      "path": "PAKISTAN-FLOODING/masks/PAKISTAN-FLOODING_013624_post_disaster.png",
+      "uncompressed_bytes": 334
+    },
+    "mode": "published_post_mask",
+    "sample_id": "PAKISTAN-FLOODING_013624"
+  },
+  {
+    "archive_size": 2370825346,
+    "archive_url": "https://ndownloader.figshare.com/files/44708299",
+    "enabled": false,
+    "event": "PAKISTAN-FLOODING",
+    "member": {
+      "compressed_bytes": 394622,
+      "compression_method": 8,
+      "crc32_unverified": "c02ec3e0",
+      "directory": false,
+      "path": "PAKISTAN-FLOODING/images/PAKISTAN-FLOODING_015052_pre_disaster.png",
+      "uncompressed_bytes": 394980
+    },
+    "mode": "pre",
+    "sample_id": "PAKISTAN-FLOODING_015052"
+  },
+  {
+    "archive_size": 2370825346,
+    "archive_url": "https://ndownloader.figshare.com/files/44708299",
+    "enabled": false,
+    "event": "PAKISTAN-FLOODING",
+    "member": {
+      "compressed_bytes": 317939,
+      "compression_method": 8,
+      "crc32_unverified": "e0ad76f3",
+      "directory": false,
+      "path": "PAKISTAN-FLOODING/images/PAKISTAN-FLOODING_015052_post_disaster.png",
+      "uncompressed_bytes": 318371
+    },
+    "mode": "post",
+    "sample_id": "PAKISTAN-FLOODING_015052"
+  },
+  {
+    "archive_size": 2370825346,
+    "archive_url": "https://ndownloader.figshare.com/files/44708299",
+    "enabled": false,
+    "event": "PAKISTAN-FLOODING",
+    "member": {
+      "compressed_bytes": 3509,
+      "compression_method": 8,
+      "crc32_unverified": "b008d22e",
+      "directory": false,
+      "path": "PAKISTAN-FLOODING/masks/PAKISTAN-FLOODING_015052_post_disaster.png",
+      "uncompressed_bytes": 3582
+    },
+    "mode": "published_post_mask",
+    "sample_id": "PAKISTAN-FLOODING_015052"
+  },
+  {
+    "archive_size": 2370825346,
+    "archive_url": "https://ndownloader.figshare.com/files/44708299",
+    "enabled": false,
+    "event": "PAKISTAN-FLOODING",
+    "member": {
+      "compressed_bytes": 354608,
+      "compression_method": 8,
+      "crc32_unverified": "efac47d1",
+      "directory": false,
+      "path": "PAKISTAN-FLOODING/images/PAKISTAN-FLOODING_003721_pre_disaster.png",
+      "uncompressed_bytes": 355152
+    },
+    "mode": "pre",
+    "sample_id": "PAKISTAN-FLOODING_003721"
+  },
+  {
+    "archive_size": 2370825346,
+    "archive_url": "https://ndownloader.figshare.com/files/44708299",
+    "enabled": false,
+    "event": "PAKISTAN-FLOODING",
+    "member": {
+      "compressed_bytes": 297070,
+      "compression_method": 8,
+      "crc32_unverified": "5afc6388",
+      "directory": false,
+      "path": "PAKISTAN-FLOODING/images/PAKISTAN-FLOODING_003721_post_disaster.png",
+      "uncompressed_bytes": 297156
+    },
+    "mode": "post",
+    "sample_id": "PAKISTAN-FLOODING_003721"
+  },
+  {
+    "archive_size": 2370825346,
+    "archive_url": "https://ndownloader.figshare.com/files/44708299",
+    "enabled": false,
+    "event": "PAKISTAN-FLOODING",
+    "member": {
+      "compressed_bytes": 79,
+      "compression_method": 8,
+      "crc32_unverified": "ceb60ca4",
+      "directory": false,
+      "path": "PAKISTAN-FLOODING/masks/PAKISTAN-FLOODING_003721_post_disaster.png",
+      "uncompressed_bytes": 334
+    },
+    "mode": "published_post_mask",
+    "sample_id": "PAKISTAN-FLOODING_003721"
+  },
+  {
+    "archive_size": 2370825346,
+    "archive_url": "https://ndownloader.figshare.com/files/44708299",
+    "enabled": false,
+    "event": "PAKISTAN-FLOODING",
+    "member": {
+      "compressed_bytes": 379597,
+      "compression_method": 8,
+      "crc32_unverified": "7c1c87ac",
+      "directory": false,
+      "path": "PAKISTAN-FLOODING/images/PAKISTAN-FLOODING_017962_pre_disaster.png",
+      "uncompressed_bytes": 380261
+    },
+    "mode": "pre",
+    "sample_id": "PAKISTAN-FLOODING_017962"
+  },
+  {
+    "archive_size": 2370825346,
+    "archive_url": "https://ndownloader.figshare.com/files/44708299",
+    "enabled": false,
+    "event": "PAKISTAN-FLOODING",
+    "member": {
+      "compressed_bytes": 301683,
+      "compression_method": 8,
+      "crc32_unverified": "5d0edef7",
+      "directory": false,
+      "path": "PAKISTAN-FLOODING/images/PAKISTAN-FLOODING_017962_post_disaster.png",
+      "uncompressed_bytes": 301751
+    },
+    "mode": "post",
+    "sample_id": "PAKISTAN-FLOODING_017962"
+  },
+  {
+    "archive_size": 2370825346,
+    "archive_url": "https://ndownloader.figshare.com/files/44708299",
+    "enabled": false,
+    "event": "PAKISTAN-FLOODING",
+    "member": {
+      "compressed_bytes": 79,
+      "compression_method": 8,
+      "crc32_unverified": "ceb60ca4",
+      "directory": false,
+      "path": "PAKISTAN-FLOODING/masks/PAKISTAN-FLOODING_017962_post_disaster.png",
+      "uncompressed_bytes": 334
+    },
+    "mode": "published_post_mask",
+    "sample_id": "PAKISTAN-FLOODING_017962"
+  },
+  {
+    "archive_size": 2370825346,
+    "archive_url": "https://ndownloader.figshare.com/files/44708299",
+    "enabled": false,
+    "event": "PAKISTAN-FLOODING",
+    "member": {
+      "compressed_bytes": 329208,
+      "compression_method": 8,
+      "crc32_unverified": "96249210",
+      "directory": false,
+      "path": "PAKISTAN-FLOODING/images/PAKISTAN-FLOODING_001282_pre_disaster.png",
+      "uncompressed_bytes": 329527
+    },
+    "mode": "pre",
+    "sample_id": "PAKISTAN-FLOODING_001282"
+  },
+  {
+    "archive_size": 2370825346,
+    "archive_url": "https://ndownloader.figshare.com/files/44708299",
+    "enabled": false,
+    "event": "PAKISTAN-FLOODING",
+    "member": {
+      "compressed_bytes": 318334,
+      "compression_method": 8,
+      "crc32_unverified": "c5e847e7",
+      "directory": false,
+      "path": "PAKISTAN-FLOODING/images/PAKISTAN-FLOODING_001282_post_disaster.png",
+      "uncompressed_bytes": 318615
+    },
+    "mode": "post",
+    "sample_id": "PAKISTAN-FLOODING_001282"
+  },
+  {
+    "archive_size": 2370825346,
+    "archive_url": "https://ndownloader.figshare.com/files/44708299",
+    "enabled": false,
+    "event": "PAKISTAN-FLOODING",
+    "member": {
+      "compressed_bytes": 79,
+      "compression_method": 8,
+      "crc32_unverified": "ceb60ca4",
+      "directory": false,
+      "path": "PAKISTAN-FLOODING/masks/PAKISTAN-FLOODING_001282_post_disaster.png",
+      "uncompressed_bytes": 334
+    },
+    "mode": "published_post_mask",
+    "sample_id": "PAKISTAN-FLOODING_001282"
+  },
+  {
+    "archive_size": 2370825346,
+    "archive_url": "https://ndownloader.figshare.com/files/44708299",
+    "enabled": false,
+    "event": "PAKISTAN-FLOODING",
+    "member": {
+      "compressed_bytes": 380994,
+      "compression_method": 8,
+      "crc32_unverified": "6fd5a324",
+      "directory": false,
+      "path": "PAKISTAN-FLOODING/images/PAKISTAN-FLOODING_013076_pre_disaster.png",
+      "uncompressed_bytes": 382022
+    },
+    "mode": "pre",
+    "sample_id": "PAKISTAN-FLOODING_013076"
+  },
+  {
+    "archive_size": 2370825346,
+    "archive_url": "https://ndownloader.figshare.com/files/44708299",
+    "enabled": false,
+    "event": "PAKISTAN-FLOODING",
+    "member": {
+      "compressed_bytes": 197548,
+      "compression_method": 8,
+      "crc32_unverified": "1cb39b62",
+      "directory": false,
+      "path": "PAKISTAN-FLOODING/images/PAKISTAN-FLOODING_013076_post_disaster.png",
+      "uncompressed_bytes": 197513
+    },
+    "mode": "post",
+    "sample_id": "PAKISTAN-FLOODING_013076"
+  },
+  {
+    "archive_size": 2370825346,
+    "archive_url": "https://ndownloader.figshare.com/files/44708299",
+    "enabled": false,
+    "event": "PAKISTAN-FLOODING",
+    "member": {
+      "compressed_bytes": 225,
+      "compression_method": 8,
+      "crc32_unverified": "f62e0987",
+      "directory": false,
+      "path": "PAKISTAN-FLOODING/masks/PAKISTAN-FLOODING_013076_post_disaster.png",
+      "uncompressed_bytes": 459
+    },
+    "mode": "published_post_mask",
+    "sample_id": "PAKISTAN-FLOODING_013076"
+  },
+  {
+    "archive_size": 2370825346,
+    "archive_url": "https://ndownloader.figshare.com/files/44708299",
+    "enabled": false,
+    "event": "PAKISTAN-FLOODING",
+    "member": {
+      "compressed_bytes": 349552,
+      "compression_method": 8,
+      "crc32_unverified": "64048f21",
+      "directory": false,
+      "path": "PAKISTAN-FLOODING/images/PAKISTAN-FLOODING_010048_pre_disaster.png",
+      "uncompressed_bytes": 349946
+    },
+    "mode": "pre",
+    "sample_id": "PAKISTAN-FLOODING_010048"
+  },
+  {
+    "archive_size": 2370825346,
+    "archive_url": "https://ndownloader.figshare.com/files/44708299",
+    "enabled": false,
+    "event": "PAKISTAN-FLOODING",
+    "member": {
+      "compressed_bytes": 336685,
+      "compression_method": 8,
+      "crc32_unverified": "15531dad",
+      "directory": false,
+      "path": "PAKISTAN-FLOODING/images/PAKISTAN-FLOODING_010048_post_disaster.png",
+      "uncompressed_bytes": 337264
+    },
+    "mode": "post",
+    "sample_id": "PAKISTAN-FLOODING_010048"
+  },
+  {
+    "archive_size": 2370825346,
+    "archive_url": "https://ndownloader.figshare.com/files/44708299",
+    "enabled": false,
+    "event": "PAKISTAN-FLOODING",
+    "member": {
+      "compressed_bytes": 312,
+      "compression_method": 8,
+      "crc32_unverified": "939170de",
+      "directory": false,
+      "path": "PAKISTAN-FLOODING/masks/PAKISTAN-FLOODING_010048_post_disaster.png",
+      "uncompressed_bytes": 575
+    },
+    "mode": "published_post_mask",
+    "sample_id": "PAKISTAN-FLOODING_010048"
+  },
+  {
+    "archive_size": 2370825346,
+    "archive_url": "https://ndownloader.figshare.com/files/44708299",
+    "enabled": false,
+    "event": "PAKISTAN-FLOODING",
+    "member": {
+      "compressed_bytes": 370076,
+      "compression_method": 8,
+      "crc32_unverified": "25afbdb1",
+      "directory": false,
+      "path": "PAKISTAN-FLOODING/images/PAKISTAN-FLOODING_012131_pre_disaster.png",
+      "uncompressed_bytes": 371137
+    },
+    "mode": "pre",
+    "sample_id": "PAKISTAN-FLOODING_012131"
+  },
+  {
+    "archive_size": 2370825346,
+    "archive_url": "https://ndownloader.figshare.com/files/44708299",
+    "enabled": false,
+    "event": "PAKISTAN-FLOODING",
+    "member": {
+      "compressed_bytes": 229396,
+      "compression_method": 8,
+      "crc32_unverified": "b6502ff7",
+      "directory": false,
+      "path": "PAKISTAN-FLOODING/images/PAKISTAN-FLOODING_012131_post_disaster.png",
+      "uncompressed_bytes": 229363
+    },
+    "mode": "post",
+    "sample_id": "PAKISTAN-FLOODING_012131"
+  },
+  {
+    "archive_size": 2370825346,
+    "archive_url": "https://ndownloader.figshare.com/files/44708299",
+    "enabled": false,
+    "event": "PAKISTAN-FLOODING",
+    "member": {
+      "compressed_bytes": 79,
+      "compression_method": 8,
+      "crc32_unverified": "ceb60ca4",
+      "directory": false,
+      "path": "PAKISTAN-FLOODING/masks/PAKISTAN-FLOODING_012131_post_disaster.png",
+      "uncompressed_bytes": 334
+    },
+    "mode": "published_post_mask",
+    "sample_id": "PAKISTAN-FLOODING_012131"
+  },
+  {
+    "archive_size": 2370825346,
+    "archive_url": "https://ndownloader.figshare.com/files/44708299",
+    "enabled": false,
+    "event": "PAKISTAN-FLOODING",
+    "member": {
+      "compressed_bytes": 357445,
+      "compression_method": 8,
+      "crc32_unverified": "211e44d6",
+      "directory": false,
+      "path": "PAKISTAN-FLOODING/images/PAKISTAN-FLOODING_017185_pre_disaster.png",
+      "uncompressed_bytes": 358221
+    },
+    "mode": "pre",
+    "sample_id": "PAKISTAN-FLOODING_017185"
+  },
+  {
+    "archive_size": 2370825346,
+    "archive_url": "https://ndownloader.figshare.com/files/44708299",
+    "enabled": false,
+    "event": "PAKISTAN-FLOODING",
+    "member": {
+      "compressed_bytes": 199731,
+      "compression_method": 8,
+      "crc32_unverified": "ed86e092",
+      "directory": false,
+      "path": "PAKISTAN-FLOODING/images/PAKISTAN-FLOODING_017185_post_disaster.png",
+      "uncompressed_bytes": 199696
+    },
+    "mode": "post",
+    "sample_id": "PAKISTAN-FLOODING_017185"
+  },
+  {
+    "archive_size": 2370825346,
+    "archive_url": "https://ndownloader.figshare.com/files/44708299",
+    "enabled": false,
+    "event": "PAKISTAN-FLOODING",
+    "member": {
+      "compressed_bytes": 79,
+      "compression_method": 8,
+      "crc32_unverified": "ceb60ca4",
+      "directory": false,
+      "path": "PAKISTAN-FLOODING/masks/PAKISTAN-FLOODING_017185_post_disaster.png",
+      "uncompressed_bytes": 334
+    },
+    "mode": "published_post_mask",
+    "sample_id": "PAKISTAN-FLOODING_017185"
+  },
+  {
+    "archive_size": 2370825346,
+    "archive_url": "https://ndownloader.figshare.com/files/44708299",
+    "enabled": false,
+    "event": "PAKISTAN-FLOODING",
+    "member": {
+      "compressed_bytes": 421524,
+      "compression_method": 8,
+      "crc32_unverified": "9b1dc308",
+      "directory": false,
+      "path": "PAKISTAN-FLOODING/images/PAKISTAN-FLOODING_015713_pre_disaster.png",
+      "uncompressed_bytes": 423408
+    },
+    "mode": "pre",
+    "sample_id": "PAKISTAN-FLOODING_015713"
+  },
+  {
+    "archive_size": 2370825346,
+    "archive_url": "https://ndownloader.figshare.com/files/44708299",
+    "enabled": false,
+    "event": "PAKISTAN-FLOODING",
+    "member": {
+      "compressed_bytes": 262047,
+      "compression_method": 8,
+      "crc32_unverified": "53002d29",
+      "directory": false,
+      "path": "PAKISTAN-FLOODING/images/PAKISTAN-FLOODING_015713_post_disaster.png",
+      "uncompressed_bytes": 262022
+    },
+    "mode": "post",
+    "sample_id": "PAKISTAN-FLOODING_015713"
+  },
+  {
+    "archive_size": 2370825346,
+    "archive_url": "https://ndownloader.figshare.com/files/44708299",
+    "enabled": false,
+    "event": "PAKISTAN-FLOODING",
+    "member": {
+      "compressed_bytes": 79,
+      "compression_method": 8,
+      "crc32_unverified": "ceb60ca4",
+      "directory": false,
+      "path": "PAKISTAN-FLOODING/masks/PAKISTAN-FLOODING_015713_post_disaster.png",
+      "uncompressed_bytes": 334
+    },
+    "mode": "published_post_mask",
+    "sample_id": "PAKISTAN-FLOODING_015713"
+  },
+  {
+    "archive_size": 361433408,
+    "archive_url": "https://ndownloader.figshare.com/files/44705161",
+    "enabled": false,
+    "event": "TEXAS-TORNADOES",
+    "member": {
+      "compressed_bytes": 405398,
+      "compression_method": 8,
+      "crc32_unverified": "e3fae705",
+      "directory": false,
+      "path": "TEXAS-TORNADOES/images/TEXAS-TORNADOES_012926_pre_disaster.png",
+      "uncompressed_bytes": 406934
+    },
+    "mode": "pre",
+    "sample_id": "TEXAS-TORNADOES_012926"
+  },
+  {
+    "archive_size": 361433408,
+    "archive_url": "https://ndownloader.figshare.com/files/44705161",
+    "enabled": false,
+    "event": "TEXAS-TORNADOES",
+    "member": {
+      "compressed_bytes": 413919,
+      "compression_method": 8,
+      "crc32_unverified": "648635a4",
+      "directory": false,
+      "path": "TEXAS-TORNADOES/images/TEXAS-TORNADOES_012926_post_disaster.png",
+      "uncompressed_bytes": 415970
+    },
+    "mode": "post",
+    "sample_id": "TEXAS-TORNADOES_012926"
+  },
+  {
+    "archive_size": 361433408,
+    "archive_url": "https://ndownloader.figshare.com/files/44705161",
+    "enabled": false,
+    "event": "TEXAS-TORNADOES",
+    "member": {
+      "compressed_bytes": 79,
+      "compression_method": 8,
+      "crc32_unverified": "ceb60ca4",
+      "directory": false,
+      "path": "TEXAS-TORNADOES/masks/TEXAS-TORNADOES_012926_post_disaster.png",
+      "uncompressed_bytes": 334
+    },
+    "mode": "published_post_mask",
+    "sample_id": "TEXAS-TORNADOES_012926"
+  },
+  {
+    "archive_size": 361433408,
+    "archive_url": "https://ndownloader.figshare.com/files/44705161",
+    "enabled": false,
+    "event": "TEXAS-TORNADOES",
+    "member": {
+      "compressed_bytes": 446394,
+      "compression_method": 8,
+      "crc32_unverified": "8ee4f48b",
+      "directory": false,
+      "path": "TEXAS-TORNADOES/images/TEXAS-TORNADOES_000403_pre_disaster.png",
+      "uncompressed_bytes": 447611
+    },
+    "mode": "pre",
+    "sample_id": "TEXAS-TORNADOES_000403"
+  },
+  {
+    "archive_size": 361433408,
+    "archive_url": "https://ndownloader.figshare.com/files/44705161",
+    "enabled": false,
+    "event": "TEXAS-TORNADOES",
+    "member": {
+      "compressed_bytes": 445346,
+      "compression_method": 8,
+      "crc32_unverified": "f9df7225",
+      "directory": false,
+      "path": "TEXAS-TORNADOES/images/TEXAS-TORNADOES_000403_post_disaster.png",
+      "uncompressed_bytes": 446742
+    },
+    "mode": "post",
+    "sample_id": "TEXAS-TORNADOES_000403"
+  },
+  {
+    "archive_size": 361433408,
+    "archive_url": "https://ndownloader.figshare.com/files/44705161",
+    "enabled": false,
+    "event": "TEXAS-TORNADOES",
+    "member": {
+      "compressed_bytes": 4290,
+      "compression_method": 8,
+      "crc32_unverified": "091d7b8a",
+      "directory": false,
+      "path": "TEXAS-TORNADOES/masks/TEXAS-TORNADOES_000403_post_disaster.png",
+      "uncompressed_bytes": 4427
+    },
+    "mode": "published_post_mask",
+    "sample_id": "TEXAS-TORNADOES_000403"
+  },
+  {
+    "archive_size": 361433408,
+    "archive_url": "https://ndownloader.figshare.com/files/44705161",
+    "enabled": false,
+    "event": "TEXAS-TORNADOES",
+    "member": {
+      "compressed_bytes": 360473,
+      "compression_method": 8,
+      "crc32_unverified": "151b84e7",
+      "directory": false,
+      "path": "TEXAS-TORNADOES/images/TEXAS-TORNADOES_005210_pre_disaster.png",
+      "uncompressed_bytes": 360922
+    },
+    "mode": "pre",
+    "sample_id": "TEXAS-TORNADOES_005210"
+  },
+  {
+    "archive_size": 361433408,
+    "archive_url": "https://ndownloader.figshare.com/files/44705161",
+    "enabled": false,
+    "event": "TEXAS-TORNADOES",
+    "member": {
+      "compressed_bytes": 380438,
+      "compression_method": 8,
+      "crc32_unverified": "f48ce564",
+      "directory": false,
+      "path": "TEXAS-TORNADOES/images/TEXAS-TORNADOES_005210_post_disaster.png",
+      "uncompressed_bytes": 381109
+    },
+    "mode": "post",
+    "sample_id": "TEXAS-TORNADOES_005210"
+  },
+  {
+    "archive_size": 361433408,
+    "archive_url": "https://ndownloader.figshare.com/files/44705161",
+    "enabled": false,
+    "event": "TEXAS-TORNADOES",
+    "member": {
+      "compressed_bytes": 465,
+      "compression_method": 8,
+      "crc32_unverified": "cf84c6f7",
+      "directory": false,
+      "path": "TEXAS-TORNADOES/masks/TEXAS-TORNADOES_005210_post_disaster.png",
+      "uncompressed_bytes": 684
+    },
+    "mode": "published_post_mask",
+    "sample_id": "TEXAS-TORNADOES_005210"
+  },
+  {
+    "archive_size": 361433408,
+    "archive_url": "https://ndownloader.figshare.com/files/44705161",
+    "enabled": false,
+    "event": "TEXAS-TORNADOES",
+    "member": {
+      "compressed_bytes": 435546,
+      "compression_method": 8,
+      "crc32_unverified": "5c9efa2d",
+      "directory": false,
+      "path": "TEXAS-TORNADOES/images/TEXAS-TORNADOES_009474_pre_disaster.png",
+      "uncompressed_bytes": 436639
+    },
+    "mode": "pre",
+    "sample_id": "TEXAS-TORNADOES_009474"
+  },
+  {
+    "archive_size": 361433408,
+    "archive_url": "https://ndownloader.figshare.com/files/44705161",
+    "enabled": false,
+    "event": "TEXAS-TORNADOES",
+    "member": {
+      "compressed_bytes": 435242,
+      "compression_method": 8,
+      "crc32_unverified": "6d11a7ba",
+      "directory": false,
+      "path": "TEXAS-TORNADOES/images/TEXAS-TORNADOES_009474_post_disaster.png",
+      "uncompressed_bytes": 436720
+    },
+    "mode": "post",
+    "sample_id": "TEXAS-TORNADOES_009474"
+  },
+  {
+    "archive_size": 361433408,
+    "archive_url": "https://ndownloader.figshare.com/files/44705161",
+    "enabled": false,
+    "event": "TEXAS-TORNADOES",
+    "member": {
+      "compressed_bytes": 3675,
+      "compression_method": 8,
+      "crc32_unverified": "8991feb5",
+      "directory": false,
+      "path": "TEXAS-TORNADOES/masks/TEXAS-TORNADOES_009474_post_disaster.png",
+      "uncompressed_bytes": 3778
+    },
+    "mode": "published_post_mask",
+    "sample_id": "TEXAS-TORNADOES_009474"
+  },
+  {
+    "archive_size": 361433408,
+    "archive_url": "https://ndownloader.figshare.com/files/44705161",
+    "enabled": false,
+    "event": "TEXAS-TORNADOES",
+    "member": {
+      "compressed_bytes": 455302,
+      "compression_method": 8,
+      "crc32_unverified": "462fffe2",
+      "directory": false,
+      "path": "TEXAS-TORNADOES/images/TEXAS-TORNADOES_002028_pre_disaster.png",
+      "uncompressed_bytes": 457562
+    },
+    "mode": "pre",
+    "sample_id": "TEXAS-TORNADOES_002028"
+  },
+  {
+    "archive_size": 361433408,
+    "archive_url": "https://ndownloader.figshare.com/files/44705161",
+    "enabled": false,
+    "event": "TEXAS-TORNADOES",
+    "member": {
+      "compressed_bytes": 436020,
+      "compression_method": 8,
+      "crc32_unverified": "1b4369bd",
+      "directory": false,
+      "path": "TEXAS-TORNADOES/images/TEXAS-TORNADOES_002028_post_disaster.png",
+      "uncompressed_bytes": 438006
+    },
+    "mode": "post",
+    "sample_id": "TEXAS-TORNADOES_002028"
+  },
+  {
+    "archive_size": 361433408,
+    "archive_url": "https://ndownloader.figshare.com/files/44705161",
+    "enabled": false,
+    "event": "TEXAS-TORNADOES",
+    "member": {
+      "compressed_bytes": 79,
+      "compression_method": 8,
+      "crc32_unverified": "ceb60ca4",
+      "directory": false,
+      "path": "TEXAS-TORNADOES/masks/TEXAS-TORNADOES_002028_post_disaster.png",
+      "uncompressed_bytes": 334
+    },
+    "mode": "published_post_mask",
+    "sample_id": "TEXAS-TORNADOES_002028"
+  },
+  {
+    "archive_size": 361433408,
+    "archive_url": "https://ndownloader.figshare.com/files/44705161",
+    "enabled": false,
+    "event": "TEXAS-TORNADOES",
+    "member": {
+      "compressed_bytes": 428984,
+      "compression_method": 8,
+      "crc32_unverified": "57b19c23",
+      "directory": false,
+      "path": "TEXAS-TORNADOES/images/TEXAS-TORNADOES_005722_pre_disaster.png",
+      "uncompressed_bytes": 431297
+    },
+    "mode": "pre",
+    "sample_id": "TEXAS-TORNADOES_005722"
+  },
+  {
+    "archive_size": 361433408,
+    "archive_url": "https://ndownloader.figshare.com/files/44705161",
+    "enabled": false,
+    "event": "TEXAS-TORNADOES",
+    "member": {
+      "compressed_bytes": 429597,
+      "compression_method": 8,
+      "crc32_unverified": "803b7226",
+      "directory": false,
+      "path": "TEXAS-TORNADOES/images/TEXAS-TORNADOES_005722_post_disaster.png",
+      "uncompressed_bytes": 432058
+    },
+    "mode": "post",
+    "sample_id": "TEXAS-TORNADOES_005722"
+  },
+  {
+    "archive_size": 361433408,
+    "archive_url": "https://ndownloader.figshare.com/files/44705161",
+    "enabled": false,
+    "event": "TEXAS-TORNADOES",
+    "member": {
+      "compressed_bytes": 79,
+      "compression_method": 8,
+      "crc32_unverified": "ceb60ca4",
+      "directory": false,
+      "path": "TEXAS-TORNADOES/masks/TEXAS-TORNADOES_005722_post_disaster.png",
+      "uncompressed_bytes": 334
+    },
+    "mode": "published_post_mask",
+    "sample_id": "TEXAS-TORNADOES_005722"
+  },
+  {
+    "archive_size": 361433408,
+    "archive_url": "https://ndownloader.figshare.com/files/44705161",
+    "enabled": false,
+    "event": "TEXAS-TORNADOES",
+    "member": {
+      "compressed_bytes": 177939,
+      "compression_method": 8,
+      "crc32_unverified": "0d6389e8",
+      "directory": false,
+      "path": "TEXAS-TORNADOES/images/TEXAS-TORNADOES_007034_pre_disaster.png",
+      "uncompressed_bytes": 179617
+    },
+    "mode": "pre",
+    "sample_id": "TEXAS-TORNADOES_007034"
+  },
+  {
+    "archive_size": 361433408,
+    "archive_url": "https://ndownloader.figshare.com/files/44705161",
+    "enabled": false,
+    "event": "TEXAS-TORNADOES",
+    "member": {
+      "compressed_bytes": 152705,
+      "compression_method": 8,
+      "crc32_unverified": "e4550ed5",
+      "directory": false,
+      "path": "TEXAS-TORNADOES/images/TEXAS-TORNADOES_007034_post_disaster.png",
+      "uncompressed_bytes": 154484
+    },
+    "mode": "post",
+    "sample_id": "TEXAS-TORNADOES_007034"
+  },
+  {
+    "archive_size": 361433408,
+    "archive_url": "https://ndownloader.figshare.com/files/44705161",
+    "enabled": false,
+    "event": "TEXAS-TORNADOES",
+    "member": {
+      "compressed_bytes": 79,
+      "compression_method": 8,
+      "crc32_unverified": "ceb60ca4",
+      "directory": false,
+      "path": "TEXAS-TORNADOES/masks/TEXAS-TORNADOES_007034_post_disaster.png",
+      "uncompressed_bytes": 334
+    },
+    "mode": "published_post_mask",
+    "sample_id": "TEXAS-TORNADOES_007034"
+  },
+  {
+    "archive_size": 361433408,
+    "archive_url": "https://ndownloader.figshare.com/files/44705161",
+    "enabled": false,
+    "event": "TEXAS-TORNADOES",
+    "member": {
+      "compressed_bytes": 432144,
+      "compression_method": 8,
+      "crc32_unverified": "dad0c987",
+      "directory": false,
+      "path": "TEXAS-TORNADOES/images/TEXAS-TORNADOES_004617_pre_disaster.png",
+      "uncompressed_bytes": 433813
+    },
+    "mode": "pre",
+    "sample_id": "TEXAS-TORNADOES_004617"
+  },
+  {
+    "archive_size": 361433408,
+    "archive_url": "https://ndownloader.figshare.com/files/44705161",
+    "enabled": false,
+    "event": "TEXAS-TORNADOES",
+    "member": {
+      "compressed_bytes": 374924,
+      "compression_method": 8,
+      "crc32_unverified": "fe937052",
+      "directory": false,
+      "path": "TEXAS-TORNADOES/images/TEXAS-TORNADOES_004617_post_disaster.png",
+      "uncompressed_bytes": 375938
+    },
+    "mode": "post",
+    "sample_id": "TEXAS-TORNADOES_004617"
+  },
+  {
+    "archive_size": 361433408,
+    "archive_url": "https://ndownloader.figshare.com/files/44705161",
+    "enabled": false,
+    "event": "TEXAS-TORNADOES",
+    "member": {
+      "compressed_bytes": 175,
+      "compression_method": 8,
+      "crc32_unverified": "a2167b1e",
+      "directory": false,
+      "path": "TEXAS-TORNADOES/masks/TEXAS-TORNADOES_004617_post_disaster.png",
+      "uncompressed_bytes": 453
+    },
+    "mode": "published_post_mask",
+    "sample_id": "TEXAS-TORNADOES_004617"
+  },
+  {
+    "archive_size": 361433408,
+    "archive_url": "https://ndownloader.figshare.com/files/44705161",
+    "enabled": false,
+    "event": "TEXAS-TORNADOES",
+    "member": {
+      "compressed_bytes": 369656,
+      "compression_method": 8,
+      "crc32_unverified": "91653e09",
+      "directory": false,
+      "path": "TEXAS-TORNADOES/images/TEXAS-TORNADOES_012106_pre_disaster.png",
+      "uncompressed_bytes": 370469
+    },
+    "mode": "pre",
+    "sample_id": "TEXAS-TORNADOES_012106"
+  },
+  {
+    "archive_size": 361433408,
+    "archive_url": "https://ndownloader.figshare.com/files/44705161",
+    "enabled": false,
+    "event": "TEXAS-TORNADOES",
+    "member": {
+      "compressed_bytes": 378691,
+      "compression_method": 8,
+      "crc32_unverified": "d4d4e6a3",
+      "directory": false,
+      "path": "TEXAS-TORNADOES/images/TEXAS-TORNADOES_012106_post_disaster.png",
+      "uncompressed_bytes": 379673
+    },
+    "mode": "post",
+    "sample_id": "TEXAS-TORNADOES_012106"
+  },
+  {
+    "archive_size": 361433408,
+    "archive_url": "https://ndownloader.figshare.com/files/44705161",
+    "enabled": false,
+    "event": "TEXAS-TORNADOES",
+    "member": {
+      "compressed_bytes": 203,
+      "compression_method": 8,
+      "crc32_unverified": "e0914874",
+      "directory": false,
+      "path": "TEXAS-TORNADOES/masks/TEXAS-TORNADOES_012106_post_disaster.png",
+      "uncompressed_bytes": 459
+    },
+    "mode": "published_post_mask",
+    "sample_id": "TEXAS-TORNADOES_012106"
+  },
+  {
+    "archive_size": 361433408,
+    "archive_url": "https://ndownloader.figshare.com/files/44705161",
+    "enabled": false,
+    "event": "TEXAS-TORNADOES",
+    "member": {
+      "compressed_bytes": 429622,
+      "compression_method": 8,
+      "crc32_unverified": "c4d0bd30",
+      "directory": false,
+      "path": "TEXAS-TORNADOES/images/TEXAS-TORNADOES_001665_pre_disaster.png",
+      "uncompressed_bytes": 430876
+    },
+    "mode": "pre",
+    "sample_id": "TEXAS-TORNADOES_001665"
+  },
+  {
+    "archive_size": 361433408,
+    "archive_url": "https://ndownloader.figshare.com/files/44705161",
+    "enabled": false,
+    "event": "TEXAS-TORNADOES",
+    "member": {
+      "compressed_bytes": 462423,
+      "compression_method": 8,
+      "crc32_unverified": "f63ad85a",
+      "directory": false,
+      "path": "TEXAS-TORNADOES/images/TEXAS-TORNADOES_001665_post_disaster.png",
+      "uncompressed_bytes": 463440
+    },
+    "mode": "post",
+    "sample_id": "TEXAS-TORNADOES_001665"
+  },
+  {
+    "archive_size": 361433408,
+    "archive_url": "https://ndownloader.figshare.com/files/44705161",
+    "enabled": false,
+    "event": "TEXAS-TORNADOES",
+    "member": {
+      "compressed_bytes": 3479,
+      "compression_method": 8,
+      "crc32_unverified": "5e73b591",
+      "directory": false,
+      "path": "TEXAS-TORNADOES/masks/TEXAS-TORNADOES_001665_post_disaster.png",
+      "uncompressed_bytes": 3596
+    },
+    "mode": "published_post_mask",
+    "sample_id": "TEXAS-TORNADOES_001665"
+  },
+  {
+    "archive_size": 361433408,
+    "archive_url": "https://ndownloader.figshare.com/files/44705161",
+    "enabled": false,
+    "event": "TEXAS-TORNADOES",
+    "member": {
+      "compressed_bytes": 457929,
+      "compression_method": 8,
+      "crc32_unverified": "88e2cae2",
+      "directory": false,
+      "path": "TEXAS-TORNADOES/images/TEXAS-TORNADOES_009557_pre_disaster.png",
+      "uncompressed_bytes": 459436
+    },
+    "mode": "pre",
+    "sample_id": "TEXAS-TORNADOES_009557"
+  },
+  {
+    "archive_size": 361433408,
+    "archive_url": "https://ndownloader.figshare.com/files/44705161",
+    "enabled": false,
+    "event": "TEXAS-TORNADOES",
+    "member": {
+      "compressed_bytes": 401502,
+      "compression_method": 8,
+      "crc32_unverified": "c56d37f6",
+      "directory": false,
+      "path": "TEXAS-TORNADOES/images/TEXAS-TORNADOES_009557_post_disaster.png",
+      "uncompressed_bytes": 402767
+    },
+    "mode": "post",
+    "sample_id": "TEXAS-TORNADOES_009557"
+  },
+  {
+    "archive_size": 361433408,
+    "archive_url": "https://ndownloader.figshare.com/files/44705161",
+    "enabled": false,
+    "event": "TEXAS-TORNADOES",
+    "member": {
+      "compressed_bytes": 421,
+      "compression_method": 8,
+      "crc32_unverified": "c4be7270",
+      "directory": false,
+      "path": "TEXAS-TORNADOES/masks/TEXAS-TORNADOES_009557_post_disaster.png",
+      "uncompressed_bytes": 634
+    },
+    "mode": "published_post_mask",
+    "sample_id": "TEXAS-TORNADOES_009557"
+  },
+  {
+    "archive_size": 361433408,
+    "archive_url": "https://ndownloader.figshare.com/files/44705161",
+    "enabled": false,
+    "event": "TEXAS-TORNADOES",
+    "member": {
+      "compressed_bytes": 413858,
+      "compression_method": 8,
+      "crc32_unverified": "815af2a2",
+      "directory": false,
+      "path": "TEXAS-TORNADOES/images/TEXAS-TORNADOES_014048_pre_disaster.png",
+      "uncompressed_bytes": 415297
+    },
+    "mode": "pre",
+    "sample_id": "TEXAS-TORNADOES_014048"
+  },
+  {
+    "archive_size": 361433408,
+    "archive_url": "https://ndownloader.figshare.com/files/44705161",
+    "enabled": false,
+    "event": "TEXAS-TORNADOES",
+    "member": {
+      "compressed_bytes": 323257,
+      "compression_method": 8,
+      "crc32_unverified": "d92a75dd",
+      "directory": false,
+      "path": "TEXAS-TORNADOES/images/TEXAS-TORNADOES_014048_post_disaster.png",
+      "uncompressed_bytes": 323413
+    },
+    "mode": "post",
+    "sample_id": "TEXAS-TORNADOES_014048"
+  },
+  {
+    "archive_size": 361433408,
+    "archive_url": "https://ndownloader.figshare.com/files/44705161",
+    "enabled": false,
+    "event": "TEXAS-TORNADOES",
+    "member": {
+      "compressed_bytes": 360,
+      "compression_method": 8,
+      "crc32_unverified": "eaf30246",
+      "directory": false,
+      "path": "TEXAS-TORNADOES/masks/TEXAS-TORNADOES_014048_post_disaster.png",
+      "uncompressed_bytes": 615
+    },
+    "mode": "published_post_mask",
+    "sample_id": "TEXAS-TORNADOES_014048"
+  }
+]

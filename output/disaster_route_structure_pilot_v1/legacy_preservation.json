@@ -1,0 +1,33 @@
+{
+  "status": "PASS",
+  "checks": [
+    {
+      "stage": "disaster_route_loop_v1",
+      "bound_files_verified": 34
+    },
+    {
+      "stage": "disaster_route_factor_v2",
+      "bound_files_verified": 23
+    },
+    {
+      "stage": "disaster_route_snapshot_v3",
+      "bound_files_verified": 27
+    },
+    {
+      "stage": "disaster_route_trigger_v4",
+      "bound_files_verified": 30
+    },
+    {
+      "stage": "disaster_route_dual_map_demo_v1",
+      "bound_files_verified": 31
+    },
+    {
+      "stage": "disaster_route_real_xbd36_v1",
+      "bound_files_verified": 257
+    },
+    {
+      "stage": "感知汇报归档",
+      "bound_files_verified": 46
+    }
+  ]
+}

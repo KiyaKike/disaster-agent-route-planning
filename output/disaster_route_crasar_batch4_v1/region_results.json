@@ -1,0 +1,1175 @@
+[
+  {
+    "case": "case_rank03",
+    "scene": "1001-Ft-Myers-Beach-DIRT.geo.tif",
+    "status": "PROVISIONAL_REPLAY_COMPLETE",
+    "dates": {
+      "uas": "2022-10-01",
+      "pre": "2022-01-21",
+      "post": "2022-09-30"
+    },
+    "eligible_buildings": 18,
+    "severe_targets": 0,
+    "any_damage_targets": 9,
+    "support": {
+      "pre": 1.0,
+      "post": 1.0,
+      "uas": 1.0
+    },
+    "registration": {
+      "pre_to_uas": {
+        "status": "INSUFFICIENT_CONSENSUS",
+        "matches": 5,
+        "largest_translation_consensus": 1,
+        "independent_absolute_accuracy": false
+      },
+      "post_to_uas": {
+        "status": "INSUFFICIENT_CONSENSUS",
+        "matches": 4,
+        "largest_translation_consensus": 1,
+        "independent_absolute_accuracy": false
+      }
+    },
+    "severe": {
+      "region": "1001-Ft-Myers-Beach-DIRT.geo.tif",
+      "target_definition": "severe",
+      "endpoint_scope": "Primary severe,undefined with zero targets",
+      "eligible_buildings": 18,
+      "known_label_buildings": 18,
+      "ignored_unknown_label_buildings": 0,
+      "eligible_target_buildings": 0,
+      "all_windows_correct_check_count": 0,
+      "full_access_scope": "Outcome after all16windows,not a general upper bound:adding nondamage pixels can dilute the ratio rule. Exact same-budget hindsight reference is the actual diagnostic upper bound.",
+      "routes": 18,
+      "budget_violations": 0,
+      "main_budget_results": [
+        {
+          "policy": "distance",
+          "budget_proxy_s": 100,
+          "route": [
+            14,
+            10,
+            6,
+            2,
+            9
+          ],
+          "correctly_checked_target_buildings": 0,
+          "eligible_target_buildings": 0,
+          "target_recall": null,
+          "checked_buildings_geometry_only": 5,
+          "first_correct_check_proxy_s": null,
+          "false_positive_checked_buildings": 3,
+          "checked_prediction_precision": 0.0,
+          "ignored_unknown_label_checked_buildings": 0,
+          "distance_m": 240.77803484065686,
+          "elapsed_proxy_s": 99.15560696813137,
+          "budget_verified": true
+        },
+        {
+          "policy": "damage",
+          "budget_proxy_s": 100,
+          "route": [
+            9,
+            10,
+            3,
+            7
+          ],
+          "correctly_checked_target_buildings": 0,
+          "eligible_target_buildings": 0,
+          "target_recall": null,
+          "checked_buildings_geometry_only": 5,
+          "first_correct_check_proxy_s": null,
+          "false_positive_checked_buildings": 2,
+          "checked_prediction_precision": 0.0,
+          "ignored_unknown_label_checked_buildings": 0,
+          "distance_m": 279.44584816021217,
+          "elapsed_proxy_s": 96.88916963204244,
+          "budget_verified": true
+        },
+        {
+          "policy": "uncertainty",
+          "budget_proxy_s": 100,
+          "route": [
+            9,
+            11,
+            15,
+            10
+          ],
+          "correctly_checked_target_buildings": 0,
+          "eligible_target_buildings": 0,
+          "target_recall": null,
+          "checked_buildings_geometry_only": 6,
+          "first_correct_check_proxy_s": null,
+          "false_positive_checked_buildings": 2,
+          "checked_prediction_precision": 0.0,
+          "ignored_unknown_label_checked_buildings": 0,
+          "distance_m": 242.4477191213272,
+          "elapsed_proxy_s": 89.48954382426544,
+          "budget_verified": true
+        },
+        {
+          "policy": "static_exact_damage",
+          "budget_proxy_s": 100,
+          "route": [
+            10,
+            3,
+            2,
+            9
+          ],
+          "correctly_checked_target_buildings": 0,
+          "eligible_target_buildings": 0,
+          "target_recall": null,
+          "checked_buildings_geometry_only": 6,
+          "first_correct_check_proxy_s": null,
+          "false_positive_checked_buildings": 4,
+          "checked_prediction_precision": 0.0,
+          "ignored_unknown_label_checked_buildings": 0,
+          "distance_m": 276.3012356853747,
+          "elapsed_proxy_s": 96.26024713707494,
+          "budget_verified": true
+        },
+        {
+          "policy": "static_exact",
+          "budget_proxy_s": 100,
+          "route": [
+            10,
+            3,
+            2,
+            9
+          ],
+          "correctly_checked_target_buildings": 0,
+          "eligible_target_buildings": 0,
+          "target_recall": null,
+          "checked_buildings_geometry_only": 6,
+          "first_correct_check_proxy_s": null,
+          "false_positive_checked_buildings": 4,
+          "checked_prediction_precision": 0.0,
+          "ignored_unknown_label_checked_buildings": 0,
+          "distance_m": 276.3012356853747,
+          "elapsed_proxy_s": 96.26024713707494,
+          "budget_verified": true
+        },
+        {
+          "policy": "value_cost_proxy",
+          "budget_proxy_s": 100,
+          "route": [
+            9,
+            3,
+            2,
+            10
+          ],
+          "correctly_checked_target_buildings": 0,
+          "eligible_target_buildings": 0,
+          "target_recall": null,
+          "checked_buildings_geometry_only": 6,
+          "first_correct_check_proxy_s": null,
+          "false_positive_checked_buildings": 4,
+          "checked_prediction_precision": 0.0,
+          "ignored_unknown_label_checked_buildings": 0,
+          "distance_m": 287.70255311726623,
+          "elapsed_proxy_s": 98.54051062345324,
+          "budget_verified": true
+        }
+      ],
+      "hindsight_same_budget_ceiling": [
+        {
+          "budget_proxy_s": 60,
+          "correctly_checked_target_buildings": 0,
+          "route": [],
+          "role": "Hindsight evaluator ceiling only; full future model cache and reference access; not a deployable control"
+        },
+        {
+          "budget_proxy_s": 100,
+          "correctly_checked_target_buildings": 0,
+          "route": [],
+          "role": "Hindsight evaluator ceiling only; full future model cache and reference access; not a deployable control"
+        },
+        {
+          "budget_proxy_s": 140,
+          "correctly_checked_target_buildings": 0,
+          "route": [],
+          "role": "Hindsight evaluator ceiling only; full future model cache and reference access; not a deployable control"
+        }
+      ],
+      "method_gain_established": false,
+      "interpretation": "One development case with uncalibrated cross-sensor detector and proxy service/flight costs. Outcomes are an admission probe,not evidence of a general method contribution.",
+      "online_information_gain_validated": false,
+      "gpu_rental": false
+    },
+    "any_damage": {
+      "region": "1001-Ft-Myers-Beach-DIRT.geo.tif",
+      "target_definition": "any_damage",
+      "endpoint_scope": "Secondary any-damage endpoint predeclared for this batch before label inspection; still training development,not independent confirmation",
+      "eligible_buildings": 18,
+      "known_label_buildings": 18,
+      "ignored_unknown_label_buildings": 0,
+      "eligible_target_buildings": 9,
+      "all_windows_correct_check_count": 6,
+      "full_access_scope": "Outcome after all16windows,not a general upper bound:adding nondamage pixels can dilute the ratio rule. Exact same-budget hindsight reference is the actual diagnostic upper bound.",
+      "routes": 18,
+      "budget_violations": 0,
+      "main_budget_results": [
+        {
+          "policy": "distance",
+          "budget_proxy_s": 100,
+          "route": [
+            14,
+            10,
+            6,
+            2,
+            9
+          ],
+          "correctly_checked_target_buildings": 3,
+          "eligible_target_buildings": 9,
+          "target_recall": 0.3333333333333333,
+          "checked_buildings_geometry_only": 5,
+          "first_correct_check_proxy_s": 31.9254833995939,
+          "false_positive_checked_buildings": 0,
+          "checked_prediction_precision": 1.0,
+          "ignored_unknown_label_checked_buildings": 0,
+          "distance_m": 240.77803484065686,
+          "elapsed_proxy_s": 99.15560696813137,
+          "budget_verified": true
+        },
+        {
+          "policy": "damage",
+          "budget_proxy_s": 100,
+          "route": [
+            9,
+            10,
+            3,
+            7
+          ],
+          "correctly_checked_target_buildings": 2,
+          "eligible_target_buildings": 9,
+          "target_recall": 0.2222222222222222,
+          "checked_buildings_geometry_only": 5,
+          "first_correct_check_proxy_s": 21.119288512538816,
+          "false_positive_checked_buildings": 0,
+          "checked_prediction_precision": 1.0,
+          "ignored_unknown_label_checked_buildings": 0,
+          "distance_m": 279.44584816021217,
+          "elapsed_proxy_s": 96.88916963204244,
+          "budget_verified": true
+        },
+        {
+          "policy": "uncertainty",
+          "budget_proxy_s": 100,
+          "route": [
+            9,
+            11,
+            15,
+            10
+          ],
+          "correctly_checked_target_buildings": 2,
+          "eligible_target_buildings": 9,
+          "target_recall": 0.2222222222222222,
+          "checked_buildings_geometry_only": 6,
+          "first_correct_check_proxy_s": 21.119288512538816,
+          "false_positive_checked_buildings": 0,
+          "checked_prediction_precision": 1.0,
+          "ignored_unknown_label_checked_buildings": 0,
+          "distance_m": 242.4477191213272,
+          "elapsed_proxy_s": 89.48954382426544,
+          "budget_verified": true
+        },
+        {
+          "policy": "static_exact_damage",
+          "budget_proxy_s": 100,
+          "route": [
+            10,
+            3,
+            2,
+            9
+          ],
+          "correctly_checked_target_buildings": 2,
+          "eligible_target_buildings": 9,
+          "target_recall": 0.2222222222222222,
+          "checked_buildings_geometry_only": 6,
+          "first_correct_check_proxy_s": 21.119288512538816,
+          "false_positive_checked_buildings": 2,
+          "checked_prediction_precision": 0.5,
+          "ignored_unknown_label_checked_buildings": 0,
+          "distance_m": 276.3012356853747,
+          "elapsed_proxy_s": 96.26024713707494,
+          "budget_verified": true
+        },
+        {
+          "policy": "static_exact",
+          "budget_proxy_s": 100,
+          "route": [
+            10,
+            3,
+            2,
+            9
+          ],
+          "correctly_checked_target_buildings": 2,
+          "eligible_target_buildings": 9,
+          "target_recall": 0.2222222222222222,
+          "checked_buildings_geometry_only": 6,
+          "first_correct_check_proxy_s": 21.119288512538816,
+          "false_positive_checked_buildings": 2,
+          "checked_prediction_precision": 0.5,
+          "ignored_unknown_label_checked_buildings": 0,
+          "distance_m": 276.3012356853747,
+          "elapsed_proxy_s": 96.26024713707494,
+          "budget_verified": true
+        },
+        {
+          "policy": "value_cost_proxy",
+          "budget_proxy_s": 100,
+          "route": [
+            9,
+            3,
+            2,
+            10
+          ],
+          "correctly_checked_target_buildings": 2,
+          "eligible_target_buildings": 9,
+          "target_recall": 0.2222222222222222,
+          "checked_buildings_geometry_only": 6,
+          "first_correct_check_proxy_s": 21.119288512538816,
+          "false_positive_checked_buildings": 2,
+          "checked_prediction_precision": 0.5,
+          "ignored_unknown_label_checked_buildings": 0,
+          "distance_m": 287.70255311726623,
+          "elapsed_proxy_s": 98.54051062345324,
+          "budget_verified": true
+        }
+      ],
+      "hindsight_same_budget_ceiling": [
+        {
+          "budget_proxy_s": 60,
+          "correctly_checked_target_buildings": 3,
+          "route": [
+            14,
+            10,
+            9
+          ],
+          "role": "Hindsight evaluator ceiling only; full future model cache and reference access; not a deployable control"
+        },
+        {
+          "budget_proxy_s": 100,
+          "correctly_checked_target_buildings": 5,
+          "route": [
+            14,
+            10,
+            1,
+            5,
+            9
+          ],
+          "role": "Hindsight evaluator ceiling only; full future model cache and reference access; not a deployable control"
+        },
+        {
+          "budget_proxy_s": 140,
+          "correctly_checked_target_buildings": 6,
+          "route": [
+            14,
+            10,
+            9,
+            5,
+            1,
+            8,
+            12
+          ],
+          "role": "Hindsight evaluator ceiling only; full future model cache and reference access; not a deployable control"
+        }
+      ],
+      "method_gain_established": false,
+      "interpretation": "One development case with uncalibrated cross-sensor detector and proxy service/flight costs. Outcomes are an admission probe,not evidence of a general method contribution.",
+      "online_information_gain_validated": false,
+      "gpu_rental": false
+    }
+  },
+  {
+    "case": "case_rank04",
+    "scene": "1001-Iona-Point.geo.tif",
+    "status": "PROVISIONAL_REPLAY_COMPLETE",
+    "dates": {
+      "uas": "2022-10-01",
+      "pre": "2022-01-21",
+      "post": "2022-09-30"
+    },
+    "eligible_buildings": 8,
+    "severe_targets": 0,
+    "any_damage_targets": 1,
+    "support": {
+      "pre": 0.9885272979736328,
+      "post": 0.988490104675293,
+      "uas": 0.9874029159545898
+    },
+    "registration": {
+      "pre_to_uas": {
+        "status": "INSUFFICIENT_CONSENSUS",
+        "matches": 5,
+        "largest_translation_consensus": 1,
+        "independent_absolute_accuracy": false
+      },
+      "post_to_uas": {
+        "status": "DIAGNOSTIC_ONLY",
+        "matches": 25,
+        "translation_consensus": 16,
+        "median_translation_m": [
+          5.562797546386719,
+          -0.229339599609375
+        ],
+        "median_direct_residual_m": 5.568380426166788,
+        "independent_absolute_accuracy": false
+      }
+    },
+    "severe": {
+      "region": "1001-Iona-Point.geo.tif",
+      "target_definition": "severe",
+      "endpoint_scope": "Primary severe,undefined with zero targets",
+      "eligible_buildings": 8,
+      "known_label_buildings": 8,
+      "ignored_unknown_label_buildings": 0,
+      "eligible_target_buildings": 0,
+      "all_windows_correct_check_count": 0,
+      "full_access_scope": "Outcome after all16windows,not a general upper bound:adding nondamage pixels can dilute the ratio rule. Exact same-budget hindsight reference is the actual diagnostic upper bound.",
+      "routes": 18,
+      "budget_violations": 0,
+      "main_budget_results": [
+        {
+          "policy": "distance",
+          "budget_proxy_s": 100,
+          "route": [
+            13,
+            9,
+            5,
+            1,
+            10
+          ],
+          "correctly_checked_target_buildings": 0,
+          "eligible_target_buildings": 0,
+          "target_recall": null,
+          "checked_buildings_geometry_only": 4,
+          "first_correct_check_proxy_s": null,
+          "false_positive_checked_buildings": 0,
+          "checked_prediction_precision": null,
+          "ignored_unknown_label_checked_buildings": 0,
+          "distance_m": 240.77803484065686,
+          "elapsed_proxy_s": 99.15560696813137,
+          "budget_verified": true
+        },
+        {
+          "policy": "damage",
+          "budget_proxy_s": 100,
+          "route": [
+            9,
+            13,
+            10,
+            14,
+            15
+          ],
+          "correctly_checked_target_buildings": 0,
+          "eligible_target_buildings": 0,
+          "target_recall": null,
+          "checked_buildings_geometry_only": 3,
+          "first_correct_check_proxy_s": null,
+          "false_positive_checked_buildings": 0,
+          "checked_prediction_precision": null,
+          "ignored_unknown_label_checked_buildings": 0,
+          "distance_m": 242.4477191213272,
+          "elapsed_proxy_s": 99.48954382426544,
+          "budget_verified": true
+        },
+        {
+          "policy": "uncertainty",
+          "budget_proxy_s": 100,
+          "route": [
+            9,
+            13,
+            10,
+            14,
+            15
+          ],
+          "correctly_checked_target_buildings": 0,
+          "eligible_target_buildings": 0,
+          "target_recall": null,
+          "checked_buildings_geometry_only": 3,
+          "first_correct_check_proxy_s": null,
+          "false_positive_checked_buildings": 0,
+          "checked_prediction_precision": null,
+          "ignored_unknown_label_checked_buildings": 0,
+          "distance_m": 242.4477191213272,
+          "elapsed_proxy_s": 99.48954382426544,
+          "budget_verified": true
+        },
+        {
+          "policy": "static_exact_damage",
+          "budget_proxy_s": 100,
+          "route": [
+            14,
+            10,
+            5,
+            9,
+            13
+          ],
+          "correctly_checked_target_buildings": 0,
+          "eligible_target_buildings": 0,
+          "target_recall": null,
+          "checked_buildings_geometry_only": 3,
+          "first_correct_check_proxy_s": null,
+          "false_positive_checked_buildings": 0,
+          "checked_prediction_precision": null,
+          "ignored_unknown_label_checked_buildings": 0,
+          "distance_m": 186.50966799187808,
+          "elapsed_proxy_s": 88.30193359837561,
+          "budget_verified": true
+        },
+        {
+          "policy": "static_exact",
+          "budget_proxy_s": 100,
+          "route": [
+            14,
+            10,
+            5,
+            9,
+            13
+          ],
+          "correctly_checked_target_buildings": 0,
+          "eligible_target_buildings": 0,
+          "target_recall": null,
+          "checked_buildings_geometry_only": 3,
+          "first_correct_check_proxy_s": null,
+          "false_positive_checked_buildings": 0,
+          "checked_prediction_precision": null,
+          "ignored_unknown_label_checked_buildings": 0,
+          "distance_m": 186.50966799187808,
+          "elapsed_proxy_s": 88.30193359837561,
+          "budget_verified": true
+        },
+        {
+          "policy": "value_cost_proxy",
+          "budget_proxy_s": 100,
+          "route": [
+            9,
+            13,
+            14,
+            10,
+            15
+          ],
+          "correctly_checked_target_buildings": 0,
+          "eligible_target_buildings": 0,
+          "target_recall": null,
+          "checked_buildings_geometry_only": 3,
+          "first_correct_check_proxy_s": null,
+          "false_positive_checked_buildings": 0,
+          "checked_prediction_precision": null,
+          "ignored_unknown_label_checked_buildings": 0,
+          "distance_m": 242.4477191213272,
+          "elapsed_proxy_s": 99.48954382426544,
+          "budget_verified": true
+        }
+      ],
+      "hindsight_same_budget_ceiling": [
+        {
+          "budget_proxy_s": 60,
+          "correctly_checked_target_buildings": 0,
+          "route": [],
+          "role": "Hindsight evaluator ceiling only; full future model cache and reference access; not a deployable control"
+        },
+        {
+          "budget_proxy_s": 100,
+          "correctly_checked_target_buildings": 0,
+          "route": [],
+          "role": "Hindsight evaluator ceiling only; full future model cache and reference access; not a deployable control"
+        },
+        {
+          "budget_proxy_s": 140,
+          "correctly_checked_target_buildings": 0,
+          "route": [],
+          "role": "Hindsight evaluator ceiling only; full future model cache and reference access; not a deployable control"
+        }
+      ],
+      "method_gain_established": false,
+      "interpretation": "One development case with uncalibrated cross-sensor detector and proxy service/flight costs. Outcomes are an admission probe,not evidence of a general method contribution.",
+      "online_information_gain_validated": false,
+      "gpu_rental": false
+    },
+    "any_damage": {
+      "region": "1001-Iona-Point.geo.tif",
+      "target_definition": "any_damage",
+      "endpoint_scope": "Secondary any-damage endpoint predeclared for this batch before label inspection; still training development,not independent confirmation",
+      "eligible_buildings": 8,
+      "known_label_buildings": 8,
+      "ignored_unknown_label_buildings": 0,
+      "eligible_target_buildings": 1,
+      "all_windows_correct_check_count": 1,
+      "full_access_scope": "Outcome after all16windows,not a general upper bound:adding nondamage pixels can dilute the ratio rule. Exact same-budget hindsight reference is the actual diagnostic upper bound.",
+      "routes": 18,
+      "budget_violations": 0,
+      "main_budget_results": [
+        {
+          "policy": "distance",
+          "budget_proxy_s": 100,
+          "route": [
+            13,
+            9,
+            5,
+            1,
+            10
+          ],
+          "correctly_checked_target_buildings": 1,
+          "eligible_target_buildings": 1,
+          "target_recall": 1.0,
+          "checked_buildings_geometry_only": 4,
+          "first_correct_check_proxy_s": 64.7254833995939,
+          "false_positive_checked_buildings": 0,
+          "checked_prediction_precision": 1.0,
+          "ignored_unknown_label_checked_buildings": 0,
+          "distance_m": 240.77803484065686,
+          "elapsed_proxy_s": 99.15560696813137,
+          "budget_verified": true
+        },
+        {
+          "policy": "damage",
+          "budget_proxy_s": 100,
+          "route": [
+            9,
+            13,
+            14,
+            10,
+            15
+          ],
+          "correctly_checked_target_buildings": 0,
+          "eligible_target_buildings": 1,
+          "target_recall": 0.0,
+          "checked_buildings_geometry_only": 3,
+          "first_correct_check_proxy_s": null,
+          "false_positive_checked_buildings": 1,
+          "checked_prediction_precision": 0.0,
+          "ignored_unknown_label_checked_buildings": 0,
+          "distance_m": 242.4477191213272,
+          "elapsed_proxy_s": 99.48954382426544,
+          "budget_verified": true
+        },
+        {
+          "policy": "uncertainty",
+          "budget_proxy_s": 100,
+          "route": [
+            9,
+            13,
+            10,
+            14,
+            15
+          ],
+          "correctly_checked_target_buildings": 0,
+          "eligible_target_buildings": 1,
+          "target_recall": 0.0,
+          "checked_buildings_geometry_only": 3,
+          "first_correct_check_proxy_s": null,
+          "false_positive_checked_buildings": 1,
+          "checked_prediction_precision": 0.0,
+          "ignored_unknown_label_checked_buildings": 0,
+          "distance_m": 242.4477191213272,
+          "elapsed_proxy_s": 99.48954382426544,
+          "budget_verified": true
+        },
+        {
+          "policy": "static_exact_damage",
+          "budget_proxy_s": 100,
+          "route": [
+            14,
+            10,
+            5,
+            9,
+            13
+          ],
+          "correctly_checked_target_buildings": 0,
+          "eligible_target_buildings": 1,
+          "target_recall": 0.0,
+          "checked_buildings_geometry_only": 3,
+          "first_correct_check_proxy_s": null,
+          "false_positive_checked_buildings": 0,
+          "checked_prediction_precision": null,
+          "ignored_unknown_label_checked_buildings": 0,
+          "distance_m": 186.50966799187808,
+          "elapsed_proxy_s": 88.30193359837561,
+          "budget_verified": true
+        },
+        {
+          "policy": "static_exact",
+          "budget_proxy_s": 100,
+          "route": [
+            14,
+            10,
+            5,
+            9,
+            13
+          ],
+          "correctly_checked_target_buildings": 0,
+          "eligible_target_buildings": 1,
+          "target_recall": 0.0,
+          "checked_buildings_geometry_only": 3,
+          "first_correct_check_proxy_s": null,
+          "false_positive_checked_buildings": 0,
+          "checked_prediction_precision": null,
+          "ignored_unknown_label_checked_buildings": 0,
+          "distance_m": 186.50966799187808,
+          "elapsed_proxy_s": 88.30193359837561,
+          "budget_verified": true
+        },
+        {
+          "policy": "value_cost_proxy",
+          "budget_proxy_s": 100,
+          "route": [
+            9,
+            13,
+            14,
+            10,
+            15
+          ],
+          "correctly_checked_target_buildings": 0,
+          "eligible_target_buildings": 1,
+          "target_recall": 0.0,
+          "checked_buildings_geometry_only": 3,
+          "first_correct_check_proxy_s": null,
+          "false_positive_checked_buildings": 1,
+          "checked_prediction_precision": 0.0,
+          "ignored_unknown_label_checked_buildings": 0,
+          "distance_m": 242.4477191213272,
+          "elapsed_proxy_s": 99.48954382426544,
+          "budget_verified": true
+        }
+      ],
+      "hindsight_same_budget_ceiling": [
+        {
+          "budget_proxy_s": 60,
+          "correctly_checked_target_buildings": 0,
+          "route": [],
+          "role": "Hindsight evaluator ceiling only; full future model cache and reference access; not a deployable control"
+        },
+        {
+          "budget_proxy_s": 100,
+          "correctly_checked_target_buildings": 1,
+          "route": [
+            6,
+            5
+          ],
+          "role": "Hindsight evaluator ceiling only; full future model cache and reference access; not a deployable control"
+        },
+        {
+          "budget_proxy_s": 140,
+          "correctly_checked_target_buildings": 1,
+          "route": [
+            6,
+            5
+          ],
+          "role": "Hindsight evaluator ceiling only; full future model cache and reference access; not a deployable control"
+        }
+      ],
+      "method_gain_established": false,
+      "interpretation": "One development case with uncalibrated cross-sensor detector and proxy service/flight costs. Outcomes are an admission probe,not evidence of a general method contribution.",
+      "online_information_gain_validated": false,
+      "gpu_rental": false
+    }
+  },
+  {
+    "case": "case_rank05",
+    "scene": "1001-Kennedy-Green-Mobile-Homes.geo.tif",
+    "status": "RGB_SENSOR_GATE_FAILED",
+    "dates": {
+      "uas": "2022-10-01",
+      "pre": "2021-05-07",
+      "post": "2022-09-30"
+    },
+    "eligible_buildings": 21,
+    "severe_targets": 6,
+    "any_damage_targets": 15,
+    "support": {
+      "pre": 1.0,
+      "post": 1.0,
+      "uas": 1.0
+    },
+    "registration": {
+      "pre_to_uas": {
+        "status": "INSUFFICIENT_CONSENSUS",
+        "matches": 6,
+        "largest_translation_consensus": 2,
+        "independent_absolute_accuracy": false
+      },
+      "post_to_uas": {
+        "status": "DIAGNOSTIC_ONLY",
+        "matches": 11,
+        "translation_consensus": 4,
+        "median_translation_m": [
+          -1.513871192932129,
+          -4.268899917602539
+        ],
+        "median_direct_residual_m": 4.499575689736593,
+        "independent_absolute_accuracy": false
+      }
+    }
+  },
+  {
+    "case": "case_rank06",
+    "scene": "1001-McGregor-College-Pkwy-South.1.geo.tif",
+    "status": "PROVISIONAL_REPLAY_COMPLETE",
+    "dates": {
+      "uas": "2022-10-01",
+      "pre": "2022-01-21",
+      "post": "2022-09-30"
+    },
+    "eligible_buildings": 6,
+    "severe_targets": 1,
+    "any_damage_targets": 1,
+    "support": {
+      "pre": 1.0,
+      "post": 0.9998140335083008,
+      "uas": 1.0
+    },
+    "registration": {
+      "pre_to_uas": {
+        "status": "INSUFFICIENT_CONSENSUS",
+        "matches": 7,
+        "largest_translation_consensus": 1,
+        "independent_absolute_accuracy": false
+      },
+      "post_to_uas": {
+        "status": "DIAGNOSTIC_ONLY",
+        "matches": 30,
+        "translation_consensus": 20,
+        "median_translation_m": [
+          -1.3381423950195312,
+          0.25017261505126953
+        ],
+        "median_direct_residual_m": 1.3825611539049252,
+        "independent_absolute_accuracy": false
+      }
+    },
+    "severe": {
+      "region": "1001-McGregor-College-Pkwy-South.1.geo.tif",
+      "target_definition": "severe",
+      "endpoint_scope": "Primary severe",
+      "eligible_buildings": 6,
+      "known_label_buildings": 4,
+      "ignored_unknown_label_buildings": 2,
+      "eligible_target_buildings": 1,
+      "all_windows_correct_check_count": 0,
+      "full_access_scope": "Outcome after all16windows,not a general upper bound:adding nondamage pixels can dilute the ratio rule. Exact same-budget hindsight reference is the actual diagnostic upper bound.",
+      "routes": 18,
+      "budget_violations": 0,
+      "main_budget_results": [
+        {
+          "policy": "distance",
+          "budget_proxy_s": 100,
+          "route": [
+            13,
+            9,
+            5,
+            1,
+            10
+          ],
+          "correctly_checked_target_buildings": 0,
+          "eligible_target_buildings": 1,
+          "target_recall": 0.0,
+          "checked_buildings_geometry_only": 2,
+          "first_correct_check_proxy_s": null,
+          "false_positive_checked_buildings": 0,
+          "checked_prediction_precision": null,
+          "ignored_unknown_label_checked_buildings": 1,
+          "distance_m": 240.77803484065686,
+          "elapsed_proxy_s": 99.15560696813137,
+          "budget_verified": true
+        },
+        {
+          "policy": "damage",
+          "budget_proxy_s": 100,
+          "route": [
+            8,
+            9,
+            1,
+            5
+          ],
+          "correctly_checked_target_buildings": 0,
+          "eligible_target_buildings": 1,
+          "target_recall": 0.0,
+          "checked_buildings_geometry_only": 3,
+          "first_correct_check_proxy_s": null,
+          "false_positive_checked_buildings": 0,
+          "checked_prediction_precision": null,
+          "ignored_unknown_label_checked_buildings": 2,
+          "distance_m": 277.4665632113931,
+          "elapsed_proxy_s": 96.49331264227862,
+          "budget_verified": true
+        },
+        {
+          "policy": "uncertainty",
+          "budget_proxy_s": 100,
+          "route": [
+            8,
+            9,
+            10,
+            5
+          ],
+          "correctly_checked_target_buildings": 0,
+          "eligible_target_buildings": 1,
+          "target_recall": 0.0,
+          "checked_buildings_geometry_only": 2,
+          "first_correct_check_proxy_s": null,
+          "false_positive_checked_buildings": 0,
+          "checked_prediction_precision": null,
+          "ignored_unknown_label_checked_buildings": 1,
+          "distance_m": 258.72139720733213,
+          "elapsed_proxy_s": 92.74427944146643,
+          "budget_verified": true
+        },
+        {
+          "policy": "static_exact_damage",
+          "budget_proxy_s": 100,
+          "route": [
+            8,
+            1,
+            5,
+            9
+          ],
+          "correctly_checked_target_buildings": 0,
+          "eligible_target_buildings": 1,
+          "target_recall": 0.0,
+          "checked_buildings_geometry_only": 3,
+          "first_correct_check_proxy_s": null,
+          "false_positive_checked_buildings": 0,
+          "checked_prediction_precision": null,
+          "ignored_unknown_label_checked_buildings": 2,
+          "distance_m": 254.0328688365959,
+          "elapsed_proxy_s": 91.80657376731918,
+          "budget_verified": true
+        },
+        {
+          "policy": "static_exact",
+          "budget_proxy_s": 100,
+          "route": [
+            8,
+            1,
+            5,
+            9
+          ],
+          "correctly_checked_target_buildings": 0,
+          "eligible_target_buildings": 1,
+          "target_recall": 0.0,
+          "checked_buildings_geometry_only": 3,
+          "first_correct_check_proxy_s": null,
+          "false_positive_checked_buildings": 0,
+          "checked_prediction_precision": null,
+          "ignored_unknown_label_checked_buildings": 2,
+          "distance_m": 254.0328688365959,
+          "elapsed_proxy_s": 91.80657376731918,
+          "budget_verified": true
+        },
+        {
+          "policy": "value_cost_proxy",
+          "budget_proxy_s": 100,
+          "route": [
+            8,
+            9,
+            5,
+            1
+          ],
+          "correctly_checked_target_buildings": 0,
+          "eligible_target_buildings": 1,
+          "target_recall": 0.0,
+          "checked_buildings_geometry_only": 3,
+          "first_correct_check_proxy_s": null,
+          "false_positive_checked_buildings": 0,
+          "checked_prediction_precision": null,
+          "ignored_unknown_label_checked_buildings": 2,
+          "distance_m": 277.01933598375615,
+          "elapsed_proxy_s": 96.40386719675124,
+          "budget_verified": true
+        }
+      ],
+      "hindsight_same_budget_ceiling": [
+        {
+          "budget_proxy_s": 60,
+          "correctly_checked_target_buildings": 0,
+          "route": [],
+          "role": "Hindsight evaluator ceiling only; full future model cache and reference access; not a deployable control"
+        },
+        {
+          "budget_proxy_s": 100,
+          "correctly_checked_target_buildings": 0,
+          "route": [],
+          "role": "Hindsight evaluator ceiling only; full future model cache and reference access; not a deployable control"
+        },
+        {
+          "budget_proxy_s": 140,
+          "correctly_checked_target_buildings": 0,
+          "route": [],
+          "role": "Hindsight evaluator ceiling only; full future model cache and reference access; not a deployable control"
+        }
+      ],
+      "method_gain_established": false,
+      "interpretation": "One development case with uncalibrated cross-sensor detector and proxy service/flight costs. Outcomes are an admission probe,not evidence of a general method contribution.",
+      "online_information_gain_validated": false,
+      "gpu_rental": false
+    },
+    "any_damage": {
+      "region": "1001-McGregor-College-Pkwy-South.1.geo.tif",
+      "target_definition": "any_damage",
+      "endpoint_scope": "Secondary any-damage endpoint predeclared for this batch before label inspection; still training development,not independent confirmation",
+      "eligible_buildings": 6,
+      "known_label_buildings": 4,
+      "ignored_unknown_label_buildings": 2,
+      "eligible_target_buildings": 1,
+      "all_windows_correct_check_count": 0,
+      "full_access_scope": "Outcome after all16windows,not a general upper bound:adding nondamage pixels can dilute the ratio rule. Exact same-budget hindsight reference is the actual diagnostic upper bound.",
+      "routes": 18,
+      "budget_violations": 0,
+      "main_budget_results": [
+        {
+          "policy": "distance",
+          "budget_proxy_s": 100,
+          "route": [
+            13,
+            9,
+            5,
+            1,
+            10
+          ],
+          "correctly_checked_target_buildings": 0,
+          "eligible_target_buildings": 1,
+          "target_recall": 0.0,
+          "checked_buildings_geometry_only": 2,
+          "first_correct_check_proxy_s": null,
+          "false_positive_checked_buildings": 0,
+          "checked_prediction_precision": null,
+          "ignored_unknown_label_checked_buildings": 1,
+          "distance_m": 240.77803484065686,
+          "elapsed_proxy_s": 99.15560696813137,
+          "budget_verified": true
+        },
+        {
+          "policy": "damage",
+          "budget_proxy_s": 100,
+          "route": [
+            8,
+            9,
+            5,
+            1
+          ],
+          "correctly_checked_target_buildings": 0,
+          "eligible_target_buildings": 1,
+          "target_recall": 0.0,
+          "checked_buildings_geometry_only": 3,
+          "first_correct_check_proxy_s": null,
+          "false_positive_checked_buildings": 0,
+          "checked_prediction_precision": null,
+          "ignored_unknown_label_checked_buildings": 2,
+          "distance_m": 277.01933598375615,
+          "elapsed_proxy_s": 96.40386719675124,
+          "budget_verified": true
+        },
+        {
+          "policy": "uncertainty",
+          "budget_proxy_s": 100,
+          "route": [
+            8,
+            9,
+            10,
+            5
+          ],
+          "correctly_checked_target_buildings": 0,
+          "eligible_target_buildings": 1,
+          "target_recall": 0.0,
+          "checked_buildings_geometry_only": 2,
+          "first_correct_check_proxy_s": null,
+          "false_positive_checked_buildings": 0,
+          "checked_prediction_precision": null,
+          "ignored_unknown_label_checked_buildings": 1,
+          "distance_m": 258.72139720733213,
+          "elapsed_proxy_s": 92.74427944146643,
+          "budget_verified": true
+        },
+        {
+          "policy": "static_exact_damage",
+          "budget_proxy_s": 100,
+          "route": [
+            8,
+            1,
+            5,
+            9
+          ],
+          "correctly_checked_target_buildings": 0,
+          "eligible_target_buildings": 1,
+          "target_recall": 0.0,
+          "checked_buildings_geometry_only": 3,
+          "first_correct_check_proxy_s": null,
+          "false_positive_checked_buildings": 0,
+          "checked_prediction_precision": null,
+          "ignored_unknown_label_checked_buildings": 2,
+          "distance_m": 254.0328688365959,
+          "elapsed_proxy_s": 91.80657376731918,
+          "budget_verified": true
+        },
+        {
+          "policy": "static_exact",
+          "budget_proxy_s": 100,
+          "route": [
+            8,
+            1,
+            5,
+            9
+          ],
+          "correctly_checked_target_buildings": 0,
+          "eligible_target_buildings": 1,
+          "target_recall": 0.0,
+          "checked_buildings_geometry_only": 3,
+          "first_correct_check_proxy_s": null,
+          "false_positive_checked_buildings": 0,
+          "checked_prediction_precision": null,
+          "ignored_unknown_label_checked_buildings": 2,
+          "distance_m": 254.0328688365959,
+          "elapsed_proxy_s": 91.80657376731918,
+          "budget_verified": true
+        },
+        {
+          "policy": "value_cost_proxy",
+          "budget_proxy_s": 100,
+          "route": [
+            8,
+            9,
+            5,
+            1
+          ],
+          "correctly_checked_target_buildings": 0,
+          "eligible_target_buildings": 1,
+          "target_recall": 0.0,
+          "checked_buildings_geometry_only": 3,
+          "first_correct_check_proxy_s": null,
+          "false_positive_checked_buildings": 0,
+          "checked_prediction_precision": null,
+          "ignored_unknown_label_checked_buildings": 2,
+          "distance_m": 277.01933598375615,
+          "elapsed_proxy_s": 96.40386719675124,
+          "budget_verified": true
+        }
+      ],
+      "hindsight_same_budget_ceiling": [
+        {
+          "budget_proxy_s": 60,
+          "correctly_checked_target_buildings": 0,
+          "route": [],
+          "role": "Hindsight evaluator ceiling only; full future model cache and reference access; not a deployable control"
+        },
+        {
+          "budget_proxy_s": 100,
+          "correctly_checked_target_buildings": 0,
+          "route": [],
+          "role": "Hindsight evaluator ceiling only; full future model cache and reference access; not a deployable control"
+        },
+        {
+          "budget_proxy_s": 140,
+          "correctly_checked_target_buildings": 0,
+          "route": [],
+          "role": "Hindsight evaluator ceiling only; full future model cache and reference access; not a deployable control"
+        }
+      ],
+      "method_gain_established": false,
+      "interpretation": "One development case with uncalibrated cross-sensor detector and proxy service/flight costs. Outcomes are an admission probe,not evidence of a general method contribution.",
+      "online_information_gain_validated": false,
+      "gpu_rental": false
+    }
+  }
+]

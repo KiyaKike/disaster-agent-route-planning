@@ -1,0 +1,28 @@
+test_all_methods_charge_travel_observation_planning_and_return (test_route_core.ClosedRouteTests.test_all_methods_charge_travel_observation_planning_and_return) ... ok
+test_bayes_positive_and_negative_updates_have_correct_direction (test_route_core.ClosedRouteTests.test_bayes_positive_and_negative_updates_have_correct_direction) ... ok
+test_empty_world_recall_is_undefined (test_route_core.ClosedRouteTests.test_empty_world_recall_is_undefined) ... ok
+test_failed_detection_remains_censored_not_zero_time (test_route_core.ClosedRouteTests.test_failed_detection_remains_censored_not_zero_time) ... ok
+test_first_action_does_not_access_future_signals (test_route_core.ClosedRouteTests.test_first_action_does_not_access_future_signals) ... ok
+test_frozen_static_policies_ignore_observed_values (test_route_core.ClosedRouteTests.test_frozen_static_policies_ignore_observed_values) ... ok
+test_invalid_budget_likelihood_or_belief_rejected (test_route_core.ClosedRouteTests.test_invalid_budget_likelihood_or_belief_rejected) ... ok
+test_no_region_crossing_and_visits_never_exceed_cap (test_route_core.ClosedRouteTests.test_no_region_crossing_and_visits_never_exceed_cap) ... ok
+test_public_map_projection_cannot_include_damage_truth (test_route_core.ClosedRouteTests.test_public_map_projection_cannot_include_damage_truth) ... ok
+test_return_leg_can_make_inspection_infeasible (test_route_core.ClosedRouteTests.test_return_leg_can_make_inspection_infeasible) ... ok
+test_small_budget_yields_no_unpaid_observation (test_route_core.ClosedRouteTests.test_small_budget_yields_no_unpaid_observation) ... ok
+test_worlds_and_observations_are_paired_reproducible (test_route_core.ClosedRouteTests.test_worlds_and_observations_are_paired_reproducible) ... ok
+test_cache_preserves_answer_and_keys_include_belief (test_route_factor.RouteFactorTests.test_cache_preserves_answer_and_keys_include_belief) ... ok
+test_costs_closure_no_duplicates_and_paid_observation_access (test_route_factor.RouteFactorTests.test_costs_closure_no_duplicates_and_paid_observation_access) ... ok
+test_every_planned_suffix_includes_return_and_excludes_visited (test_route_factor.RouteFactorTests.test_every_planned_suffix_includes_return_and_excludes_visited) ... ok
+test_legacy_cap_remains_binding (test_route_factor.RouteFactorTests.test_legacy_cap_remains_binding) ... ok
+test_new_executor_exactly_matches_old_greedy (test_route_factor.RouteFactorTests.test_new_executor_exactly_matches_old_greedy) ... ok
+test_same_first_action_without_future_signal_access (test_route_factor.RouteFactorTests.test_same_first_action_without_future_signal_access) ... ok
+test_static_and_frozen_paths_ignore_feedback (test_route_factor.RouteFactorTests.test_static_and_frozen_paths_ignore_feedback) ... ok
+test_strong_planned_prior_reward_never_below_greedy_seed (test_route_factor.RouteFactorTests.test_strong_planned_prior_reward_never_below_greedy_seed) ... ok
+test_time_only_setting_can_exceed_30_visits (test_route_factor.RouteFactorTests.test_time_only_setting_can_exceed_30_visits) ... ok
+test_too_short_budget_never_observes (test_route_factor.RouteFactorTests.test_too_short_budget_never_observes) ... ok
+test_two_opt_shortens_crossing_without_changing_nodes (test_route_factor.RouteFactorTests.test_two_opt_shortens_crossing_without_changing_nodes) ... ok
+
+----------------------------------------------------------------------
+Ran 23 tests in 0.129s
+
+OK

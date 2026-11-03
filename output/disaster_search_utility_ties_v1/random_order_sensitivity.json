@@ -1,0 +1,1922 @@
+{
+  "primary_order_sensitivity": [
+    {
+      "confidence_interval": false,
+      "fit_scope": "development_fit",
+      "maximum": 6.266666666666667,
+      "mean": 5.9961111111111105,
+      "minimum": 5.738888888888888,
+      "orders": 10,
+      "policy": "batch_tail"
+    },
+    {
+      "confidence_interval": false,
+      "fit_scope": "development_fit",
+      "maximum": 6.286111111111111,
+      "mean": 6.048611111111112,
+      "minimum": 5.769444444444445,
+      "orders": 10,
+      "policy": "proxy_greedy"
+    },
+    {
+      "confidence_interval": false,
+      "fit_scope": "development_fit",
+      "maximum": 6.266666666666666,
+      "mean": 5.989166666666667,
+      "minimum": 5.7555555555555555,
+      "orders": 10,
+      "policy": "two_step"
+    },
+    {
+      "confidence_interval": false,
+      "fit_scope": "event_holdout",
+      "maximum": 5.405555555555556,
+      "mean": 5.211111111111111,
+      "minimum": 5.0055555555555555,
+      "orders": 10,
+      "policy": "batch_tail"
+    },
+    {
+      "confidence_interval": false,
+      "fit_scope": "event_holdout",
+      "maximum": 5.266666666666667,
+      "mean": 5.065,
+      "minimum": 4.702777777777778,
+      "orders": 10,
+      "policy": "proxy_greedy"
+    },
+    {
+      "confidence_interval": false,
+      "fit_scope": "event_holdout",
+      "maximum": 5.211111111111111,
+      "mean": 5.042222222222223,
+      "minimum": 4.7,
+      "orders": 10,
+      "policy": "two_step"
+    }
+  ],
+  "primary_per_order_event_macro_means": [
+    {
+      "distinct_found": 6.266666666666667,
+      "events": 3,
+      "fit_scope": "development_fit",
+      "order_seed": 20261030,
+      "policy": "batch_tail"
+    },
+    {
+      "distinct_found": 5.941666666666666,
+      "events": 3,
+      "fit_scope": "development_fit",
+      "order_seed": 20261031,
+      "policy": "batch_tail"
+    },
+    {
+      "distinct_found": 5.966666666666666,
+      "events": 3,
+      "fit_scope": "development_fit",
+      "order_seed": 20261032,
+      "policy": "batch_tail"
+    },
+    {
+      "distinct_found": 5.86388888888889,
+      "events": 3,
+      "fit_scope": "development_fit",
+      "order_seed": 20261033,
+      "policy": "batch_tail"
+    },
+    {
+      "distinct_found": 5.933333333333334,
+      "events": 3,
+      "fit_scope": "development_fit",
+      "order_seed": 20261034,
+      "policy": "batch_tail"
+    },
+    {
+      "distinct_found": 6.030555555555556,
+      "events": 3,
+      "fit_scope": "development_fit",
+      "order_seed": 20261035,
+      "policy": "batch_tail"
+    },
+    {
+      "distinct_found": 6.097222222222222,
+      "events": 3,
+      "fit_scope": "development_fit",
+      "order_seed": 20261036,
+      "policy": "batch_tail"
+    },
+    {
+      "distinct_found": 5.9944444444444445,
+      "events": 3,
+      "fit_scope": "development_fit",
+      "order_seed": 20261037,
+      "policy": "batch_tail"
+    },
+    {
+      "distinct_found": 6.127777777777777,
+      "events": 3,
+      "fit_scope": "development_fit",
+      "order_seed": 20261038,
+      "policy": "batch_tail"
+    },
+    {
+      "distinct_found": 5.738888888888888,
+      "events": 3,
+      "fit_scope": "development_fit",
+      "order_seed": 20261039,
+      "policy": "batch_tail"
+    },
+    {
+      "distinct_found": 6.286111111111111,
+      "events": 3,
+      "fit_scope": "development_fit",
+      "order_seed": 20261030,
+      "policy": "proxy_greedy"
+    },
+    {
+      "distinct_found": 5.941666666666666,
+      "events": 3,
+      "fit_scope": "development_fit",
+      "order_seed": 20261031,
+      "policy": "proxy_greedy"
+    },
+    {
+      "distinct_found": 6.0055555555555555,
+      "events": 3,
+      "fit_scope": "development_fit",
+      "order_seed": 20261032,
+      "policy": "proxy_greedy"
+    },
+    {
+      "distinct_found": 6.01111111111111,
+      "events": 3,
+      "fit_scope": "development_fit",
+      "order_seed": 20261033,
+      "policy": "proxy_greedy"
+    },
+    {
+      "distinct_found": 6.052777777777778,
+      "events": 3,
+      "fit_scope": "development_fit",
+      "order_seed": 20261034,
+      "policy": "proxy_greedy"
+    },
+    {
+      "distinct_found": 6.116666666666667,
+      "events": 3,
+      "fit_scope": "development_fit",
+      "order_seed": 20261035,
+      "policy": "proxy_greedy"
+    },
+    {
+      "distinct_found": 6.169444444444444,
+      "events": 3,
+      "fit_scope": "development_fit",
+      "order_seed": 20261036,
+      "policy": "proxy_greedy"
+    },
+    {
+      "distinct_found": 6.061111111111111,
+      "events": 3,
+      "fit_scope": "development_fit",
+      "order_seed": 20261037,
+      "policy": "proxy_greedy"
+    },
+    {
+      "distinct_found": 6.072222222222222,
+      "events": 3,
+      "fit_scope": "development_fit",
+      "order_seed": 20261038,
+      "policy": "proxy_greedy"
+    },
+    {
+      "distinct_found": 5.769444444444445,
+      "events": 3,
+      "fit_scope": "development_fit",
+      "order_seed": 20261039,
+      "policy": "proxy_greedy"
+    },
+    {
+      "distinct_found": 6.266666666666666,
+      "events": 3,
+      "fit_scope": "development_fit",
+      "order_seed": 20261030,
+      "policy": "two_step"
+    },
+    {
+      "distinct_found": 5.836111111111111,
+      "events": 3,
+      "fit_scope": "development_fit",
+      "order_seed": 20261031,
+      "policy": "two_step"
+    },
+    {
+      "distinct_found": 5.822222222222223,
+      "events": 3,
+      "fit_scope": "development_fit",
+      "order_seed": 20261032,
+      "policy": "two_step"
+    },
+    {
+      "distinct_found": 5.980555555555555,
+      "events": 3,
+      "fit_scope": "development_fit",
+      "order_seed": 20261033,
+      "policy": "two_step"
+    },
+    {
+      "distinct_found": 5.972222222222221,
+      "events": 3,
+      "fit_scope": "development_fit",
+      "order_seed": 20261034,
+      "policy": "two_step"
+    },
+    {
+      "distinct_found": 6.108333333333333,
+      "events": 3,
+      "fit_scope": "development_fit",
+      "order_seed": 20261035,
+      "policy": "two_step"
+    },
+    {
+      "distinct_found": 6.152777777777778,
+      "events": 3,
+      "fit_scope": "development_fit",
+      "order_seed": 20261036,
+      "policy": "two_step"
+    },
+    {
+      "distinct_found": 5.930555555555556,
+      "events": 3,
+      "fit_scope": "development_fit",
+      "order_seed": 20261037,
+      "policy": "two_step"
+    },
+    {
+      "distinct_found": 6.066666666666666,
+      "events": 3,
+      "fit_scope": "development_fit",
+      "order_seed": 20261038,
+      "policy": "two_step"
+    },
+    {
+      "distinct_found": 5.7555555555555555,
+      "events": 3,
+      "fit_scope": "development_fit",
+      "order_seed": 20261039,
+      "policy": "two_step"
+    },
+    {
+      "distinct_found": 5.36388888888889,
+      "events": 3,
+      "fit_scope": "event_holdout",
+      "order_seed": 20261030,
+      "policy": "batch_tail"
+    },
+    {
+      "distinct_found": 5.080555555555556,
+      "events": 3,
+      "fit_scope": "event_holdout",
+      "order_seed": 20261031,
+      "policy": "batch_tail"
+    },
+    {
+      "distinct_found": 5.308333333333334,
+      "events": 3,
+      "fit_scope": "event_holdout",
+      "order_seed": 20261032,
+      "policy": "batch_tail"
+    },
+    {
+      "distinct_found": 5.083333333333333,
+      "events": 3,
+      "fit_scope": "event_holdout",
+      "order_seed": 20261033,
+      "policy": "batch_tail"
+    },
+    {
+      "distinct_found": 5.091666666666666,
+      "events": 3,
+      "fit_scope": "event_holdout",
+      "order_seed": 20261034,
+      "policy": "batch_tail"
+    },
+    {
+      "distinct_found": 5.3277777777777775,
+      "events": 3,
+      "fit_scope": "event_holdout",
+      "order_seed": 20261035,
+      "policy": "batch_tail"
+    },
+    {
+      "distinct_found": 5.155555555555555,
+      "events": 3,
+      "fit_scope": "event_holdout",
+      "order_seed": 20261036,
+      "policy": "batch_tail"
+    },
+    {
+      "distinct_found": 5.288888888888889,
+      "events": 3,
+      "fit_scope": "event_holdout",
+      "order_seed": 20261037,
+      "policy": "batch_tail"
+    },
+    {
+      "distinct_found": 5.405555555555556,
+      "events": 3,
+      "fit_scope": "event_holdout",
+      "order_seed": 20261038,
+      "policy": "batch_tail"
+    },
+    {
+      "distinct_found": 5.0055555555555555,
+      "events": 3,
+      "fit_scope": "event_holdout",
+      "order_seed": 20261039,
+      "policy": "batch_tail"
+    },
+    {
+      "distinct_found": 5.175,
+      "events": 3,
+      "fit_scope": "event_holdout",
+      "order_seed": 20261030,
+      "policy": "proxy_greedy"
+    },
+    {
+      "distinct_found": 4.9750000000000005,
+      "events": 3,
+      "fit_scope": "event_holdout",
+      "order_seed": 20261031,
+      "policy": "proxy_greedy"
+    },
+    {
+      "distinct_found": 5.180555555555556,
+      "events": 3,
+      "fit_scope": "event_holdout",
+      "order_seed": 20261032,
+      "policy": "proxy_greedy"
+    },
+    {
+      "distinct_found": 4.977777777777778,
+      "events": 3,
+      "fit_scope": "event_holdout",
+      "order_seed": 20261033,
+      "policy": "proxy_greedy"
+    },
+    {
+      "distinct_found": 5.044444444444445,
+      "events": 3,
+      "fit_scope": "event_holdout",
+      "order_seed": 20261034,
+      "policy": "proxy_greedy"
+    },
+    {
+      "distinct_found": 5.175,
+      "events": 3,
+      "fit_scope": "event_holdout",
+      "order_seed": 20261035,
+      "policy": "proxy_greedy"
+    },
+    {
+      "distinct_found": 5.022222222222222,
+      "events": 3,
+      "fit_scope": "event_holdout",
+      "order_seed": 20261036,
+      "policy": "proxy_greedy"
+    },
+    {
+      "distinct_found": 5.1305555555555555,
+      "events": 3,
+      "fit_scope": "event_holdout",
+      "order_seed": 20261037,
+      "policy": "proxy_greedy"
+    },
+    {
+      "distinct_found": 5.266666666666667,
+      "events": 3,
+      "fit_scope": "event_holdout",
+      "order_seed": 20261038,
+      "policy": "proxy_greedy"
+    },
+    {
+      "distinct_found": 4.702777777777778,
+      "events": 3,
+      "fit_scope": "event_holdout",
+      "order_seed": 20261039,
+      "policy": "proxy_greedy"
+    },
+    {
+      "distinct_found": 5.108333333333333,
+      "events": 3,
+      "fit_scope": "event_holdout",
+      "order_seed": 20261030,
+      "policy": "two_step"
+    },
+    {
+      "distinct_found": 4.9222222222222225,
+      "events": 3,
+      "fit_scope": "event_holdout",
+      "order_seed": 20261031,
+      "policy": "two_step"
+    },
+    {
+      "distinct_found": 5.169444444444444,
+      "events": 3,
+      "fit_scope": "event_holdout",
+      "order_seed": 20261032,
+      "policy": "two_step"
+    },
+    {
+      "distinct_found": 4.963888888888889,
+      "events": 3,
+      "fit_scope": "event_holdout",
+      "order_seed": 20261033,
+      "policy": "two_step"
+    },
+    {
+      "distinct_found": 5.033333333333333,
+      "events": 3,
+      "fit_scope": "event_holdout",
+      "order_seed": 20261034,
+      "policy": "two_step"
+    },
+    {
+      "distinct_found": 5.169444444444444,
+      "events": 3,
+      "fit_scope": "event_holdout",
+      "order_seed": 20261035,
+      "policy": "two_step"
+    },
+    {
+      "distinct_found": 5.025,
+      "events": 3,
+      "fit_scope": "event_holdout",
+      "order_seed": 20261036,
+      "policy": "two_step"
+    },
+    {
+      "distinct_found": 5.1194444444444445,
+      "events": 3,
+      "fit_scope": "event_holdout",
+      "order_seed": 20261037,
+      "policy": "two_step"
+    },
+    {
+      "distinct_found": 5.211111111111111,
+      "events": 3,
+      "fit_scope": "event_holdout",
+      "order_seed": 20261038,
+      "policy": "two_step"
+    },
+    {
+      "distinct_found": 4.7,
+      "events": 3,
+      "fit_scope": "event_holdout",
+      "order_seed": 20261039,
+      "policy": "two_step"
+    }
+  ],
+  "primary_per_order_event_means": [
+    {
+      "distinct_found": 10.950000000000001,
+      "event": "hurricane-harvey",
+      "fit_scope": "development_fit",
+      "order_seed": 20261030,
+      "policy": "batch_tail",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 0.0,
+      "event": "mexico-earthquake",
+      "fit_scope": "development_fit",
+      "order_seed": 20261030,
+      "policy": "batch_tail",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 7.8500000000000005,
+      "event": "santa-rosa-wildfire",
+      "fit_scope": "development_fit",
+      "order_seed": 20261030,
+      "policy": "batch_tail",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 10.475,
+      "event": "hurricane-harvey",
+      "fit_scope": "development_fit",
+      "order_seed": 20261031,
+      "policy": "batch_tail",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 0.0,
+      "event": "mexico-earthquake",
+      "fit_scope": "development_fit",
+      "order_seed": 20261031,
+      "policy": "batch_tail",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 7.3500000000000005,
+      "event": "santa-rosa-wildfire",
+      "fit_scope": "development_fit",
+      "order_seed": 20261031,
+      "policy": "batch_tail",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 10.466666666666667,
+      "event": "hurricane-harvey",
+      "fit_scope": "development_fit",
+      "order_seed": 20261032,
+      "policy": "batch_tail",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 0.0,
+      "event": "mexico-earthquake",
+      "fit_scope": "development_fit",
+      "order_seed": 20261032,
+      "policy": "batch_tail",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 7.433333333333334,
+      "event": "santa-rosa-wildfire",
+      "fit_scope": "development_fit",
+      "order_seed": 20261032,
+      "policy": "batch_tail",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 10.241666666666667,
+      "event": "hurricane-harvey",
+      "fit_scope": "development_fit",
+      "order_seed": 20261033,
+      "policy": "batch_tail",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 0.0,
+      "event": "mexico-earthquake",
+      "fit_scope": "development_fit",
+      "order_seed": 20261033,
+      "policy": "batch_tail",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 7.3500000000000005,
+      "event": "santa-rosa-wildfire",
+      "fit_scope": "development_fit",
+      "order_seed": 20261033,
+      "policy": "batch_tail",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 10.275,
+      "event": "hurricane-harvey",
+      "fit_scope": "development_fit",
+      "order_seed": 20261034,
+      "policy": "batch_tail",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 0.0,
+      "event": "mexico-earthquake",
+      "fit_scope": "development_fit",
+      "order_seed": 20261034,
+      "policy": "batch_tail",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 7.5249999999999995,
+      "event": "santa-rosa-wildfire",
+      "fit_scope": "development_fit",
+      "order_seed": 20261034,
+      "policy": "batch_tail",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 10.450000000000001,
+      "event": "hurricane-harvey",
+      "fit_scope": "development_fit",
+      "order_seed": 20261035,
+      "policy": "batch_tail",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 0.0,
+      "event": "mexico-earthquake",
+      "fit_scope": "development_fit",
+      "order_seed": 20261035,
+      "policy": "batch_tail",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 7.641666666666667,
+      "event": "santa-rosa-wildfire",
+      "fit_scope": "development_fit",
+      "order_seed": 20261035,
+      "policy": "batch_tail",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 10.516666666666667,
+      "event": "hurricane-harvey",
+      "fit_scope": "development_fit",
+      "order_seed": 20261036,
+      "policy": "batch_tail",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 0.0,
+      "event": "mexico-earthquake",
+      "fit_scope": "development_fit",
+      "order_seed": 20261036,
+      "policy": "batch_tail",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 7.7749999999999995,
+      "event": "santa-rosa-wildfire",
+      "fit_scope": "development_fit",
+      "order_seed": 20261036,
+      "policy": "batch_tail",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 10.783333333333333,
+      "event": "hurricane-harvey",
+      "fit_scope": "development_fit",
+      "order_seed": 20261037,
+      "policy": "batch_tail",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 0.0,
+      "event": "mexico-earthquake",
+      "fit_scope": "development_fit",
+      "order_seed": 20261037,
+      "policy": "batch_tail",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 7.2,
+      "event": "santa-rosa-wildfire",
+      "fit_scope": "development_fit",
+      "order_seed": 20261037,
+      "policy": "batch_tail",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 10.866666666666667,
+      "event": "hurricane-harvey",
+      "fit_scope": "development_fit",
+      "order_seed": 20261038,
+      "policy": "batch_tail",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 0.0,
+      "event": "mexico-earthquake",
+      "fit_scope": "development_fit",
+      "order_seed": 20261038,
+      "policy": "batch_tail",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 7.516666666666667,
+      "event": "santa-rosa-wildfire",
+      "fit_scope": "development_fit",
+      "order_seed": 20261038,
+      "policy": "batch_tail",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 9.875,
+      "event": "hurricane-harvey",
+      "fit_scope": "development_fit",
+      "order_seed": 20261039,
+      "policy": "batch_tail",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 0.0,
+      "event": "mexico-earthquake",
+      "fit_scope": "development_fit",
+      "order_seed": 20261039,
+      "policy": "batch_tail",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 7.341666666666666,
+      "event": "santa-rosa-wildfire",
+      "fit_scope": "development_fit",
+      "order_seed": 20261039,
+      "policy": "batch_tail",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 11.125,
+      "event": "hurricane-harvey",
+      "fit_scope": "development_fit",
+      "order_seed": 20261030,
+      "policy": "proxy_greedy",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 0.0,
+      "event": "mexico-earthquake",
+      "fit_scope": "development_fit",
+      "order_seed": 20261030,
+      "policy": "proxy_greedy",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 7.733333333333333,
+      "event": "santa-rosa-wildfire",
+      "fit_scope": "development_fit",
+      "order_seed": 20261030,
+      "policy": "proxy_greedy",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 10.291666666666666,
+      "event": "hurricane-harvey",
+      "fit_scope": "development_fit",
+      "order_seed": 20261031,
+      "policy": "proxy_greedy",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 0.0,
+      "event": "mexico-earthquake",
+      "fit_scope": "development_fit",
+      "order_seed": 20261031,
+      "policy": "proxy_greedy",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 7.533333333333334,
+      "event": "santa-rosa-wildfire",
+      "fit_scope": "development_fit",
+      "order_seed": 20261031,
+      "policy": "proxy_greedy",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 10.566666666666666,
+      "event": "hurricane-harvey",
+      "fit_scope": "development_fit",
+      "order_seed": 20261032,
+      "policy": "proxy_greedy",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 0.0,
+      "event": "mexico-earthquake",
+      "fit_scope": "development_fit",
+      "order_seed": 20261032,
+      "policy": "proxy_greedy",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 7.45,
+      "event": "santa-rosa-wildfire",
+      "fit_scope": "development_fit",
+      "order_seed": 20261032,
+      "policy": "proxy_greedy",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 10.65,
+      "event": "hurricane-harvey",
+      "fit_scope": "development_fit",
+      "order_seed": 20261033,
+      "policy": "proxy_greedy",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 0.0,
+      "event": "mexico-earthquake",
+      "fit_scope": "development_fit",
+      "order_seed": 20261033,
+      "policy": "proxy_greedy",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 7.383333333333333,
+      "event": "santa-rosa-wildfire",
+      "fit_scope": "development_fit",
+      "order_seed": 20261033,
+      "policy": "proxy_greedy",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 10.558333333333334,
+      "event": "hurricane-harvey",
+      "fit_scope": "development_fit",
+      "order_seed": 20261034,
+      "policy": "proxy_greedy",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 0.0,
+      "event": "mexico-earthquake",
+      "fit_scope": "development_fit",
+      "order_seed": 20261034,
+      "policy": "proxy_greedy",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 7.6000000000000005,
+      "event": "santa-rosa-wildfire",
+      "fit_scope": "development_fit",
+      "order_seed": 20261034,
+      "policy": "proxy_greedy",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 10.558333333333334,
+      "event": "hurricane-harvey",
+      "fit_scope": "development_fit",
+      "order_seed": 20261035,
+      "policy": "proxy_greedy",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 0.0,
+      "event": "mexico-earthquake",
+      "fit_scope": "development_fit",
+      "order_seed": 20261035,
+      "policy": "proxy_greedy",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 7.791666666666667,
+      "event": "santa-rosa-wildfire",
+      "fit_scope": "development_fit",
+      "order_seed": 20261035,
+      "policy": "proxy_greedy",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 10.658333333333333,
+      "event": "hurricane-harvey",
+      "fit_scope": "development_fit",
+      "order_seed": 20261036,
+      "policy": "proxy_greedy",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 0.0,
+      "event": "mexico-earthquake",
+      "fit_scope": "development_fit",
+      "order_seed": 20261036,
+      "policy": "proxy_greedy",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 7.8500000000000005,
+      "event": "santa-rosa-wildfire",
+      "fit_scope": "development_fit",
+      "order_seed": 20261036,
+      "policy": "proxy_greedy",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 10.916666666666666,
+      "event": "hurricane-harvey",
+      "fit_scope": "development_fit",
+      "order_seed": 20261037,
+      "policy": "proxy_greedy",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 0.0,
+      "event": "mexico-earthquake",
+      "fit_scope": "development_fit",
+      "order_seed": 20261037,
+      "policy": "proxy_greedy",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 7.266666666666667,
+      "event": "santa-rosa-wildfire",
+      "fit_scope": "development_fit",
+      "order_seed": 20261037,
+      "policy": "proxy_greedy",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 10.633333333333333,
+      "event": "hurricane-harvey",
+      "fit_scope": "development_fit",
+      "order_seed": 20261038,
+      "policy": "proxy_greedy",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 0.0,
+      "event": "mexico-earthquake",
+      "fit_scope": "development_fit",
+      "order_seed": 20261038,
+      "policy": "proxy_greedy",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 7.583333333333333,
+      "event": "santa-rosa-wildfire",
+      "fit_scope": "development_fit",
+      "order_seed": 20261038,
+      "policy": "proxy_greedy",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 9.816666666666666,
+      "event": "hurricane-harvey",
+      "fit_scope": "development_fit",
+      "order_seed": 20261039,
+      "policy": "proxy_greedy",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 0.0,
+      "event": "mexico-earthquake",
+      "fit_scope": "development_fit",
+      "order_seed": 20261039,
+      "policy": "proxy_greedy",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 7.491666666666667,
+      "event": "santa-rosa-wildfire",
+      "fit_scope": "development_fit",
+      "order_seed": 20261039,
+      "policy": "proxy_greedy",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 11.066666666666665,
+      "event": "hurricane-harvey",
+      "fit_scope": "development_fit",
+      "order_seed": 20261030,
+      "policy": "two_step",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 0.0,
+      "event": "mexico-earthquake",
+      "fit_scope": "development_fit",
+      "order_seed": 20261030,
+      "policy": "two_step",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 7.733333333333333,
+      "event": "santa-rosa-wildfire",
+      "fit_scope": "development_fit",
+      "order_seed": 20261030,
+      "policy": "two_step",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 10.116666666666667,
+      "event": "hurricane-harvey",
+      "fit_scope": "development_fit",
+      "order_seed": 20261031,
+      "policy": "two_step",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 0.0,
+      "event": "mexico-earthquake",
+      "fit_scope": "development_fit",
+      "order_seed": 20261031,
+      "policy": "two_step",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 7.391666666666667,
+      "event": "santa-rosa-wildfire",
+      "fit_scope": "development_fit",
+      "order_seed": 20261031,
+      "policy": "two_step",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 10.208333333333334,
+      "event": "hurricane-harvey",
+      "fit_scope": "development_fit",
+      "order_seed": 20261032,
+      "policy": "two_step",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 0.0,
+      "event": "mexico-earthquake",
+      "fit_scope": "development_fit",
+      "order_seed": 20261032,
+      "policy": "two_step",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 7.258333333333333,
+      "event": "santa-rosa-wildfire",
+      "fit_scope": "development_fit",
+      "order_seed": 20261032,
+      "policy": "two_step",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 10.625,
+      "event": "hurricane-harvey",
+      "fit_scope": "development_fit",
+      "order_seed": 20261033,
+      "policy": "two_step",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 0.0,
+      "event": "mexico-earthquake",
+      "fit_scope": "development_fit",
+      "order_seed": 20261033,
+      "policy": "two_step",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 7.316666666666666,
+      "event": "santa-rosa-wildfire",
+      "fit_scope": "development_fit",
+      "order_seed": 20261033,
+      "policy": "two_step",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 10.424999999999999,
+      "event": "hurricane-harvey",
+      "fit_scope": "development_fit",
+      "order_seed": 20261034,
+      "policy": "two_step",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 0.0,
+      "event": "mexico-earthquake",
+      "fit_scope": "development_fit",
+      "order_seed": 20261034,
+      "policy": "two_step",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 7.491666666666666,
+      "event": "santa-rosa-wildfire",
+      "fit_scope": "development_fit",
+      "order_seed": 20261034,
+      "policy": "two_step",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 10.525,
+      "event": "hurricane-harvey",
+      "fit_scope": "development_fit",
+      "order_seed": 20261035,
+      "policy": "two_step",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 0.0,
+      "event": "mexico-earthquake",
+      "fit_scope": "development_fit",
+      "order_seed": 20261035,
+      "policy": "two_step",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 7.8,
+      "event": "santa-rosa-wildfire",
+      "fit_scope": "development_fit",
+      "order_seed": 20261035,
+      "policy": "two_step",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 10.658333333333333,
+      "event": "hurricane-harvey",
+      "fit_scope": "development_fit",
+      "order_seed": 20261036,
+      "policy": "two_step",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 0.0,
+      "event": "mexico-earthquake",
+      "fit_scope": "development_fit",
+      "order_seed": 20261036,
+      "policy": "two_step",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 7.8,
+      "event": "santa-rosa-wildfire",
+      "fit_scope": "development_fit",
+      "order_seed": 20261036,
+      "policy": "two_step",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 10.608333333333334,
+      "event": "hurricane-harvey",
+      "fit_scope": "development_fit",
+      "order_seed": 20261037,
+      "policy": "two_step",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 0.0,
+      "event": "mexico-earthquake",
+      "fit_scope": "development_fit",
+      "order_seed": 20261037,
+      "policy": "two_step",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 7.183333333333334,
+      "event": "santa-rosa-wildfire",
+      "fit_scope": "development_fit",
+      "order_seed": 20261037,
+      "policy": "two_step",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 10.633333333333333,
+      "event": "hurricane-harvey",
+      "fit_scope": "development_fit",
+      "order_seed": 20261038,
+      "policy": "two_step",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 0.0,
+      "event": "mexico-earthquake",
+      "fit_scope": "development_fit",
+      "order_seed": 20261038,
+      "policy": "two_step",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 7.566666666666666,
+      "event": "santa-rosa-wildfire",
+      "fit_scope": "development_fit",
+      "order_seed": 20261038,
+      "policy": "two_step",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 9.808333333333334,
+      "event": "hurricane-harvey",
+      "fit_scope": "development_fit",
+      "order_seed": 20261039,
+      "policy": "two_step",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 0.0,
+      "event": "mexico-earthquake",
+      "fit_scope": "development_fit",
+      "order_seed": 20261039,
+      "policy": "two_step",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 7.458333333333333,
+      "event": "santa-rosa-wildfire",
+      "fit_scope": "development_fit",
+      "order_seed": 20261039,
+      "policy": "two_step",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 9.075000000000001,
+      "event": "hurricane-harvey",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261030,
+      "policy": "batch_tail",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 0.0,
+      "event": "mexico-earthquake",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261030,
+      "policy": "batch_tail",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 7.016666666666667,
+      "event": "santa-rosa-wildfire",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261030,
+      "policy": "batch_tail",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 8.325000000000001,
+      "event": "hurricane-harvey",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261031,
+      "policy": "batch_tail",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 0.0,
+      "event": "mexico-earthquake",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261031,
+      "policy": "batch_tail",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 6.916666666666667,
+      "event": "santa-rosa-wildfire",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261031,
+      "policy": "batch_tail",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 9.008333333333333,
+      "event": "hurricane-harvey",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261032,
+      "policy": "batch_tail",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 0.0,
+      "event": "mexico-earthquake",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261032,
+      "policy": "batch_tail",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 6.916666666666667,
+      "event": "santa-rosa-wildfire",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261032,
+      "policy": "batch_tail",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 8.375,
+      "event": "hurricane-harvey",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261033,
+      "policy": "batch_tail",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 0.0,
+      "event": "mexico-earthquake",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261033,
+      "policy": "batch_tail",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 6.875,
+      "event": "santa-rosa-wildfire",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261033,
+      "policy": "batch_tail",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 8.375,
+      "event": "hurricane-harvey",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261034,
+      "policy": "batch_tail",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 0.0,
+      "event": "mexico-earthquake",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261034,
+      "policy": "batch_tail",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 6.8999999999999995,
+      "event": "santa-rosa-wildfire",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261034,
+      "policy": "batch_tail",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 9.041666666666666,
+      "event": "hurricane-harvey",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261035,
+      "policy": "batch_tail",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 0.0,
+      "event": "mexico-earthquake",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261035,
+      "policy": "batch_tail",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 6.941666666666666,
+      "event": "santa-rosa-wildfire",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261035,
+      "policy": "batch_tail",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 8.541666666666666,
+      "event": "hurricane-harvey",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261036,
+      "policy": "batch_tail",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 0.0,
+      "event": "mexico-earthquake",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261036,
+      "policy": "batch_tail",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 6.925,
+      "event": "santa-rosa-wildfire",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261036,
+      "policy": "batch_tail",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 9.066666666666666,
+      "event": "hurricane-harvey",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261037,
+      "policy": "batch_tail",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 0.0,
+      "event": "mexico-earthquake",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261037,
+      "policy": "batch_tail",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 6.8,
+      "event": "santa-rosa-wildfire",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261037,
+      "policy": "batch_tail",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 9.116666666666667,
+      "event": "hurricane-harvey",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261038,
+      "policy": "batch_tail",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 0.0,
+      "event": "mexico-earthquake",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261038,
+      "policy": "batch_tail",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 7.1000000000000005,
+      "event": "santa-rosa-wildfire",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261038,
+      "policy": "batch_tail",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 8.233333333333333,
+      "event": "hurricane-harvey",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261039,
+      "policy": "batch_tail",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 0.0,
+      "event": "mexico-earthquake",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261039,
+      "policy": "batch_tail",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 6.783333333333334,
+      "event": "santa-rosa-wildfire",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261039,
+      "policy": "batch_tail",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 8.416666666666666,
+      "event": "hurricane-harvey",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261030,
+      "policy": "proxy_greedy",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 0.0,
+      "event": "mexico-earthquake",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261030,
+      "policy": "proxy_greedy",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 7.108333333333333,
+      "event": "santa-rosa-wildfire",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261030,
+      "policy": "proxy_greedy",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 7.916666666666667,
+      "event": "hurricane-harvey",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261031,
+      "policy": "proxy_greedy",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 0.0,
+      "event": "mexico-earthquake",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261031,
+      "policy": "proxy_greedy",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 7.008333333333333,
+      "event": "santa-rosa-wildfire",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261031,
+      "policy": "proxy_greedy",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 8.5,
+      "event": "hurricane-harvey",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261032,
+      "policy": "proxy_greedy",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 0.0,
+      "event": "mexico-earthquake",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261032,
+      "policy": "proxy_greedy",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 7.041666666666667,
+      "event": "santa-rosa-wildfire",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261032,
+      "policy": "proxy_greedy",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 7.908333333333334,
+      "event": "hurricane-harvey",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261033,
+      "policy": "proxy_greedy",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 0.0,
+      "event": "mexico-earthquake",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261033,
+      "policy": "proxy_greedy",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 7.0249999999999995,
+      "event": "santa-rosa-wildfire",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261033,
+      "policy": "proxy_greedy",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 8.075000000000001,
+      "event": "hurricane-harvey",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261034,
+      "policy": "proxy_greedy",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 0.0,
+      "event": "mexico-earthquake",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261034,
+      "policy": "proxy_greedy",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 7.058333333333334,
+      "event": "santa-rosa-wildfire",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261034,
+      "policy": "proxy_greedy",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 8.424999999999999,
+      "event": "hurricane-harvey",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261035,
+      "policy": "proxy_greedy",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 0.0,
+      "event": "mexico-earthquake",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261035,
+      "policy": "proxy_greedy",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 7.1000000000000005,
+      "event": "santa-rosa-wildfire",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261035,
+      "policy": "proxy_greedy",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 8.158333333333333,
+      "event": "hurricane-harvey",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261036,
+      "policy": "proxy_greedy",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 0.0,
+      "event": "mexico-earthquake",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261036,
+      "policy": "proxy_greedy",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 6.908333333333334,
+      "event": "santa-rosa-wildfire",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261036,
+      "policy": "proxy_greedy",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 8.491666666666667,
+      "event": "hurricane-harvey",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261037,
+      "policy": "proxy_greedy",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 0.0,
+      "event": "mexico-earthquake",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261037,
+      "policy": "proxy_greedy",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 6.8999999999999995,
+      "event": "santa-rosa-wildfire",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261037,
+      "policy": "proxy_greedy",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 8.625,
+      "event": "hurricane-harvey",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261038,
+      "policy": "proxy_greedy",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 0.0,
+      "event": "mexico-earthquake",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261038,
+      "policy": "proxy_greedy",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 7.175,
+      "event": "santa-rosa-wildfire",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261038,
+      "policy": "proxy_greedy",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 7.3,
+      "event": "hurricane-harvey",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261039,
+      "policy": "proxy_greedy",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 0.0,
+      "event": "mexico-earthquake",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261039,
+      "policy": "proxy_greedy",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 6.808333333333334,
+      "event": "santa-rosa-wildfire",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261039,
+      "policy": "proxy_greedy",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 8.408333333333333,
+      "event": "hurricane-harvey",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261030,
+      "policy": "two_step",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 0.0,
+      "event": "mexico-earthquake",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261030,
+      "policy": "two_step",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 6.916666666666667,
+      "event": "santa-rosa-wildfire",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261030,
+      "policy": "two_step",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 7.8500000000000005,
+      "event": "hurricane-harvey",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261031,
+      "policy": "two_step",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 0.0,
+      "event": "mexico-earthquake",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261031,
+      "policy": "two_step",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 6.916666666666667,
+      "event": "santa-rosa-wildfire",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261031,
+      "policy": "two_step",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 8.5,
+      "event": "hurricane-harvey",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261032,
+      "policy": "two_step",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 0.0,
+      "event": "mexico-earthquake",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261032,
+      "policy": "two_step",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 7.008333333333333,
+      "event": "santa-rosa-wildfire",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261032,
+      "policy": "two_step",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 7.891666666666667,
+      "event": "hurricane-harvey",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261033,
+      "policy": "two_step",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 0.0,
+      "event": "mexico-earthquake",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261033,
+      "policy": "two_step",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 7.0,
+      "event": "santa-rosa-wildfire",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261033,
+      "policy": "two_step",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 8.091666666666667,
+      "event": "hurricane-harvey",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261034,
+      "policy": "two_step",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 0.0,
+      "event": "mexico-earthquake",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261034,
+      "policy": "two_step",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 7.008333333333333,
+      "event": "santa-rosa-wildfire",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261034,
+      "policy": "two_step",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 8.441666666666666,
+      "event": "hurricane-harvey",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261035,
+      "policy": "two_step",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 0.0,
+      "event": "mexico-earthquake",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261035,
+      "policy": "two_step",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 7.066666666666666,
+      "event": "santa-rosa-wildfire",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261035,
+      "policy": "two_step",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 8.15,
+      "event": "hurricane-harvey",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261036,
+      "policy": "two_step",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 0.0,
+      "event": "mexico-earthquake",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261036,
+      "policy": "two_step",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 6.925000000000001,
+      "event": "santa-rosa-wildfire",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261036,
+      "policy": "two_step",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 8.491666666666667,
+      "event": "hurricane-harvey",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261037,
+      "policy": "two_step",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 0.0,
+      "event": "mexico-earthquake",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261037,
+      "policy": "two_step",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 6.866666666666667,
+      "event": "santa-rosa-wildfire",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261037,
+      "policy": "two_step",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 8.566666666666666,
+      "event": "hurricane-harvey",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261038,
+      "policy": "two_step",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 0.0,
+      "event": "mexico-earthquake",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261038,
+      "policy": "two_step",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 7.066666666666666,
+      "event": "santa-rosa-wildfire",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261038,
+      "policy": "two_step",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 7.316666666666666,
+      "event": "hurricane-harvey",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261039,
+      "policy": "two_step",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 0.0,
+      "event": "mexico-earthquake",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261039,
+      "policy": "two_step",
+      "scenes": 24
+    },
+    {
+      "distinct_found": 6.783333333333334,
+      "event": "santa-rosa-wildfire",
+      "fit_scope": "event_holdout",
+      "order_seed": 20261039,
+      "policy": "two_step",
+      "scenes": 24
+    }
+  ]
+}

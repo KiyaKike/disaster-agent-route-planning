@@ -1,0 +1,150 @@
+{
+  "cached_model_descriptions_replayed": 6,
+  "limitations": "Ledger intervals replayed from recorded metadata; network bodies deliberately not cached. No original JSON/UID or independent human truth recovered.",
+  "mask_transfer_bytes": 1898297,
+  "new_model_calls": 0,
+  "old_frozen_sources_verified": 50,
+  "parent_external_files_verified": 4833,
+  "parent_output_files_verified": 1300,
+  "protocol_sources_verified": 8,
+  "results": [
+    {
+      "class_confusion": [
+        [
+          703530,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          344595,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          451,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      ],
+      "common_known_pixels": 1048576,
+      "fixed_footprint_excluded_pixels": 0,
+      "fixed_footprint_pixels": 451,
+      "known_class_disagreements": 0,
+      "sample_id": "mexico-earthquake_00000162",
+      "severe_pixels_common_domain": 451
+    },
+    {
+      "class_confusion": [
+        [
+          1032791,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          14941,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          444,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      ],
+      "common_known_pixels": 1048176,
+      "fixed_footprint_excluded_pixels": 0,
+      "fixed_footprint_pixels": 444,
+      "known_class_disagreements": 0,
+      "sample_id": "mexico-earthquake_00000145",
+      "severe_pixels_common_domain": 444
+    },
+    {
+      "class_confusion": [
+        [
+          668657,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          372757,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          5355,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1803,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      ],
+      "common_known_pixels": 1048572,
+      "fixed_footprint_excluded_pixels": 3,
+      "fixed_footprint_pixels": 1806,
+      "known_class_disagreements": 0,
+      "sample_id": "mexico-earthquake_00000081",
+      "severe_pixels_common_domain": 1803
+    }
+  ],
+  "scene_comparisons_replayed": 3,
+  "status": "PASS",
+  "transfers_checked": 15
+}

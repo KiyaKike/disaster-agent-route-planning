@@ -1,0 +1,43 @@
+{
+  "independent_evaluator": "Separate primitive world/observation/path-cost calculation without importing planner core",
+  "records": 2880,
+  "weighted_replay_leaves": 122400,
+  "maximum_expectation_disagreement": 4.440892098500626e-16,
+  "budget_violations": 0,
+  "unit_tests_passed": 6,
+  "unit_test_command": "python -m unittest discover -s work/disaster_route -p test_inspection_information.py -v",
+  "known_model_reference_only": true,
+  "unrestricted_adaptive_optimum": false,
+  "new_method": false,
+  "real_disaster_result": false,
+  "gpu_rental": false,
+  "new_model_inference": 0,
+  "legacy_preservation": [
+    {
+      "folder": "disaster_route_real_xbd36_v1",
+      "files_verified": 257,
+      "receipt_sha256": "936fbb040f21a4089df20eb982e2666c6ea26ee41949122507c237979a8e7c7e"
+    },
+    {
+      "folder": "disaster_route_structure_pilot_v1",
+      "files_verified": 31,
+      "receipt_sha256": "a7347a3e2fe6dad7564666b5dd71f5a2c09c0cc54d0b25741a63ecfa76bcef8c"
+    },
+    {
+      "folder": "disaster_route_headroom_v1",
+      "files_verified": 19,
+      "receipt_sha256": "8e26005a385fdb676f6c4ec9d75bfee6406fab362412ac7151f0393746b44355"
+    },
+    {
+      "folder": "disaster_route_aippms_control_v1",
+      "files_verified": 23,
+      "receipt_sha256": "289a16709fa2ce9cb05fd89a6366bc54e5fdd7ec9dd68c8aba8cf5c6da6e5d0d"
+    },
+    {
+      "folder": "感知检查_阶段汇报_20261028",
+      "files_verified": 46,
+      "receipt_sha256": "899a0f4651349f85d4c9e2a34b17f30e307ac2eea4f7a6467ba9c661cde6f07b"
+    }
+  ],
+  "figure_visually_inspected": true
+}

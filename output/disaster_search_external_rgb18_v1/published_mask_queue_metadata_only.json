@@ -1,0 +1,272 @@
+[
+  {
+    "event": "EARTHQUAKE-TURKEY",
+    "member": {
+      "compressed_bytes": 9099,
+      "compression_method": 8,
+      "crc32_unverified": "a7c02f59",
+      "directory": false,
+      "path": "EARTHQUAKE-TURKEY/masks/EARTHQUAKE-TURKEY_012987_post_disaster.png",
+      "uncompressed_bytes": 9094
+    },
+    "payload_access_enabled": false,
+    "sample_id": "EARTHQUAKE-TURKEY_012987",
+    "source_version": "10.6084/m9.figshare.25285009.v2",
+    "use": "Published semantic reference only, never instance gold"
+  },
+  {
+    "event": "EARTHQUAKE-TURKEY",
+    "member": {
+      "compressed_bytes": 2347,
+      "compression_method": 8,
+      "crc32_unverified": "77e8ab02",
+      "directory": false,
+      "path": "EARTHQUAKE-TURKEY/masks/EARTHQUAKE-TURKEY_006807_post_disaster.png",
+      "uncompressed_bytes": 2459
+    },
+    "payload_access_enabled": false,
+    "sample_id": "EARTHQUAKE-TURKEY_006807",
+    "source_version": "10.6084/m9.figshare.25285009.v2",
+    "use": "Published semantic reference only, never instance gold"
+  },
+  {
+    "event": "EARTHQUAKE-TURKEY",
+    "member": {
+      "compressed_bytes": 4356,
+      "compression_method": 8,
+      "crc32_unverified": "42bb9dbc",
+      "directory": false,
+      "path": "EARTHQUAKE-TURKEY/masks/EARTHQUAKE-TURKEY_005459_post_disaster.png",
+      "uncompressed_bytes": 4458
+    },
+    "payload_access_enabled": false,
+    "sample_id": "EARTHQUAKE-TURKEY_005459",
+    "source_version": "10.6084/m9.figshare.25285009.v2",
+    "use": "Published semantic reference only, never instance gold"
+  },
+  {
+    "event": "EARTHQUAKE-TURKEY",
+    "member": {
+      "compressed_bytes": 2353,
+      "compression_method": 8,
+      "crc32_unverified": "b11bad9f",
+      "directory": false,
+      "path": "EARTHQUAKE-TURKEY/masks/EARTHQUAKE-TURKEY_000237_post_disaster.png",
+      "uncompressed_bytes": 2472
+    },
+    "payload_access_enabled": false,
+    "sample_id": "EARTHQUAKE-TURKEY_000237",
+    "source_version": "10.6084/m9.figshare.25285009.v2",
+    "use": "Published semantic reference only, never instance gold"
+  },
+  {
+    "event": "EARTHQUAKE-TURKEY",
+    "member": {
+      "compressed_bytes": 79,
+      "compression_method": 8,
+      "crc32_unverified": "ceb60ca4",
+      "directory": false,
+      "path": "EARTHQUAKE-TURKEY/masks/EARTHQUAKE-TURKEY_003472_post_disaster.png",
+      "uncompressed_bytes": 334
+    },
+    "payload_access_enabled": false,
+    "sample_id": "EARTHQUAKE-TURKEY_003472",
+    "source_version": "10.6084/m9.figshare.25285009.v2",
+    "use": "Published semantic reference only, never instance gold"
+  },
+  {
+    "event": "EARTHQUAKE-TURKEY",
+    "member": {
+      "compressed_bytes": 3661,
+      "compression_method": 8,
+      "crc32_unverified": "a3c58a5d",
+      "directory": false,
+      "path": "EARTHQUAKE-TURKEY/masks/EARTHQUAKE-TURKEY_015741_post_disaster.png",
+      "uncompressed_bytes": 3771
+    },
+    "payload_access_enabled": false,
+    "sample_id": "EARTHQUAKE-TURKEY_015741",
+    "source_version": "10.6084/m9.figshare.25285009.v2",
+    "use": "Published semantic reference only, never instance gold"
+  },
+  {
+    "event": "PAKISTAN-FLOODING",
+    "member": {
+      "compressed_bytes": 79,
+      "compression_method": 8,
+      "crc32_unverified": "ceb60ca4",
+      "directory": false,
+      "path": "PAKISTAN-FLOODING/masks/PAKISTAN-FLOODING_017841_post_disaster.png",
+      "uncompressed_bytes": 334
+    },
+    "payload_access_enabled": false,
+    "sample_id": "PAKISTAN-FLOODING_017841",
+    "source_version": "10.6084/m9.figshare.25285009.v2",
+    "use": "Published semantic reference only, never instance gold"
+  },
+  {
+    "event": "PAKISTAN-FLOODING",
+    "member": {
+      "compressed_bytes": 1038,
+      "compression_method": 8,
+      "crc32_unverified": "f74365da",
+      "directory": false,
+      "path": "PAKISTAN-FLOODING/masks/PAKISTAN-FLOODING_004697_post_disaster.png",
+      "uncompressed_bytes": 1231
+    },
+    "payload_access_enabled": false,
+    "sample_id": "PAKISTAN-FLOODING_004697",
+    "source_version": "10.6084/m9.figshare.25285009.v2",
+    "use": "Published semantic reference only, never instance gold"
+  },
+  {
+    "event": "PAKISTAN-FLOODING",
+    "member": {
+      "compressed_bytes": 504,
+      "compression_method": 8,
+      "crc32_unverified": "1a380431",
+      "directory": false,
+      "path": "PAKISTAN-FLOODING/masks/PAKISTAN-FLOODING_014536_post_disaster.png",
+      "uncompressed_bytes": 713
+    },
+    "payload_access_enabled": false,
+    "sample_id": "PAKISTAN-FLOODING_014536",
+    "source_version": "10.6084/m9.figshare.25285009.v2",
+    "use": "Published semantic reference only, never instance gold"
+  },
+  {
+    "event": "PAKISTAN-FLOODING",
+    "member": {
+      "compressed_bytes": 1243,
+      "compression_method": 8,
+      "crc32_unverified": "175fa59f",
+      "directory": false,
+      "path": "PAKISTAN-FLOODING/masks/PAKISTAN-FLOODING_003197_post_disaster.png",
+      "uncompressed_bytes": 1391
+    },
+    "payload_access_enabled": false,
+    "sample_id": "PAKISTAN-FLOODING_003197",
+    "source_version": "10.6084/m9.figshare.25285009.v2",
+    "use": "Published semantic reference only, never instance gold"
+  },
+  {
+    "event": "PAKISTAN-FLOODING",
+    "member": {
+      "compressed_bytes": 79,
+      "compression_method": 8,
+      "crc32_unverified": "ceb60ca4",
+      "directory": false,
+      "path": "PAKISTAN-FLOODING/masks/PAKISTAN-FLOODING_006998_post_disaster.png",
+      "uncompressed_bytes": 334
+    },
+    "payload_access_enabled": false,
+    "sample_id": "PAKISTAN-FLOODING_006998",
+    "source_version": "10.6084/m9.figshare.25285009.v2",
+    "use": "Published semantic reference only, never instance gold"
+  },
+  {
+    "event": "PAKISTAN-FLOODING",
+    "member": {
+      "compressed_bytes": 79,
+      "compression_method": 8,
+      "crc32_unverified": "ceb60ca4",
+      "directory": false,
+      "path": "PAKISTAN-FLOODING/masks/PAKISTAN-FLOODING_013475_post_disaster.png",
+      "uncompressed_bytes": 334
+    },
+    "payload_access_enabled": false,
+    "sample_id": "PAKISTAN-FLOODING_013475",
+    "source_version": "10.6084/m9.figshare.25285009.v2",
+    "use": "Published semantic reference only, never instance gold"
+  },
+  {
+    "event": "TEXAS-TORNADOES",
+    "member": {
+      "compressed_bytes": 79,
+      "compression_method": 8,
+      "crc32_unverified": "ceb60ca4",
+      "directory": false,
+      "path": "TEXAS-TORNADOES/masks/TEXAS-TORNADOES_004417_post_disaster.png",
+      "uncompressed_bytes": 334
+    },
+    "payload_access_enabled": false,
+    "sample_id": "TEXAS-TORNADOES_004417",
+    "source_version": "10.6084/m9.figshare.25285009.v2",
+    "use": "Published semantic reference only, never instance gold"
+  },
+  {
+    "event": "TEXAS-TORNADOES",
+    "member": {
+      "compressed_bytes": 2327,
+      "compression_method": 8,
+      "crc32_unverified": "0cd10b97",
+      "directory": false,
+      "path": "TEXAS-TORNADOES/masks/TEXAS-TORNADOES_000325_post_disaster.png",
+      "uncompressed_bytes": 2443
+    },
+    "payload_access_enabled": false,
+    "sample_id": "TEXAS-TORNADOES_000325",
+    "source_version": "10.6084/m9.figshare.25285009.v2",
+    "use": "Published semantic reference only, never instance gold"
+  },
+  {
+    "event": "TEXAS-TORNADOES",
+    "member": {
+      "compressed_bytes": 79,
+      "compression_method": 8,
+      "crc32_unverified": "ceb60ca4",
+      "directory": false,
+      "path": "TEXAS-TORNADOES/masks/TEXAS-TORNADOES_003987_post_disaster.png",
+      "uncompressed_bytes": 334
+    },
+    "payload_access_enabled": false,
+    "sample_id": "TEXAS-TORNADOES_003987",
+    "source_version": "10.6084/m9.figshare.25285009.v2",
+    "use": "Published semantic reference only, never instance gold"
+  },
+  {
+    "event": "TEXAS-TORNADOES",
+    "member": {
+      "compressed_bytes": 617,
+      "compression_method": 8,
+      "crc32_unverified": "e138e204",
+      "directory": false,
+      "path": "TEXAS-TORNADOES/masks/TEXAS-TORNADOES_002697_post_disaster.png",
+      "uncompressed_bytes": 852
+    },
+    "payload_access_enabled": false,
+    "sample_id": "TEXAS-TORNADOES_002697",
+    "source_version": "10.6084/m9.figshare.25285009.v2",
+    "use": "Published semantic reference only, never instance gold"
+  },
+  {
+    "event": "TEXAS-TORNADOES",
+    "member": {
+      "compressed_bytes": 871,
+      "compression_method": 8,
+      "crc32_unverified": "9ab86f49",
+      "directory": false,
+      "path": "TEXAS-TORNADOES/masks/TEXAS-TORNADOES_002969_post_disaster.png",
+      "uncompressed_bytes": 1085
+    },
+    "payload_access_enabled": false,
+    "sample_id": "TEXAS-TORNADOES_002969",
+    "source_version": "10.6084/m9.figshare.25285009.v2",
+    "use": "Published semantic reference only, never instance gold"
+  },
+  {
+    "event": "TEXAS-TORNADOES",
+    "member": {
+      "compressed_bytes": 79,
+      "compression_method": 8,
+      "crc32_unverified": "ceb60ca4",
+      "directory": false,
+      "path": "TEXAS-TORNADOES/masks/TEXAS-TORNADOES_004813_post_disaster.png",
+      "uncompressed_bytes": 334
+    },
+    "payload_access_enabled": false,
+    "sample_id": "TEXAS-TORNADOES_004813",
+    "source_version": "10.6084/m9.figshare.25285009.v2",
+    "use": "Published semantic reference only, never instance gold"
+  }
+]

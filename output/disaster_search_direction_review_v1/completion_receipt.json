@@ -1,0 +1,22 @@
+{
+  "all_bound_source_hashes_verified": true,
+  "closest_primary_works_checked": 5,
+  "date": "2026-10-25",
+  "fatal_flaws_reference_sha256": "236dc67ddea96aba2d52b61adb5d0d9f69c05d683d49938914f066d0996e2679",
+  "files": {
+    "README.md": "1bca7e8f45f0b39401e83ea5f7c3cc7c47b0bd78e85f70fe7537212127018c91",
+    "literature_check.json": "b1a6a5ed9bbdc92c8c5321a8ab947bb53335c7c3f5ee92f54981c23ca91803a6",
+    "public_bin_order_check.json": "220b78dc481623f49907485c4e98e52a7c87e4d9d7fb35de2885b78dfb35c7ac",
+    "review.json": "988dc5cc13fe9166d7d7913513b4b860c0b215113de608d7fd53a8ad336b4aff"
+  },
+  "new_experiment_started": false,
+  "new_inference": false,
+  "new_model_fit": false,
+  "paid_gpu": false,
+  "prior_experiment_outputs_preserved": true,
+  "read_only_public_models_inspected": 4,
+  "review_scope": "Current failed version rejected; future diagnostic hypothesis conditional, novelty not established.",
+  "skill_source_sha256": "630ce9528f472637830b216bf6de231e6dfdcdae4d3b16976324da5ce2d145fb",
+  "stage": "RESEARCH_DIRECTION_REVIEW_COMPLETE",
+  "validation_or_confirmation_scored": false
+}

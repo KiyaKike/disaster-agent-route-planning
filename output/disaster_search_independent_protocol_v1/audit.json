@@ -1,0 +1,28 @@
+{
+  "all_inventory_and_selection_replayed": true,
+  "basis_hashes_verified": 3,
+  "blank_gold_records_correctly_rejected": 18,
+  "browser_articles_read_separately": true,
+  "complete_image_pairs": {
+    "EARTHQUAKE-TURKEY": 944,
+    "PAKISTAN-FLOODING": 3540,
+    "TEXAS-TORNADOES": 454
+  },
+  "disabled_rgb_queue": 36,
+  "events": 3,
+  "exact_archive_metadata_bytes": 2917031,
+  "human_gold_complete": false,
+  "image_or_label_payload_bytes_this_stage": 0,
+  "independent_data_admitted": false,
+  "new_detector_or_policy_fit": false,
+  "new_inference": 0,
+  "new_method_selected": false,
+  "new_tests": 17,
+  "paid_gpu": false,
+  "previous_frozen_helpers_unchanged": 102,
+  "reserved_scores_opened": false,
+  "selected_pairs": 18,
+  "status": "METADATA_AND_PROSPECTIVE_PROTOCOL_VERIFIED",
+  "structured_metadata_api_bytes": 24558,
+  "tests_passed": 229
+}

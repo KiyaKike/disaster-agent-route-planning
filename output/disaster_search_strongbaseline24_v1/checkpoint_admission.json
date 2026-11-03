@@ -1,0 +1,20 @@
+{
+  "checkpoint_keys": [
+    "epoch",
+    "network",
+    "optimizer"
+  ],
+  "epoch": 36,
+  "strict_state_dict": true,
+  "state_tensors": 236,
+  "parameters": 25728597,
+  "source_patches": [
+    "Remove config-class import; supply annotation-only CfgNode=object",
+    "Disable initialization-only ImageNet download; every tensor is strictly loaded from author checkpoint"
+  ],
+  "checkpoint_loader": "torch.load(weights_only=True,map_location=cpu); no optimizer restored",
+  "mps_available": true,
+  "torch_version": "2.9.1",
+  "source_sha256": "ad656c3c78f490fe32a6a67ccaa9d705d02bb58bfedaf0b6efae04723bf663fe",
+  "new_forward_calls": 0
+}

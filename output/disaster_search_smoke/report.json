@@ -1,0 +1,1112 @@
+{
+  "stage": "SYNTHETIC_ENGINEERING_CHECK_ONLY",
+  "real_search_efficacy_validated": false,
+  "configuration": {
+    "seeds": 12,
+    "side": 8,
+    "budgets": [
+      10,
+      20,
+      40
+    ],
+    "sensor": {
+      "clear": {
+        "tpr": 0.9,
+        "fpr": 0.04
+      },
+      "poor": {
+        "tpr": 0.25,
+        "fpr": 0.12
+      }
+    },
+    "pooled": {
+      "survey": {
+        "tpr": 0.705,
+        "fpr": 0.064
+      },
+      "verify": {
+        "tpr": 0.85125,
+        "fpr": 0.046
+      }
+    },
+    "policies": [
+      "nearest",
+      "prior",
+      "mixed",
+      "pooled",
+      "quality_gate",
+      "quality",
+      "adaptive_prior"
+    ],
+    "scenarios": [
+      "clean",
+      "structured_prior_error",
+      "random_prior_error",
+      "poor_visibility",
+      "persistent_occlusion"
+    ]
+  },
+  "limitations": [
+    "Synthetic priors are probabilities; existing PS change scores are not.",
+    "Likelihoods are known in this simulation; not empirically estimated.",
+    "E0 cost is observation effort only: survey=1, verify=2; no travel cost.",
+    "Two pre-generated observation opportunities per cell; no repeated use of an observation ID.",
+    "Most observations are conditionally independent; persistent_occlusion explicitly correlates them.",
+    "Positive means provisional declaration, not independently verified damage confirmation.",
+    "Adaptive prior correction is an exploratory heuristic, not a demonstrated research contribution.",
+    "Synthetic seeds are not independent real disaster events; no generalization claim."
+  ],
+  "total_runs": 1260,
+  "summary": [
+    {
+      "scenario": "clean",
+      "budget": 10,
+      "policy": "nearest",
+      "episodes": 12,
+      "mean_recall": 0.076211227990996,
+      "mean_false_positives": 0.16666666666666666,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0.16666666666666666
+    },
+    {
+      "scenario": "clean",
+      "budget": 10,
+      "policy": "prior",
+      "episodes": 12,
+      "mean_recall": 0.15254481218913477,
+      "mean_false_positives": 0.08333333333333333,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "clean",
+      "budget": 10,
+      "policy": "mixed",
+      "episodes": 12,
+      "mean_recall": 0.1438382037358207,
+      "mean_false_positives": 0.08333333333333333,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "clean",
+      "budget": 10,
+      "policy": "pooled",
+      "episodes": 12,
+      "mean_recall": 0.15254481218913477,
+      "mean_false_positives": 0.08333333333333333,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "clean",
+      "budget": 10,
+      "policy": "quality_gate",
+      "episodes": 12,
+      "mean_recall": 0.15254481218913477,
+      "mean_false_positives": 0.08333333333333333,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "clean",
+      "budget": 10,
+      "policy": "quality",
+      "episodes": 12,
+      "mean_recall": 0.15254481218913477,
+      "mean_false_positives": 0.08333333333333333,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "clean",
+      "budget": 10,
+      "policy": "adaptive_prior",
+      "episodes": 12,
+      "mean_recall": 0.15254481218913477,
+      "mean_false_positives": 0.08333333333333333,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "clean",
+      "budget": 20,
+      "policy": "nearest",
+      "episodes": 12,
+      "mean_recall": 0.21508355366281665,
+      "mean_false_positives": 0.4166666666666667,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "clean",
+      "budget": 20,
+      "policy": "prior",
+      "episodes": 12,
+      "mean_recall": 0.3426294851592729,
+      "mean_false_positives": 0.4166666666666667,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "clean",
+      "budget": 20,
+      "policy": "mixed",
+      "episodes": 12,
+      "mean_recall": 0.30717385341803394,
+      "mean_false_positives": 0.16666666666666666,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "clean",
+      "budget": 20,
+      "policy": "pooled",
+      "episodes": 12,
+      "mean_recall": 0.3426294851592729,
+      "mean_false_positives": 0.4166666666666667,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "clean",
+      "budget": 20,
+      "policy": "quality_gate",
+      "episodes": 12,
+      "mean_recall": 0.3426294851592729,
+      "mean_false_positives": 0.4166666666666667,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "clean",
+      "budget": 20,
+      "policy": "quality",
+      "episodes": 12,
+      "mean_recall": 0.3426294851592729,
+      "mean_false_positives": 0.4166666666666667,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "clean",
+      "budget": 20,
+      "policy": "adaptive_prior",
+      "episodes": 12,
+      "mean_recall": 0.3426294851592729,
+      "mean_false_positives": 0.4166666666666667,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "clean",
+      "budget": 40,
+      "policy": "nearest",
+      "episodes": 12,
+      "mean_recall": 0.4248369164831328,
+      "mean_false_positives": 1.3333333333333333,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "clean",
+      "budget": 40,
+      "policy": "prior",
+      "episodes": 12,
+      "mean_recall": 0.5601983907795476,
+      "mean_false_positives": 1.0833333333333333,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "clean",
+      "budget": 40,
+      "policy": "mixed",
+      "episodes": 12,
+      "mean_recall": 0.5562301368112936,
+      "mean_false_positives": 1.0833333333333333,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "clean",
+      "budget": 40,
+      "policy": "pooled",
+      "episodes": 12,
+      "mean_recall": 0.5601983907795476,
+      "mean_false_positives": 1.0833333333333333,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "clean",
+      "budget": 40,
+      "policy": "quality_gate",
+      "episodes": 12,
+      "mean_recall": 0.5896129251041269,
+      "mean_false_positives": 1.0833333333333333,
+      "mean_revisits": 1.3333333333333333,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "clean",
+      "budget": 40,
+      "policy": "quality",
+      "episodes": 12,
+      "mean_recall": 0.5896129251041269,
+      "mean_false_positives": 1.0833333333333333,
+      "mean_revisits": 1.3333333333333333,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "clean",
+      "budget": 40,
+      "policy": "adaptive_prior",
+      "episodes": 12,
+      "mean_recall": 0.584853868371386,
+      "mean_false_positives": 1,
+      "mean_revisits": 1.4166666666666667,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "structured_prior_error",
+      "budget": 10,
+      "policy": "nearest",
+      "episodes": 12,
+      "mean_recall": 0.076211227990996,
+      "mean_false_positives": 0.16666666666666666,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0.16666666666666666
+    },
+    {
+      "scenario": "structured_prior_error",
+      "budget": 10,
+      "policy": "prior",
+      "episodes": 12,
+      "mean_recall": 0.04569819218718453,
+      "mean_false_positives": 0.25,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0.4166666666666667
+    },
+    {
+      "scenario": "structured_prior_error",
+      "budget": 10,
+      "policy": "mixed",
+      "episodes": 12,
+      "mean_recall": 0.042032473212541076,
+      "mean_false_positives": 0.3333333333333333,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0.4166666666666667
+    },
+    {
+      "scenario": "structured_prior_error",
+      "budget": 10,
+      "policy": "pooled",
+      "episodes": 12,
+      "mean_recall": 0.04569819218718453,
+      "mean_false_positives": 0.25,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0.4166666666666667
+    },
+    {
+      "scenario": "structured_prior_error",
+      "budget": 10,
+      "policy": "quality_gate",
+      "episodes": 12,
+      "mean_recall": 0.04569819218718453,
+      "mean_false_positives": 0.25,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0.4166666666666667
+    },
+    {
+      "scenario": "structured_prior_error",
+      "budget": 10,
+      "policy": "quality",
+      "episodes": 12,
+      "mean_recall": 0.04569819218718453,
+      "mean_false_positives": 0.25,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0.4166666666666667
+    },
+    {
+      "scenario": "structured_prior_error",
+      "budget": 10,
+      "policy": "adaptive_prior",
+      "episodes": 12,
+      "mean_recall": 0.04569819218718453,
+      "mean_false_positives": 0.25,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0.4166666666666667
+    },
+    {
+      "scenario": "structured_prior_error",
+      "budget": 20,
+      "policy": "nearest",
+      "episodes": 12,
+      "mean_recall": 0.21508355366281665,
+      "mean_false_positives": 0.4166666666666667,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "structured_prior_error",
+      "budget": 20,
+      "policy": "prior",
+      "episodes": 12,
+      "mean_recall": 0.08173821560134982,
+      "mean_false_positives": 0.9166666666666666,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0.16666666666666666
+    },
+    {
+      "scenario": "structured_prior_error",
+      "budget": 20,
+      "policy": "mixed",
+      "episodes": 12,
+      "mean_recall": 0.09727884583305557,
+      "mean_false_positives": 0.75,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0.08333333333333333
+    },
+    {
+      "scenario": "structured_prior_error",
+      "budget": 20,
+      "policy": "pooled",
+      "episodes": 12,
+      "mean_recall": 0.08173821560134982,
+      "mean_false_positives": 0.9166666666666666,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0.16666666666666666
+    },
+    {
+      "scenario": "structured_prior_error",
+      "budget": 20,
+      "policy": "quality_gate",
+      "episodes": 12,
+      "mean_recall": 0.08173821560134982,
+      "mean_false_positives": 0.9166666666666666,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0.16666666666666666
+    },
+    {
+      "scenario": "structured_prior_error",
+      "budget": 20,
+      "policy": "quality",
+      "episodes": 12,
+      "mean_recall": 0.08173821560134982,
+      "mean_false_positives": 0.9166666666666666,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0.16666666666666666
+    },
+    {
+      "scenario": "structured_prior_error",
+      "budget": 20,
+      "policy": "adaptive_prior",
+      "episodes": 12,
+      "mean_recall": 0.09562026267305207,
+      "mean_false_positives": 0.8333333333333334,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "structured_prior_error",
+      "budget": 40,
+      "policy": "nearest",
+      "episodes": 12,
+      "mean_recall": 0.4248369164831328,
+      "mean_false_positives": 1.3333333333333333,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "structured_prior_error",
+      "budget": 40,
+      "policy": "prior",
+      "episodes": 12,
+      "mean_recall": 0.26531868021945354,
+      "mean_false_positives": 1.25,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "structured_prior_error",
+      "budget": 40,
+      "policy": "mixed",
+      "episodes": 12,
+      "mean_recall": 0.27157299353898423,
+      "mean_false_positives": 1.4166666666666667,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "structured_prior_error",
+      "budget": 40,
+      "policy": "pooled",
+      "episodes": 12,
+      "mean_recall": 0.26531868021945354,
+      "mean_false_positives": 1.25,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "structured_prior_error",
+      "budget": 40,
+      "policy": "quality_gate",
+      "episodes": 12,
+      "mean_recall": 0.21664318882499264,
+      "mean_false_positives": 1.4166666666666667,
+      "mean_revisits": 1.5833333333333333,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "structured_prior_error",
+      "budget": 40,
+      "policy": "quality",
+      "episodes": 12,
+      "mean_recall": 0.21664318882499264,
+      "mean_false_positives": 1.4166666666666667,
+      "mean_revisits": 1.5833333333333333,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "structured_prior_error",
+      "budget": 40,
+      "policy": "adaptive_prior",
+      "episodes": 12,
+      "mean_recall": 0.2197052716696842,
+      "mean_false_positives": 1.0833333333333333,
+      "mean_revisits": 2.5,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "random_prior_error",
+      "budget": 10,
+      "policy": "nearest",
+      "episodes": 12,
+      "mean_recall": 0.076211227990996,
+      "mean_false_positives": 0.16666666666666666,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0.16666666666666666
+    },
+    {
+      "scenario": "random_prior_error",
+      "budget": 10,
+      "policy": "prior",
+      "episodes": 12,
+      "mean_recall": 0.04697155586901503,
+      "mean_false_positives": 0.5,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0.4166666666666667
+    },
+    {
+      "scenario": "random_prior_error",
+      "budget": 10,
+      "policy": "mixed",
+      "episodes": 12,
+      "mean_recall": 0.05817654716553951,
+      "mean_false_positives": 0.3333333333333333,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0.16666666666666666
+    },
+    {
+      "scenario": "random_prior_error",
+      "budget": 10,
+      "policy": "pooled",
+      "episodes": 12,
+      "mean_recall": 0.04697155586901503,
+      "mean_false_positives": 0.5,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0.4166666666666667
+    },
+    {
+      "scenario": "random_prior_error",
+      "budget": 10,
+      "policy": "quality_gate",
+      "episodes": 12,
+      "mean_recall": 0.04697155586901503,
+      "mean_false_positives": 0.5,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0.4166666666666667
+    },
+    {
+      "scenario": "random_prior_error",
+      "budget": 10,
+      "policy": "quality",
+      "episodes": 12,
+      "mean_recall": 0.04697155586901503,
+      "mean_false_positives": 0.5,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0.4166666666666667
+    },
+    {
+      "scenario": "random_prior_error",
+      "budget": 10,
+      "policy": "adaptive_prior",
+      "episodes": 12,
+      "mean_recall": 0.04697155586901503,
+      "mean_false_positives": 0.5,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0.4166666666666667
+    },
+    {
+      "scenario": "random_prior_error",
+      "budget": 20,
+      "policy": "nearest",
+      "episodes": 12,
+      "mean_recall": 0.21508355366281665,
+      "mean_false_positives": 0.4166666666666667,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "random_prior_error",
+      "budget": 20,
+      "policy": "prior",
+      "episodes": 12,
+      "mean_recall": 0.19886776376695892,
+      "mean_false_positives": 0.5833333333333334,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "random_prior_error",
+      "budget": 20,
+      "policy": "mixed",
+      "episodes": 12,
+      "mean_recall": 0.13944964585026132,
+      "mean_false_positives": 0.6666666666666666,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0.08333333333333333
+    },
+    {
+      "scenario": "random_prior_error",
+      "budget": 20,
+      "policy": "pooled",
+      "episodes": 12,
+      "mean_recall": 0.19886776376695892,
+      "mean_false_positives": 0.5833333333333334,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "random_prior_error",
+      "budget": 20,
+      "policy": "quality_gate",
+      "episodes": 12,
+      "mean_recall": 0.19886776376695892,
+      "mean_false_positives": 0.5833333333333334,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "random_prior_error",
+      "budget": 20,
+      "policy": "quality",
+      "episodes": 12,
+      "mean_recall": 0.19886776376695892,
+      "mean_false_positives": 0.5833333333333334,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "random_prior_error",
+      "budget": 20,
+      "policy": "adaptive_prior",
+      "episodes": 12,
+      "mean_recall": 0.19886776376695892,
+      "mean_false_positives": 0.5833333333333334,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "random_prior_error",
+      "budget": 40,
+      "policy": "nearest",
+      "episodes": 12,
+      "mean_recall": 0.4248369164831328,
+      "mean_false_positives": 1.3333333333333333,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "random_prior_error",
+      "budget": 40,
+      "policy": "prior",
+      "episodes": 12,
+      "mean_recall": 0.5143292359989274,
+      "mean_false_positives": 1.25,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "random_prior_error",
+      "budget": 40,
+      "policy": "mixed",
+      "episodes": 12,
+      "mean_recall": 0.48652968026301097,
+      "mean_false_positives": 1.25,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "random_prior_error",
+      "budget": 40,
+      "policy": "pooled",
+      "episodes": 12,
+      "mean_recall": 0.5143292359989274,
+      "mean_false_positives": 1.25,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "random_prior_error",
+      "budget": 40,
+      "policy": "quality_gate",
+      "episodes": 12,
+      "mean_recall": 0.5029161925206665,
+      "mean_false_positives": 1.1666666666666667,
+      "mean_revisits": 0.5833333333333334,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "random_prior_error",
+      "budget": 40,
+      "policy": "quality",
+      "episodes": 12,
+      "mean_recall": 0.5029161925206665,
+      "mean_false_positives": 1.1666666666666667,
+      "mean_revisits": 0.5833333333333334,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "random_prior_error",
+      "budget": 40,
+      "policy": "adaptive_prior",
+      "episodes": 12,
+      "mean_recall": 0.49894793855241265,
+      "mean_false_positives": 1.1666666666666667,
+      "mean_revisits": 0.8333333333333334,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "poor_visibility",
+      "budget": 10,
+      "policy": "nearest",
+      "episodes": 12,
+      "mean_recall": 0.057076981011921435,
+      "mean_false_positives": 0.16666666666666666,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0.16666666666666666
+    },
+    {
+      "scenario": "poor_visibility",
+      "budget": 10,
+      "policy": "prior",
+      "episodes": 12,
+      "mean_recall": 0.12161353310410361,
+      "mean_false_positives": 0.16666666666666666,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "poor_visibility",
+      "budget": 10,
+      "policy": "mixed",
+      "episodes": 12,
+      "mean_recall": 0.09194728084631817,
+      "mean_false_positives": 0.08333333333333333,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "poor_visibility",
+      "budget": 10,
+      "policy": "pooled",
+      "episodes": 12,
+      "mean_recall": 0.12161353310410361,
+      "mean_false_positives": 0.16666666666666666,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "poor_visibility",
+      "budget": 10,
+      "policy": "quality_gate",
+      "episodes": 12,
+      "mean_recall": 0.12161353310410361,
+      "mean_false_positives": 0.16666666666666666,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "poor_visibility",
+      "budget": 10,
+      "policy": "quality",
+      "episodes": 12,
+      "mean_recall": 0.12161353310410361,
+      "mean_false_positives": 0.16666666666666666,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "poor_visibility",
+      "budget": 10,
+      "policy": "adaptive_prior",
+      "episodes": 12,
+      "mean_recall": 0.12161353310410361,
+      "mean_false_positives": 0.16666666666666666,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "poor_visibility",
+      "budget": 20,
+      "policy": "nearest",
+      "episodes": 12,
+      "mean_recall": 0.15505527232703117,
+      "mean_false_positives": 0.5,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "poor_visibility",
+      "budget": 20,
+      "policy": "prior",
+      "episodes": 12,
+      "mean_recall": 0.23053984896977875,
+      "mean_false_positives": 0.6666666666666666,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "poor_visibility",
+      "budget": 20,
+      "policy": "mixed",
+      "episodes": 12,
+      "mean_recall": 0.1992686680434254,
+      "mean_false_positives": 0.3333333333333333,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "poor_visibility",
+      "budget": 20,
+      "policy": "pooled",
+      "episodes": 12,
+      "mean_recall": 0.23053984896977875,
+      "mean_false_positives": 0.6666666666666666,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "poor_visibility",
+      "budget": 20,
+      "policy": "quality_gate",
+      "episodes": 12,
+      "mean_recall": 0.23053984896977875,
+      "mean_false_positives": 0.6666666666666666,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "poor_visibility",
+      "budget": 20,
+      "policy": "quality",
+      "episodes": 12,
+      "mean_recall": 0.23053984896977875,
+      "mean_false_positives": 0.6666666666666666,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "poor_visibility",
+      "budget": 20,
+      "policy": "adaptive_prior",
+      "episodes": 12,
+      "mean_recall": 0.23053984896977875,
+      "mean_false_positives": 0.6666666666666666,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "poor_visibility",
+      "budget": 40,
+      "policy": "nearest",
+      "episodes": 12,
+      "mean_recall": 0.2672564419938759,
+      "mean_false_positives": 2,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "poor_visibility",
+      "budget": 40,
+      "policy": "prior",
+      "episodes": 12,
+      "mean_recall": 0.3525180041032641,
+      "mean_false_positives": 1.4166666666666667,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "poor_visibility",
+      "budget": 40,
+      "policy": "mixed",
+      "episodes": 12,
+      "mean_recall": 0.3485497501350101,
+      "mean_false_positives": 1.5,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "poor_visibility",
+      "budget": 40,
+      "policy": "pooled",
+      "episodes": 12,
+      "mean_recall": 0.3525180041032641,
+      "mean_false_positives": 1.4166666666666667,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "poor_visibility",
+      "budget": 40,
+      "policy": "quality_gate",
+      "episodes": 12,
+      "mean_recall": 0.38501224857277094,
+      "mean_false_positives": 1.3333333333333333,
+      "mean_revisits": 1.3333333333333333,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "poor_visibility",
+      "budget": 40,
+      "policy": "quality",
+      "episodes": 12,
+      "mean_recall": 0.38501224857277094,
+      "mean_false_positives": 1.3333333333333333,
+      "mean_revisits": 1.3333333333333333,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "poor_visibility",
+      "budget": 40,
+      "policy": "adaptive_prior",
+      "episodes": 12,
+      "mean_recall": 0.3736724531025407,
+      "mean_false_positives": 1.3333333333333333,
+      "mean_revisits": 1.3333333333333333,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "persistent_occlusion",
+      "budget": 10,
+      "policy": "nearest",
+      "episodes": 12,
+      "mean_recall": 0.06127546452074977,
+      "mean_false_positives": 0.16666666666666666,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0.08333333333333333
+    },
+    {
+      "scenario": "persistent_occlusion",
+      "budget": 10,
+      "policy": "prior",
+      "episodes": 12,
+      "mean_recall": 0.12016530700070509,
+      "mean_false_positives": 0.16666666666666666,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "persistent_occlusion",
+      "budget": 10,
+      "policy": "mixed",
+      "episodes": 12,
+      "mean_recall": 0.0979656816832308,
+      "mean_false_positives": 0.16666666666666666,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "persistent_occlusion",
+      "budget": 10,
+      "policy": "pooled",
+      "episodes": 12,
+      "mean_recall": 0.12016530700070509,
+      "mean_false_positives": 0.16666666666666666,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "persistent_occlusion",
+      "budget": 10,
+      "policy": "quality_gate",
+      "episodes": 12,
+      "mean_recall": 0.12016530700070509,
+      "mean_false_positives": 0.16666666666666666,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "persistent_occlusion",
+      "budget": 10,
+      "policy": "quality",
+      "episodes": 12,
+      "mean_recall": 0.12016530700070509,
+      "mean_false_positives": 0.16666666666666666,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "persistent_occlusion",
+      "budget": 10,
+      "policy": "adaptive_prior",
+      "episodes": 12,
+      "mean_recall": 0.12016530700070509,
+      "mean_false_positives": 0.16666666666666666,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "persistent_occlusion",
+      "budget": 20,
+      "policy": "nearest",
+      "episodes": 12,
+      "mean_recall": 0.16502807729983615,
+      "mean_false_positives": 0.3333333333333333,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "persistent_occlusion",
+      "budget": 20,
+      "policy": "prior",
+      "episodes": 12,
+      "mean_recall": 0.2741926437844926,
+      "mean_false_positives": 0.4166666666666667,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "persistent_occlusion",
+      "budget": 20,
+      "policy": "mixed",
+      "episodes": 12,
+      "mean_recall": 0.21120975605489928,
+      "mean_false_positives": 0.5,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "persistent_occlusion",
+      "budget": 20,
+      "policy": "pooled",
+      "episodes": 12,
+      "mean_recall": 0.2741926437844926,
+      "mean_false_positives": 0.4166666666666667,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "persistent_occlusion",
+      "budget": 20,
+      "policy": "quality_gate",
+      "episodes": 12,
+      "mean_recall": 0.2741926437844926,
+      "mean_false_positives": 0.4166666666666667,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "persistent_occlusion",
+      "budget": 20,
+      "policy": "quality",
+      "episodes": 12,
+      "mean_recall": 0.2741926437844926,
+      "mean_false_positives": 0.4166666666666667,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "persistent_occlusion",
+      "budget": 20,
+      "policy": "adaptive_prior",
+      "episodes": 12,
+      "mean_recall": 0.2741926437844926,
+      "mean_false_positives": 0.4166666666666667,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "persistent_occlusion",
+      "budget": 40,
+      "policy": "nearest",
+      "episodes": 12,
+      "mean_recall": 0.3217949952499783,
+      "mean_false_positives": 1.75,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "persistent_occlusion",
+      "budget": 40,
+      "policy": "prior",
+      "episodes": 12,
+      "mean_recall": 0.4314279568025721,
+      "mean_false_positives": 1.9166666666666667,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "persistent_occlusion",
+      "budget": 40,
+      "policy": "mixed",
+      "episodes": 12,
+      "mean_recall": 0.42349144886606416,
+      "mean_false_positives": 1.9166666666666667,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "persistent_occlusion",
+      "budget": 40,
+      "policy": "pooled",
+      "episodes": 12,
+      "mean_recall": 0.4314279568025721,
+      "mean_false_positives": 1.9166666666666667,
+      "mean_revisits": 0,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "persistent_occlusion",
+      "budget": 40,
+      "policy": "quality_gate",
+      "episodes": 12,
+      "mean_recall": 0.42349144886606416,
+      "mean_false_positives": 1.9166666666666667,
+      "mean_revisits": 1.3333333333333333,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "persistent_occlusion",
+      "budget": 40,
+      "policy": "quality",
+      "episodes": 12,
+      "mean_recall": 0.42349144886606416,
+      "mean_false_positives": 1.9166666666666667,
+      "mean_revisits": 1.3333333333333333,
+      "no_discovery_rate": 0
+    },
+    {
+      "scenario": "persistent_occlusion",
+      "budget": 40,
+      "policy": "adaptive_prior",
+      "episodes": 12,
+      "mean_recall": 0.4271146372718613,
+      "mean_false_positives": 1.8333333333333333,
+      "mean_revisits": 1.3333333333333333,
+      "no_discovery_rate": 0
+    }
+  ]
+}

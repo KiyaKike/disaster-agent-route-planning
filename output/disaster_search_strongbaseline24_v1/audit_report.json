@@ -1,0 +1,14 @@
+{
+  "input_tensors_reconstructed": 98,
+  "new_audit_model_calls": 0,
+  "notes": "Replayed inputs, saved mean probabilities and all scores. Per-flip output hashes recorded; model forward outputs are not independently rerun.",
+  "old_frozen_sources_verified": 54,
+  "parent_external_files_verified": 98,
+  "parent_output_files_verified": 82,
+  "pooled_score_replayed": true,
+  "probability_caches_decoded": 24,
+  "reference_rasters_reconstructed": 24,
+  "scene_scores_replayed": 24,
+  "status": "PASS",
+  "synthetic_cpu_mps_max_logit_error": 5.340576171875e-05
+}

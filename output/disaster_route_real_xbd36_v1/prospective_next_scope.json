@@ -1,0 +1,10 @@
+{
+  "current_data_role": "Reused development replay;not independent confirmation",
+  "gpu_rental": false,
+  "new_perception_tuning_enabled": false,
+  "new_training": false,
+  "next": "Build a geographically referenced continuous-area case with sourced predisaster building/facility structure and platform-appropriate motion constraints;then freeze information-fair route comparisons.",
+  "online_neighbor_candidate": "STOP_AS_PRIMARY_ON_THIS36;do not retune neighborhood,weights or thresholds on these results",
+  "physical_flight_validated": false,
+  "status": "NOT_EXECUTED"
+}

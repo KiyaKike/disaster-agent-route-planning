@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "viewed": "figures/headroom.png",
+  "sha256": "c96b8056d4c48334262e19653e2d0d169bb773efd5efe89f4108f128fd91f9f7",
+  "checks": [
+    "Budget240 and hindsight scope explicit.",
+    "Coverage and correct detection in separate axes.",
+    "All three events retained,including zero detection Sunda.",
+    "Labels and values readable."
+  ],
+  "field_flight_claim": false
+}

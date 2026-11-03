@@ -1,0 +1,20 @@
+{
+  "date": "2026-11-03",
+  "post_hoc_audit": true,
+  "primary_cell_only": true,
+  "changes": [
+    "threshold-grouped AP, invariant to tied-score ordering",
+    "exclude cross-fold donor control from strict transfer conclusions",
+    "raw ranking utilities get no probabilistic log-loss or Brier interpretation"
+  ],
+  "original_model_features_regularization_splits_unchanged": true,
+  "original_files": {
+    "summary.json": "0409b4ff4696d27885522e20f4e8a81e58ada9a2bf1ff49a91bae72124b5345a",
+    "results.json": "a99a1358b26bfa56c55b53db7489bc3d8b0eeaf4ad2c4883f185a6b450c5b862",
+    "table.json": "822ff6bcfff627879e94267f3287f0ce805422bc506d29367cbf37c2bd0e1c16",
+    "protocol.json": "17ad13a2386797cd19fbb397fa1dfe8b2039c01b123a173b295e52d68dc5c878",
+    "source_snapshots/test_feedback_increment.py": "b13a6e044110d4c988a0a2d46446e597a880c9dfcb765ca4f603786e4e692a35",
+    "source_snapshots/feedback_increment_core.py": "e28c8d0ff881a3324bb5d9def6fba5386053e33732182202f4618ceb5861cd85",
+    "source_snapshots/run_feedback_increment.py": "9cda708ce2a803bc7254eb045bcc1e70b4929f11dd5a7250a9b7da1cbc65bb0c"
+  }
+}

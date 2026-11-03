@@ -1,0 +1,31 @@
+{
+  "status": "METADATA_ONLY_LOOKUP_COMPLETE_ORIGINAL_JSON_NOT_FOUND",
+  "source_index": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/xbd_source_index.json",
+  "source_index_sha256": "903e146e4711341ae23d8c974d70e1c466b02182cae9788d45c0b7b80d71537e",
+  "mirror_id": "aryananand/xBD",
+  "mirror_revision": "b98724026e844e1fccd879c95e9f09f03c56e6f8",
+  "source_index_date_not_refreshed": true,
+  "selected_scene_lookups": [
+    {
+      "sample_id": "mexico-earthquake_00000081",
+      "derived_uid": "derived-taco-07075a2389acc0debf86a5ea54dccf18831d750e33120b7da26959358a8d0a4b",
+      "source_index_original_label_matches": [],
+      "original_json_object_identity_verified": false
+    },
+    {
+      "sample_id": "mexico-earthquake_00000145",
+      "derived_uid": "derived-taco-aaa5c1f8d5a169b7da8b156eceeb3d9b9fb7276f46f96e1280999c24412da9b5",
+      "source_index_original_label_matches": [],
+      "original_json_object_identity_verified": false
+    },
+    {
+      "sample_id": "mexico-earthquake_00000162",
+      "derived_uid": "derived-taco-d0dc28bc83cc28cec50371dc2d51759debe69ac34c8b93acb11471e59ae74434",
+      "source_index_original_label_matches": [],
+      "original_json_object_identity_verified": false
+    }
+  ],
+  "network_bytes": 0,
+  "new_label_payloads_read": 0,
+  "interpretation": "No exact original label files in this already-cached mirror index. Absence here does not mean the original xBD labels do not exist; TACO derived references retained unchanged."
+}

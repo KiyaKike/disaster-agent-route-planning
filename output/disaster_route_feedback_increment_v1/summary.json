@@ -1,0 +1,175 @@
+{
+  "primary_cell": "route|y_tp|event",
+  "primary": {
+    "states": 169,
+    "rows": 2217,
+    "chips": 36
+  },
+  "primary_pooled": {
+    "prior": {
+      "n": 2217,
+      "positives": 78,
+      "auroc": 0.4997123026576042,
+      "average_precision": 0.034299378000709146,
+      "log_loss": 0.2268584069079414,
+      "brier": 0.04315223515886599
+    },
+    "prior_feedback": {
+      "n": 2217,
+      "positives": 78,
+      "auroc": 0.3301626688723463,
+      "average_precision": 0.025444689981455663,
+      "log_loss": 0.31820707621134414,
+      "brier": 0.0423608044751134
+    },
+    "prior_permuted_feedback": {
+      "n": 2217,
+      "positives": 78,
+      "auroc": 0.5013186128193141,
+      "average_precision": 0.03724354125817133,
+      "log_loss": 0.23630745853452179,
+      "brier": 0.03902288737583973
+    },
+    "post_utility_unfitted": {
+      "n": 2217,
+      "positives": 78,
+      "auroc": 0.6869882883206866,
+      "average_precision": 0.08718069757791969,
+      "log_loss": 0.8363272878130854,
+      "brier": 0.2800305104495565
+    },
+    "neighbor_rule_unfitted": {
+      "n": 2217,
+      "positives": 78,
+      "auroc": 0.7048015487706932,
+      "average_precision": 0.11379174311055668,
+      "log_loss": 0.7138770597879827,
+      "brier": 0.23748102543581584
+    }
+  },
+  "primary_next_pick": {
+    "prior": {
+      "opportunity_states": 42,
+      "hits": 18,
+      "rate": 0.42857142857142855
+    },
+    "prior_feedback": {
+      "opportunity_states": 42,
+      "hits": 18,
+      "rate": 0.42857142857142855
+    },
+    "prior_permuted_feedback": {
+      "opportunity_states": 42,
+      "hits": 18,
+      "rate": 0.42857142857142855
+    },
+    "post_utility_unfitted": {
+      "opportunity_states": 42,
+      "hits": 17,
+      "rate": 0.40476190476190477
+    },
+    "neighbor_rule_unfitted": {
+      "opportunity_states": 42,
+      "hits": 14,
+      "rate": 0.3333333333333333
+    }
+  },
+  "primary_deltas": {
+    "prior_feedback": {
+      "baseline": "prior",
+      "point": {
+        "auroc": -0.1695496337852579,
+        "average_precision": -0.008854688019253484,
+        "log_loss": 0.09134866930340274
+      },
+      "bootstrap": {
+        "auroc": {
+          "ci95": [
+            -0.3089759838738497,
+            -0.008489954855119247
+          ],
+          "valid_reps": 2000
+        },
+        "average_precision": {
+          "ci95": [
+            -0.029072831205409495,
+            0.002119322259602757
+          ],
+          "valid_reps": 2000
+        },
+        "log_loss": {
+          "ci95": [
+            -0.0025219889579268843,
+            0.25381958733704646
+          ],
+          "valid_reps": 2000
+        }
+      }
+    },
+    "prior_permuted_feedback": {
+      "baseline": "prior",
+      "point": {
+        "auroc": 0.001606310161709923,
+        "average_precision": 0.002944163257462183,
+        "log_loss": 0.009449051626580385
+      },
+      "bootstrap": {
+        "auroc": {
+          "ci95": [
+            -0.0934106256289635,
+            0.08533653714314243
+          ],
+          "valid_reps": 2000
+        },
+        "average_precision": {
+          "ci95": [
+            -0.004055563808339498,
+            0.04038871316871301
+          ],
+          "valid_reps": 2000
+        },
+        "log_loss": {
+          "ci95": [
+            -0.02188316723410192,
+            0.043820493733506494
+          ],
+          "valid_reps": 2000
+        }
+      }
+    },
+    "neighbor_rule_unfitted": {
+      "baseline": "post_utility_unfitted",
+      "point": {
+        "auroc": 0.01781326045000664,
+        "average_precision": 0.02661104553263699,
+        "log_loss": -0.12245022802510275
+      },
+      "bootstrap": {
+        "auroc": {
+          "ci95": [
+            -0.12393612280637978,
+            0.09931435086966833
+          ],
+          "valid_reps": 2000
+        },
+        "average_precision": {
+          "ci95": [
+            -0.013558086035646552,
+            0.08648474332473975
+          ],
+          "valid_reps": 2000
+        },
+        "log_loss": {
+          "ci95": [
+            -0.18869358056848967,
+            -0.06561447979657997
+          ],
+          "valid_reps": 2000
+        }
+      }
+    }
+  },
+  "decision": "NOT_ESTABLISHED",
+  "elapsed_seconds": 402.2905957910043,
+  "scope": "Development diagnostic on already-used36;not validation,not a routing gain,not a new method."
+}

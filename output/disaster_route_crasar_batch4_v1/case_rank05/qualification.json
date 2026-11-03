@@ -1,0 +1,78 @@
+{
+  "region": "1001-Kennedy-Green-Mobile-Homes.geo.tif",
+  "capture_dates_author_catalog": {
+    "uas": "2022-10-01",
+    "pre": "2021-05-07",
+    "post": "2022-09-30"
+  },
+  "temporal_scope": "Published PRE/POST roles; UAS minus POST satellite gap1days. Dates are author metadata,not flight logs.",
+  "roi_area_m2": 16384,
+  "rgb_nonzero_support_fraction": {
+    "pre": 1.0,
+    "post": 1.0,
+    "uas": 1.0
+  },
+  "shared_ids_all": 1041,
+  "centroids_inside": 23,
+  "geometry_eligible": 21,
+  "private_eligible_label_histograms": {
+    "pre": {
+      "no damage": 20,
+      "obscured": 1
+    },
+    "post": {
+      "minor damage": 10,
+      "no damage": 6,
+      "major damage": 4,
+      "un-classified": 1
+    },
+    "uas": {
+      "minor damage": 9,
+      "no damage": 5,
+      "major damage": 6,
+      "un-classified": 1
+    }
+  },
+  "eligible_primary_targets": 6,
+  "internal_coordinate_checks": {
+    "pre": {
+      "median_vertex_residual_native_px": 0.8062862523199179,
+      "max_vertex_residual_native_px": 1.3964023582703835,
+      "scope": "Internal polygon-coordinate consistency only, not image registration or survey accuracy"
+    },
+    "post": {
+      "median_vertex_residual_native_px": 0.8062862523199179,
+      "max_vertex_residual_native_px": 1.3964023582703835,
+      "scope": "Internal polygon-coordinate consistency only, not image registration or survey accuracy"
+    },
+    "uas": {
+      "median_vertex_residual_native_px": 0.7961885830480491,
+      "max_vertex_residual_native_px": 1.3955121994253727,
+      "scope": "Internal polygon-coordinate consistency only, not image registration or survey accuracy"
+    }
+  },
+  "image_feature_diagnostics": {
+    "pre_to_uas": {
+      "status": "INSUFFICIENT_CONSENSUS",
+      "matches": 6,
+      "largest_translation_consensus": 2,
+      "independent_absolute_accuracy": false
+    },
+    "post_to_uas": {
+      "status": "DIAGNOSTIC_ONLY",
+      "matches": 11,
+      "translation_consensus": 4,
+      "median_translation_m": [
+        -1.513871192932129,
+        -4.268899917602539
+      ],
+      "median_direct_residual_m": 4.499575689736593,
+      "independent_absolute_accuracy": false
+    }
+  },
+  "task_gate": "REGISTRATION_AND_SENSOR_REVIEW_REQUIRED",
+  "flight_execution_gate": "NOT_ESTABLISHED:no trajectory,pose,altitude,camera footprint,measured service/energy cost",
+  "new_model_calls": 0,
+  "method_gain_established": false,
+  "protocol_sha256": "14c262f44c8a0cfc623274bf6031a88b03d107af8ee1f4732e6732d9c9d3846e"
+}

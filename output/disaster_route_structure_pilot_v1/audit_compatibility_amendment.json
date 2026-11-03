@@ -1,0 +1,13 @@
+{
+  "boundary_points_independently_checked": 195,
+  "boundary_tolerance_m": 0.01,
+  "correction": "Use 2D scalar determinant and explicit1cm boundary distance tolerance for ENU chord approximation; no changes to positions,costs,actions or scores.",
+  "frozen_runner_sha256": "481361ec22c38cddaaf12dd429a1c9f5c82bfcbac1cfe546316f34d25334c72a",
+  "maximum_chord_excursion_m": 0.0032769526601670166,
+  "metrics_sha256_before": "398167c9645635cfbfd3b9842d72da44bc92fe32bd10ccce9fd2fae2254127e9",
+  "reason": "Installed NumPy removed 2-dimensional np.cross. Direct ENU audit also found the bottom-middle depot 1.7-3.3mm outside the straight corner chord because the projected pixel boundary is curved.",
+  "resumed_auditor_sha256": "17a5c896bb892ba4e512bee0c0bcf1a4127d70303b732ed0531f3da5281001fe",
+  "routes_sha256_before": "58623977e9bd5968ecef42640005dc96abadbdd02d4a326bea6fc58102a675a5",
+  "scope": "Audit only; frozen core,source protocol and route/metric outputs unchanged.",
+  "scope_limitation": "This amends the idealized convex-boundary assertion by1cm only, not field geolocation accuracy or actual flight clearance."
+}

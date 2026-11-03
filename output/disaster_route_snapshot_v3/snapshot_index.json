@@ -1,0 +1,4862 @@
+[
+  {
+    "checkpoint": 5,
+    "mode": "aligned",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102800,
+    "snapshot_id": "985902f37d9e8ede9e2bf8f670454bce3d97fa7ba351001795b729f5bb51d965",
+    "world_id": "口岸/aligned/2026102800"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "aligned",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102800,
+    "snapshot_id": "e0862803bdf8fcb35a41887b731d7b450c45c77c872107235486ac4bdf210568",
+    "world_id": "口岸/aligned/2026102800"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "aligned",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102800,
+    "snapshot_id": "590b68431f479b8146438b007702f623546ba163633346ee3ede0308c9020432",
+    "world_id": "口岸/aligned/2026102800"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "aligned",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102800,
+    "snapshot_id": "530353220c8b2e3bb1cc6a6f20e0a45ddb8f8d53bc13ecb295b026e59e535c14",
+    "world_id": "口岸/aligned/2026102800"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "aligned",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102800,
+    "snapshot_id": "fab7f823311b23a2c8c86fbe6e896f60df96256b1dfc324293bc62fec8747e0b",
+    "world_id": "口岸/aligned/2026102800"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "aligned",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102800,
+    "snapshot_id": "81829d47c95e6e85b2c94261cef74a22573469719cad880a6368b7af279edf18",
+    "world_id": "口岸/aligned/2026102800"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "aligned",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102800,
+    "snapshot_id": "dfb72585c3ed68d2335555c49a35de3e90983a0ccb731627fc26f51858f6ff2b",
+    "world_id": "口岸/aligned/2026102800"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "aligned",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102800,
+    "snapshot_id": "bf3d7fd163936f0fc485363afae4c2ccc8e8dee3e3fc18de3d35b1ab33be970a",
+    "world_id": "口岸/aligned/2026102800"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "aligned",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102800,
+    "snapshot_id": "fa2dee90ce2d396691e92709ad4b8767bb6cbf50ff38953432d30a38eede5266",
+    "world_id": "口岸/aligned/2026102800"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "aligned",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102801,
+    "snapshot_id": "b676a7d23f3565c1871854c8733764cbb5bb2560bd12d341d9aa1dedf1469e8d",
+    "world_id": "口岸/aligned/2026102801"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "aligned",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102801,
+    "snapshot_id": "2486d501f6b590fdee366388b53fe8d70dfce1ce5d39abab66bdbcbe45f69a22",
+    "world_id": "口岸/aligned/2026102801"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "aligned",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102801,
+    "snapshot_id": "98761909c40e3b7284dc9a9726bc0d30e9c8236532d91aaa874ac15aadd6f884",
+    "world_id": "口岸/aligned/2026102801"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "aligned",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102801,
+    "snapshot_id": "1c88c606480a27a83b4e1c41f3243b04aff42de996bc9f0c40590d52a7dc6782",
+    "world_id": "口岸/aligned/2026102801"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "aligned",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102801,
+    "snapshot_id": "8a929a2a33ca0e90038bc606c85b860ab00eb3aa8f35fd72513c9adc2af6d2c1",
+    "world_id": "口岸/aligned/2026102801"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "aligned",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102801,
+    "snapshot_id": "3a51578fbebe7def11272a68749552b841ca61f9e418f8e8f36f678c69735076",
+    "world_id": "口岸/aligned/2026102801"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "aligned",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102801,
+    "snapshot_id": "5a7f257bb6fd431b070d5b2e7fa7b36ade6d9f84776a3a80386ef803d7d2d03e",
+    "world_id": "口岸/aligned/2026102801"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "aligned",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102801,
+    "snapshot_id": "31f889db0300d9d6e1d9745a00be77ac28ac77306ad5607eae8367b6720a30a5",
+    "world_id": "口岸/aligned/2026102801"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "aligned",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102801,
+    "snapshot_id": "7b3d25e148f7fbe8827cdbf585e41feea84d75725aa4a8ef0afbcfb407c53d53",
+    "world_id": "口岸/aligned/2026102801"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "aligned",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102802,
+    "snapshot_id": "eeb0d93f365e5891e21f5d2d03f179bca0232d16d61cf587b6c443668c939c46",
+    "world_id": "口岸/aligned/2026102802"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "aligned",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102802,
+    "snapshot_id": "6382dc03e1f26f8783e2ed1425654ceddf802f84589f1f588c9169a2ab56c433",
+    "world_id": "口岸/aligned/2026102802"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "aligned",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102802,
+    "snapshot_id": "0c2b28d58dee08fb305103d31e33d0abc551d166e1572dade01c70c291d52352",
+    "world_id": "口岸/aligned/2026102802"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "aligned",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102802,
+    "snapshot_id": "d2f9dc5138848eed1cd3c1cef2d9c70812cd38b329443ad779f481159d7362b0",
+    "world_id": "口岸/aligned/2026102802"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "aligned",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102802,
+    "snapshot_id": "fc7155f4d8cfa35ba298947d787bf39d41775631d2b5368211305eb80ca34681",
+    "world_id": "口岸/aligned/2026102802"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "aligned",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102802,
+    "snapshot_id": "1915b6d1cc655b1b77d24b5ed086b67a0d6188467bd3373b0ca13a96192525f4",
+    "world_id": "口岸/aligned/2026102802"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "aligned",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102802,
+    "snapshot_id": "9504a8d081ef87211cb2f21f13876537171bce9ef59f04e09a4c68918d7bad06",
+    "world_id": "口岸/aligned/2026102802"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "aligned",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102802,
+    "snapshot_id": "78881084bfd70f57e39bee3885688b5ac9ea5e8a32b888616dc5d476a5c846d8",
+    "world_id": "口岸/aligned/2026102802"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "aligned",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102802,
+    "snapshot_id": "dfec52251d8d0c967bb54ee60062db11cb688900c1ba7968b63e60f7aa7691a6",
+    "world_id": "口岸/aligned/2026102802"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "aligned",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102803,
+    "snapshot_id": "7378bb2bcc1d32ba4ac90f3129bf0c845874a86f1c7915bf6a90e86ca8003d6d",
+    "world_id": "口岸/aligned/2026102803"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "aligned",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102803,
+    "snapshot_id": "fc6b7865c6eea0f3d8efa9d8a547ebd1d43d373cb0af693c179205a2b4158fe9",
+    "world_id": "口岸/aligned/2026102803"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "aligned",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102803,
+    "snapshot_id": "07f55cf8c71aaecb2787020c245f5292bad659159bac9f17cd29bbda5c438d71",
+    "world_id": "口岸/aligned/2026102803"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "aligned",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102803,
+    "snapshot_id": "0e7fd87fb3cd4e0075c9a0e3f88743d14540f3b87a84e64d8e516e37e21b6df6",
+    "world_id": "口岸/aligned/2026102803"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "aligned",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102803,
+    "snapshot_id": "219c90d9905cbbe10b2a9cb13cb44e7a83f29372fabff408aaa632a89ff06104",
+    "world_id": "口岸/aligned/2026102803"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "aligned",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102803,
+    "snapshot_id": "2b312245dcdc992f97ba3242b75e32984d2485013ecee05686bd7d61cef1be9f",
+    "world_id": "口岸/aligned/2026102803"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "aligned",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102803,
+    "snapshot_id": "5a46aeb64381d0e99f304d89d2f4c9bac1861149cae10570986c77a0dc543f05",
+    "world_id": "口岸/aligned/2026102803"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "aligned",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102803,
+    "snapshot_id": "ed13e058f6f94eddb1c44447e69c653e5d95a254a3f0e3a51142784b3310a983",
+    "world_id": "口岸/aligned/2026102803"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "aligned",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102803,
+    "snapshot_id": "2a925794a49fc67f98ba0b14945a5a30ac906f5671f3dcb08f18d52a9eebb6c4",
+    "world_id": "口岸/aligned/2026102803"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "aligned",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102804,
+    "snapshot_id": "bd24c2e67bb6889cd49b8f908886ae5ada42da6379d0e2074d592af15efb64fa",
+    "world_id": "口岸/aligned/2026102804"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "aligned",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102804,
+    "snapshot_id": "29ba9addb525deb8808726bd46214195b257d159ffea8c8c1a2051bbab312a18",
+    "world_id": "口岸/aligned/2026102804"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "aligned",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102804,
+    "snapshot_id": "435be26f673d03e89b1c0e5d482601f3d024033ca35b6127a478f93c4fdc1a57",
+    "world_id": "口岸/aligned/2026102804"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "aligned",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102804,
+    "snapshot_id": "745cf2f2d17a692060925bd98bdcf818c9a8689e8647d3ed415fe14a62462cea",
+    "world_id": "口岸/aligned/2026102804"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "aligned",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102804,
+    "snapshot_id": "df5cd78c1be5077a899696ecab62139e3c3824c1dc1ac8641d2a91f68c4213d4",
+    "world_id": "口岸/aligned/2026102804"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "aligned",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102804,
+    "snapshot_id": "33b41f6915a7b72a004275b099f9bb6fc97961fc2c6f5b7c2d61abec6a40a203",
+    "world_id": "口岸/aligned/2026102804"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "aligned",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102804,
+    "snapshot_id": "e2fdeffc4eba1f3e438e598570fa2d259a35a8fe3d0ebeb7b34b68a0e228ff2c",
+    "world_id": "口岸/aligned/2026102804"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "aligned",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102804,
+    "snapshot_id": "1cf55e586a39fe10e40e46a02803704732a21cdbfd4141d26efe23b5e867844c",
+    "world_id": "口岸/aligned/2026102804"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "aligned",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102804,
+    "snapshot_id": "bfde75162a067f9dc097aaffdb761e4d40161fe87eca05db23b5298e5145f991",
+    "world_id": "口岸/aligned/2026102804"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "aligned",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102805,
+    "snapshot_id": "c417c93f3df0f14e1d800909411e94527e0286832c6f8f7a59e7d06b2b996d2e",
+    "world_id": "口岸/aligned/2026102805"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "aligned",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102805,
+    "snapshot_id": "df807ed44bf6a01c20877d4602350c8561b4f093a56441246ba34a70d5eb0dd6",
+    "world_id": "口岸/aligned/2026102805"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "aligned",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102805,
+    "snapshot_id": "daf2fb297a6e5004e7a7300cb81552744aab784fb61f0911dcb37e17848f78e4",
+    "world_id": "口岸/aligned/2026102805"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "aligned",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102805,
+    "snapshot_id": "2b38898c9841810f38b432eb958c40d88c5b51681cf0a12e44d682e055a26bc2",
+    "world_id": "口岸/aligned/2026102805"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "aligned",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102805,
+    "snapshot_id": "8b53898c567681cc59a4a567690d5dd6d82dd79208f6c64f92763bf55b7d3997",
+    "world_id": "口岸/aligned/2026102805"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "aligned",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102805,
+    "snapshot_id": "5b42b4b7c7ef3b6a9a54cdb5214030dbb810e45e669b3107796283e4583ee937",
+    "world_id": "口岸/aligned/2026102805"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "aligned",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102805,
+    "snapshot_id": "3451311d591362aea03a03b1c7b4f8648969f52a345c3f8b9514316d4507682d",
+    "world_id": "口岸/aligned/2026102805"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "aligned",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102805,
+    "snapshot_id": "a06088f3c509de2343d403688e38972489e122a0ac141d1815782c33c116109c",
+    "world_id": "口岸/aligned/2026102805"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "aligned",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102805,
+    "snapshot_id": "ea49ac6c5d31ff14e457855c4f3ce1e6df3afa0c57ed5350e2dd791aafa51b2e",
+    "world_id": "口岸/aligned/2026102805"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "aligned",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102806,
+    "snapshot_id": "0e90cdf97914ab3e1d5d8d73695dc4e4be783beeb9d6740d2b9fc91c3b1f8c25",
+    "world_id": "口岸/aligned/2026102806"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "aligned",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102806,
+    "snapshot_id": "bd68776f98f94c8a0a421158b70318e1d53977dc703c0948487b177b7868b6e9",
+    "world_id": "口岸/aligned/2026102806"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "aligned",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102806,
+    "snapshot_id": "ab4f8f83756a1417a849d4d1161a7f96a6520465a1b5245353af225e9cb96cb9",
+    "world_id": "口岸/aligned/2026102806"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "aligned",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102806,
+    "snapshot_id": "d05b4698ada1c36af198a2e9386bef385e1405951ac6ef3655ce03a91ecfc7d9",
+    "world_id": "口岸/aligned/2026102806"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "aligned",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102806,
+    "snapshot_id": "315411c5d3f67e5719164f06d4e2e5e6ed8af1c92add6681c0f72f4a4e0bb220",
+    "world_id": "口岸/aligned/2026102806"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "aligned",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102806,
+    "snapshot_id": "da8afceafd366b2e8f3cb3af996cabdf3e93d292f6c5de94222d98f450df56cb",
+    "world_id": "口岸/aligned/2026102806"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "aligned",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102806,
+    "snapshot_id": "5c4b2d7a63e5d12561b6b50eea16bb6746d4bb7a977854a766cfe18a52e97d86",
+    "world_id": "口岸/aligned/2026102806"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "aligned",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102806,
+    "snapshot_id": "c4ba0517e0d500fe67db0c201395a9500504181a0356520d220490700fca153f",
+    "world_id": "口岸/aligned/2026102806"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "aligned",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102806,
+    "snapshot_id": "9dce5ec1239a28b6c543c3d5a18097167e7984e123bb9a82e4fb10f68fbd9fc1",
+    "world_id": "口岸/aligned/2026102806"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "aligned",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102807,
+    "snapshot_id": "07dc1c91f953c31433c135f16d0af17ef9a6d9638b640d988ddb75c185f5923f",
+    "world_id": "口岸/aligned/2026102807"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "aligned",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102807,
+    "snapshot_id": "9c21c7e4de34468fbbca98295a37db62949bda7874e3414a6cb5987f291d2693",
+    "world_id": "口岸/aligned/2026102807"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "aligned",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102807,
+    "snapshot_id": "7e45e206072abf37aee64f99fcb000e107bf1a0edc22ec3e9f7a5ad158ef2d53",
+    "world_id": "口岸/aligned/2026102807"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "aligned",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102807,
+    "snapshot_id": "ef5aa30bd0297d16a42f8cb2fd97f723f1f3668849a5ccedc56b2a3d0aa07128",
+    "world_id": "口岸/aligned/2026102807"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "aligned",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102807,
+    "snapshot_id": "9729a5ae093c09a41d818958bff8c51ea9130c8a345cc5df3244b41d1e74873b",
+    "world_id": "口岸/aligned/2026102807"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "aligned",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102807,
+    "snapshot_id": "deea2b3bc8855c5ad4ef211f31033c29d525513e3bd23e88c489eac7f6c064c2",
+    "world_id": "口岸/aligned/2026102807"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "aligned",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102807,
+    "snapshot_id": "d8a752209458c335edb5b0c689afe16a15b09d60fa9ec7e09f00ede07ae37c7b",
+    "world_id": "口岸/aligned/2026102807"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "aligned",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102807,
+    "snapshot_id": "03341515eaa630324b61202b2a0fac489ec399871f727f6f2feb6a0eec0cdc92",
+    "world_id": "口岸/aligned/2026102807"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "aligned",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102807,
+    "snapshot_id": "e523868c5b5c5f529a682f65b6e8491f944caa7d14b761ffde33331dd39c2b24",
+    "world_id": "口岸/aligned/2026102807"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "aligned",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102808,
+    "snapshot_id": "5bd9b05693b27b5c74d4b58453cedbcd3ec5ff88cc59d704bc20ab67b188b74e",
+    "world_id": "口岸/aligned/2026102808"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "aligned",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102808,
+    "snapshot_id": "c93dbcdbe28ee41bbba6369cfff428366fc43b259bb08057f5d0da4df286c14f",
+    "world_id": "口岸/aligned/2026102808"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "aligned",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102808,
+    "snapshot_id": "5833826b92da0cff184ba4bb4c148fb84c5a137ef07b5e43ba63936fd365e054",
+    "world_id": "口岸/aligned/2026102808"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "aligned",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102808,
+    "snapshot_id": "df9b8fd514b122e5792a13994e7bac179315b764a256fd722dcdcbd20516c33a",
+    "world_id": "口岸/aligned/2026102808"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "aligned",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102808,
+    "snapshot_id": "ca5c2b458581e8ecb6d48ffe9010f55125ef5b4a8019db50e7969fc50bc2a58f",
+    "world_id": "口岸/aligned/2026102808"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "aligned",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102808,
+    "snapshot_id": "9ef538d157707293387c178d9154952f9c2ac782186f722de11291793ef527cf",
+    "world_id": "口岸/aligned/2026102808"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "aligned",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102808,
+    "snapshot_id": "37d7fedf63f4e5b4363e654d35241f37c5acc134bae17103e7203c9b57a782af",
+    "world_id": "口岸/aligned/2026102808"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "aligned",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102808,
+    "snapshot_id": "8138e8a63764765147a27166afaaea67f6d7fb213f465b47b767ab0335975da0",
+    "world_id": "口岸/aligned/2026102808"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "aligned",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102808,
+    "snapshot_id": "2bb89de1c47e01ebcbd6ff853c42b7005d62239f2df7ec5d8ecf534c35cab4a3",
+    "world_id": "口岸/aligned/2026102808"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "aligned",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102809,
+    "snapshot_id": "2a7a95f55eecf1d41a9b4ccb43cb695b13571683e6bd9e42b3b1d76c1c17886b",
+    "world_id": "口岸/aligned/2026102809"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "aligned",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102809,
+    "snapshot_id": "8c89ebbe3d70e21a0b68a2c697cb42c1372644a45eef0d45bfd3ba6c6d4bd6c5",
+    "world_id": "口岸/aligned/2026102809"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "aligned",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102809,
+    "snapshot_id": "bdfd93b7eadd5dec9b65c33b99d1eb531f6841cd230bb952947952fc01fb8860",
+    "world_id": "口岸/aligned/2026102809"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "aligned",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102809,
+    "snapshot_id": "0a39c3f63a4d256a16821f24bcf00958a69f6051dfc1ad6ee3ac4ec14a5ffb3d",
+    "world_id": "口岸/aligned/2026102809"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "aligned",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102809,
+    "snapshot_id": "4f89900f11dcf4f6ebf643792d3539398e39ad5d39d847fd212642b4e7b4d329",
+    "world_id": "口岸/aligned/2026102809"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "aligned",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102809,
+    "snapshot_id": "02230a4baae91562608eaaba997c7702b03d814adf11c5acbb08d61c98ad30b3",
+    "world_id": "口岸/aligned/2026102809"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "aligned",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102809,
+    "snapshot_id": "e1c19b83625516f1723d301c0a5f94165f655fbf812a12d32dabae8043c0c9b3",
+    "world_id": "口岸/aligned/2026102809"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "aligned",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102809,
+    "snapshot_id": "7f99804c005ec4bdf325b653804f237f824394fb7e8f275fb74421e1f2296119",
+    "world_id": "口岸/aligned/2026102809"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "aligned",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102809,
+    "snapshot_id": "9c9202c28cb49553b0694646a0508ac28ebc543d39399cb7ef440a472d5dd8e9",
+    "world_id": "口岸/aligned/2026102809"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "reversed",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102800,
+    "snapshot_id": "50f6193be7f2c2c5de3bd731544a77b12891bc25476a2d6a60d9996ca22b9cdf",
+    "world_id": "口岸/reversed/2026102800"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "reversed",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102800,
+    "snapshot_id": "23a21a839a2dcf852a71468e25babe9f57be054994182ec0971873e379388c2b",
+    "world_id": "口岸/reversed/2026102800"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "reversed",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102800,
+    "snapshot_id": "88071cf7611119d8e8b9e9aa1de772098da2b73d559a8906c97efeb63f695286",
+    "world_id": "口岸/reversed/2026102800"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "reversed",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102800,
+    "snapshot_id": "27c76ce21e26d5cc7a6b4b5e10430f7fb68bd2a7b70980f7112d832bd5bf8634",
+    "world_id": "口岸/reversed/2026102800"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "reversed",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102800,
+    "snapshot_id": "448d557de0883734c0f3987e87c01763cc5687104e6e6c524258859375b576c1",
+    "world_id": "口岸/reversed/2026102800"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "reversed",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102800,
+    "snapshot_id": "b5b2834f1fe701062b88107a636ecb5a58be56ca3761470fb5d11353ec0dc0dd",
+    "world_id": "口岸/reversed/2026102800"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "reversed",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102800,
+    "snapshot_id": "2984847acf017ca242bbe2e9bcde5a654ced2869041c658ec66030d362ec813f",
+    "world_id": "口岸/reversed/2026102800"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "reversed",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102800,
+    "snapshot_id": "767b11cd1bb49e042eb4023bb5751190ea5c912de3220913ab8b9b85806ffe4d",
+    "world_id": "口岸/reversed/2026102800"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "reversed",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102800,
+    "snapshot_id": "bd13fe996983e319b5f8a9e471142fa47a1295e72a25e9b0de6363234ebcec18",
+    "world_id": "口岸/reversed/2026102800"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "reversed",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102801,
+    "snapshot_id": "67f362cfe69e090ae63870b0684d70572d276a5ddc3664b099d2a6ec353367cf",
+    "world_id": "口岸/reversed/2026102801"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "reversed",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102801,
+    "snapshot_id": "d39c523b729e36e6b205ed8f2e2852c44cc60666ec0a0a997d19fe75de39d3c9",
+    "world_id": "口岸/reversed/2026102801"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "reversed",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102801,
+    "snapshot_id": "72fc3ae6a1684c53a93bc5bdf7cfa1f7a430145ebeb95314552645825291666d",
+    "world_id": "口岸/reversed/2026102801"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "reversed",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102801,
+    "snapshot_id": "5a6ed35ce4465501850c3c8bce0f51dd12675f80cc7446366f82758163bc4d27",
+    "world_id": "口岸/reversed/2026102801"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "reversed",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102801,
+    "snapshot_id": "bcbe93974400d9a371ea71a520b45226348f3bb26feadee544329174bc582fae",
+    "world_id": "口岸/reversed/2026102801"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "reversed",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102801,
+    "snapshot_id": "10abfb113e7e9e5182f11752e1e0e132e0da894f3cab59e2d5f5ff25e010ebef",
+    "world_id": "口岸/reversed/2026102801"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "reversed",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102801,
+    "snapshot_id": "359ecab8684890568c50ac5bd2bc7f4b946ab0366aad77b0d4a7f2ac1d5e8981",
+    "world_id": "口岸/reversed/2026102801"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "reversed",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102801,
+    "snapshot_id": "d19ef02aab342365d1509596eb8f6a2bbd7da7c0399092479b0741f2b95b9b5a",
+    "world_id": "口岸/reversed/2026102801"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "reversed",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102801,
+    "snapshot_id": "3833bf6dac18977f4addcb2b3deed78658da7e2eb7eb1e4ae19a0ca8144993e7",
+    "world_id": "口岸/reversed/2026102801"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "reversed",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102802,
+    "snapshot_id": "b5f0d3ab73453fb1cb585a76f3a0e54143226db7c2171d426e3674a55ac62fee",
+    "world_id": "口岸/reversed/2026102802"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "reversed",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102802,
+    "snapshot_id": "a088432a14f998a8438ac3528ab721babe659e5869a5f1f075d725170527c9b5",
+    "world_id": "口岸/reversed/2026102802"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "reversed",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102802,
+    "snapshot_id": "7c7fbc37dfa1d824521c407b571a58340a173e25f6b09c09195ffc95e109f5f0",
+    "world_id": "口岸/reversed/2026102802"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "reversed",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102802,
+    "snapshot_id": "634c678a19b7a04a11fa87e14900fd7b731cf075649905b907d3e1ea98824e9d",
+    "world_id": "口岸/reversed/2026102802"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "reversed",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102802,
+    "snapshot_id": "40f4fb4d2f7082c1f3167b2faa11ab5167471a54bac35217a91b7feee4d8c94b",
+    "world_id": "口岸/reversed/2026102802"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "reversed",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102802,
+    "snapshot_id": "2e2f42167b065f713ff9010f9d2a9a6c4d13eb2d67fa9025ceb66c2fc05ca301",
+    "world_id": "口岸/reversed/2026102802"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "reversed",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102802,
+    "snapshot_id": "86a18a2d077c0e76ea8790bb8ed5370913cb87fc4cdaee846eaaeee0009c7e39",
+    "world_id": "口岸/reversed/2026102802"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "reversed",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102802,
+    "snapshot_id": "5eaf4a5a54a63e147f370b0da7e6142fadf6c78aad96b4dcf948f4d5228f8ef8",
+    "world_id": "口岸/reversed/2026102802"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "reversed",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102802,
+    "snapshot_id": "55b30b2513ca062aa10acfa2348aaabf6f72ff2d2717331763d2eed055b61972",
+    "world_id": "口岸/reversed/2026102802"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "reversed",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102803,
+    "snapshot_id": "9de1b958daa1a2b3ba36c7b4d84f8f75a9def187f480392c29d9f9d6e1ab6fca",
+    "world_id": "口岸/reversed/2026102803"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "reversed",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102803,
+    "snapshot_id": "7187bd0f1aa16aaecf4449bac655a2369239391219122e87b629e41433753740",
+    "world_id": "口岸/reversed/2026102803"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "reversed",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102803,
+    "snapshot_id": "e67fa4d5057a2ac78f474c960bafa576bdbe81479168798efd56da759d8bd5ce",
+    "world_id": "口岸/reversed/2026102803"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "reversed",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102803,
+    "snapshot_id": "cd7f2b963aba7c8d1ad00fd56d7e4ec8725fde0a8cc619c5b0bbe5280abbea63",
+    "world_id": "口岸/reversed/2026102803"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "reversed",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102803,
+    "snapshot_id": "15fed32a0f89a4adb56d9be6a79859b66107d55e1e649e09126b58c55c8de620",
+    "world_id": "口岸/reversed/2026102803"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "reversed",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102803,
+    "snapshot_id": "569c957eea04acfcda8acca891a70005aab59543b40ecadcb671ba7c29476ad7",
+    "world_id": "口岸/reversed/2026102803"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "reversed",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102803,
+    "snapshot_id": "c89c148c720173c328079cc53005dc0c7f0757c5070813c32bf63f73bfa61a1e",
+    "world_id": "口岸/reversed/2026102803"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "reversed",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102803,
+    "snapshot_id": "8c222dd97e1216d4d3f175f750e847583bbe80cddd80384beb6a5180af181c9c",
+    "world_id": "口岸/reversed/2026102803"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "reversed",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102803,
+    "snapshot_id": "085ef75e701569e072afb6ca4b0371a6ff2751b2d4f0b18ac0dd7d093010ad72",
+    "world_id": "口岸/reversed/2026102803"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "reversed",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102804,
+    "snapshot_id": "046614e62be6081b056bac13ccaae7fe8ff7bcca906e359b39a7c277ee613e6b",
+    "world_id": "口岸/reversed/2026102804"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "reversed",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102804,
+    "snapshot_id": "955a1de9fb53f01d96257d94e16e43965a3fa2319462165b622d06f334f592ff",
+    "world_id": "口岸/reversed/2026102804"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "reversed",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102804,
+    "snapshot_id": "8277f6b465816edd8390b48e8df347ffe9a86fd33fa3322074c87e40093720c9",
+    "world_id": "口岸/reversed/2026102804"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "reversed",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102804,
+    "snapshot_id": "3adc5fa6a462e1372ca08b12e4beadf9528fe796568d3dc3938be11ecc314c01",
+    "world_id": "口岸/reversed/2026102804"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "reversed",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102804,
+    "snapshot_id": "361f42462d0e147d77e5d94d1b19b7e9af285c573d99055fd8764846205179ab",
+    "world_id": "口岸/reversed/2026102804"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "reversed",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102804,
+    "snapshot_id": "4e8a81bf6c31a73ca81fe97d68bbd01bddcca65b55ae531151ac0f528a85cd55",
+    "world_id": "口岸/reversed/2026102804"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "reversed",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102804,
+    "snapshot_id": "7ebfd483a21bde03d4e1ce25e80800363c1940208379bd449a5044b4fc2d549d",
+    "world_id": "口岸/reversed/2026102804"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "reversed",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102804,
+    "snapshot_id": "3f0d7f8f77497419d1389d936f584e14b7052982a9e24e81387907f3e41e4aaa",
+    "world_id": "口岸/reversed/2026102804"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "reversed",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102804,
+    "snapshot_id": "b24a24d0633e7b4206a0c98f32625651575d66bf9632b0a983b1aeb01172b809",
+    "world_id": "口岸/reversed/2026102804"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "reversed",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102805,
+    "snapshot_id": "a594a389e3bd490e1b49d7256953767a7d205aaa295539d39cd0658475430714",
+    "world_id": "口岸/reversed/2026102805"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "reversed",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102805,
+    "snapshot_id": "d79c55857a42497881c98d1ef855da83a9de218579f0a6fee0fb2bea64fab276",
+    "world_id": "口岸/reversed/2026102805"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "reversed",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102805,
+    "snapshot_id": "43e6d70202d22fb9dc38d473722f04ede0d81c642ae463b40905a9c9f2938f55",
+    "world_id": "口岸/reversed/2026102805"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "reversed",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102805,
+    "snapshot_id": "e263d947dcecf654331dc28b8674566bb24c5e5604f42ee52a50c6eaaf35e70c",
+    "world_id": "口岸/reversed/2026102805"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "reversed",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102805,
+    "snapshot_id": "d0d36a81880b1680775a0191fa0b1e732bdaaa1eb9039b1439361fdded2dd51a",
+    "world_id": "口岸/reversed/2026102805"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "reversed",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102805,
+    "snapshot_id": "924e5dc87af2ee76630263a6c2a610b9dcc7ed7bbaa46e2d522a5fd5abf530c4",
+    "world_id": "口岸/reversed/2026102805"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "reversed",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102805,
+    "snapshot_id": "13a993b74b8097c89f321917b9374c3373328946a18afcb2b45cb6532a959b49",
+    "world_id": "口岸/reversed/2026102805"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "reversed",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102805,
+    "snapshot_id": "3066545c727170eb0a11fc18085d4af40dc0fba86f7bb6735e9856a63b9ae37c",
+    "world_id": "口岸/reversed/2026102805"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "reversed",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102805,
+    "snapshot_id": "c3b8e95d34b9fb00097874289b827ddd2f22031b9006dba14c286f9ba9c54856",
+    "world_id": "口岸/reversed/2026102805"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "reversed",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102806,
+    "snapshot_id": "490dc92f62630d67cc776b35d29a45698945769ab055a6e6b7d3e096b073ed2c",
+    "world_id": "口岸/reversed/2026102806"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "reversed",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102806,
+    "snapshot_id": "99cf56c137b5b6d04651b8e5f4b4d71f1c1a8a3fb36b5f1e070f1ac52a849523",
+    "world_id": "口岸/reversed/2026102806"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "reversed",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102806,
+    "snapshot_id": "1fd094876ac83778015a20ef4104fe42d2453cf8a42680f911e98a9f94350996",
+    "world_id": "口岸/reversed/2026102806"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "reversed",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102806,
+    "snapshot_id": "126548fb210c888c5121974fa6fe7f50e5a16ac6b49a966f9758b8d23b1f5bdf",
+    "world_id": "口岸/reversed/2026102806"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "reversed",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102806,
+    "snapshot_id": "d0f285a2f82a8b82afaaa0f7363a244b4771be6e93fd842a1fe842c3b959e78d",
+    "world_id": "口岸/reversed/2026102806"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "reversed",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102806,
+    "snapshot_id": "27a721a9e19d4d0b5fa9b8c0f01bf03692e7dc3826f25abd6f3da421d57a7793",
+    "world_id": "口岸/reversed/2026102806"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "reversed",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102806,
+    "snapshot_id": "e59016ee3943f176b3ec3f62d614d594e4fb82ee4e0fc678b44e8da1112d67cb",
+    "world_id": "口岸/reversed/2026102806"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "reversed",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102806,
+    "snapshot_id": "ac624b22b289c137f318ab384e84f349bbb4ddf77c6e24088737f3c43e0ede96",
+    "world_id": "口岸/reversed/2026102806"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "reversed",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102806,
+    "snapshot_id": "3ef17d97af8e80262526a5e502abf2d4e1cef4f209e7f2b6154695dd9a1a3066",
+    "world_id": "口岸/reversed/2026102806"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "reversed",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102807,
+    "snapshot_id": "59cac2856b4adf1b02b53bccaa4c0268e74c31b41f3d70a6e3151003b69700c7",
+    "world_id": "口岸/reversed/2026102807"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "reversed",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102807,
+    "snapshot_id": "169cdfdc6990339942901df98fe2af6a53c1ca0e7fc2a57d21fda99d5defd9f2",
+    "world_id": "口岸/reversed/2026102807"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "reversed",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102807,
+    "snapshot_id": "a0883fbf2d099313389d2d7b998e021d8424c92e0fe6a137e4b489ee53bc3601",
+    "world_id": "口岸/reversed/2026102807"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "reversed",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102807,
+    "snapshot_id": "b04846022ca64ef3ca06b92d47ac686de077f04e95c7be73410b0159e1e412ed",
+    "world_id": "口岸/reversed/2026102807"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "reversed",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102807,
+    "snapshot_id": "9e728c31c4a20088450fa1e1794c16786bf61d72053b4e1bd7f42ed7d9c7ef8d",
+    "world_id": "口岸/reversed/2026102807"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "reversed",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102807,
+    "snapshot_id": "3302b6ab53225e069b0242cb169141ceda76a17d7fefbe817036dadf2db05dfa",
+    "world_id": "口岸/reversed/2026102807"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "reversed",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102807,
+    "snapshot_id": "6e9aa54ca9ebb3423292c71ca20fff4cfc5ca6a3e80c0fc77e1d2fbb14e5784b",
+    "world_id": "口岸/reversed/2026102807"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "reversed",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102807,
+    "snapshot_id": "4db4292305eef963d4d74fafd1d3b305118689889cebc007ae264b0a46fd048a",
+    "world_id": "口岸/reversed/2026102807"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "reversed",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102807,
+    "snapshot_id": "a36703fff8eaf77fd60910e937fbc7e67052d15f4d5e648f10e7d415c26345cd",
+    "world_id": "口岸/reversed/2026102807"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "reversed",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102808,
+    "snapshot_id": "017d29b995b2d03d578beee7c69a5fd99de34ce690523758f9d5c4efd08e4146",
+    "world_id": "口岸/reversed/2026102808"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "reversed",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102808,
+    "snapshot_id": "12182abfae0f4686db07220464c7d2899e2c09dee6b8ac71caf9df84088b153f",
+    "world_id": "口岸/reversed/2026102808"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "reversed",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102808,
+    "snapshot_id": "aa41c0688ce0d6cb0fa2c8b0e4e12bf4094357b7d9f40c17056d89849ea3475f",
+    "world_id": "口岸/reversed/2026102808"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "reversed",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102808,
+    "snapshot_id": "3b8d11b21d3b153562eecd42143d542f260b3f2dff642d93d0079aa979ff8eb4",
+    "world_id": "口岸/reversed/2026102808"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "reversed",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102808,
+    "snapshot_id": "5cf0e8fa623de648cdc6cd458beee295ec8034d7e2e0c0e3f53399a5bfd9630e",
+    "world_id": "口岸/reversed/2026102808"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "reversed",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102808,
+    "snapshot_id": "36bca4585e28a4813bc08eee293dabcf3092749ff27bc185e1768933e5130252",
+    "world_id": "口岸/reversed/2026102808"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "reversed",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102808,
+    "snapshot_id": "54ca9c5054c822287a62eeefe17111a7cf96b4d75dec1cfa02ebbd3c1bf221b5",
+    "world_id": "口岸/reversed/2026102808"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "reversed",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102808,
+    "snapshot_id": "ac540bb686e21fab0091e4fb76eb25f578974a04bbeec3fdffef8698df7b9411",
+    "world_id": "口岸/reversed/2026102808"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "reversed",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102808,
+    "snapshot_id": "eadb21c81898c029a151acdf558595504f5d25623246082ecf3653f530efc747",
+    "world_id": "口岸/reversed/2026102808"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "reversed",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102809,
+    "snapshot_id": "80200559074e838e9916d4c10e9b1210f9da4ef3c164bcc16565d7b6e533f965",
+    "world_id": "口岸/reversed/2026102809"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "reversed",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102809,
+    "snapshot_id": "ebfbe31c4ba25a12f1290f9dfe489c262e508934e7c96abc9637d70dda68ffff",
+    "world_id": "口岸/reversed/2026102809"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "reversed",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102809,
+    "snapshot_id": "5772473c2682f30a48593c63220c405162708d74804ac87f363504507ab46b52",
+    "world_id": "口岸/reversed/2026102809"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "reversed",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102809,
+    "snapshot_id": "7ce17e9ec3e4449889e0c8655cdd67d2bcb8b033f60ae0cfe09442b221a75859",
+    "world_id": "口岸/reversed/2026102809"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "reversed",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102809,
+    "snapshot_id": "8f705d9e3cb54c6a5a6e2d0735e42bf78ef905f43fad11b9b9c575f2c619bae2",
+    "world_id": "口岸/reversed/2026102809"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "reversed",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102809,
+    "snapshot_id": "3a7fce15ad8c69d29909dcbfb6b41fb66c02f143b02274391b738e8ba90ca591",
+    "world_id": "口岸/reversed/2026102809"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "reversed",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102809,
+    "snapshot_id": "76d031be506bcdd0af565183abc8c0c2c047a8a7b947adf2eeb887799543f8c4",
+    "world_id": "口岸/reversed/2026102809"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "reversed",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102809,
+    "snapshot_id": "b89e216de0123d2fb6da1a74f8d5f70a5eb1859635f097b60a4b664943e78e08",
+    "world_id": "口岸/reversed/2026102809"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "reversed",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102809,
+    "snapshot_id": "7f1384c5fd7c19e631f53fe4ec9c522c515889f818bf75498e76ef8bc2be673d",
+    "world_id": "口岸/reversed/2026102809"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "independent",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102800,
+    "snapshot_id": "f37c061134ed590af19f071010946f77acf84fd87d61484aaff7d271d621a0fb",
+    "world_id": "口岸/independent/2026102800"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "independent",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102800,
+    "snapshot_id": "24495c2ee11a4b0fb2f69c31963bde1c3e88f851b9eed07fc3d230b0217ca502",
+    "world_id": "口岸/independent/2026102800"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "independent",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102800,
+    "snapshot_id": "d64ef27f93c044826683ebc8fb38d78246c0ef190a11c6ec5ccd65bee92cdcc2",
+    "world_id": "口岸/independent/2026102800"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "independent",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102800,
+    "snapshot_id": "0d423745ccb1c8166cdcff5870676b95b8bf70cf6d5c85f006f0f193c007e447",
+    "world_id": "口岸/independent/2026102800"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "independent",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102800,
+    "snapshot_id": "599b23217afe0eb5f2e85a5fd77cd94d30e992280d07bfa26a600e4183d7f499",
+    "world_id": "口岸/independent/2026102800"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "independent",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102800,
+    "snapshot_id": "f4bacc8455a634c05bcebd440e9c94baaa34d220516023bdde57d3975f22541b",
+    "world_id": "口岸/independent/2026102800"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "independent",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102800,
+    "snapshot_id": "0f3e21399b4925b1d1b7a8b3c19d63ee5c72a0a106e7137ee71bb66ab85e8872",
+    "world_id": "口岸/independent/2026102800"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "independent",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102800,
+    "snapshot_id": "c574088f36bf706042a33c2ba578e5341a07658928e9ed4efda0c36d490766e7",
+    "world_id": "口岸/independent/2026102800"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "independent",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102800,
+    "snapshot_id": "6617d6a9ff237d9b14d2269d53a96465db8f4acd30dd61f97c62753a307ab4be",
+    "world_id": "口岸/independent/2026102800"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "independent",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102801,
+    "snapshot_id": "f70820fbc5600ee766eb9f93984fe980d713e7899af0b7ae7d3d98483181bc09",
+    "world_id": "口岸/independent/2026102801"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "independent",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102801,
+    "snapshot_id": "ce68bec5536366508de4cf23f979fa8ab0d6dc03b5b0a1dfc7d9516b8928eff7",
+    "world_id": "口岸/independent/2026102801"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "independent",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102801,
+    "snapshot_id": "d92cac2406245d56d8085cf050e8855e231c8478dc9ed60917f96cf908374293",
+    "world_id": "口岸/independent/2026102801"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "independent",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102801,
+    "snapshot_id": "ab1afcf25d5c4e1a2c3a7d3470a0d6e53bb831c642b86f516d2e00440bc61210",
+    "world_id": "口岸/independent/2026102801"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "independent",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102801,
+    "snapshot_id": "9bb18587d3a053d4dc4318db354f6c5374831e5f8215e10cbf66f442fc998817",
+    "world_id": "口岸/independent/2026102801"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "independent",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102801,
+    "snapshot_id": "4bd2a2c2030d0b3fc8bdf7e25667a771b6de8380abd75b8445cba94301b355de",
+    "world_id": "口岸/independent/2026102801"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "independent",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102801,
+    "snapshot_id": "497a27e09aea75c0e55ad38a9372abed16c03b1c9e275752c905353bc5b401c4",
+    "world_id": "口岸/independent/2026102801"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "independent",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102801,
+    "snapshot_id": "eebb3a2b6634b9311ed97eef793ab116335da4c9a11f88b4d5b50ef83c1f9f39",
+    "world_id": "口岸/independent/2026102801"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "independent",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102801,
+    "snapshot_id": "bf5b58acb4b8a8723a53b78816fd75e38d499b4e46bd8306b5404a6e90dcfbfd",
+    "world_id": "口岸/independent/2026102801"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "independent",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102802,
+    "snapshot_id": "a17f1dacab46c92cbf6a1d606810f2bbbfb71b687dc6fb910943b7f68b59fee6",
+    "world_id": "口岸/independent/2026102802"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "independent",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102802,
+    "snapshot_id": "4081cfc44c5aa133396786189f69ad35879460444dd03a019148eccd35d9e569",
+    "world_id": "口岸/independent/2026102802"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "independent",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102802,
+    "snapshot_id": "d315b77dacb240e7162b34dc37b61d9d60cffe4f1520a2a19c61923946101cf4",
+    "world_id": "口岸/independent/2026102802"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "independent",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102802,
+    "snapshot_id": "e82827d9f5dc7638d9b65085fa9b81d2fbc67376042b423cf5dde1c56b7ad312",
+    "world_id": "口岸/independent/2026102802"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "independent",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102802,
+    "snapshot_id": "08140a92b029115bdb0d520fb3e92c40d4549e8cb23ba577e1d67278895bd6a1",
+    "world_id": "口岸/independent/2026102802"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "independent",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102802,
+    "snapshot_id": "6305a687b0364795f98fa41e31c2515e235b88755df0c938c6e0298f2ce9639a",
+    "world_id": "口岸/independent/2026102802"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "independent",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102802,
+    "snapshot_id": "62b5cd6e3a02beca3caa9459812c2d5965e666e59b80d9daafff33b1094a4259",
+    "world_id": "口岸/independent/2026102802"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "independent",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102802,
+    "snapshot_id": "5cfdf5041c050ea5e567dcbc9b7690ad254503ce3c3c459eff471ad02b1994eb",
+    "world_id": "口岸/independent/2026102802"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "independent",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102802,
+    "snapshot_id": "93c0e0dc5a3eda1493e9b7f019520bbca42b4b7af0a2aa4002da8d5e23699f9d",
+    "world_id": "口岸/independent/2026102802"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "independent",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102803,
+    "snapshot_id": "96a36b81fac02f736a7207a5a02a51f0b98e786699e098881dd6a518478a1d25",
+    "world_id": "口岸/independent/2026102803"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "independent",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102803,
+    "snapshot_id": "11c2364392ac4be6e9af981fabcd600ad14050752c73a8f5d8e9b8ddeda2d16a",
+    "world_id": "口岸/independent/2026102803"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "independent",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102803,
+    "snapshot_id": "e9732bb1f07e8c0de4cfb167c1b3440d5748c77397cc9bcbc0e072c180ad89eb",
+    "world_id": "口岸/independent/2026102803"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "independent",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102803,
+    "snapshot_id": "6ea62103dbf2fb6eaccc498e8a1cd714504fc5f857a33c44be1f1abc0920cc81",
+    "world_id": "口岸/independent/2026102803"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "independent",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102803,
+    "snapshot_id": "fb2d28541cbe1c758d18bd1cd29ed10d07b3694da5e457ecf204384ba313906a",
+    "world_id": "口岸/independent/2026102803"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "independent",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102803,
+    "snapshot_id": "bbcc86891de76c254f2517e6f3b282a0b82df10fe002cd330a6f191adb37dfd3",
+    "world_id": "口岸/independent/2026102803"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "independent",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102803,
+    "snapshot_id": "9c06b1b6aa144b362d3be0af22764a1056fd754b045b5df932d044e0755db594",
+    "world_id": "口岸/independent/2026102803"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "independent",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102803,
+    "snapshot_id": "526ff3b971f96ed39b1f2cacce4f4c421e616714245969c83e89240699089117",
+    "world_id": "口岸/independent/2026102803"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "independent",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102803,
+    "snapshot_id": "c497782fde20b3b8222747110272b6bd5593263967319aeb55c380e03e4860b8",
+    "world_id": "口岸/independent/2026102803"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "independent",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102804,
+    "snapshot_id": "2a933e531ad15ba58879a2b93c662e2c78511d5898c25689c3939b3c87146587",
+    "world_id": "口岸/independent/2026102804"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "independent",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102804,
+    "snapshot_id": "aae54e3ec70e1bc5cd85d3743bd989298cce9d0253f5710419a0a0328cc293e9",
+    "world_id": "口岸/independent/2026102804"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "independent",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102804,
+    "snapshot_id": "36103851ee320ff76b5c3b8ac2639b32ece0e61b1474e9d6da3b39ea9c4834a5",
+    "world_id": "口岸/independent/2026102804"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "independent",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102804,
+    "snapshot_id": "23a85ab90d5878f68a9804868cb689a5d7c872ae92719c9ed523ad100a75033d",
+    "world_id": "口岸/independent/2026102804"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "independent",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102804,
+    "snapshot_id": "22d0824d8019e4d2cd14cea5ce4fb8d69d89c981ea1de019440071b4f6ff488e",
+    "world_id": "口岸/independent/2026102804"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "independent",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102804,
+    "snapshot_id": "6ca9522d161a3a80b500face0882d7e3aff735c0e1d25f735ebe66a6c8398780",
+    "world_id": "口岸/independent/2026102804"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "independent",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102804,
+    "snapshot_id": "27eb97e81a5a4ec93e9cb5334302ee356997d4116a5af59275a948795d15f41e",
+    "world_id": "口岸/independent/2026102804"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "independent",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102804,
+    "snapshot_id": "1725c7765721df57c2dd714ea983d25110703aa76857b538d0004ee0845e0744",
+    "world_id": "口岸/independent/2026102804"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "independent",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102804,
+    "snapshot_id": "3660879fdc3e32dfb0927be70bcbae07766509fb725f8812b4a8151db948286f",
+    "world_id": "口岸/independent/2026102804"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "independent",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102805,
+    "snapshot_id": "cb03e5c1fddeb4d8b8bd9eecfd9b46f0171abc9de768a305b8cfbad9a188d1eb",
+    "world_id": "口岸/independent/2026102805"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "independent",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102805,
+    "snapshot_id": "6b8115a938895bb89525eafd80397a3feb39ad06218eb999df21cf051c9d72bf",
+    "world_id": "口岸/independent/2026102805"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "independent",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102805,
+    "snapshot_id": "349c71b8c8f54d801ae082b08b989b12a839d663875f4f3130b76a95b7863ef1",
+    "world_id": "口岸/independent/2026102805"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "independent",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102805,
+    "snapshot_id": "91c3245890d892e35eb869f6d90df51995b8bc1c8fa27e914561564637bb1c65",
+    "world_id": "口岸/independent/2026102805"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "independent",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102805,
+    "snapshot_id": "fe3fa40b059f308b196a72ec15cc77c1b34fbdafbc9a59ac5e069fd21e90e31e",
+    "world_id": "口岸/independent/2026102805"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "independent",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102805,
+    "snapshot_id": "46c2e269cccb6aa42c2ce5e15b1a7e5baeb453c2d85803fcbfcff74db0bb3556",
+    "world_id": "口岸/independent/2026102805"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "independent",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102805,
+    "snapshot_id": "ea2276df9c21893788edc00d39089e4e14f21dc277e2143b58196e2b81226841",
+    "world_id": "口岸/independent/2026102805"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "independent",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102805,
+    "snapshot_id": "863e18d796b610956ca0c654bb37c2b3bf36c63734e5655d1dc3589dc44ca5a0",
+    "world_id": "口岸/independent/2026102805"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "independent",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102805,
+    "snapshot_id": "dc5badf293d0b255ac6490e71d4c0c262d9ae47e65af4c9fed26fae69e773ed3",
+    "world_id": "口岸/independent/2026102805"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "independent",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102806,
+    "snapshot_id": "aa43f14af592a1bb5ef5af5bfa7a38b891398c1d00f8c9c09f06cb78e7672130",
+    "world_id": "口岸/independent/2026102806"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "independent",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102806,
+    "snapshot_id": "32ff6b55f8790159d1879eb0a4b4cb2e27631668da89578168c5d7aa34aa0e10",
+    "world_id": "口岸/independent/2026102806"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "independent",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102806,
+    "snapshot_id": "a1f37180f85d230fe0a3bddd6ea4744ef067678fb2247a5d824ef8220d00df2f",
+    "world_id": "口岸/independent/2026102806"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "independent",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102806,
+    "snapshot_id": "b3686f4577e68bbd8d81fbbd5bdd0ac81591985f27c2a5ac50e5cacf4db1aba3",
+    "world_id": "口岸/independent/2026102806"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "independent",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102806,
+    "snapshot_id": "8a833456040e3cef227a9892c5c1c5da2c1f934f26a9577dfe90ab83fa5bf38d",
+    "world_id": "口岸/independent/2026102806"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "independent",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102806,
+    "snapshot_id": "cbf6b13f34c74a043329e45fbea854be692cc1ba00147107b59eb4a135671e7e",
+    "world_id": "口岸/independent/2026102806"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "independent",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102806,
+    "snapshot_id": "00a131b1f750de23d000327a64a80b2a870fd9b156706bbe8e88746f0bc1b4ce",
+    "world_id": "口岸/independent/2026102806"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "independent",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102806,
+    "snapshot_id": "15a4d1144281235d9f9f2af32fbf952d0f858faa5e22cff1173fdd0ae985da9a",
+    "world_id": "口岸/independent/2026102806"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "independent",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102806,
+    "snapshot_id": "79130c13755a512f7b2ba622d89ce3becc8f52f12a2f08e1e45e23deda8c00e6",
+    "world_id": "口岸/independent/2026102806"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "independent",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102807,
+    "snapshot_id": "18a57f3dbc616846c6eb8366f604c769ff99b3546694105274c0c86552a254da",
+    "world_id": "口岸/independent/2026102807"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "independent",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102807,
+    "snapshot_id": "413bf7b0e593a9ccb98fd92d2c1a4b0b2b083796c3a924de9a8cf19d8f5e37ae",
+    "world_id": "口岸/independent/2026102807"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "independent",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102807,
+    "snapshot_id": "1cb0269a571aa09d25843d36af17a8eed20a0314377de470a8819ab85a4cabf6",
+    "world_id": "口岸/independent/2026102807"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "independent",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102807,
+    "snapshot_id": "672ba55ddb2232b684fb6287c18cb2183179a09a3987b40e691f427cd67e7770",
+    "world_id": "口岸/independent/2026102807"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "independent",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102807,
+    "snapshot_id": "68d0038388075b8061e4fe81f9562e4d9d09ccd7a453e95523ab5601e2175de5",
+    "world_id": "口岸/independent/2026102807"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "independent",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102807,
+    "snapshot_id": "1b1fcb10590475896d204431be02842cab512ba0fb5703c091de255036e611e7",
+    "world_id": "口岸/independent/2026102807"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "independent",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102807,
+    "snapshot_id": "b4da05ff5c24d96d3bed34f04bba4e37600a6b90aad8afe735c8c7f8a05767bc",
+    "world_id": "口岸/independent/2026102807"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "independent",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102807,
+    "snapshot_id": "6d7e4036b4f60539809f166bc66aad0c06a4470b2fb53ad3354424117b9bd46b",
+    "world_id": "口岸/independent/2026102807"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "independent",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102807,
+    "snapshot_id": "4abf44175921949639cf1b6ba6c3f7a110ced84120c5a1fa48998d9d721c94e4",
+    "world_id": "口岸/independent/2026102807"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "independent",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102808,
+    "snapshot_id": "37d33e3d3530c21f74707dafbf66aef2fcb7e3a07cd131cf285f5c04261112b9",
+    "world_id": "口岸/independent/2026102808"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "independent",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102808,
+    "snapshot_id": "a3e697d66fda98d529ac9c82dcaa2e49be4813a5a5e62a66830f648da122f64b",
+    "world_id": "口岸/independent/2026102808"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "independent",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102808,
+    "snapshot_id": "2adddb63bce8bb81879b86e65d455caff80ee118a9af9267fe45494374597a39",
+    "world_id": "口岸/independent/2026102808"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "independent",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102808,
+    "snapshot_id": "9595c940a92156eb3bef10d12dd97325d52345f000b6ce4c348335ec025fe1ac",
+    "world_id": "口岸/independent/2026102808"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "independent",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102808,
+    "snapshot_id": "598c3bc1a7e37ab7867e63f62f3d53c087efcd6847dcadecb16c61b546e8e312",
+    "world_id": "口岸/independent/2026102808"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "independent",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102808,
+    "snapshot_id": "3f8274d0f821732939e2422d4cafadfa23de61d445bd15632be5b6f25e72cd9b",
+    "world_id": "口岸/independent/2026102808"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "independent",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102808,
+    "snapshot_id": "762e58365191a76969a55c5f208309fc2b05019111833cb94194d9e445b82353",
+    "world_id": "口岸/independent/2026102808"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "independent",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102808,
+    "snapshot_id": "4abe67191f4ccbd42d71ccc3deb2c7033166c7ea4a154440165f0fa97c6cdadc",
+    "world_id": "口岸/independent/2026102808"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "independent",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102808,
+    "snapshot_id": "2bee3ea51f48c245fc9a87fe6099c05de95a118d183d88f5e7238704d4383c72",
+    "world_id": "口岸/independent/2026102808"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "independent",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102809,
+    "snapshot_id": "87818a70a863dd4f71f1fe1c047920a89adf72f4ad1927ad3dc2c81adc835694",
+    "world_id": "口岸/independent/2026102809"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "independent",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102809,
+    "snapshot_id": "15df71ff6cb693fc7ee86093a535db92b2533431a8eb4bed29e5b15e6581c232",
+    "world_id": "口岸/independent/2026102809"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "independent",
+    "noise": "perfect",
+    "region": "口岸",
+    "seed": 2026102809,
+    "snapshot_id": "490d2c83856f0191efb062258670e402e58991d18d563ff8d1604ae910f3379c",
+    "world_id": "口岸/independent/2026102809"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "independent",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102809,
+    "snapshot_id": "45378b5c8d8cef22eaea62b704ceac86a0c2f8bab84defcf08c435b0a25e771a",
+    "world_id": "口岸/independent/2026102809"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "independent",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102809,
+    "snapshot_id": "5bd45eeb776e8ed27f1d6e18a94b69800e0b874ef545d035a81424467c0fa240",
+    "world_id": "口岸/independent/2026102809"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "independent",
+    "noise": "moderate",
+    "region": "口岸",
+    "seed": 2026102809,
+    "snapshot_id": "5071c631e69fca28f9fa761a5a9f0ce710d7791995aa7c3068bf2374b8bfa4db",
+    "world_id": "口岸/independent/2026102809"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "independent",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102809,
+    "snapshot_id": "52df025e03484e8d0a298fe3ae68767bc026b226219ae2f18f3667f50aee4d21",
+    "world_id": "口岸/independent/2026102809"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "independent",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102809,
+    "snapshot_id": "945eda84c7819835f4500b4a6489fa34a8b1eaef1666db14cba6032950ab289d",
+    "world_id": "口岸/independent/2026102809"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "independent",
+    "noise": "poor",
+    "region": "口岸",
+    "seed": 2026102809,
+    "snapshot_id": "e17b73c0ea817e67585965dcbdbaa0861e4ec52a26a705aff66731adaf253f10",
+    "world_id": "口岸/independent/2026102809"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "aligned",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102800,
+    "snapshot_id": "018a7ecb960f5d15efb7613729bdf620bc761e17fa02862eac8006a98f38f062",
+    "world_id": "南侧建筑区/aligned/2026102800"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "aligned",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102800,
+    "snapshot_id": "4db19686ea3788deaf2d6d780f432941aa947864f60e0562418812f0d500b773",
+    "world_id": "南侧建筑区/aligned/2026102800"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "aligned",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102800,
+    "snapshot_id": "cd04cff7d31a9d4c5483575a37a5abfc13393113aa533b27e77ec7ae957a2fba",
+    "world_id": "南侧建筑区/aligned/2026102800"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "aligned",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102800,
+    "snapshot_id": "14f69ab09296f04bb60d1d6a8ab4f972a86576f8fdcf3e4608f65173553b28c6",
+    "world_id": "南侧建筑区/aligned/2026102800"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "aligned",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102800,
+    "snapshot_id": "19989e8c14eefce4837663f63beb47daa6ef8318e36ba018378f402900de54d7",
+    "world_id": "南侧建筑区/aligned/2026102800"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "aligned",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102800,
+    "snapshot_id": "1b87eb47544e526d8b7d69ec77a427e2e3b35ec9d0cedca59bde61cfd2138f79",
+    "world_id": "南侧建筑区/aligned/2026102800"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "aligned",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102800,
+    "snapshot_id": "a790cfec8798361e8e49f736aaa8c0125a701c94997d4c5e0650c61102d6b8f0",
+    "world_id": "南侧建筑区/aligned/2026102800"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "aligned",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102800,
+    "snapshot_id": "725c264547f04529c0913973b76039395be91e5fd40e09e87f1be165200127e4",
+    "world_id": "南侧建筑区/aligned/2026102800"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "aligned",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102800,
+    "snapshot_id": "00a6445efa3f53312598c09820bc28e46359f185c5e5a5e23dd1dbe286138e20",
+    "world_id": "南侧建筑区/aligned/2026102800"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "aligned",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102801,
+    "snapshot_id": "d4b0da4162a85bcf4ddc0b403bec17553b2ad04175380350345b809481b5057b",
+    "world_id": "南侧建筑区/aligned/2026102801"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "aligned",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102801,
+    "snapshot_id": "46896d9ddd365ddad92a81d68a532338577a7d3c7f1a1585e415584f9f85da27",
+    "world_id": "南侧建筑区/aligned/2026102801"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "aligned",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102801,
+    "snapshot_id": "031411ba2c87a11ece736f468deef8e2f8bdb98fa726a5c6bf64d3745e1bd6be",
+    "world_id": "南侧建筑区/aligned/2026102801"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "aligned",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102801,
+    "snapshot_id": "2b33e2d4d52aff5607d1a1d9db7876f0b2d2ae46d9dccab63d7198fc6252cea0",
+    "world_id": "南侧建筑区/aligned/2026102801"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "aligned",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102801,
+    "snapshot_id": "c774053218a7ced29a44416a61266618bdad601cda0d1a65676c8caee2ae6a39",
+    "world_id": "南侧建筑区/aligned/2026102801"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "aligned",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102801,
+    "snapshot_id": "cefff07f0d479753fb6742826ef9a18f56dab2e668a4061e6ff0e4acadc8c653",
+    "world_id": "南侧建筑区/aligned/2026102801"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "aligned",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102801,
+    "snapshot_id": "54a5ce7e42ede44781b255bc5b0568bad6ca3c0067f440ec4a1014f76fb12ffd",
+    "world_id": "南侧建筑区/aligned/2026102801"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "aligned",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102801,
+    "snapshot_id": "cacff852487d1b482628220d6f97859bfc982eda4f2e2cf014344b5b7f264a5e",
+    "world_id": "南侧建筑区/aligned/2026102801"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "aligned",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102801,
+    "snapshot_id": "51faf177aad1159c8665f61c1259de2ddcd77b4df30630a464b9ba9182087741",
+    "world_id": "南侧建筑区/aligned/2026102801"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "aligned",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102802,
+    "snapshot_id": "215599345fba10e9112f5e2b34e7227b26b799172aba5534096729ff8e31f07e",
+    "world_id": "南侧建筑区/aligned/2026102802"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "aligned",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102802,
+    "snapshot_id": "a54c4cd03cc2631b03040946e56ebde4795434a9125c938cdd9943789a5ea8ef",
+    "world_id": "南侧建筑区/aligned/2026102802"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "aligned",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102802,
+    "snapshot_id": "0d915c48813d997aa13f080c053e07fd01ec785d451b1afa2b532f8046eae7db",
+    "world_id": "南侧建筑区/aligned/2026102802"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "aligned",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102802,
+    "snapshot_id": "2ac5c441c0ad59ead371c66ae7df865d6aa309637661ab1b69b9fd0e1c1479ca",
+    "world_id": "南侧建筑区/aligned/2026102802"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "aligned",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102802,
+    "snapshot_id": "f6e172e1d157fce91d5d097be0d06110f03ba939d10986e1a6a55a7d7a496dc0",
+    "world_id": "南侧建筑区/aligned/2026102802"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "aligned",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102802,
+    "snapshot_id": "baa848e9e3257384fc1d8492e94e3fffd17b4bbc5c7ba1052885cb4270c17ab9",
+    "world_id": "南侧建筑区/aligned/2026102802"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "aligned",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102802,
+    "snapshot_id": "788ad70fd28ed4b657f8fb9d044043a3e7049fa487ba8abb66adbcaee6639f15",
+    "world_id": "南侧建筑区/aligned/2026102802"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "aligned",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102802,
+    "snapshot_id": "aec4e6322eac0e7484d88470eaa1dc454925bbea16a6287e32c56da106a403ad",
+    "world_id": "南侧建筑区/aligned/2026102802"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "aligned",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102802,
+    "snapshot_id": "c1eb8a272c51f75ff7ffcd7dd92f84b5fcb37f9233f3b59b2eeaac83e7283762",
+    "world_id": "南侧建筑区/aligned/2026102802"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "aligned",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102803,
+    "snapshot_id": "4e17554177f13c4401eb45be57b900ac2e684e6d2c5cc8ab73b34b9d8613e478",
+    "world_id": "南侧建筑区/aligned/2026102803"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "aligned",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102803,
+    "snapshot_id": "a4ce9c33828fb63193132fe609022c96cecd3af401d083ee070ba5ab45458b7a",
+    "world_id": "南侧建筑区/aligned/2026102803"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "aligned",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102803,
+    "snapshot_id": "47454f8015b56c4d2079d8e80a2ae5ce4cda9b1b5b9e71c9b22f52bc129f8a4b",
+    "world_id": "南侧建筑区/aligned/2026102803"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "aligned",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102803,
+    "snapshot_id": "042ef6b7361044d4e53f40dec8df29ad51333672b2f241097e7c5cd277d19f3d",
+    "world_id": "南侧建筑区/aligned/2026102803"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "aligned",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102803,
+    "snapshot_id": "26fe3afdb950e33975b27ecd7afa3aac3a970f71507028e872b8f74d83864cef",
+    "world_id": "南侧建筑区/aligned/2026102803"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "aligned",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102803,
+    "snapshot_id": "90764d5cc2c52884e2437a8b6453c726d646b644d68c409cd2b3364659d3f4f1",
+    "world_id": "南侧建筑区/aligned/2026102803"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "aligned",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102803,
+    "snapshot_id": "0ec1e6d9564c11fff0ca631b78f6a93f294612ad9401e653631d842852ab78f3",
+    "world_id": "南侧建筑区/aligned/2026102803"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "aligned",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102803,
+    "snapshot_id": "473d9e80f4567f4c3848dced25c1a0b4cb9855eab4af4f00a3650700f2988e27",
+    "world_id": "南侧建筑区/aligned/2026102803"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "aligned",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102803,
+    "snapshot_id": "0bc538272b1d55482eced3d7b67f64a7c5b7b8174923478f6eee4a5073f93a75",
+    "world_id": "南侧建筑区/aligned/2026102803"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "aligned",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102804,
+    "snapshot_id": "1b4d5e4c32d27fb40d81c15e2e4c5ef739f8fa5a0b882ab8f2fb6cc3ffda0fe0",
+    "world_id": "南侧建筑区/aligned/2026102804"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "aligned",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102804,
+    "snapshot_id": "2ad6153fd3baeb6aeed3e2e402ce7047a2180e62f98bc90c295e4e774f76fb2c",
+    "world_id": "南侧建筑区/aligned/2026102804"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "aligned",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102804,
+    "snapshot_id": "484879cb62a0ae9788628f0bff618d31a598cd60efd73a3e9a18fc0dab0877cb",
+    "world_id": "南侧建筑区/aligned/2026102804"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "aligned",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102804,
+    "snapshot_id": "e9833331bbe589eca999f636168d2d745ce872eb024ebfa94621edb68c940466",
+    "world_id": "南侧建筑区/aligned/2026102804"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "aligned",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102804,
+    "snapshot_id": "a47ba19c4bceab3e4c94a9933185497c078193794c011ea923738ecfae782988",
+    "world_id": "南侧建筑区/aligned/2026102804"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "aligned",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102804,
+    "snapshot_id": "8201074ef127d79b20219e18ff43d49436a29aee06599494c01849007987368d",
+    "world_id": "南侧建筑区/aligned/2026102804"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "aligned",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102804,
+    "snapshot_id": "5bbafb0758d97d9676a9c0e749d8b0a9064b3d7d8ad4e32d219194ded564bab3",
+    "world_id": "南侧建筑区/aligned/2026102804"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "aligned",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102804,
+    "snapshot_id": "7cddef99147b357165d2573fdfc27fb331f434516910c3ca0e3afb2e28444c27",
+    "world_id": "南侧建筑区/aligned/2026102804"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "aligned",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102804,
+    "snapshot_id": "4075448da7dd5d36966b8537085b740243d861cb60d82bddf979caadb098aba1",
+    "world_id": "南侧建筑区/aligned/2026102804"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "aligned",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102805,
+    "snapshot_id": "bdd84513aa216232ee91665c4773c50162632a7660bb6ee17998a72b977a9adb",
+    "world_id": "南侧建筑区/aligned/2026102805"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "aligned",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102805,
+    "snapshot_id": "2ecf7fda16ee2edecda8a024a6b270d23c9c39246846e804fff978588558af55",
+    "world_id": "南侧建筑区/aligned/2026102805"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "aligned",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102805,
+    "snapshot_id": "f9281a1cba7f7f28c1d81feb00853a07690fb68baca34845f60e9dd8c997a52c",
+    "world_id": "南侧建筑区/aligned/2026102805"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "aligned",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102805,
+    "snapshot_id": "657bf6ae2a017d09cbec5169765202870e63568c0010b7329aeadc9a6308f043",
+    "world_id": "南侧建筑区/aligned/2026102805"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "aligned",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102805,
+    "snapshot_id": "a87239e3fb132dc1d74ad9a3374ce39d0fdfa3ab7d13ec67a53adc8b02bb8bdb",
+    "world_id": "南侧建筑区/aligned/2026102805"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "aligned",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102805,
+    "snapshot_id": "329ba45595beb3df9ac0b451e7aa705b1a989881bd209931c4b6b2ff8663bcc8",
+    "world_id": "南侧建筑区/aligned/2026102805"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "aligned",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102805,
+    "snapshot_id": "cc921f84bc039a9d45ce15be67520407b1ac26d9f983d6e1ef73ed0b36f93d6a",
+    "world_id": "南侧建筑区/aligned/2026102805"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "aligned",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102805,
+    "snapshot_id": "7c549b781b5917c170a6b63e2ca7077603769d53ba9e74492b0a40df9c8f7148",
+    "world_id": "南侧建筑区/aligned/2026102805"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "aligned",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102805,
+    "snapshot_id": "cc3218905223278cbcbfd4e76bd3c082f65dc96ca3f01e0038ccd254c1526952",
+    "world_id": "南侧建筑区/aligned/2026102805"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "aligned",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102806,
+    "snapshot_id": "5c8d655b97288e61e8112ccb14e1ddeb05c70f9cca11de66c0b190faff751feb",
+    "world_id": "南侧建筑区/aligned/2026102806"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "aligned",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102806,
+    "snapshot_id": "0ff95410195012391309a25a481ecfb08ec2b25f7d44efa0fa5b819568a1fbf5",
+    "world_id": "南侧建筑区/aligned/2026102806"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "aligned",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102806,
+    "snapshot_id": "03c622a46354fe86593bc57b9930f65ef522fc0b97eb1338763b387ba54d4d2b",
+    "world_id": "南侧建筑区/aligned/2026102806"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "aligned",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102806,
+    "snapshot_id": "568bf33d6bac351a6e599b986837ad9021fb7968f5dc291787ec32ea51972fe5",
+    "world_id": "南侧建筑区/aligned/2026102806"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "aligned",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102806,
+    "snapshot_id": "b94e5ecf522dc22967da644b87de604d7a57aa31abbb2cc99964eae5bf0aa817",
+    "world_id": "南侧建筑区/aligned/2026102806"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "aligned",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102806,
+    "snapshot_id": "6b496c9db87640dcf78b147b28a882b7e4d77de1974cc020cb791a7fe8ad869d",
+    "world_id": "南侧建筑区/aligned/2026102806"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "aligned",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102806,
+    "snapshot_id": "176f5c179c56d390d3d787f92b5362cde93ed47285f253fff9374a32a1a89add",
+    "world_id": "南侧建筑区/aligned/2026102806"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "aligned",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102806,
+    "snapshot_id": "ff6d6e75874d8e078ca9ccc4d1fd349ccddf173491cf6eac88bc6a272c8771aa",
+    "world_id": "南侧建筑区/aligned/2026102806"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "aligned",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102806,
+    "snapshot_id": "a63f1f1a666160aee30c151e7af3359bf9e88e2476c5a9256afe49b9167b64c3",
+    "world_id": "南侧建筑区/aligned/2026102806"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "aligned",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102807,
+    "snapshot_id": "93c103f891673a39daa14d65488664eba8a315e4b8472bcda53ddc97e09e287a",
+    "world_id": "南侧建筑区/aligned/2026102807"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "aligned",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102807,
+    "snapshot_id": "3cad1093dea19da665772d80a1fe79422ec3a6c8be31064cb9f7b98f8cddcf4a",
+    "world_id": "南侧建筑区/aligned/2026102807"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "aligned",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102807,
+    "snapshot_id": "03383c0c8b25ceadd686417767cf02ce2a0cc7baae566fd11f9e11eca3d11f6c",
+    "world_id": "南侧建筑区/aligned/2026102807"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "aligned",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102807,
+    "snapshot_id": "a1bd392d6bc369f5d4f361351ed945cd44c2777165b56802c897420781f9a9ae",
+    "world_id": "南侧建筑区/aligned/2026102807"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "aligned",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102807,
+    "snapshot_id": "ddf0c7ef8270a9c7dd74801d25a7b0173ca3d728fb077b461ab9fcf55c214ece",
+    "world_id": "南侧建筑区/aligned/2026102807"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "aligned",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102807,
+    "snapshot_id": "d328ec2134e3deee6fbd5294f7644ea06b1d64b97428f19ae16878e30c97ea28",
+    "world_id": "南侧建筑区/aligned/2026102807"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "aligned",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102807,
+    "snapshot_id": "b11ebc49cceaa259c10510903d05fbf73ca4d73c4ac3c7136ecc1586506632ba",
+    "world_id": "南侧建筑区/aligned/2026102807"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "aligned",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102807,
+    "snapshot_id": "3652a227095a089ad42f5ce8aab003f17ffe992c1bfc3b2ca871841a9b02bbca",
+    "world_id": "南侧建筑区/aligned/2026102807"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "aligned",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102807,
+    "snapshot_id": "605ab68d2541958bb8d9fef5f3bc2d1b8fe14bc004c86aa6664d5a70acfff523",
+    "world_id": "南侧建筑区/aligned/2026102807"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "aligned",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102808,
+    "snapshot_id": "0222b0061b2f2ac53e398800abcc434fe3a52d23a1b7805a32f41222af71855b",
+    "world_id": "南侧建筑区/aligned/2026102808"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "aligned",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102808,
+    "snapshot_id": "ebfb065fd31c63f0fa4d1970ac768aea259ddb3cc1e4515de9ed6bfe6456d902",
+    "world_id": "南侧建筑区/aligned/2026102808"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "aligned",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102808,
+    "snapshot_id": "e88225043c4ad05156947a96528f6e781d21425c9e861dee7c8df97d0c7792f8",
+    "world_id": "南侧建筑区/aligned/2026102808"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "aligned",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102808,
+    "snapshot_id": "84fe126186bc31dcc1345d210014af4b9995145041dbc9144cad237e8c1828d8",
+    "world_id": "南侧建筑区/aligned/2026102808"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "aligned",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102808,
+    "snapshot_id": "5f43d5adbc7c346fc27e16a9e96a12cce7535301f521a49655244ca2e3c2cc99",
+    "world_id": "南侧建筑区/aligned/2026102808"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "aligned",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102808,
+    "snapshot_id": "b160fa79c4f069d5382fd7aa41be4922ab1c195a3496c9b2f13c54ea3dbad375",
+    "world_id": "南侧建筑区/aligned/2026102808"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "aligned",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102808,
+    "snapshot_id": "28cb156bf01166b6aaaa20295b6c82766ed5c64af9c788e405b5e61aeb433951",
+    "world_id": "南侧建筑区/aligned/2026102808"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "aligned",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102808,
+    "snapshot_id": "c9449e05f418ecb285567e419101c4946170193bcd3f45e0cd015c49611dd334",
+    "world_id": "南侧建筑区/aligned/2026102808"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "aligned",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102808,
+    "snapshot_id": "ec550fd624629e2615f7043c58d2f5ec06434bcf54fc1ae49e06b9800022b2d9",
+    "world_id": "南侧建筑区/aligned/2026102808"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "aligned",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102809,
+    "snapshot_id": "8c305e5f7175cc3da4a43f57913c83e42cb39f045b5afab1c112caf22eaaa7d8",
+    "world_id": "南侧建筑区/aligned/2026102809"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "aligned",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102809,
+    "snapshot_id": "250cd6f641b7b1bddffa120adee72047a8e5c16c0e6f437120c02c1c4620e64f",
+    "world_id": "南侧建筑区/aligned/2026102809"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "aligned",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102809,
+    "snapshot_id": "8d042b590b13c81168e12859ae77143247bb41bb94a479c1a40f03357c03652e",
+    "world_id": "南侧建筑区/aligned/2026102809"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "aligned",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102809,
+    "snapshot_id": "4111a064b4cc93e3350c98c60e5276845603e8f21e9d09294815b811826a97b8",
+    "world_id": "南侧建筑区/aligned/2026102809"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "aligned",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102809,
+    "snapshot_id": "5129bfc669ed86704c748769639d7b4a1fe6027e0e8c1d65cc4a027b22c3a2f6",
+    "world_id": "南侧建筑区/aligned/2026102809"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "aligned",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102809,
+    "snapshot_id": "0e3b7d69c778ebc39dbed4ba261b95ed5f5d8b316a1f7adffec48b47583e1c43",
+    "world_id": "南侧建筑区/aligned/2026102809"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "aligned",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102809,
+    "snapshot_id": "c6e45147d1b86d7c4cb13d00fbb33fe0b514b6da50d5d36da5e46048a7c684cf",
+    "world_id": "南侧建筑区/aligned/2026102809"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "aligned",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102809,
+    "snapshot_id": "4458814f7b02f0da3c806d90cf9130688a6d561b022c504f44055d2db6f0527d",
+    "world_id": "南侧建筑区/aligned/2026102809"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "aligned",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102809,
+    "snapshot_id": "1863dc0844b4483c0016714bf745668976b897f1870b8f4bc3c5f5eddcec236b",
+    "world_id": "南侧建筑区/aligned/2026102809"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "reversed",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102800,
+    "snapshot_id": "0369678d6f4dfe2daf4fd4f20cdc3e2c919c11cf24c012cb760620de80c11304",
+    "world_id": "南侧建筑区/reversed/2026102800"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "reversed",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102800,
+    "snapshot_id": "755b149050fc4df2e8d238e673dd2478d11081355e8a010e8a3695b974b1b1d2",
+    "world_id": "南侧建筑区/reversed/2026102800"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "reversed",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102800,
+    "snapshot_id": "2f14ab6c67d33753fcc703e9b9f2969258fb70773586a21ebbfeca270967368f",
+    "world_id": "南侧建筑区/reversed/2026102800"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "reversed",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102800,
+    "snapshot_id": "f4a5615fed2991acebe14bd09a19cf92242881d6880fef2828509a1213ab93bd",
+    "world_id": "南侧建筑区/reversed/2026102800"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "reversed",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102800,
+    "snapshot_id": "54638e2064027dbf850ee29e5b72a6afad1a34435bee4f41cf0b4a69770c957d",
+    "world_id": "南侧建筑区/reversed/2026102800"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "reversed",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102800,
+    "snapshot_id": "5bf264ea30b690d5f677e4797afd062c1d8a853849c2e804375899f064aa7777",
+    "world_id": "南侧建筑区/reversed/2026102800"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "reversed",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102800,
+    "snapshot_id": "1c64426017d768b3a8374b92d0ca1c8156ffb00b809ca243d8bc5216aef81481",
+    "world_id": "南侧建筑区/reversed/2026102800"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "reversed",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102800,
+    "snapshot_id": "0dec015cb09f424b0c42711d05ce56074770747407bf1a38036cb0879e92c2f8",
+    "world_id": "南侧建筑区/reversed/2026102800"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "reversed",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102800,
+    "snapshot_id": "3f32f2748aef00c2e7d6aadeefa73951ab7166c8fec85acaac31dae2bf5d2e8a",
+    "world_id": "南侧建筑区/reversed/2026102800"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "reversed",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102801,
+    "snapshot_id": "5070cf90faebf4b57ac4c309ce2770a8ca3d6207b29b9b6f3bb3a0096e89dc90",
+    "world_id": "南侧建筑区/reversed/2026102801"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "reversed",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102801,
+    "snapshot_id": "9ba47d1cfedd3460638c3ed6c1e8be957657f17dc6c9422f6a2e179f7049bd7b",
+    "world_id": "南侧建筑区/reversed/2026102801"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "reversed",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102801,
+    "snapshot_id": "bc59425f2ea3d211649871d3a41ae2c844d3b46a96d70ac9f9a900cbf921d688",
+    "world_id": "南侧建筑区/reversed/2026102801"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "reversed",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102801,
+    "snapshot_id": "5b7d81f844ee0cde8b5490c114e7945f2f53b39de984a4d0dd96a6f79c209253",
+    "world_id": "南侧建筑区/reversed/2026102801"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "reversed",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102801,
+    "snapshot_id": "fbc7a70d32c93496291622a595c64d0fad0ed31d670ff3ffd4769520a1241cdf",
+    "world_id": "南侧建筑区/reversed/2026102801"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "reversed",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102801,
+    "snapshot_id": "addfc2b9b2db6ef705a12c4118eae309886f2f544625cbc9ece4c1a37a99fc18",
+    "world_id": "南侧建筑区/reversed/2026102801"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "reversed",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102801,
+    "snapshot_id": "2c2dcdac87f62626c4ea37f3364158492c003358b3203a2adf3c284f98bc0ce8",
+    "world_id": "南侧建筑区/reversed/2026102801"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "reversed",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102801,
+    "snapshot_id": "1037cf7e49042fb5c5b0012657f496477844c874e4d287725ed310a2ffeb780e",
+    "world_id": "南侧建筑区/reversed/2026102801"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "reversed",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102801,
+    "snapshot_id": "b2722eeace8ccabb38b0d79b8e77d453dfcd463f68e71c40551275d05e92536e",
+    "world_id": "南侧建筑区/reversed/2026102801"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "reversed",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102802,
+    "snapshot_id": "a57d4316599e0dd57a0eec619215182d220ea4ca54f32b9efc6ea76cd090a26e",
+    "world_id": "南侧建筑区/reversed/2026102802"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "reversed",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102802,
+    "snapshot_id": "939bdecb22058b1e6997d35e548dbfe2356cb12ca82fdc492bc606f940e6d9aa",
+    "world_id": "南侧建筑区/reversed/2026102802"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "reversed",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102802,
+    "snapshot_id": "4dde56370ec643175d0143041f0ac1cce1c2da596213dbc10375b6682117e46a",
+    "world_id": "南侧建筑区/reversed/2026102802"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "reversed",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102802,
+    "snapshot_id": "98f72e3ecf80c6db2361abe7cef26446fd63904e4cdcde9c5e9e0f6529403645",
+    "world_id": "南侧建筑区/reversed/2026102802"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "reversed",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102802,
+    "snapshot_id": "547941a765115ad254779a392a40f64b294db462330e6d742d1947226566f39e",
+    "world_id": "南侧建筑区/reversed/2026102802"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "reversed",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102802,
+    "snapshot_id": "ecb18bc9a49a8c8f669ca6da7a40030b08e5819cb9ee637213978b9fcbb3710c",
+    "world_id": "南侧建筑区/reversed/2026102802"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "reversed",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102802,
+    "snapshot_id": "3ea70a0a7c30b863e07774cc43b113625d88b90161ead445881ad233aab19773",
+    "world_id": "南侧建筑区/reversed/2026102802"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "reversed",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102802,
+    "snapshot_id": "a6255b2b28809fdc72199ed82b684d3c9c2c316cebbfc37d00d706e72dfa4a82",
+    "world_id": "南侧建筑区/reversed/2026102802"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "reversed",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102802,
+    "snapshot_id": "250bffea6423a8a62b5abc4e0d2616f6d68b15d543b820e3fb16299c68fdadc4",
+    "world_id": "南侧建筑区/reversed/2026102802"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "reversed",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102803,
+    "snapshot_id": "56fdc40f42dc22b692216f54cf1c626eea92a3d13b2b2a9da33406cf3c3e1d70",
+    "world_id": "南侧建筑区/reversed/2026102803"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "reversed",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102803,
+    "snapshot_id": "24dd8398144bce2534350ffe43a1dbafa4c69ba75081c5585f78992faf7d9b09",
+    "world_id": "南侧建筑区/reversed/2026102803"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "reversed",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102803,
+    "snapshot_id": "0b16ebb6a643f80ea1dfa969c651778507f5bfe512f4d81ba215f5f0ead50690",
+    "world_id": "南侧建筑区/reversed/2026102803"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "reversed",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102803,
+    "snapshot_id": "1c979d4dd04dfec82025e24ef92415548581c9404e7e027f9ba28d8a031d8a91",
+    "world_id": "南侧建筑区/reversed/2026102803"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "reversed",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102803,
+    "snapshot_id": "4764390238713ea3fe4ea97365735b18df74f1f2e591ece46199abcb3e31d1b8",
+    "world_id": "南侧建筑区/reversed/2026102803"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "reversed",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102803,
+    "snapshot_id": "58e763dcd47c4c5480d2f387f5965875e61b00a10ce71a6d087f0ebe89432e13",
+    "world_id": "南侧建筑区/reversed/2026102803"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "reversed",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102803,
+    "snapshot_id": "a27a1dba001191d8c59ef31d49a8ac8e3118cc66051afb7273aad1c6bdf3457c",
+    "world_id": "南侧建筑区/reversed/2026102803"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "reversed",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102803,
+    "snapshot_id": "59e8bee0ac114f0cca0f88aa72bef4f8043d742ab3fab0905da108fe3bdf2e09",
+    "world_id": "南侧建筑区/reversed/2026102803"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "reversed",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102803,
+    "snapshot_id": "64ffdf2b4e9233eb03fb5b5746e29e1d3465982be4cda2f641e16a98b89011ce",
+    "world_id": "南侧建筑区/reversed/2026102803"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "reversed",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102804,
+    "snapshot_id": "c28299ec7bf1ac323f343018e9c337e4c141073cf4b538943b6cdc2388e17db0",
+    "world_id": "南侧建筑区/reversed/2026102804"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "reversed",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102804,
+    "snapshot_id": "b0ab0a4927816447a1d7625a7d28a6bb2ad66707d3357921f48033da09cd6a75",
+    "world_id": "南侧建筑区/reversed/2026102804"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "reversed",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102804,
+    "snapshot_id": "c48f07644c4f744fedaea18040ab6754ee19c4c28e2c16abd2334480a5590d6c",
+    "world_id": "南侧建筑区/reversed/2026102804"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "reversed",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102804,
+    "snapshot_id": "47bb98d14da1d9ec13902a03a632ebfa2da004f09af393c259016fa405c6f13c",
+    "world_id": "南侧建筑区/reversed/2026102804"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "reversed",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102804,
+    "snapshot_id": "6daddccc7761bc6f3a5da37d0f9df467e8129cb061750bfd2d509f211cd08cea",
+    "world_id": "南侧建筑区/reversed/2026102804"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "reversed",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102804,
+    "snapshot_id": "ecb6e677dcf33af648d3481f82f8f6f9a5819ad87bebab0b7aa82a88c07092a1",
+    "world_id": "南侧建筑区/reversed/2026102804"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "reversed",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102804,
+    "snapshot_id": "edd4e8c72f0acedb5a208da643ab6cbe2e1a424eff36dc27c857b7e79fb77200",
+    "world_id": "南侧建筑区/reversed/2026102804"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "reversed",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102804,
+    "snapshot_id": "b65a4cb6b1a5654f7d3820caf1b275d36aa81d30a6de6f08f184fd6343e216fd",
+    "world_id": "南侧建筑区/reversed/2026102804"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "reversed",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102804,
+    "snapshot_id": "3865240669d88188364dacc8ea3d5c4d2f359d5fb10d5dde1ddc37ed679aa952",
+    "world_id": "南侧建筑区/reversed/2026102804"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "reversed",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102805,
+    "snapshot_id": "a339e1919a0448c8c8f3b8b75dc62d91adb19b677472120929726f064c4a5a46",
+    "world_id": "南侧建筑区/reversed/2026102805"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "reversed",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102805,
+    "snapshot_id": "66ff26df3392b70dd5be42357922c3a8d6939bd4578da5f5de9d6f46c531ed54",
+    "world_id": "南侧建筑区/reversed/2026102805"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "reversed",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102805,
+    "snapshot_id": "66b194c0f7a6b530d77e501bb7b0f6ffce36b8bb7ccc8340d1800ed5b1e31ea1",
+    "world_id": "南侧建筑区/reversed/2026102805"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "reversed",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102805,
+    "snapshot_id": "3e954be26e12fd1fd39d3858fa4c31453c871c45031ed74cd7dac886a0fa4387",
+    "world_id": "南侧建筑区/reversed/2026102805"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "reversed",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102805,
+    "snapshot_id": "0a19a365a37d41cf43f8a5dec6f376cc27aa560e3de9a60cfbfb7b24be1ee973",
+    "world_id": "南侧建筑区/reversed/2026102805"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "reversed",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102805,
+    "snapshot_id": "916c3d7ef6b1c5ebb3c330f24eff7a94ce4e17a4849b6f52c4ddfe99789b144d",
+    "world_id": "南侧建筑区/reversed/2026102805"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "reversed",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102805,
+    "snapshot_id": "609560eb0926f50ff57f4b6ce1ed0007e6b5e782b87dc1670c200c4ecf4e1ebe",
+    "world_id": "南侧建筑区/reversed/2026102805"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "reversed",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102805,
+    "snapshot_id": "7e43c3d7d95d958d165fa5162c291d06e40d6815fce98c67fc211500808702fa",
+    "world_id": "南侧建筑区/reversed/2026102805"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "reversed",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102805,
+    "snapshot_id": "d87a5c1ebf2d793c9af039339b0af935279450011a9471c9c3f129898f77a860",
+    "world_id": "南侧建筑区/reversed/2026102805"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "reversed",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102806,
+    "snapshot_id": "745b502ca706149f84d1eb6ff3c9608299da315063dbe97ed39230f751518a2e",
+    "world_id": "南侧建筑区/reversed/2026102806"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "reversed",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102806,
+    "snapshot_id": "e22b2f792600da32322d58e17e92a4fdfd39a402992cedd6c7dc35147626f3bd",
+    "world_id": "南侧建筑区/reversed/2026102806"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "reversed",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102806,
+    "snapshot_id": "c5b9b2adcfa67c2415dfda3d25b806eac0389eac631d132dfa0074459afdaf0f",
+    "world_id": "南侧建筑区/reversed/2026102806"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "reversed",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102806,
+    "snapshot_id": "04c7ebd916e3dc7144f61e6c19c2efb754a42988221a7f5acdabae2adf4111c7",
+    "world_id": "南侧建筑区/reversed/2026102806"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "reversed",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102806,
+    "snapshot_id": "b6479ad2e9ecf230ee9ab8fe61cccd488cdbaa3e31ef8129cd39f0edd10e59a4",
+    "world_id": "南侧建筑区/reversed/2026102806"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "reversed",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102806,
+    "snapshot_id": "3a2345908d5fb03e07d8a8b509b6792dcd2baa158c311241c74aa2e8fbc70c53",
+    "world_id": "南侧建筑区/reversed/2026102806"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "reversed",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102806,
+    "snapshot_id": "acb19285d1647979545cfbe029d3558a83460c4fb1e50dba10be4455013d3d19",
+    "world_id": "南侧建筑区/reversed/2026102806"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "reversed",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102806,
+    "snapshot_id": "0288ab5f661ed14b6d349bc20f126f828baa7ff3e2b998b93958a3663d753703",
+    "world_id": "南侧建筑区/reversed/2026102806"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "reversed",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102806,
+    "snapshot_id": "668af20c61af4cb8af33757faca6013fbc80ee5e741b03204c0b16a46b4ecbb9",
+    "world_id": "南侧建筑区/reversed/2026102806"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "reversed",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102807,
+    "snapshot_id": "66c2622a69a4f16c22a86fc6d35013b7e95a37f62200a600f51f7750316c8136",
+    "world_id": "南侧建筑区/reversed/2026102807"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "reversed",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102807,
+    "snapshot_id": "e0c55789a9eb2fef4992059186f4940a109097fe8fc3e31710e6af38aae9b9a1",
+    "world_id": "南侧建筑区/reversed/2026102807"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "reversed",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102807,
+    "snapshot_id": "8a6d88bb250e167745af22050d47e33c0d410d9d69401115391ea470cecc1a63",
+    "world_id": "南侧建筑区/reversed/2026102807"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "reversed",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102807,
+    "snapshot_id": "0b32fe8a7e242e889c251097f76cca5a3034d45e285b5a224d32ddf489e97d84",
+    "world_id": "南侧建筑区/reversed/2026102807"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "reversed",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102807,
+    "snapshot_id": "d662fc21c238a5e16ba770873436feaa24a335127fd8ed302061cda79b3cdf5d",
+    "world_id": "南侧建筑区/reversed/2026102807"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "reversed",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102807,
+    "snapshot_id": "83bc2542c9c3884e1fbbc6b5b3d754b32f7cfdaed38c51db05ce0c7a6f9fe043",
+    "world_id": "南侧建筑区/reversed/2026102807"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "reversed",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102807,
+    "snapshot_id": "556f4a725bfefccd96c6867bcbab89c76080cfcca42aed43b00a90e4810b0a87",
+    "world_id": "南侧建筑区/reversed/2026102807"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "reversed",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102807,
+    "snapshot_id": "e988e0c14252a16200076da6db74ca5f16e93a36e67b7d94c8bcb0da3092784e",
+    "world_id": "南侧建筑区/reversed/2026102807"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "reversed",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102807,
+    "snapshot_id": "8593d90bd7e3d23850cf2591d6b363ca7b97788f8c14f09f5bcb60cc17c3b3bd",
+    "world_id": "南侧建筑区/reversed/2026102807"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "reversed",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102808,
+    "snapshot_id": "7e8d1ec9c4e1852594d9563dd7111201da92750fc04dd6451622faba4f3232e5",
+    "world_id": "南侧建筑区/reversed/2026102808"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "reversed",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102808,
+    "snapshot_id": "c6b25c5a9c772e8f7f92e27668a51d5b8a9fcda1e81f6b70b20a2c5b377bdada",
+    "world_id": "南侧建筑区/reversed/2026102808"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "reversed",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102808,
+    "snapshot_id": "461d91a4affd66f53488610062b0063dfa0b4637c6db1a6c343142567a659560",
+    "world_id": "南侧建筑区/reversed/2026102808"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "reversed",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102808,
+    "snapshot_id": "0e99ab4ac406b89a5cbeb555a803f52f06ba6556c55b6fd9c78b7b129635d6bf",
+    "world_id": "南侧建筑区/reversed/2026102808"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "reversed",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102808,
+    "snapshot_id": "629ec6917ba97570882cff7808ee39f0df4f86545d49bcd6891fb6ed96acf578",
+    "world_id": "南侧建筑区/reversed/2026102808"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "reversed",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102808,
+    "snapshot_id": "2ce70c8085e0e69f301192f796cb8a7a8812a4d020780d1bd669802af45800dd",
+    "world_id": "南侧建筑区/reversed/2026102808"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "reversed",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102808,
+    "snapshot_id": "a3c31a23eff14287949816839f08011c9ef317049bda4cf7550d7933b87f0bd2",
+    "world_id": "南侧建筑区/reversed/2026102808"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "reversed",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102808,
+    "snapshot_id": "da83921319e7d0a0ebffe3779e434722c0f3e7eb5bfd234e94041c7069248dbc",
+    "world_id": "南侧建筑区/reversed/2026102808"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "reversed",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102808,
+    "snapshot_id": "53fd75baf1de23c017c8edd82b97aa6e3bc60229398044934436c78d08a91070",
+    "world_id": "南侧建筑区/reversed/2026102808"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "reversed",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102809,
+    "snapshot_id": "adabc7bebb90529f16130d9d17c6e725e27d73ba1a5160ddae2caefdcfb6d138",
+    "world_id": "南侧建筑区/reversed/2026102809"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "reversed",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102809,
+    "snapshot_id": "faa55fc0f82bd35647eb85765ba9ad0c4ba2832d33cdf1b6e17385b40abfb709",
+    "world_id": "南侧建筑区/reversed/2026102809"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "reversed",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102809,
+    "snapshot_id": "38275816a4b50fb7619a1822bd3ec1b27fb791a6035884b0fc7f5b6ad54cd087",
+    "world_id": "南侧建筑区/reversed/2026102809"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "reversed",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102809,
+    "snapshot_id": "4bcea8d80e9657d0e03c893268aa53a4c09e1dcffc61cb69d052feceb37dedd7",
+    "world_id": "南侧建筑区/reversed/2026102809"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "reversed",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102809,
+    "snapshot_id": "e867690433bf24c2bcd6391969cb968ebfc7da29d81fb184bebbd358697befb5",
+    "world_id": "南侧建筑区/reversed/2026102809"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "reversed",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102809,
+    "snapshot_id": "d039555fe11f932d11938be90ac9b02a5e423df01f001cc74726c19f3538bf34",
+    "world_id": "南侧建筑区/reversed/2026102809"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "reversed",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102809,
+    "snapshot_id": "b2be42aad78f574bb8b4ba8f019baf25a99968349450102ce8b8b0cc2b894b30",
+    "world_id": "南侧建筑区/reversed/2026102809"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "reversed",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102809,
+    "snapshot_id": "e69ac65a79ce50592345ced2cd967e1fe6642ff3cd008bb02d40d7503590ea95",
+    "world_id": "南侧建筑区/reversed/2026102809"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "reversed",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102809,
+    "snapshot_id": "577d3ae6b08ed9bda0927952a556cd92cfac3f0889039cd6cfe87f3a269c484a",
+    "world_id": "南侧建筑区/reversed/2026102809"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "independent",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102800,
+    "snapshot_id": "4ea835095b26e869fb960dee655ec8f60533f97b4e282b0ccf06da1dcc7f760a",
+    "world_id": "南侧建筑区/independent/2026102800"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "independent",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102800,
+    "snapshot_id": "5ac29218fa36ab254a63de32dd3a1f86b0e096c3fe086695600c8714f47df228",
+    "world_id": "南侧建筑区/independent/2026102800"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "independent",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102800,
+    "snapshot_id": "d87c760340693c57cf79e9629797935dc646496fbe2f98f7c218a77984f6e0c9",
+    "world_id": "南侧建筑区/independent/2026102800"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "independent",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102800,
+    "snapshot_id": "2a646660ce074820c54e2293a3f2ef6791ab940839816abca2b519e79efb7d52",
+    "world_id": "南侧建筑区/independent/2026102800"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "independent",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102800,
+    "snapshot_id": "cd6b669b1cada4981bd17f7a386a1cd6753b46bde99f5d4e1db9ec7b70413e8c",
+    "world_id": "南侧建筑区/independent/2026102800"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "independent",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102800,
+    "snapshot_id": "ab1adf5c0e5aaf9c684fa872f772d2404f0160992968fb59e586c3e15959080b",
+    "world_id": "南侧建筑区/independent/2026102800"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "independent",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102800,
+    "snapshot_id": "1194f22bb07ec1b8864ef40bdc6ab312badc28d052fde189cc1f413fa6bcbd8d",
+    "world_id": "南侧建筑区/independent/2026102800"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "independent",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102800,
+    "snapshot_id": "571f7e00ed80cdc42890b06798a0c44e33cad4a829fed68dbfbe0212f7539c3c",
+    "world_id": "南侧建筑区/independent/2026102800"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "independent",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102800,
+    "snapshot_id": "08fb70b0e1fe7a459f354e3e7dd3068d25ac7fa2543d89b6c5b0ec74db4b8daf",
+    "world_id": "南侧建筑区/independent/2026102800"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "independent",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102801,
+    "snapshot_id": "415ef5b90f02b9b0012f0f66630f1cecf8eb5c0536b65460bc881ba05fc65205",
+    "world_id": "南侧建筑区/independent/2026102801"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "independent",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102801,
+    "snapshot_id": "bd87421c5e2f8f0ca4dd5ddf9c91b20a77187adf6e49d63eff572363300d18fb",
+    "world_id": "南侧建筑区/independent/2026102801"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "independent",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102801,
+    "snapshot_id": "955cb707399d7a8173549c3e19877a327a50dcafb13beba33f99ff7eb53ef2e1",
+    "world_id": "南侧建筑区/independent/2026102801"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "independent",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102801,
+    "snapshot_id": "b098eee3f70680b235596213f61f9031ec6d62ff3904f2fe1d50efb14cd286a3",
+    "world_id": "南侧建筑区/independent/2026102801"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "independent",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102801,
+    "snapshot_id": "3865acda54d4ae062fca46c480bab340aebb6e8c91feab8e62c04b3f5ce7b3f6",
+    "world_id": "南侧建筑区/independent/2026102801"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "independent",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102801,
+    "snapshot_id": "58a6662fa0178f2bcf2fae588f648eb050ee54426987a0ad78a573feb9072271",
+    "world_id": "南侧建筑区/independent/2026102801"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "independent",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102801,
+    "snapshot_id": "148ee13dd9c5e0218f5eba7049f7919292dbff16ca7ddc91d7bbcbcc4f4cb67c",
+    "world_id": "南侧建筑区/independent/2026102801"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "independent",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102801,
+    "snapshot_id": "066ba9bfdd668ea2d2e9af8ff93e6f0b6d2b1e1444aca60c5a4378f39c36030f",
+    "world_id": "南侧建筑区/independent/2026102801"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "independent",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102801,
+    "snapshot_id": "87a634cf271d54478657dcb449ff87ce60444a27f5185915f2c779455e92e7fc",
+    "world_id": "南侧建筑区/independent/2026102801"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "independent",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102802,
+    "snapshot_id": "b14bb0ee8af4299ac014f1ab8059d00d48091da6dd3288a96c61ab8384715748",
+    "world_id": "南侧建筑区/independent/2026102802"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "independent",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102802,
+    "snapshot_id": "53089e4e14c6cfb1aafca22eae6ef7a0f1dfad0f86042e04845486d1e854f020",
+    "world_id": "南侧建筑区/independent/2026102802"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "independent",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102802,
+    "snapshot_id": "13c463def9c4a44a38ede40e9e3505d760473c6f5dd47e128e818ae4e4af5bf4",
+    "world_id": "南侧建筑区/independent/2026102802"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "independent",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102802,
+    "snapshot_id": "30c1d981ce40b21760483671ba42e916366b34a3a7cc6ef2306421bca8f0da56",
+    "world_id": "南侧建筑区/independent/2026102802"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "independent",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102802,
+    "snapshot_id": "8225e157158d70420a5f6f314b141eea06a35ad8ba8597fe4b82bbfbffda67e9",
+    "world_id": "南侧建筑区/independent/2026102802"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "independent",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102802,
+    "snapshot_id": "d4515276aa36591900bccd728692023ead62273913d2f24a833adcd73d8c3e14",
+    "world_id": "南侧建筑区/independent/2026102802"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "independent",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102802,
+    "snapshot_id": "70ab1fe561601d94dec2a1431dcc8fa3aa565fdfa784fb39f7f80c55904d398d",
+    "world_id": "南侧建筑区/independent/2026102802"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "independent",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102802,
+    "snapshot_id": "4390887447295ba07f71c16cf8c0779135e56d22dbe100ba3d0f32c282fc110f",
+    "world_id": "南侧建筑区/independent/2026102802"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "independent",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102802,
+    "snapshot_id": "06693c0a360a8304b91cfe497455f121ba58982278a9ec0837fa10e2ee88b378",
+    "world_id": "南侧建筑区/independent/2026102802"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "independent",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102803,
+    "snapshot_id": "f43a0f9623a64cc9267e9147fbcd6a9a281470b3c901fb2eab65629a6f4d323c",
+    "world_id": "南侧建筑区/independent/2026102803"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "independent",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102803,
+    "snapshot_id": "6727f187e13acea620aefee9d1c3e4d97a11f3c3dcfe16a408bcc7b707dc0f6b",
+    "world_id": "南侧建筑区/independent/2026102803"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "independent",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102803,
+    "snapshot_id": "852e2090d2253d9fb742af4f242c6fd5b9400c6592a1fcdc5c77f66044776d1b",
+    "world_id": "南侧建筑区/independent/2026102803"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "independent",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102803,
+    "snapshot_id": "e217fe140657e526f7778dc8740903e2d82c8ebe77458bcb849c020bd37d0fa6",
+    "world_id": "南侧建筑区/independent/2026102803"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "independent",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102803,
+    "snapshot_id": "c1a945e09003ed1a179aa8bc73d1d7d237f126b909ae66008db1a3e56b8f7c0c",
+    "world_id": "南侧建筑区/independent/2026102803"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "independent",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102803,
+    "snapshot_id": "32f1b0f9c6a0eaae42e6e4d40a77635b9d86ccb4df777815dadf16836657d5f6",
+    "world_id": "南侧建筑区/independent/2026102803"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "independent",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102803,
+    "snapshot_id": "be4cdf3e593ec22cd36b6e77e89b3829ca5ddb4944b2dfa04c3b21b011475bf9",
+    "world_id": "南侧建筑区/independent/2026102803"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "independent",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102803,
+    "snapshot_id": "e3fe577248cb1a4cafdd7ffaa58a90a8de55d1556efae662f9ef2141a1e3d13e",
+    "world_id": "南侧建筑区/independent/2026102803"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "independent",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102803,
+    "snapshot_id": "2c36ed91b7ceee69386d6cd3305905f740ecfd4287920c0191e49f673c998453",
+    "world_id": "南侧建筑区/independent/2026102803"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "independent",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102804,
+    "snapshot_id": "bfaf3daec4c0681fcfb6c69cc3c3fb15b5ee942175fb64cdf3371aca89e73be6",
+    "world_id": "南侧建筑区/independent/2026102804"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "independent",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102804,
+    "snapshot_id": "ae90fe18c4c35cb3676c51e27bcc9d0d7c2c5a22391b3beda9cd99f1629957df",
+    "world_id": "南侧建筑区/independent/2026102804"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "independent",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102804,
+    "snapshot_id": "50f8afe5b8d909f45c0806c521b3e3d713b011af0e11fbf9c5803a72475c9c5d",
+    "world_id": "南侧建筑区/independent/2026102804"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "independent",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102804,
+    "snapshot_id": "09a83f62202d5e2732e93e00eca864fbaf4cb71db0d9c0af3696b099e1dacbdf",
+    "world_id": "南侧建筑区/independent/2026102804"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "independent",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102804,
+    "snapshot_id": "7a553cbd9c65dba07f238dd9eaf3ccffe781d6819837ae45f3e17d81e36fbaa1",
+    "world_id": "南侧建筑区/independent/2026102804"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "independent",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102804,
+    "snapshot_id": "2e4574b0ae691094626657eaa536a60178ce334e610d338745e8973b95e39aff",
+    "world_id": "南侧建筑区/independent/2026102804"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "independent",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102804,
+    "snapshot_id": "ecfb0aee5893e236e635d6f3c46cb99b053e6ac65fa19fa022d8c610727727d8",
+    "world_id": "南侧建筑区/independent/2026102804"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "independent",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102804,
+    "snapshot_id": "98da12f8fc647a5d76dfcd1685f37d2cbaee17d5e414cb0e0804e687cbc10483",
+    "world_id": "南侧建筑区/independent/2026102804"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "independent",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102804,
+    "snapshot_id": "5e9584707d29d08e2d1a3c74f12f61d9883496e06fb323994f1ecb2932369d40",
+    "world_id": "南侧建筑区/independent/2026102804"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "independent",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102805,
+    "snapshot_id": "69b0c0f67c26da4e63e35737136af120a867810ae3531e4b41faecc714a04d65",
+    "world_id": "南侧建筑区/independent/2026102805"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "independent",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102805,
+    "snapshot_id": "9bcf42ec6c41bd2089330af38d64f8ea46b982bed0ecd06243ca39fd46ebc926",
+    "world_id": "南侧建筑区/independent/2026102805"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "independent",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102805,
+    "snapshot_id": "bfbc195b13f528887c4344b837220f0c80e2a5caef1f10fa1e253d03cc02f7ba",
+    "world_id": "南侧建筑区/independent/2026102805"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "independent",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102805,
+    "snapshot_id": "9bbe52411e67c8f9acda5cb0ce9dc277e5664d4bc3127575647fb5e5f007874d",
+    "world_id": "南侧建筑区/independent/2026102805"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "independent",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102805,
+    "snapshot_id": "eb1b4d689bc709d4afd23dc7dc26ebcef9aa49143d966f46e2cce178f9321a8a",
+    "world_id": "南侧建筑区/independent/2026102805"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "independent",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102805,
+    "snapshot_id": "589b5a1679163154bba0c3427574de46e6cda455cd7e003999ab7a4b37277485",
+    "world_id": "南侧建筑区/independent/2026102805"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "independent",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102805,
+    "snapshot_id": "f3e10e7fafb9b5e83b927186f42a68a4454cb852033a56d30d16f9e477295e23",
+    "world_id": "南侧建筑区/independent/2026102805"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "independent",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102805,
+    "snapshot_id": "335728e9ef47221e19cb312141d543ca9a2faa4e6e49ca68f613ba8db32d2d64",
+    "world_id": "南侧建筑区/independent/2026102805"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "independent",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102805,
+    "snapshot_id": "d605709c8d500c7cdc80b217696846bf894f5a8379ecd13caad214a03b8dee26",
+    "world_id": "南侧建筑区/independent/2026102805"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "independent",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102806,
+    "snapshot_id": "5a25b0eea49cba62c3e0fcc94defd83f0c38e4983861d48bbc346933b16104e4",
+    "world_id": "南侧建筑区/independent/2026102806"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "independent",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102806,
+    "snapshot_id": "ff7a1508e3d368ba65ed2c4d0a68899980181316b79d83fcb7abc7f08fc088b7",
+    "world_id": "南侧建筑区/independent/2026102806"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "independent",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102806,
+    "snapshot_id": "3135ae042caf39e3b4246ff84b0acc04a7ac7631b176dbb3c59cac3d223e2272",
+    "world_id": "南侧建筑区/independent/2026102806"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "independent",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102806,
+    "snapshot_id": "4b40cad399015b92b903f70971da88a66a6f0559a82be52c20d9e8d3ae21f214",
+    "world_id": "南侧建筑区/independent/2026102806"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "independent",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102806,
+    "snapshot_id": "5eedfa0aada0a0d903ef6f868b5c95f132771d04191727336b1b3b7fab6420aa",
+    "world_id": "南侧建筑区/independent/2026102806"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "independent",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102806,
+    "snapshot_id": "d376f389aaa41a61306edf661dac4a5e95749681021686de3928b8d54de9916d",
+    "world_id": "南侧建筑区/independent/2026102806"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "independent",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102806,
+    "snapshot_id": "1de9337cec8cb253f39c728ca455cc54be4fe61ab1c30e008bb8f68a360b7541",
+    "world_id": "南侧建筑区/independent/2026102806"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "independent",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102806,
+    "snapshot_id": "df8473bf0cae50fc50d440e1c1bee7674ad79f8563a7a4cf71e1483a6f2791b4",
+    "world_id": "南侧建筑区/independent/2026102806"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "independent",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102806,
+    "snapshot_id": "0363fd93b957414e8ce452e91b1a7a35b0195c80db57d73339d044f48f1fbc9d",
+    "world_id": "南侧建筑区/independent/2026102806"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "independent",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102807,
+    "snapshot_id": "d953c5cb503a2d086d80fd6b55c403d3b89c089a444302ab7c639bb821048e5f",
+    "world_id": "南侧建筑区/independent/2026102807"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "independent",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102807,
+    "snapshot_id": "d17a466d9cbd1f1e78bb68d4301ff467258bd2352023d29bef8500569b1fea44",
+    "world_id": "南侧建筑区/independent/2026102807"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "independent",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102807,
+    "snapshot_id": "34cc3740b626c2403e37ed716277e79b49ec8cc70b3efd69b6e3d7ff4fbbd06a",
+    "world_id": "南侧建筑区/independent/2026102807"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "independent",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102807,
+    "snapshot_id": "718e1f7332a05e43ade0deaf8e1567ed1f4fd0743423044acd8d5ffe5b817546",
+    "world_id": "南侧建筑区/independent/2026102807"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "independent",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102807,
+    "snapshot_id": "c17a3aa8d548cc2695d8bcae6c35191bdb4d0d4a9affa335bbf461c9d07c248a",
+    "world_id": "南侧建筑区/independent/2026102807"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "independent",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102807,
+    "snapshot_id": "4544cd3d571464c01649ab820abe7317c5bda21a44c8d38b25befa8e6deb9f05",
+    "world_id": "南侧建筑区/independent/2026102807"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "independent",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102807,
+    "snapshot_id": "538397fd34dbd647268e3de8027759e6501aa226242e395858218636ad8b90b4",
+    "world_id": "南侧建筑区/independent/2026102807"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "independent",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102807,
+    "snapshot_id": "347d2d3d8d2119d97dbc598861c1b6f12fe6afb2f0ba79e36bbd9cba659741f2",
+    "world_id": "南侧建筑区/independent/2026102807"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "independent",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102807,
+    "snapshot_id": "7c964f8f97fb0f3336b7f28ffa29d77fe54633c03575c320ee60a4c0d14362c8",
+    "world_id": "南侧建筑区/independent/2026102807"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "independent",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102808,
+    "snapshot_id": "5b95cc3dbe5997e0ea6735dd68f2b61eaeb7f9badbac7a7d3e2508c45472d6de",
+    "world_id": "南侧建筑区/independent/2026102808"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "independent",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102808,
+    "snapshot_id": "a3d4a953ea0cbd65036199015313502a291b57192fe4f16912157e51899c199b",
+    "world_id": "南侧建筑区/independent/2026102808"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "independent",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102808,
+    "snapshot_id": "8fd5feeefc3be8fd039132d7efc5b31c862b0171715f745c99e1b5659b2f8506",
+    "world_id": "南侧建筑区/independent/2026102808"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "independent",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102808,
+    "snapshot_id": "61e60108f9df1201742fb1e402d19e90c2c282a106e38418954e3a93be53dc89",
+    "world_id": "南侧建筑区/independent/2026102808"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "independent",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102808,
+    "snapshot_id": "b9d28de963c95ae885cf9eaae2a35903eb5caa72f15f855c44ced5cffa0c6530",
+    "world_id": "南侧建筑区/independent/2026102808"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "independent",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102808,
+    "snapshot_id": "d2ef18b8305a41c5e3d2046456aeaab447051a1c1097c2c9f44b7ad63436ef17",
+    "world_id": "南侧建筑区/independent/2026102808"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "independent",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102808,
+    "snapshot_id": "c64d7cb0ebfa1e13d62e7150e8261de68f5a25a6ccbf1fa23ee01e1ea4ddeb93",
+    "world_id": "南侧建筑区/independent/2026102808"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "independent",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102808,
+    "snapshot_id": "0b1e7d51ad2732633032e02edbaad5b9fc4de073348eb9b86411bf8b21b1de1b",
+    "world_id": "南侧建筑区/independent/2026102808"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "independent",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102808,
+    "snapshot_id": "7f03e0f815e872a462e2b91a4bdf097c89b5df9c5b680f0ceef707cfba81ccbc",
+    "world_id": "南侧建筑区/independent/2026102808"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "independent",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102809,
+    "snapshot_id": "c0aeba1409fc9bce95ab526ce41e4148679706b2876731bd8747c825e8ef2415",
+    "world_id": "南侧建筑区/independent/2026102809"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "independent",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102809,
+    "snapshot_id": "4249b41a9442a3bdcdd9552ffe70eed8ef189f6ea812e23a4674a2a3f25e08ad",
+    "world_id": "南侧建筑区/independent/2026102809"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "independent",
+    "noise": "perfect",
+    "region": "南侧建筑区",
+    "seed": 2026102809,
+    "snapshot_id": "a90d37fcdbeaafe72f0e1cbb29bb8a4fdebc13b5e01431794c8717db5555a53d",
+    "world_id": "南侧建筑区/independent/2026102809"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "independent",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102809,
+    "snapshot_id": "cbd74d77bce252aa62656caf0cbfc40d145efb3b2d51f1ee323abc1624ac5d82",
+    "world_id": "南侧建筑区/independent/2026102809"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "independent",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102809,
+    "snapshot_id": "49f7194921404f181c5772c28621aa23b7e3ebc32bdbe56493f4cfef0abc5479",
+    "world_id": "南侧建筑区/independent/2026102809"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "independent",
+    "noise": "moderate",
+    "region": "南侧建筑区",
+    "seed": 2026102809,
+    "snapshot_id": "f6084ebccdc54873f4a36d0328e2d86bf9f871f0686959ba65284f3bec0f2d5b",
+    "world_id": "南侧建筑区/independent/2026102809"
+  },
+  {
+    "checkpoint": 5,
+    "mode": "independent",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102809,
+    "snapshot_id": "f72bb4fa4065fe93727f6ba18bfec15c9b51d7742e1f03b241c4c0d5eb5dc847",
+    "world_id": "南侧建筑区/independent/2026102809"
+  },
+  {
+    "checkpoint": 10,
+    "mode": "independent",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102809,
+    "snapshot_id": "ab5c5cb9daee7bed5c6c5635dbfbbbd02d558d0c2b1b3b562443826ab739700e",
+    "world_id": "南侧建筑区/independent/2026102809"
+  },
+  {
+    "checkpoint": 20,
+    "mode": "independent",
+    "noise": "poor",
+    "region": "南侧建筑区",
+    "seed": 2026102809,
+    "snapshot_id": "79c1ea5e54a2996b6d29a935acd06814c5d6f3f1cd65aa0171bb1142d6b86edc",
+    "world_id": "南侧建筑区/independent/2026102809"
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "catalogue_shared_across_cases": true,
+  "catalogue_subsets": 65536,
+  "catalogue_wall_s": 0.5037496670011024,
+  "new_model_calls": 0,
+  "note": "Actual offline wall time is not substituted for fixed legacy planning charge.",
+  "open_path_states": 524288
+}

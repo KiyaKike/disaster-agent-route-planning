@@ -1,0 +1,24 @@
+{
+  "status": "PLANNED_NOT_EXECUTED",
+  "scope": "Training development,not held-out evaluation",
+  "selection": "Next four scenes at zero-based eligibility ranks2,3,4,5 in the same geometry/metadata ordering; one fixed128m center ROI each; include all outcomes and failures; no replacement on performance.",
+  "scene_names": [
+    "1001-Ft-Myers-Beach-DIRT.geo.tif",
+    "1001-Iona-Point.geo.tif",
+    "1001-Kennedy-Green-Mobile-Homes.geo.tif",
+    "1001-McGregor-College-Pkwy-South.1.geo.tif"
+  ],
+  "primary_endpoint": "UAS-view major/destroyed; zero targets remain undefined and retained",
+  "secondary_endpoint": "UAS-view minor/major/destroyed; exploratory across current and next batch,not independent confirmation",
+  "input_contract": "Pinned dataset and detector,same footprints/windows,explicit masks,prior/paid evidence isolation; no training or thresholds tuned on this batch",
+  "gates": [
+    "Published time order and sensor relation",
+    "Independent image alignment check",
+    "Footprint support and target prevalence",
+    "Strong static versus evaluator ceiling gap",
+    "Paid feedback increment established before fitting update"
+  ],
+  "flight_costs": "Proxy sensitivity only until measured telemetry/camera contract available",
+  "gpu_rental": false,
+  "method_success_criterion": "Consistent paired effective-check gain against sufficiently solved static across admissible regions/budgets,with false positives,computation,return and service costs reported; one case insufficient"
+}

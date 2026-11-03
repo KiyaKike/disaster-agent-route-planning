@@ -1,0 +1,61 @@
+{
+  "budgets_s_proxy": [
+    120,
+    240,
+    360
+  ],
+  "claim_scope": "Real-image/model/reference replay with idealized grid motion. Not new independent disasters,real continuous-area flight or field validation.",
+  "client_date": "2026-11-02",
+  "control": "Online_frozen uses same rescheduling and fees without propagation;separates feedback from solving again.",
+  "examples": "Per-event previously fixed selection_rank1;full36 remain available in viewer;do not replace unfavorable examples.",
+  "feedback": "Only after paid local observation reveal fixed detector severe-pixel count. Online_neighbor averages current post utility with binary severe-presence bits of paid4-neighbors;untuned baseline,not a claimed new method.",
+  "geometry": "Each1024chip is a separate4x4inspection grid;centers of native256tiles;hypothetical depot bottom-middle. Never connect unrelated chips.",
+  "gpu_rented": false,
+  "input_sha256": {
+    "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_route_real_xbd36_v1/capture_metadata.json": "cdbf510506ed743c492f78de3c99161cb3a044bdbed0759874f7e6c8bbcf1897",
+    "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/RGB_manifest.json": "5c53f2f50b4795b2ba11f566a9f3037650d575aecf34117dff2f995836725d2d",
+    "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/cache_manifest.json": "b94090905c0c5d642eabda695b90062a81f325f49547f912ef2a4d3df5e9218c",
+    "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/completion_receipt.json": "92d93ccc683334e784b30c050aba784d4192a9d2de8baec3e55993ec8eb2d4cf",
+    "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/reference_manifest.json": "bd6bd46584dd5a98d568b8f144d2b3663d9eee828d19bb82786366b520fdc1d5",
+    "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/rgb_jobs.json": "0eb81bd5439aa78a4cf2b85cff509c61aeb2e81704f0c9d1aa10d8dc49f22ba8",
+    "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/selected.json": "1b25f314b403b80f37490e7641f0ac257e24cf1df9049f2f1e434ea5be3ec0e5"
+  },
+  "metrics": [
+    "Correctly detected severe-reference pixels and pooled event recall",
+    "Covered severe-reference pixels",
+    "False positives",
+    "First arrival/detection withnull/failure rate",
+    "Grid distance and proxytime",
+    "Planning calls and paid observations"
+  ],
+  "model": "Reuse all576 frozen native256 author4flip caches;unchanged threshold. No new inference or random synthetic observation errors.",
+  "new_model_calls": 0,
+  "new_real_annotations": 0,
+  "new_training": false,
+  "opportunity_gate": "Keep Sunda zero-detectable cases and every other failure. No family/threshold tuning on this36 and no universal success claim;all-tiles detector ceiling is not a same-budget oracle.",
+  "planning": "Common greedy-seeded insertion+2opt using unitless utilities. Pre-plan1 charged to all;post-static/online pay additional1post revision;online pays each subsequent attempt.",
+  "policies": [
+    "pre_static",
+    "post_static",
+    "online_frozen",
+    "online_neighbor"
+  ],
+  "primary_budget_s_proxy": 240,
+  "prior": "Free cached64BOXpre/post RGB;pretexture gradient midrank;post equal-weight pretexture rank and change rank. Utilities .05+.95rank,not calibrated target probabilities.",
+  "reference": "Published semantic masks,major/destroyed pixels;unknown255 ignored. No reference label,TP,FP or unseen local prediction passed to planner.",
+  "route_count": 432,
+  "selection": "All existing36,three events12each,no replacement or new outcome-based selection;permanently development data.",
+  "source_sha256": {
+    "real_xbd_route_core.py": "5b3a06c4a62e145afb22ff2620ad8a9741c7f57be7d5d64b7e0013c06e9f3456",
+    "real_xbd_viewer.html": "86878b294207481e4befad2d15581549fe44b25a6a354acb61211f6c7c1dec2b",
+    "run_real_xbd_routes.py": "c7b905dc207f2dd1daa98807b1a9f792ed10a8c9116aaa1ac5b46228d8cc730c",
+    "test_route_real_xbd.py": "42fac544434a6962804c40b18efbaf4e22d1792429b956675fc6a218cbb14efc"
+  },
+  "source_urls": [
+    "https://arxiv.org/abs/1911.09296",
+    "https://huggingface.co/datasets/isp-uv-es/xview2-taco/tree/44e219dc1d88c9d0903d6b478d7f2f3c435e574f"
+  ],
+  "stage": "REAL_XBD36_IMAGE_GRID_ROUTE_REPLAY_V1",
+  "test_log_sha256": "994bf1c57051a133e6614c674dc4fc9e5567ec929df4b26e0a7abf886aa4a5fd",
+  "units": "Distance in256px grid widths;20proxy seconds per grid width,20per observation,1per actual solve. Published sensor GSD not used as PNG pixel spacing;no real meters or verified flight-time claim."
+}

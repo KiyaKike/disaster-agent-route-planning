@@ -1,0 +1,6 @@
+{
+  "current_reference_schema_unit_tests": "All8 pass;16 including geometry/policy/evaluator tests pass.",
+  "issue": "Initial synthetic P-mode fixture saved without an explicit256-entry palette encoded its intended index3 as1.",
+  "repair": "Fixture now supplies a full grayscale palette and8-bit PNG. Production reference decoder unchanged.",
+  "timing_note": "Mask extraction had started while correcting this fixture assertion; no policy/inference result was used to change decoder, schema, sample list or metrics."
+}

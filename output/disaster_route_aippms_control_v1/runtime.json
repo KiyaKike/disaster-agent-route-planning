@@ -1,0 +1,26 @@
+[
+  {
+    "budget": 12,
+    "exact_wall_s": 0.0066677079994406085,
+    "pomcp_wall_s": 0.9584909580007661,
+    "sensor_model": "informative"
+  },
+  {
+    "budget": 20,
+    "exact_wall_s": 0.08187783299945295,
+    "pomcp_wall_s": 1.8933147079987975,
+    "sensor_model": "informative"
+  },
+  {
+    "budget": 12,
+    "exact_wall_s": 0.001887082999019185,
+    "pomcp_wall_s": 0.7112891670003592,
+    "sensor_model": "uninformative"
+  },
+  {
+    "budget": 20,
+    "exact_wall_s": 0.012105999998311745,
+    "pomcp_wall_s": 0.7697981659985089,
+    "sensor_model": "uninformative"
+  }
+]

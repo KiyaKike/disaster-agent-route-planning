@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "shards": 50,
+  "canonical_ids": 8043,
+  "hold_ids": 933,
+  "pairwise_canonical_id_overlap": 0,
+  "mini_ids_in_published_training_pool": 72,
+  "metadata_read_bytes": 3368933,
+  "image_or_mask_columns_read": false,
+  "pixel_hashes_verified": false,
+  "unit_tests_passed": 78,
+  "pyarrow_version": "26.0.0",
+  "report_sha256": "529408aca79ce3d64b1d8880264a48adfcf0802e611db3b0b092ac9854e58afc",
+  "ids_sha256": "d60d89219847292051e9d96e92cb32e1ba6931f6689cc2677693e675203a83fe",
+  "runner_sha256": "1950f8b34c91392d716208dbacaa3b15acce4aa62499fb1eff76e2a66da015fd"
+}

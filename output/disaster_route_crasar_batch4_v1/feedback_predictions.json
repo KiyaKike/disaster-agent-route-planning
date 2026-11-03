@@ -1,0 +1,2208 @@
+[
+  {
+    "held_out": "case_rank03",
+    "mode": "prior",
+    "prefix": [
+      14
+    ],
+    "candidate": 1,
+    "target_future_model_fraction": 0.7820705176294074,
+    "prediction": 0.16876998131921334
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior",
+    "prefix": [
+      14
+    ],
+    "candidate": 2,
+    "target_future_model_fraction": 0.9002642007926024,
+    "prediction": 0.0
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior",
+    "prefix": [
+      14
+    ],
+    "candidate": 3,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.0
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior",
+    "prefix": [
+      14
+    ],
+    "candidate": 4,
+    "target_future_model_fraction": 0.05303828591499824,
+    "prediction": 0.1024226269769763
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior",
+    "prefix": [
+      14
+    ],
+    "candidate": 5,
+    "target_future_model_fraction": 0.5825278810408921,
+    "prediction": 0.2612812277577408
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior",
+    "prefix": [
+      14
+    ],
+    "candidate": 6,
+    "target_future_model_fraction": 0.6838340486409156,
+    "prediction": 0.0
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior",
+    "prefix": [
+      14
+    ],
+    "candidate": 7,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.03393827795854765
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior",
+    "prefix": [
+      14
+    ],
+    "candidate": 8,
+    "target_future_model_fraction": 0.5556533990841845,
+    "prediction": 0.269830360102252
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior",
+    "prefix": [
+      14
+    ],
+    "candidate": 9,
+    "target_future_model_fraction": 0.3465319497542327,
+    "prediction": 0.0
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior",
+    "prefix": [
+      14
+    ],
+    "candidate": 11,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.08861451720455812
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior",
+    "prefix": [
+      14
+    ],
+    "candidate": 12,
+    "target_future_model_fraction": 0.06043956043956044,
+    "prediction": 0.05007894459858057
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior",
+    "prefix": [
+      14
+    ],
+    "candidate": 15,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.0
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior",
+    "prefix": [
+      14,
+      10
+    ],
+    "candidate": 1,
+    "target_future_model_fraction": 0.7820705176294074,
+    "prediction": 0.1658108963935815
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior",
+    "prefix": [
+      14,
+      10
+    ],
+    "candidate": 2,
+    "target_future_model_fraction": 0.9002642007926024,
+    "prediction": 0.0
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior",
+    "prefix": [
+      14,
+      10
+    ],
+    "candidate": 3,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.0
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior",
+    "prefix": [
+      14,
+      10
+    ],
+    "candidate": 4,
+    "target_future_model_fraction": 0.05303828591499824,
+    "prediction": 0.09946354205134447
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior",
+    "prefix": [
+      14,
+      10
+    ],
+    "candidate": 7,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.030979193032915825
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior",
+    "prefix": [
+      14,
+      10
+    ],
+    "candidate": 8,
+    "target_future_model_fraction": 0.5556533990841845,
+    "prediction": 0.2668712751766202
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior",
+    "prefix": [
+      14,
+      10
+    ],
+    "candidate": 11,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.0856554322789263
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior",
+    "prefix": [
+      14,
+      10
+    ],
+    "candidate": 12,
+    "target_future_model_fraction": 0.06043956043956044,
+    "prediction": 0.04711985967294875
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior",
+    "prefix": [
+      14,
+      10
+    ],
+    "candidate": 15,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.0
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior",
+    "prefix": [
+      14,
+      10,
+      6
+    ],
+    "candidate": 1,
+    "target_future_model_fraction": 0.7820705176294074,
+    "prediction": 0.16371139222677786
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior",
+    "prefix": [
+      14,
+      10,
+      6
+    ],
+    "candidate": 4,
+    "target_future_model_fraction": 0.05303828591499824,
+    "prediction": 0.09736403788454083
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior",
+    "prefix": [
+      14,
+      10,
+      6
+    ],
+    "candidate": 8,
+    "target_future_model_fraction": 0.5556533990841845,
+    "prediction": 0.2647717710098165
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior",
+    "prefix": [
+      14,
+      10,
+      6
+    ],
+    "candidate": 11,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.08355592811212266
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior",
+    "prefix": [
+      14,
+      10,
+      6
+    ],
+    "candidate": 12,
+    "target_future_model_fraction": 0.06043956043956044,
+    "prediction": 0.04502035550614511
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior",
+    "prefix": [
+      14,
+      10,
+      6
+    ],
+    "candidate": 15,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.0
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior",
+    "prefix": [
+      14,
+      10,
+      6,
+      2
+    ],
+    "candidate": 1,
+    "target_future_model_fraction": 0.7820705176294074,
+    "prediction": 0.1620828902774321
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior",
+    "prefix": [
+      14,
+      10,
+      6,
+      2
+    ],
+    "candidate": 4,
+    "target_future_model_fraction": 0.05303828591499824,
+    "prediction": 0.09573553593519508
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior",
+    "prefix": [
+      14,
+      10,
+      6,
+      2
+    ],
+    "candidate": 8,
+    "target_future_model_fraction": 0.5556533990841845,
+    "prediction": 0.2631432690604708
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior",
+    "prefix": [
+      14,
+      10,
+      6,
+      2
+    ],
+    "candidate": 11,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.08192742616277693
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior",
+    "prefix": [
+      14,
+      10,
+      6,
+      2
+    ],
+    "candidate": 12,
+    "target_future_model_fraction": 0.06043956043956044,
+    "prediction": 0.043391853556799365
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior",
+    "prefix": [
+      14,
+      10,
+      6,
+      2
+    ],
+    "candidate": 15,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.0
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior",
+    "prefix": [
+      14,
+      10,
+      6,
+      2,
+      9
+    ],
+    "candidate": 1,
+    "target_future_model_fraction": 0.7820705176294074,
+    "prediction": 0.16075230730114604
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior",
+    "prefix": [
+      14,
+      10,
+      6,
+      2,
+      9
+    ],
+    "candidate": 4,
+    "target_future_model_fraction": 0.05303828591499824,
+    "prediction": 0.09440495295890902
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior",
+    "prefix": [
+      14,
+      10,
+      6,
+      2,
+      9
+    ],
+    "candidate": 8,
+    "target_future_model_fraction": 0.5556533990841845,
+    "prediction": 0.26181268608418473
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior",
+    "prefix": [
+      14,
+      10,
+      6,
+      2,
+      9
+    ],
+    "candidate": 11,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.08059684318649085
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior",
+    "prefix": [
+      14,
+      10,
+      6,
+      2,
+      9
+    ],
+    "candidate": 12,
+    "target_future_model_fraction": 0.06043956043956044,
+    "prediction": 0.042061270580513295
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior",
+    "prefix": [
+      14,
+      10,
+      6,
+      2,
+      9
+    ],
+    "candidate": 15,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.0
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      14
+    ],
+    "candidate": 1,
+    "target_future_model_fraction": 0.7820705176294074,
+    "prediction": 0.06456758645076174
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      14
+    ],
+    "candidate": 2,
+    "target_future_model_fraction": 0.9002642007926024,
+    "prediction": 0.0
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      14
+    ],
+    "candidate": 3,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.0
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      14
+    ],
+    "candidate": 4,
+    "target_future_model_fraction": 0.05303828591499824,
+    "prediction": 0.007078675912591821
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      14
+    ],
+    "candidate": 5,
+    "target_future_model_fraction": 0.5825278810408921,
+    "prediction": 0.1592792069854627
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      14
+    ],
+    "candidate": 6,
+    "target_future_model_fraction": 0.6838340486409156,
+    "prediction": 0.0
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      14
+    ],
+    "candidate": 7,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.0
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      14
+    ],
+    "candidate": 8,
+    "target_future_model_fraction": 0.5556533990841845,
+    "prediction": 0.1747966599281931
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      14
+    ],
+    "candidate": 9,
+    "target_future_model_fraction": 0.3465319497542327,
+    "prediction": 0.0
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      14
+    ],
+    "candidate": 11,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.0
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      14
+    ],
+    "candidate": 12,
+    "target_future_model_fraction": 0.06043956043956044,
+    "prediction": 0.0
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      14
+    ],
+    "candidate": 15,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.0
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      14,
+      10
+    ],
+    "candidate": 1,
+    "target_future_model_fraction": 0.7820705176294074,
+    "prediction": 0.05806484581801202
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      14,
+      10
+    ],
+    "candidate": 2,
+    "target_future_model_fraction": 0.9002642007926024,
+    "prediction": 0.0
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      14,
+      10
+    ],
+    "candidate": 3,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.0
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      14,
+      10
+    ],
+    "candidate": 4,
+    "target_future_model_fraction": 0.05303828591499824,
+    "prediction": 0.0
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      14,
+      10
+    ],
+    "candidate": 7,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.0
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      14,
+      10
+    ],
+    "candidate": 8,
+    "target_future_model_fraction": 0.5556533990841845,
+    "prediction": 0.13635395667196998
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      14,
+      10
+    ],
+    "candidate": 11,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.0
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      14,
+      10
+    ],
+    "candidate": 12,
+    "target_future_model_fraction": 0.06043956043956044,
+    "prediction": 0.0
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      14,
+      10
+    ],
+    "candidate": 15,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.0
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      14,
+      10,
+      6
+    ],
+    "candidate": 1,
+    "target_future_model_fraction": 0.7820705176294074,
+    "prediction": 0.057969278777648375
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      14,
+      10,
+      6
+    ],
+    "candidate": 4,
+    "target_future_model_fraction": 0.05303828591499824,
+    "prediction": 0.0
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      14,
+      10,
+      6
+    ],
+    "candidate": 8,
+    "target_future_model_fraction": 0.5556533990841845,
+    "prediction": 0.13091301057874957
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      14,
+      10,
+      6
+    ],
+    "candidate": 11,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.0
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      14,
+      10,
+      6
+    ],
+    "candidate": 12,
+    "target_future_model_fraction": 0.06043956043956044,
+    "prediction": 0.0
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      14,
+      10,
+      6
+    ],
+    "candidate": 15,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.0
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      14,
+      10,
+      6,
+      2
+    ],
+    "candidate": 1,
+    "target_future_model_fraction": 0.7820705176294074,
+    "prediction": 0.05602728807797691
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      14,
+      10,
+      6,
+      2
+    ],
+    "candidate": 4,
+    "target_future_model_fraction": 0.05303828591499824,
+    "prediction": 0.0
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      14,
+      10,
+      6,
+      2
+    ],
+    "candidate": 8,
+    "target_future_model_fraction": 0.5556533990841845,
+    "prediction": 0.10823676447836958
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      14,
+      10,
+      6,
+      2
+    ],
+    "candidate": 11,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.0
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      14,
+      10,
+      6,
+      2
+    ],
+    "candidate": 12,
+    "target_future_model_fraction": 0.06043956043956044,
+    "prediction": 0.0
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      14,
+      10,
+      6,
+      2
+    ],
+    "candidate": 15,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.0
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      14,
+      10,
+      6,
+      2,
+      9
+    ],
+    "candidate": 1,
+    "target_future_model_fraction": 0.7820705176294074,
+    "prediction": 0.05257922786792804
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      14,
+      10,
+      6,
+      2,
+      9
+    ],
+    "candidate": 4,
+    "target_future_model_fraction": 0.05303828591499824,
+    "prediction": 0.0
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      14,
+      10,
+      6,
+      2,
+      9
+    ],
+    "candidate": 8,
+    "target_future_model_fraction": 0.5556533990841845,
+    "prediction": 0.08327574430710283
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      14,
+      10,
+      6,
+      2,
+      9
+    ],
+    "candidate": 11,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.0
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      14,
+      10,
+      6,
+      2,
+      9
+    ],
+    "candidate": 12,
+    "target_future_model_fraction": 0.06043956043956044,
+    "prediction": 0.0
+  },
+  {
+    "held_out": "case_rank03",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      14,
+      10,
+      6,
+      2,
+      9
+    ],
+    "candidate": 15,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.0
+  },
+  {
+    "held_out": "case_rank04",
+    "mode": "prior",
+    "prefix": [
+      13
+    ],
+    "candidate": 1,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.5322795577953922
+  },
+  {
+    "held_out": "case_rank04",
+    "mode": "prior",
+    "prefix": [
+      13
+    ],
+    "candidate": 2,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.23098850076058897
+  },
+  {
+    "held_out": "case_rank04",
+    "mode": "prior",
+    "prefix": [
+      13
+    ],
+    "candidate": 5,
+    "target_future_model_fraction": 0.2319268220714075,
+    "prediction": 1.0
+  },
+  {
+    "held_out": "case_rank04",
+    "mode": "prior",
+    "prefix": [
+      13
+    ],
+    "candidate": 6,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.5915728898089833
+  },
+  {
+    "held_out": "case_rank04",
+    "mode": "prior",
+    "prefix": [
+      13
+    ],
+    "candidate": 7,
+    "target_future_model_fraction": 0.16894511324219547,
+    "prediction": 0.7473418787709081
+  },
+  {
+    "held_out": "case_rank04",
+    "mode": "prior",
+    "prefix": [
+      13
+    ],
+    "candidate": 11,
+    "target_future_model_fraction": 0.2671069270760152,
+    "prediction": 0.3967291506693545
+  },
+  {
+    "held_out": "case_rank04",
+    "mode": "prior",
+    "prefix": [
+      13
+    ],
+    "candidate": 15,
+    "target_future_model_fraction": 0.44605508386829573,
+    "prediction": 0.5598875952880903
+  },
+  {
+    "held_out": "case_rank04",
+    "mode": "prior",
+    "prefix": [
+      13,
+      9
+    ],
+    "candidate": 1,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.5232070517853478
+  },
+  {
+    "held_out": "case_rank04",
+    "mode": "prior",
+    "prefix": [
+      13,
+      9
+    ],
+    "candidate": 2,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.2219159947505445
+  },
+  {
+    "held_out": "case_rank04",
+    "mode": "prior",
+    "prefix": [
+      13,
+      9
+    ],
+    "candidate": 7,
+    "target_future_model_fraction": 0.16894511324219547,
+    "prediction": 0.7382693727608636
+  },
+  {
+    "held_out": "case_rank04",
+    "mode": "prior",
+    "prefix": [
+      13,
+      9
+    ],
+    "candidate": 11,
+    "target_future_model_fraction": 0.2671069270760152,
+    "prediction": 0.38765664465931005
+  },
+  {
+    "held_out": "case_rank04",
+    "mode": "prior",
+    "prefix": [
+      13,
+      9
+    ],
+    "candidate": 15,
+    "target_future_model_fraction": 0.44605508386829573,
+    "prediction": 0.5508150892780459
+  },
+  {
+    "held_out": "case_rank04",
+    "mode": "prior",
+    "prefix": [
+      13,
+      9,
+      5
+    ],
+    "candidate": 7,
+    "target_future_model_fraction": 0.16894511324219547,
+    "prediction": 0.7318323273058831
+  },
+  {
+    "held_out": "case_rank04",
+    "mode": "prior",
+    "prefix": [
+      13,
+      9,
+      5
+    ],
+    "candidate": 11,
+    "target_future_model_fraction": 0.2671069270760152,
+    "prediction": 0.3812195992043295
+  },
+  {
+    "held_out": "case_rank04",
+    "mode": "prior",
+    "prefix": [
+      13,
+      9,
+      5
+    ],
+    "candidate": 15,
+    "target_future_model_fraction": 0.44605508386829573,
+    "prediction": 0.5443780438230653
+  },
+  {
+    "held_out": "case_rank04",
+    "mode": "prior",
+    "prefix": [
+      13,
+      9,
+      5,
+      1
+    ],
+    "candidate": 7,
+    "target_future_model_fraction": 0.16894511324219547,
+    "prediction": 0.7268393669501901
+  },
+  {
+    "held_out": "case_rank04",
+    "mode": "prior",
+    "prefix": [
+      13,
+      9,
+      5,
+      1
+    ],
+    "candidate": 11,
+    "target_future_model_fraction": 0.2671069270760152,
+    "prediction": 0.37622663884863655
+  },
+  {
+    "held_out": "case_rank04",
+    "mode": "prior",
+    "prefix": [
+      13,
+      9,
+      5,
+      1
+    ],
+    "candidate": 15,
+    "target_future_model_fraction": 0.44605508386829573,
+    "prediction": 0.5393850834673724
+  },
+  {
+    "held_out": "case_rank04",
+    "mode": "prior",
+    "prefix": [
+      13,
+      9,
+      5,
+      1,
+      10
+    ],
+    "candidate": 7,
+    "target_future_model_fraction": 0.16894511324219547,
+    "prediction": 0.7227598212958386
+  },
+  {
+    "held_out": "case_rank04",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      13
+    ],
+    "candidate": 1,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.4660395431341936
+  },
+  {
+    "held_out": "case_rank04",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      13
+    ],
+    "candidate": 2,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.16837434410091362
+  },
+  {
+    "held_out": "case_rank04",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      13
+    ],
+    "candidate": 5,
+    "target_future_model_fraction": 0.2319268220714075,
+    "prediction": 0.9333991400323515
+  },
+  {
+    "held_out": "case_rank04",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      13
+    ],
+    "candidate": 6,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.5272506420683842
+  },
+  {
+    "held_out": "case_rank04",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      13
+    ],
+    "candidate": 7,
+    "target_future_model_fraction": 0.16894511324219547,
+    "prediction": 0.6781273891633758
+  },
+  {
+    "held_out": "case_rank04",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      13
+    ],
+    "candidate": 11,
+    "target_future_model_fraction": 0.2671069270760152,
+    "prediction": 0.3269554345034942
+  },
+  {
+    "held_out": "case_rank04",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      13
+    ],
+    "candidate": 15,
+    "target_future_model_fraction": 0.44605508386829573,
+    "prediction": 0.49297000225864546
+  },
+  {
+    "held_out": "case_rank04",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      13,
+      9
+    ],
+    "candidate": 1,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.44799035689758726
+  },
+  {
+    "held_out": "case_rank04",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      13,
+      9
+    ],
+    "candidate": 2,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.15032203281853213
+  },
+  {
+    "held_out": "case_rank04",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      13,
+      9
+    ],
+    "candidate": 7,
+    "target_future_model_fraction": 0.16894511324219547,
+    "prediction": 0.6600677646399806
+  },
+  {
+    "held_out": "case_rank04",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      13,
+      9
+    ],
+    "candidate": 11,
+    "target_future_model_fraction": 0.2671069270760152,
+    "prediction": 0.30888767351558566
+  },
+  {
+    "held_out": "case_rank04",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      13,
+      9
+    ],
+    "candidate": 15,
+    "target_future_model_fraction": 0.44605508386829573,
+    "prediction": 0.4771509781329117
+  },
+  {
+    "held_out": "case_rank04",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      13,
+      9,
+      5
+    ],
+    "candidate": 7,
+    "target_future_model_fraction": 0.16894511324219547,
+    "prediction": 0.6604673811140493
+  },
+  {
+    "held_out": "case_rank04",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      13,
+      9,
+      5
+    ],
+    "candidate": 11,
+    "target_future_model_fraction": 0.2671069270760152,
+    "prediction": 0.30052901439929536
+  },
+  {
+    "held_out": "case_rank04",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      13,
+      9,
+      5
+    ],
+    "candidate": 15,
+    "target_future_model_fraction": 0.44605508386829573,
+    "prediction": 0.46883936529774484
+  },
+  {
+    "held_out": "case_rank04",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      13,
+      9,
+      5,
+      1
+    ],
+    "candidate": 7,
+    "target_future_model_fraction": 0.16894511324219547,
+    "prediction": 0.6515217821123311
+  },
+  {
+    "held_out": "case_rank04",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      13,
+      9,
+      5,
+      1
+    ],
+    "candidate": 11,
+    "target_future_model_fraction": 0.2671069270760152,
+    "prediction": 0.2915489516798654
+  },
+  {
+    "held_out": "case_rank04",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      13,
+      9,
+      5,
+      1
+    ],
+    "candidate": 15,
+    "target_future_model_fraction": 0.44605508386829573,
+    "prediction": 0.45984058891418345
+  },
+  {
+    "held_out": "case_rank04",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      13,
+      9,
+      5,
+      1,
+      10
+    ],
+    "candidate": 7,
+    "target_future_model_fraction": 0.16894511324219547,
+    "prediction": 0.6374905981176398
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior",
+    "prefix": [
+      13
+    ],
+    "candidate": 1,
+    "target_future_model_fraction": 0.5781905332534452,
+    "prediction": 0.6250531698123613
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior",
+    "prefix": [
+      13
+    ],
+    "candidate": 2,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.3029665873104982
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior",
+    "prefix": [
+      13
+    ],
+    "candidate": 3,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.6980714042293875
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior",
+    "prefix": [
+      13
+    ],
+    "candidate": 5,
+    "target_future_model_fraction": 0.00036536353671903543,
+    "prediction": 0.7548484560646418
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior",
+    "prefix": [
+      13
+    ],
+    "candidate": 6,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.4058350534889059
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior",
+    "prefix": [
+      13
+    ],
+    "candidate": 7,
+    "target_future_model_fraction": 0.0013449899125756557,
+    "prediction": 0.3981366880576743
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior",
+    "prefix": [
+      13
+    ],
+    "candidate": 8,
+    "target_future_model_fraction": 0.599651365485183,
+    "prediction": 1.0
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior",
+    "prefix": [
+      13
+    ],
+    "candidate": 9,
+    "target_future_model_fraction": 0.14498644986449866,
+    "prediction": 0.4563159484487983
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior",
+    "prefix": [
+      13
+    ],
+    "candidate": 10,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.426619894034439
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior",
+    "prefix": [
+      13
+    ],
+    "candidate": 11,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.40093556408622855
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior",
+    "prefix": [
+      13
+    ],
+    "candidate": 14,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.44778004452557874
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior",
+    "prefix": [
+      13
+    ],
+    "candidate": 15,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.4346468357743886
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior",
+    "prefix": [
+      13,
+      9
+    ],
+    "candidate": 1,
+    "target_future_model_fraction": 0.5781905332534452,
+    "prediction": 0.6230747267603756
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior",
+    "prefix": [
+      13,
+      9
+    ],
+    "candidate": 2,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.3009881442585125
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior",
+    "prefix": [
+      13,
+      9
+    ],
+    "candidate": 3,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.6960929611774018
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior",
+    "prefix": [
+      13,
+      9
+    ],
+    "candidate": 6,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.4038566104369202
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior",
+    "prefix": [
+      13,
+      9
+    ],
+    "candidate": 7,
+    "target_future_model_fraction": 0.0013449899125756557,
+    "prediction": 0.39615824500568864
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior",
+    "prefix": [
+      13,
+      9
+    ],
+    "candidate": 10,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.4246414509824533
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior",
+    "prefix": [
+      13,
+      9
+    ],
+    "candidate": 11,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.39895712103424286
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior",
+    "prefix": [
+      13,
+      9
+    ],
+    "candidate": 14,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.44580160147359305
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior",
+    "prefix": [
+      13,
+      9
+    ],
+    "candidate": 15,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.43266839272240293
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior",
+    "prefix": [
+      13,
+      9,
+      5
+    ],
+    "candidate": 3,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.6946892334927222
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior",
+    "prefix": [
+      13,
+      9,
+      5
+    ],
+    "candidate": 6,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.40245288275224056
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior",
+    "prefix": [
+      13,
+      9,
+      5
+    ],
+    "candidate": 7,
+    "target_future_model_fraction": 0.0013449899125756557,
+    "prediction": 0.39475451732100897
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior",
+    "prefix": [
+      13,
+      9,
+      5
+    ],
+    "candidate": 10,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.42323772329777365
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior",
+    "prefix": [
+      13,
+      9,
+      5
+    ],
+    "candidate": 11,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.3975533933495632
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior",
+    "prefix": [
+      13,
+      9,
+      5
+    ],
+    "candidate": 14,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.4443978737889134
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior",
+    "prefix": [
+      13,
+      9,
+      5
+    ],
+    "candidate": 15,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.43126466503772326
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior",
+    "prefix": [
+      13,
+      9,
+      5,
+      1
+    ],
+    "candidate": 3,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.6936004177108837
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior",
+    "prefix": [
+      13,
+      9,
+      5,
+      1
+    ],
+    "candidate": 6,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.4013640669704021
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior",
+    "prefix": [
+      13,
+      9,
+      5,
+      1
+    ],
+    "candidate": 7,
+    "target_future_model_fraction": 0.0013449899125756557,
+    "prediction": 0.39366570153917047
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior",
+    "prefix": [
+      13,
+      9,
+      5,
+      1
+    ],
+    "candidate": 10,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.42214890751593515
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior",
+    "prefix": [
+      13,
+      9,
+      5,
+      1
+    ],
+    "candidate": 11,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.3964645775677248
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior",
+    "prefix": [
+      13,
+      9,
+      5,
+      1
+    ],
+    "candidate": 14,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.443309058007075
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior",
+    "prefix": [
+      13,
+      9,
+      5,
+      1
+    ],
+    "candidate": 15,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.4301758492558848
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior",
+    "prefix": [
+      13,
+      9,
+      5,
+      1,
+      10
+    ],
+    "candidate": 3,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.6927107904407365
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior",
+    "prefix": [
+      13,
+      9,
+      5,
+      1,
+      10
+    ],
+    "candidate": 6,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.40047443970025487
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior",
+    "prefix": [
+      13,
+      9,
+      5,
+      1,
+      10
+    ],
+    "candidate": 7,
+    "target_future_model_fraction": 0.0013449899125756557,
+    "prediction": 0.3927760742690233
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      13
+    ],
+    "candidate": 1,
+    "target_future_model_fraction": 0.5781905332534452,
+    "prediction": 0.6191390462312776
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      13
+    ],
+    "candidate": 2,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.29643205208440804
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      13
+    ],
+    "candidate": 3,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.6832835979545367
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      13
+    ],
+    "candidate": 5,
+    "target_future_model_fraction": 0.00036536353671903543,
+    "prediction": 0.7509120721923792
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      13
+    ],
+    "candidate": 6,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.40148676475372347
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      13
+    ],
+    "candidate": 7,
+    "target_future_model_fraction": 0.0013449899125756557,
+    "prediction": 0.38948785400344743
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      13
+    ],
+    "candidate": 8,
+    "target_future_model_fraction": 0.599651365485183,
+    "prediction": 1.0
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      13
+    ],
+    "candidate": 9,
+    "target_future_model_fraction": 0.14498644986449866,
+    "prediction": 0.4602327524526719
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      13
+    ],
+    "candidate": 10,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.42582369585531776
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      13
+    ],
+    "candidate": 11,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.395092249533413
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      13
+    ],
+    "candidate": 14,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.44874953413945307
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      13
+    ],
+    "candidate": 15,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.4318427443820104
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      13,
+      9
+    ],
+    "candidate": 1,
+    "target_future_model_fraction": 0.5781905332534452,
+    "prediction": 0.6226900832989565
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      13,
+      9
+    ],
+    "candidate": 2,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.2998649827322245
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      13,
+      9
+    ],
+    "candidate": 3,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.6864955721965839
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      13,
+      9
+    ],
+    "candidate": 6,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.4050551615399227
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      13,
+      9
+    ],
+    "candidate": 7,
+    "target_future_model_fraction": 0.0013449899125756557,
+    "prediction": 0.39264439167150167
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      13,
+      9
+    ],
+    "candidate": 10,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.4290469973148552
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      13,
+      9
+    ],
+    "candidate": 11,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.39794128172374643
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      13,
+      9
+    ],
+    "candidate": 14,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.4432373653854479
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      13,
+      9
+    ],
+    "candidate": 15,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.4267048448972092
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      13,
+      9,
+      5
+    ],
+    "candidate": 3,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.6798956245796941
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      13,
+      9,
+      5
+    ],
+    "candidate": 6,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.39818585440512344
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      13,
+      9,
+      5
+    ],
+    "candidate": 7,
+    "target_future_model_fraction": 0.0013449899125756557,
+    "prediction": 0.38624393530929224
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      13,
+      9,
+      5
+    ],
+    "candidate": 10,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.4307030650863811
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      13,
+      9,
+      5
+    ],
+    "candidate": 11,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.39961994857292155
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      13,
+      9,
+      5
+    ],
+    "candidate": 14,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.4456607591850009
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      13,
+      9,
+      5
+    ],
+    "candidate": 15,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.42878834180382963
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      13,
+      9,
+      5,
+      1
+    ],
+    "candidate": 3,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.7042314495630946
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      13,
+      9,
+      5,
+      1
+    ],
+    "candidate": 6,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.3891658313295433
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      13,
+      9,
+      5,
+      1
+    ],
+    "candidate": 7,
+    "target_future_model_fraction": 0.0013449899125756557,
+    "prediction": 0.37730499771829407
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      13,
+      9,
+      5,
+      1
+    ],
+    "candidate": 10,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.4183167295441454
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      13,
+      9,
+      5,
+      1
+    ],
+    "candidate": 11,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.3886520074772105
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      13,
+      9,
+      5,
+      1
+    ],
+    "candidate": 14,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.43211944171309286
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      13,
+      9,
+      5,
+      1
+    ],
+    "candidate": 15,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.416742674825768
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      13,
+      9,
+      5,
+      1,
+      10
+    ],
+    "candidate": 3,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.7059441244768901
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      13,
+      9,
+      5,
+      1,
+      10
+    ],
+    "candidate": 6,
+    "target_future_model_fraction": 0.0,
+    "prediction": 0.39104688875078436
+  },
+  {
+    "held_out": "case_rank06",
+    "mode": "prior_plus_paid",
+    "prefix": [
+      13,
+      9,
+      5,
+      1,
+      10
+    ],
+    "candidate": 7,
+    "target_future_model_fraction": 0.0013449899125756557,
+    "prediction": 0.3789597180863589
+  }
+]

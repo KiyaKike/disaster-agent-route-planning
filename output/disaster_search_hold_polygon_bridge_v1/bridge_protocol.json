@@ -1,0 +1,23 @@
+{
+  "child_columns": [
+    "internal:parent_id",
+    "internal:relative_path",
+    "internal:offset",
+    "internal:size"
+  ],
+  "damage_column_access": false,
+  "geometry_columns": [
+    "ml:polygon_xy",
+    "ml:polygon_len"
+  ],
+  "identity_interpretation": "Derived per-source-polygon identity is possible only if original object correspondence is established; not an original UID retained in the repackaging.",
+  "max_network_bytes": 83886080,
+  "mini_manifest_sha256": "666b98ff821e409b75e94e8bfebf7904d15c25f3e922ead1d389f5c196e2aa62",
+  "revision": "44e219dc1d88c9d0903d6b478d7f2f3c435e574f",
+  "scope": "Full XY columns must be projected because source has one row group. Only two old calibration scenes are inspected/reported. No damage column or new hold image payload is read.",
+  "selected_existing_calibration_ids": [
+    "hurricane-harvey_00000008",
+    "santa-rosa-wildfire_00000023"
+  ],
+  "version": "taco_old_calibration_polygon_bridge_v1"
+}

@@ -1,0 +1,79 @@
+{
+  "basis_evidence_sha256": "4fe0f78f11a85f5300f74ecaeed0f3eedf31288206ac4b3fe19c81b0580a69f9",
+  "basis_protocol_sha256": "52e337fe3604fc6d52df1cc66fd4748224c01f112bd71b4ccac348cfe6e3a410",
+  "cached_comparison": "Native128px cell, existing288 caches; no new inference.",
+  "checkpoint": {
+    "code_commit": "190b07a2eb4c389a5dc3f72802c67f428cdfd6b7",
+    "config_sha256": "dd452bc568ff31a4706687b83d2ce0712b136f23d22705834311592d98a31d23",
+    "model_id": "EVER-Z/torchange_example_changeos_swint_on_xview2_best42k",
+    "revision": "4007dd10c5eaee67161e2d4a45a43da3ead6c722",
+    "weights_sha256": "81ae6386ceebe225ab6c072cb987b57312fdcfdb2a7f72ab9b30e5e8f1041cc4"
+  },
+  "client_report_date": "2026-10-26",
+  "cohort_rule": "Same18 pairs, all16 cells each, including all zeros. No replacements or label-selected ROIs.",
+  "domains": [
+    "all_published_pixels",
+    "both_dates_nonzero"
+  ],
+  "engineering_followup_rule": "Proceed to a separate mixed-quality cache extension only if free-coarse+cell restores positive overlap in both reference-positive events, improves pooled overlap with no pooled reference-precision drop vs cached native128, exceeds blank+cell covered reference pixels overall, and adds reference coverage beyond corresponding free-coarse-only ROI in both events. Report every condition regardless of rule outcome; no statistical or novelty claim.",
+  "evaluation": "All18 scene mosaics, all3 events and pooled severe-reference coverage/precision/false pixels, plus paired gains/losses. Report null recall for zero-reference events; no label fitting.",
+  "fixed_ids": [
+    "EARTHQUAKE-TURKEY_000237",
+    "EARTHQUAKE-TURKEY_003472",
+    "EARTHQUAKE-TURKEY_005459",
+    "EARTHQUAKE-TURKEY_006807",
+    "EARTHQUAKE-TURKEY_012987",
+    "EARTHQUAKE-TURKEY_015741",
+    "PAKISTAN-FLOODING_003197",
+    "PAKISTAN-FLOODING_004697",
+    "PAKISTAN-FLOODING_006998",
+    "PAKISTAN-FLOODING_013475",
+    "PAKISTAN-FLOODING_014536",
+    "PAKISTAN-FLOODING_017841",
+    "TEXAS-TORNADOES_000325",
+    "TEXAS-TORNADOES_002697",
+    "TEXAS-TORNADOES_002969",
+    "TEXAS-TORNADOES_003987",
+    "TEXAS-TORNADOES_004417",
+    "TEXAS-TORNADOES_004813"
+  ],
+  "human_annotation_resources": "Unavailable",
+  "input_boundary": "Coarse-context transform accepts only two64px coarse images and the selected pair of128px patches, not a512px high-resolution scene. Model output and boolean for each paid observation may depend on those only.",
+  "instances_created": 0,
+  "max_new_forward_calls": 884,
+  "native_only_scope": "This diagnostic covers native observations only. Mixed native/blur budget8 search cannot be scored until an equally frozen blurred-cache extension exists.",
+  "new_conditions": [
+    {
+      "calls": 288,
+      "input": "Purchased native128x128 RGB cell only, upsample512x512 BILINEAR for each date.",
+      "name": "patch128_to512",
+      "output": "Predict512 binary severe mask using fixed decoder, reduce to128 with NEAREST; recompute >=4px declaration from canonical128 mask."
+    },
+    {
+      "calls": 288,
+      "input": "512x512 RGB canvas filled with (124,116,104), then paste purchased128px native cell at its original grid position for each date.",
+      "name": "blank512_plus_native_cell",
+      "output": "Keep only exact128px ROI prediction; ignore every output pixel outside purchased cell."
+    },
+    {
+      "calls": 288,
+      "input": "Free64x64 BOX coarse RGB per date, upsample512 BILINEAR, then paste purchased128px native cell at its original position.",
+      "name": "free_coarse512_plus_native_cell",
+      "output": "Keep only exact128px ROI prediction; ignore every output pixel outside purchased cell."
+    },
+    {
+      "calls": 18,
+      "input": "Same free64px BOX RGB upsampled512 BILINEAR; no native-cell paste.",
+      "name": "free_coarse512_only",
+      "output": "Whole-scene coarse-only diagnostic, and fixed per-cell ROIs for marginal-information comparison. Do not pretend coarse-only pixels require paid observations."
+    }
+  ],
+  "no_controller_fitting_or_paid_gpu_or_download": true,
+  "no_hidden_warmup": true,
+  "positive_controls": "Replay same2 locked positive control crops; any unequal pixel stops before new18-scene conditions.",
+  "precision": "Same fixed model, tensor normalization, eval mode, seed and CPU/MPS settings as stage1.",
+  "question": "Can a large-input interface recover reference overlap using only free coarse RGB and one purchased128px cell?",
+  "required_preflight": "Synthetic geometry, resize inversion, identical coarse context outside ROI across cell modes, no unseen-native access, and boolean threshold tests. Lock implementation hashes before model calls.",
+  "search_policy_runs": 0,
+  "status": "PROSPECTIVE_NOT_EXECUTED"
+}

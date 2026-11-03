@@ -1,0 +1,254 @@
+{
+  "stage": "FROZEN_COMPLETE_CALIBRATION_RGB_PASS",
+  "samples": [
+    {
+      "sample_id": "hurricane-harvey_00000392",
+      "event": "hurricane-harvey",
+      "split": "calibration",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/hurricane-harvey_00000392_pre_disaster.png",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/hurricane-harvey_00000392_post_disaster.png"
+    },
+    {
+      "sample_id": "hurricane-harvey_00000406",
+      "event": "hurricane-harvey",
+      "split": "calibration",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/hurricane-harvey_00000406_pre_disaster.png",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/hurricane-harvey_00000406_post_disaster.png"
+    },
+    {
+      "sample_id": "hurricane-harvey_00000098",
+      "event": "hurricane-harvey",
+      "split": "calibration",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/hurricane-harvey_00000098_pre_disaster.png",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/hurricane-harvey_00000098_post_disaster.png"
+    },
+    {
+      "sample_id": "hurricane-harvey_00000242",
+      "event": "hurricane-harvey",
+      "split": "calibration",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/hurricane-harvey_00000242_pre_disaster.png",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/hurricane-harvey_00000242_post_disaster.png"
+    },
+    {
+      "sample_id": "hurricane-harvey_00000066",
+      "event": "hurricane-harvey",
+      "split": "calibration",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/hurricane-harvey_00000066_pre_disaster.png",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/hurricane-harvey_00000066_post_disaster.png"
+    },
+    {
+      "sample_id": "hurricane-harvey_00000158",
+      "event": "hurricane-harvey",
+      "split": "calibration",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/hurricane-harvey_00000158_pre_disaster.png",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/hurricane-harvey_00000158_post_disaster.png"
+    },
+    {
+      "sample_id": "hurricane-harvey_00000189",
+      "event": "hurricane-harvey",
+      "split": "calibration",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/hurricane-harvey_00000189_pre_disaster.png",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/hurricane-harvey_00000189_post_disaster.png"
+    },
+    {
+      "sample_id": "hurricane-harvey_00000008",
+      "event": "hurricane-harvey",
+      "split": "calibration",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/hurricane-harvey_00000008_pre_disaster.png",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/hurricane-harvey_00000008_post_disaster.png"
+    },
+    {
+      "sample_id": "hurricane-harvey_00000085",
+      "event": "hurricane-harvey",
+      "split": "calibration",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/hurricane-harvey_00000085_pre_disaster.png",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/hurricane-harvey_00000085_post_disaster.png"
+    },
+    {
+      "sample_id": "hurricane-harvey_00000268",
+      "event": "hurricane-harvey",
+      "split": "calibration",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/hurricane-harvey_00000268_pre_disaster.png",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/hurricane-harvey_00000268_post_disaster.png"
+    },
+    {
+      "sample_id": "hurricane-harvey_00000178",
+      "event": "hurricane-harvey",
+      "split": "calibration",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/hurricane-harvey_00000178_pre_disaster.png",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/hurricane-harvey_00000178_post_disaster.png"
+    },
+    {
+      "sample_id": "hurricane-harvey_00000505",
+      "event": "hurricane-harvey",
+      "split": "calibration",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/hurricane-harvey_00000505_pre_disaster.png",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/hurricane-harvey_00000505_post_disaster.png"
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000220",
+      "event": "santa-rosa-wildfire",
+      "split": "calibration",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/santa-rosa-wildfire_00000220_pre_disaster.png",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/santa-rosa-wildfire_00000220_post_disaster.png"
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000125",
+      "event": "santa-rosa-wildfire",
+      "split": "calibration",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/santa-rosa-wildfire_00000125_pre_disaster.png",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/santa-rosa-wildfire_00000125_post_disaster.png"
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000079",
+      "event": "santa-rosa-wildfire",
+      "split": "calibration",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/santa-rosa-wildfire_00000079_pre_disaster.png",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/santa-rosa-wildfire_00000079_post_disaster.png"
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000023",
+      "event": "santa-rosa-wildfire",
+      "split": "calibration",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/santa-rosa-wildfire_00000023_pre_disaster.png",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/santa-rosa-wildfire_00000023_post_disaster.png"
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000056",
+      "event": "santa-rosa-wildfire",
+      "split": "calibration",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/santa-rosa-wildfire_00000056_pre_disaster.png",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/santa-rosa-wildfire_00000056_post_disaster.png"
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000196",
+      "event": "santa-rosa-wildfire",
+      "split": "calibration",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/santa-rosa-wildfire_00000196_pre_disaster.png",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/santa-rosa-wildfire_00000196_post_disaster.png"
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000177",
+      "event": "santa-rosa-wildfire",
+      "split": "calibration",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/santa-rosa-wildfire_00000177_pre_disaster.png",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/santa-rosa-wildfire_00000177_post_disaster.png"
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000151",
+      "event": "santa-rosa-wildfire",
+      "split": "calibration",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/santa-rosa-wildfire_00000151_pre_disaster.png",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/santa-rosa-wildfire_00000151_post_disaster.png"
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000169",
+      "event": "santa-rosa-wildfire",
+      "split": "calibration",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/santa-rosa-wildfire_00000169_pre_disaster.png",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/santa-rosa-wildfire_00000169_post_disaster.png"
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000182",
+      "event": "santa-rosa-wildfire",
+      "split": "calibration",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/santa-rosa-wildfire_00000182_pre_disaster.png",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/santa-rosa-wildfire_00000182_post_disaster.png"
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000035",
+      "event": "santa-rosa-wildfire",
+      "split": "calibration",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/santa-rosa-wildfire_00000035_pre_disaster.png",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/santa-rosa-wildfire_00000035_post_disaster.png"
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000039",
+      "event": "santa-rosa-wildfire",
+      "split": "calibration",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/santa-rosa-wildfire_00000039_pre_disaster.png",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/xbd_mini72_v1/train/images/santa-rosa-wildfire_00000039_post_disaster.png"
+    }
+  ],
+  "cells": [
+    "r00c00",
+    "r00c01",
+    "r00c02",
+    "r00c03",
+    "r00c04",
+    "r00c05",
+    "r00c06",
+    "r00c07",
+    "r01c00",
+    "r01c01",
+    "r01c02",
+    "r01c03",
+    "r01c04",
+    "r01c05",
+    "r01c06",
+    "r01c07",
+    "r02c00",
+    "r02c01",
+    "r02c02",
+    "r02c03",
+    "r02c04",
+    "r02c05",
+    "r02c06",
+    "r02c07",
+    "r03c00",
+    "r03c01",
+    "r03c02",
+    "r03c03",
+    "r03c04",
+    "r03c05",
+    "r03c06",
+    "r03c07",
+    "r04c00",
+    "r04c01",
+    "r04c02",
+    "r04c03",
+    "r04c04",
+    "r04c05",
+    "r04c06",
+    "r04c07",
+    "r05c00",
+    "r05c01",
+    "r05c02",
+    "r05c03",
+    "r05c04",
+    "r05c05",
+    "r05c06",
+    "r05c07",
+    "r06c00",
+    "r06c01",
+    "r06c02",
+    "r06c03",
+    "r06c04",
+    "r06c05",
+    "r06c06",
+    "r06c07",
+    "r07c00",
+    "r07c01",
+    "r07c02",
+    "r07c03",
+    "r07c04",
+    "r07c05",
+    "r07c06",
+    "r07c07"
+  ],
+  "modes": [
+    "native",
+    "blurred"
+  ],
+  "observations": 3072,
+  "model_id": "EVER-Z/torchange_example_changeos_swint_on_xview2_best42k",
+  "model_revision": "4007dd10c5eaee67161e2d4a45a43da3ead6c722",
+  "weights_sha256": "81ae6386ceebe225ab6c072cb987b57312fdcfdb2a7f72ab9b30e5e8f1041cc4",
+  "code_commit": "190b07a2eb4c389a5dc3f72802c67f428cdfd6b7",
+  "selection": "All calibration scenes and all 64 cells. No label filtering or substitutions.",
+  "rules": "Unchanged pilot RGB preprocessing, synthetic degradation, four severe pixel declaration and top-16 score.",
+  "independence": "Modes share base imagery; 3072 records are 1536 paired regions in 24 scenes and two events.",
+  "scope": "Calibration fitting only, not validation/test, no unseen-event model claim. Boundary v2 is motivated posthoc by pilot.",
+  "planned_calibration": "Report per-mode and per-event cell TPR/FPR plus Beta(0.5,0.5) smoothed rates; no independence-based confidence intervals. Fixed four equal-frequency raw-change bins for initial presence prior, shrunk toward global prevalence with 8 pseudo-observations. No score threshold tuning. Validation needed before use as reliable probabilities.",
+  "mini72_protocol_sha256": "957c04b5e681c4fcecc81fcc3b0109ccdf0025c6230ee5dec7a72c48e645f14a"
+}

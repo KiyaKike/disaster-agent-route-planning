@@ -1,0 +1,14 @@
+{
+  "COLLECTION.json": {
+    "offset": 32294117839,
+    "size": 9798
+  },
+  "METADATA/children.parquet": {
+    "offset": 32294127692,
+    "size": 672348
+  },
+  "METADATA/sample.parquet": {
+    "offset": 32294800093,
+    "size": 108386163
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "status": "COMPLETE",
+  "path": "/Users/bethany/Documents/ChatGPT/\u590d\u73b0\u8bba\u6587/work/disaster_search/attachments/external/disasteradaptivenet_fada4e7/strong_baseline_event.pt",
+  "bytes": 309003425,
+  "sha256": "fe7ded8c5012dee3d39675226b0aa1fd671d8c19cef5c88080daa8b13645c6b6",
+  "elapsed_seconds": 89.69552862498676,
+  "source_drive_id": "1gd3u7daWA_83EwrAl7O39M3Wbid17jzb",
+  "source_commit": "fada4e791766f810dc815a4e82d52f2bb27116c6",
+  "requests": [
+    {
+      "request_index": 1,
+      "host": "drive.usercontent.google.com",
+      "at_utc": "2026-10-28T08:07:58.153242+00:00",
+      "status": 200,
+      "content_type": "application/octet-stream",
+      "content_length": "309003425",
+      "received_bytes": 309003425,
+      "sha256": "fe7ded8c5012dee3d39675226b0aa1fd671d8c19cef5c88080daa8b13645c6b6",
+      "result": "COMPLETE"
+    }
+  ],
+  "checksum_scope": "Locally computed content SHA256; no publisher checksum returned by Drive connector.",
+  "new_model_calls": 0,
+  "training": false,
+  "gpu_rental": false
+}

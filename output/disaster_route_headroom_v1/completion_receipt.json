@@ -1,0 +1,28 @@
+{
+  "files": {
+    "README.md": "569152c67b7dbecb9adfeb08d3a87c786dd0901ab3b2947f01df151ea9dcc92f",
+    "audit.json": "f1957127067da22388f74f9d9c40674d51e82e9601ee1ee67cc077d96c09b9ed",
+    "audit_dtype_amendment.json": "ede8f30878501112481d3c8f2d462f7df3128bdf55e71519b74b88da244a6f21",
+    "event_summary.json": "755234d19eb648b1f586fa65b4abf4ed9fe0e3f4a70081d0898c89db89c988e6",
+    "exact_catalogue.npz": "84030fd140a261671f003449cccb7f58805c2109ef2ea075252dcd60e5700e22",
+    "figures/headroom.png": "c96b8056d4c48334262e19653e2d0d169bb773efd5efe89f4108f128fd91f9f7",
+    "legacy_preservation.json": "0669ae6802483fbb8b6f837cb59bca1949ced4bee3775229a8ecfbe8c01fb282",
+    "prospective_next_scope.json": "047e4a0b79b614cd89b031ddc86cbf5254a86a10bd2976c38fc6b75ba0c68500",
+    "protocol.json": "b15244f163338058c8e461b6a3f987b9115ee84df8bcfc1bf148095bf68c323c",
+    "public_exact_plans_before_private_scores.json": "0f9f9ff4dd46ce955e6d5b6df140d690614eac055dc47f0e93ec3897065de3b9",
+    "runtime.json": "4ff0f118188d6114b8305e5b284364690ddbeee4af74feff646f1e057ccf8191",
+    "scored_solutions.json": "b8c4c6bac5f6f7992786e953857158a8a9c9dfea9bf8993a5507b1deef69bcd3",
+    "solutions.json": "991af576e0067bfa60b3524207d15cdb2c1b42753d8d603342a5912d217380e7",
+    "source_snapshots/audit_route_headroom_resumed.py": "16ec0c6724f035134b5ceb15b18e4688d0e1833571bea5302ec373c73af33f77",
+    "source_snapshots/route_headroom_core.py": "857455b30f272e132ca9c1c8e6fec4d6964d2b31d8e42f499132df4420448347",
+    "source_snapshots/run_route_headroom.py": "c9dfa519ef3b13127b7938bb0f448ac85565ec96eece18e7c70e37b8fd9f35d4",
+    "source_snapshots/test_route_headroom.py": "407afc949454c4639b3e552e8d4fc89dfac517902a24f1c55be0230bb863a85a",
+    "test_log.txt": "3a884a0affae2a945d8eae31bb69518761734dea4e092b979b99b715b299324e",
+    "visual_inspection.json": "e629820fc0f368bd9c66ae49089cedcb238daa7bff56c4588411f5ae42fc7612"
+  },
+  "gpu_rental": false,
+  "new_method_established": false,
+  "new_model_calls": 0,
+  "online_information_value_established": false,
+  "status": "COMPLETE_DIAGNOSTIC_ONLY"
+}

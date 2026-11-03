@@ -1,0 +1,321 @@
+{
+  "result": {
+    "scenario": "structured_prior_error",
+    "seed": 0,
+    "policy": "adaptive_prior",
+    "budget": 20,
+    "target_count": 21,
+    "true_discoveries": 1,
+    "false_positives": 0,
+    "recall": 0.047619047619047616,
+    "precision": 1.0,
+    "first_true_discovery_cost": 14,
+    "no_true_discovery": false,
+    "cost": 20,
+    "actions": 20,
+    "revisits": 0,
+    "brier": 0.2412534523886607
+  },
+  "steps": [
+    {
+      "step": 1,
+      "action": {
+        "cell_id": "r00c04",
+        "slot": "survey"
+      },
+      "cost_total": 1,
+      "observation": {
+        "observation_id": "0:r00c04:survey",
+        "positive": false,
+        "quality": "poor"
+      },
+      "belief_before": 0.55,
+      "belief_after": 0.5102040816326531
+    },
+    {
+      "step": 2,
+      "action": {
+        "cell_id": "r00c05",
+        "slot": "survey"
+      },
+      "cost_total": 2,
+      "observation": {
+        "observation_id": "0:r00c05:survey",
+        "positive": false,
+        "quality": "clear"
+      },
+      "belief_before": 0.5499169458674071,
+      "belief_after": 0.11290273169132532
+    },
+    {
+      "step": 3,
+      "action": {
+        "cell_id": "r00c06",
+        "slot": "survey"
+      },
+      "cost_total": 3,
+      "observation": {
+        "observation_id": "0:r00c06:survey",
+        "positive": false,
+        "quality": "clear"
+      },
+      "belief_before": 0.5131692877911286,
+      "belief_after": 0.09893861648544214
+    },
+    {
+      "step": 4,
+      "action": {
+        "cell_id": "r00c07",
+        "slot": "survey"
+      },
+      "cost_total": 4,
+      "observation": {
+        "observation_id": "0:r00c07:survey",
+        "positive": false,
+        "quality": "clear"
+      },
+      "belief_before": 0.48093221557949073,
+      "belief_after": 0.08801861578468567
+    },
+    {
+      "step": 5,
+      "action": {
+        "cell_id": "r01c07",
+        "slot": "survey"
+      },
+      "cost_total": 5,
+      "observation": {
+        "observation_id": "0:r01c07:survey",
+        "positive": false,
+        "quality": "poor"
+      },
+      "belief_before": 0.4526870057705747,
+      "belief_after": 0.413462789196585
+    },
+    {
+      "step": 6,
+      "action": {
+        "cell_id": "r01c06",
+        "slot": "survey"
+      },
+      "cost_total": 6,
+      "observation": {
+        "observation_id": "0:r01c06:survey",
+        "positive": false,
+        "quality": "poor"
+      },
+      "belief_before": 0.45262343560118334,
+      "belief_after": 0.4134005667318908
+    },
+    {
+      "step": 7,
+      "action": {
+        "cell_id": "r01c05",
+        "slot": "survey"
+      },
+      "cost_total": 7,
+      "observation": {
+        "observation_id": "0:r01c05:survey",
+        "positive": false,
+        "quality": "poor"
+      },
+      "belief_before": 0.45255997472353504,
+      "belief_after": 0.4133384524910953
+    },
+    {
+      "step": 8,
+      "action": {
+        "cell_id": "r02c05",
+        "slot": "survey"
+      },
+      "cost_total": 8,
+      "observation": {
+        "observation_id": "0:r02c05:survey",
+        "positive": false,
+        "quality": "clear"
+      },
+      "belief_before": 0.45249662277695496,
+      "belief_after": 0.07926676369338738
+    },
+    {
+      "step": 9,
+      "action": {
+        "cell_id": "r02c04",
+        "slot": "survey"
+      },
+      "cost_total": 9,
+      "observation": {
+        "observation_id": "0:r02c04:survey",
+        "positive": false,
+        "quality": "clear"
+      },
+      "belief_before": 0.4278455860262952,
+      "belief_after": 0.07226476910578276
+    },
+    {
+      "step": 10,
+      "action": {
+        "cell_id": "r03c04",
+        "slot": "survey"
+      },
+      "cost_total": 10,
+      "observation": {
+        "observation_id": "0:r03c04:survey",
+        "positive": false,
+        "quality": "clear"
+      },
+      "belief_before": 0.4061544316890362,
+      "belief_after": 0.06650559206975538
+    },
+    {
+      "step": 11,
+      "action": {
+        "cell_id": "r03c05",
+        "slot": "survey"
+      },
+      "cost_total": 11,
+      "observation": {
+        "observation_id": "0:r03c05:survey",
+        "positive": false,
+        "quality": "clear"
+      },
+      "belief_before": 0.3870020126343211,
+      "belief_after": 0.0617052649429946
+    },
+    {
+      "step": 12,
+      "action": {
+        "cell_id": "r03c06",
+        "slot": "survey"
+      },
+      "cost_total": 12,
+      "observation": {
+        "observation_id": "0:r03c06:survey",
+        "positive": false,
+        "quality": "clear"
+      },
+      "belief_before": 0.37002484225486704,
+      "belief_after": 0.05765614834994731
+    },
+    {
+      "step": 13,
+      "action": {
+        "cell_id": "r02c06",
+        "slot": "survey"
+      },
+      "cost_total": 13,
+      "observation": {
+        "observation_id": "0:r02c06:survey",
+        "positive": false,
+        "quality": "clear"
+      },
+      "belief_before": 0.3549134273542465,
+      "belief_after": 0.05420392106205591
+    },
+    {
+      "step": 14,
+      "action": {
+        "cell_id": "r03c01",
+        "slot": "survey"
+      },
+      "cost_total": 14,
+      "observation": {
+        "observation_id": "0:r03c01:survey",
+        "positive": true,
+        "quality": "clear"
+      },
+      "belief_before": 0.35,
+      "belief_after": 0.9237536656891495
+    },
+    {
+      "step": 15,
+      "action": {
+        "cell_id": "r04c04",
+        "slot": "survey"
+      },
+      "cost_total": 15,
+      "observation": {
+        "observation_id": "0:r04c04:survey",
+        "positive": false,
+        "quality": "poor"
+      },
+      "belief_before": 0.34140610211610456,
+      "belief_after": 0.30642568693702615
+    },
+    {
+      "step": 16,
+      "action": {
+        "cell_id": "r05c04",
+        "slot": "survey"
+      },
+      "cost_total": 16,
+      "observation": {
+        "observation_id": "0:r05c04:survey",
+        "positive": false,
+        "quality": "clear"
+      },
+      "belief_before": 0.3413760474616946,
+      "belief_after": 0.051225621912815086
+    },
+    {
+      "step": 17,
+      "action": {
+        "cell_id": "r05c05",
+        "slot": "survey"
+      },
+      "cost_total": 17,
+      "observation": {
+        "observation_id": "0:r05c05:survey",
+        "positive": false,
+        "quality": "poor"
+      },
+      "belief_before": 0.32926703150963804,
+      "belief_after": 0.29497332078936306
+    },
+    {
+      "step": 18,
+      "action": {
+        "cell_id": "r05c06",
+        "slot": "survey"
+      },
+      "cost_total": 18,
+      "observation": {
+        "observation_id": "0:r05c06:survey",
+        "positive": false,
+        "quality": "clear"
+      },
+      "belief_before": 0.32924103738035576,
+      "belief_after": 0.048642937164981005
+    },
+    {
+      "step": 19,
+      "action": {
+        "cell_id": "r04c06",
+        "slot": "survey"
+      },
+      "cost_total": 19,
+      "observation": {
+        "observation_id": "0:r04c06:survey",
+        "positive": false,
+        "quality": "clear"
+      },
+      "belief_before": 0.3183396815576607,
+      "belief_after": 0.0463897917417466
+    },
+    {
+      "step": 20,
+      "action": {
+        "cell_id": "r04c07",
+        "slot": "survey"
+      },
+      "cost_total": 20,
+      "observation": {
+        "observation_id": "0:r04c07:survey",
+        "positive": false,
+        "quality": "clear"
+      },
+      "belief_before": 0.31016900541211584,
+      "belief_after": 0.04474099135439626
+    }
+  ]
+}

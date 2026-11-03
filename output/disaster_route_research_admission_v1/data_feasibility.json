@@ -1,0 +1,366 @@
+{
+  "dataset_revision": "4c2732a7ab9658517ca8caa69bfee9e1f87ca532",
+  "catalogue_sha256": "b870f67e17799b12838666ea23f76e284aeee9c4961cb5a5ff238fa56f5e6f9d",
+  "inventory_sha256": "b48ea1c9d080035c42ccfea611274e28d25acd8d0b4f09736468cc499c15ad6c",
+  "selection": "Same24training scene order as previous protocol;all counts use only file/source/date metadata",
+  "eligible_scene_count": 24,
+  "events": {
+    "Hurricane Harvey": 1,
+    "Hurricane Ian": 23
+  },
+  "scenes_with_additional_post_file": 24,
+  "scenes_with_additional_file_same_day_as_primary_post": 21,
+  "scenes_with_additional_file_same_day_as_uas": 0,
+  "scenes_with_crewed_same_day_as_primary_post": 18,
+  "scenes_with_crewed_same_day_as_uas": 0,
+  "source_geometry_coverage_checked_for_new_views": false,
+  "error_independence_established": false,
+  "same_state_field_truth_established": false,
+  "flight_reinspection_supported": false,
+  "annotations_or_new_imagery_downloaded": false,
+  "new_model_calls": 0,
+  "existing_inspected_scenes": [
+    {
+      "rank_zero_based": 0,
+      "scene": "090402-DMS-Assessment-Sienna-Village.geo.tif",
+      "event": "Hurricane Harvey",
+      "uas_date": "2017-09-04",
+      "selected_pre": {
+        "Orthomosaic": "090402-DMS-Assessment-Sienna-Village.geo.tif_1030010066D17500.tif.geo.tif",
+        "Source": "Satellite",
+        "Event": "Hurricane Harvey",
+        "Date (mm/dd/yyy)": "2/16/2017",
+        "Pre/Post Event": "PRE",
+        "Platform / Provider": "MAXAR"
+      },
+      "selected_post": {
+        "Orthomosaic": "090402-DMS-Assessment-Sienna-Village.geo.tif_103001006F884000.tif.geo.tif",
+        "Source": "Satellite",
+        "Event": "Hurricane Harvey",
+        "Date (mm/dd/yyy)": "8/30/2017",
+        "Pre/Post Event": "POST",
+        "Platform / Provider": "MAXAR"
+      },
+      "independent_uas_sessions_established": false,
+      "same_exact_scene_uas_orthomosaics": 1,
+      "additional_post_files": [
+        {
+          "Orthomosaic": "090402-DMS-Assessment-Sienna-Village.geo.tif_20170903a_RGB.geo.tif",
+          "Source": "Crewed Aircraft",
+          "Event": "Hurricane Harvey",
+          "Date (mm/dd/yyy)": "9/3/2017",
+          "Pre/Post Event": "POST",
+          "Platform / Provider": "NOAA"
+        }
+      ],
+      "additional_files_same_date_as_primary_post": [],
+      "additional_files_same_date_as_uas": [],
+      "additional_crewed_same_date_as_primary_post": 0,
+      "additional_crewed_same_date_as_uas": 0,
+      "qualification": "Metadata candidates only. Day equality is not simultaneity,spatial coverage,independent error or field truth."
+    },
+    {
+      "rank_zero_based": 1,
+      "scene": "1001-Ft-Myers-Beach-Boone.geo.tif",
+      "event": "Hurricane Ian",
+      "uas_date": "2022-10-01",
+      "selected_pre": {
+        "Orthomosaic": "1001-Ft-Myers-Beach-Boone.geo.tif_10400100703E5500-visual.tif.geo.tif",
+        "Source": "Satellite",
+        "Event": "Hurricane Ian",
+        "Date (mm/dd/yyy)": "1/21/2022",
+        "Pre/Post Event": "PRE",
+        "Platform / Provider": "MAXAR"
+      },
+      "selected_post": {
+        "Orthomosaic": "1001-Ft-Myers-Beach-Boone.geo.tif_10300100DB06A700-visual.tif.geo.tif",
+        "Source": "Satellite",
+        "Event": "Hurricane Ian",
+        "Date (mm/dd/yyy)": "9/30/2022",
+        "Pre/Post Event": "POST",
+        "Platform / Provider": "MAXAR"
+      },
+      "independent_uas_sessions_established": false,
+      "same_exact_scene_uas_orthomosaics": 1,
+      "additional_post_files": [
+        {
+          "Orthomosaic": "1001-Ft-Myers-Beach-Boone.geo.tif_20220930d_RGB.geo.tif",
+          "Source": "Crewed Aircraft",
+          "Event": "Hurricane Ian",
+          "Date (mm/dd/yyy)": "9/30/2022",
+          "Pre/Post Event": "POST",
+          "Platform / Provider": "NOAA"
+        },
+        {
+          "Orthomosaic": "1001-Ft-Myers-Beach-Boone.geo.tif_10300100DA570A00-visual.tif.geo.tif",
+          "Source": "Satellite",
+          "Event": "Hurricane Ian",
+          "Date (mm/dd/yyy)": "10/3/2022",
+          "Pre/Post Event": "POST",
+          "Platform / Provider": "MAXAR"
+        }
+      ],
+      "additional_files_same_date_as_primary_post": [
+        {
+          "Orthomosaic": "1001-Ft-Myers-Beach-Boone.geo.tif_20220930d_RGB.geo.tif",
+          "Source": "Crewed Aircraft",
+          "Event": "Hurricane Ian",
+          "Date (mm/dd/yyy)": "9/30/2022",
+          "Pre/Post Event": "POST",
+          "Platform / Provider": "NOAA"
+        }
+      ],
+      "additional_files_same_date_as_uas": [],
+      "additional_crewed_same_date_as_primary_post": 1,
+      "additional_crewed_same_date_as_uas": 0,
+      "qualification": "Metadata candidates only. Day equality is not simultaneity,spatial coverage,independent error or field truth."
+    },
+    {
+      "rank_zero_based": 2,
+      "scene": "1001-Ft-Myers-Beach-DIRT.geo.tif",
+      "event": "Hurricane Ian",
+      "uas_date": "2022-10-01",
+      "selected_pre": {
+        "Orthomosaic": "1001-Ft-Myers-Beach-DIRT.geo.tif_10400100703E5500-visual.tif.geo.tif",
+        "Source": "Satellite",
+        "Event": "Hurricane Ian",
+        "Date (mm/dd/yyy)": "1/21/2022",
+        "Pre/Post Event": "PRE",
+        "Platform / Provider": "MAXAR"
+      },
+      "selected_post": {
+        "Orthomosaic": "1001-Ft-Myers-Beach-DIRT.geo.tif_10300100DA368900-visual.tif.geo.tif",
+        "Source": "Satellite",
+        "Event": "Hurricane Ian",
+        "Date (mm/dd/yyy)": "9/30/2022",
+        "Pre/Post Event": "POST",
+        "Platform / Provider": "MAXAR"
+      },
+      "independent_uas_sessions_established": false,
+      "same_exact_scene_uas_orthomosaics": 1,
+      "additional_post_files": [
+        {
+          "Orthomosaic": "1001-Ft-Myers-Beach-DIRT.geo.tif_20220930d_RGB.geo.tif",
+          "Source": "Crewed Aircraft",
+          "Event": "Hurricane Ian",
+          "Date (mm/dd/yyy)": "9/30/2022",
+          "Pre/Post Event": "POST",
+          "Platform / Provider": "NOAA"
+        },
+        {
+          "Orthomosaic": "1001-Ft-Myers-Beach-DIRT.geo.tif_10300100DA570A00-visual.tif.geo.tif",
+          "Source": "Satellite",
+          "Event": "Hurricane Ian",
+          "Date (mm/dd/yyy)": "10/3/2022",
+          "Pre/Post Event": "POST",
+          "Platform / Provider": "MAXAR"
+        },
+        {
+          "Orthomosaic": "1001-Ft-Myers-Beach-DIRT.geo.tif_10300100DB06A700-visual.tif.geo.tif",
+          "Source": "Satellite",
+          "Event": "Hurricane Ian",
+          "Date (mm/dd/yyy)": "9/30/2022",
+          "Pre/Post Event": "POST",
+          "Platform / Provider": "MAXAR"
+        }
+      ],
+      "additional_files_same_date_as_primary_post": [
+        {
+          "Orthomosaic": "1001-Ft-Myers-Beach-DIRT.geo.tif_20220930d_RGB.geo.tif",
+          "Source": "Crewed Aircraft",
+          "Event": "Hurricane Ian",
+          "Date (mm/dd/yyy)": "9/30/2022",
+          "Pre/Post Event": "POST",
+          "Platform / Provider": "NOAA"
+        },
+        {
+          "Orthomosaic": "1001-Ft-Myers-Beach-DIRT.geo.tif_10300100DB06A700-visual.tif.geo.tif",
+          "Source": "Satellite",
+          "Event": "Hurricane Ian",
+          "Date (mm/dd/yyy)": "9/30/2022",
+          "Pre/Post Event": "POST",
+          "Platform / Provider": "MAXAR"
+        }
+      ],
+      "additional_files_same_date_as_uas": [],
+      "additional_crewed_same_date_as_primary_post": 1,
+      "additional_crewed_same_date_as_uas": 0,
+      "qualification": "Metadata candidates only. Day equality is not simultaneity,spatial coverage,independent error or field truth."
+    },
+    {
+      "rank_zero_based": 3,
+      "scene": "1001-Iona-Point.geo.tif",
+      "event": "Hurricane Ian",
+      "uas_date": "2022-10-01",
+      "selected_pre": {
+        "Orthomosaic": "1001-Iona-Point.geo.tif_10400100703E5500-visual.tif.geo.tif",
+        "Source": "Satellite",
+        "Event": "Hurricane Ian",
+        "Date (mm/dd/yyy)": "1/21/2022",
+        "Pre/Post Event": "PRE",
+        "Platform / Provider": "MAXAR"
+      },
+      "selected_post": {
+        "Orthomosaic": "1001-Iona-Point.geo.tif_10300100DB06A700-visual.tif.geo.tif",
+        "Source": "Satellite",
+        "Event": "Hurricane Ian",
+        "Date (mm/dd/yyy)": "9/30/2022",
+        "Pre/Post Event": "POST",
+        "Platform / Provider": "MAXAR"
+      },
+      "independent_uas_sessions_established": false,
+      "same_exact_scene_uas_orthomosaics": 1,
+      "additional_post_files": [
+        {
+          "Orthomosaic": "1001-Iona-Point.geo.tif_20220929a_RGB.geo.tif",
+          "Source": "Crewed Aircraft",
+          "Event": "Hurricane Ian",
+          "Date (mm/dd/yyy)": "9/29/2022",
+          "Pre/Post Event": "POST",
+          "Platform / Provider": "NOAA"
+        },
+        {
+          "Orthomosaic": "1001-Iona-Point.geo.tif_10300100DA570A00-visual.tif.geo.tif",
+          "Source": "Satellite",
+          "Event": "Hurricane Ian",
+          "Date (mm/dd/yyy)": "10/3/2022",
+          "Pre/Post Event": "POST",
+          "Platform / Provider": "MAXAR"
+        }
+      ],
+      "additional_files_same_date_as_primary_post": [],
+      "additional_files_same_date_as_uas": [],
+      "additional_crewed_same_date_as_primary_post": 0,
+      "additional_crewed_same_date_as_uas": 0,
+      "qualification": "Metadata candidates only. Day equality is not simultaneity,spatial coverage,independent error or field truth."
+    },
+    {
+      "rank_zero_based": 4,
+      "scene": "1001-Kennedy-Green-Mobile-Homes.geo.tif",
+      "event": "Hurricane Ian",
+      "uas_date": "2022-10-01",
+      "selected_pre": {
+        "Orthomosaic": "1001-Kennedy-Green-Mobile-Homes.geo.tif_10200100B01E7400-visual.tif.geo.tif",
+        "Source": "Satellite",
+        "Event": "Hurricane Ian",
+        "Date (mm/dd/yyy)": "5/7/2021",
+        "Pre/Post Event": "PRE",
+        "Platform / Provider": "MAXAR"
+      },
+      "selected_post": {
+        "Orthomosaic": "1001-Kennedy-Green-Mobile-Homes.geo.tif_10300100DB06A700-visual.tif.geo.tif",
+        "Source": "Satellite",
+        "Event": "Hurricane Ian",
+        "Date (mm/dd/yyy)": "9/30/2022",
+        "Pre/Post Event": "POST",
+        "Platform / Provider": "MAXAR"
+      },
+      "independent_uas_sessions_established": false,
+      "same_exact_scene_uas_orthomosaics": 1,
+      "additional_post_files": [
+        {
+          "Orthomosaic": "1001-Kennedy-Green-Mobile-Homes.geo.tif_20220929a_RGB.geo.tif",
+          "Source": "Crewed Aircraft",
+          "Event": "Hurricane Ian",
+          "Date (mm/dd/yyy)": "9/29/2022",
+          "Pre/Post Event": "POST",
+          "Platform / Provider": "NOAA"
+        },
+        {
+          "Orthomosaic": "1001-Kennedy-Green-Mobile-Homes.geo.tif_20220930d_RGB.geo.tif",
+          "Source": "Crewed Aircraft",
+          "Event": "Hurricane Ian",
+          "Date (mm/dd/yyy)": "9/30/2022",
+          "Pre/Post Event": "POST",
+          "Platform / Provider": "NOAA"
+        },
+        {
+          "Orthomosaic": "1001-Kennedy-Green-Mobile-Homes.geo.tif_10300100DA570A00-visual.tif.geo.tif",
+          "Source": "Satellite",
+          "Event": "Hurricane Ian",
+          "Date (mm/dd/yyy)": "10/3/2022",
+          "Pre/Post Event": "POST",
+          "Platform / Provider": "MAXAR"
+        }
+      ],
+      "additional_files_same_date_as_primary_post": [
+        {
+          "Orthomosaic": "1001-Kennedy-Green-Mobile-Homes.geo.tif_20220930d_RGB.geo.tif",
+          "Source": "Crewed Aircraft",
+          "Event": "Hurricane Ian",
+          "Date (mm/dd/yyy)": "9/30/2022",
+          "Pre/Post Event": "POST",
+          "Platform / Provider": "NOAA"
+        }
+      ],
+      "additional_files_same_date_as_uas": [],
+      "additional_crewed_same_date_as_primary_post": 1,
+      "additional_crewed_same_date_as_uas": 0,
+      "qualification": "Metadata candidates only. Day equality is not simultaneity,spatial coverage,independent error or field truth."
+    },
+    {
+      "rank_zero_based": 5,
+      "scene": "1001-McGregor-College-Pkwy-South.1.geo.tif",
+      "event": "Hurricane Ian",
+      "uas_date": "2022-10-01",
+      "selected_pre": {
+        "Orthomosaic": "1001-McGregor-College-Pkwy-South.1.geo.tif_10400100703E5500-visual.tif.geo.tif",
+        "Source": "Satellite",
+        "Event": "Hurricane Ian",
+        "Date (mm/dd/yyy)": "1/21/2022",
+        "Pre/Post Event": "PRE",
+        "Platform / Provider": "MAXAR"
+      },
+      "selected_post": {
+        "Orthomosaic": "1001-McGregor-College-Pkwy-South.1.geo.tif_10300100DB06A700-visual.tif.geo.tif",
+        "Source": "Satellite",
+        "Event": "Hurricane Ian",
+        "Date (mm/dd/yyy)": "9/30/2022",
+        "Pre/Post Event": "POST",
+        "Platform / Provider": "MAXAR"
+      },
+      "independent_uas_sessions_established": false,
+      "same_exact_scene_uas_orthomosaics": 1,
+      "additional_post_files": [
+        {
+          "Orthomosaic": "1001-McGregor-College-Pkwy-South.1.geo.tif_20220929a_RGB.geo.tif",
+          "Source": "Crewed Aircraft",
+          "Event": "Hurricane Ian",
+          "Date (mm/dd/yyy)": "9/29/2022",
+          "Pre/Post Event": "POST",
+          "Platform / Provider": "NOAA"
+        },
+        {
+          "Orthomosaic": "1001-McGregor-College-Pkwy-South.1.geo.tif_20220930d_RGB.geo.tif",
+          "Source": "Crewed Aircraft",
+          "Event": "Hurricane Ian",
+          "Date (mm/dd/yyy)": "9/30/2022",
+          "Pre/Post Event": "POST",
+          "Platform / Provider": "NOAA"
+        },
+        {
+          "Orthomosaic": "1001-McGregor-College-Pkwy-South.1.geo.tif_10300100DA570A00-visual.tif.geo.tif",
+          "Source": "Satellite",
+          "Event": "Hurricane Ian",
+          "Date (mm/dd/yyy)": "10/3/2022",
+          "Pre/Post Event": "POST",
+          "Platform / Provider": "MAXAR"
+        }
+      ],
+      "additional_files_same_date_as_primary_post": [
+        {
+          "Orthomosaic": "1001-McGregor-College-Pkwy-South.1.geo.tif_20220930d_RGB.geo.tif",
+          "Source": "Crewed Aircraft",
+          "Event": "Hurricane Ian",
+          "Date (mm/dd/yyy)": "9/30/2022",
+          "Pre/Post Event": "POST",
+          "Platform / Provider": "NOAA"
+        }
+      ],
+      "additional_files_same_date_as_uas": [],
+      "additional_crewed_same_date_as_primary_post": 1,
+      "additional_crewed_same_date_as_uas": 0,
+      "qualification": "Metadata candidates only. Day equality is not simultaneity,spatial coverage,independent error or field truth."
+    }
+  ]
+}

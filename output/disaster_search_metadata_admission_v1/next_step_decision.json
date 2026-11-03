@@ -1,0 +1,24 @@
+{
+  "basis_audit_sha256": "14a6de597b8bc14d1ef8294b9e7a25fb9f516c46f7ae802eda2948cee4801bc0",
+  "basis_evidence_sha256": "c9fc61eade18e00125ab30f8d3ea6d030558b841ca8b903927f09de7b7b015a2",
+  "cohort_membership_unchanged": true,
+  "conclusion": "Fixed216 cohort cannot currently support unseen-geography or unseen-event perception claims. Near-complete SoCal/Woolsey spatial overlap is a concrete cross-name risk, not a pixel-duplicate confirmation.",
+  "current_supported_scope": "Development-only fixed-detector observation-budget policy engineering with documented exposure and synthetic observation quality; no new method or independent efficacy established.",
+  "independent_data_requirements": [
+    "Official footprint/scene metadata and complete overlap coverage, not inferred transforms alone.",
+    "Image byte/pixel duplicate evidence, including the pre-input in the3 SoCal/Woolsey cases; equal encoded length is insufficient.",
+    "Prespecified detector training/selection scope compatible with the intended geography/event claim.",
+    "Original source permission/attribution evidence; pinned repackager declarations alone do not clear redistribution.",
+    "Separate data protocol for any new independent regions; no performance-based replacement of the fixed216."
+  ],
+  "new_controller_training_enabled": false,
+  "next_executable_work": "Specify and implement one budget-compatible strong literature baseline on the frozen development interface, with explicit adaptations for noisy native feedback, same-cell upgrades and global distinct-building evaluation. Existing batch-tail is not full MF-ENS. Do not train another heuristic on these72 or score reserved cohorts before method/data scope lock.",
+  "no_automatic_scene_removal_or_replacement": true,
+  "paid_gpu_enabled": false,
+  "stage": "METADATA_SCREEN_FINISHED_INDEPENDENT_GEOGRAPHY_NOT_ADMITTED",
+  "stopped_variants_remain_stopped": [
+    "count_positive_revisit",
+    "source_only_isotonic_survey_price_projection"
+  ],
+  "validation_or_confirmation_scoring_enabled": false
+}

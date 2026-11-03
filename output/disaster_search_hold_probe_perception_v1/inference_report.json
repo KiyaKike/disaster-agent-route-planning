@@ -1,0 +1,15 @@
+{
+  "device": "mps",
+  "label_contents_read_by_predict": false,
+  "loop_seconds_this_invocation": 28.848822666011984,
+  "median_observation_seconds": 0.03530177098582499,
+  "observations": 768,
+  "observations_sha256": "1dc578b1724774a6d4952adcebf286bab3524d8c98d298f91f80c538fbb9aca1",
+  "paid_gpu_used": false,
+  "policy_evaluation_run": false,
+  "protocol_sha256": "b4d465a87c3295fc774109582bfa0057aef8bebfc45bab34e7ff062afe64a6b1",
+  "runner_sha256": "91b48462df4fb7c55962a5c698598b758af30377940d9afbc9d344674bbf8457",
+  "scenes": 6,
+  "shared_rgb_helpers_sha256": "158d2dd0e87f3baa46a9fd24b55b77ef000b2921aa311df37ead01af758f00d7",
+  "stage": "DEVELOPMENT_PROBE_RGB_INFERENCE"
+}

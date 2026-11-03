@@ -1,0 +1,76 @@
+{
+  "decision": "EBD_V2_RGB_POOL_FOR_18_PAIR_FEASIBILITY_NOT_INDEPENDENT_GOLD_ADMISSION",
+  "method_selected": false,
+  "publication_access_note": "EBD original publisher browser page returned a challenge/403; official figshare JSON is the retained source for format, license declaration and annotation-process facts. Publisher-indexed snippets were inspected, not a locally downloaded full paper. No unverified perfect-accuracy claim adopted.",
+  "question": "Can a fixed detector provide usable feedback on externally named disasters, and do frozen source utility estimates transfer?",
+  "sources": [
+    {
+      "evidence_files": [
+        "sources/ebd_figshare_v2.json",
+        "sources/EARTHQUAKE-TURKEY_index.json",
+        "sources/PAKISTAN-FLOODING_index.json",
+        "sources/TEXAS-TORNADOES_index.json"
+      ],
+      "limitations": "No image decoded; pair registration and actual dimensions not checked. Published masks do not establish distinct original building instance IDs. Human post-supervision is acknowledged; accuracy and per-instance traceability are not independently verified. Declared CC BY 4.0 does not by itself complete original imagery terms or acquisition-footprint checks.",
+      "name": "EBD v2",
+      "primary_urls": [
+        "https://api.figshare.com/v2/articles/25285009/versions/2",
+        "https://doi.org/10.34133/remotesensing.0733"
+      ],
+      "role": "Tentative RGB source; published masks withheld from primary instance gold.",
+      "verified": "Official record declares paired 512x512 RGB, four damage classes, machine annotation plus manual post-supervision, Maxar Open Data provenance. Complete image member pairs enumerated from exact ZIP directories."
+    },
+    {
+      "evidence_files": [
+        "sources/bright_official_article.json",
+        "sources/bright_repo_commit.json",
+        "sources/bright_cvprw26_readme.json",
+        "sources/bright_zenodo_20072020.json"
+      ],
+      "limitations": "Current record file list does not identify a matching post-event RGB subset. RGB/instance-version mapping has not been established; do not claim optical data do not exist.",
+      "name": "BRIGHT",
+      "primary_urls": [
+        "https://essd.copernicus.org/articles/17/6217/2025/",
+        "https://github.com/ChenHongruixuan/BRIGHT/tree/59269142f3a3550320513e362692732f46486985",
+        "https://zenodo.org/records/20072020"
+      ],
+      "role": "Conditional alternative if public paired RGB and instance mapping can be verified; multimodal study otherwise changes the task.",
+      "verified": "Main setting pairs pre-event optical with post-event SAR, using three damage levels. 2026 instance extension publishes train/validation labels; test labels are server-held. Official paper section4.4 also reports optical post-event data for five events."
+    },
+    {
+      "limitations": "Not a verified whole-scene pre/post RGB pool for observation search.",
+      "name": "QuickQuakeBuildings",
+      "primary_urls": [
+        "https://github.com/ya0-sun/PostEQ-SARopt-BuildingDamage",
+        "https://doi.org/10.1109/LGRS.2024.3406966"
+      ],
+      "role": "Screened out of this unchanged task; no payload accessed.",
+      "verified": "Author README describes post-event SAR/optical building patches and binary damage classification."
+    },
+    {
+      "limitations": "No matching disaster-preceding RGB pair source verified. Publisher access limited; this is source screening, not data admission.",
+      "name": "TE23D",
+      "primary_urls": [
+        "https://ieeexplore.ieee.org/document/10824929"
+      ],
+      "role": "Screened out of this unchanged task; no payload accessed.",
+      "verified": "Publisher abstract describes a post-earthquake image damage dataset."
+    },
+    {
+      "limitations": "Caption derivatives do not supply independent imagery or new instance ground truth.",
+      "name": "RSCC",
+      "primary_urls": [
+        "https://github.com/Bili-Sakura/RSCC"
+      ],
+      "role": "No independent-data expansion.",
+      "verified": "Author provenance identifies xBD and EBD as underlying imagery."
+    },
+    {
+      "evidence_file": "output/disaster_search_hold_taco_v1/identity_rows.json",
+      "limitations": "A larger source namespace is not a new-disaster evaluation split.",
+      "name": "Unused TACO tier3 identities",
+      "role": "Do not expand formal validation with these identities.",
+      "verified": "2991 additional tier3 identities outside the author model-card 3378 tier3 list, all in previously exposed event types."
+    }
+  ]
+}

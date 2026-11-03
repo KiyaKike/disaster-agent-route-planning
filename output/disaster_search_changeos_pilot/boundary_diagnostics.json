@@ -1,0 +1,24 @@
+{
+  "stage": "POSTHOC_BOUNDARY_DIAGNOSTIC_NOT_A_NEW_SCORE",
+  "false_positive_cells_under_centroid_proxy": [
+    {
+      "sample_id": "hurricane-harvey_00000392",
+      "cell_id": "r01c01",
+      "mode": "native",
+      "centroid_grid_target": false,
+      "predicted_severe_pixels": 743,
+      "severe_annotation_pixels_visible": 745,
+      "prediction_overlap_with_visible_severe_annotation": 707
+    },
+    {
+      "sample_id": "hurricane-harvey_00000406",
+      "cell_id": "r01c05",
+      "mode": "native",
+      "centroid_grid_target": false,
+      "predicted_severe_pixels": 41,
+      "severe_annotation_pixels_visible": 63,
+      "prediction_overlap_with_visible_severe_annotation": 21
+    }
+  ],
+  "interpretation": "Visible portions of a damaged building can be inside a cell while its centroid is in a neighboring cell. Frozen centroid-based confusion counts are unchanged; this diagnostic must be resolved before treating them as sensor false-positive probabilities."
+}

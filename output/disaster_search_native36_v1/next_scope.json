@@ -1,0 +1,18 @@
+{
+  "basis_decision_sha256": "1d4bfd7614c7ba1631e746bc05ffc7fb192f5523d7b126f57ea64e63fa00d693",
+  "current_replication_passed": false,
+  "enabled_new_data_acquisition": false,
+  "enabled_new_inference": false,
+  "enabled_planner_tuning": false,
+  "enabled_training": false,
+  "human_annotations_available": false,
+  "mechanical_next_actions": [
+    "Use existing caches to describe class/false-pixel correspondence and source/reference provenance; preserve every failed screen.",
+    "Prepare a separate fixed detector or separately sourced reference study only after stating its questions, data limits and prospective decision rules."
+  ],
+  "no_more_same_source_checkpoint_variants_after_failure": true,
+  "old_reserved_sets_enabled": false,
+  "reason_no_new_method_yet": "These54 remain same-source/event development material; new36 primary decision is not an independent efficacy or novelty test.",
+  "recommended_scope": "Separate assessment of fixed detector sensitivity and published reference/data suitability before any planner or further source-cohort variants.",
+  "status": "PROSPECTIVE_SCOPE_ONLY_NOT_EXECUTED"
+}

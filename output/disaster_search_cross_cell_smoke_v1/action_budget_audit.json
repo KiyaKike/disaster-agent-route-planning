@@ -1,0 +1,27 @@
+{
+  "all_action_fields_whitelisted": true,
+  "all_budgets_and_quality_maps_verified": true,
+  "boundary_candidate_exposure": {
+    "candidate_action_occurrences_with_discount": 1188,
+    "decision_steps": 14360
+  },
+  "boundary_features_reconstructed_from_paid_prefix": true,
+  "changed_paired_action_orders": 51,
+  "chosen_discounted_actions": 0,
+  "counts": {
+    "actions": 367997,
+    "positive_blur_upgrades": 25,
+    "trajectories": 20250,
+    "upgrades": 13344
+  },
+  "decision": "DO_NOT_PROMOTE_BOUNDARY_DISCOUNT. Keep as a failed engineering ablation; no tuning on validation/confirmation.",
+  "exposure_interpretation": "Chosen actions can all have factor 1 because discounted candidates are deferred; candidate exposure, action order and evaluator utility must be checked separately.",
+  "independent_efficacy_claim": false,
+  "legacy_parameters_preserved": true,
+  "primary_event_macro_absolute_delta": -0.1333333333333333,
+  "primary_relative_delta": -0.2857142857142857,
+  "runner_sha256": "a078b8c3feaba9a083cf5a26cce9da6c870154bd4214480a90cb9b7f90c668d4",
+  "source_inputs_preserved": true,
+  "stage": "BUDGET_AND_PUBLIC_PREFIX_AUDIT_PASSED",
+  "validation_or_confirmation_scored": false
+}

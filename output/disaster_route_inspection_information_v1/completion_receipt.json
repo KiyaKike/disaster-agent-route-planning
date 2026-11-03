@@ -1,0 +1,18 @@
+{
+  "status": "COMPLETE_CONTROLLED_INSPECTION_BOUNDARY_ONLY",
+  "files": {
+    "README.md": "db90c630b3698133d3a4c356fe0390a0bb069749a582ca19e1576217b48f8337",
+    "audit.json": "53d9c55a44c8f47e010ffd45585e5bbf4c3dcd12ef76b79b1d9145b0a3f16ce3",
+    "figures/information_boundary.pdf": "ff17921379533419ab60d5bd320d7ce7cb93987c4d0451ee689c01bfcc1152da",
+    "figures/information_boundary.png": "6b203d563627fce287af4b8207a837edbfa0bc073e99e56e1e502aa9394867dc",
+    "protocol.json": "b14aaca668fed5105ee360149f6a5168ee1c8df2d9f32c28bf43257d9436a5c1",
+    "results.csv": "5f011fe0d6c90117cfce71c26da3199682aa001a62f063cf7c03a0f768dfbe4d",
+    "results.json": "793cb27a5139ddd9cfecf0cb356f5342dd499f2c28b2f1a6cf0073bba71750bc",
+    "source_snapshots/inspection_information_core.py": "596e28e7a8855c7cbf9de66e34461f4c827e874948fa11695e595f49de796ff7",
+    "source_snapshots/run_inspection_information.py": "24586f06b82eca739e8d2928ebde94488e27d25deb8d67ee079da8b4da712b48",
+    "source_snapshots/summarize_inspection_information.py": "ddff50c170b1d3846ce0f67815634c94ce6c65b9952be2ac9f2f0801a368f16f",
+    "source_snapshots/test_inspection_information.py": "786a4427c8c1e30a998831b824f76f3ba9502d348f5efb0eef53fe19729e3d50",
+    "summary.json": "1c2162291dabe9585d48a643f8d637943aebd22f1c8f9aac2d2ae2dd57c7f94e",
+    "理论说明.md": "6a52642deb1347141da62f834a2d97705776db9dc9437b1372d7a0f72554e220"
+  }
+}

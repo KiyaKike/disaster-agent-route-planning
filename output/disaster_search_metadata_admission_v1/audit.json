@@ -1,0 +1,20 @@
+{
+  "all_geometry_fits_replayed": true,
+  "all_overlap_screens_replayed": true,
+  "canonical_cohort_unchanged": true,
+  "counts": {
+    "candidate_pool_overlap_screens_replayed": 648,
+    "candidate_rows_checked": 216,
+    "geometric_fits_replayed": 7326,
+    "usable_ranges_corners_checked": 4339
+  },
+  "network_bytes_received": 0,
+  "new_damage_reads": 0,
+  "new_inference_calls": 0,
+  "no_protected_payload_intersections": true,
+  "prior_sources_preserved": true,
+  "protected_columns_blocked_before_cache_read": true,
+  "stage": "OFFLINE_METADATA_ADMISSION_FULL_REPLAY_PASSED",
+  "validation_or_confirmation_scores_run": false,
+  "whole_216_cohort_independently_admitted": false
+}

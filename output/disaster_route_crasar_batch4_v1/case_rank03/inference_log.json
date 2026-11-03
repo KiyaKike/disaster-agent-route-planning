@@ -1,0 +1,226 @@
+[
+  {
+    "mode": "post",
+    "window": 0,
+    "forward_calls": 4,
+    "seconds": 0.5528560840029968,
+    "cache_sha256": "2bbb8ba51c6649277fc5383c93e1e08bb8a3edc7709d6005e9e3629970075dda"
+  },
+  {
+    "mode": "uas",
+    "window": 0,
+    "forward_calls": 4,
+    "seconds": 0.1529080000036629,
+    "cache_sha256": "698f68446c929bdfa8687901086a6093a44b6665a56999a5f6be0af83044b40d"
+  },
+  {
+    "mode": "post",
+    "window": 1,
+    "forward_calls": 4,
+    "seconds": 0.12613454200618435,
+    "cache_sha256": "59e29f3f45755aad81acbf93590113b54137499640d68c0872c352573c8d1e8e"
+  },
+  {
+    "mode": "uas",
+    "window": 1,
+    "forward_calls": 4,
+    "seconds": 0.13171599998895545,
+    "cache_sha256": "9bae9cbf688cd76c28e036ecddb3b22f6a55d34c8a6750b199972c9fffdc1988"
+  },
+  {
+    "mode": "post",
+    "window": 2,
+    "forward_calls": 4,
+    "seconds": 0.1651173340069363,
+    "cache_sha256": "db35b5a42fbca883244c43d24f64471ebac8e90b25942d5be45e6cdc91971b95"
+  },
+  {
+    "mode": "uas",
+    "window": 2,
+    "forward_calls": 4,
+    "seconds": 0.16987712499394547,
+    "cache_sha256": "a88e2e6f27a92eb1c7c69f44670f347cd93f4cab5cbabca9423003653be44aac"
+  },
+  {
+    "mode": "post",
+    "window": 3,
+    "forward_calls": 4,
+    "seconds": 0.17309599999862257,
+    "cache_sha256": "a0e0d787bdf2ff566760d136d081915a80be852fb4ea91670129f249ca673fce"
+  },
+  {
+    "mode": "uas",
+    "window": 3,
+    "forward_calls": 4,
+    "seconds": 0.1531161669990979,
+    "cache_sha256": "578d20f544531e3181f9187ff395f7cfa4d291efef8e98f867e8e5f517f65cae"
+  },
+  {
+    "mode": "post",
+    "window": 4,
+    "forward_calls": 4,
+    "seconds": 0.15798504200938623,
+    "cache_sha256": "6c630c072d281a77595913d30aee4ee436f3c82da041c89c4232e69c7385bd80"
+  },
+  {
+    "mode": "uas",
+    "window": 4,
+    "forward_calls": 4,
+    "seconds": 0.18874529100139625,
+    "cache_sha256": "3e69f96e08390c262ee24f0251bbdb3527a2f026ed7a68048879f20cd27d4c6d"
+  },
+  {
+    "mode": "post",
+    "window": 5,
+    "forward_calls": 4,
+    "seconds": 0.1299282500112895,
+    "cache_sha256": "514f82b6b55e3ae853738ecb959f9cad0b22a367ad3e9de89d60a9a6c192d0de"
+  },
+  {
+    "mode": "uas",
+    "window": 5,
+    "forward_calls": 4,
+    "seconds": 0.1302750839968212,
+    "cache_sha256": "b42e82590608e05cc88f469ee606d5bfb78f5f5ec0bd08d6b106614ba00002f3"
+  },
+  {
+    "mode": "post",
+    "window": 6,
+    "forward_calls": 4,
+    "seconds": 0.1338557499984745,
+    "cache_sha256": "aed3bdb2349954cd37815698f919c489362bbfd62d68855bced19e17ec6b2e26"
+  },
+  {
+    "mode": "uas",
+    "window": 6,
+    "forward_calls": 4,
+    "seconds": 0.1340640000125859,
+    "cache_sha256": "76ed41a62947214f20f646dfd87322ed2f0ec20e13512303da9c339e86647b8f"
+  },
+  {
+    "mode": "post",
+    "window": 7,
+    "forward_calls": 4,
+    "seconds": 0.15896837499167304,
+    "cache_sha256": "c9da5da29e3d4cded16f5d90f751f6712f08bdebddf96ce9430d42bccf42e16c"
+  },
+  {
+    "mode": "uas",
+    "window": 7,
+    "forward_calls": 4,
+    "seconds": 0.2509120839968091,
+    "cache_sha256": "b29364d5bccbba94e5ea15e12a90b2cead4e4c31f270d152c763dfc1ac754534"
+  },
+  {
+    "mode": "post",
+    "window": 8,
+    "forward_calls": 4,
+    "seconds": 0.1770974999963073,
+    "cache_sha256": "020ae0c9f0c1bcda2332440a872ebce234886f012b6beba7a87a00e6271eaa0c"
+  },
+  {
+    "mode": "uas",
+    "window": 8,
+    "forward_calls": 4,
+    "seconds": 0.22024016600335017,
+    "cache_sha256": "4ff458fc827ca9f4b0d3b25b5eaa151999ddbf9a60d3240c290804c1bcf1a5e6"
+  },
+  {
+    "mode": "post",
+    "window": 9,
+    "forward_calls": 4,
+    "seconds": 0.22119941699202172,
+    "cache_sha256": "9dbf26db65155683057994b0947f5899b74ce456d47335e29904e11e8e473791"
+  },
+  {
+    "mode": "uas",
+    "window": 9,
+    "forward_calls": 4,
+    "seconds": 0.18892183300340548,
+    "cache_sha256": "8f0e5abaaf3a951ba554c74c965e74667527d1885261aa569409b27a0a6643e1"
+  },
+  {
+    "mode": "post",
+    "window": 10,
+    "forward_calls": 4,
+    "seconds": 0.1867042079975363,
+    "cache_sha256": "5d92dc9b0f61dde94b576ce643b27de1fe1fda56b8fc16c667abcd310a6ede7e"
+  },
+  {
+    "mode": "uas",
+    "window": 10,
+    "forward_calls": 4,
+    "seconds": 0.18982412500190549,
+    "cache_sha256": "69ab6563594b3c80cf9dc008e366f7703004cd49bccf4c0e023adeeab85ab23e"
+  },
+  {
+    "mode": "post",
+    "window": 11,
+    "forward_calls": 4,
+    "seconds": 0.19677837498602457,
+    "cache_sha256": "9ec29b95e49a93acf223bbdd5d70bcf1500774bd9f3cc38f41133f8427525cd4"
+  },
+  {
+    "mode": "uas",
+    "window": 11,
+    "forward_calls": 4,
+    "seconds": 0.15413908299524337,
+    "cache_sha256": "7bdb4d6345e5c2f50e734eae96c6bbadf1fc1fda886ad77d62853ae72f3199e4"
+  },
+  {
+    "mode": "post",
+    "window": 12,
+    "forward_calls": 4,
+    "seconds": 0.17013529199175537,
+    "cache_sha256": "4d0b535f4998f47bfbd62a701dc5699a081ee556376165923b7fe1bc5aa77f4f"
+  },
+  {
+    "mode": "uas",
+    "window": 12,
+    "forward_calls": 4,
+    "seconds": 0.22439016599673778,
+    "cache_sha256": "fdf009c4b66203b0f0d35ff356cb47100059c27896f15624f92214eda38719ef"
+  },
+  {
+    "mode": "post",
+    "window": 13,
+    "forward_calls": 4,
+    "seconds": 0.2047052080015419,
+    "cache_sha256": "764c337a76bfda35211ba1f7b5e096acfa3aea8f57eb2e344c27d085a63cf231"
+  },
+  {
+    "mode": "uas",
+    "window": 13,
+    "forward_calls": 4,
+    "seconds": 0.1521879999927478,
+    "cache_sha256": "4048fe107747450b52639894a2d4f064ad4566f68ea62408118297e683bd20a4"
+  },
+  {
+    "mode": "post",
+    "window": 14,
+    "forward_calls": 4,
+    "seconds": 0.14893020800082013,
+    "cache_sha256": "b8aa8aad0b2e34aea2880e0d9a5d2c4b2342ab38f0fb61d697766ed3ddd2bfc6"
+  },
+  {
+    "mode": "uas",
+    "window": 14,
+    "forward_calls": 4,
+    "seconds": 0.30677487500361167,
+    "cache_sha256": "b632e8cc7efc7d5e559d56282e3a61f07f1ca75e62b80c235b7dd80d5a604a5e"
+  },
+  {
+    "mode": "post",
+    "window": 15,
+    "forward_calls": 4,
+    "seconds": 0.20516800000041258,
+    "cache_sha256": "a50732f16580c2cdd17af9a79e5916418ecd1002693224219566fdb967ff562f"
+  },
+  {
+    "mode": "uas",
+    "window": 15,
+    "forward_calls": 4,
+    "seconds": 0.24193899999954738,
+    "cache_sha256": "c415e244109954d4412d9491e072036ed6767de2358488299c0001fcf13667ce"
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "source_objects": 3,
+  "model_object_descriptions_replayed": 6,
+  "reported_source_footprint_pixels": 2698,
+  "changes_to_primary_results": false,
+  "new_forward_calls": 0
+}

@@ -1,0 +1,170 @@
+[
+  {
+    "evaluator_class": "prior_advantage",
+    "selection": "First lexicographic matching all-negative case, posthoc illustration only; no representativeness claim.",
+    "split": "calibration",
+    "sample_id": "hurricane-harvey_00000066",
+    "event": "hurricane-harvey",
+    "scenario": "blurred_survey",
+    "quality_seed": 20261024,
+    "probe_seed": 20261039,
+    "prefix_length": 4,
+    "budget": 16,
+    "probe": [
+      {
+        "sample_id": "hurricane-harvey_00000066",
+        "cell_id": "r03c00",
+        "mode": "blurred",
+        "evidence_group_id": "hurricane-harvey_00000066:r03c00",
+        "observation_id": "hurricane-harvey_00000066:r03c00:blurred",
+        "declared_target": false,
+        "uncalibrated_severe_score": 4.2771935113705695e-05
+      },
+      {
+        "sample_id": "hurricane-harvey_00000066",
+        "cell_id": "r01c02",
+        "mode": "blurred",
+        "evidence_group_id": "hurricane-harvey_00000066:r01c02",
+        "observation_id": "hurricane-harvey_00000066:r01c02:blurred",
+        "declared_target": false,
+        "uncalibrated_severe_score": 3.1210527218217265e-11
+      },
+      {
+        "sample_id": "hurricane-harvey_00000066",
+        "cell_id": "r00c05",
+        "mode": "blurred",
+        "evidence_group_id": "hurricane-harvey_00000066:r00c05",
+        "observation_id": "hurricane-harvey_00000066:r00c05:blurred",
+        "declared_target": false,
+        "uncalibrated_severe_score": 1.202279942269513e-11
+      },
+      {
+        "sample_id": "hurricane-harvey_00000066",
+        "cell_id": "r02c03",
+        "mode": "blurred",
+        "evidence_group_id": "hurricane-harvey_00000066:r02c03",
+        "observation_id": "hurricane-harvey_00000066:r02c03:blurred",
+        "declared_target": false,
+        "uncalibrated_severe_score": 2.2107116484648692e-11
+      }
+    ],
+    "features": {
+      "positive_count": 0,
+      "response_surplus": -0.33345697916714945,
+      "binary_alignment": null,
+      "soft_alignment": -1.0,
+      "public_prior_spread": 0.005811600187699748,
+      "binary_comparable_pairs": 0,
+      "soft_comparable_pairs": 5,
+      "native_count": 0
+    },
+    "outcome": {
+      "prefix_discoveries": 0,
+      "remaining_reachable_targets": 1,
+      "prior_continuation_cells": [
+        "r03c04",
+        "r02c05",
+        "r01c05",
+        "r01c06",
+        "r00c06",
+        "r00c07",
+        "r01c07",
+        "r02c07",
+        "r02c06",
+        "r03c06",
+        "r03c07",
+        "r04c07"
+      ],
+      "prior_total": 1,
+      "random_expected_total": 0.19999999999999996,
+      "gain": 0.8,
+      "normalized_gain": 0.8,
+      "oracle_expected_total": 1
+    },
+    "no_probe_prior_total": 0
+  },
+  {
+    "evaluator_class": "coverage_advantage",
+    "selection": "First lexicographic matching all-negative case, posthoc illustration only; no representativeness claim.",
+    "split": "calibration",
+    "sample_id": "hurricane-harvey_00000066",
+    "event": "hurricane-harvey",
+    "scenario": "blurred_survey",
+    "quality_seed": 20261024,
+    "probe_seed": 20261030,
+    "prefix_length": 4,
+    "budget": 16,
+    "probe": [
+      {
+        "sample_id": "hurricane-harvey_00000066",
+        "cell_id": "r03c04",
+        "mode": "blurred",
+        "evidence_group_id": "hurricane-harvey_00000066:r03c04",
+        "observation_id": "hurricane-harvey_00000066:r03c04:blurred",
+        "declared_target": false,
+        "uncalibrated_severe_score": 4.9085807404480875e-05
+      },
+      {
+        "sample_id": "hurricane-harvey_00000066",
+        "cell_id": "r07c00",
+        "mode": "blurred",
+        "evidence_group_id": "hurricane-harvey_00000066:r07c00",
+        "observation_id": "hurricane-harvey_00000066:r07c00:blurred",
+        "declared_target": false,
+        "uncalibrated_severe_score": 2.9639702150974223e-12
+      },
+      {
+        "sample_id": "hurricane-harvey_00000066",
+        "cell_id": "r04c03",
+        "mode": "blurred",
+        "evidence_group_id": "hurricane-harvey_00000066:r04c03",
+        "observation_id": "hurricane-harvey_00000066:r04c03:blurred",
+        "declared_target": false,
+        "uncalibrated_severe_score": 4.64868062408641e-05
+      },
+      {
+        "sample_id": "hurricane-harvey_00000066",
+        "cell_id": "r07c05",
+        "mode": "blurred",
+        "evidence_group_id": "hurricane-harvey_00000066:r07c05",
+        "observation_id": "hurricane-harvey_00000066:r07c05:blurred",
+        "declared_target": false,
+        "uncalibrated_severe_score": 2.9639702150974223e-12
+      }
+    ],
+    "features": {
+      "positive_count": 0,
+      "response_surplus": -0.2770122490616612,
+      "binary_alignment": null,
+      "soft_alignment": 1.0,
+      "public_prior_spread": 0.005811600187699748,
+      "binary_comparable_pairs": 0,
+      "soft_comparable_pairs": 4,
+      "native_count": 0
+    },
+    "outcome": {
+      "prefix_discoveries": 0,
+      "remaining_reachable_targets": 1,
+      "prior_continuation_cells": [
+        "r04c05",
+        "r04c06",
+        "r03c06",
+        "r02c06",
+        "r01c06",
+        "r00c06",
+        "r00c05",
+        "r01c05",
+        "r02c05",
+        "r02c03",
+        "r03c01",
+        "r04c00"
+      ],
+      "prior_total": 0,
+      "random_expected_total": 0.19999999999999996,
+      "gain": -0.19999999999999996,
+      "normalized_gain": -0.19999999999999996,
+      "oracle_expected_total": 0.19999999999999996
+    },
+    "no_probe_prior_total": 0
+  }
+]

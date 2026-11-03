@@ -1,0 +1,17 @@
+{
+  "client_report_date": "2026-10-27",
+  "extraction_protocol_sha256": "4eceafe6f640221a50d5e36ce92aee447a87f7b43ec4833f87243c48d818a017",
+  "fit_enabled": false,
+  "max_forward_calls": 758,
+  "new36_only": true,
+  "source_code_sha256": {
+    "audit_native_replication36.py": "20f40da8254e68430d8374bd7f6ac51824c9abba676bf2aea03b80b0c17dfb55",
+    "evaluate_native_replication36.py": "fe0aeca174603ffef92596149eaa08c4136658a1ab8816e8361e2646e6b7d24f",
+    "native_replication36_core.py": "227c33d73e24be75cb22abf24423ec91d30231df34a2a101647dfc375e8d2d6c",
+    "run_native_replication36.py": "47773b1c43b2a14c4bde96e07c34a3155fd44b861d1edb7de465cab56d35cac5",
+    "test_native_replication36.py": "89695273baeeba3bd5ec635e9ad0b76cb2452d4d7f6e990b08cca512fec52cf8"
+  },
+  "stage": "IMPLEMENTATION_LOCKED_BEFORE_NEW36_MODEL_OUTPUTS",
+  "test_log_sha256": "0b8d4a3c65347b4e5ac7ecfcddb4be7bf14e015737854f809cf9503bf6f33208",
+  "tests_passed": 330
+}

@@ -1,0 +1,50 @@
+{
+  "status": "FROZEN_BEFORE_PREDICTIONS",
+  "model": "Existing pinned StrongBaselineNet/ResNet34, strict checkpoint, no fitting",
+  "checkpoint_sha256": "fe7ded8c5012dee3d39675226b0aa1fd671d8c19cef5c88080daa8b13645c6b6",
+  "sources": [
+    "PRE/POST satellite for public prior",
+    "PRE/UAS for private paid observation"
+  ],
+  "window_contract": "16 disjoint32m windows, independently resampled to128x128 RGB(.25m model grid); no UAS context outside paid window",
+  "test_time_flips": [
+    [],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      2,
+      3
+    ]
+  ],
+  "localization_threshold": 0.38,
+  "damage_proxy": "Two predeclared score sets: mean localization score times normalized severe-class scores; and mean localization score times normalized all-damage scores. Separate results, no best-target selection.",
+  "uncertainty_proxy": "Mean1−top-two normalized damage-score margin; not calibrated probability or expected information gain",
+  "correct_check": "At least80% footprint accessed and relevant damage-class model pixels at least10% of accessed footprint pixels; primary truth=UAS major/destroyed; exploratory secondary=minor/major/destroyed.",
+  "candidate": "Prior damage proxy × uncertainty proxy × newly accessed building fraction / incremental return-inclusive route cost",
+  "budgets_proxy_s": [
+    60,
+    100,
+    140
+  ],
+  "main_budget_proxy_s": 100,
+  "assumed_speed_mps": 5,
+  "assumed_observation_s": 10,
+  "assumed_planning_s": 1,
+  "home": "South midpoint of ROI",
+  "static_controls": "Exact all-subset closed tours for damage proxy and for candidate public utility; never truth-informed",
+  "limitations": [
+    "Cross-sensor model not calibrated",
+    "No measured flight footprint or energy",
+    "One development region",
+    "Reference labels not physical field ground truth",
+    "Prior/observation images differ by1day",
+    "Secondary any-damage endpoint added after label prevalence inspection, before predictions; exploratory only",
+    "Automated feature matching insufficient; visual alignment only, no independent accuracy certificate"
+  ],
+  "training": false,
+  "gpu_rental": false
+}

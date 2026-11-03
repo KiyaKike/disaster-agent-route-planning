@@ -1,0 +1,20 @@
+{
+  "count_shrinkage_pseudo_cells": 8,
+  "cross_cell_utility": "Not solved. Boundary-only discount retained as failed ablation and not refit.",
+  "diagnostic": "Hold out each development event, refit using the other two events, predict local survey/upgrade counts. No threshold/parameter selection from these diagnostics.",
+  "fit": "Same frozen paired/count definitions as six-scene smoke. Unknown cell pairs excluded, B+ upgrade allowed, no independence multiplication.",
+  "fit_helper_sha256": "b04ea42f2e9880b67d054ae76df98b0ddb7c3f4ca49a4ff462de803cafe67818",
+  "joint_pseudocount_per_outcome": 0.5,
+  "new_controller_training": false,
+  "policy_scores": false,
+  "public_cue_bins": 4,
+  "runner_sha256": "e4f49d14237d82d786d6c8517cb2ce27ce646d13e04f317dc249d7dee9bfb3c5",
+  "sources": {
+    "association": "59c51a09e2c46eeac0c778de1dd9af2771f72bee5ff526ac967c0a6fb75fbffc",
+    "contract": "452de54015d0c717819553487885007d8aabc82751499387d17b0ba2044919c0",
+    "cues": "912294a718d1b31509886d72fcdffbee51fd9987a59bb6b1bd80e7283043fb6e",
+    "manifest": "a70646afabf0822b3adea609835ab95c1cfdb2e7f834d6d8173d38fa4b042346"
+  },
+  "validation_or_confirmation_access": false,
+  "version": "development72_paired_count_fit_v1"
+}

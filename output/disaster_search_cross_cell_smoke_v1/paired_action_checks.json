@@ -1,0 +1,7292 @@
+[
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "hurricane-harvey_00000074",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "hurricane-harvey_00000363",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "mexico-earthquake_00000054",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "mexico-earthquake_00000145",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": true,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": true,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": true,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": true,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": true,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": true,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": true,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": true,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": true,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": true,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "native_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": true,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": true,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": true,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": true,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": true,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": true,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": true,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": true,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": true,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": true,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "native_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": true,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": true,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": true,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": true,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": true,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": true,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": true,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": true,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": true,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": true,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "native_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": true,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": true,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": true,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": true,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": true,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": true,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": true,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": true,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": true,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": true,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": true,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": true,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": true,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": true,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": true,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": true,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": true,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": true,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": true,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": true,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": true,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "mixed_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 1
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 2
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261025,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261026,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261027,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261028,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 8,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 16,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  },
+  {
+    "budget": 32,
+    "changed_action_order": false,
+    "discounted_actions": 0,
+    "quality_seed": 20261029,
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "scenario": "blurred_survey",
+    "upgrade_cost": 4
+  }
+]

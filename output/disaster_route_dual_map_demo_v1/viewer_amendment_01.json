@@ -1,0 +1,7 @@
+{
+  "agent_sources_or_route_data_changed": false,
+  "amended_html_sha256": "750b1a6f40730dee70a0a66ba9793c240b50efbf90ed29d1a5016b7501271d77",
+  "original_html_sha256": "a7b3b495af7bf406f0f0f6ba36f7e4abada4f503ac9c266d2e3d900febd6d0ba",
+  "postprocessor_sha256": "574f6a044984e8f1d0fe71f8ed65139f5929dc121007c152fb64ed3600680b6c",
+  "scope": "Presentation only;clear stale cell inspector on region/policy changes."
+}

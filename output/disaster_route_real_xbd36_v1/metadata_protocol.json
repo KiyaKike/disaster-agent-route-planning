@@ -1,0 +1,90 @@
+{
+  "allowed_new_ranges": [
+    {
+      "bytes": 75795,
+      "field": "ml:source_file",
+      "offset": 32294800431
+    },
+    {
+      "bytes": 2323,
+      "field": "ml:pre_gsd_m",
+      "offset": 32294877444
+    },
+    {
+      "bytes": 2608,
+      "field": "ml:pre_capture_date",
+      "offset": 32294879767
+    },
+    {
+      "bytes": 1843,
+      "field": "ml:post_gsd_m",
+      "offset": 32294889862
+    },
+    {
+      "bytes": 2103,
+      "field": "ml:post_capture_date",
+      "offset": 32294891705
+    },
+    {
+      "bytes": 63619,
+      "field": "internal:current_id",
+      "offset": 32403044487
+    }
+  ],
+  "archive_size": 32404817624,
+  "client_date": "2026-11-02",
+  "columns": [
+    "ml:source_file",
+    "ml:pre_gsd_m",
+    "ml:post_gsd_m",
+    "ml:pre_capture_date",
+    "ml:post_capture_date",
+    "internal:current_id"
+  ],
+  "entry": {
+    "offset": 32294800093,
+    "size": 108386163
+  },
+  "max_new_network_bytes": 2097152,
+  "protected_ranges": [
+    {
+      "bytes": 13289,
+      "field": "ml:n_buildings",
+      "offset": 32294899337
+    },
+    {
+      "bytes": 13289,
+      "field": "ml:n_buildings_pre",
+      "offset": 32294912626
+    },
+    {
+      "bytes": 85048,
+      "field": "ml:damage",
+      "offset": 32294925915
+    },
+    {
+      "bytes": 56886908,
+      "field": "ml:polygon_xy",
+      "offset": 32295010963
+    },
+    {
+      "bytes": 366020,
+      "field": "ml:polygon_len",
+      "offset": 32351897871
+    },
+    {
+      "bytes": 50414576,
+      "field": "ml:polygon_lnglat",
+      "offset": 32352263891
+    },
+    {
+      "bytes": 366020,
+      "field": "ml:polygon_lnglat_len",
+      "offset": 32402678467
+    }
+  ],
+  "purpose": "Public GSD and dates for existing36 route cases;no new imagery,damage,counts or geometry columns.",
+  "selected_sha256": "1b25f314b403b80f37490e7641f0ac257e24cf1df9049f2f1e434ea5be3ec0e5",
+  "source_sha256": "57993e4e9b0b3016cf1bd6f4b9bf9392ddc30b2b552a5882f78953aaf6841716",
+  "url": "https://huggingface.co/datasets/isp-uv-es/xview2-taco/resolve/44e219dc1d88c9d0903d6b478d7f2f3c435e574f/xview2.zip"
+}

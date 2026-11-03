@@ -1,0 +1,13 @@
+{
+  "continued_parent_reproductions": 540,
+  "gpu_rented": false,
+  "loop_seconds": 3.05056100001093,
+  "new_perception_calls": 0,
+  "new_real_labels": 0,
+  "new_training": false,
+  "snapshots": 540,
+  "status": "COMPLETE",
+  "suffix_rollouts": 1620,
+  "sum_branch_planner_wall_s": 0.37719102355185896,
+  "unique_parent_episodes": 180
+}

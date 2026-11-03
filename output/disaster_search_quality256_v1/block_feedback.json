@@ -1,0 +1,506 @@
+[
+  {
+    "block_id": "b00",
+    "blurred_declared_target": false,
+    "event": "EARTHQUAKE-TURKEY",
+    "native_declared_target": false,
+    "sample_id": "EARTHQUAKE-TURKEY_000237"
+  },
+  {
+    "block_id": "b01",
+    "blurred_declared_target": false,
+    "event": "EARTHQUAKE-TURKEY",
+    "native_declared_target": false,
+    "sample_id": "EARTHQUAKE-TURKEY_000237"
+  },
+  {
+    "block_id": "b10",
+    "blurred_declared_target": false,
+    "event": "EARTHQUAKE-TURKEY",
+    "native_declared_target": false,
+    "sample_id": "EARTHQUAKE-TURKEY_000237"
+  },
+  {
+    "block_id": "b11",
+    "blurred_declared_target": false,
+    "event": "EARTHQUAKE-TURKEY",
+    "native_declared_target": false,
+    "sample_id": "EARTHQUAKE-TURKEY_000237"
+  },
+  {
+    "block_id": "b00",
+    "blurred_declared_target": false,
+    "event": "EARTHQUAKE-TURKEY",
+    "native_declared_target": false,
+    "sample_id": "EARTHQUAKE-TURKEY_003472"
+  },
+  {
+    "block_id": "b01",
+    "blurred_declared_target": false,
+    "event": "EARTHQUAKE-TURKEY",
+    "native_declared_target": false,
+    "sample_id": "EARTHQUAKE-TURKEY_003472"
+  },
+  {
+    "block_id": "b10",
+    "blurred_declared_target": false,
+    "event": "EARTHQUAKE-TURKEY",
+    "native_declared_target": false,
+    "sample_id": "EARTHQUAKE-TURKEY_003472"
+  },
+  {
+    "block_id": "b11",
+    "blurred_declared_target": false,
+    "event": "EARTHQUAKE-TURKEY",
+    "native_declared_target": false,
+    "sample_id": "EARTHQUAKE-TURKEY_003472"
+  },
+  {
+    "block_id": "b00",
+    "blurred_declared_target": false,
+    "event": "EARTHQUAKE-TURKEY",
+    "native_declared_target": false,
+    "sample_id": "EARTHQUAKE-TURKEY_005459"
+  },
+  {
+    "block_id": "b01",
+    "blurred_declared_target": false,
+    "event": "EARTHQUAKE-TURKEY",
+    "native_declared_target": true,
+    "sample_id": "EARTHQUAKE-TURKEY_005459"
+  },
+  {
+    "block_id": "b10",
+    "blurred_declared_target": false,
+    "event": "EARTHQUAKE-TURKEY",
+    "native_declared_target": false,
+    "sample_id": "EARTHQUAKE-TURKEY_005459"
+  },
+  {
+    "block_id": "b11",
+    "blurred_declared_target": false,
+    "event": "EARTHQUAKE-TURKEY",
+    "native_declared_target": false,
+    "sample_id": "EARTHQUAKE-TURKEY_005459"
+  },
+  {
+    "block_id": "b00",
+    "blurred_declared_target": false,
+    "event": "EARTHQUAKE-TURKEY",
+    "native_declared_target": false,
+    "sample_id": "EARTHQUAKE-TURKEY_006807"
+  },
+  {
+    "block_id": "b01",
+    "blurred_declared_target": false,
+    "event": "EARTHQUAKE-TURKEY",
+    "native_declared_target": false,
+    "sample_id": "EARTHQUAKE-TURKEY_006807"
+  },
+  {
+    "block_id": "b10",
+    "blurred_declared_target": false,
+    "event": "EARTHQUAKE-TURKEY",
+    "native_declared_target": false,
+    "sample_id": "EARTHQUAKE-TURKEY_006807"
+  },
+  {
+    "block_id": "b11",
+    "blurred_declared_target": false,
+    "event": "EARTHQUAKE-TURKEY",
+    "native_declared_target": true,
+    "sample_id": "EARTHQUAKE-TURKEY_006807"
+  },
+  {
+    "block_id": "b00",
+    "blurred_declared_target": false,
+    "event": "EARTHQUAKE-TURKEY",
+    "native_declared_target": false,
+    "sample_id": "EARTHQUAKE-TURKEY_012987"
+  },
+  {
+    "block_id": "b01",
+    "blurred_declared_target": false,
+    "event": "EARTHQUAKE-TURKEY",
+    "native_declared_target": true,
+    "sample_id": "EARTHQUAKE-TURKEY_012987"
+  },
+  {
+    "block_id": "b10",
+    "blurred_declared_target": false,
+    "event": "EARTHQUAKE-TURKEY",
+    "native_declared_target": true,
+    "sample_id": "EARTHQUAKE-TURKEY_012987"
+  },
+  {
+    "block_id": "b11",
+    "blurred_declared_target": false,
+    "event": "EARTHQUAKE-TURKEY",
+    "native_declared_target": false,
+    "sample_id": "EARTHQUAKE-TURKEY_012987"
+  },
+  {
+    "block_id": "b00",
+    "blurred_declared_target": false,
+    "event": "EARTHQUAKE-TURKEY",
+    "native_declared_target": false,
+    "sample_id": "EARTHQUAKE-TURKEY_015741"
+  },
+  {
+    "block_id": "b01",
+    "blurred_declared_target": false,
+    "event": "EARTHQUAKE-TURKEY",
+    "native_declared_target": false,
+    "sample_id": "EARTHQUAKE-TURKEY_015741"
+  },
+  {
+    "block_id": "b10",
+    "blurred_declared_target": false,
+    "event": "EARTHQUAKE-TURKEY",
+    "native_declared_target": false,
+    "sample_id": "EARTHQUAKE-TURKEY_015741"
+  },
+  {
+    "block_id": "b11",
+    "blurred_declared_target": false,
+    "event": "EARTHQUAKE-TURKEY",
+    "native_declared_target": false,
+    "sample_id": "EARTHQUAKE-TURKEY_015741"
+  },
+  {
+    "block_id": "b00",
+    "blurred_declared_target": false,
+    "event": "PAKISTAN-FLOODING",
+    "native_declared_target": false,
+    "sample_id": "PAKISTAN-FLOODING_003197"
+  },
+  {
+    "block_id": "b01",
+    "blurred_declared_target": false,
+    "event": "PAKISTAN-FLOODING",
+    "native_declared_target": false,
+    "sample_id": "PAKISTAN-FLOODING_003197"
+  },
+  {
+    "block_id": "b10",
+    "blurred_declared_target": false,
+    "event": "PAKISTAN-FLOODING",
+    "native_declared_target": false,
+    "sample_id": "PAKISTAN-FLOODING_003197"
+  },
+  {
+    "block_id": "b11",
+    "blurred_declared_target": false,
+    "event": "PAKISTAN-FLOODING",
+    "native_declared_target": false,
+    "sample_id": "PAKISTAN-FLOODING_003197"
+  },
+  {
+    "block_id": "b00",
+    "blurred_declared_target": false,
+    "event": "PAKISTAN-FLOODING",
+    "native_declared_target": false,
+    "sample_id": "PAKISTAN-FLOODING_004697"
+  },
+  {
+    "block_id": "b01",
+    "blurred_declared_target": false,
+    "event": "PAKISTAN-FLOODING",
+    "native_declared_target": false,
+    "sample_id": "PAKISTAN-FLOODING_004697"
+  },
+  {
+    "block_id": "b10",
+    "blurred_declared_target": false,
+    "event": "PAKISTAN-FLOODING",
+    "native_declared_target": false,
+    "sample_id": "PAKISTAN-FLOODING_004697"
+  },
+  {
+    "block_id": "b11",
+    "blurred_declared_target": false,
+    "event": "PAKISTAN-FLOODING",
+    "native_declared_target": false,
+    "sample_id": "PAKISTAN-FLOODING_004697"
+  },
+  {
+    "block_id": "b00",
+    "blurred_declared_target": false,
+    "event": "PAKISTAN-FLOODING",
+    "native_declared_target": false,
+    "sample_id": "PAKISTAN-FLOODING_006998"
+  },
+  {
+    "block_id": "b01",
+    "blurred_declared_target": false,
+    "event": "PAKISTAN-FLOODING",
+    "native_declared_target": false,
+    "sample_id": "PAKISTAN-FLOODING_006998"
+  },
+  {
+    "block_id": "b10",
+    "blurred_declared_target": false,
+    "event": "PAKISTAN-FLOODING",
+    "native_declared_target": false,
+    "sample_id": "PAKISTAN-FLOODING_006998"
+  },
+  {
+    "block_id": "b11",
+    "blurred_declared_target": false,
+    "event": "PAKISTAN-FLOODING",
+    "native_declared_target": false,
+    "sample_id": "PAKISTAN-FLOODING_006998"
+  },
+  {
+    "block_id": "b00",
+    "blurred_declared_target": false,
+    "event": "PAKISTAN-FLOODING",
+    "native_declared_target": false,
+    "sample_id": "PAKISTAN-FLOODING_013475"
+  },
+  {
+    "block_id": "b01",
+    "blurred_declared_target": false,
+    "event": "PAKISTAN-FLOODING",
+    "native_declared_target": false,
+    "sample_id": "PAKISTAN-FLOODING_013475"
+  },
+  {
+    "block_id": "b10",
+    "blurred_declared_target": false,
+    "event": "PAKISTAN-FLOODING",
+    "native_declared_target": false,
+    "sample_id": "PAKISTAN-FLOODING_013475"
+  },
+  {
+    "block_id": "b11",
+    "blurred_declared_target": false,
+    "event": "PAKISTAN-FLOODING",
+    "native_declared_target": false,
+    "sample_id": "PAKISTAN-FLOODING_013475"
+  },
+  {
+    "block_id": "b00",
+    "blurred_declared_target": false,
+    "event": "PAKISTAN-FLOODING",
+    "native_declared_target": false,
+    "sample_id": "PAKISTAN-FLOODING_014536"
+  },
+  {
+    "block_id": "b01",
+    "blurred_declared_target": false,
+    "event": "PAKISTAN-FLOODING",
+    "native_declared_target": false,
+    "sample_id": "PAKISTAN-FLOODING_014536"
+  },
+  {
+    "block_id": "b10",
+    "blurred_declared_target": false,
+    "event": "PAKISTAN-FLOODING",
+    "native_declared_target": true,
+    "sample_id": "PAKISTAN-FLOODING_014536"
+  },
+  {
+    "block_id": "b11",
+    "blurred_declared_target": false,
+    "event": "PAKISTAN-FLOODING",
+    "native_declared_target": false,
+    "sample_id": "PAKISTAN-FLOODING_014536"
+  },
+  {
+    "block_id": "b00",
+    "blurred_declared_target": false,
+    "event": "PAKISTAN-FLOODING",
+    "native_declared_target": false,
+    "sample_id": "PAKISTAN-FLOODING_017841"
+  },
+  {
+    "block_id": "b01",
+    "blurred_declared_target": false,
+    "event": "PAKISTAN-FLOODING",
+    "native_declared_target": false,
+    "sample_id": "PAKISTAN-FLOODING_017841"
+  },
+  {
+    "block_id": "b10",
+    "blurred_declared_target": false,
+    "event": "PAKISTAN-FLOODING",
+    "native_declared_target": false,
+    "sample_id": "PAKISTAN-FLOODING_017841"
+  },
+  {
+    "block_id": "b11",
+    "blurred_declared_target": false,
+    "event": "PAKISTAN-FLOODING",
+    "native_declared_target": false,
+    "sample_id": "PAKISTAN-FLOODING_017841"
+  },
+  {
+    "block_id": "b00",
+    "blurred_declared_target": false,
+    "event": "TEXAS-TORNADOES",
+    "native_declared_target": false,
+    "sample_id": "TEXAS-TORNADOES_000325"
+  },
+  {
+    "block_id": "b01",
+    "blurred_declared_target": false,
+    "event": "TEXAS-TORNADOES",
+    "native_declared_target": false,
+    "sample_id": "TEXAS-TORNADOES_000325"
+  },
+  {
+    "block_id": "b10",
+    "blurred_declared_target": false,
+    "event": "TEXAS-TORNADOES",
+    "native_declared_target": false,
+    "sample_id": "TEXAS-TORNADOES_000325"
+  },
+  {
+    "block_id": "b11",
+    "blurred_declared_target": false,
+    "event": "TEXAS-TORNADOES",
+    "native_declared_target": false,
+    "sample_id": "TEXAS-TORNADOES_000325"
+  },
+  {
+    "block_id": "b00",
+    "blurred_declared_target": false,
+    "event": "TEXAS-TORNADOES",
+    "native_declared_target": false,
+    "sample_id": "TEXAS-TORNADOES_002697"
+  },
+  {
+    "block_id": "b01",
+    "blurred_declared_target": false,
+    "event": "TEXAS-TORNADOES",
+    "native_declared_target": false,
+    "sample_id": "TEXAS-TORNADOES_002697"
+  },
+  {
+    "block_id": "b10",
+    "blurred_declared_target": false,
+    "event": "TEXAS-TORNADOES",
+    "native_declared_target": false,
+    "sample_id": "TEXAS-TORNADOES_002697"
+  },
+  {
+    "block_id": "b11",
+    "blurred_declared_target": false,
+    "event": "TEXAS-TORNADOES",
+    "native_declared_target": false,
+    "sample_id": "TEXAS-TORNADOES_002697"
+  },
+  {
+    "block_id": "b00",
+    "blurred_declared_target": false,
+    "event": "TEXAS-TORNADOES",
+    "native_declared_target": false,
+    "sample_id": "TEXAS-TORNADOES_002969"
+  },
+  {
+    "block_id": "b01",
+    "blurred_declared_target": false,
+    "event": "TEXAS-TORNADOES",
+    "native_declared_target": false,
+    "sample_id": "TEXAS-TORNADOES_002969"
+  },
+  {
+    "block_id": "b10",
+    "blurred_declared_target": false,
+    "event": "TEXAS-TORNADOES",
+    "native_declared_target": false,
+    "sample_id": "TEXAS-TORNADOES_002969"
+  },
+  {
+    "block_id": "b11",
+    "blurred_declared_target": false,
+    "event": "TEXAS-TORNADOES",
+    "native_declared_target": false,
+    "sample_id": "TEXAS-TORNADOES_002969"
+  },
+  {
+    "block_id": "b00",
+    "blurred_declared_target": false,
+    "event": "TEXAS-TORNADOES",
+    "native_declared_target": false,
+    "sample_id": "TEXAS-TORNADOES_003987"
+  },
+  {
+    "block_id": "b01",
+    "blurred_declared_target": false,
+    "event": "TEXAS-TORNADOES",
+    "native_declared_target": false,
+    "sample_id": "TEXAS-TORNADOES_003987"
+  },
+  {
+    "block_id": "b10",
+    "blurred_declared_target": false,
+    "event": "TEXAS-TORNADOES",
+    "native_declared_target": false,
+    "sample_id": "TEXAS-TORNADOES_003987"
+  },
+  {
+    "block_id": "b11",
+    "blurred_declared_target": false,
+    "event": "TEXAS-TORNADOES",
+    "native_declared_target": false,
+    "sample_id": "TEXAS-TORNADOES_003987"
+  },
+  {
+    "block_id": "b00",
+    "blurred_declared_target": false,
+    "event": "TEXAS-TORNADOES",
+    "native_declared_target": false,
+    "sample_id": "TEXAS-TORNADOES_004417"
+  },
+  {
+    "block_id": "b01",
+    "blurred_declared_target": false,
+    "event": "TEXAS-TORNADOES",
+    "native_declared_target": false,
+    "sample_id": "TEXAS-TORNADOES_004417"
+  },
+  {
+    "block_id": "b10",
+    "blurred_declared_target": false,
+    "event": "TEXAS-TORNADOES",
+    "native_declared_target": false,
+    "sample_id": "TEXAS-TORNADOES_004417"
+  },
+  {
+    "block_id": "b11",
+    "blurred_declared_target": false,
+    "event": "TEXAS-TORNADOES",
+    "native_declared_target": false,
+    "sample_id": "TEXAS-TORNADOES_004417"
+  },
+  {
+    "block_id": "b00",
+    "blurred_declared_target": false,
+    "event": "TEXAS-TORNADOES",
+    "native_declared_target": false,
+    "sample_id": "TEXAS-TORNADOES_004813"
+  },
+  {
+    "block_id": "b01",
+    "blurred_declared_target": false,
+    "event": "TEXAS-TORNADOES",
+    "native_declared_target": false,
+    "sample_id": "TEXAS-TORNADOES_004813"
+  },
+  {
+    "block_id": "b10",
+    "blurred_declared_target": false,
+    "event": "TEXAS-TORNADOES",
+    "native_declared_target": false,
+    "sample_id": "TEXAS-TORNADOES_004813"
+  },
+  {
+    "block_id": "b11",
+    "blurred_declared_target": false,
+    "event": "TEXAS-TORNADOES",
+    "native_declared_target": false,
+    "sample_id": "TEXAS-TORNADOES_004813"
+  }
+]

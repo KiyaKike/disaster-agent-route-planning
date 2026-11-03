@@ -1,0 +1,15 @@
+{
+  "status": "METADATA_AND_TRAIN_ANNOTATION_FEASIBILITY_ONLY",
+  "revision": "4c2732a7ab9658517ca8caa69bfee9e1f87ca532",
+  "files": {
+    "UAS_annotation_train.json": "f1c972bce6ba78f0ef8f06df10aa704d5a2d5fd223478460a5fbc674096612c9",
+    "repository_metadata.json": "c6699f30f262fd9517477c04d3f56eb995fd1271f14a634b1d99894e99281b4c",
+    "SATELLITE_annotation_train.json": "68b45a46c4f25ba8d75e877b80ee3d0c08f734f15559dfb9546db64f2b2d8682",
+    "README.md": "1ae24bfd16090e1a64c8a5537712486f4c6d61d73e75501c6db1576bef3cf4dc",
+    "feasibility.json": "a3395b9ba3f796621cc480daa6d0b053536255964c755d81714d1c58f2721edd",
+    "file_inventory.json": "b48ea1c9d080035c42ccfea611274e28d25acd8d0b4f09736468cc499c15ad6c"
+  },
+  "new_algorithm_efficacy": false,
+  "test_annotations_opened": false,
+  "flight_logs_verified": false
+}

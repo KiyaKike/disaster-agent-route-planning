@@ -1,0 +1,134 @@
+[
+  {
+    "mode": "prior_evidence",
+    "observations": 37,
+    "planning_calls": 1,
+    "policy": "pre_static",
+    "region": "口岸",
+    "simulated_correct_detections": 6,
+    "simulated_false_positives": 3,
+    "total_distance_m": 2244.8528137423855,
+    "total_time_s": 1189.9705627484773
+  },
+  {
+    "mode": "geometry_semantic",
+    "observations": 37,
+    "planning_calls": 1,
+    "policy": "pre_static",
+    "region": "口岸",
+    "simulated_correct_detections": 6,
+    "simulated_false_positives": 3,
+    "total_distance_m": 2244.8528137423855,
+    "total_time_s": 1189.9705627484773
+  },
+  {
+    "mode": "prior_evidence",
+    "observations": 36,
+    "planning_calls": 2,
+    "policy": "post_static",
+    "region": "口岸",
+    "simulated_correct_detections": 8,
+    "simulated_false_positives": 2,
+    "total_distance_m": 2209.7056274847714,
+    "total_time_s": 1163.9411254969543
+  },
+  {
+    "mode": "geometry_semantic",
+    "observations": 36,
+    "planning_calls": 2,
+    "policy": "post_static",
+    "region": "口岸",
+    "simulated_correct_detections": 8,
+    "simulated_false_positives": 2,
+    "total_distance_m": 2209.7056274847714,
+    "total_time_s": 1163.9411254969543
+  },
+  {
+    "mode": "prior_evidence",
+    "observations": 34,
+    "planning_calls": 8,
+    "policy": "online_5",
+    "region": "口岸",
+    "simulated_correct_detections": 9,
+    "simulated_false_positives": 2,
+    "total_distance_m": 2478.8225099390856,
+    "total_time_s": 1183.7645019878173
+  },
+  {
+    "mode": "geometry_semantic",
+    "observations": 34,
+    "planning_calls": 8,
+    "policy": "online_5",
+    "region": "口岸",
+    "simulated_correct_detections": 9,
+    "simulated_false_positives": 2,
+    "total_distance_m": 2478.8225099390856,
+    "total_time_s": 1183.7645019878173
+  },
+  {
+    "mode": "prior_evidence",
+    "observations": 37,
+    "planning_calls": 1,
+    "policy": "pre_static",
+    "region": "南侧建筑区",
+    "simulated_correct_detections": 3,
+    "simulated_false_positives": 3,
+    "total_distance_m": 2244.8528137423855,
+    "total_time_s": 1189.9705627484773
+  },
+  {
+    "mode": "geometry_semantic",
+    "observations": 37,
+    "planning_calls": 1,
+    "policy": "pre_static",
+    "region": "南侧建筑区",
+    "simulated_correct_detections": 3,
+    "simulated_false_positives": 3,
+    "total_distance_m": 2244.8528137423855,
+    "total_time_s": 1189.9705627484773
+  },
+  {
+    "mode": "prior_evidence",
+    "observations": 37,
+    "planning_calls": 2,
+    "policy": "post_static",
+    "region": "南侧建筑区",
+    "simulated_correct_detections": 8,
+    "simulated_false_positives": 4,
+    "total_distance_m": 2276.248745818737,
+    "total_time_s": 1197.2497491637475
+  },
+  {
+    "mode": "geometry_semantic",
+    "observations": 37,
+    "planning_calls": 2,
+    "policy": "post_static",
+    "region": "南侧建筑区",
+    "simulated_correct_detections": 8,
+    "simulated_false_positives": 4,
+    "total_distance_m": 2276.248745818737,
+    "total_time_s": 1197.2497491637475
+  },
+  {
+    "mode": "prior_evidence",
+    "observations": 34,
+    "planning_calls": 8,
+    "policy": "online_5",
+    "region": "南侧建筑区",
+    "simulated_correct_detections": 8,
+    "simulated_false_positives": 3,
+    "total_distance_m": 2503.2809611043017,
+    "total_time_s": 1188.6561922208605
+  },
+  {
+    "mode": "geometry_semantic",
+    "observations": 34,
+    "planning_calls": 8,
+    "policy": "online_5",
+    "region": "南侧建筑区",
+    "simulated_correct_detections": 8,
+    "simulated_false_positives": 3,
+    "total_distance_m": 2503.2809611043017,
+    "total_time_s": 1188.6561922208605
+  }
+]

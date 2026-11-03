@@ -1,0 +1,24 @@
+{
+  "events": [
+    "EARTHQUAKE-TURKEY",
+    "PAKISTAN-FLOODING",
+    "TEXAS-TORNADOES"
+  ],
+  "image_payload_access_enabled": false,
+  "no_outcome_reads_or_replacement": true,
+  "pairs_per_event": 6,
+  "ranking": "SHA256(disaster-search-v3-feasibility|source_version|seed|event|sample_id), ascending; sizes, masks, outcomes never rank candidates",
+  "seed": 20261025,
+  "selector_sha256": "731638268ec89329b0d4966dabd2280fac299e904d60ab521c24cd7fb1fc06c2",
+  "source_sha256": {
+    "archive_index_report.json": "8cb22a6d4e6cf490ab72e431bd6fe2102cb2e6624a2984646fbb1702dbee25ae",
+    "discovery_protocol.json": "c7c4eb0fca2e494125d39c55718ac8f707b6e343c990bdcebb848d6ab0f1f773",
+    "sources/EARTHQUAKE-TURKEY_index.json": "2027fb393a1d21013095fa2f882a4350690b2c465cc894c764affad8aa3847c9",
+    "sources/PAKISTAN-FLOODING_index.json": "5a0e2b91aafce4c628db6a94cebed2f0cadbf031d0fb4512846396722fd65709",
+    "sources/TEXAS-TORNADOES_index.json": "ee7d70c0406433969e768e5a0fa66e64fbf1b2281308abc34cdef406fef737f4",
+    "sources/ebd_figshare_v2.json": "0a60dc386251be8c823bc3b82c32d39df9e495a1860237beb18624b69f1a0cc4",
+    "zip_index_protocol.json": "0058ed7a069530d4dec9829c20b79efadf173a55b4fb179a65ef76d3a87ca3e3"
+  },
+  "source_version": "10.6084/m9.figshare.25285009.v2",
+  "stage": "METADATA_ONLY_TENTATIVE_COHORT_SELECTION"
+}

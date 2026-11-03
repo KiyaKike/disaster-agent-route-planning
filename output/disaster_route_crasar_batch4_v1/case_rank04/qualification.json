@@ -1,0 +1,72 @@
+{
+  "region": "1001-Iona-Point.geo.tif",
+  "capture_dates_author_catalog": {
+    "uas": "2022-10-01",
+    "pre": "2022-01-21",
+    "post": "2022-09-30"
+  },
+  "temporal_scope": "Published PRE/POST roles; UAS minus POST satellite gap1days. Dates are author metadata,not flight logs.",
+  "roi_area_m2": 16384,
+  "rgb_nonzero_support_fraction": {
+    "pre": 0.9885272979736328,
+    "post": 0.988490104675293,
+    "uas": 0.9874029159545898
+  },
+  "shared_ids_all": 698,
+  "centroids_inside": 9,
+  "geometry_eligible": 8,
+  "private_eligible_label_histograms": {
+    "pre": {
+      "no damage": 8
+    },
+    "post": {
+      "no damage": 8
+    },
+    "uas": {
+      "no damage": 7,
+      "minor damage": 1
+    }
+  },
+  "eligible_primary_targets": 0,
+  "internal_coordinate_checks": {
+    "pre": {
+      "median_vertex_residual_native_px": 0.8021584190593138,
+      "max_vertex_residual_native_px": 1.4068182207340327,
+      "scope": "Internal polygon-coordinate consistency only, not image registration or survey accuracy"
+    },
+    "post": {
+      "median_vertex_residual_native_px": 0.8020551831148715,
+      "max_vertex_residual_native_px": 1.4068182207340327,
+      "scope": "Internal polygon-coordinate consistency only, not image registration or survey accuracy"
+    },
+    "uas": {
+      "median_vertex_residual_native_px": 0.8017339030756139,
+      "max_vertex_residual_native_px": 1.406419595418316,
+      "scope": "Internal polygon-coordinate consistency only, not image registration or survey accuracy"
+    }
+  },
+  "image_feature_diagnostics": {
+    "pre_to_uas": {
+      "status": "INSUFFICIENT_CONSENSUS",
+      "matches": 5,
+      "largest_translation_consensus": 1,
+      "independent_absolute_accuracy": false
+    },
+    "post_to_uas": {
+      "status": "DIAGNOSTIC_ONLY",
+      "matches": 25,
+      "translation_consensus": 16,
+      "median_translation_m": [
+        5.562797546386719,
+        -0.229339599609375
+      ],
+      "median_direct_residual_m": 5.568380426166788,
+      "independent_absolute_accuracy": false
+    }
+  },
+  "task_gate": "NO_PRIMARY_TARGETS",
+  "flight_execution_gate": "NOT_ESTABLISHED:no trajectory,pose,altitude,camera footprint,measured service/energy cost",
+  "new_model_calls": 0,
+  "method_gain_established": false,
+  "protocol_sha256": "14c262f44c8a0cfc623274bf6031a88b03d107af8ee1f4732e6732d9c9d3846e"
+}

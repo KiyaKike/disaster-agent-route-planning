@@ -1,0 +1,98 @@
+{
+  "branches": {
+    "continue": "Keep the remaining original route;no new planning call.",
+    "replan_feedback": "Pay1s,replan once using current posterior,then commit to that suffix until return.",
+    "replan_prior": "Pay1s,replan once using original post prior and current position/time/visited set,then commit;control for rescheduling without feedback."
+  },
+  "claim_gate": "Development counterfactual simulation only. One-time revision effect does not equal full online-policy improvement. No thresholds,learner or real-world efficacy claim.",
+  "client_date": "2026-11-02",
+  "costs": {
+    "budget_s": 1200,
+    "observe_s": 20,
+    "planning_latency_s": 1,
+    "rule": "The paid prefix is copied,not executed or charged again. Every suffix includes its own real movement,inspection,new planning fee and return. No separate duplicate turning/transfer penalty.",
+    "speed_m_s": 5,
+    "stopping": "time_only,no repeats"
+  },
+  "examples": "Both regions,aligned/moderate/first seed2026102800/checkpoint10;show all branches even if zero detections.",
+  "failure_handling": "Next detection delay null on failure,restricted delay uses original remaining budget;separate failure rate. Prefix detections excluded from future reward.",
+  "gpu_rental": false,
+  "information_boundary": "Planner receives geometry and a copied public state only. Private world references,targets and future signals are evaluator/environment-side. This is interface-level isolation for fixed Python policies,not a malicious-code sandbox.",
+  "input_sha256": {
+    "/Users/bethany/Documents/ChatGPT/复现论文/output/PS变化先验_第一版/搜索网格_待复核.geojson": "4a1acb41247477864a10bb8041e00009150af4bd114341f0c25870900562e43f",
+    "/Users/bethany/Documents/ChatGPT/复现论文/output/PS搜索决策_演示版/参数与限制.json": "dde69c9b88c8e870b7f8992aae0f70c27fc053aff144fc19feaa2e7baefe0280",
+    "/Users/bethany/Documents/ChatGPT/复现论文/output/PS搜索决策_演示版/独立目标标注_空表.csv": "ba0815428fc864b44a922854ff56b5b3d903e72825d9562bed4327cc199c22f1",
+    "/Users/bethany/Documents/ChatGPT/复现论文/output/PS搜索决策_演示版/输入网格与显示图.json": "3dde0a9396d8e6f0d5ed3bcb9cc177c9464b4115df64d044557701ab8de77635",
+    "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_route_factor_v2/completion_receipt.json": "7860f9cd3994cfde1fdada57ed135fa0ef94b5896d9682177996bf3617d1ca01",
+    "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_route_factor_v2/metrics.json": "fd990a97569ea4064db027cc4a416459e7ce7d85a2bf823b22b66f55ee3476a5",
+    "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_route_factor_v2/protocol.json": "9fb36dc00feae2e6004b8bd55e85bafc5a2c406db0821b48e8183f4020deda9c",
+    "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_route_factor_v2/routes.jsonl.gz": "bca5dc79a2a7a9ff0b76089be30383da63da69d48e88d0182e0026d93e13c911",
+    "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_route_loop_v1/completion_receipt.json": "7847672c26b0188947cbb6be798360585547a3aa448ad23fa2c694fbaebd6c26",
+    "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_route_loop_v1/public_geometry.json": "88c32a294a0468f6a349710c455c2b93d6f7944cd7bd04f4fee85e76ec544f5d",
+    "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_route_loop_v1/synthetic_worlds.json": "b9feb84c2d5953615bfce8e0efff6568fc31e59689c5adea567ca79dc320ee6d",
+    "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_route_scope_v1/decision.json": "4b11f913bba12b283ca7d0f979856f733880629e3b15a4ea85284c8fb9684dfb",
+    "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/completion_receipt.json": "92d93ccc683334e784b30c050aba784d4192a9d2de8baec3e55993ec8eb2d4cf",
+    "/Users/bethany/Documents/ChatGPT/复现论文/output/感知检查_阶段汇报_20261028/归档校验.json": "899a0f4651349f85d4c9e2a34b17f30e307ac2eea4f7a6467ba9c661cde6f07b",
+    "/Users/bethany/Documents/ChatGPT/复现论文/work/ps_search_decision/build_demo.py": "688138d833552f2e90dc06e04ee7cfeb73fe2294f057530e04ed521ba8f567e3",
+    "/Users/bethany/Documents/ChatGPT/复现论文/work/ps_search_decision/engine.js": "c656f75ba7d84d55785bd121513200d3357e9a494280c4da7b821dafc160d004"
+  },
+  "inspiration": {
+    "paper": "DeepSeek Elastic Compute (DSec): A Sandbox Infrastructure for Effective Agentic Training at Scale",
+    "scope": "Checkpoint/restore and evaluator separation inspire this implementation. Counterfactual route forks are our adaptation,not a DSec routing algorithm.",
+    "sections": [
+      "6.1",
+      "6.2",
+      "6.4",
+      "6.5"
+    ],
+    "url": "https://arxiv.org/abs/2609.22978"
+  },
+  "new_downloads": false,
+  "new_perception_calls": 0,
+  "new_real_labels": 0,
+  "new_training": false,
+  "pairing": "All branches share world and paid prefix. Checkpoints within an episode and noise/prior variants are correlated;540 snapshots are not540 independent events.",
+  "predicted_gain": "Before executing future actions,sum sensitivity*(.02+.58*current block posterior) over each chosen suffix. Descriptive forecast diagnostic only,no trigger fitted or deployed.",
+  "primary_metric": "Paired difference in correctly detected synthetic target cells after checkpoint10,replan_feedback minus continue,perregion/prior/noise condition.",
+  "question": "After exactly the same paid observation history,is one immediate route revision worth its cost?",
+  "secondary": [
+    "checkpoint5 and20",
+    "feedback minus prior replan",
+    "prior replan minus continue",
+    "future coverage",
+    "false positives",
+    "next-arrival/detection delay",
+    "suffix distance/time",
+    "failure rate",
+    "public predicted versus realized gain"
+  ],
+  "selection": {
+    "behavior": "Strong solver,post_static,time_only,budget1200;track Bayes beliefs without changing the collection path.",
+    "branches_per_snapshot": 3,
+    "checkpoints_after_observations": [
+      5,
+      10,
+      20
+    ],
+    "no_outcome_based_selection": true,
+    "parent_episodes": 180,
+    "primary_checkpoint": 10,
+    "public_initial_route_visits": {
+      "南侧建筑区": 37,
+      "口岸": 37
+    },
+    "snapshots": 540,
+    "suffix_rollouts": 1620,
+    "worlds": "Reuse every one of the60 sealed V1 worlds and3 noise modes,including all favorable and adverse conditions."
+  },
+  "snapshot": "JSON roundtrip preserves complete public history,posterior,position,spent cost,remaining route and private observation cursor. Copies have separate mutable state.",
+  "source_sha256": {
+    "audit_route_snapshot.py": "7346ad95bdc4aa7f2038b3d9c2e719f742b15ad953627177645b8884fd63a464",
+    "report_route_snapshot.py": "45a117c7ad98eb67536889d7482ad059f1911711bff3e1947b38be9e3e77d3ab",
+    "route_snapshot_core.py": "e5a18fa25a7ca8f1fc455dbcab08a762fa813cf062050a9f510f35187f44eecd",
+    "run_route_snapshot.py": "35e4b78e779ac5a3ce7bf9fd9f6a3462c08ddc423a616baac8e857f68b5ab0a2",
+    "test_route_snapshot.py": "b3ef6e675d16bcdb258e96eb1e53332e34f6b100a88dee29027c3fdc99bef966"
+  },
+  "stage": "SAME_STATE_ONE_TIME_ROUTE_REVISION_V3",
+  "test_log_sha256": "08eb0971883e63997c23fc90f3ad18c111ab501c299ca06a490abcc3d090ccaf"
+}

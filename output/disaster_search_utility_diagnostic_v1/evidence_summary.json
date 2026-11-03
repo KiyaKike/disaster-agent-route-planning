@@ -1,0 +1,94 @@
+{
+  "ceilings": {
+    "accessible_but_budget_limited": 2.0972222222222214,
+    "full_accessible_cache_union": 15.005555555555555,
+    "full_budget_oracle_lower": 12.908333333333333,
+    "full_budget_oracle_upper": 12.908333333333333,
+    "perfect_information_gap_vs_raw_gate": 6.6925,
+    "raw_gate_reference": 6.215833333333333,
+    "raw_survey_reference": 6.140277777777778,
+    "survey_only_oracle_lower": 9.883333333333333,
+    "survey_only_oracle_upper": 9.883333333333333,
+    "unavailable_in_cache": 1.8833333333333346,
+    "visible_target_mean": 16.88888888888889
+  },
+  "ceilings_interpretation": "Gap is against an oracle with private future/instance knowledge. It does not estimate an executable policy's attainable gain or justify new data/model claims.",
+  "harvey_held_observed": [
+    0.1282051282051282,
+    0.5155875299760192,
+    0.53,
+    0.17600000000000002
+  ],
+  "harvey_source_prediction": [
+    0.02667304373283043,
+    0.07696896154449209,
+    0.1491814088559706,
+    0.22395150775748518
+  ],
+  "independent_validation": false,
+  "inputs_sha256": {
+    "audit": "2322496361130c5a86e0935a2d80aa9c60bcfcaf01b1c6a95cd44f5f9c8df5ad",
+    "component_calibration": "3d50309c06935a1f19470d7c4b5ae395ebce61eb3b846afe0ffc04f545d950f8",
+    "oracle_summary": "014560c62a5c90dc37de7870fc0ff5001abb963333cf7aac83fcc8852ee5bd45",
+    "protocol": "0fcc14c696df72f3e67eba2446f75ce8cece83a6ba35da57b86344c7f05aad1b",
+    "ranking_summary": "718e8b29d1ccbce782c3342ee57134905a44d689775704a5a948a8a74c1d0015",
+    "selected_action_summary": "5a207ecf6698df0ea1230a00a0213f2e9f771f3a4eb6d93f191648cad0e6bba6"
+  },
+  "known_cell_estimate_scope": "Expected and observed local counts on known factual actions, event-equal means; not a population calibration estimate or global unique reward.",
+  "negative_revisit_opportunity": {
+    "opportunity_actual_difference": -0.5599999999999999,
+    "opportunity_alternative_global": 1.1633333333333333,
+    "opportunity_cases": 1.9666666666666668,
+    "opportunity_upgrade_global": 0.6033333333333334,
+    "upgrade_expected_known_local": 0.5599098064245259,
+    "upgrade_known_global": 0.6033333333333334,
+    "upgrade_known_local": 0.7544444444444446
+  },
+  "new_model_fit": false,
+  "new_policy_selected": false,
+  "primary": {
+    "budget": 32,
+    "scenario": "mixed_survey",
+    "threshold": 0.1,
+    "upgrade_cost": 2
+  },
+  "ranking_gap_identity": {
+    "benefit_of_fewer_duplicates": 0.24472222222222229,
+    "count_minus_raw_global": -0.7744444444444447,
+    "count_minus_raw_local": -1.019166666666666
+  },
+  "santa_held_observed": [
+    0.05077574047954866,
+    0.2533333333333333,
+    0.4446428571428572,
+    0.4671875
+  ],
+  "santa_source_prediction": [
+    0.1381218496603112,
+    0.2489208300951824,
+    0.2173162817331552,
+    0.10519395134779749
+  ],
+  "selected_count_all_error_by_event": [
+    {
+      "actual_known_local": 9.569166666666666,
+      "event": "hurricane-harvey",
+      "expected_known_local": 7.102588536526351,
+      "expected_minus_observed": -2.466578130140315
+    },
+    {
+      "actual_known_local": 8.404166666666667,
+      "event": "santa-rosa-wildfire",
+      "expected_known_local": 6.882035198882409,
+      "expected_minus_observed": -1.5221314677842572
+    },
+    {
+      "actual_known_local": 0.0,
+      "event": "mexico-earthquake",
+      "expected_known_local": 13.286547635849532,
+      "expected_minus_observed": 13.286547635849532
+    }
+  ],
+  "source_sha256": "2b27d5aab5c3958639c2b85168cc999a2842d5da90f995a53ebf721b8f3cd678",
+  "stage": "POSTHOC_INTERPRETATION_OF_COMPLETED_FROZEN_DIAGNOSTIC"
+}

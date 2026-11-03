@@ -1,0 +1,38 @@
+{
+  "budget_violations": 0,
+  "novel_method_established": false,
+  "primary_budget_s": 1200,
+  "primary_condition_counts": [
+    {
+      "negative": 0,
+      "positive": 18,
+      "solver": "greedy",
+      "stopping": "cap30",
+      "zero": 0
+    },
+    {
+      "negative": 0,
+      "positive": 18,
+      "solver": "greedy",
+      "stopping": "time_only",
+      "zero": 0
+    },
+    {
+      "negative": 1,
+      "positive": 17,
+      "solver": "insertion_2opt",
+      "stopping": "cap30",
+      "zero": 0
+    },
+    {
+      "negative": 4,
+      "positive": 14,
+      "solver": "insertion_2opt",
+      "stopping": "time_only",
+      "zero": 0
+    }
+  ],
+  "real_efficacy_established": false,
+  "reused_worlds": true,
+  "status": "SIMULATION_ONLY"
+}

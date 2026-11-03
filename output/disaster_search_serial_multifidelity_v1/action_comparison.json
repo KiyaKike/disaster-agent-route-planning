@@ -1,0 +1,51 @@
+{
+  "by_fit_and_tie": [
+    {
+      "changed_actual_action_sequences": 2070,
+      "fit_scope": "development_fit",
+      "paired_trajectories": 3600,
+      "selected_actions_with_positive_proxy_gain": 91119,
+      "tie_rule": "fixed_random"
+    },
+    {
+      "changed_actual_action_sequences": 206,
+      "fit_scope": "development_fit",
+      "paired_trajectories": 360,
+      "selected_actions_with_positive_proxy_gain": 9102,
+      "tie_rule": "raw_change"
+    },
+    {
+      "changed_actual_action_sequences": 206,
+      "fit_scope": "development_fit",
+      "paired_trajectories": 360,
+      "selected_actions_with_positive_proxy_gain": 9090,
+      "tie_rule": "row_major"
+    },
+    {
+      "changed_actual_action_sequences": 1526,
+      "fit_scope": "event_holdout",
+      "paired_trajectories": 3600,
+      "selected_actions_with_positive_proxy_gain": 97801,
+      "tie_rule": "fixed_random"
+    },
+    {
+      "changed_actual_action_sequences": 152,
+      "fit_scope": "event_holdout",
+      "paired_trajectories": 360,
+      "selected_actions_with_positive_proxy_gain": 9795,
+      "tie_rule": "raw_change"
+    },
+    {
+      "changed_actual_action_sequences": 153,
+      "fit_scope": "event_holdout",
+      "paired_trajectories": 360,
+      "selected_actions_with_positive_proxy_gain": 9786,
+      "tie_rule": "row_major"
+    }
+  ],
+  "totals": {
+    "changed_actual_action_sequences": 4313,
+    "paired_trajectories": 8640,
+    "selected_actions_with_positive_proxy_gain": 226693
+  }
+}

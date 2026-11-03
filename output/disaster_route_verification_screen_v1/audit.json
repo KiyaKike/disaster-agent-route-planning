@@ -1,0 +1,22 @@
+{
+  "status": "COMPLETE_RESEARCH_SCREEN_NOT_NEW_METHOD",
+  "conditions": 108,
+  "exact_bayes_equalities": 108,
+  "independent_branch_enumerations": 23694,
+  "independent_lp_checks": 216,
+  "tests_passed": 6,
+  "full_policy_space_optimality": false,
+  "scope": "Only frozen at-most-one-calibration and two-terminal-route family",
+  "real_data_entry_header_verified": true,
+  "real_verification_or_calibration_validated": false,
+  "new_model_calls": 0,
+  "new_training": false,
+  "gpu_rental": false,
+  "previous_frozen_files_verified": {
+    "disaster_route_crasar_batch4_v1": 2531,
+    "disaster_route_research_admission_v1": 16
+  },
+  "decision": "STOP_GENERIC_DISAGREEMENT_GATE_AS_NEW_METHOD",
+  "new_method_claim": false,
+  "new_theorem_claim": false
+}

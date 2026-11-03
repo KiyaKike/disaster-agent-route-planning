@@ -1,0 +1,27 @@
+/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/.venv_inference/lib/python3.12/site-packages/torch/amp/autocast_mode.py:270: UserWarning: User provided device_type of 'cuda', but CUDA is not available. Disabling
+  warnings.warn(
+{"scene": "hurricane-michael_00000341", "observations_done": 128, "device": "mps"}
+{"scene": "hurricane-michael_00000184", "observations_done": 256, "device": "mps"}
+{"scene": "hurricane-michael_00000275", "observations_done": 384, "device": "mps"}
+{"scene": "hurricane-michael_00000135", "observations_done": 512, "device": "mps"}
+{"scene": "hurricane-michael_00000484", "observations_done": 640, "device": "mps"}
+{"scene": "hurricane-michael_00000059", "observations_done": 768, "device": "mps"}
+{"scene": "hurricane-michael_00000546", "observations_done": 896, "device": "mps"}
+{"scene": "hurricane-michael_00000039", "observations_done": 1024, "device": "mps"}
+{"scene": "hurricane-michael_00000357", "observations_done": 1152, "device": "mps"}
+{"scene": "hurricane-michael_00000452", "observations_done": 1280, "device": "mps"}
+{"scene": "hurricane-michael_00000430", "observations_done": 1408, "device": "mps"}
+{"scene": "hurricane-michael_00000220", "observations_done": 1536, "device": "mps"}
+{"scene": "mexico-earthquake_00000064", "observations_done": 1664, "device": "mps"}
+{"scene": "mexico-earthquake_00000072", "observations_done": 1792, "device": "mps"}
+{"scene": "mexico-earthquake_00000078", "observations_done": 1920, "device": "mps"}
+{"scene": "mexico-earthquake_00000166", "observations_done": 2048, "device": "mps"}
+{"scene": "mexico-earthquake_00000115", "observations_done": 2176, "device": "mps"}
+{"scene": "mexico-earthquake_00000000", "observations_done": 2304, "device": "mps"}
+{"scene": "mexico-earthquake_00000089", "observations_done": 2432, "device": "mps"}
+{"scene": "mexico-earthquake_00000159", "observations_done": 2560, "device": "mps"}
+{"scene": "mexico-earthquake_00000160", "observations_done": 2688, "device": "mps"}
+{"scene": "mexico-earthquake_00000118", "observations_done": 2816, "device": "mps"}
+{"scene": "mexico-earthquake_00000013", "observations_done": 2944, "device": "mps"}
+{"scene": "mexico-earthquake_00000168", "observations_done": 3072, "device": "mps"}
+{"stage": "COMPLETE_VALIDATION_INFERENCE", "observations": 3072, "device": "mps", "this_run_loop_seconds": 123.61596524997731}

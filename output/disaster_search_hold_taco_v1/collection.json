@@ -1,0 +1,295 @@
+{
+  "dataset_version": "1.0.0",
+  "description": "11034 pre/post-disaster WorldView pairs of 1024x1024 over 19 events, every building outlined and graded on the release's four-level damage scale plus an `un-classified` grade that is the ignore index. Six hazard types: fire, flooding, wind, earthquake, tsunami and volcano.\n\n**Targets.** Outlines come from the post label, where the grade lives, as flat pixel rings with a per-object vertex count. The release's WGS84 ring is preserved beside them because the PNGs carry no geotransform.\n\n**Capture geometry.** Kept per sample for both halves -- sensor, GSD, off-nadir angle, sun elevation -- since the two passes differ and that difference is a confound.\n\n**Splits.**\n- tier-3 is more training data rather than a third split, and is marked `release_tier` (train 2799, tier3 6369, hold 933, test 933).\n- `hold` is the challenge holdout, fetched separately from a signed-in xview2.org session and labelled like train and tier3, so it is carried here as this container's `test`, with the archive name in `split_original`.\n- `val` is carved from train + tier3 on whole events.\n- The challenge's unlabelled half is `xview2_test`.\n\n**Scope.** xBD's whole named release. The only pairs not here are the 933 of the anonymised test archive, which carry no disaster and no scene id. PNGs are stored byte-for-byte.",
+  "id": "xview2",
+  "keywords": [
+    "taco",
+    "building-damage",
+    "disaster",
+    "bitemporal",
+    "very-high-resolution",
+    "worldview",
+    "humanitarian"
+  ],
+  "licenses": [
+    "CC-BY-NC-SA-4.0"
+  ],
+  "ml:contract": {
+    "inputs": [
+      {
+        "bands": [
+          {
+            "center_wavelength": 660,
+            "common_name": "red",
+            "full_width_half_max": 60,
+            "index": 0
+          },
+          {
+            "center_wavelength": 550,
+            "common_name": "green",
+            "full_width_half_max": 70,
+            "index": 1
+          },
+          {
+            "center_wavelength": 470,
+            "common_name": "blue",
+            "full_width_half_max": 70,
+            "index": 2
+          }
+        ],
+        "calibration": "requantised",
+        "kind": "raster",
+        "modality": "optical",
+        "name": "pre",
+        "nodata": null,
+        "path": "pre.png",
+        "processing_level": "n/a",
+        "scale_factor": 1.0,
+        "scale_offset": 0.0,
+        "structure": "bitemporal",
+        "time_field": "pre_capture_date"
+      },
+      {
+        "bands": [
+          {
+            "center_wavelength": 660,
+            "common_name": "red",
+            "full_width_half_max": 60,
+            "index": 0
+          },
+          {
+            "center_wavelength": 550,
+            "common_name": "green",
+            "full_width_half_max": 70,
+            "index": 1
+          },
+          {
+            "center_wavelength": 470,
+            "common_name": "blue",
+            "full_width_half_max": 70,
+            "index": 2
+          }
+        ],
+        "calibration": "requantised",
+        "kind": "raster",
+        "modality": "optical",
+        "name": "post",
+        "nodata": null,
+        "path": "post.png",
+        "processing_level": "n/a",
+        "scale_factor": 1.0,
+        "scale_offset": 0.0,
+        "structure": "bitemporal",
+        "time_field": "post_capture_date"
+      }
+    ],
+    "targets": [
+      {
+        "counts_field": "polygon_len",
+        "field": "polygon_xy",
+        "kind": "polygon",
+        "name": "buildings",
+        "structure": "single"
+      },
+      {
+        "classes": [
+          "no-damage",
+          "minor-damage",
+          "major-damage",
+          "destroyed",
+          "un-classified"
+        ],
+        "field": "damage",
+        "ignore_index": 4,
+        "kind": "class_sequence",
+        "name": "damage",
+        "structure": "single"
+      }
+    ],
+    "tasks": [
+      "instance-segmentation",
+      "change-detection"
+    ]
+  },
+  "ml:inventory_name": "xBD / xView2",
+  "providers": [
+    {
+      "name": "DIU / CMU SEI, Maxar Open Data (Gupta et al.)",
+      "roles": [
+        "producer",
+        "licensor"
+      ],
+      "url": "https://xview2.org/"
+    },
+    {
+      "name": "Image and Signal Processing Group (ISP), Universitat de València",
+      "roles": [
+        "processor"
+      ]
+    }
+  ],
+  "scientific:publications": [
+    {
+      "citation": "@article{gupta2019xbd,\n  title   = {xBD: A Dataset for Assessing Building Damage from Satellite Imagery},\n  author  = {Gupta, Ritwik and Hosfelt, Richard and Sajeev, Sandra and Patel, Nirav and Goodman, Bryce and Doshi, Jigar and Heim, Eric and Choset, Howie and Gaston, Matthew},\n  journal = {arXiv preprint arXiv:1911.09296},\n  year    = {2019}\n}",
+      "doi": "10.48550/arXiv.1911.09296"
+    }
+  ],
+  "split:rule": "ml/carve-val-from-train:disaster-v1",
+  "split:strategy": "random",
+  "taco:metadata": {
+    "children": {
+      "ml:tensor_shape": {
+        "description": "[bands, height, width] of this leaf, measured as it was written",
+        "nullable": true,
+        "type": "list<int32>"
+      }
+    },
+    "sample": {
+      "ml:damage": {
+        "description": "Damage grade per building, index into the legend",
+        "nullable": true,
+        "type": "list<uint8>"
+      },
+      "ml:disaster": {
+        "description": "Event name, e.g. guatemala-volcano",
+        "nullable": true,
+        "type": "string"
+      },
+      "ml:disaster_type": {
+        "description": "fire, flooding, wind, earthquake, tsunami or volcano",
+        "nullable": true,
+        "type": "string"
+      },
+      "ml:height": {
+        "description": "Image height in pixels",
+        "nullable": true,
+        "type": "int32"
+      },
+      "ml:n_buildings": {
+        "description": "Graded buildings in the post label",
+        "nullable": true,
+        "type": "int32"
+      },
+      "ml:n_buildings_pre": {
+        "description": "Footprints in the pre label; equal to n_buildings unless the release disagrees with itself, which is why both are carried",
+        "nullable": true,
+        "type": "int32"
+      },
+      "ml:polygon_len": {
+        "description": "Vertex count per building; cuts polygon_xy back into one ring each",
+        "nullable": true,
+        "type": "list<int32>"
+      },
+      "ml:polygon_lnglat": {
+        "description": "The same outlines in WGS84, FLAT as lon, lat pairs, cut by polygon_lnglat_len",
+        "nullable": true,
+        "type": "list<double>"
+      },
+      "ml:polygon_lnglat_len": {
+        "description": "Vertex count per WGS84 ring",
+        "nullable": true,
+        "type": "list<int32>"
+      },
+      "ml:polygon_xy": {
+        "description": "Building outlines, FLAT: every vertex of every building end to end as x, y pixel pairs",
+        "nullable": true,
+        "type": "list<double>"
+      },
+      "ml:post_capture_date": {
+        "description": "Acquisition of the post image",
+        "nullable": true,
+        "type": "string"
+      },
+      "ml:post_gsd_m": {
+        "description": "Ground sample distance of the post image, metres",
+        "nullable": true,
+        "type": "double"
+      },
+      "ml:post_off_nadir_deg": {
+        "description": "Off-nadir angle of the post pass",
+        "nullable": true,
+        "type": "double"
+      },
+      "ml:post_sensor": {
+        "description": "Sensor of the post image",
+        "nullable": true,
+        "type": "string"
+      },
+      "ml:post_sun_azimuth_deg": {
+        "description": "Sun azimuth at the post pass",
+        "nullable": true,
+        "type": "double"
+      },
+      "ml:post_sun_elevation_deg": {
+        "description": "Sun elevation at the post pass",
+        "nullable": true,
+        "type": "double"
+      },
+      "ml:pre_capture_date": {
+        "description": "Acquisition of the pre image",
+        "nullable": true,
+        "type": "string"
+      },
+      "ml:pre_gsd_m": {
+        "description": "Ground sample distance of the pre image, metres",
+        "nullable": true,
+        "type": "double"
+      },
+      "ml:pre_off_nadir_deg": {
+        "description": "Off-nadir angle of the pre pass",
+        "nullable": true,
+        "type": "double"
+      },
+      "ml:pre_sensor": {
+        "description": "Sensor of the pre image",
+        "nullable": true,
+        "type": "string"
+      },
+      "ml:pre_sun_azimuth_deg": {
+        "description": "Sun azimuth at the pre pass",
+        "nullable": true,
+        "type": "double"
+      },
+      "ml:pre_sun_elevation_deg": {
+        "description": "Sun elevation at the pre pass",
+        "nullable": true,
+        "type": "double"
+      },
+      "ml:release_tier": {
+        "description": "Which release archive the pair came from: train or tier3. Both are training data",
+        "nullable": true,
+        "type": "string"
+      },
+      "ml:source_file": {
+        "description": "Release pair stem",
+        "nullable": true,
+        "type": "string"
+      },
+      "ml:split": {
+        "description": "train, val or test. `test` is the release's own `hold` archive (rule 2); val is carved out of train + tier3 on whole EVENTS -- see split_source",
+        "nullable": true,
+        "type": "string"
+      },
+      "ml:split_original": {
+        "description": "Which release archive this pair came from: train, tier3, hold or test. The release's own four-way naming, kept verbatim (rule 2)",
+        "nullable": true,
+        "type": "string"
+      },
+      "ml:width": {
+        "description": "Image width in pixels",
+        "nullable": true,
+        "type": "int32"
+      }
+    }
+  },
+  "taco:structure": [
+    "pre.png",
+    "post.png"
+  ],
+  "taco:version": "3.0.0",
+  "tasks": [
+    "instance-segmentation",
+    "change-detection"
+  ],
+  "title": "xBD / xView2 - building damage assessment"
+}

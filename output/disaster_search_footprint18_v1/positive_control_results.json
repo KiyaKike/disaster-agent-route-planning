@@ -1,0 +1,60 @@
+[
+  {
+    "block_id": null,
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/hurricane-harvey_00000125_positive_control.npz",
+    "cache_sha256": "0f18e00b3134f31c199add797fc677e85dd51a7f1b3e8e5d9a4d95890ad6778c",
+    "declared_target": true,
+    "different_pixels_from_legacy": 0,
+    "elapsed_seconds": 0.399201542022638,
+    "exact_mask_equal": true,
+    "index": 1,
+    "input_mode": "positive_control",
+    "input_tensor_sha256": "f983bfc2be71bff8a9e8edc0a44e1a89975cf7a0b454eb4bb0533e017fddfe5f",
+    "input_tensor_shape": [
+      1,
+      6,
+      128,
+      128
+    ],
+    "job": "hurricane-harvey_00000125_positive_control",
+    "observation_id": "hurricane-harvey_00000125:r07c04:native",
+    "predicted_severe_pixels": 3943,
+    "raw_summary": {
+      "declared_target": true,
+      "mean_max_damage_probability": 0.9760066270828247,
+      "predicted_building_pixels": 4910,
+      "predicted_severe_pixels": 3943,
+      "uncalibrated_severe_score": 0.9996781349182129
+    },
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": null,
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/santa-rosa-wildfire_00000025_positive_control.npz",
+    "cache_sha256": "3f46101213da9eeb5ecae22261d2836571693d931d8fd726e4c8977c4cf1801a",
+    "declared_target": true,
+    "different_pixels_from_legacy": 0,
+    "elapsed_seconds": 0.06210395903326571,
+    "exact_mask_equal": true,
+    "index": 2,
+    "input_mode": "positive_control",
+    "input_tensor_sha256": "b1ff1f4c04a7b92d51b5ac2985eb7550185167134e5a76cddca45bbaf6f68e28",
+    "input_tensor_shape": [
+      1,
+      6,
+      128,
+      128
+    ],
+    "job": "santa-rosa-wildfire_00000025_positive_control",
+    "observation_id": "santa-rosa-wildfire_00000025:r05c01:native",
+    "predicted_severe_pixels": 1379,
+    "raw_summary": {
+      "declared_target": true,
+      "mean_max_damage_probability": 0.9973737597465515,
+      "predicted_building_pixels": 1445,
+      "predicted_severe_pixels": 1379,
+      "uncalibrated_severe_score": 0.9999110698699951
+    },
+    "status": "COMPLETE"
+  }
+]

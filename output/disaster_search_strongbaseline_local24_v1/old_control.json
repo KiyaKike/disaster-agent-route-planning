@@ -1,0 +1,8 @@
+{
+  "mean_probabilities_sha256": "33ad985b95ca04891e23b80668fa3bceb2fcf244d724c64edf6b7a54a7cefed5",
+  "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_strongbaseline24_v1/cache/santa-rosa-wildfire_00000008.npz",
+  "prediction_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_strongbaseline24_v1/predictions/santa-rosa-wildfire_00000008.png",
+  "prediction_sha256": "7deaa491f0460767b77e0a0c68efdc915ef95ebace098cf041b13db2e20b70f3",
+  "sample_id": "santa-rosa-wildfire_00000008",
+  "sha256": "8cc60ddc59fed2e5aba367b7fa3a7ea25b6e2ef4505a1d19e4943e6d3378ccfd"
+}

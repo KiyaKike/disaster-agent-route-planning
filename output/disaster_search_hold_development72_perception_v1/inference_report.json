@@ -1,0 +1,17 @@
+{
+  "device": "mps",
+  "fresh_inferred_observations": 8448,
+  "label_contents_read_by_predict": false,
+  "loop_seconds_this_invocation": 521.2980036250083,
+  "median_observation_seconds": 0.05365308349428233,
+  "observations": 9216,
+  "observations_sha256": "30aca3da060f9fd6acfdc6e73efea0c593360765b455150195cbfbc02f2556e2",
+  "paid_gpu_used": false,
+  "policy_evaluation_run": false,
+  "protocol_sha256": "a923d749cc02950d54b16a93a1f0498755d3373d4771c7b5b8856d11d8dbed0c",
+  "resumed_observations": 768,
+  "runner_sha256": "c53c5bca5822525a6bdf84922ce52ab8e995bd144c8b9971be11ea6e7430f5c4",
+  "scenes": 72,
+  "shared_rgb_helpers_sha256": "158d2dd0e87f3baa46a9fd24b55b77ef000b2921aa311df37ead01af758f00d7",
+  "stage": "DEVELOPMENT72_RGB_INFERENCE"
+}

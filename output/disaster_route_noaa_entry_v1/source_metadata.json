@@ -1,0 +1,45 @@
+{
+  "shape": [
+    13688,
+    13231,
+    3
+  ],
+  "rowsperstrip": 1,
+  "compression": "1",
+  "crs": "EPSG:4326",
+  "transform": [
+    2.248185519562663e-06,
+    0.0,
+    -81.91164227296866,
+    0.0,
+    -2.248185519561405e-06,
+    26.43125786864932,
+    0.0,
+    0.0,
+    1.0
+  ],
+  "tags": {
+    "AREA_OR_POINT": "Area"
+  },
+  "native_window": [
+    3903,
+    3457,
+    585,
+    533
+  ],
+  "required_strips": 533,
+  "required_blocks": 324,
+  "additional_blocks": 324,
+  "applied_alignment_vector_indices": [
+    107,
+    108,
+    110,
+    111,
+    112,
+    114,
+    140,
+    146,
+    147
+  ],
+  "alignment_vectors": 162
+}

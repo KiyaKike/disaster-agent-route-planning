@@ -1,0 +1,81 @@
+{
+  "claims": "Post-hoc development sensitivity experiment on two geometries and reused synthetic worlds;not independent disaster confirmation,real PS efficacy or a new routing method.",
+  "client_date": "2026-11-02",
+  "costs": {
+    "all_return_charged": true,
+    "latency_note": "Inherited assumed one second per planning call, even cache hits;not a measured deployment cost. Strong solver has greater actual CPU work, recorded separately;no equal-compute or efficiency claim.",
+    "observe_s": 20,
+    "planning_latency_s": 1,
+    "speed_m_s": 5
+  },
+  "examples": "Both regions,aligned/moderate/seed2026102800/budget1200;strong solver,time_only,all three main policies. Keep fixed even if failure.",
+  "factorial": {
+    "budgets_s": [
+      600,
+      1200,
+      1800
+    ],
+    "existing_worlds": 60,
+    "noise_modes": 3,
+    "policies": [
+      "pre_static",
+      "post_static",
+      "online",
+      "online_frozen"
+    ],
+    "primary_budget_s": 1200,
+    "prior_modes": 3,
+    "regions": 2,
+    "routes": 8640,
+    "seeds_per_region_mode": 10,
+    "solvers": [
+      "greedy",
+      "insertion_2opt"
+    ],
+    "stopping": [
+      "cap30",
+      "time_only"
+    ]
+  },
+  "failure_handling": "First arrival/detection null when absent;separate failure rates;restricted time summaries use budget on failure. No-target recall null.",
+  "gpu_rental": false,
+  "information": "Public geometry and prior plus past paid observation bits only;known V1 observation likelihood and 3x3 latent structure remain favorable assumptions.",
+  "input_sha256": {
+    "/Users/bethany/Documents/ChatGPT/复现论文/output/PS变化先验_第一版/搜索网格_待复核.geojson": "4a1acb41247477864a10bb8041e00009150af4bd114341f0c25870900562e43f",
+    "/Users/bethany/Documents/ChatGPT/复现论文/output/PS搜索决策_演示版/参数与限制.json": "dde69c9b88c8e870b7f8992aae0f70c27fc053aff144fc19feaa2e7baefe0280",
+    "/Users/bethany/Documents/ChatGPT/复现论文/output/PS搜索决策_演示版/独立目标标注_空表.csv": "ba0815428fc864b44a922854ff56b5b3d903e72825d9562bed4327cc199c22f1",
+    "/Users/bethany/Documents/ChatGPT/复现论文/output/PS搜索决策_演示版/输入网格与显示图.json": "3dde0a9396d8e6f0d5ed3bcb9cc177c9464b4115df64d044557701ab8de77635",
+    "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_route_loop_v1/metrics.json": "ede3d5cb5613a5f838e7664ffe7d6eb0cfcba258672e714b95b554eef226c7b4",
+    "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_route_loop_v1/protocol.json": "32973e58ba6a101ad7fe542b4c201b8e4bd2d8483c03c4b718da0953c33e300b",
+    "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_route_loop_v1/public_geometry.json": "88c32a294a0468f6a349710c455c2b93d6f7944cd7bd04f4fee85e76ec544f5d",
+    "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_route_loop_v1/routes.jsonl": "73d55fc5e8b7255b2427aa4b51b6db4f47a256f61ab1c8baa730b54421ca30db",
+    "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_route_loop_v1/synthetic_worlds.json": "b9feb84c2d5953615bfce8e0efff6568fc31e59689c5adea567ca79dc320ee6d",
+    "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_route_scope_v1/decision.json": "4b11f913bba12b283ca7d0f979856f733880629e3b15a4ea85284c8fb9684dfb",
+    "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/completion_receipt.json": "92d93ccc683334e784b30c050aba784d4192a9d2de8baec3e55993ec8eb2d4cf",
+    "/Users/bethany/Documents/ChatGPT/复现论文/output/感知检查_阶段汇报_20261028/归档校验.json": "899a0f4651349f85d4c9e2a34b17f30e307ac2eea4f7a6467ba9c661cde6f07b",
+    "/Users/bethany/Documents/ChatGPT/复现论文/work/ps_search_decision/build_demo.py": "688138d833552f2e90dc06e04ee7cfeb73fe2294f057530e04ed521ba8f567e3",
+    "/Users/bethany/Documents/ChatGPT/复现论文/work/ps_search_decision/engine.js": "c656f75ba7d84d55785bd121513200d3357e9a494280c4da7b821dafc160d004"
+  },
+  "legacy_replay": "All2160 greedy/cap30 action paths,steps,planning prefixes and non-runtime metrics must exactly reproduce sealed V1.",
+  "memoization": "Same 20000-state LRU for both solvers. Key includes public position,visited cells,elapsed time,belief,costs and limit;no targets/future signals. Every invocation still pays simulated latency. Cache work and hits are reported.",
+  "new_downloads": false,
+  "new_perception_calls": 0,
+  "new_training": false,
+  "parent_receipt_sha256": "7847672c26b0188947cbb6be798360585547a3aa448ad23fa2c694fbaebd6c26",
+  "primary": "Online minus post_static detected synthetic target cells at1200s for every region/prior/noise condition,per solver/stopping. Also online minus frozen-update control.",
+  "question": "Does feedback gain survive a stronger common closed-route solver and removal of the inherited 30-inspection cap?",
+  "real_target_labels_written": false,
+  "solver_effect": "Paired change of each policy under stronger solver;difference of online-poststatic gains between solvers. Direction is reported regardless of benefit.",
+  "source_sha256": {
+    "audit_route_factor.py": "fe1c5640c7d7f3c65d792a2bca76446842429c39d8be87582bf67f70557bf7ce",
+    "report_route_factor.py": "cbf88964f936baf5910730422649400c082d8c48dfc581cdacf89ec081652b74",
+    "route_factor_core.py": "0e7f9ae56111b6d91f5b9c34806c04ab8882cd6bda46ddd2c261f96117a810e4",
+    "run_route_factor.py": "b66b018d6b9cea3d4d44ce83dcf83d0f9e27f10fff80cfc6dbc4f9dd09072f8f",
+    "test_route_factor.py": "0f47d029e8bf118163602959385f67f4b194be745c55a4dc3826f55cf8f7b457"
+  },
+  "stage": "PAIRED_SOLVER_X_STOPPING_V2",
+  "stopping": "cap30 reproduces V1;time_only permits at most the number of eligible cells, forbids repeat inspections and otherwise stops by the same time budget.",
+  "strong_solver": "Two deterministic candidates: original greedy seed and empty seed;each uses reward/marginal closed-tour-time insertion, up to eight improving 2-opt reversals, then insertion refill. Select greatest sum of public expected targets, then shortest distance, then lexicographic indices. No global optimality claim.",
+  "test_log_sha256": "8141f6fad16c48e524fd759089397ac3e5fd34e959dd979c729f193157c3be20",
+  "worlds": "Exactly the sealed V1 synthetic targets and uniform observation draws. No new worlds, labels, fitting or outcome-based selection."
+}

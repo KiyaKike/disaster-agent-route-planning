@@ -1,0 +1,14 @@
+{
+  "source_commit": "fada4e791766f810dc815a4e82d52f2bb27116c6",
+  "parent_receipt_sha256": "f0e20b9b7783cecb73b7a36f8003213cf3ede6fb15b254f38fe5d6ba17205e2b",
+  "only_checkpoint": "strong_baseline_event.pt",
+  "drive_id": "1gd3u7daWA_83EwrAl7O39M3Wbid17jzb",
+  "expected_bytes": 309003425,
+  "binary_payload_cap": 335544320,
+  "no_training": true,
+  "gpu_rental": false,
+  "new_rgb": false,
+  "scenes": "all existing24SantaRosa; no reserved sets",
+  "inference_protocol": "pending source/preprocessing review; no predictions before freeze",
+  "connector_result": "413,256MiB limit before file download; use public author download link"
+}

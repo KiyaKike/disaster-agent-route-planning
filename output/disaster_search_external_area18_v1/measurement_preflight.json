@@ -1,0 +1,11 @@
+{
+  "all18_ids_and512_shapes_verified": true,
+  "all3_reference_overlay_sheets_viewed_by_agent": true,
+  "allow_fixed_detector_descriptive_diagnostic": true,
+  "control_protocol_sha256": "88eab63a8b39d552aaab0522fbfff7b136df7d09d6469b53414c115541790e2c",
+  "human_annotation_or_registration_accuracy_verified": false,
+  "reference_limits": "Published masks are not independently reviewed here; absence of a severe reference label is not proof of no real damage. Coarse overlays cannot establish semantic accuracy.",
+  "reference_schema_accepted": true,
+  "scope": "18fixed development pairs only, all576 RGB-only observations; no controller training, paid GPU or old reserved scoring.",
+  "severe_reference_pixels_on_exact_zero_post_RGB": 0
+}

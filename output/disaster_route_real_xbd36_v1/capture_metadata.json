@@ -1,0 +1,362 @@
+[
+  {
+    "event": "nepal-flooding",
+    "metric_scope": "Approximate image-plane ground distance from released post GSD;not an official geotransform or traversability map.",
+    "post_capture_date": "2017-08-24T05:17:02.085Z",
+    "post_gsd_m": 2.9729018,
+    "pre_capture_date": "2017-04-03T05:32:05.081Z",
+    "pre_gsd_m": 2.2952862,
+    "sample_id": "nepal-flooding_00000356",
+    "source_parent_id": 3822
+  },
+  {
+    "event": "nepal-flooding",
+    "metric_scope": "Approximate image-plane ground distance from released post GSD;not an official geotransform or traversability map.",
+    "post_capture_date": "2017-08-24T05:16:36.085Z",
+    "post_gsd_m": 2.3406696,
+    "pre_capture_date": "2017-04-25T05:19:54.000Z",
+    "pre_gsd_m": 2.0194535,
+    "sample_id": "nepal-flooding_00000470",
+    "source_parent_id": 3936
+  },
+  {
+    "event": "nepal-flooding",
+    "metric_scope": "Approximate image-plane ground distance from released post GSD;not an official geotransform or traversability map.",
+    "post_capture_date": "2017-08-24T05:16:36.085Z",
+    "post_gsd_m": 2.3406696,
+    "pre_capture_date": "2017-04-25T05:20:06.000Z",
+    "pre_gsd_m": 1.9265231,
+    "sample_id": "nepal-flooding_00000534",
+    "source_parent_id": 4000
+  },
+  {
+    "event": "nepal-flooding",
+    "metric_scope": "Approximate image-plane ground distance from released post GSD;not an official geotransform or traversability map.",
+    "post_capture_date": "2017-08-24T05:16:36.085Z",
+    "post_gsd_m": 2.3406696,
+    "pre_capture_date": "2017-04-25T05:20:06.000Z",
+    "pre_gsd_m": 1.9265231,
+    "sample_id": "nepal-flooding_00000583",
+    "source_parent_id": 4049
+  },
+  {
+    "event": "nepal-flooding",
+    "metric_scope": "Approximate image-plane ground distance from released post GSD;not an official geotransform or traversability map.",
+    "post_capture_date": "2017-08-24T05:17:02.085Z",
+    "post_gsd_m": 2.9729018,
+    "pre_capture_date": "2017-04-03T05:32:05.081Z",
+    "pre_gsd_m": 2.2952862,
+    "sample_id": "nepal-flooding_00000333",
+    "source_parent_id": 3799
+  },
+  {
+    "event": "nepal-flooding",
+    "metric_scope": "Approximate image-plane ground distance from released post GSD;not an official geotransform or traversability map.",
+    "post_capture_date": "2017-08-24T05:16:36.085Z",
+    "post_gsd_m": 2.3406696,
+    "pre_capture_date": "2017-04-25T05:20:06.000Z",
+    "pre_gsd_m": 1.9265231,
+    "sample_id": "nepal-flooding_00000040",
+    "source_parent_id": 3506
+  },
+  {
+    "event": "nepal-flooding",
+    "metric_scope": "Approximate image-plane ground distance from released post GSD;not an official geotransform or traversability map.",
+    "post_capture_date": "2017-08-24T05:17:02.085Z",
+    "post_gsd_m": 2.9729018,
+    "pre_capture_date": "2017-04-25T05:19:54.000Z",
+    "pre_gsd_m": 2.0194535,
+    "sample_id": "nepal-flooding_00000150",
+    "source_parent_id": 3616
+  },
+  {
+    "event": "nepal-flooding",
+    "metric_scope": "Approximate image-plane ground distance from released post GSD;not an official geotransform or traversability map.",
+    "post_capture_date": "2017-08-24T05:16:36.085Z",
+    "post_gsd_m": 2.3406696,
+    "pre_capture_date": "2017-04-25T05:20:06.000Z",
+    "pre_gsd_m": 1.9265231,
+    "sample_id": "nepal-flooding_00000614",
+    "source_parent_id": 4080
+  },
+  {
+    "event": "nepal-flooding",
+    "metric_scope": "Approximate image-plane ground distance from released post GSD;not an official geotransform or traversability map.",
+    "post_capture_date": "2017-08-24T05:16:36.085Z",
+    "post_gsd_m": 2.3406696,
+    "pre_capture_date": "2017-04-25T05:20:06.000Z",
+    "pre_gsd_m": 1.9265231,
+    "sample_id": "nepal-flooding_00000055",
+    "source_parent_id": 3521
+  },
+  {
+    "event": "nepal-flooding",
+    "metric_scope": "Approximate image-plane ground distance from released post GSD;not an official geotransform or traversability map.",
+    "post_capture_date": "2017-08-24T05:16:36.085Z",
+    "post_gsd_m": 2.3406696,
+    "pre_capture_date": "2017-04-25T05:20:06.000Z",
+    "pre_gsd_m": 1.9265231,
+    "sample_id": "nepal-flooding_00000574",
+    "source_parent_id": 4040
+  },
+  {
+    "event": "nepal-flooding",
+    "metric_scope": "Approximate image-plane ground distance from released post GSD;not an official geotransform or traversability map.",
+    "post_capture_date": "2017-08-24T05:16:36.085Z",
+    "post_gsd_m": 2.3406696,
+    "pre_capture_date": "2017-04-25T05:19:54.000Z",
+    "pre_gsd_m": 2.0194535,
+    "sample_id": "nepal-flooding_00000392",
+    "source_parent_id": 3858
+  },
+  {
+    "event": "nepal-flooding",
+    "metric_scope": "Approximate image-plane ground distance from released post GSD;not an official geotransform or traversability map.",
+    "post_capture_date": "2017-08-24T05:16:36.085Z",
+    "post_gsd_m": 2.3406696,
+    "pre_capture_date": "2017-04-25T05:19:54.000Z",
+    "pre_gsd_m": 2.0194535,
+    "sample_id": "nepal-flooding_00000104",
+    "source_parent_id": 3570
+  },
+  {
+    "event": "sunda-tsunami",
+    "metric_scope": "Approximate image-plane ground distance from released post GSD;not an official geotransform or traversability map.",
+    "post_capture_date": "2019-01-02T03:17:07.000Z",
+    "post_gsd_m": 1.7746705,
+    "pre_capture_date": "2018-06-18T03:29:40.000Z",
+    "pre_gsd_m": 2.190356,
+    "sample_id": "sunda-tsunami_00000105",
+    "source_parent_id": 7904
+  },
+  {
+    "event": "sunda-tsunami",
+    "metric_scope": "Approximate image-plane ground distance from released post GSD;not an official geotransform or traversability map.",
+    "post_capture_date": "2019-01-02T03:17:07.000Z",
+    "post_gsd_m": 1.7746705,
+    "pre_capture_date": "2018-06-18T03:29:40.000Z",
+    "pre_gsd_m": 2.190356,
+    "sample_id": "sunda-tsunami_00000118",
+    "source_parent_id": 7917
+  },
+  {
+    "event": "sunda-tsunami",
+    "metric_scope": "Approximate image-plane ground distance from released post GSD;not an official geotransform or traversability map.",
+    "post_capture_date": "2019-01-02T03:17:07.000Z",
+    "post_gsd_m": 1.7746705,
+    "pre_capture_date": "2018-06-18T03:29:40.000Z",
+    "pre_gsd_m": 2.190356,
+    "sample_id": "sunda-tsunami_00000078",
+    "source_parent_id": 7877
+  },
+  {
+    "event": "sunda-tsunami",
+    "metric_scope": "Approximate image-plane ground distance from released post GSD;not an official geotransform or traversability map.",
+    "post_capture_date": "2019-01-02T03:17:07.000Z",
+    "post_gsd_m": 1.7746705,
+    "pre_capture_date": "2018-06-18T03:29:40.000Z",
+    "pre_gsd_m": 2.190356,
+    "sample_id": "sunda-tsunami_00000061",
+    "source_parent_id": 7860
+  },
+  {
+    "event": "sunda-tsunami",
+    "metric_scope": "Approximate image-plane ground distance from released post GSD;not an official geotransform or traversability map.",
+    "post_capture_date": "2019-01-02T03:17:07.000Z",
+    "post_gsd_m": 1.7746705,
+    "pre_capture_date": "2018-06-18T03:29:40.000Z",
+    "pre_gsd_m": 2.190356,
+    "sample_id": "sunda-tsunami_00000015",
+    "source_parent_id": 7814
+  },
+  {
+    "event": "sunda-tsunami",
+    "metric_scope": "Approximate image-plane ground distance from released post GSD;not an official geotransform or traversability map.",
+    "post_capture_date": "2019-01-02T03:17:07.000Z",
+    "post_gsd_m": 1.7746705,
+    "pre_capture_date": "2018-06-18T03:29:40.000Z",
+    "pre_gsd_m": 2.190356,
+    "sample_id": "sunda-tsunami_00000016",
+    "source_parent_id": 7815
+  },
+  {
+    "event": "sunda-tsunami",
+    "metric_scope": "Approximate image-plane ground distance from released post GSD;not an official geotransform or traversability map.",
+    "post_capture_date": "2019-01-02T03:17:07.000Z",
+    "post_gsd_m": 1.7746705,
+    "pre_capture_date": "2018-06-18T03:29:40.000Z",
+    "pre_gsd_m": 2.190356,
+    "sample_id": "sunda-tsunami_00000053",
+    "source_parent_id": 7852
+  },
+  {
+    "event": "sunda-tsunami",
+    "metric_scope": "Approximate image-plane ground distance from released post GSD;not an official geotransform or traversability map.",
+    "post_capture_date": "2019-01-02T03:17:07.000Z",
+    "post_gsd_m": 1.7746705,
+    "pre_capture_date": "2018-06-18T03:29:40.000Z",
+    "pre_gsd_m": 2.190356,
+    "sample_id": "sunda-tsunami_00000059",
+    "source_parent_id": 7858
+  },
+  {
+    "event": "sunda-tsunami",
+    "metric_scope": "Approximate image-plane ground distance from released post GSD;not an official geotransform or traversability map.",
+    "post_capture_date": "2019-01-02T03:17:07.000Z",
+    "post_gsd_m": 1.7746705,
+    "pre_capture_date": "2018-06-18T03:29:40.000Z",
+    "pre_gsd_m": 2.190356,
+    "sample_id": "sunda-tsunami_00000014",
+    "source_parent_id": 7813
+  },
+  {
+    "event": "sunda-tsunami",
+    "metric_scope": "Approximate image-plane ground distance from released post GSD;not an official geotransform or traversability map.",
+    "post_capture_date": "2019-01-02T03:17:07.000Z",
+    "post_gsd_m": 1.7746705,
+    "pre_capture_date": "2018-06-18T03:29:40.000Z",
+    "pre_gsd_m": 2.190356,
+    "sample_id": "sunda-tsunami_00000131",
+    "source_parent_id": 7930
+  },
+  {
+    "event": "sunda-tsunami",
+    "metric_scope": "Approximate image-plane ground distance from released post GSD;not an official geotransform or traversability map.",
+    "post_capture_date": "2019-01-02T03:17:07.000Z",
+    "post_gsd_m": 1.7746705,
+    "pre_capture_date": "2018-06-18T03:29:40.000Z",
+    "pre_gsd_m": 2.190356,
+    "sample_id": "sunda-tsunami_00000047",
+    "source_parent_id": 7846
+  },
+  {
+    "event": "sunda-tsunami",
+    "metric_scope": "Approximate image-plane ground distance from released post GSD;not an official geotransform or traversability map.",
+    "post_capture_date": "2019-01-02T03:17:07.000Z",
+    "post_gsd_m": 1.7746705,
+    "pre_capture_date": "2018-06-18T03:29:40.000Z",
+    "pre_gsd_m": 2.190356,
+    "sample_id": "sunda-tsunami_00000137",
+    "source_parent_id": 7936
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "metric_scope": "Approximate image-plane ground distance from released post GSD;not an official geotransform or traversability map.",
+    "post_capture_date": "2011-05-19T16:48:01.085Z",
+    "post_gsd_m": 1.85690224170685,
+    "pre_capture_date": "2006-06-21T16:55:29.679Z",
+    "pre_gsd_m": 2.45692420005798,
+    "sample_id": "tuscaloosa-tornado_00000313",
+    "source_parent_id": 8260
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "metric_scope": "Approximate image-plane ground distance from released post GSD;not an official geotransform or traversability map.",
+    "post_capture_date": "2011-05-19T16:48:01.085Z",
+    "post_gsd_m": 1.85690224170685,
+    "pre_capture_date": "2006-06-21T16:55:29.679Z",
+    "pre_gsd_m": 2.45692420005798,
+    "sample_id": "tuscaloosa-tornado_00000133",
+    "source_parent_id": 8080
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "metric_scope": "Approximate image-plane ground distance from released post GSD;not an official geotransform or traversability map.",
+    "post_capture_date": "2011-05-19T16:48:01.085Z",
+    "post_gsd_m": 1.85690224170685,
+    "pre_capture_date": "2006-06-21T16:55:29.679Z",
+    "pre_gsd_m": 2.45692420005798,
+    "sample_id": "tuscaloosa-tornado_00000096",
+    "source_parent_id": 8043
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "metric_scope": "Approximate image-plane ground distance from released post GSD;not an official geotransform or traversability map.",
+    "post_capture_date": "2011-05-19T16:48:01.085Z",
+    "post_gsd_m": 1.85690224170685,
+    "pre_capture_date": "2006-06-21T16:55:29.679Z",
+    "pre_gsd_m": 2.45692420005798,
+    "sample_id": "tuscaloosa-tornado_00000181",
+    "source_parent_id": 8128
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "metric_scope": "Approximate image-plane ground distance from released post GSD;not an official geotransform or traversability map.",
+    "post_capture_date": "2011-05-19T16:48:01.085Z",
+    "post_gsd_m": 1.85690224170685,
+    "pre_capture_date": "2006-06-21T16:55:29.679Z",
+    "pre_gsd_m": 2.45692420005798,
+    "sample_id": "tuscaloosa-tornado_00000010",
+    "source_parent_id": 7957
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "metric_scope": "Approximate image-plane ground distance from released post GSD;not an official geotransform or traversability map.",
+    "post_capture_date": "2011-05-19T16:48:01.085Z",
+    "post_gsd_m": 1.85690224170685,
+    "pre_capture_date": "2006-06-21T16:55:29.679Z",
+    "pre_gsd_m": 2.45692420005798,
+    "sample_id": "tuscaloosa-tornado_00000104",
+    "source_parent_id": 8051
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "metric_scope": "Approximate image-plane ground distance from released post GSD;not an official geotransform or traversability map.",
+    "post_capture_date": "2011-05-19T16:48:01.085Z",
+    "post_gsd_m": 1.85690224170685,
+    "pre_capture_date": "2006-06-21T16:55:29.679Z",
+    "pre_gsd_m": 2.45692420005798,
+    "sample_id": "tuscaloosa-tornado_00000175",
+    "source_parent_id": 8122
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "metric_scope": "Approximate image-plane ground distance from released post GSD;not an official geotransform or traversability map.",
+    "post_capture_date": "2011-05-19T16:48:01.085Z",
+    "post_gsd_m": 1.85690224170685,
+    "pre_capture_date": "2006-06-21T16:55:29.679Z",
+    "pre_gsd_m": 2.45692420005798,
+    "sample_id": "tuscaloosa-tornado_00000073",
+    "source_parent_id": 8020
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "metric_scope": "Approximate image-plane ground distance from released post GSD;not an official geotransform or traversability map.",
+    "post_capture_date": "2011-05-19T16:48:01.085Z",
+    "post_gsd_m": 1.85690224170685,
+    "pre_capture_date": "2006-06-21T16:55:29.679Z",
+    "pre_gsd_m": 2.45692420005798,
+    "sample_id": "tuscaloosa-tornado_00000171",
+    "source_parent_id": 8118
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "metric_scope": "Approximate image-plane ground distance from released post GSD;not an official geotransform or traversability map.",
+    "post_capture_date": "2011-05-19T16:48:01.085Z",
+    "post_gsd_m": 1.85690224170685,
+    "pre_capture_date": "2006-06-21T16:55:29.679Z",
+    "pre_gsd_m": 2.45692420005798,
+    "sample_id": "tuscaloosa-tornado_00000053",
+    "source_parent_id": 8000
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "metric_scope": "Approximate image-plane ground distance from released post GSD;not an official geotransform or traversability map.",
+    "post_capture_date": "2011-05-19T16:48:01.085Z",
+    "post_gsd_m": 1.85690224170685,
+    "pre_capture_date": "2006-06-21T16:55:29.679Z",
+    "pre_gsd_m": 2.45692420005798,
+    "sample_id": "tuscaloosa-tornado_00000285",
+    "source_parent_id": 8232
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "metric_scope": "Approximate image-plane ground distance from released post GSD;not an official geotransform or traversability map.",
+    "post_capture_date": "2011-05-19T16:48:01.085Z",
+    "post_gsd_m": 1.85690224170685,
+    "pre_capture_date": "2006-06-21T16:55:29.679Z",
+    "pre_gsd_m": 2.45692420005798,
+    "sample_id": "tuscaloosa-tornado_00000280",
+    "source_parent_id": 8227
+  }
+]

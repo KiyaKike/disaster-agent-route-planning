@@ -1,0 +1,262 @@
+{
+  "archive_published_sha256": "95a2b384b131a7f63051bdad4a88ca3463e4a3c131e551e26674c4ef107a3e2c",
+  "archive_size": 32404817624,
+  "author_pool_comparisons": {
+    "hold": {
+      "author_count": 933,
+      "missing_author_ids": [],
+      "source_count": 933
+    },
+    "test": {
+      "author_count": 933,
+      "missing_author_ids": [],
+      "source_count": 933
+    },
+    "tier3": {
+      "author_count": 3378,
+      "missing_author_ids": [],
+      "source_count": 6369
+    },
+    "train": {
+      "author_count": 2799,
+      "missing_author_ids": [],
+      "source_count": 2799
+    }
+  },
+  "collection_sha256": "18ae47fa8090209ec259072861c4a868f4b11d19284eabe6144b5629706539db",
+  "damage_legend_from_collection_only": [
+    {
+      "counts_field": "polygon_len",
+      "field": "polygon_xy",
+      "kind": "polygon",
+      "name": "buildings",
+      "structure": "single"
+    },
+    {
+      "classes": [
+        "no-damage",
+        "minor-damage",
+        "major-damage",
+        "destroyed",
+        "un-classified"
+      ],
+      "field": "damage",
+      "ignore_index": 4,
+      "kind": "class_sequence",
+      "name": "damage",
+      "structure": "single"
+    }
+  ],
+  "damage_values_read": false,
+  "data_admitted": false,
+  "dataset_card_sha256": "6241b421335368d1f3a08bca0c2868243c8cce06243b1a10aff6766dc8f7233f",
+  "geometry_values_read": false,
+  "has_original_uid_column": false,
+  "has_per_object_polygons": {
+    "ml:polygon_len": true,
+    "ml:polygon_lnglat": true,
+    "ml:polygon_lnglat_len": true,
+    "ml:polygon_xy": true
+  },
+  "hold_count": 933,
+  "hold_exact_name_match": true,
+  "images_decoded": false,
+  "metadata": {
+    "METADATA/children.parquet": {
+      "columns": [
+        "ml:tensor_shape",
+        "internal:current_id",
+        "internal:parent_id",
+        "internal:relative_path",
+        "internal:offset",
+        "internal:size"
+      ],
+      "compressed_column_bytes": {
+        "internal:current_id": 129935,
+        "internal:offset": 175889,
+        "internal:parent_id": 83029,
+        "internal:relative_path": 136554,
+        "internal:size": 144252,
+        "ml:tensor_shape.list.element": 971
+      },
+      "row_groups": 1,
+      "rows": 22068
+    },
+    "METADATA/sample.parquet": {
+      "columns": [
+        "ml:split",
+        "ml:split_original",
+        "ml:release_tier",
+        "ml:source_file",
+        "ml:disaster",
+        "ml:disaster_type",
+        "ml:height",
+        "ml:width",
+        "ml:pre_sensor",
+        "ml:pre_gsd_m",
+        "ml:pre_capture_date",
+        "ml:pre_off_nadir_deg",
+        "ml:pre_sun_elevation_deg",
+        "ml:pre_sun_azimuth_deg",
+        "ml:post_sensor",
+        "ml:post_gsd_m",
+        "ml:post_capture_date",
+        "ml:post_off_nadir_deg",
+        "ml:post_sun_elevation_deg",
+        "ml:post_sun_azimuth_deg",
+        "ml:n_buildings",
+        "ml:n_buildings_pre",
+        "ml:damage",
+        "ml:polygon_xy",
+        "ml:polygon_len",
+        "ml:polygon_lnglat",
+        "ml:polygon_lnglat_len",
+        "internal:current_id",
+        "internal:relative_path"
+      ],
+      "compressed_column_bytes": {
+        "internal:current_id": 63619,
+        "internal:relative_path": 70839,
+        "ml:damage.list.element": 85048,
+        "ml:disaster": 506,
+        "ml:disaster_type": 222,
+        "ml:height": 84,
+        "ml:n_buildings": 13289,
+        "ml:n_buildings_pre": 13289,
+        "ml:polygon_len.list.element": 366020,
+        "ml:polygon_lnglat.list.element": 50414576,
+        "ml:polygon_lnglat_len.list.element": 366020,
+        "ml:polygon_xy.list.element": 56886908,
+        "ml:post_capture_date": 2103,
+        "ml:post_gsd_m": 1843,
+        "ml:post_off_nadir_deg": 1843,
+        "ml:post_sensor": 518,
+        "ml:post_sun_azimuth_deg": 1843,
+        "ml:post_sun_elevation_deg": 1843,
+        "ml:pre_capture_date": 2608,
+        "ml:pre_gsd_m": 2323,
+        "ml:pre_off_nadir_deg": 2323,
+        "ml:pre_sensor": 322,
+        "ml:pre_sun_azimuth_deg": 2323,
+        "ml:pre_sun_elevation_deg": 2323,
+        "ml:release_tier": 109,
+        "ml:source_file": 75795,
+        "ml:split": 116,
+        "ml:split_original": 109,
+        "ml:width": 84
+      },
+      "row_groups": 1,
+      "rows": 11034
+    }
+  },
+  "network_bytes_this_runner": 0,
+  "next_gate": "Polygons are preserved but original UID is absent. Verify exact one-to-one mapping against known original calibration polygons before proposing derived instance IDs in an explicit contract amendment. No connected-component substitution.",
+  "no_protected_payload_intersections": true,
+  "projected_columns": [
+    "ml:source_file",
+    "ml:split_original",
+    "ml:disaster",
+    "internal:current_id"
+  ],
+  "protected_column_ranges": [
+    {
+      "bytes": 85048,
+      "field": "ml:damage",
+      "offset": 32294925915
+    },
+    {
+      "bytes": 56886908,
+      "field": "ml:polygon_xy",
+      "offset": 32295010963
+    },
+    {
+      "bytes": 366020,
+      "field": "ml:polygon_len",
+      "offset": 32351897871
+    },
+    {
+      "bytes": 50414576,
+      "field": "ml:polygon_lnglat",
+      "offset": 32352263891
+    },
+    {
+      "bytes": 366020,
+      "field": "ml:polygon_lnglat_len",
+      "offset": 32402678467
+    }
+  ],
+  "read_receipts": [
+    {
+      "bytes": 30,
+      "cache_hit": true,
+      "offset": 0,
+      "sha256": "7b813800398698a075a15981028089b28f2563c70f5a82f581c36c86a347adac"
+    },
+    {
+      "bytes": 9,
+      "cache_hit": true,
+      "offset": 30,
+      "sha256": "c48de6429d7104358add5bccc1f19ececbb95f196ebfc944d4fd181d3e4f90e7"
+    },
+    {
+      "bytes": 128,
+      "cache_hit": true,
+      "offset": 51,
+      "sha256": "88016aa8b5788f31b3e1e890b20817acbdfce9f24fe00a9a7aeba2f7651a2247"
+    },
+    {
+      "bytes": 9798,
+      "cache_hit": true,
+      "offset": 32294117839,
+      "sha256": "a2dd6fcbf101b602de4398faf1242ffd0bb8bd926619b7af78712e238e85e731"
+    },
+    {
+      "bytes": 65536,
+      "cache_hit": true,
+      "offset": 32403120720,
+      "sha256": "6fb7eeef8a5df9d7db48c9d6007a230d80095e07de381daa202a74d01a18a79e"
+    },
+    {
+      "bytes": 65536,
+      "cache_hit": true,
+      "offset": 32294734504,
+      "sha256": "a34e77a860700fa01b6182e3bc2c828abbd472edd1c0053ef6cb282c4b6f1374"
+    },
+    {
+      "bytes": 76519,
+      "cache_hit": true,
+      "offset": 32294800213,
+      "sha256": "2a976b013d75f9152fee0e41d96c445f28fd28d3bde610f08732e071b8a47c9e"
+    },
+    {
+      "bytes": 63619,
+      "cache_hit": true,
+      "offset": 32403044487,
+      "sha256": "79c1dc819b90d4615f711f46938f7b94a75889a52fc5fe565225796f6c7f4f99"
+    }
+  ],
+  "repo": "isp-uv-es/xview2-taco",
+  "repository_info_sha256": "6cd477f0ce028df98b44abc4e910d2e914a31d0d9dc025b7e746ca2b66434a24",
+  "revision": "44e219dc1d88c9d0903d6b478d7f2f3c435e574f",
+  "runner_sha256": "f348b944f4bd5331612e9fa4f47ef6463374953c3f9903daef173c5130aacf86",
+  "schemas": {
+    "METADATA/children.parquet": "ml:tensor_shape: list<element: int32>\n  child 0, element: int32\ninternal:current_id: int64\ninternal:parent_id: int64\ninternal:relative_path: large_string\ninternal:offset: int64\ninternal:size: int64",
+    "METADATA/sample.parquet": "ml:split: string\nml:split_original: string\nml:release_tier: string\nml:source_file: string\nml:disaster: string\nml:disaster_type: string\nml:height: int32\nml:width: int32\nml:pre_sensor: string\nml:pre_gsd_m: double\nml:pre_capture_date: string\nml:pre_off_nadir_deg: double\nml:pre_sun_elevation_deg: double\nml:pre_sun_azimuth_deg: double\nml:post_sensor: string\nml:post_gsd_m: double\nml:post_capture_date: string\nml:post_off_nadir_deg: double\nml:post_sun_elevation_deg: double\nml:post_sun_azimuth_deg: double\nml:n_buildings: int32\nml:n_buildings_pre: int32\nml:damage: list<element: uint8>\n  child 0, element: uint8\nml:polygon_xy: list<element: double>\n  child 0, element: double\nml:polygon_len: list<element: int32>\n  child 0, element: int32\nml:polygon_lnglat: list<element: double>\n  child 0, element: double\nml:polygon_lnglat_len: list<element: int32>\n  child 0, element: int32\ninternal:current_id: int64\ninternal:relative_path: large_string"
+  },
+  "selected_all_in_hold": true,
+  "selected_count": 216,
+  "source_urls": [
+    "https://huggingface.co/api/datasets/isp-uv-es/xview2-taco/revision/44e219dc1d88c9d0903d6b478d7f2f3c435e574f?blobs=true",
+    "https://huggingface.co/datasets/isp-uv-es/xview2-taco/resolve/44e219dc1d88c9d0903d6b478d7f2f3c435e574f/README.md",
+    "https://xview2.org/dataset",
+    "https://asterisk.coop/taco/spec/"
+  ],
+  "split_original_counts": {
+    "hold": 933,
+    "test": 933,
+    "tier3": 6369,
+    "train": 2799
+  },
+  "stage": "HOLD_ALTERNATIVE_METADATA_AUDIT_NOT_DATA_ADMISSION",
+  "whole_archive_hash_verified": false
+}

@@ -1,0 +1,326 @@
+[
+  {
+    "event": "nepal-flooding",
+    "purpose": "measurement_replication_development_not_final_confirmation",
+    "sample_id": "nepal-flooding_00000356",
+    "selection_rank": 1,
+    "selection_sha256": "001ac82b284c465d798a6c7cc37e58597ba7f40030e786076949ae29e231755e",
+    "source_parent_id": 3822,
+    "source_subset": "tier3"
+  },
+  {
+    "event": "nepal-flooding",
+    "purpose": "measurement_replication_development_not_final_confirmation",
+    "sample_id": "nepal-flooding_00000470",
+    "selection_rank": 2,
+    "selection_sha256": "012955b5fc38978d58c5681024b399774d9c279f0a0e9f95b51c64ddf68b8e94",
+    "source_parent_id": 3936,
+    "source_subset": "tier3"
+  },
+  {
+    "event": "nepal-flooding",
+    "purpose": "measurement_replication_development_not_final_confirmation",
+    "sample_id": "nepal-flooding_00000534",
+    "selection_rank": 3,
+    "selection_sha256": "019e6a8045cd10276836c770c09f351b49af73e734e9a0de855fe2d8b3556c7b",
+    "source_parent_id": 4000,
+    "source_subset": "tier3"
+  },
+  {
+    "event": "nepal-flooding",
+    "purpose": "measurement_replication_development_not_final_confirmation",
+    "sample_id": "nepal-flooding_00000583",
+    "selection_rank": 4,
+    "selection_sha256": "02d54f555f89182fb94916ab10810b1b46705aa707d7df216d3a3f2d92485e20",
+    "source_parent_id": 4049,
+    "source_subset": "tier3"
+  },
+  {
+    "event": "nepal-flooding",
+    "purpose": "measurement_replication_development_not_final_confirmation",
+    "sample_id": "nepal-flooding_00000333",
+    "selection_rank": 5,
+    "selection_sha256": "043cde07599065b0731a2546a240527e55b5b51d5433ed92a931d408405aa9d1",
+    "source_parent_id": 3799,
+    "source_subset": "tier3"
+  },
+  {
+    "event": "nepal-flooding",
+    "purpose": "measurement_replication_development_not_final_confirmation",
+    "sample_id": "nepal-flooding_00000040",
+    "selection_rank": 6,
+    "selection_sha256": "06842b4943a06082eb6643d66977c5ac431f600664f3cc8580fbb70856d2f839",
+    "source_parent_id": 3506,
+    "source_subset": "tier3"
+  },
+  {
+    "event": "nepal-flooding",
+    "purpose": "measurement_replication_development_not_final_confirmation",
+    "sample_id": "nepal-flooding_00000150",
+    "selection_rank": 7,
+    "selection_sha256": "0693edc248a79e2a6977ef7deae2c4454fdd5194f248c05e2a1256de70300a0c",
+    "source_parent_id": 3616,
+    "source_subset": "tier3"
+  },
+  {
+    "event": "nepal-flooding",
+    "purpose": "measurement_replication_development_not_final_confirmation",
+    "sample_id": "nepal-flooding_00000614",
+    "selection_rank": 8,
+    "selection_sha256": "06c223e2b0c09bf95f07882dda864f9c8dc61c4e1808078cafa7e06cf327feeb",
+    "source_parent_id": 4080,
+    "source_subset": "tier3"
+  },
+  {
+    "event": "nepal-flooding",
+    "purpose": "measurement_replication_development_not_final_confirmation",
+    "sample_id": "nepal-flooding_00000055",
+    "selection_rank": 9,
+    "selection_sha256": "073adfd7ee091c44e4bb98eee157138d9332b004090bba02d4065a3d933a383a",
+    "source_parent_id": 3521,
+    "source_subset": "tier3"
+  },
+  {
+    "event": "nepal-flooding",
+    "purpose": "measurement_replication_development_not_final_confirmation",
+    "sample_id": "nepal-flooding_00000574",
+    "selection_rank": 10,
+    "selection_sha256": "0784c12ed88c5b803543f0c55aa5cc6e541776983aa673914839ba18f273a99b",
+    "source_parent_id": 4040,
+    "source_subset": "tier3"
+  },
+  {
+    "event": "nepal-flooding",
+    "purpose": "measurement_replication_development_not_final_confirmation",
+    "sample_id": "nepal-flooding_00000392",
+    "selection_rank": 11,
+    "selection_sha256": "07c2e315e83ec5efeca2ec28bbbad427e465609ed5193d0441b52da32b933790",
+    "source_parent_id": 3858,
+    "source_subset": "tier3"
+  },
+  {
+    "event": "nepal-flooding",
+    "purpose": "measurement_replication_development_not_final_confirmation",
+    "sample_id": "nepal-flooding_00000104",
+    "selection_rank": 12,
+    "selection_sha256": "080d9e6e6ec1de74e1f27f58dc3a58b49bcfcecd13e620b9afef9aaa17a7648d",
+    "source_parent_id": 3570,
+    "source_subset": "tier3"
+  },
+  {
+    "event": "sunda-tsunami",
+    "purpose": "measurement_replication_development_not_final_confirmation",
+    "sample_id": "sunda-tsunami_00000105",
+    "selection_rank": 1,
+    "selection_sha256": "0183ff9f76916427f9162b65ee82d7d875a985bdadc2e66d68bb3ac9a60d3108",
+    "source_parent_id": 7904,
+    "source_subset": "tier3"
+  },
+  {
+    "event": "sunda-tsunami",
+    "purpose": "measurement_replication_development_not_final_confirmation",
+    "sample_id": "sunda-tsunami_00000118",
+    "selection_rank": 2,
+    "selection_sha256": "023ba1c4de906904bfab42cd86ca4448e8bb366c2aaea5a48580a10032d6fa92",
+    "source_parent_id": 7917,
+    "source_subset": "tier3"
+  },
+  {
+    "event": "sunda-tsunami",
+    "purpose": "measurement_replication_development_not_final_confirmation",
+    "sample_id": "sunda-tsunami_00000078",
+    "selection_rank": 3,
+    "selection_sha256": "0557cb2348c93f2767d1d41e5266c823fab302cd2438881647c1a0817bb45d13",
+    "source_parent_id": 7877,
+    "source_subset": "tier3"
+  },
+  {
+    "event": "sunda-tsunami",
+    "purpose": "measurement_replication_development_not_final_confirmation",
+    "sample_id": "sunda-tsunami_00000061",
+    "selection_rank": 4,
+    "selection_sha256": "05a97cfb88114f6b08c7c5d27419a5e625208f52595dfe056898257f7ad0bf06",
+    "source_parent_id": 7860,
+    "source_subset": "tier3"
+  },
+  {
+    "event": "sunda-tsunami",
+    "purpose": "measurement_replication_development_not_final_confirmation",
+    "sample_id": "sunda-tsunami_00000015",
+    "selection_rank": 5,
+    "selection_sha256": "08730081eade10006c20abf91d13a9e039eb3ce77a73e5e9ed1b7a2af0839250",
+    "source_parent_id": 7814,
+    "source_subset": "tier3"
+  },
+  {
+    "event": "sunda-tsunami",
+    "purpose": "measurement_replication_development_not_final_confirmation",
+    "sample_id": "sunda-tsunami_00000016",
+    "selection_rank": 6,
+    "selection_sha256": "099a797b28e8c194ec83a4e208f2a52e981446db2331cfeb10a515db2a27a1a4",
+    "source_parent_id": 7815,
+    "source_subset": "tier3"
+  },
+  {
+    "event": "sunda-tsunami",
+    "purpose": "measurement_replication_development_not_final_confirmation",
+    "sample_id": "sunda-tsunami_00000053",
+    "selection_rank": 7,
+    "selection_sha256": "0a6a1bca10af48231299db91f4abe97ffd86642fda88c81816b49b169242c2b4",
+    "source_parent_id": 7852,
+    "source_subset": "tier3"
+  },
+  {
+    "event": "sunda-tsunami",
+    "purpose": "measurement_replication_development_not_final_confirmation",
+    "sample_id": "sunda-tsunami_00000059",
+    "selection_rank": 8,
+    "selection_sha256": "0b7ea29a7a3dd533e62fe74522e63e2eda6541247d8a564f3a3a4c9fb2747bf4",
+    "source_parent_id": 7858,
+    "source_subset": "tier3"
+  },
+  {
+    "event": "sunda-tsunami",
+    "purpose": "measurement_replication_development_not_final_confirmation",
+    "sample_id": "sunda-tsunami_00000014",
+    "selection_rank": 9,
+    "selection_sha256": "0bb127cc0cfedfa411cb5e21d01c774b430ec77ca5f850bd20b139e894697895",
+    "source_parent_id": 7813,
+    "source_subset": "tier3"
+  },
+  {
+    "event": "sunda-tsunami",
+    "purpose": "measurement_replication_development_not_final_confirmation",
+    "sample_id": "sunda-tsunami_00000131",
+    "selection_rank": 10,
+    "selection_sha256": "0e09d286484fddf064443fb56e336685d9f288f0343b6f3abd9fe206ad4ec562",
+    "source_parent_id": 7930,
+    "source_subset": "tier3"
+  },
+  {
+    "event": "sunda-tsunami",
+    "purpose": "measurement_replication_development_not_final_confirmation",
+    "sample_id": "sunda-tsunami_00000047",
+    "selection_rank": 11,
+    "selection_sha256": "0e35aacd91b76c35101f14f436e10084a2ef449fdde2998ea29103fe2e2ef415",
+    "source_parent_id": 7846,
+    "source_subset": "tier3"
+  },
+  {
+    "event": "sunda-tsunami",
+    "purpose": "measurement_replication_development_not_final_confirmation",
+    "sample_id": "sunda-tsunami_00000137",
+    "selection_rank": 12,
+    "selection_sha256": "0f02fdd78855cff25f3c3beb15f5e29468e0b56e3016da6135436924ddb4d2d6",
+    "source_parent_id": 7936,
+    "source_subset": "tier3"
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "purpose": "measurement_replication_development_not_final_confirmation",
+    "sample_id": "tuscaloosa-tornado_00000313",
+    "selection_rank": 1,
+    "selection_sha256": "00d4e937f0181aa074a0bf05f440204f0857e7b213edd0a115f89f270d6c9bec",
+    "source_parent_id": 8260,
+    "source_subset": "tier3"
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "purpose": "measurement_replication_development_not_final_confirmation",
+    "sample_id": "tuscaloosa-tornado_00000133",
+    "selection_rank": 2,
+    "selection_sha256": "0169e326fc9350d7dad56d23df6803fbb0d5b03672238d86fe5d74dd894a1846",
+    "source_parent_id": 8080,
+    "source_subset": "tier3"
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "purpose": "measurement_replication_development_not_final_confirmation",
+    "sample_id": "tuscaloosa-tornado_00000096",
+    "selection_rank": 3,
+    "selection_sha256": "01898ad5c6b55111a2c4d0d9e17aecd57ef3607074072176d3fb783994cf6c0b",
+    "source_parent_id": 8043,
+    "source_subset": "tier3"
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "purpose": "measurement_replication_development_not_final_confirmation",
+    "sample_id": "tuscaloosa-tornado_00000181",
+    "selection_rank": 4,
+    "selection_sha256": "023979d53accde0f40977aa23eaafd1c60991cc8f0d6ccde1099335936984da4",
+    "source_parent_id": 8128,
+    "source_subset": "tier3"
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "purpose": "measurement_replication_development_not_final_confirmation",
+    "sample_id": "tuscaloosa-tornado_00000010",
+    "selection_rank": 5,
+    "selection_sha256": "02dff7ebfc11b27b89ae0fb459d78f60bccc7c962352b04e329e39860abc0740",
+    "source_parent_id": 7957,
+    "source_subset": "tier3"
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "purpose": "measurement_replication_development_not_final_confirmation",
+    "sample_id": "tuscaloosa-tornado_00000104",
+    "selection_rank": 6,
+    "selection_sha256": "03b48fe41a064d6397d7142dcd41913258b80688adffbd9baf0bdcdc0dd76f0d",
+    "source_parent_id": 8051,
+    "source_subset": "tier3"
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "purpose": "measurement_replication_development_not_final_confirmation",
+    "sample_id": "tuscaloosa-tornado_00000175",
+    "selection_rank": 7,
+    "selection_sha256": "05eaa803f4b04e0fac6ac22eea0b56610df532bff8f1141a75183d7fc707a839",
+    "source_parent_id": 8122,
+    "source_subset": "tier3"
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "purpose": "measurement_replication_development_not_final_confirmation",
+    "sample_id": "tuscaloosa-tornado_00000073",
+    "selection_rank": 8,
+    "selection_sha256": "05f5e5cb7217b384abfc33079947e230a00ebcd2da1b7b217db3cd019a39af19",
+    "source_parent_id": 8020,
+    "source_subset": "tier3"
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "purpose": "measurement_replication_development_not_final_confirmation",
+    "sample_id": "tuscaloosa-tornado_00000171",
+    "selection_rank": 9,
+    "selection_sha256": "085f423fa2fa2634a974ce8be2cb7da67e7517cf2e5a920096ea16751baa25bf",
+    "source_parent_id": 8118,
+    "source_subset": "tier3"
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "purpose": "measurement_replication_development_not_final_confirmation",
+    "sample_id": "tuscaloosa-tornado_00000053",
+    "selection_rank": 10,
+    "selection_sha256": "097054fc3df6eec64004869ac74105badcfb263e25f7486c376c980f7aac1723",
+    "source_parent_id": 8000,
+    "source_subset": "tier3"
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "purpose": "measurement_replication_development_not_final_confirmation",
+    "sample_id": "tuscaloosa-tornado_00000285",
+    "selection_rank": 11,
+    "selection_sha256": "0c0475f8a103b875591571e0acf81936f009ae8b85c3d0919d9c7859dcd3ed08",
+    "source_parent_id": 8232,
+    "source_subset": "tier3"
+  },
+  {
+    "event": "tuscaloosa-tornado",
+    "purpose": "measurement_replication_development_not_final_confirmation",
+    "sample_id": "tuscaloosa-tornado_00000280",
+    "selection_rank": 12,
+    "selection_sha256": "0c0494cd0b613237908ca02887ddc0ceb7d7b3056372d39acd6a9af16fedceea",
+    "source_parent_id": 8227,
+    "source_subset": "tier3"
+  }
+]

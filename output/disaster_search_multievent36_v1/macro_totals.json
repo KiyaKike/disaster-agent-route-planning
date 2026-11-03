@@ -1,0 +1,98 @@
+[
+  {
+    "budget": 8,
+    "defined_reference_positive_events": 3,
+    "equal_event_mean_TP_per_scene": 130.99652777777777,
+    "events": 3,
+    "macro_recall": 0.04190862608457193,
+    "policy": "random_exact_expected_counts"
+  },
+  {
+    "budget": 8,
+    "defined_reference_positive_events": 3,
+    "equal_event_mean_TP_per_scene": 199.19444444444446,
+    "events": 3,
+    "macro_recall": 0.04872512781851133,
+    "policy": "static_coarse_change"
+  },
+  {
+    "budget": 8,
+    "defined_reference_positive_events": 3,
+    "equal_event_mean_TP_per_scene": 817.4444444444445,
+    "events": 3,
+    "macro_recall": 0.28497112447262013,
+    "policy": "oracle_true_gain"
+  },
+  {
+    "budget": 16,
+    "defined_reference_positive_events": 3,
+    "equal_event_mean_TP_per_scene": 261.99305555555554,
+    "events": 3,
+    "macro_recall": 0.08381725216914386,
+    "policy": "random_exact_expected_counts"
+  },
+  {
+    "budget": 16,
+    "defined_reference_positive_events": 3,
+    "equal_event_mean_TP_per_scene": 554.8888888888889,
+    "events": 3,
+    "macro_recall": 0.12633259946951106,
+    "policy": "static_coarse_change"
+  },
+  {
+    "budget": 16,
+    "defined_reference_positive_events": 3,
+    "equal_event_mean_TP_per_scene": 1000.861111111111,
+    "events": 3,
+    "macro_recall": 0.32499003390733716,
+    "policy": "oracle_true_gain"
+  },
+  {
+    "budget": 32,
+    "defined_reference_positive_events": 3,
+    "equal_event_mean_TP_per_scene": 523.9861111111111,
+    "events": 3,
+    "macro_recall": 0.16763450433828772,
+    "policy": "random_exact_expected_counts"
+  },
+  {
+    "budget": 32,
+    "defined_reference_positive_events": 3,
+    "equal_event_mean_TP_per_scene": 759.1111111111112,
+    "events": 3,
+    "macro_recall": 0.201299356127109,
+    "policy": "static_coarse_change"
+  },
+  {
+    "budget": 32,
+    "defined_reference_positive_events": 3,
+    "equal_event_mean_TP_per_scene": 1047.75,
+    "events": 3,
+    "macro_recall": 0.33522052294653176,
+    "policy": "oracle_true_gain"
+  },
+  {
+    "budget": 64,
+    "defined_reference_positive_events": 3,
+    "equal_event_mean_TP_per_scene": 1047.9722222222222,
+    "events": 3,
+    "macro_recall": 0.33526900867657544,
+    "policy": "random_exact_expected_counts"
+  },
+  {
+    "budget": 64,
+    "defined_reference_positive_events": 3,
+    "equal_event_mean_TP_per_scene": 1047.9722222222222,
+    "events": 3,
+    "macro_recall": 0.33526900867657544,
+    "policy": "static_coarse_change"
+  },
+  {
+    "budget": 64,
+    "defined_reference_positive_events": 3,
+    "equal_event_mean_TP_per_scene": 1047.9722222222222,
+    "events": 3,
+    "macro_recall": 0.33526900867657544,
+    "policy": "oracle_true_gain"
+  }
+]

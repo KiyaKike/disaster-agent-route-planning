@@ -1,0 +1,142 @@
+{
+  "bins": [
+    {
+      "bin": 0,
+      "known_cells": 95,
+      "survey_mean_count": {
+        "blurred": 0.0002033243531744015,
+        "native": 0.001626594825395212
+      },
+      "upgrade": {
+        "0": {
+          "cells": 95,
+          "mean_new_within_cell": 0.0014270060902581351
+        },
+        "1": {
+          "cells": 0,
+          "mean_new_within_cell": 0.0
+        }
+      }
+    },
+    {
+      "bin": 1,
+      "known_cells": 94,
+      "survey_mean_count": {
+        "blurred": 0.010009239297813366,
+        "native": 0.021250384970742227
+      },
+      "upgrade": {
+        "0": {
+          "cells": 93,
+          "mean_new_within_cell": 0.01135625373560978
+        },
+        "1": {
+          "cells": 1,
+          "mean_new_within_cell": 0.0
+        }
+      }
+    },
+    {
+      "bin": 2,
+      "known_cells": 96,
+      "survey_mean_count": {
+        "blurred": 0.0002013693113169553,
+        "native": 0.0016109544905356424
+      },
+      "upgrade": {
+        "0": {
+          "cells": 96,
+          "mean_new_within_cell": 0.001413284877851807
+        },
+        "1": {
+          "cells": 0,
+          "mean_new_within_cell": 0.0
+        }
+      }
+    },
+    {
+      "bin": 3,
+      "known_cells": 97,
+      "survey_mean_count": {
+        "blurred": 0.00019945150835203192,
+        "native": 0.0587384692096734
+      },
+      "upgrade": {
+        "0": {
+          "cells": 97,
+          "mean_new_within_cell": 0.05854268216472941
+        },
+        "1": {
+          "cells": 0,
+          "mean_new_within_cell": 0.0
+        }
+      }
+    }
+  ],
+  "global_survey_mean_count": {
+    "blurred": 0.002617801047120419,
+    "native": 0.020942408376963352
+  },
+  "global_upgrade": {
+    "0": {
+      "cells": 381,
+      "mean": 0.01837270341207349
+    },
+    "1": {
+      "cells": 1,
+      "mean": 0.0
+    }
+  },
+  "limits": [
+    "Only same-cell prior discovery is removed from upgrade rewards; cross-cell duplicate discovery is not modeled.",
+    "No reliable quality estimator or new viewpoint: fixed synthetic modes.",
+    "Fit on development data only; six interface scenes cannot establish transfer or policy improvement."
+  ],
+  "paired_known_cells": 382,
+  "paired_sensor": {
+    "alpha_per_outcome": 0.5,
+    "counts": {
+      "0": {
+        "00": 374,
+        "01": 2,
+        "10": 0,
+        "11": 0
+      },
+      "1": {
+        "00": 1,
+        "01": 4,
+        "10": 0,
+        "11": 1
+      }
+    },
+    "outcome_order": "blurred,native",
+    "probabilities": {
+      "0": {
+        "00": 0.9907407407407407,
+        "01": 0.006613756613756613,
+        "10": 0.0013227513227513227,
+        "11": 0.0013227513227513227
+      },
+      "1": {
+        "00": 0.1875,
+        "01": 0.5625,
+        "10": 0.0625,
+        "11": 0.1875
+      }
+    }
+  },
+  "public_quantile_edges": [
+    0.07973856209150326,
+    0.10718954248366012,
+    0.14901960784313725
+  ],
+  "shrinkage_pseudo_cells": 8,
+  "source_hashes": {
+    "association": "7a493209b22b3452d2104944fea64302284947881bc3776e77ce1d0c7c584de8",
+    "fit_protocol": "913e2e9c37b6160baad91960efeeb4faf807c3f8e08b1e4b4ae9bacb95fa0b17",
+    "public_scores": "26be4691ec15c538da747c35d03ea3aceb9c8e00b6199a899e5f354b1ad159ca"
+  },
+  "source_scenes": 6,
+  "stage": "DEVELOPMENT_INTERFACE_FIT_NOT_VALIDATED",
+  "unknown_pairs_excluded": 2
+}

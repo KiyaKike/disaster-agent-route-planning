@@ -1,0 +1,617 @@
+{
+  "amendment_sha256": "02616502613c2f68a950cac46992da9c6e60157e7ff4f11a12a5d246e967bc6d",
+  "classes": [
+    "no-damage",
+    "minor-damage",
+    "major-damage",
+    "destroyed",
+    "un-classified"
+  ],
+  "contract_sha256": "452de54015d0c717819553487885007d8aabc82751499387d17b0ba2044919c0",
+  "existing_class_bridge_report_sha256": "ef6912bbfa436816887cea7682bff9d8c99b83302b324eae5ef0010547c12dcb",
+  "helper_sha256": {
+    "audit_hold_taco.py": "f348b944f4bd5331612e9fa4f47ef6463374953c3f9903daef173c5130aacf86",
+    "audit_xbd_membership.py": "1950f8b34c91392d716208dbacaa3b15acce4aa62499fb1eff76e2a66da015fd",
+    "materialize_hold_probes.py": "029a9574e159e0896d6ef88431bd71a87b59958f87df3dc71e9a1bfd7889fa5d",
+    "verify_taco_polygon_bridge.py": "11bf2156964fc1a536b2d05a21fa4a56c23bc904bd6bff6622e5ddbd501bed37"
+  },
+  "max_new_network_bytes": 536870912,
+  "original_uids_available": false,
+  "pre_labels_available": false,
+  "projected_columns": [
+    "ml:polygon_xy",
+    "ml:polygon_len",
+    "ml:damage",
+    "ml:height",
+    "ml:width"
+  ],
+  "runner_sha256": "c3f2182513fe78bcc383f953ae291eaf65c6c1cd2d9ffcd6c4a293967b289367",
+  "scope": "Development data/QA only. No validation/confirmation outcome summaries, inference or policy scoring.",
+  "selected": [
+    {
+      "event": "hurricane-harvey",
+      "interface_probe": true,
+      "sample_id": "hurricane-harvey_00000363",
+      "selection_hash": "0664cb2a31062289a4265385304da8cf301ef7211ad9da0c9a0817f2ee71cfb9",
+      "selection_rank": 1,
+      "split": "development"
+    },
+    {
+      "event": "hurricane-harvey",
+      "interface_probe": true,
+      "sample_id": "hurricane-harvey_00000074",
+      "selection_hash": "077e7feae34d53070f6ead667080c57842f55b06115707d3d8b72601a91c8833",
+      "selection_rank": 2,
+      "split": "development"
+    },
+    {
+      "event": "hurricane-harvey",
+      "interface_probe": false,
+      "sample_id": "hurricane-harvey_00000403",
+      "selection_hash": "0b8007c82663e95f9e1515d6643fa09670259aa0957b50a999e97048b862a36e",
+      "selection_rank": 3,
+      "split": "development"
+    },
+    {
+      "event": "hurricane-harvey",
+      "interface_probe": false,
+      "sample_id": "hurricane-harvey_00000121",
+      "selection_hash": "0e8449829a1875111c60a4a179d27efc9fbc43f43357f690ba27c5d2592d0516",
+      "selection_rank": 4,
+      "split": "development"
+    },
+    {
+      "event": "hurricane-harvey",
+      "interface_probe": false,
+      "sample_id": "hurricane-harvey_00000293",
+      "selection_hash": "107a5d4ed2fa3630a21d7c9203831185604055569dd3a1b62828fa964dd43c5e",
+      "selection_rank": 5,
+      "split": "development"
+    },
+    {
+      "event": "hurricane-harvey",
+      "interface_probe": false,
+      "sample_id": "hurricane-harvey_00000065",
+      "selection_hash": "12951ce62757502a20a15ad9482c78c2cde7391165eb9e2a178ed4daab1124ce",
+      "selection_rank": 6,
+      "split": "development"
+    },
+    {
+      "event": "hurricane-harvey",
+      "interface_probe": false,
+      "sample_id": "hurricane-harvey_00000343",
+      "selection_hash": "14a16f146bf563efb374551a5e70164ade57445fc53b7b169ccdcf29043e233c",
+      "selection_rank": 7,
+      "split": "development"
+    },
+    {
+      "event": "hurricane-harvey",
+      "interface_probe": false,
+      "sample_id": "hurricane-harvey_00000386",
+      "selection_hash": "1782365ff9c2b7586dabcec8b27e2035a26a8c42b35cc014e8ddfe264d2df264",
+      "selection_rank": 8,
+      "split": "development"
+    },
+    {
+      "event": "hurricane-harvey",
+      "interface_probe": false,
+      "sample_id": "hurricane-harvey_00000421",
+      "selection_hash": "17869038f451d7c1331ecb6d7052d2503b7daed60996e081229391256f31ce70",
+      "selection_rank": 9,
+      "split": "development"
+    },
+    {
+      "event": "hurricane-harvey",
+      "interface_probe": false,
+      "sample_id": "hurricane-harvey_00000219",
+      "selection_hash": "1915df95f58ee1f74534872dac471c476e2631cae8a5910d3e9e2874a5f2791b",
+      "selection_rank": 10,
+      "split": "development"
+    },
+    {
+      "event": "hurricane-harvey",
+      "interface_probe": false,
+      "sample_id": "hurricane-harvey_00000372",
+      "selection_hash": "225a6708ad9ddf7c3ced295a4d94dba8b88ac1317e3e35a2fd618a67c16cced4",
+      "selection_rank": 11,
+      "split": "development"
+    },
+    {
+      "event": "hurricane-harvey",
+      "interface_probe": false,
+      "sample_id": "hurricane-harvey_00000459",
+      "selection_hash": "23556445b10e4732e23bce92c73f4d2a0a1b12439b1905e86103a4181188166d",
+      "selection_rank": 12,
+      "split": "development"
+    },
+    {
+      "event": "hurricane-harvey",
+      "interface_probe": false,
+      "sample_id": "hurricane-harvey_00000193",
+      "selection_hash": "25af7dd6cc5dc6b6a5d1e7dd9e85ff520b37da9c4cfe158d6b5b27e99cc53d1f",
+      "selection_rank": 13,
+      "split": "development"
+    },
+    {
+      "event": "hurricane-harvey",
+      "interface_probe": false,
+      "sample_id": "hurricane-harvey_00000311",
+      "selection_hash": "2a09aaf758d6112734064ff4306f0aa9f1c23792f9d6222e8d54f0136f10c1b8",
+      "selection_rank": 14,
+      "split": "development"
+    },
+    {
+      "event": "hurricane-harvey",
+      "interface_probe": false,
+      "sample_id": "hurricane-harvey_00000404",
+      "selection_hash": "38947af9fa802ee81a78c246449e4d05487fe1b69f345253e212d6ed2ae7540f",
+      "selection_rank": 15,
+      "split": "development"
+    },
+    {
+      "event": "hurricane-harvey",
+      "interface_probe": false,
+      "sample_id": "hurricane-harvey_00000013",
+      "selection_hash": "3a18d86d85261a0992410dbe05e122ce56e0694c5084d1e3797b5b08ccae4a37",
+      "selection_rank": 16,
+      "split": "development"
+    },
+    {
+      "event": "hurricane-harvey",
+      "interface_probe": false,
+      "sample_id": "hurricane-harvey_00000279",
+      "selection_hash": "3d6f0ce892ef91e23709186fe3facefaaff45cfed7fef5a5914031a2f5b4d806",
+      "selection_rank": 17,
+      "split": "development"
+    },
+    {
+      "event": "hurricane-harvey",
+      "interface_probe": false,
+      "sample_id": "hurricane-harvey_00000487",
+      "selection_hash": "413ecb372c5b7e90c15324253686e21af660df40a553fe88bfaa9a0b37f2e0d5",
+      "selection_rank": 18,
+      "split": "development"
+    },
+    {
+      "event": "hurricane-harvey",
+      "interface_probe": false,
+      "sample_id": "hurricane-harvey_00000201",
+      "selection_hash": "45f5330e6403e226047fa9e62439331a7319582f0111b41be5dcd1027a1a8841",
+      "selection_rank": 19,
+      "split": "development"
+    },
+    {
+      "event": "hurricane-harvey",
+      "interface_probe": false,
+      "sample_id": "hurricane-harvey_00000014",
+      "selection_hash": "46931de646b8b46315e2947394a2cc19769b11f26f26e21dca93de36d3f98a5e",
+      "selection_rank": 20,
+      "split": "development"
+    },
+    {
+      "event": "hurricane-harvey",
+      "interface_probe": false,
+      "sample_id": "hurricane-harvey_00000125",
+      "selection_hash": "46ae8c88fe8da05ca28cad9860ab633e65eee2348b46bf2e142e3fbe4c419705",
+      "selection_rank": 21,
+      "split": "development"
+    },
+    {
+      "event": "hurricane-harvey",
+      "interface_probe": false,
+      "sample_id": "hurricane-harvey_00000334",
+      "selection_hash": "47b4ccbd23c18b8ac5b37b0b9f077ae1c8fa4a951b72d6bb1e105342e4ff66b5",
+      "selection_rank": 22,
+      "split": "development"
+    },
+    {
+      "event": "hurricane-harvey",
+      "interface_probe": false,
+      "sample_id": "hurricane-harvey_00000447",
+      "selection_hash": "480addce6283267b22677fbb4ff59c24048a1de1936eea792efe3f9e76db522a",
+      "selection_rank": 23,
+      "split": "development"
+    },
+    {
+      "event": "hurricane-harvey",
+      "interface_probe": false,
+      "sample_id": "hurricane-harvey_00000236",
+      "selection_hash": "4843cd227249bec25e19135082242912d24cca34cc48f2fc7d59baeb5634f0a3",
+      "selection_rank": 24,
+      "split": "development"
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "interface_probe": true,
+      "sample_id": "santa-rosa-wildfire_00000013",
+      "selection_hash": "02b08a426d39b952f1543fbfad078f6e863c3b94a8d109f4ace95c5ba2b88e5a",
+      "selection_rank": 1,
+      "split": "development"
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "interface_probe": true,
+      "sample_id": "santa-rosa-wildfire_00000266",
+      "selection_hash": "047e3e75912e1b44e63097785f33badf552f1951a9f4f3352bf979d95871211d",
+      "selection_rank": 2,
+      "split": "development"
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "interface_probe": false,
+      "sample_id": "santa-rosa-wildfire_00000278",
+      "selection_hash": "085d2e478f980b7c8044a130276a058280408be5070b8216a93e9e6594a492aa",
+      "selection_rank": 3,
+      "split": "development"
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "interface_probe": false,
+      "sample_id": "santa-rosa-wildfire_00000010",
+      "selection_hash": "0a7bbde2dd6646f8db300a7b4c08feaf1dcae356a7a5394817b36043c962741e",
+      "selection_rank": 4,
+      "split": "development"
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "interface_probe": false,
+      "sample_id": "santa-rosa-wildfire_00000029",
+      "selection_hash": "0b1cb4ffef61d337a12e2b57d8deca2c427e98cb7a8ccbc46c5d757be8054df3",
+      "selection_rank": 5,
+      "split": "development"
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "interface_probe": false,
+      "sample_id": "santa-rosa-wildfire_00000112",
+      "selection_hash": "1a24e38bec30763dce5141fe206cefae7448e87bf2645976b231faa987cab4c6",
+      "selection_rank": 6,
+      "split": "development"
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "interface_probe": false,
+      "sample_id": "santa-rosa-wildfire_00000255",
+      "selection_hash": "20b5281710ec2b6519a2eb75f7e292fdb1a544d5d5bce2ca0d166309ea457ba8",
+      "selection_rank": 7,
+      "split": "development"
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "interface_probe": false,
+      "sample_id": "santa-rosa-wildfire_00000342",
+      "selection_hash": "2749ffe75f83f85bb58880086e108c81652d764c9ff43e47c64affe23ccf97be",
+      "selection_rank": 8,
+      "split": "development"
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "interface_probe": false,
+      "sample_id": "santa-rosa-wildfire_00000263",
+      "selection_hash": "27e2c57054eb63324f8f3dfa7b9c205157a752a914b9a7452bf79fc2d1aa7689",
+      "selection_rank": 9,
+      "split": "development"
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "interface_probe": false,
+      "sample_id": "santa-rosa-wildfire_00000054",
+      "selection_hash": "29e0fa671a1956a5e5b0004df9946b2b9737b4b27e26901237d99868e9d34182",
+      "selection_rank": 10,
+      "split": "development"
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "interface_probe": false,
+      "sample_id": "santa-rosa-wildfire_00000122",
+      "selection_hash": "2a3a17d0a4102442a5520c461456d6e9c2ea3e6b182ee7b1dc01a09548cf31bf",
+      "selection_rank": 11,
+      "split": "development"
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "interface_probe": false,
+      "sample_id": "santa-rosa-wildfire_00000232",
+      "selection_hash": "2c298305eb84fb046acf3d9187a2ef701f5d5fe86eef6e22cbd2ba238b8efedc",
+      "selection_rank": 12,
+      "split": "development"
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "interface_probe": false,
+      "sample_id": "santa-rosa-wildfire_00000160",
+      "selection_hash": "3141da1ede1502af787157a632b9331f1d0bff4b4b2ce69b31c7cd1e08561144",
+      "selection_rank": 13,
+      "split": "development"
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "interface_probe": false,
+      "sample_id": "santa-rosa-wildfire_00000194",
+      "selection_hash": "31cf718d517cb1c8bd9e9dea3f5cdd6f012036d61163027408967f58f0892041",
+      "selection_rank": 14,
+      "split": "development"
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "interface_probe": false,
+      "sample_id": "santa-rosa-wildfire_00000108",
+      "selection_hash": "356b99a87368431a7dd6274a5ba8a1fdf3d4373395e24e862b40c735e71f20b5",
+      "selection_rank": 15,
+      "split": "development"
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "interface_probe": false,
+      "sample_id": "santa-rosa-wildfire_00000227",
+      "selection_hash": "3641034b5168f4a3b662617247970375c9dedea72b48c1058afccb5948ba8543",
+      "selection_rank": 16,
+      "split": "development"
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "interface_probe": false,
+      "sample_id": "santa-rosa-wildfire_00000062",
+      "selection_hash": "3a70af028875486d1346038f2b09ce92ae102b72035bb7408991da841ba1e93b",
+      "selection_rank": 17,
+      "split": "development"
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "interface_probe": false,
+      "sample_id": "santa-rosa-wildfire_00000126",
+      "selection_hash": "3dba3d4df019a267f2eda69ba12a6ea8966a413e17ddecbb419adcb958a5006b",
+      "selection_rank": 18,
+      "split": "development"
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "interface_probe": false,
+      "sample_id": "santa-rosa-wildfire_00000115",
+      "selection_hash": "41aa41698d3ed60cbd8530be9c918ef6722bbbf62eb8cf77212beb7e2b4783eb",
+      "selection_rank": 19,
+      "split": "development"
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "interface_probe": false,
+      "sample_id": "santa-rosa-wildfire_00000193",
+      "selection_hash": "4cee3569919348f189fe7829636375332694182c0d18269aa5c3d8db5f0a417b",
+      "selection_rank": 20,
+      "split": "development"
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "interface_probe": false,
+      "sample_id": "santa-rosa-wildfire_00000352",
+      "selection_hash": "4e8b4aba714f19527be4d3887924d1c5b685111966191eb006b1e127d863c4c4",
+      "selection_rank": 21,
+      "split": "development"
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "interface_probe": false,
+      "sample_id": "santa-rosa-wildfire_00000008",
+      "selection_hash": "4fbfcbf597ad9712c5c851fe1271593c7102b6e9982e9efec13dc513cfc0fa1b",
+      "selection_rank": 22,
+      "split": "development"
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "interface_probe": false,
+      "sample_id": "santa-rosa-wildfire_00000188",
+      "selection_hash": "54f5946b10e7cd6d01a10b0726ddc8e341c37791aaa0e060c76479d2609a89f4",
+      "selection_rank": 23,
+      "split": "development"
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "interface_probe": false,
+      "sample_id": "santa-rosa-wildfire_00000025",
+      "selection_hash": "5eb0b31dd3442cac725b659887d4f088cd587a9209e01428058baebadcfc1eba",
+      "selection_rank": 24,
+      "split": "development"
+    },
+    {
+      "event": "mexico-earthquake",
+      "interface_probe": true,
+      "sample_id": "mexico-earthquake_00000145",
+      "selection_hash": "003a1855036f902c0d60ddec523abbdbd0556beeaaf60bb3a2781a63abefc526",
+      "selection_rank": 1,
+      "split": "development"
+    },
+    {
+      "event": "mexico-earthquake",
+      "interface_probe": true,
+      "sample_id": "mexico-earthquake_00000054",
+      "selection_hash": "004179de0c067b67fe7fd460711e977cc11865e2b474d8feff5a5083d77933ed",
+      "selection_rank": 2,
+      "split": "development"
+    },
+    {
+      "event": "mexico-earthquake",
+      "interface_probe": false,
+      "sample_id": "mexico-earthquake_00000036",
+      "selection_hash": "0635c19dd03af0dce70984d090c50190696c9c41330fec1eef61e91da5044e67",
+      "selection_rank": 3,
+      "split": "development"
+    },
+    {
+      "event": "mexico-earthquake",
+      "interface_probe": false,
+      "sample_id": "mexico-earthquake_00000116",
+      "selection_hash": "18054f8368d5c265358451563c9f4a1130d500914fb7e727dc0abe7ae2b7ac1b",
+      "selection_rank": 4,
+      "split": "development"
+    },
+    {
+      "event": "mexico-earthquake",
+      "interface_probe": false,
+      "sample_id": "mexico-earthquake_00000130",
+      "selection_hash": "1f30bcbf75552f9c7556432539b21003288ec1b69aff6190a148118462dd0021",
+      "selection_rank": 5,
+      "split": "development"
+    },
+    {
+      "event": "mexico-earthquake",
+      "interface_probe": false,
+      "sample_id": "mexico-earthquake_00000175",
+      "selection_hash": "202ff389468fd6084140841e64a232f92cefd1cb6f0621edc949dcd89c49a47d",
+      "selection_rank": 6,
+      "split": "development"
+    },
+    {
+      "event": "mexico-earthquake",
+      "interface_probe": false,
+      "sample_id": "mexico-earthquake_00000134",
+      "selection_hash": "21c0c58ffcab1e71bc80db7881daa778e7147734863c7d6fa1cc68a011c33e12",
+      "selection_rank": 7,
+      "split": "development"
+    },
+    {
+      "event": "mexico-earthquake",
+      "interface_probe": false,
+      "sample_id": "mexico-earthquake_00000077",
+      "selection_hash": "2eb32cda582c9bbe91b6f65d838d73e2c074662e0a8da53cc9219facadefea8e",
+      "selection_rank": 8,
+      "split": "development"
+    },
+    {
+      "event": "mexico-earthquake",
+      "interface_probe": false,
+      "sample_id": "mexico-earthquake_00000056",
+      "selection_hash": "35d0a8f23fa27a58b719f9fd28cc5138680636ebe7f5b62ef36fe1c8fb279ee2",
+      "selection_rank": 9,
+      "split": "development"
+    },
+    {
+      "event": "mexico-earthquake",
+      "interface_probe": false,
+      "sample_id": "mexico-earthquake_00000071",
+      "selection_hash": "4670e3367e3084914597c87345b3f14d92b15adc28f6270991436df50cadc8c5",
+      "selection_rank": 10,
+      "split": "development"
+    },
+    {
+      "event": "mexico-earthquake",
+      "interface_probe": false,
+      "sample_id": "mexico-earthquake_00000162",
+      "selection_hash": "4f86e4372d72880a0aa9917b55d81209cfca16491defe8f827b33aea73ea02b8",
+      "selection_rank": 11,
+      "split": "development"
+    },
+    {
+      "event": "mexico-earthquake",
+      "interface_probe": false,
+      "sample_id": "mexico-earthquake_00000170",
+      "selection_hash": "50a6cb0b24930bdc5c2b186ffedf5aaf0aef154b46385859368b13b24182030b",
+      "selection_rank": 12,
+      "split": "development"
+    },
+    {
+      "event": "mexico-earthquake",
+      "interface_probe": false,
+      "sample_id": "mexico-earthquake_00000123",
+      "selection_hash": "56a0b15fec4faa7a1e0b0924ac17ee7cfa854ef498b4c464b32881a63f4a30c5",
+      "selection_rank": 13,
+      "split": "development"
+    },
+    {
+      "event": "mexico-earthquake",
+      "interface_probe": false,
+      "sample_id": "mexico-earthquake_00000060",
+      "selection_hash": "584b216b3fc30b85e3f718f050d5c546b96c3befc03ff51ca18f5515147f7b05",
+      "selection_rank": 14,
+      "split": "development"
+    },
+    {
+      "event": "mexico-earthquake",
+      "interface_probe": false,
+      "sample_id": "mexico-earthquake_00000014",
+      "selection_hash": "59290984d0dd428ca553b38b9f7be850c19ca9ff13e1da56d7ece5beac4f022d",
+      "selection_rank": 15,
+      "split": "development"
+    },
+    {
+      "event": "mexico-earthquake",
+      "interface_probe": false,
+      "sample_id": "mexico-earthquake_00000099",
+      "selection_hash": "62d10b2c9c9bdae617d0193df05bc36ec2f12ca281366df7a1c5f5f6fbbe7245",
+      "selection_rank": 16,
+      "split": "development"
+    },
+    {
+      "event": "mexico-earthquake",
+      "interface_probe": false,
+      "sample_id": "mexico-earthquake_00000137",
+      "selection_hash": "66a038acedc55232a8752fbb2d2275dcfcdb829381ebc4937a31b9b043471bea",
+      "selection_rank": 17,
+      "split": "development"
+    },
+    {
+      "event": "mexico-earthquake",
+      "interface_probe": false,
+      "sample_id": "mexico-earthquake_00000149",
+      "selection_hash": "7264ccc3b9c47d0ad2bd0e0d45ab12aa8fd090b53636a899a108940af4a83603",
+      "selection_rank": 18,
+      "split": "development"
+    },
+    {
+      "event": "mexico-earthquake",
+      "interface_probe": false,
+      "sample_id": "mexico-earthquake_00000081",
+      "selection_hash": "864c8c263263fa6e156a55994406740011795321ec710f1c639ab9fd1d351e43",
+      "selection_rank": 19,
+      "split": "development"
+    },
+    {
+      "event": "mexico-earthquake",
+      "interface_probe": false,
+      "sample_id": "mexico-earthquake_00000038",
+      "selection_hash": "8f9f891d82d5b35066691859bda20e1926e9a68aecc87af9ebe3ba95bb0f93e8",
+      "selection_rank": 20,
+      "split": "development"
+    },
+    {
+      "event": "mexico-earthquake",
+      "interface_probe": false,
+      "sample_id": "mexico-earthquake_00000045",
+      "selection_hash": "99f22d6066b2367311ee7bd72ec5b00d4f1f993c302e346cc7ba3dafc1061fdc",
+      "selection_rank": 21,
+      "split": "development"
+    },
+    {
+      "event": "mexico-earthquake",
+      "interface_probe": false,
+      "sample_id": "mexico-earthquake_00000133",
+      "selection_hash": "9b55fdcca8e77aa9187eef42b511f49ae89276bf9104e03692ca533a04b3a0a0",
+      "selection_rank": 22,
+      "split": "development"
+    },
+    {
+      "event": "mexico-earthquake",
+      "interface_probe": false,
+      "sample_id": "mexico-earthquake_00000147",
+      "selection_hash": "a648cb67ab3f82085017f43b521a6a4ee2fb7cbc0a04f6982785b122b7a81c53",
+      "selection_rank": 23,
+      "split": "development"
+    },
+    {
+      "event": "mexico-earthquake",
+      "interface_probe": false,
+      "sample_id": "mexico-earthquake_00000156",
+      "selection_hash": "a78edf0bdb296249f045743c842e349463bc650ce82a066b6aeb8058a9f5ff41",
+      "selection_rank": 24,
+      "split": "development"
+    }
+  ],
+  "source_revision": "44e219dc1d88c9d0903d6b478d7f2f3c435e574f",
+  "spatial_groups_sha256": "d8a2dc9fe8d4120ade4ccd07b6ea6411d6fda24a596f848d2823ddfba1ba654a",
+  "target_codes": [
+    2,
+    3
+  ],
+  "unknown_code": 4,
+  "version": "fixed_hold_development72_v1",
+  "zero_rgb_rule": "QA only; no input masking, filtering or new policy feature."
+}

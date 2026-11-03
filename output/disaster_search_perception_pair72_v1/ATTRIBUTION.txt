@@ -1,0 +1,4 @@
+Research diagnostic on existing xBD/TACO-derived development72 references. Original-source polygon labels retained; no new human annotations. See previous data manifest and bridge audit for derivation limits.
+ChangeOS: Zheng et al., Remote Sensing of Environment265(2021)112636. Official releasev0.2, ResNet34. Official sourcehttps://github.com/Z-Zheng/ChangeOS, commit7936b84aceb9c4b89e959690f3da28749b38d10c. Source wrapper and README retained with hashes.
+Swin checkpoint: https://huggingface.co/EVER-Z/torchange_example_changeos_swint_on_xview2_best42k, revision4007dd10c5eaee67161e2d4a45a43da3ead6c722. Torchange source190b07a2eb4c389a5dc3f72802c67f428cdfd6b7.
+No claim of independent training exposure, official mixedF1, new algorithm, or redistribution license.

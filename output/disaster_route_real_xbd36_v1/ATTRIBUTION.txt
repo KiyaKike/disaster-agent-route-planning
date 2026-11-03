@@ -1,0 +1,5 @@
+xBD: Gupta et al.,DIU / CMU SEI;imagery:Maxar Open Data.
+TACO repackaging:ISP,Universitat de Valencia,ELLIOT;fixed revision44e219dc1d88c9d0903d6b478d7f2f3c435e574f.
+Dataset and displayed image/mask derivatives:CC-BY-NC-SA-4.0.
+Source:https://arxiv.org/abs/1911.09296
+Source:https://huggingface.co/datasets/isp-uv-es/xview2-taco

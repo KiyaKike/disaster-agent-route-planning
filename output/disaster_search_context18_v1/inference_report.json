@@ -1,0 +1,13 @@
+{
+  "device": "mps",
+  "new_fitting": false,
+  "new_forward_calls_this_invocation": 20,
+  "observations_sha256": "f3ff5b12f10edf6bf8b74331bfe9001176d8c45cef6d449178a40e1ade36e5ff",
+  "paid_gpu": false,
+  "positive_control_calls": 2,
+  "reference_contents_read_by_prediction": false,
+  "status": "COMPLETE",
+  "whole_calls_this_invocation": 18,
+  "whole_loop_seconds_this_invocation": 6.338803292019293,
+  "whole_scenes": 18
+}

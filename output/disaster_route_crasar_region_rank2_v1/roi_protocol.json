@@ -1,0 +1,33 @@
+{
+  "selection": "128m square centered at mean geographic centroids of all shared buildings; no damage or image-score filtering",
+  "crs": "EPSG:32617",
+  "bounds": [
+    409968.8316348396,
+    2922769.563126834,
+    410096.8316348396,
+    2922897.563126834
+  ],
+  "size_m": 128,
+  "output_pixels": 1024,
+  "shared_buildings_all": 549,
+  "shared_building_centroids_inside": [
+    "06162f1f87754cc0b9de8f61c00911a5",
+    "0dc64e37785b4a468be551153e403ebe",
+    "24fd756ce06b4f75adbc71d39946b8ba",
+    "2d149172b55842cf825b003b2ced64f6",
+    "35dddce51c4a4a94906eb05e2c8afe21",
+    "456e6368a048451090081f0aebfc6c65",
+    "5105fc6ad12d4bb78f702993646e6da9",
+    "635289b3a1854c73b0c9685397e13e72",
+    "696be859b1fb46d7aec707f2a299b6c2",
+    "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "96caf68be1db41e58ba409062ca05cec",
+    "9c11b326de2a4e4aa731385dc2fb3baf",
+    "c922bd3fd3c84cb79b59d14884094081",
+    "d9396c94b4a747e0bc91d7cd234908eb",
+    "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "eeb2077a2d8a447a8020fd1dea437511"
+  ],
+  "public_image_access_unit": "4x4 disjoint 32m square image windows,not measured camera footprints",
+  "motion": "Subsequent distance can be georeferenced;flight/observation durations still unmeasured assumptions."
+}

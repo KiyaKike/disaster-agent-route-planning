@@ -1,0 +1,6 @@
+{
+  "shared_geometry_precompute_wall_seconds": 0.9405114169931039,
+  "subsets": 65536,
+  "planning_wall_time_charged": "All policies pay same assumed1second planning charge; actual wall time reported separately; flight timing remains a proxy",
+  "scope": "All controls and candidate plan from fixed prior. No adaptive information update or online-method gain claimed."
+}

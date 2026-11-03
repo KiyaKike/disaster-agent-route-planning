@@ -1,0 +1,12 @@
+{
+  "gpu_rented": false,
+  "loop_seconds": 129.78672295799993,
+  "new_perception_calls": 0,
+  "new_training": false,
+  "observations": 227037,
+  "planning_calls": 60611,
+  "routes": 6480,
+  "status": "COMPLETE",
+  "sum_measured_planner_wall_s": 44.400928880007996,
+  "worlds": 120
+}

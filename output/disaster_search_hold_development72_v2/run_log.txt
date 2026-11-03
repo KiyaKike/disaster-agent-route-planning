@@ -1,0 +1,13 @@
+{"stage": "DEVELOPMENT_RGB_DOWNLOAD", "images": 12, "total": 144, "network_bytes": 11365262}
+{"stage": "DEVELOPMENT_RGB_DOWNLOAD", "images": 24, "total": 144, "network_bytes": 29048775}
+{"stage": "DEVELOPMENT_RGB_DOWNLOAD", "images": 36, "total": 144, "network_bytes": 45663391}
+{"stage": "DEVELOPMENT_RGB_DOWNLOAD", "images": 48, "total": 144, "network_bytes": 61902856}
+{"stage": "DEVELOPMENT_RGB_DOWNLOAD", "images": 60, "total": 144, "network_bytes": 73586708}
+{"stage": "DEVELOPMENT_RGB_DOWNLOAD", "images": 72, "total": 144, "network_bytes": 92877892}
+{"stage": "DEVELOPMENT_RGB_DOWNLOAD", "images": 84, "total": 144, "network_bytes": 112916849}
+{"stage": "DEVELOPMENT_RGB_DOWNLOAD", "images": 96, "total": 144, "network_bytes": 130958086}
+{"stage": "DEVELOPMENT_RGB_DOWNLOAD", "images": 108, "total": 144, "network_bytes": 147401396}
+{"stage": "DEVELOPMENT_RGB_DOWNLOAD", "images": 120, "total": 144, "network_bytes": 168307983}
+{"stage": "DEVELOPMENT_RGB_DOWNLOAD", "images": 132, "total": 144, "network_bytes": 188265096}
+{"stage": "DEVELOPMENT_RGB_DOWNLOAD", "images": 144, "total": 144, "network_bytes": 209889175}
+{"stage": "DEVELOPMENT72_DATA_INTERFACE_PASSED", "pairs": 72, "buildings": 8959, "targets": 1216, "unknown": 76, "by_event": {"hurricane-harvey": {"scenes": 24, "buildings": 1751, "targets": 705, "unknown": 46, "target_bearing_scenes": 13, "training_envelope_overlap_scenes": 10}, "mexico-earthquake": {"scenes": 24, "buildings": 5416, "targets": 3, "unknown": 25, "target_bearing_scenes": 3, "training_envelope_overlap_scenes": 3}, "santa-rosa-wildfire": {"scenes": 24, "buildings": 1792, "targets": 508, "unknown": 5, "target_bearing_scenes": 18, "training_envelope_overlap_scenes": 7}}, "network_bytes_this_invocation": 209889175}

@@ -1,0 +1,9 @@
+{
+  "platform": "macOS-27.2-arm64-arm-64bit",
+  "machine": "arm64",
+  "python": "3.12.14",
+  "macos": "27.2",
+  "hw.memsize": "17179869184",
+  "hw.logicalcpu": "10",
+  "machdep.cpu.brand_string": "Apple M4"
+}

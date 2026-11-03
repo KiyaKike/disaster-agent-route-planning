@@ -1,0 +1,25 @@
+{
+  "device": "mps",
+  "new_forward_calls_this_run": 128,
+  "total_logged_forward_calls": 128,
+  "cache_files": 32,
+  "wall_seconds": 6.4536365829990245,
+  "strict_model_load": {
+    "checkpoint_keys": [
+      "epoch",
+      "network",
+      "optimizer"
+    ],
+    "epoch": 36,
+    "strict_state_dict": true,
+    "state_tensors": 236,
+    "parameters": 25728597,
+    "source_patches": [
+      "Remove config-class import; supply annotation-only CfgNode=object",
+      "Disable initialization-only ImageNet download; every tensor is strictly loaded from author checkpoint"
+    ],
+    "checkpoint_loader": "torch.load(weights_only=True,map_location=cpu); no optimizer restored"
+  },
+  "gpu_rental": false,
+  "training": false
+}

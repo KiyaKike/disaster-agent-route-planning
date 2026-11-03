@@ -1,0 +1,516 @@
+{
+  "buildings": 217,
+  "class_mapping_verified_on_old_objects": 64,
+  "confirmation_model_or_policy_scores_run": false,
+  "data_interface_passed": true,
+  "full_training_pool_pixel_duplicates_audited": false,
+  "geographic_overlap_audited": false,
+  "manifest_sha256": "46eeb5e2457e5ff556ac56ec50f82f4d5ba3b9a8d85299471c7d041dcbf2091e",
+  "mini72_pixel_duplicates": [],
+  "network_bytes_this_run": 85048,
+  "old_class_bridge": [
+    {
+      "all_equal": true,
+      "matched_grades": 40,
+      "sample_id": "hurricane-harvey_00000008"
+    },
+    {
+      "all_equal": true,
+      "matched_grades": 24,
+      "sample_id": "santa-rosa-wildfire_00000023"
+    }
+  ],
+  "only_selected_development_and_old_calibration_damage_retained": true,
+  "pairs": 6,
+  "read_receipts": [
+    {
+      "bytes": 30,
+      "cache_hit": true,
+      "offset": 0,
+      "sha256": "7b813800398698a075a15981028089b28f2563c70f5a82f581c36c86a347adac"
+    },
+    {
+      "bytes": 9,
+      "cache_hit": true,
+      "offset": 30,
+      "sha256": "c48de6429d7104358add5bccc1f19ececbb95f196ebfc944d4fd181d3e4f90e7"
+    },
+    {
+      "bytes": 128,
+      "cache_hit": true,
+      "offset": 51,
+      "sha256": "88016aa8b5788f31b3e1e890b20817acbdfce9f24fe00a9a7aeba2f7651a2247"
+    },
+    {
+      "bytes": 65536,
+      "cache_hit": true,
+      "offset": 32403120720,
+      "sha256": "6fb7eeef8a5df9d7db48c9d6007a230d80095e07de381daa202a74d01a18a79e"
+    },
+    {
+      "bytes": 65536,
+      "cache_hit": true,
+      "offset": 32403120720,
+      "sha256": "6fb7eeef8a5df9d7db48c9d6007a230d80095e07de381daa202a74d01a18a79e"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32295010963,
+      "sha256": "cffac99375a429b2336196222d1bdb141074a034c78304e81d5298a5101e9dff"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32296059539,
+      "sha256": "ab6e6307447f08e6ce56b241ae50b6a3097d0b3957db17128c9b1cb1ab4daaa7"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32297108115,
+      "sha256": "76670683bf739ad1b6b2e6e6eae057e37469de9cd7d7e11a2577e13bad920aec"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32298156691,
+      "sha256": "732aa6087d7c8af0d06c4a40bb48f6a25be1bff4b8d174bddbe44f8450426155"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32299205267,
+      "sha256": "5c9ffb77371f608ae512b0f326366107f8e58f7c5f4f469b704c501b9cb0327c"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32300253843,
+      "sha256": "6239e9d7590fce17e5f2973ef53ebdf9b66d7fad8f584a7e7d2bc6eccbc856b1"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32301302419,
+      "sha256": "33ddc85022ea8d37c804f1cdd9ebd67676cc5912af0150c05de80647d293739c"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32302350995,
+      "sha256": "dbf721f0d18b202b5a1c9522600193785e244efa30c1450ed2755331c8f4eecb"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32303399571,
+      "sha256": "2507f7ebb8ec2a274da36adb9fdab17e5169e8cc676d46fc4dd50ef713176bc5"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32304448147,
+      "sha256": "cad914b27ffc4e9dc668890c6491332a60e245adad912d25ffb2733134a49d23"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32305496723,
+      "sha256": "ba27ce42a09e9a1b722892f4111e5b9d7c036fa80b2906fa5cde93566d400c4c"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32306545299,
+      "sha256": "9bc66082edf742004d6611a53a98b6fed4c1ca87c2f679256c726385587fa455"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32307593875,
+      "sha256": "e16181d9dafb2cf99f26c2f9a950dbd93e0f88c44280081f0813bc27c8b3143e"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32308642451,
+      "sha256": "c28db01370b48a08504eeeb210404754341af9f6ce6c03fecfe82b900fdf17f2"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32309691027,
+      "sha256": "72cf6b8738c2adf675164ed2bda5cb44d6cbd886936aec416216951bba9f87e4"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32310739603,
+      "sha256": "891f84b3d655ccc14ac92bfc8c83056fa76411cfd41564045efed033f0d91814"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32311788179,
+      "sha256": "5b0bbb61d61b98ddea3999a1b4fb8e390299b7cde9e397604c766a4ba42a9922"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32312836755,
+      "sha256": "d5accd3d6f43de19e8beb149acd56cf75f1b3a8a189661da4cf56a0b572f5ac9"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32313885331,
+      "sha256": "266b45a7a286d570c42a6adac645e250f684a302e249a54eba88123b6c65bdb5"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32314933907,
+      "sha256": "7ca0451f22ebc1637195f8dfca97d263749c5c1a306e771f7cf492bb537cfeb2"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32315982483,
+      "sha256": "2e21860a2e4e3d1f1bc48ebc333f43240468ddda72793463f1f3fa4c087751af"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32317031059,
+      "sha256": "bf5f8abbe81a5dd8f2eedde107062145fe7599d3da727c0df92f02475b11f2ea"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32318079635,
+      "sha256": "53571aae2e7a6d324f74f9e98167ccc147bd5b01de023c3fd3ade26c5a68ee5d"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32319128211,
+      "sha256": "944e5871d08186a70ced689928849e20e42ae0cda65a321041d738a113df043e"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32320176787,
+      "sha256": "4c021b8a991d37ee931d59d1312b9e0d27252f8a02e7d922fb8b575a6d892911"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32321225363,
+      "sha256": "be7bd285a9b4a997e88af651fb6d241be68723ecd02a4250deedff981e655c0c"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32322273939,
+      "sha256": "8b46ec9e933a63badf7ff4bd3f81fac5a497eecac4ee3feae8c2af45818f6415"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32323322515,
+      "sha256": "6c7e429b201f72bfa24858b4f0d0a69bbd0451f34d6f7f0f48a71ed981f27800"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32324371091,
+      "sha256": "739c0b10fd2610aad79d39a5fbcd05a088c9be62c73285b2f8bd1a1971c14c09"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32325419667,
+      "sha256": "f16a34557e33a05df7e6d2bd4267c26daf27795a6c5d6af9f5ffa0183d946193"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32326468243,
+      "sha256": "af29a860ebe7782131fc89e7edacc16cd944ff114cbef8436c575b6e42a54d5c"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32327516819,
+      "sha256": "deee3b17a295f0ee23595f0354f91345353106b35aa7e7bd3e3a9502b2fa872b"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32328565395,
+      "sha256": "47fc11a86afeebc2b55e6b4c971f242aed8079d7505e7acf54ae3b6498c5ca67"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32329613971,
+      "sha256": "5e3397a39a78028d9fcbbdb11d68f50c131753186ea06c9036301b58bb32fd35"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32330662547,
+      "sha256": "850269ba96ac8abb8ce7e7853178ab16c11d384cf5f013d0b4b348fc2f538aa0"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32331711123,
+      "sha256": "d787fb04a48c027c482553cecdb289047ffef27d291a9bb4e99b5837c68abd10"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32332759699,
+      "sha256": "53829a68ca7cf7d08c29f3ebe97decb6bcb8403a98ea4748c280c6cf25c79252"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32333808275,
+      "sha256": "9f3af1e2c4b1cde6854b1190161ad0121bf225929e90424cd7db7a22f9bbd7dc"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32334856851,
+      "sha256": "29543999453bfdd820b7c4f3275757ee12c7d8e9e205f1026f0965cb86524491"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32335905427,
+      "sha256": "691eaff7a3f9993b8330c26e47de842c9001da2537c5c7efb88e7ab07596940f"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32336954003,
+      "sha256": "6eec9b9cb90339c86165c64f86079483b25a50f13196444b1017451e739bb992"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32338002579,
+      "sha256": "3069dfbbc4f7c7d74ac33ed13add92f4bdd9de6cf4e340750d4d3f4474fb1ff6"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32339051155,
+      "sha256": "a3967f2f3285461bd5fa3d36e783449e0bc44d97428ce14368b1157683106363"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32340099731,
+      "sha256": "381d675432e49adfdf26fc494cac9a6a779a46209efcd3f148bead04c9452797"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32341148307,
+      "sha256": "0e7d9c9050c99e34ff3b175cf32e5aabcc4c7907f8c6db96d0f164fbd82a1f56"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32342196883,
+      "sha256": "1be09b49eeb685db75e9bb1064852c56c0c37acaf7c562084e72ce5142817f54"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32343245459,
+      "sha256": "85b89adc82b2e419562eefb2c48fb781117e384bee5c62b1b0da63e727f31fc5"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32344294035,
+      "sha256": "13c08811b58813ffdc8ff611dae533cf05d48cc3caf00c3a4b9afaa9aff44ff1"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32345342611,
+      "sha256": "dd0cdac7e3cc9a74050519081a55d81dbbf7d9bee22b1813502ef4e3cc069637"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32346391187,
+      "sha256": "419a2dcc33739dae4b8f1d52ffcc149a8bdba3faef0b178cca0dce2fbd582237"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32347439763,
+      "sha256": "a5f227153ca2809262163f1f3a542a13a49e9f75f07754c10f62449d85aa2d09"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32348488339,
+      "sha256": "7a834f4be89f52435c16cbb6d501c0f4ffad231829fa8f47e9fe1e40ff9aa342"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32349536915,
+      "sha256": "ed82683f39d500b09eee2653de2990d00b6e21ede86bc0ab799c9ea6f7459b9c"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32350585491,
+      "sha256": "c23493b2af64aaffff3ad7a56606793a771ca65f0971b6949791ec9c3123f456"
+    },
+    {
+      "bytes": 263804,
+      "cache_hit": true,
+      "offset": 32351634067,
+      "sha256": "87b2f01b86458b01d51a6798bf15b1f24d3cdc575736a96926ae8ac464e2e35a"
+    },
+    {
+      "bytes": 366020,
+      "cache_hit": true,
+      "offset": 32351897871,
+      "sha256": "b30a85eeae162159ae4a44aeb95e09a9552e0e393c00a88211f742fd9bfc3e5a"
+    },
+    {
+      "bytes": 85048,
+      "offset": 32294925915,
+      "persisted": false,
+      "sha256": "1ca420b59ab9501153ffd842ab810d6bd22579aae114dfc0a93de5806911846c",
+      "transient_damage_payload": true
+    },
+    {
+      "bytes": 168,
+      "cache_hit": true,
+      "offset": 32294876954,
+      "sha256": "ef84954ed450cb1cf56a3c8739b5431a6e98d915bc638ef0fe0c40da827dcd51"
+    },
+    {
+      "bytes": 65536,
+      "cache_hit": true,
+      "offset": 32294734504,
+      "sha256": "a34e77a860700fa01b6182e3bc2c828abbd472edd1c0053ef6cb282c4b6f1374"
+    },
+    {
+      "bytes": 539724,
+      "cache_hit": true,
+      "offset": 32294258602,
+      "sha256": "1b0433dcc331e982204aba4f17919183c4137dced337d846cb3a9ef680022f6b"
+    }
+  ],
+  "runner_sha256": "029a9574e159e0896d6ef88431bd71a87b59958f87df3dc71e9a1bfd7889fa5d",
+  "samples": [
+    {
+      "buildings": 42,
+      "class_counts": {
+        "no-damage": 42
+      },
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "event": "hurricane-harvey",
+      "sample_id": "hurricane-harvey_00000363",
+      "targets": 0,
+      "unknown": 0
+    },
+    {
+      "buildings": 10,
+      "class_counts": {
+        "minor-damage": 10
+      },
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "event": "hurricane-harvey",
+      "sample_id": "hurricane-harvey_00000074",
+      "targets": 0,
+      "unknown": 0
+    },
+    {
+      "buildings": 6,
+      "class_counts": {
+        "no-damage": 6
+      },
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "event": "santa-rosa-wildfire",
+      "sample_id": "santa-rosa-wildfire_00000013",
+      "targets": 0,
+      "unknown": 0
+    },
+    {
+      "buildings": 7,
+      "class_counts": {
+        "destroyed": 7
+      },
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "event": "santa-rosa-wildfire",
+      "sample_id": "santa-rosa-wildfire_00000266",
+      "targets": 7,
+      "unknown": 0
+    },
+    {
+      "buildings": 43,
+      "class_counts": {
+        "major-damage": 1,
+        "no-damage": 38,
+        "un-classified": 4
+      },
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "event": "mexico-earthquake",
+      "sample_id": "mexico-earthquake_00000145",
+      "targets": 1,
+      "unknown": 4
+    },
+    {
+      "buildings": 109,
+      "class_counts": {
+        "no-damage": 109
+      },
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "event": "mexico-earthquake",
+      "sample_id": "mexico-earthquake_00000054",
+      "targets": 0,
+      "unknown": 0
+    }
+  ],
+  "sensor_or_policy_efficacy_validated": false,
+  "shared_confirmation_damage_payload_physically_read": true,
+  "shared_damage_payload_cached": false,
+  "stage": "SIX_DEVELOPMENT_PROBE_DATA_INTERFACE_CHECK",
+  "targets": 8,
+  "unknown": 4,
+  "unselected_damage_values_or_summaries_exposed": false,
+  "whole_216_cohort_admitted": false,
+  "within_probe_pixel_duplicates": []
+}

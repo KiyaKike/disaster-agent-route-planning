@@ -1,0 +1,82 @@
+[
+  {
+    "building_id": "09b622de73b8482bbce4841571984c32",
+    "eligible": false,
+    "labels": {
+      "pre": "no damage",
+      "post": "no damage",
+      "uas": "no damage"
+    },
+    "primary_target": false
+  },
+  {
+    "building_id": "12f35ab99a0a4a8280ca89f65e53a3d6",
+    "eligible": true,
+    "labels": {
+      "pre": "un-classified",
+      "post": "no damage",
+      "uas": "major damage"
+    },
+    "primary_target": true
+  },
+  {
+    "building_id": "1fac34ecef1443f6b6e741444410ff64",
+    "eligible": false,
+    "labels": {
+      "pre": "no damage",
+      "post": "minor damage",
+      "uas": "minor damage"
+    },
+    "primary_target": false
+  },
+  {
+    "building_id": "661d111f5df744fb9d9c2dbaa285cfcc",
+    "eligible": true,
+    "labels": {
+      "pre": "no damage",
+      "post": "un-classified",
+      "uas": "un-classified"
+    },
+    "primary_target": false
+  },
+  {
+    "building_id": "b4a53a6955b345d29e60b8bafde493ca",
+    "eligible": true,
+    "labels": {
+      "pre": "no damage",
+      "post": "no damage",
+      "uas": "no damage"
+    },
+    "primary_target": false
+  },
+  {
+    "building_id": "bdefc9615220408892b1ce1a85d9a4bb",
+    "eligible": true,
+    "labels": {
+      "pre": "no damage",
+      "post": "un-classified",
+      "uas": "un-classified"
+    },
+    "primary_target": false
+  },
+  {
+    "building_id": "f06d1fe54902471093a95f711c0e0611",
+    "eligible": true,
+    "labels": {
+      "pre": "no damage",
+      "post": "no damage",
+      "uas": "no damage"
+    },
+    "primary_target": false
+  },
+  {
+    "building_id": "fea8cc3548eb40818e499eb3589b70fd",
+    "eligible": true,
+    "labels": {
+      "pre": "no damage",
+      "post": "minor damage",
+      "uas": "no damage"
+    },
+    "primary_target": false
+  }
+]

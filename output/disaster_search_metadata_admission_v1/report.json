@@ -1,0 +1,1634 @@
+{
+  "allowed_ranges": [
+    {
+      "bytes": 84,
+      "field": "ml:height",
+      "offset": 32294876954
+    },
+    {
+      "bytes": 84,
+      "field": "ml:width",
+      "offset": 32294877038
+    },
+    {
+      "bytes": 56886908,
+      "field": "ml:polygon_xy",
+      "offset": 32295010963
+    },
+    {
+      "bytes": 366020,
+      "field": "ml:polygon_len",
+      "offset": 32351897871
+    },
+    {
+      "bytes": 50414576,
+      "field": "ml:polygon_lnglat",
+      "offset": 32352263891
+    },
+    {
+      "bytes": 366020,
+      "field": "ml:polygon_lnglat_len",
+      "offset": 32402678467
+    },
+    {
+      "bytes": 30,
+      "cache_hit": true,
+      "offset": 0,
+      "sha256": "7b813800398698a075a15981028089b28f2563c70f5a82f581c36c86a347adac"
+    },
+    {
+      "bytes": 9,
+      "cache_hit": true,
+      "offset": 30,
+      "sha256": "c48de6429d7104358add5bccc1f19ececbb95f196ebfc944d4fd181d3e4f90e7"
+    },
+    {
+      "bytes": 128,
+      "cache_hit": true,
+      "offset": 51,
+      "sha256": "88016aa8b5788f31b3e1e890b20817acbdfce9f24fe00a9a7aeba2f7651a2247"
+    },
+    {
+      "bytes": 65536,
+      "cache_hit": true,
+      "offset": 32403120720,
+      "sha256": "6fb7eeef8a5df9d7db48c9d6007a230d80095e07de381daa202a74d01a18a79e"
+    }
+  ],
+  "by_split_and_event": [
+    {
+      "candidates": 24,
+      "event": "hurricane-florence",
+      "independently_admitted_scenes": 0,
+      "inferred_selection_test_overlap_flags": 3,
+      "inferred_training_overlap_flags": 10,
+      "new_inferred_training_flags_beyond_old_envelopes": 7,
+      "original_training_building_envelope_flags": 5,
+      "padded_inferred_training_overlap_flags": 15,
+      "split": "confirmation",
+      "unknown_inferred_ranges": 8,
+      "usable_inferred_ranges": 16
+    },
+    {
+      "candidates": 24,
+      "event": "hurricane-matthew",
+      "independently_admitted_scenes": 0,
+      "inferred_selection_test_overlap_flags": 6,
+      "inferred_training_overlap_flags": 18,
+      "new_inferred_training_flags_beyond_old_envelopes": 12,
+      "original_training_building_envelope_flags": 8,
+      "padded_inferred_training_overlap_flags": 20,
+      "split": "confirmation",
+      "unknown_inferred_ranges": 3,
+      "usable_inferred_ranges": 21
+    },
+    {
+      "candidates": 24,
+      "event": "palu-tsunami",
+      "independently_admitted_scenes": 0,
+      "inferred_selection_test_overlap_flags": 0,
+      "inferred_training_overlap_flags": 0,
+      "new_inferred_training_flags_beyond_old_envelopes": 0,
+      "original_training_building_envelope_flags": 0,
+      "padded_inferred_training_overlap_flags": 15,
+      "split": "confirmation",
+      "unknown_inferred_ranges": 6,
+      "usable_inferred_ranges": 18
+    },
+    {
+      "candidates": 24,
+      "event": "hurricane-harvey",
+      "independently_admitted_scenes": 0,
+      "inferred_selection_test_overlap_flags": 8,
+      "inferred_training_overlap_flags": 9,
+      "new_inferred_training_flags_beyond_old_envelopes": 2,
+      "original_training_building_envelope_flags": 10,
+      "padded_inferred_training_overlap_flags": 13,
+      "split": "development",
+      "unknown_inferred_ranges": 5,
+      "usable_inferred_ranges": 19
+    },
+    {
+      "candidates": 24,
+      "event": "mexico-earthquake",
+      "independently_admitted_scenes": 0,
+      "inferred_selection_test_overlap_flags": 4,
+      "inferred_training_overlap_flags": 8,
+      "new_inferred_training_flags_beyond_old_envelopes": 6,
+      "original_training_building_envelope_flags": 3,
+      "padded_inferred_training_overlap_flags": 18,
+      "split": "development",
+      "unknown_inferred_ranges": 2,
+      "usable_inferred_ranges": 22
+    },
+    {
+      "candidates": 24,
+      "event": "santa-rosa-wildfire",
+      "independently_admitted_scenes": 0,
+      "inferred_selection_test_overlap_flags": 7,
+      "inferred_training_overlap_flags": 16,
+      "new_inferred_training_flags_beyond_old_envelopes": 10,
+      "original_training_building_envelope_flags": 7,
+      "padded_inferred_training_overlap_flags": 18,
+      "split": "development",
+      "unknown_inferred_ranges": 2,
+      "usable_inferred_ranges": 22
+    },
+    {
+      "candidates": 24,
+      "event": "hurricane-michael",
+      "independently_admitted_scenes": 0,
+      "inferred_selection_test_overlap_flags": 5,
+      "inferred_training_overlap_flags": 16,
+      "new_inferred_training_flags_beyond_old_envelopes": 2,
+      "original_training_building_envelope_flags": 16,
+      "padded_inferred_training_overlap_flags": 20,
+      "split": "validation",
+      "unknown_inferred_ranges": 2,
+      "usable_inferred_ranges": 22
+    },
+    {
+      "candidates": 24,
+      "event": "midwest-flooding",
+      "independently_admitted_scenes": 0,
+      "inferred_selection_test_overlap_flags": 1,
+      "inferred_training_overlap_flags": 3,
+      "new_inferred_training_flags_beyond_old_envelopes": 2,
+      "original_training_building_envelope_flags": 2,
+      "padded_inferred_training_overlap_flags": 8,
+      "split": "validation",
+      "unknown_inferred_ranges": 11,
+      "usable_inferred_ranges": 13
+    },
+    {
+      "candidates": 24,
+      "event": "socal-fire",
+      "independently_admitted_scenes": 0,
+      "inferred_selection_test_overlap_flags": 3,
+      "inferred_training_overlap_flags": 4,
+      "new_inferred_training_flags_beyond_old_envelopes": 0,
+      "original_training_building_envelope_flags": 11,
+      "padded_inferred_training_overlap_flags": 5,
+      "split": "validation",
+      "unknown_inferred_ranges": 18,
+      "usable_inferred_ranges": 6
+    }
+  ],
+  "candidate_membership_changed": false,
+  "candidate_scenes": 216,
+  "candidate_unknown_inferred_ranges": 57,
+  "candidate_usable_inferred_ranges": 159,
+  "existing_development_event_diversity": [
+    {
+      "event": "hurricane-harvey",
+      "known_native_cache_detectable": true,
+      "scenes": 24,
+      "target_bearing_scenes": 13
+    },
+    {
+      "event": "mexico-earthquake",
+      "known_native_cache_detectable": false,
+      "scenes": 24,
+      "target_bearing_scenes": 3
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "known_native_cache_detectable": true,
+      "scenes": 24,
+      "target_bearing_scenes": 18
+    }
+  ],
+  "full_training_pixel_hashes_verified": false,
+  "geometric_model_attempts": 7326,
+  "geometric_transform_fits_only": true,
+  "geometry_status_counts": {
+    "INFERRED_AFFINE_RANGE_ONLY": 4339,
+    "INSUFFICIENT_GEOMETRY": 482,
+    "INSUFFICIENT_IMAGE_COVERAGE": 1789,
+    "MISSING_GEOMETRY": 716
+  },
+  "gpu_rented": false,
+  "identity_exposure": {
+    "actual_per_optimizer_step_training_manifest_available": false,
+    "candidate_events_seen_in_published_training_pool": [
+      "hurricane-florence",
+      "hurricane-harvey",
+      "hurricane-matthew",
+      "hurricane-michael",
+      "mexico-earthquake",
+      "midwest-flooding",
+      "palu-tsunami",
+      "santa-rosa-wildfire",
+      "socal-fire"
+    ],
+    "candidate_training_or_selection_ID_intersections": 0,
+    "checkpoint_selection_test": 933,
+    "extra_taco_tier3_not_in_author_training_inventory": 2991,
+    "model_card_recipe_verified_against_author_inventory": true,
+    "model_files_sha256_verified": true,
+    "published_author_tier3": 3378,
+    "published_author_train": 2799,
+    "published_recipe_training_total": 6177,
+    "taco_tier3_total": 6369
+  },
+  "image_bytes_read": 0,
+  "inferred_candidate_components": [
+    [
+      "hurricane-florence_00000017"
+    ],
+    [
+      "hurricane-florence_00000074"
+    ],
+    [
+      "hurricane-florence_00000098"
+    ],
+    [
+      "hurricane-florence_00000130"
+    ],
+    [
+      "hurricane-florence_00000134"
+    ],
+    [
+      "hurricane-florence_00000170"
+    ],
+    [
+      "hurricane-florence_00000207"
+    ],
+    [
+      "hurricane-florence_00000214"
+    ],
+    [
+      "hurricane-florence_00000243"
+    ],
+    [
+      "hurricane-florence_00000258"
+    ],
+    [
+      "hurricane-florence_00000280"
+    ],
+    [
+      "hurricane-florence_00000281"
+    ],
+    [
+      "hurricane-florence_00000305"
+    ],
+    [
+      "hurricane-florence_00000327"
+    ],
+    [
+      "hurricane-florence_00000354"
+    ],
+    [
+      "hurricane-florence_00000367"
+    ],
+    [
+      "hurricane-florence_00000383"
+    ],
+    [
+      "hurricane-florence_00000413"
+    ],
+    [
+      "hurricane-florence_00000439"
+    ],
+    [
+      "hurricane-florence_00000447"
+    ],
+    [
+      "hurricane-florence_00000458"
+    ],
+    [
+      "hurricane-florence_00000463"
+    ],
+    [
+      "hurricane-florence_00000487"
+    ],
+    [
+      "hurricane-florence_00000489"
+    ],
+    [
+      "hurricane-harvey_00000013"
+    ],
+    [
+      "hurricane-harvey_00000014"
+    ],
+    [
+      "hurricane-harvey_00000065"
+    ],
+    [
+      "hurricane-harvey_00000074"
+    ],
+    [
+      "hurricane-harvey_00000121"
+    ],
+    [
+      "hurricane-harvey_00000125"
+    ],
+    [
+      "hurricane-harvey_00000193"
+    ],
+    [
+      "hurricane-harvey_00000201"
+    ],
+    [
+      "hurricane-harvey_00000219"
+    ],
+    [
+      "hurricane-harvey_00000236"
+    ],
+    [
+      "hurricane-harvey_00000279"
+    ],
+    [
+      "hurricane-harvey_00000293"
+    ],
+    [
+      "hurricane-harvey_00000311"
+    ],
+    [
+      "hurricane-harvey_00000334"
+    ],
+    [
+      "hurricane-harvey_00000343"
+    ],
+    [
+      "hurricane-harvey_00000363"
+    ],
+    [
+      "hurricane-harvey_00000372"
+    ],
+    [
+      "hurricane-harvey_00000386"
+    ],
+    [
+      "hurricane-harvey_00000403"
+    ],
+    [
+      "hurricane-harvey_00000404"
+    ],
+    [
+      "hurricane-harvey_00000421"
+    ],
+    [
+      "hurricane-harvey_00000447"
+    ],
+    [
+      "hurricane-harvey_00000459"
+    ],
+    [
+      "hurricane-harvey_00000487"
+    ],
+    [
+      "hurricane-matthew_00000020"
+    ],
+    [
+      "hurricane-matthew_00000036"
+    ],
+    [
+      "hurricane-matthew_00000055"
+    ],
+    [
+      "hurricane-matthew_00000061"
+    ],
+    [
+      "hurricane-matthew_00000068",
+      "hurricane-matthew_00000073"
+    ],
+    [
+      "hurricane-matthew_00000087"
+    ],
+    [
+      "hurricane-matthew_00000091"
+    ],
+    [
+      "hurricane-matthew_00000106"
+    ],
+    [
+      "hurricane-matthew_00000141"
+    ],
+    [
+      "hurricane-matthew_00000157"
+    ],
+    [
+      "hurricane-matthew_00000191"
+    ],
+    [
+      "hurricane-matthew_00000201"
+    ],
+    [
+      "hurricane-matthew_00000203"
+    ],
+    [
+      "hurricane-matthew_00000220"
+    ],
+    [
+      "hurricane-matthew_00000224"
+    ],
+    [
+      "hurricane-matthew_00000254"
+    ],
+    [
+      "hurricane-matthew_00000255"
+    ],
+    [
+      "hurricane-matthew_00000280"
+    ],
+    [
+      "hurricane-matthew_00000292"
+    ],
+    [
+      "hurricane-matthew_00000323"
+    ],
+    [
+      "hurricane-matthew_00000344"
+    ],
+    [
+      "hurricane-matthew_00000351"
+    ],
+    [
+      "hurricane-matthew_00000371"
+    ],
+    [
+      "hurricane-michael_00000023"
+    ],
+    [
+      "hurricane-michael_00000055"
+    ],
+    [
+      "hurricane-michael_00000108"
+    ],
+    [
+      "hurricane-michael_00000115"
+    ],
+    [
+      "hurricane-michael_00000117"
+    ],
+    [
+      "hurricane-michael_00000132"
+    ],
+    [
+      "hurricane-michael_00000160"
+    ],
+    [
+      "hurricane-michael_00000164"
+    ],
+    [
+      "hurricane-michael_00000213"
+    ],
+    [
+      "hurricane-michael_00000221"
+    ],
+    [
+      "hurricane-michael_00000227"
+    ],
+    [
+      "hurricane-michael_00000245"
+    ],
+    [
+      "hurricane-michael_00000259"
+    ],
+    [
+      "hurricane-michael_00000279"
+    ],
+    [
+      "hurricane-michael_00000280"
+    ],
+    [
+      "hurricane-michael_00000425"
+    ],
+    [
+      "hurricane-michael_00000445"
+    ],
+    [
+      "hurricane-michael_00000448"
+    ],
+    [
+      "hurricane-michael_00000469"
+    ],
+    [
+      "hurricane-michael_00000488"
+    ],
+    [
+      "hurricane-michael_00000491"
+    ],
+    [
+      "hurricane-michael_00000495"
+    ],
+    [
+      "hurricane-michael_00000506"
+    ],
+    [
+      "hurricane-michael_00000513"
+    ],
+    [
+      "mexico-earthquake_00000014"
+    ],
+    [
+      "mexico-earthquake_00000036"
+    ],
+    [
+      "mexico-earthquake_00000038"
+    ],
+    [
+      "mexico-earthquake_00000045"
+    ],
+    [
+      "mexico-earthquake_00000054"
+    ],
+    [
+      "mexico-earthquake_00000056"
+    ],
+    [
+      "mexico-earthquake_00000060"
+    ],
+    [
+      "mexico-earthquake_00000071"
+    ],
+    [
+      "mexico-earthquake_00000077"
+    ],
+    [
+      "mexico-earthquake_00000081"
+    ],
+    [
+      "mexico-earthquake_00000099"
+    ],
+    [
+      "mexico-earthquake_00000116"
+    ],
+    [
+      "mexico-earthquake_00000123"
+    ],
+    [
+      "mexico-earthquake_00000130"
+    ],
+    [
+      "mexico-earthquake_00000133"
+    ],
+    [
+      "mexico-earthquake_00000134"
+    ],
+    [
+      "mexico-earthquake_00000137"
+    ],
+    [
+      "mexico-earthquake_00000145"
+    ],
+    [
+      "mexico-earthquake_00000147",
+      "mexico-earthquake_00000149"
+    ],
+    [
+      "mexico-earthquake_00000156"
+    ],
+    [
+      "mexico-earthquake_00000162"
+    ],
+    [
+      "mexico-earthquake_00000170"
+    ],
+    [
+      "mexico-earthquake_00000175"
+    ],
+    [
+      "midwest-flooding_00000009"
+    ],
+    [
+      "midwest-flooding_00000046"
+    ],
+    [
+      "midwest-flooding_00000053"
+    ],
+    [
+      "midwest-flooding_00000091"
+    ],
+    [
+      "midwest-flooding_00000094"
+    ],
+    [
+      "midwest-flooding_00000101"
+    ],
+    [
+      "midwest-flooding_00000111"
+    ],
+    [
+      "midwest-flooding_00000118"
+    ],
+    [
+      "midwest-flooding_00000136"
+    ],
+    [
+      "midwest-flooding_00000138"
+    ],
+    [
+      "midwest-flooding_00000147"
+    ],
+    [
+      "midwest-flooding_00000189"
+    ],
+    [
+      "midwest-flooding_00000266"
+    ],
+    [
+      "midwest-flooding_00000294"
+    ],
+    [
+      "midwest-flooding_00000305"
+    ],
+    [
+      "midwest-flooding_00000306"
+    ],
+    [
+      "midwest-flooding_00000307"
+    ],
+    [
+      "midwest-flooding_00000341"
+    ],
+    [
+      "midwest-flooding_00000349"
+    ],
+    [
+      "midwest-flooding_00000364"
+    ],
+    [
+      "midwest-flooding_00000375"
+    ],
+    [
+      "midwest-flooding_00000384"
+    ],
+    [
+      "midwest-flooding_00000425"
+    ],
+    [
+      "midwest-flooding_00000443"
+    ],
+    [
+      "palu-tsunami_00000018"
+    ],
+    [
+      "palu-tsunami_00000029"
+    ],
+    [
+      "palu-tsunami_00000046"
+    ],
+    [
+      "palu-tsunami_00000052"
+    ],
+    [
+      "palu-tsunami_00000055"
+    ],
+    [
+      "palu-tsunami_00000059"
+    ],
+    [
+      "palu-tsunami_00000075"
+    ],
+    [
+      "palu-tsunami_00000078"
+    ],
+    [
+      "palu-tsunami_00000080"
+    ],
+    [
+      "palu-tsunami_00000085"
+    ],
+    [
+      "palu-tsunami_00000093"
+    ],
+    [
+      "palu-tsunami_00000095"
+    ],
+    [
+      "palu-tsunami_00000104"
+    ],
+    [
+      "palu-tsunami_00000105"
+    ],
+    [
+      "palu-tsunami_00000116"
+    ],
+    [
+      "palu-tsunami_00000130"
+    ],
+    [
+      "palu-tsunami_00000144"
+    ],
+    [
+      "palu-tsunami_00000149"
+    ],
+    [
+      "palu-tsunami_00000159"
+    ],
+    [
+      "palu-tsunami_00000162"
+    ],
+    [
+      "palu-tsunami_00000172"
+    ],
+    [
+      "palu-tsunami_00000176"
+    ],
+    [
+      "palu-tsunami_00000180"
+    ],
+    [
+      "palu-tsunami_00000186"
+    ],
+    [
+      "santa-rosa-wildfire_00000008",
+      "santa-rosa-wildfire_00000013"
+    ],
+    [
+      "santa-rosa-wildfire_00000010"
+    ],
+    [
+      "santa-rosa-wildfire_00000025"
+    ],
+    [
+      "santa-rosa-wildfire_00000029"
+    ],
+    [
+      "santa-rosa-wildfire_00000054"
+    ],
+    [
+      "santa-rosa-wildfire_00000062"
+    ],
+    [
+      "santa-rosa-wildfire_00000108"
+    ],
+    [
+      "santa-rosa-wildfire_00000112"
+    ],
+    [
+      "santa-rosa-wildfire_00000115"
+    ],
+    [
+      "santa-rosa-wildfire_00000122"
+    ],
+    [
+      "santa-rosa-wildfire_00000126"
+    ],
+    [
+      "santa-rosa-wildfire_00000160"
+    ],
+    [
+      "santa-rosa-wildfire_00000188"
+    ],
+    [
+      "santa-rosa-wildfire_00000193"
+    ],
+    [
+      "santa-rosa-wildfire_00000194"
+    ],
+    [
+      "santa-rosa-wildfire_00000227"
+    ],
+    [
+      "santa-rosa-wildfire_00000232"
+    ],
+    [
+      "santa-rosa-wildfire_00000255"
+    ],
+    [
+      "santa-rosa-wildfire_00000263"
+    ],
+    [
+      "santa-rosa-wildfire_00000266"
+    ],
+    [
+      "santa-rosa-wildfire_00000278"
+    ],
+    [
+      "santa-rosa-wildfire_00000342"
+    ],
+    [
+      "santa-rosa-wildfire_00000352"
+    ],
+    [
+      "socal-fire_00000034"
+    ],
+    [
+      "socal-fire_00000047"
+    ],
+    [
+      "socal-fire_00000100"
+    ],
+    [
+      "socal-fire_00000120"
+    ],
+    [
+      "socal-fire_00000134"
+    ],
+    [
+      "socal-fire_00000155"
+    ],
+    [
+      "socal-fire_00000159"
+    ],
+    [
+      "socal-fire_00000165"
+    ],
+    [
+      "socal-fire_00000210"
+    ],
+    [
+      "socal-fire_00000406"
+    ],
+    [
+      "socal-fire_00000453"
+    ],
+    [
+      "socal-fire_00000561"
+    ],
+    [
+      "socal-fire_00000595"
+    ],
+    [
+      "socal-fire_00000836"
+    ],
+    [
+      "socal-fire_00000869"
+    ],
+    [
+      "socal-fire_00000870"
+    ],
+    [
+      "socal-fire_00000872"
+    ],
+    [
+      "socal-fire_00000948"
+    ],
+    [
+      "socal-fire_00001097"
+    ],
+    [
+      "socal-fire_00001173"
+    ],
+    [
+      "socal-fire_00001212"
+    ],
+    [
+      "socal-fire_00001217"
+    ],
+    [
+      "socal-fire_00001332"
+    ],
+    [
+      "socal-fire_00001336"
+    ]
+  ],
+  "inferred_candidate_overlap_pairs": [
+    {
+      "fraction_of_smaller_inferred_post_range": 1.5942797392291879e-06,
+      "sample_a": "santa-rosa-wildfire_00000013",
+      "sample_b": "santa-rosa-wildfire_00000008",
+      "split_a": "development",
+      "split_b": "development"
+    },
+    {
+      "fraction_of_smaller_inferred_post_range": 6.982858128253059e-06,
+      "sample_a": "mexico-earthquake_00000149",
+      "sample_b": "mexico-earthquake_00000147",
+      "split_a": "development",
+      "split_b": "development"
+    },
+    {
+      "fraction_of_smaller_inferred_post_range": 3.3228577922671315e-06,
+      "sample_a": "hurricane-matthew_00000073",
+      "sample_b": "hurricane-matthew_00000068",
+      "split_a": "confirmation",
+      "split_b": "confirmation"
+    }
+  ],
+  "inferred_cross_policy_split_overlaps": [],
+  "license_declarations": {
+    "original_publisher_terms_reverified_this_run": false,
+    "pinned_model_manifest_license_declaration": "apache-2.0; xBD input data terms still apply",
+    "pinned_taco_collection_licenses": [
+      "CC-BY-NC-SA-4.0"
+    ],
+    "redistribution_clearance_established": false
+  },
+  "metadata_compute_s": 3.2985236670065206,
+  "network_bytes_received": 0,
+  "new_damage_column_reads": 0,
+  "new_detector_or_policy_fit": false,
+  "new_inference_calls": 0,
+  "no_protected_payload_intersections": true,
+  "official_full_image_footprints_verified": false,
+  "protected_ranges": [
+    {
+      "bytes": 13289,
+      "field": "ml:n_buildings",
+      "offset": 32294899337
+    },
+    {
+      "bytes": 13289,
+      "field": "ml:n_buildings_pre",
+      "offset": 32294912626
+    },
+    {
+      "bytes": 85048,
+      "field": "ml:damage",
+      "offset": 32294925915
+    }
+  ],
+  "range_receipts": [
+    {
+      "bytes": 30,
+      "cache_hit": true,
+      "offset": 0,
+      "sha256": "7b813800398698a075a15981028089b28f2563c70f5a82f581c36c86a347adac"
+    },
+    {
+      "bytes": 9,
+      "cache_hit": true,
+      "offset": 30,
+      "sha256": "c48de6429d7104358add5bccc1f19ececbb95f196ebfc944d4fd181d3e4f90e7"
+    },
+    {
+      "bytes": 128,
+      "cache_hit": true,
+      "offset": 51,
+      "sha256": "88016aa8b5788f31b3e1e890b20817acbdfce9f24fe00a9a7aeba2f7651a2247"
+    },
+    {
+      "bytes": 65536,
+      "cache_hit": true,
+      "offset": 32403120720,
+      "sha256": "6fb7eeef8a5df9d7db48c9d6007a230d80095e07de381daa202a74d01a18a79e"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32295010963,
+      "sha256": "cffac99375a429b2336196222d1bdb141074a034c78304e81d5298a5101e9dff"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32296059539,
+      "sha256": "ab6e6307447f08e6ce56b241ae50b6a3097d0b3957db17128c9b1cb1ab4daaa7"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32297108115,
+      "sha256": "76670683bf739ad1b6b2e6e6eae057e37469de9cd7d7e11a2577e13bad920aec"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32298156691,
+      "sha256": "732aa6087d7c8af0d06c4a40bb48f6a25be1bff4b8d174bddbe44f8450426155"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32299205267,
+      "sha256": "5c9ffb77371f608ae512b0f326366107f8e58f7c5f4f469b704c501b9cb0327c"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32300253843,
+      "sha256": "6239e9d7590fce17e5f2973ef53ebdf9b66d7fad8f584a7e7d2bc6eccbc856b1"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32301302419,
+      "sha256": "33ddc85022ea8d37c804f1cdd9ebd67676cc5912af0150c05de80647d293739c"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32302350995,
+      "sha256": "dbf721f0d18b202b5a1c9522600193785e244efa30c1450ed2755331c8f4eecb"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32303399571,
+      "sha256": "2507f7ebb8ec2a274da36adb9fdab17e5169e8cc676d46fc4dd50ef713176bc5"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32304448147,
+      "sha256": "cad914b27ffc4e9dc668890c6491332a60e245adad912d25ffb2733134a49d23"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32305496723,
+      "sha256": "ba27ce42a09e9a1b722892f4111e5b9d7c036fa80b2906fa5cde93566d400c4c"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32306545299,
+      "sha256": "9bc66082edf742004d6611a53a98b6fed4c1ca87c2f679256c726385587fa455"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32307593875,
+      "sha256": "e16181d9dafb2cf99f26c2f9a950dbd93e0f88c44280081f0813bc27c8b3143e"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32308642451,
+      "sha256": "c28db01370b48a08504eeeb210404754341af9f6ce6c03fecfe82b900fdf17f2"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32309691027,
+      "sha256": "72cf6b8738c2adf675164ed2bda5cb44d6cbd886936aec416216951bba9f87e4"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32310739603,
+      "sha256": "891f84b3d655ccc14ac92bfc8c83056fa76411cfd41564045efed033f0d91814"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32311788179,
+      "sha256": "5b0bbb61d61b98ddea3999a1b4fb8e390299b7cde9e397604c766a4ba42a9922"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32312836755,
+      "sha256": "d5accd3d6f43de19e8beb149acd56cf75f1b3a8a189661da4cf56a0b572f5ac9"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32313885331,
+      "sha256": "266b45a7a286d570c42a6adac645e250f684a302e249a54eba88123b6c65bdb5"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32314933907,
+      "sha256": "7ca0451f22ebc1637195f8dfca97d263749c5c1a306e771f7cf492bb537cfeb2"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32315982483,
+      "sha256": "2e21860a2e4e3d1f1bc48ebc333f43240468ddda72793463f1f3fa4c087751af"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32317031059,
+      "sha256": "bf5f8abbe81a5dd8f2eedde107062145fe7599d3da727c0df92f02475b11f2ea"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32318079635,
+      "sha256": "53571aae2e7a6d324f74f9e98167ccc147bd5b01de023c3fd3ade26c5a68ee5d"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32319128211,
+      "sha256": "944e5871d08186a70ced689928849e20e42ae0cda65a321041d738a113df043e"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32320176787,
+      "sha256": "4c021b8a991d37ee931d59d1312b9e0d27252f8a02e7d922fb8b575a6d892911"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32321225363,
+      "sha256": "be7bd285a9b4a997e88af651fb6d241be68723ecd02a4250deedff981e655c0c"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32322273939,
+      "sha256": "8b46ec9e933a63badf7ff4bd3f81fac5a497eecac4ee3feae8c2af45818f6415"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32323322515,
+      "sha256": "6c7e429b201f72bfa24858b4f0d0a69bbd0451f34d6f7f0f48a71ed981f27800"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32324371091,
+      "sha256": "739c0b10fd2610aad79d39a5fbcd05a088c9be62c73285b2f8bd1a1971c14c09"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32325419667,
+      "sha256": "f16a34557e33a05df7e6d2bd4267c26daf27795a6c5d6af9f5ffa0183d946193"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32326468243,
+      "sha256": "af29a860ebe7782131fc89e7edacc16cd944ff114cbef8436c575b6e42a54d5c"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32327516819,
+      "sha256": "deee3b17a295f0ee23595f0354f91345353106b35aa7e7bd3e3a9502b2fa872b"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32328565395,
+      "sha256": "47fc11a86afeebc2b55e6b4c971f242aed8079d7505e7acf54ae3b6498c5ca67"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32329613971,
+      "sha256": "5e3397a39a78028d9fcbbdb11d68f50c131753186ea06c9036301b58bb32fd35"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32330662547,
+      "sha256": "850269ba96ac8abb8ce7e7853178ab16c11d384cf5f013d0b4b348fc2f538aa0"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32331711123,
+      "sha256": "d787fb04a48c027c482553cecdb289047ffef27d291a9bb4e99b5837c68abd10"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32332759699,
+      "sha256": "53829a68ca7cf7d08c29f3ebe97decb6bcb8403a98ea4748c280c6cf25c79252"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32333808275,
+      "sha256": "9f3af1e2c4b1cde6854b1190161ad0121bf225929e90424cd7db7a22f9bbd7dc"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32334856851,
+      "sha256": "29543999453bfdd820b7c4f3275757ee12c7d8e9e205f1026f0965cb86524491"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32335905427,
+      "sha256": "691eaff7a3f9993b8330c26e47de842c9001da2537c5c7efb88e7ab07596940f"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32336954003,
+      "sha256": "6eec9b9cb90339c86165c64f86079483b25a50f13196444b1017451e739bb992"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32338002579,
+      "sha256": "3069dfbbc4f7c7d74ac33ed13add92f4bdd9de6cf4e340750d4d3f4474fb1ff6"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32339051155,
+      "sha256": "a3967f2f3285461bd5fa3d36e783449e0bc44d97428ce14368b1157683106363"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32340099731,
+      "sha256": "381d675432e49adfdf26fc494cac9a6a779a46209efcd3f148bead04c9452797"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32341148307,
+      "sha256": "0e7d9c9050c99e34ff3b175cf32e5aabcc4c7907f8c6db96d0f164fbd82a1f56"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32342196883,
+      "sha256": "1be09b49eeb685db75e9bb1064852c56c0c37acaf7c562084e72ce5142817f54"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32343245459,
+      "sha256": "85b89adc82b2e419562eefb2c48fb781117e384bee5c62b1b0da63e727f31fc5"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32344294035,
+      "sha256": "13c08811b58813ffdc8ff611dae533cf05d48cc3caf00c3a4b9afaa9aff44ff1"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32345342611,
+      "sha256": "dd0cdac7e3cc9a74050519081a55d81dbbf7d9bee22b1813502ef4e3cc069637"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32346391187,
+      "sha256": "419a2dcc33739dae4b8f1d52ffcc149a8bdba3faef0b178cca0dce2fbd582237"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32347439763,
+      "sha256": "a5f227153ca2809262163f1f3a542a13a49e9f75f07754c10f62449d85aa2d09"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32348488339,
+      "sha256": "7a834f4be89f52435c16cbb6d501c0f4ffad231829fa8f47e9fe1e40ff9aa342"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32349536915,
+      "sha256": "ed82683f39d500b09eee2653de2990d00b6e21ede86bc0ab799c9ea6f7459b9c"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32350585491,
+      "sha256": "c23493b2af64aaffff3ad7a56606793a771ca65f0971b6949791ec9c3123f456"
+    },
+    {
+      "bytes": 263804,
+      "cache_hit": true,
+      "offset": 32351634067,
+      "sha256": "87b2f01b86458b01d51a6798bf15b1f24d3cdc575736a96926ae8ac464e2e35a"
+    },
+    {
+      "bytes": 366020,
+      "cache_hit": true,
+      "offset": 32351897871,
+      "sha256": "b30a85eeae162159ae4a44aeb95e09a9552e0e393c00a88211f742fd9bfc3e5a"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32352263891,
+      "sha256": "930851a860e82a294b3a54e05dbfc37a5d321a620dffc6d5ed82d14b5c88b835"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32353312467,
+      "sha256": "2ec5783dbf528bcb4fd898b6e283848a703939e8317dd8f144333a2cef0749a8"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32354361043,
+      "sha256": "e730c5666e856b0e34c98bb955608e7120c3af40dfdebf080f8ea321a1b86e57"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32355409619,
+      "sha256": "665fdb68b8c159abd79230ac9817b7966a16b8277143c06dd6aed79ce852427e"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32356458195,
+      "sha256": "062534a57102b12cd5896ed887c10f564b48dbc07d2af6d639baea0ef328bd65"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32357506771,
+      "sha256": "2743d53c1772bb6a491779a8862ef90ac258b6be315c805f8e63597f9ce5d13f"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32358555347,
+      "sha256": "22bd5f179e136a3d93a2cb2bbcbee641a7da57f4c05e73bc70b0d4a101673ec1"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32359603923,
+      "sha256": "f440a546e0413a6583b9516e01eb18a72600cf033dd97fd03837552c2566223c"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32360652499,
+      "sha256": "f9a64e83bfb5bc4ade3aa49bc7969f17dbd56b40e0409433b511b45b1876ae8a"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32361701075,
+      "sha256": "bbf1a63173cbd1fc82699ad5f583425698f7dc634e19de1902e487e7607a2a05"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32362749651,
+      "sha256": "802d47c85bc0747b15ab3bde59442f33f5e230e790b304ea0df3cad44f64c640"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32363798227,
+      "sha256": "5a94fff1bb48911904f2d69a15be7302d7290c0de74e95176c4d92f684644bfe"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32364846803,
+      "sha256": "e8a3bbd4fff4d36835ea8138db83e4c3e9230deb08c03d663b099a8ba336c7ea"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32365895379,
+      "sha256": "1d4615f63b7a4d0c254f0547bb4df6b7fa7b2408f3a4d2c219e027ea1d0f97fe"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32366943955,
+      "sha256": "5e7a0d2429103c4cabc077d844c76dcdc082590736706a4d9eb1df417f8fa595"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32367992531,
+      "sha256": "c730449435a17df9494c0770ff943299e390c373f2a23324c2f6b471e83d2406"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32369041107,
+      "sha256": "a6db543660f15f10f671a73d1783279a486a713b14eebeb0a01836b2fbcf93b2"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32370089683,
+      "sha256": "9655897d5d9bfa13b1c4bb0dac92a0bdbc80069ee9225d4f688bb5f780164203"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32371138259,
+      "sha256": "6560a34760e6507efbbc8cddbadf51026fc0840baffd3bef7507020810aa86b9"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32372186835,
+      "sha256": "94e4ae94fed3b96670f04a06de48b6ba3cdb8051916c191f41748c73c1c27d82"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32373235411,
+      "sha256": "2a5ac4041f4c9c04bea94c00bf73bd4c26095785daa1b345a1d13445e75b604d"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32374283987,
+      "sha256": "af4ad6a34bdebcc932d45042ffeb32237dc70814106af00725bad88d067d78d6"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32375332563,
+      "sha256": "19789f20b1cd458a13a6cbf8c5b9363ca2bfd26c50c86391db3a69c14eab2f5f"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32376381139,
+      "sha256": "654e3fc66b5abcd2e8eb873e9a8596b20222010d383cc1214fc1af730d34eab9"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32377429715,
+      "sha256": "58cec0b6f3d6530500e03657f92c257785ac945a2dcdc2a94f8236848d062b73"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32378478291,
+      "sha256": "ad5f6ed62d510d439999d6bb53715854ea832d29521a37f465d37cb4a7374dae"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32379526867,
+      "sha256": "924e1cee9ffdebdd3de7719e90e9a227c58e92cbfc129c33c2a7065d35966d11"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32380575443,
+      "sha256": "3998338fa8474993579c5c366107075e4ddf68e3f18b29247dd5cf6f11aeab0c"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32381624019,
+      "sha256": "62083ee317053d88c1ec9128b9eb10b2a13e02b9571d8040608d087a7c840c96"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32382672595,
+      "sha256": "15943a3cd46c7e2306d2f96fe5165896169ae3a538fe7b895200eb83f6285526"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32383721171,
+      "sha256": "346fd9682aeadb6d97eefdd075ab6b9af22e2152c965a51bf3df5f3ca17cc804"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32384769747,
+      "sha256": "8c18685485b21d60398714c2f60b218a012daf1e096affd9f74e3827ab683e1e"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32385818323,
+      "sha256": "c2ad9297d4940e32776d829b4711d505bddc1239dbb65d28e6f56284c29a21a6"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32386866899,
+      "sha256": "6a83c532084c7b268fa3b5a8150c7c2e63c966078c86c0862fde58ab12091c68"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32387915475,
+      "sha256": "5a1de29e4c1a80b48b622bbbb909a2072183a0dc0c776d6e959061004db03f96"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32388964051,
+      "sha256": "830d503a8132c8cddc7c110330415711455f53bb9d6224b3620d180f2a09733e"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32390012627,
+      "sha256": "aa5e57f2da8a7038843a728ff17bc8ecf76663db3ab0710e9e9586e44efaf310"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32391061203,
+      "sha256": "e3875a76647b4da38cc9f4451571b174abdf8789ad987efafd60cf138e92a39c"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32392109779,
+      "sha256": "f10a259f493301655eccab31ba8ecde67d038faf4548b3900d5b9981aebcf2f4"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32393158355,
+      "sha256": "9ad8f8dff109bdb141a07cff836048284bc28088dcd07bc6af8f702c277ac221"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32394206931,
+      "sha256": "47726adf65b06405d768c138092876db59d3044316badb0ca66aaa64b839bea3"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32395255507,
+      "sha256": "d72e7754f5908dd33be2597c553f99929fc3adad23ed7322beec9756c8d34b27"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32396304083,
+      "sha256": "73a66d5f089ef4f11e8ad396d48b0aa456a554dfb8cf08b2058a9c87e2c10dff"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32397352659,
+      "sha256": "6b6a083ccd654ec001c96365d49b4b18a369c270d535b5d8aa09a1b127dc1910"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32398401235,
+      "sha256": "565685bfedea2a9b6662590d39e84d92418070d39089d31468dddea3fbaca85b"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32399449811,
+      "sha256": "107e6b6518ce7aa448c836008cd6a64bf8ed1f84ce423ccdeb82c70750ed13ea"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32400498387,
+      "sha256": "22897e0b342628f567a0844e680411db0c8c9c69946ffff7b0870e9c547812ac"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32401546963,
+      "sha256": "f0562f3d9248a6ad03657ef93e4ca062967573f3262d787de832b6fbb9a57d86"
+    },
+    {
+      "bytes": 82928,
+      "cache_hit": true,
+      "offset": 32402595539,
+      "sha256": "00a064acf26db85ab795db90c878f65c53775a69ff43db1c0b750b50b535d509"
+    },
+    {
+      "bytes": 366020,
+      "cache_hit": true,
+      "offset": 32402678467,
+      "sha256": "b30a85eeae162159ae4a44aeb95e09a9552e0e393c00a88211f742fd9bfc3e5a"
+    },
+    {
+      "bytes": 168,
+      "cache_hit": true,
+      "offset": 32294876954,
+      "sha256": "ef84954ed450cb1cf56a3c8739b5431a6e98d915bc638ef0fe0c40da827dcd51"
+    }
+  ],
+  "reserved_target_composition_inspected": false,
+  "selection_test_usable_inferred_ranges": 553,
+  "source_geometry_columns_cached_only": [
+    "ml:polygon_xy",
+    "ml:polygon_len",
+    "ml:polygon_lnglat",
+    "ml:polygon_lnglat_len",
+    "ml:height",
+    "ml:width"
+  ],
+  "source_hashes_preserved": {
+    "author_ids": true,
+    "cohort": true,
+    "collection": true,
+    "contract": true,
+    "development_health": true,
+    "identities": true,
+    "membership": true,
+    "model_card": true,
+    "model_manifest": true,
+    "old_spatial": true,
+    "prior_receipt": true,
+    "selection_receipt": true,
+    "source_card": true,
+    "source_identity_audit": true
+  },
+  "stage": "OFFLINE_METADATA_ADMISSION_SCREEN_COMPLETE",
+  "training_missing_or_rejected_inferred_ranges": 2550,
+  "training_usable_inferred_ranges": 3627,
+  "validation_or_confirmation_scores_run": false,
+  "whole_216_cohort_independently_admitted": false
+}

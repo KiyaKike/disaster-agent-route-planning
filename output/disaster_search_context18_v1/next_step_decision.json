@@ -1,0 +1,11 @@
+{
+  "all18_retained": true,
+  "basis": "Predeclared event-recovery, total-overlap and pooled-reference-precision screen.",
+  "cause_limit": "Input size, available context, boundary padding and model internal resolution may jointly change outputs; current experiment does not isolate them.",
+  "decision": "PROCEED_TO_BOUNDED_INPUT_INFORMATION_DIAGNOSTIC",
+  "paid_gpu_needed": false,
+  "reference_limit": "Published semantic pixels have not received new human or geographic validation;18 pairs remain development/feasibility only.",
+  "screen_passed": true,
+  "search_tuning_still_stopped": true,
+  "stage2_executed": false
+}

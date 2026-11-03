@@ -1,0 +1,103 @@
+{
+  "status": "ACTUAL_ENTRY_DIAGNOSTIC_COMPLETE",
+  "fixed_scene": "1001-Ft-Myers-Beach-Boone.geo.tif",
+  "existing_roi_center_buildings": 16,
+  "existing_geometry_eligible": 12,
+  "crewed_annotation_records": 931,
+  "shared_ids_with_roi": 16,
+  "crewed_supported_existing_eligible": 12,
+  "view_label_comparison": {
+    "satellite": {
+      "joint_known_count": 12,
+      "disagreements": 2,
+      "pairs": {
+        "no damage -> no damage": 8,
+        "minor damage -> no damage": 2,
+        "minor damage -> minor damage": 2
+      }
+    },
+    "uas": {
+      "joint_known_count": 12,
+      "disagreements": 1,
+      "pairs": {
+        "no damage -> no damage": 9,
+        "minor damage -> no damage": 1,
+        "minor damage -> minor damage": 2
+      }
+    }
+  },
+  "image_alignment_diagnostics": {
+    "pre_to_crewed_raw": {
+      "status": "INSUFFICIENT_CONSENSUS",
+      "matches": 13,
+      "largest_translation_consensus": 3,
+      "independent_absolute_accuracy": false
+    },
+    "pre_to_crewed_aligned": {
+      "status": "INSUFFICIENT_CONSENSUS",
+      "matches": 7,
+      "largest_translation_consensus": 2,
+      "independent_absolute_accuracy": false
+    },
+    "post_to_crewed_raw": {
+      "status": "DIAGNOSTIC_ONLY",
+      "matches": 49,
+      "translation_consensus": 42,
+      "median_translation_m": [
+        -0.9069175720214844,
+        0.7022106647491455
+      ],
+      "median_direct_residual_m": 1.27668535553487,
+      "independent_absolute_accuracy": false
+    },
+    "post_to_crewed_aligned": {
+      "status": "DIAGNOSTIC_ONLY",
+      "matches": 44,
+      "translation_consensus": 35,
+      "median_translation_m": [
+        -0.89215087890625,
+        -1.4323387145996094
+      ],
+      "median_direct_residual_m": 2.02215612616862,
+      "independent_absolute_accuracy": false
+    },
+    "uas_to_crewed_raw": {
+      "status": "DIAGNOSTIC_ONLY",
+      "matches": 19,
+      "translation_consensus": 8,
+      "median_translation_m": [
+        -1.1073875427246094,
+        4.327506065368652
+      ],
+      "median_direct_residual_m": 4.428247121191941,
+      "independent_absolute_accuracy": false
+    },
+    "uas_to_crewed_aligned": {
+      "status": "DIAGNOSTIC_ONLY",
+      "matches": 17,
+      "translation_consensus": 6,
+      "median_translation_m": [
+        -0.9480628967285156,
+        1.4397811889648438
+      ],
+      "median_direct_residual_m": 1.6059022971768693,
+      "independent_absolute_accuracy": false
+    }
+  },
+  "catalogue_dates": {
+    "pre_satellite": "2022-01-21",
+    "post_satellite": "2022-09-30",
+    "crewed_NOAA": "2022-09-30",
+    "uas": "2022-10-01"
+  },
+  "absolute_capture_times_established": false,
+  "common_state_established": false,
+  "error_independence_established": false,
+  "common_field_truth_established": false,
+  "sensor_calibration_anchor_established": false,
+  "new_UAS_revisit_validated": false,
+  "scope": "Archive satellite/crewed pixel support and view-label diagnostic only;not a causal prior-error/detector-failure attribution test or route efficacy test",
+  "new_model_calls": 0,
+  "training": false,
+  "gpu_rental": false
+}

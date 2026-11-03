@@ -1,0 +1,1838 @@
+[
+  {
+    "bytes": 7816,
+    "class_pixels": {
+      "0": 195545,
+      "1": 66599,
+      "2": 0,
+      "3": 0,
+      "4": 0
+    },
+    "crc32_verified": "3c79b795",
+    "encoding": "L",
+    "event": "EARTHQUAKE-TURKEY",
+    "mode": "published_post_mask",
+    "path": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/figshare/ebd_native_replication36_v1/reference_masks/EARTHQUAKE-TURKEY_000943.png",
+    "ranges": [
+      {
+        "bytes": 30,
+        "content_range": "bytes 925790140-925790169/931980914",
+        "http_status": 206,
+        "member": "EARTHQUAKE-TURKEY/masks/EARTHQUAKE-TURKEY_000943_post_disaster.png",
+        "offset": 925790140,
+        "role": "header30",
+        "sha256": "fcd76dd5aef488c8478389466e8a2392f2fc7dbc2253942801d873f99729b24a",
+        "url": "https://ndownloader.figshare.com/files/44696047"
+      },
+      {
+        "bytes": 66,
+        "content_range": "bytes 925790170-925790235/931980914",
+        "http_status": 206,
+        "member": "EARTHQUAKE-TURKEY/masks/EARTHQUAKE-TURKEY_000943_post_disaster.png",
+        "offset": 925790170,
+        "role": "name_extra",
+        "sha256": "27677cc07ba8939e11a1075d534c7ff3da0039c62a9b6f198f0dcbeecf8ca3af",
+        "url": "https://ndownloader.figshare.com/files/44696047"
+      },
+      {
+        "bytes": 7799,
+        "content_range": "bytes 925790236-925798034/931980914",
+        "http_status": 206,
+        "member": "EARTHQUAKE-TURKEY/masks/EARTHQUAKE-TURKEY_000943_post_disaster.png",
+        "offset": 925790236,
+        "role": "mask_compressed",
+        "sha256": "c4dd9afc2016b00f28f7e043958e21eb37fe7ca2f06e6a041c15b120ece29438",
+        "url": "https://ndownloader.figshare.com/files/44696047"
+      }
+    ],
+    "sample_id": "EARTHQUAKE-TURKEY_000943",
+    "severe_reference_pixels": 0,
+    "sha256": "2d57a1f578d402e302cf64f01d82b9124fbdbad9108b5420635a8e39c7bd3d55",
+    "source_member": "EARTHQUAKE-TURKEY/masks/EARTHQUAKE-TURKEY_000943_post_disaster.png"
+  },
+  {
+    "bytes": 4814,
+    "class_pixels": {
+      "0": 234320,
+      "1": 27824,
+      "2": 0,
+      "3": 0,
+      "4": 0
+    },
+    "crc32_verified": "bb8c60bc",
+    "encoding": "L",
+    "event": "EARTHQUAKE-TURKEY",
+    "mode": "published_post_mask",
+    "path": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/figshare/ebd_native_replication36_v1/reference_masks/EARTHQUAKE-TURKEY_001258.png",
+    "ranges": [
+      {
+        "bytes": 30,
+        "content_range": "bytes 925973658-925973687/931980914",
+        "http_status": 206,
+        "member": "EARTHQUAKE-TURKEY/masks/EARTHQUAKE-TURKEY_001258_post_disaster.png",
+        "offset": 925973658,
+        "role": "header30",
+        "sha256": "ca436ad13294d8ae73af58d892c8ddbfe51e64b9bdc678e85da01e6eabaca6e0",
+        "url": "https://ndownloader.figshare.com/files/44696047"
+      },
+      {
+        "bytes": 66,
+        "content_range": "bytes 925973688-925973753/931980914",
+        "http_status": 206,
+        "member": "EARTHQUAKE-TURKEY/masks/EARTHQUAKE-TURKEY_001258_post_disaster.png",
+        "offset": 925973688,
+        "role": "name_extra",
+        "sha256": "d5f0dd1e12f9e2fe135d5202137c77a20f534245723467e7b3232469e62f65c2",
+        "url": "https://ndownloader.figshare.com/files/44696047"
+      },
+      {
+        "bytes": 4724,
+        "content_range": "bytes 925973754-925978477/931980914",
+        "http_status": 206,
+        "member": "EARTHQUAKE-TURKEY/masks/EARTHQUAKE-TURKEY_001258_post_disaster.png",
+        "offset": 925973754,
+        "role": "mask_compressed",
+        "sha256": "40cb6e15958a8702caf2621f3c24928f0daea664a76550d2285f752b186b344f",
+        "url": "https://ndownloader.figshare.com/files/44696047"
+      }
+    ],
+    "sample_id": "EARTHQUAKE-TURKEY_001258",
+    "severe_reference_pixels": 0,
+    "sha256": "036e7ca74d097ad76808dbe2a04cff7007d14e8667abe208a5cd42a00c8f79ba",
+    "source_member": "EARTHQUAKE-TURKEY/masks/EARTHQUAKE-TURKEY_001258_post_disaster.png"
+  },
+  {
+    "bytes": 1741,
+    "class_pixels": {
+      "0": 235796,
+      "1": 26348,
+      "2": 0,
+      "3": 0,
+      "4": 0
+    },
+    "crc32_verified": "647f73ec",
+    "encoding": "L",
+    "event": "EARTHQUAKE-TURKEY",
+    "mode": "published_post_mask",
+    "path": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/figshare/ebd_native_replication36_v1/reference_masks/EARTHQUAKE-TURKEY_003096.png",
+    "ranges": [
+      {
+        "bytes": 30,
+        "content_range": "bytes 926505722-926505751/931980914",
+        "http_status": 206,
+        "member": "EARTHQUAKE-TURKEY/masks/EARTHQUAKE-TURKEY_003096_post_disaster.png",
+        "offset": 926505722,
+        "role": "header30",
+        "sha256": "234cda3a0d4d89d0b7408e60e28f9e31636ba52884d49a51245fcee9df7fec55",
+        "url": "https://ndownloader.figshare.com/files/44696047"
+      },
+      {
+        "bytes": 66,
+        "content_range": "bytes 926505752-926505817/931980914",
+        "http_status": 206,
+        "member": "EARTHQUAKE-TURKEY/masks/EARTHQUAKE-TURKEY_003096_post_disaster.png",
+        "offset": 926505752,
+        "role": "name_extra",
+        "sha256": "39c15c45214fb21710228433d06915f179e217b99104997f7fb1d03db8e3357d",
+        "url": "https://ndownloader.figshare.com/files/44696047"
+      },
+      {
+        "bytes": 1471,
+        "content_range": "bytes 926505818-926507288/931980914",
+        "http_status": 206,
+        "member": "EARTHQUAKE-TURKEY/masks/EARTHQUAKE-TURKEY_003096_post_disaster.png",
+        "offset": 926505818,
+        "role": "mask_compressed",
+        "sha256": "ffeab66d8c8aea54f276efe8467ee25c4fe6aa62c45660e52a091cb075edbcfe",
+        "url": "https://ndownloader.figshare.com/files/44696047"
+      }
+    ],
+    "sample_id": "EARTHQUAKE-TURKEY_003096",
+    "severe_reference_pixels": 0,
+    "sha256": "28b6c24638ac8c9bd40810a1d4b0d97aa0a6bb1367e5d9943eec6c39642eaa8b",
+    "source_member": "EARTHQUAKE-TURKEY/masks/EARTHQUAKE-TURKEY_003096_post_disaster.png"
+  },
+  {
+    "bytes": 7123,
+    "class_pixels": {
+      "0": 165566,
+      "1": 96578,
+      "2": 0,
+      "3": 0,
+      "4": 0
+    },
+    "crc32_verified": "42dfd577",
+    "encoding": "L",
+    "event": "EARTHQUAKE-TURKEY",
+    "mode": "published_post_mask",
+    "path": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/figshare/ebd_native_replication36_v1/reference_masks/EARTHQUAKE-TURKEY_006691.png",
+    "ranges": [
+      {
+        "bytes": 30,
+        "content_range": "bytes 927775783-927775812/931980914",
+        "http_status": 206,
+        "member": "EARTHQUAKE-TURKEY/masks/EARTHQUAKE-TURKEY_006691_post_disaster.png",
+        "offset": 927775783,
+        "role": "header30",
+        "sha256": "63b08ad832221a6be3a6bf2e3bff8d2a2e2cc69b17954998ca76698cd90748fd",
+        "url": "https://ndownloader.figshare.com/files/44696047"
+      },
+      {
+        "bytes": 66,
+        "content_range": "bytes 927775813-927775878/931980914",
+        "http_status": 206,
+        "member": "EARTHQUAKE-TURKEY/masks/EARTHQUAKE-TURKEY_006691_post_disaster.png",
+        "offset": 927775813,
+        "role": "name_extra",
+        "sha256": "70c794c23097d6fb1d1876d75228dd7608cb25a93be80e7542137a96f9a4dd41",
+        "url": "https://ndownloader.figshare.com/files/44696047"
+      },
+      {
+        "bytes": 7084,
+        "content_range": "bytes 927775879-927782962/931980914",
+        "http_status": 206,
+        "member": "EARTHQUAKE-TURKEY/masks/EARTHQUAKE-TURKEY_006691_post_disaster.png",
+        "offset": 927775879,
+        "role": "mask_compressed",
+        "sha256": "76b3793eca1889f606b3c74521389bc86a88a4a39f87cb9e3bb54ae1c3caae91",
+        "url": "https://ndownloader.figshare.com/files/44696047"
+      }
+    ],
+    "sample_id": "EARTHQUAKE-TURKEY_006691",
+    "severe_reference_pixels": 0,
+    "sha256": "c8fdda729f6a5590c3a830dc09706069e7df2775a3410155b616019934f6b4b8",
+    "source_member": "EARTHQUAKE-TURKEY/masks/EARTHQUAKE-TURKEY_006691_post_disaster.png"
+  },
+  {
+    "bytes": 2594,
+    "class_pixels": {
+      "0": 247543,
+      "1": 14601,
+      "2": 0,
+      "3": 0,
+      "4": 0
+    },
+    "crc32_verified": "cf0d47dd",
+    "encoding": "L",
+    "event": "EARTHQUAKE-TURKEY",
+    "mode": "published_post_mask",
+    "path": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/figshare/ebd_native_replication36_v1/reference_masks/EARTHQUAKE-TURKEY_008609.png",
+    "ranges": [
+      {
+        "bytes": 30,
+        "content_range": "bytes 928448910-928448939/931980914",
+        "http_status": 206,
+        "member": "EARTHQUAKE-TURKEY/masks/EARTHQUAKE-TURKEY_008609_post_disaster.png",
+        "offset": 928448910,
+        "role": "header30",
+        "sha256": "54694c2def730de462e2c719dc030ca3b78c1ac84acf9be49b3a3deb4d2f2cba",
+        "url": "https://ndownloader.figshare.com/files/44696047"
+      },
+      {
+        "bytes": 66,
+        "content_range": "bytes 928448940-928449005/931980914",
+        "http_status": 206,
+        "member": "EARTHQUAKE-TURKEY/masks/EARTHQUAKE-TURKEY_008609_post_disaster.png",
+        "offset": 928448940,
+        "role": "name_extra",
+        "sha256": "eb245305850260b8ad4405829538d11b3ced44a40e538f6bf5c1a1d2f7f33561",
+        "url": "https://ndownloader.figshare.com/files/44696047"
+      },
+      {
+        "bytes": 2479,
+        "content_range": "bytes 928449006-928451484/931980914",
+        "http_status": 206,
+        "member": "EARTHQUAKE-TURKEY/masks/EARTHQUAKE-TURKEY_008609_post_disaster.png",
+        "offset": 928449006,
+        "role": "mask_compressed",
+        "sha256": "d500afb93cdc3d981b819ad4b9873fcdb2b46534fab00e1544c21bb12814c7ee",
+        "url": "https://ndownloader.figshare.com/files/44696047"
+      }
+    ],
+    "sample_id": "EARTHQUAKE-TURKEY_008609",
+    "severe_reference_pixels": 0,
+    "sha256": "626346cc72830b41df8ac3df2359aba82e0f283c2454179107d2fd5731ce889d",
+    "source_member": "EARTHQUAKE-TURKEY/masks/EARTHQUAKE-TURKEY_008609_post_disaster.png"
+  },
+  {
+    "bytes": 691,
+    "class_pixels": {
+      "0": 260945,
+      "1": 1199,
+      "2": 0,
+      "3": 0,
+      "4": 0
+    },
+    "crc32_verified": "a33b206a",
+    "encoding": "L",
+    "event": "EARTHQUAKE-TURKEY",
+    "mode": "published_post_mask",
+    "path": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/figshare/ebd_native_replication36_v1/reference_masks/EARTHQUAKE-TURKEY_008873.png",
+    "ranges": [
+      {
+        "bytes": 30,
+        "content_range": "bytes 928528265-928528294/931980914",
+        "http_status": 206,
+        "member": "EARTHQUAKE-TURKEY/masks/EARTHQUAKE-TURKEY_008873_post_disaster.png",
+        "offset": 928528265,
+        "role": "header30",
+        "sha256": "9b470a9c10bcf66aa60453c446cef6e4dc7e012df4befdc0cfd9055f5fb13136",
+        "url": "https://ndownloader.figshare.com/files/44696047"
+      },
+      {
+        "bytes": 66,
+        "content_range": "bytes 928528295-928528360/931980914",
+        "http_status": 206,
+        "member": "EARTHQUAKE-TURKEY/masks/EARTHQUAKE-TURKEY_008873_post_disaster.png",
+        "offset": 928528295,
+        "role": "name_extra",
+        "sha256": "9d45599406cab27735624deed672db3b0ceba8e4e49f3939515189e23b2c7374",
+        "url": "https://ndownloader.figshare.com/files/44696047"
+      },
+      {
+        "bytes": 477,
+        "content_range": "bytes 928528361-928528837/931980914",
+        "http_status": 206,
+        "member": "EARTHQUAKE-TURKEY/masks/EARTHQUAKE-TURKEY_008873_post_disaster.png",
+        "offset": 928528361,
+        "role": "mask_compressed",
+        "sha256": "a142b1201ba1aaf20094bf604accfd67e03405811e8234a2e34ac439115363d7",
+        "url": "https://ndownloader.figshare.com/files/44696047"
+      }
+    ],
+    "sample_id": "EARTHQUAKE-TURKEY_008873",
+    "severe_reference_pixels": 0,
+    "sha256": "7a2a924d5fb0b5fa30691cbac41999ec953be2ce87c082179c363bec7acbfa16",
+    "source_member": "EARTHQUAKE-TURKEY/masks/EARTHQUAKE-TURKEY_008873_post_disaster.png"
+  },
+  {
+    "bytes": 876,
+    "class_pixels": {
+      "0": 259253,
+      "1": 2891,
+      "2": 0,
+      "3": 0,
+      "4": 0
+    },
+    "crc32_verified": "8d5df54d",
+    "encoding": "L",
+    "event": "EARTHQUAKE-TURKEY",
+    "mode": "published_post_mask",
+    "path": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/figshare/ebd_native_replication36_v1/reference_masks/EARTHQUAKE-TURKEY_009379.png",
+    "ranges": [
+      {
+        "bytes": 30,
+        "content_range": "bytes 928666577-928666606/931980914",
+        "http_status": 206,
+        "member": "EARTHQUAKE-TURKEY/masks/EARTHQUAKE-TURKEY_009379_post_disaster.png",
+        "offset": 928666577,
+        "role": "header30",
+        "sha256": "304d99158b550070c4e80649167bdd8c522c6a186696dca4557d7cff679f4bc0",
+        "url": "https://ndownloader.figshare.com/files/44696047"
+      },
+      {
+        "bytes": 66,
+        "content_range": "bytes 928666607-928666672/931980914",
+        "http_status": 206,
+        "member": "EARTHQUAKE-TURKEY/masks/EARTHQUAKE-TURKEY_009379_post_disaster.png",
+        "offset": 928666607,
+        "role": "name_extra",
+        "sha256": "f4a9435d33c97c833ded4d76209f407d0c95f2d8ba5fe99a3e120f37a0ab028a",
+        "url": "https://ndownloader.figshare.com/files/44696047"
+      },
+      {
+        "bytes": 668,
+        "content_range": "bytes 928666673-928667340/931980914",
+        "http_status": 206,
+        "member": "EARTHQUAKE-TURKEY/masks/EARTHQUAKE-TURKEY_009379_post_disaster.png",
+        "offset": 928666673,
+        "role": "mask_compressed",
+        "sha256": "f162796f98190c41000b8c116be2eb3ac759b90fbed257de1b9e22837dffaf68",
+        "url": "https://ndownloader.figshare.com/files/44696047"
+      }
+    ],
+    "sample_id": "EARTHQUAKE-TURKEY_009379",
+    "severe_reference_pixels": 0,
+    "sha256": "42cd29a0071f6b1486295f7f3380c0f2d3c3a28c83b5c6c48e35a7533dcdd1bf",
+    "source_member": "EARTHQUAKE-TURKEY/masks/EARTHQUAKE-TURKEY_009379_post_disaster.png"
+  },
+  {
+    "bytes": 2337,
+    "class_pixels": {
+      "0": 241518,
+      "1": 20626,
+      "2": 0,
+      "3": 0,
+      "4": 0
+    },
+    "crc32_verified": "71e4b5d1",
+    "encoding": "L",
+    "event": "EARTHQUAKE-TURKEY",
+    "mode": "published_post_mask",
+    "path": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/figshare/ebd_native_replication36_v1/reference_masks/EARTHQUAKE-TURKEY_010027.png",
+    "ranges": [
+      {
+        "bytes": 30,
+        "content_range": "bytes 928843164-928843193/931980914",
+        "http_status": 206,
+        "member": "EARTHQUAKE-TURKEY/masks/EARTHQUAKE-TURKEY_010027_post_disaster.png",
+        "offset": 928843164,
+        "role": "header30",
+        "sha256": "4eb8c3467c18590bf8d9a9d5a24224447f378810cbd88754941ad8740d05c6ab",
+        "url": "https://ndownloader.figshare.com/files/44696047"
+      },
+      {
+        "bytes": 66,
+        "content_range": "bytes 928843194-928843259/931980914",
+        "http_status": 206,
+        "member": "EARTHQUAKE-TURKEY/masks/EARTHQUAKE-TURKEY_010027_post_disaster.png",
+        "offset": 928843194,
+        "role": "name_extra",
+        "sha256": "01f7b4f9698bcab2f81de6a31d7079ee2331dc7b7f60b5c01aa18c701bba5d00",
+        "url": "https://ndownloader.figshare.com/files/44696047"
+      },
+      {
+        "bytes": 2196,
+        "content_range": "bytes 928843260-928845455/931980914",
+        "http_status": 206,
+        "member": "EARTHQUAKE-TURKEY/masks/EARTHQUAKE-TURKEY_010027_post_disaster.png",
+        "offset": 928843260,
+        "role": "mask_compressed",
+        "sha256": "f04b826d10b9b579310b5e9fbf50c85d7056824fe702eec6136ca6bfe1735885",
+        "url": "https://ndownloader.figshare.com/files/44696047"
+      }
+    ],
+    "sample_id": "EARTHQUAKE-TURKEY_010027",
+    "severe_reference_pixels": 0,
+    "sha256": "a7ce47dc7498fcc8a853cc4758c4126d1b50a30774e244273e69edb48925f9f7",
+    "source_member": "EARTHQUAKE-TURKEY/masks/EARTHQUAKE-TURKEY_010027_post_disaster.png"
+  },
+  {
+    "bytes": 1316,
+    "class_pixels": {
+      "0": 256931,
+      "1": 4147,
+      "2": 1066,
+      "3": 0,
+      "4": 0
+    },
+    "crc32_verified": "370916c9",
+    "encoding": "L",
+    "event": "EARTHQUAKE-TURKEY",
+    "mode": "published_post_mask",
+    "path": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/figshare/ebd_native_replication36_v1/reference_masks/EARTHQUAKE-TURKEY_013074.png",
+    "ranges": [
+      {
+        "bytes": 30,
+        "content_range": "bytes 929765154-929765183/931980914",
+        "http_status": 206,
+        "member": "EARTHQUAKE-TURKEY/masks/EARTHQUAKE-TURKEY_013074_post_disaster.png",
+        "offset": 929765154,
+        "role": "header30",
+        "sha256": "8dcb92723f652beb11d54f68583df591513f7fe3b1e6dcc1f6ca93bdfb405106",
+        "url": "https://ndownloader.figshare.com/files/44696047"
+      },
+      {
+        "bytes": 66,
+        "content_range": "bytes 929765184-929765249/931980914",
+        "http_status": 206,
+        "member": "EARTHQUAKE-TURKEY/masks/EARTHQUAKE-TURKEY_013074_post_disaster.png",
+        "offset": 929765184,
+        "role": "name_extra",
+        "sha256": "b0a054f4d1bc062054e6316ab4132e581b5fc3fb5cba88ae365be15a88ceb364",
+        "url": "https://ndownloader.figshare.com/files/44696047"
+      },
+      {
+        "bytes": 1177,
+        "content_range": "bytes 929765250-929766426/931980914",
+        "http_status": 206,
+        "member": "EARTHQUAKE-TURKEY/masks/EARTHQUAKE-TURKEY_013074_post_disaster.png",
+        "offset": 929765250,
+        "role": "mask_compressed",
+        "sha256": "8c4ecf9e12981afcf9ed1b05f81e8600c1dc27c82739bcab358b923b341e50f5",
+        "url": "https://ndownloader.figshare.com/files/44696047"
+      }
+    ],
+    "sample_id": "EARTHQUAKE-TURKEY_013074",
+    "severe_reference_pixels": 0,
+    "sha256": "fb2378f26a50da6fa56be7a5f82921164de6950f9052c70fa41cd2e28fdd341f",
+    "source_member": "EARTHQUAKE-TURKEY/masks/EARTHQUAKE-TURKEY_013074_post_disaster.png"
+  },
+  {
+    "bytes": 8026,
+    "class_pixels": {
+      "0": 207868,
+      "1": 54276,
+      "2": 0,
+      "3": 0,
+      "4": 0
+    },
+    "crc32_verified": "f07196a9",
+    "encoding": "L",
+    "event": "EARTHQUAKE-TURKEY",
+    "mode": "published_post_mask",
+    "path": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/figshare/ebd_native_replication36_v1/reference_masks/EARTHQUAKE-TURKEY_014265.png",
+    "ranges": [
+      {
+        "bytes": 30,
+        "content_range": "bytes 930097727-930097756/931980914",
+        "http_status": 206,
+        "member": "EARTHQUAKE-TURKEY/masks/EARTHQUAKE-TURKEY_014265_post_disaster.png",
+        "offset": 930097727,
+        "role": "header30",
+        "sha256": "c7c6f6fdecec440c6b73839d8d4738f9d41470b962545164e417de63e7d5f695",
+        "url": "https://ndownloader.figshare.com/files/44696047"
+      },
+      {
+        "bytes": 66,
+        "content_range": "bytes 930097757-930097822/931980914",
+        "http_status": 206,
+        "member": "EARTHQUAKE-TURKEY/masks/EARTHQUAKE-TURKEY_014265_post_disaster.png",
+        "offset": 930097757,
+        "role": "name_extra",
+        "sha256": "4c9489c79491d5a5f0cad5af8077f804fdae57c33d24a72de06d4921fee393c6",
+        "url": "https://ndownloader.figshare.com/files/44696047"
+      },
+      {
+        "bytes": 8024,
+        "content_range": "bytes 930097823-930105846/931980914",
+        "http_status": 206,
+        "member": "EARTHQUAKE-TURKEY/masks/EARTHQUAKE-TURKEY_014265_post_disaster.png",
+        "offset": 930097823,
+        "role": "mask_compressed",
+        "sha256": "57ded3f5689e577730743dab175e4137b67993739e8b1f8ef84132907a40b475",
+        "url": "https://ndownloader.figshare.com/files/44696047"
+      }
+    ],
+    "sample_id": "EARTHQUAKE-TURKEY_014265",
+    "severe_reference_pixels": 0,
+    "sha256": "666add72ddd236dbde92df9e0c04b08b9840b7d9062fda549027113138a2f1ca",
+    "source_member": "EARTHQUAKE-TURKEY/masks/EARTHQUAKE-TURKEY_014265_post_disaster.png"
+  },
+  {
+    "bytes": 5488,
+    "class_pixels": {
+      "0": 219378,
+      "1": 42766,
+      "2": 0,
+      "3": 0,
+      "4": 0
+    },
+    "crc32_verified": "66f24ad7",
+    "encoding": "L",
+    "event": "EARTHQUAKE-TURKEY",
+    "mode": "published_post_mask",
+    "path": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/figshare/ebd_native_replication36_v1/reference_masks/EARTHQUAKE-TURKEY_015918.png",
+    "ranges": [
+      {
+        "bytes": 30,
+        "content_range": "bytes 930675656-930675685/931980914",
+        "http_status": 206,
+        "member": "EARTHQUAKE-TURKEY/masks/EARTHQUAKE-TURKEY_015918_post_disaster.png",
+        "offset": 930675656,
+        "role": "header30",
+        "sha256": "5d5035dbca80a2182cf2272c3d44dd8678cc4468c2af2656a16c1cfe08316fbc",
+        "url": "https://ndownloader.figshare.com/files/44696047"
+      },
+      {
+        "bytes": 66,
+        "content_range": "bytes 930675686-930675751/931980914",
+        "http_status": 206,
+        "member": "EARTHQUAKE-TURKEY/masks/EARTHQUAKE-TURKEY_015918_post_disaster.png",
+        "offset": 930675686,
+        "role": "name_extra",
+        "sha256": "ecb64036be1f6dff62f1f7c6a47013a64f6cc6912111d35002a05703596bb0b1",
+        "url": "https://ndownloader.figshare.com/files/44696047"
+      },
+      {
+        "bytes": 5447,
+        "content_range": "bytes 930675752-930681198/931980914",
+        "http_status": 206,
+        "member": "EARTHQUAKE-TURKEY/masks/EARTHQUAKE-TURKEY_015918_post_disaster.png",
+        "offset": 930675752,
+        "role": "mask_compressed",
+        "sha256": "0431c5dd0cca7490df39bafc76cb3915da90c78d9baccf550a433584a752b525",
+        "url": "https://ndownloader.figshare.com/files/44696047"
+      }
+    ],
+    "sample_id": "EARTHQUAKE-TURKEY_015918",
+    "severe_reference_pixels": 0,
+    "sha256": "800a2124904ce5457b28bbd4c320fb541178e13476d6759cc7209bc3d3588892",
+    "source_member": "EARTHQUAKE-TURKEY/masks/EARTHQUAKE-TURKEY_015918_post_disaster.png"
+  },
+  {
+    "bytes": 2217,
+    "class_pixels": {
+      "0": 250077,
+      "1": 12067,
+      "2": 0,
+      "3": 0,
+      "4": 0
+    },
+    "crc32_verified": "f94468bb",
+    "encoding": "L",
+    "event": "EARTHQUAKE-TURKEY",
+    "mode": "published_post_mask",
+    "path": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/figshare/ebd_native_replication36_v1/reference_masks/EARTHQUAKE-TURKEY_017525.png",
+    "ranges": [
+      {
+        "bytes": 30,
+        "content_range": "bytes 931191504-931191533/931980914",
+        "http_status": 206,
+        "member": "EARTHQUAKE-TURKEY/masks/EARTHQUAKE-TURKEY_017525_post_disaster.png",
+        "offset": 931191504,
+        "role": "header30",
+        "sha256": "af648d15894b0179b94566bcec799cea4698166f265a6c18b1d003cda5b4ddd4",
+        "url": "https://ndownloader.figshare.com/files/44696047"
+      },
+      {
+        "bytes": 66,
+        "content_range": "bytes 931191534-931191599/931980914",
+        "http_status": 206,
+        "member": "EARTHQUAKE-TURKEY/masks/EARTHQUAKE-TURKEY_017525_post_disaster.png",
+        "offset": 931191534,
+        "role": "name_extra",
+        "sha256": "3013f63ec2d93181913ad4b9fdf94ca58245cdb04ca2a729d4a7f9eaa11a6754",
+        "url": "https://ndownloader.figshare.com/files/44696047"
+      },
+      {
+        "bytes": 2084,
+        "content_range": "bytes 931191600-931193683/931980914",
+        "http_status": 206,
+        "member": "EARTHQUAKE-TURKEY/masks/EARTHQUAKE-TURKEY_017525_post_disaster.png",
+        "offset": 931191600,
+        "role": "mask_compressed",
+        "sha256": "0329ca5fffa8e61743b07849697d89b4a777e4d01b03a2754b90122e9b21a11a",
+        "url": "https://ndownloader.figshare.com/files/44696047"
+      }
+    ],
+    "sample_id": "EARTHQUAKE-TURKEY_017525",
+    "severe_reference_pixels": 0,
+    "sha256": "8eaf334cbbd4cb975f4a21e4642fda97e47e7921d8e86fdd982715ed5151fdef",
+    "source_member": "EARTHQUAKE-TURKEY/masks/EARTHQUAKE-TURKEY_017525_post_disaster.png"
+  },
+  {
+    "bytes": 334,
+    "class_pixels": {
+      "0": 262144,
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0
+    },
+    "crc32_verified": "ceb60ca4",
+    "encoding": "L",
+    "event": "PAKISTAN-FLOODING",
+    "mode": "published_post_mask",
+    "path": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/figshare/ebd_native_replication36_v1/reference_masks/PAKISTAN-FLOODING_001282.png",
+    "ranges": [
+      {
+        "bytes": 30,
+        "content_range": "bytes 2364065713-2364065742/2370825346",
+        "http_status": 206,
+        "member": "PAKISTAN-FLOODING/masks/PAKISTAN-FLOODING_001282_post_disaster.png",
+        "offset": 2364065713,
+        "role": "header30",
+        "sha256": "eebbcb2c27f128ca07d04106ebddf05614279efc41ed37d25534c7d86d219187",
+        "url": "https://ndownloader.figshare.com/files/44708299"
+      },
+      {
+        "bytes": 66,
+        "content_range": "bytes 2364065743-2364065808/2370825346",
+        "http_status": 206,
+        "member": "PAKISTAN-FLOODING/masks/PAKISTAN-FLOODING_001282_post_disaster.png",
+        "offset": 2364065743,
+        "role": "name_extra",
+        "sha256": "19fa089d3a3251e6a7c8824665802c56cd6b8e222b4a9a7e9e8e9dea6491f270",
+        "url": "https://ndownloader.figshare.com/files/44708299"
+      },
+      {
+        "bytes": 79,
+        "content_range": "bytes 2364065809-2364065887/2370825346",
+        "http_status": 206,
+        "member": "PAKISTAN-FLOODING/masks/PAKISTAN-FLOODING_001282_post_disaster.png",
+        "offset": 2364065809,
+        "role": "mask_compressed",
+        "sha256": "11bd544c48ac56aee1876f6e599e8b233c65ef40256b45b978206057fe911bad",
+        "url": "https://ndownloader.figshare.com/files/44708299"
+      }
+    ],
+    "sample_id": "PAKISTAN-FLOODING_001282",
+    "severe_reference_pixels": 0,
+    "sha256": "ef2a4c8949cdab1ef24e678bdb88cc276b1fd75e62066e47011c2ce53996efe6",
+    "source_member": "PAKISTAN-FLOODING/masks/PAKISTAN-FLOODING_001282_post_disaster.png"
+  },
+  {
+    "bytes": 334,
+    "class_pixels": {
+      "0": 262144,
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0
+    },
+    "crc32_verified": "ceb60ca4",
+    "encoding": "L",
+    "event": "PAKISTAN-FLOODING",
+    "mode": "published_post_mask",
+    "path": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/figshare/ebd_native_replication36_v1/reference_masks/PAKISTAN-FLOODING_003721.png",
+    "ranges": [
+      {
+        "bytes": 30,
+        "content_range": "bytes 2364722883-2364722912/2370825346",
+        "http_status": 206,
+        "member": "PAKISTAN-FLOODING/masks/PAKISTAN-FLOODING_003721_post_disaster.png",
+        "offset": 2364722883,
+        "role": "header30",
+        "sha256": "c5f786cacf9e6b5aa559ef1134e91ecffb1b842957d5f23042f172dcc4e201c1",
+        "url": "https://ndownloader.figshare.com/files/44708299"
+      },
+      {
+        "bytes": 66,
+        "content_range": "bytes 2364722913-2364722978/2370825346",
+        "http_status": 206,
+        "member": "PAKISTAN-FLOODING/masks/PAKISTAN-FLOODING_003721_post_disaster.png",
+        "offset": 2364722913,
+        "role": "name_extra",
+        "sha256": "56ca7794c7d9a3ff3d83a08b5946f214f32cc19209bcbbec787c3ebcdb20978c",
+        "url": "https://ndownloader.figshare.com/files/44708299"
+      },
+      {
+        "bytes": 79,
+        "content_range": "bytes 2364722979-2364723057/2370825346",
+        "http_status": 206,
+        "member": "PAKISTAN-FLOODING/masks/PAKISTAN-FLOODING_003721_post_disaster.png",
+        "offset": 2364722979,
+        "role": "mask_compressed",
+        "sha256": "11bd544c48ac56aee1876f6e599e8b233c65ef40256b45b978206057fe911bad",
+        "url": "https://ndownloader.figshare.com/files/44708299"
+      }
+    ],
+    "sample_id": "PAKISTAN-FLOODING_003721",
+    "severe_reference_pixels": 0,
+    "sha256": "ef2a4c8949cdab1ef24e678bdb88cc276b1fd75e62066e47011c2ce53996efe6",
+    "source_member": "PAKISTAN-FLOODING/masks/PAKISTAN-FLOODING_003721_post_disaster.png"
+  },
+  {
+    "bytes": 670,
+    "class_pixels": {
+      "0": 260109,
+      "1": 473,
+      "2": 1562,
+      "3": 0,
+      "4": 0
+    },
+    "crc32_verified": "d3eaba0b",
+    "encoding": "L",
+    "event": "PAKISTAN-FLOODING",
+    "mode": "published_post_mask",
+    "path": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/figshare/ebd_native_replication36_v1/reference_masks/PAKISTAN-FLOODING_005310.png",
+    "ranges": [
+      {
+        "bytes": 30,
+        "content_range": "bytes 2365179968-2365179997/2370825346",
+        "http_status": 206,
+        "member": "PAKISTAN-FLOODING/masks/PAKISTAN-FLOODING_005310_post_disaster.png",
+        "offset": 2365179968,
+        "role": "header30",
+        "sha256": "3e0ca06e32ff12eb93dc39e59e32bdf395b75700d180ec72ca805b8a8cba5e62",
+        "url": "https://ndownloader.figshare.com/files/44708299"
+      },
+      {
+        "bytes": 66,
+        "content_range": "bytes 2365179998-2365180063/2370825346",
+        "http_status": 206,
+        "member": "PAKISTAN-FLOODING/masks/PAKISTAN-FLOODING_005310_post_disaster.png",
+        "offset": 2365179998,
+        "role": "name_extra",
+        "sha256": "471a25b323983bcf6ae1be89785a1db919642ab5581c1e035bbbfd1cbf224aa8",
+        "url": "https://ndownloader.figshare.com/files/44708299"
+      },
+      {
+        "bytes": 445,
+        "content_range": "bytes 2365180064-2365180508/2370825346",
+        "http_status": 206,
+        "member": "PAKISTAN-FLOODING/masks/PAKISTAN-FLOODING_005310_post_disaster.png",
+        "offset": 2365180064,
+        "role": "mask_compressed",
+        "sha256": "726d6bbe3d990780c0b5e6fb9af2dc0ef8a6ea6e67afc0c22132e778b3942780",
+        "url": "https://ndownloader.figshare.com/files/44708299"
+      }
+    ],
+    "sample_id": "PAKISTAN-FLOODING_005310",
+    "severe_reference_pixels": 0,
+    "sha256": "76d797c2eb393798c656eff4ff45f3bb40accff1c3f3e56daa2a4b602db10a94",
+    "source_member": "PAKISTAN-FLOODING/masks/PAKISTAN-FLOODING_005310_post_disaster.png"
+  },
+  {
+    "bytes": 334,
+    "class_pixels": {
+      "0": 262144,
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0
+    },
+    "crc32_verified": "ceb60ca4",
+    "encoding": "L",
+    "event": "PAKISTAN-FLOODING",
+    "mode": "published_post_mask",
+    "path": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/figshare/ebd_native_replication36_v1/reference_masks/PAKISTAN-FLOODING_005905.png",
+    "ranges": [
+      {
+        "bytes": 30,
+        "content_range": "bytes 2365352891-2365352920/2370825346",
+        "http_status": 206,
+        "member": "PAKISTAN-FLOODING/masks/PAKISTAN-FLOODING_005905_post_disaster.png",
+        "offset": 2365352891,
+        "role": "header30",
+        "sha256": "d62fa95865803d7e25143d9d7df00f373af6655d71fd3d273976fbf03e837683",
+        "url": "https://ndownloader.figshare.com/files/44708299"
+      },
+      {
+        "bytes": 66,
+        "content_range": "bytes 2365352921-2365352986/2370825346",
+        "http_status": 206,
+        "member": "PAKISTAN-FLOODING/masks/PAKISTAN-FLOODING_005905_post_disaster.png",
+        "offset": 2365352921,
+        "role": "name_extra",
+        "sha256": "e962b43f6253524f9b340faf7224ecfd7a3a288bd65819b0e15c8a5fd2aa87bd",
+        "url": "https://ndownloader.figshare.com/files/44708299"
+      },
+      {
+        "bytes": 79,
+        "content_range": "bytes 2365352987-2365353065/2370825346",
+        "http_status": 206,
+        "member": "PAKISTAN-FLOODING/masks/PAKISTAN-FLOODING_005905_post_disaster.png",
+        "offset": 2365352987,
+        "role": "mask_compressed",
+        "sha256": "11bd544c48ac56aee1876f6e599e8b233c65ef40256b45b978206057fe911bad",
+        "url": "https://ndownloader.figshare.com/files/44708299"
+      }
+    ],
+    "sample_id": "PAKISTAN-FLOODING_005905",
+    "severe_reference_pixels": 0,
+    "sha256": "ef2a4c8949cdab1ef24e678bdb88cc276b1fd75e62066e47011c2ce53996efe6",
+    "source_member": "PAKISTAN-FLOODING/masks/PAKISTAN-FLOODING_005905_post_disaster.png"
+  },
+  {
+    "bytes": 575,
+    "class_pixels": {
+      "0": 260953,
+      "1": 1191,
+      "2": 0,
+      "3": 0,
+      "4": 0
+    },
+    "crc32_verified": "939170de",
+    "encoding": "L",
+    "event": "PAKISTAN-FLOODING",
+    "mode": "published_post_mask",
+    "path": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/figshare/ebd_native_replication36_v1/reference_masks/PAKISTAN-FLOODING_010048.png",
+    "ranges": [
+      {
+        "bytes": 30,
+        "content_range": "bytes 2366416957-2366416986/2370825346",
+        "http_status": 206,
+        "member": "PAKISTAN-FLOODING/masks/PAKISTAN-FLOODING_010048_post_disaster.png",
+        "offset": 2366416957,
+        "role": "header30",
+        "sha256": "0fe900a6efb908108f442d92fff7f6e7b9ef7c7964690c9443364e3d0162bff4",
+        "url": "https://ndownloader.figshare.com/files/44708299"
+      },
+      {
+        "bytes": 66,
+        "content_range": "bytes 2366416987-2366417052/2370825346",
+        "http_status": 206,
+        "member": "PAKISTAN-FLOODING/masks/PAKISTAN-FLOODING_010048_post_disaster.png",
+        "offset": 2366416987,
+        "role": "name_extra",
+        "sha256": "bd6be7a718fac3ea3df052332731fcd85e1deefa9126bc4ce50e0210aead70de",
+        "url": "https://ndownloader.figshare.com/files/44708299"
+      },
+      {
+        "bytes": 312,
+        "content_range": "bytes 2366417053-2366417364/2370825346",
+        "http_status": 206,
+        "member": "PAKISTAN-FLOODING/masks/PAKISTAN-FLOODING_010048_post_disaster.png",
+        "offset": 2366417053,
+        "role": "mask_compressed",
+        "sha256": "91017a3c41a9f29ca4632235108412853f2a84d6d46c3a832b252b55a3068357",
+        "url": "https://ndownloader.figshare.com/files/44708299"
+      }
+    ],
+    "sample_id": "PAKISTAN-FLOODING_010048",
+    "severe_reference_pixels": 0,
+    "sha256": "e24fb5f5f4cf2a53a51e902cb9e5bc9de51cee9455d91a91b75af825454ab262",
+    "source_member": "PAKISTAN-FLOODING/masks/PAKISTAN-FLOODING_010048_post_disaster.png"
+  },
+  {
+    "bytes": 334,
+    "class_pixels": {
+      "0": 262144,
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0
+    },
+    "crc32_verified": "ceb60ca4",
+    "encoding": "L",
+    "event": "PAKISTAN-FLOODING",
+    "mode": "published_post_mask",
+    "path": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/figshare/ebd_native_replication36_v1/reference_masks/PAKISTAN-FLOODING_012131.png",
+    "ranges": [
+      {
+        "bytes": 30,
+        "content_range": "bytes 2367019989-2367020018/2370825346",
+        "http_status": 206,
+        "member": "PAKISTAN-FLOODING/masks/PAKISTAN-FLOODING_012131_post_disaster.png",
+        "offset": 2367019989,
+        "role": "header30",
+        "sha256": "b3cd0c4ec44e112f4a1396f328169a97471d51c986376904cb5449b5ee1b7286",
+        "url": "https://ndownloader.figshare.com/files/44708299"
+      },
+      {
+        "bytes": 66,
+        "content_range": "bytes 2367020019-2367020084/2370825346",
+        "http_status": 206,
+        "member": "PAKISTAN-FLOODING/masks/PAKISTAN-FLOODING_012131_post_disaster.png",
+        "offset": 2367020019,
+        "role": "name_extra",
+        "sha256": "e42cb75a8834df8f5e7d26140e1a83ae87e15fd9eba1d40ccb094d164f1abee7",
+        "url": "https://ndownloader.figshare.com/files/44708299"
+      },
+      {
+        "bytes": 79,
+        "content_range": "bytes 2367020085-2367020163/2370825346",
+        "http_status": 206,
+        "member": "PAKISTAN-FLOODING/masks/PAKISTAN-FLOODING_012131_post_disaster.png",
+        "offset": 2367020085,
+        "role": "mask_compressed",
+        "sha256": "11bd544c48ac56aee1876f6e599e8b233c65ef40256b45b978206057fe911bad",
+        "url": "https://ndownloader.figshare.com/files/44708299"
+      }
+    ],
+    "sample_id": "PAKISTAN-FLOODING_012131",
+    "severe_reference_pixels": 0,
+    "sha256": "ef2a4c8949cdab1ef24e678bdb88cc276b1fd75e62066e47011c2ce53996efe6",
+    "source_member": "PAKISTAN-FLOODING/masks/PAKISTAN-FLOODING_012131_post_disaster.png"
+  },
+  {
+    "bytes": 459,
+    "class_pixels": {
+      "0": 261732,
+      "1": 0,
+      "2": 0,
+      "3": 412,
+      "4": 0
+    },
+    "crc32_verified": "f62e0987",
+    "encoding": "L",
+    "event": "PAKISTAN-FLOODING",
+    "mode": "published_post_mask",
+    "path": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/figshare/ebd_native_replication36_v1/reference_masks/PAKISTAN-FLOODING_013076.png",
+    "ranges": [
+      {
+        "bytes": 30,
+        "content_range": "bytes 2367265984-2367266013/2370825346",
+        "http_status": 206,
+        "member": "PAKISTAN-FLOODING/masks/PAKISTAN-FLOODING_013076_post_disaster.png",
+        "offset": 2367265984,
+        "role": "header30",
+        "sha256": "8d5128ccc04c479323c20242d8575ddd25826f1440602a477c0806e6737664d9",
+        "url": "https://ndownloader.figshare.com/files/44708299"
+      },
+      {
+        "bytes": 66,
+        "content_range": "bytes 2367266014-2367266079/2370825346",
+        "http_status": 206,
+        "member": "PAKISTAN-FLOODING/masks/PAKISTAN-FLOODING_013076_post_disaster.png",
+        "offset": 2367266014,
+        "role": "name_extra",
+        "sha256": "ce5226693441f6d49f8858d45fb97bd0cfcbe09296553024e15f13dcaf851a98",
+        "url": "https://ndownloader.figshare.com/files/44708299"
+      },
+      {
+        "bytes": 225,
+        "content_range": "bytes 2367266080-2367266304/2370825346",
+        "http_status": 206,
+        "member": "PAKISTAN-FLOODING/masks/PAKISTAN-FLOODING_013076_post_disaster.png",
+        "offset": 2367266080,
+        "role": "mask_compressed",
+        "sha256": "10293dc2804812ae03fed0e76d8581f47dc876d75678a79d805a05974c865648",
+        "url": "https://ndownloader.figshare.com/files/44708299"
+      }
+    ],
+    "sample_id": "PAKISTAN-FLOODING_013076",
+    "severe_reference_pixels": 412,
+    "sha256": "ca2fbca7d229673137c77054f318f59ad0c819ab0e2c4d2223ecff0cd16916e4",
+    "source_member": "PAKISTAN-FLOODING/masks/PAKISTAN-FLOODING_013076_post_disaster.png"
+  },
+  {
+    "bytes": 334,
+    "class_pixels": {
+      "0": 262144,
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0
+    },
+    "crc32_verified": "ceb60ca4",
+    "encoding": "L",
+    "event": "PAKISTAN-FLOODING",
+    "mode": "published_post_mask",
+    "path": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/figshare/ebd_native_replication36_v1/reference_masks/PAKISTAN-FLOODING_013624.png",
+    "ranges": [
+      {
+        "bytes": 30,
+        "content_range": "bytes 2367368799-2367368828/2370825346",
+        "http_status": 206,
+        "member": "PAKISTAN-FLOODING/masks/PAKISTAN-FLOODING_013624_post_disaster.png",
+        "offset": 2367368799,
+        "role": "header30",
+        "sha256": "4e6fe60ef7f955df260e7832cface074c77b61c346c323b29d6463cd2cc88b74",
+        "url": "https://ndownloader.figshare.com/files/44708299"
+      },
+      {
+        "bytes": 66,
+        "content_range": "bytes 2367368829-2367368894/2370825346",
+        "http_status": 206,
+        "member": "PAKISTAN-FLOODING/masks/PAKISTAN-FLOODING_013624_post_disaster.png",
+        "offset": 2367368829,
+        "role": "name_extra",
+        "sha256": "1c4dc80d9d0d614965b33cf4cab61a46633207eceedd778b7c9fdfc3dce679c0",
+        "url": "https://ndownloader.figshare.com/files/44708299"
+      },
+      {
+        "bytes": 79,
+        "content_range": "bytes 2367368895-2367368973/2370825346",
+        "http_status": 206,
+        "member": "PAKISTAN-FLOODING/masks/PAKISTAN-FLOODING_013624_post_disaster.png",
+        "offset": 2367368895,
+        "role": "mask_compressed",
+        "sha256": "11bd544c48ac56aee1876f6e599e8b233c65ef40256b45b978206057fe911bad",
+        "url": "https://ndownloader.figshare.com/files/44708299"
+      }
+    ],
+    "sample_id": "PAKISTAN-FLOODING_013624",
+    "severe_reference_pixels": 0,
+    "sha256": "ef2a4c8949cdab1ef24e678bdb88cc276b1fd75e62066e47011c2ce53996efe6",
+    "source_member": "PAKISTAN-FLOODING/masks/PAKISTAN-FLOODING_013624_post_disaster.png"
+  },
+  {
+    "bytes": 3582,
+    "class_pixels": {
+      "0": 241140,
+      "1": 21004,
+      "2": 0,
+      "3": 0,
+      "4": 0
+    },
+    "crc32_verified": "b008d22e",
+    "encoding": "L",
+    "event": "PAKISTAN-FLOODING",
+    "mode": "published_post_mask",
+    "path": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/figshare/ebd_native_replication36_v1/reference_masks/PAKISTAN-FLOODING_015052.png",
+    "ranges": [
+      {
+        "bytes": 30,
+        "content_range": "bytes 2367795302-2367795331/2370825346",
+        "http_status": 206,
+        "member": "PAKISTAN-FLOODING/masks/PAKISTAN-FLOODING_015052_post_disaster.png",
+        "offset": 2367795302,
+        "role": "header30",
+        "sha256": "b6a1717035015cf0db4f23609d9c3c63a6a5945856b09d5801216ae4b898c644",
+        "url": "https://ndownloader.figshare.com/files/44708299"
+      },
+      {
+        "bytes": 66,
+        "content_range": "bytes 2367795332-2367795397/2370825346",
+        "http_status": 206,
+        "member": "PAKISTAN-FLOODING/masks/PAKISTAN-FLOODING_015052_post_disaster.png",
+        "offset": 2367795332,
+        "role": "name_extra",
+        "sha256": "1d333e6d418e48fb7e444010affd54d01139a2df5a4da6a6a28870f5134ff11c",
+        "url": "https://ndownloader.figshare.com/files/44708299"
+      },
+      {
+        "bytes": 3509,
+        "content_range": "bytes 2367795398-2367798906/2370825346",
+        "http_status": 206,
+        "member": "PAKISTAN-FLOODING/masks/PAKISTAN-FLOODING_015052_post_disaster.png",
+        "offset": 2367795398,
+        "role": "mask_compressed",
+        "sha256": "c191a9d84614c2c01edd17a86ae72131815c8d0ad5c302eaf863ceec3b86280d",
+        "url": "https://ndownloader.figshare.com/files/44708299"
+      }
+    ],
+    "sample_id": "PAKISTAN-FLOODING_015052",
+    "severe_reference_pixels": 0,
+    "sha256": "ddd5cff72888282bc27eb8f6b9a0f8f1a8f292460d15e926f145060dd0cca6f3",
+    "source_member": "PAKISTAN-FLOODING/masks/PAKISTAN-FLOODING_015052_post_disaster.png"
+  },
+  {
+    "bytes": 334,
+    "class_pixels": {
+      "0": 262144,
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0
+    },
+    "crc32_verified": "ceb60ca4",
+    "encoding": "L",
+    "event": "PAKISTAN-FLOODING",
+    "mode": "published_post_mask",
+    "path": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/figshare/ebd_native_replication36_v1/reference_masks/PAKISTAN-FLOODING_015713.png",
+    "ranges": [
+      {
+        "bytes": 30,
+        "content_range": "bytes 2368055462-2368055491/2370825346",
+        "http_status": 206,
+        "member": "PAKISTAN-FLOODING/masks/PAKISTAN-FLOODING_015713_post_disaster.png",
+        "offset": 2368055462,
+        "role": "header30",
+        "sha256": "63eb07da1020c7e1b091a5d8eadf346fa827a668ee0c93b1fc2689b0ff7d187e",
+        "url": "https://ndownloader.figshare.com/files/44708299"
+      },
+      {
+        "bytes": 66,
+        "content_range": "bytes 2368055492-2368055557/2370825346",
+        "http_status": 206,
+        "member": "PAKISTAN-FLOODING/masks/PAKISTAN-FLOODING_015713_post_disaster.png",
+        "offset": 2368055492,
+        "role": "name_extra",
+        "sha256": "180a38ce5302ffaea5b45b8e5f63e8399f414648b30a40920cafb231a6696542",
+        "url": "https://ndownloader.figshare.com/files/44708299"
+      },
+      {
+        "bytes": 79,
+        "content_range": "bytes 2368055558-2368055636/2370825346",
+        "http_status": 206,
+        "member": "PAKISTAN-FLOODING/masks/PAKISTAN-FLOODING_015713_post_disaster.png",
+        "offset": 2368055558,
+        "role": "mask_compressed",
+        "sha256": "11bd544c48ac56aee1876f6e599e8b233c65ef40256b45b978206057fe911bad",
+        "url": "https://ndownloader.figshare.com/files/44708299"
+      }
+    ],
+    "sample_id": "PAKISTAN-FLOODING_015713",
+    "severe_reference_pixels": 0,
+    "sha256": "ef2a4c8949cdab1ef24e678bdb88cc276b1fd75e62066e47011c2ce53996efe6",
+    "source_member": "PAKISTAN-FLOODING/masks/PAKISTAN-FLOODING_015713_post_disaster.png"
+  },
+  {
+    "bytes": 334,
+    "class_pixels": {
+      "0": 262144,
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0
+    },
+    "crc32_verified": "ceb60ca4",
+    "encoding": "L",
+    "event": "PAKISTAN-FLOODING",
+    "mode": "published_post_mask",
+    "path": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/figshare/ebd_native_replication36_v1/reference_masks/PAKISTAN-FLOODING_017185.png",
+    "ranges": [
+      {
+        "bytes": 30,
+        "content_range": "bytes 2368454651-2368454680/2370825346",
+        "http_status": 206,
+        "member": "PAKISTAN-FLOODING/masks/PAKISTAN-FLOODING_017185_post_disaster.png",
+        "offset": 2368454651,
+        "role": "header30",
+        "sha256": "c250a1be8f6018f19964c32c1b201aca8d8cf830dca7d5d5043bc71f8cef7b53",
+        "url": "https://ndownloader.figshare.com/files/44708299"
+      },
+      {
+        "bytes": 66,
+        "content_range": "bytes 2368454681-2368454746/2370825346",
+        "http_status": 206,
+        "member": "PAKISTAN-FLOODING/masks/PAKISTAN-FLOODING_017185_post_disaster.png",
+        "offset": 2368454681,
+        "role": "name_extra",
+        "sha256": "77aaa2087ba132f53f3d5fc78c2733b2296d621aed1a83e77aaf52913815bab7",
+        "url": "https://ndownloader.figshare.com/files/44708299"
+      },
+      {
+        "bytes": 79,
+        "content_range": "bytes 2368454747-2368454825/2370825346",
+        "http_status": 206,
+        "member": "PAKISTAN-FLOODING/masks/PAKISTAN-FLOODING_017185_post_disaster.png",
+        "offset": 2368454747,
+        "role": "mask_compressed",
+        "sha256": "11bd544c48ac56aee1876f6e599e8b233c65ef40256b45b978206057fe911bad",
+        "url": "https://ndownloader.figshare.com/files/44708299"
+      }
+    ],
+    "sample_id": "PAKISTAN-FLOODING_017185",
+    "severe_reference_pixels": 0,
+    "sha256": "ef2a4c8949cdab1ef24e678bdb88cc276b1fd75e62066e47011c2ce53996efe6",
+    "source_member": "PAKISTAN-FLOODING/masks/PAKISTAN-FLOODING_017185_post_disaster.png"
+  },
+  {
+    "bytes": 334,
+    "class_pixels": {
+      "0": 262144,
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0
+    },
+    "crc32_verified": "ceb60ca4",
+    "encoding": "L",
+    "event": "PAKISTAN-FLOODING",
+    "mode": "published_post_mask",
+    "path": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/figshare/ebd_native_replication36_v1/reference_masks/PAKISTAN-FLOODING_017962.png",
+    "ranges": [
+      {
+        "bytes": 30,
+        "content_range": "bytes 2368656689-2368656718/2370825346",
+        "http_status": 206,
+        "member": "PAKISTAN-FLOODING/masks/PAKISTAN-FLOODING_017962_post_disaster.png",
+        "offset": 2368656689,
+        "role": "header30",
+        "sha256": "19c5f4c629ad9e78655077c8e600051d4732136320f35207c483794da9b8fb25",
+        "url": "https://ndownloader.figshare.com/files/44708299"
+      },
+      {
+        "bytes": 66,
+        "content_range": "bytes 2368656719-2368656784/2370825346",
+        "http_status": 206,
+        "member": "PAKISTAN-FLOODING/masks/PAKISTAN-FLOODING_017962_post_disaster.png",
+        "offset": 2368656719,
+        "role": "name_extra",
+        "sha256": "d5b7d2d885e2e22548c52a135ddf4487debfb0e450b0b36da675b812c7b1f09b",
+        "url": "https://ndownloader.figshare.com/files/44708299"
+      },
+      {
+        "bytes": 79,
+        "content_range": "bytes 2368656785-2368656863/2370825346",
+        "http_status": 206,
+        "member": "PAKISTAN-FLOODING/masks/PAKISTAN-FLOODING_017962_post_disaster.png",
+        "offset": 2368656785,
+        "role": "mask_compressed",
+        "sha256": "11bd544c48ac56aee1876f6e599e8b233c65ef40256b45b978206057fe911bad",
+        "url": "https://ndownloader.figshare.com/files/44708299"
+      }
+    ],
+    "sample_id": "PAKISTAN-FLOODING_017962",
+    "severe_reference_pixels": 0,
+    "sha256": "ef2a4c8949cdab1ef24e678bdb88cc276b1fd75e62066e47011c2ce53996efe6",
+    "source_member": "PAKISTAN-FLOODING/masks/PAKISTAN-FLOODING_017962_post_disaster.png"
+  },
+  {
+    "bytes": 4427,
+    "class_pixels": {
+      "0": 212854,
+      "1": 49290,
+      "2": 0,
+      "3": 0,
+      "4": 0
+    },
+    "crc32_verified": "091d7b8a",
+    "encoding": "L",
+    "event": "TEXAS-TORNADOES",
+    "mode": "published_post_mask",
+    "path": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/figshare/ebd_native_replication36_v1/reference_masks/TEXAS-TORNADOES_000403.png",
+    "ranges": [
+      {
+        "bytes": 30,
+        "content_range": "bytes 360469591-360469620/361433408",
+        "http_status": 206,
+        "member": "TEXAS-TORNADOES/masks/TEXAS-TORNADOES_000403_post_disaster.png",
+        "offset": 360469591,
+        "role": "header30",
+        "sha256": "d84c44eefd9bb5756c99141934614b8f268ce169ea6828830ed458bbdd7440b4",
+        "url": "https://ndownloader.figshare.com/files/44705161"
+      },
+      {
+        "bytes": 62,
+        "content_range": "bytes 360469621-360469682/361433408",
+        "http_status": 206,
+        "member": "TEXAS-TORNADOES/masks/TEXAS-TORNADOES_000403_post_disaster.png",
+        "offset": 360469621,
+        "role": "name_extra",
+        "sha256": "e440d1ed5938cc6bdc1228b2f5e213c336b967514a3f36e4056ba970ba793255",
+        "url": "https://ndownloader.figshare.com/files/44705161"
+      },
+      {
+        "bytes": 4290,
+        "content_range": "bytes 360469683-360473972/361433408",
+        "http_status": 206,
+        "member": "TEXAS-TORNADOES/masks/TEXAS-TORNADOES_000403_post_disaster.png",
+        "offset": 360469683,
+        "role": "mask_compressed",
+        "sha256": "68fd06cf8d162e5d920ab92fcd493a197d1bdda7fc60ee6d9ea120edeb5eaa47",
+        "url": "https://ndownloader.figshare.com/files/44705161"
+      }
+    ],
+    "sample_id": "TEXAS-TORNADOES_000403",
+    "severe_reference_pixels": 0,
+    "sha256": "2c589f7740921b3f91b6196cda101ca17a6e383124be24b0164eeb3f1cc375cf",
+    "source_member": "TEXAS-TORNADOES/masks/TEXAS-TORNADOES_000403_post_disaster.png"
+  },
+  {
+    "bytes": 3596,
+    "class_pixels": {
+      "0": 232390,
+      "1": 19440,
+      "2": 4336,
+      "3": 2666,
+      "4": 3312
+    },
+    "crc32_verified": "5e73b591",
+    "encoding": "L",
+    "event": "TEXAS-TORNADOES",
+    "mode": "published_post_mask",
+    "path": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/figshare/ebd_native_replication36_v1/reference_masks/TEXAS-TORNADOES_001665.png",
+    "ranges": [
+      {
+        "bytes": 30,
+        "content_range": "bytes 360517726-360517755/361433408",
+        "http_status": 206,
+        "member": "TEXAS-TORNADOES/masks/TEXAS-TORNADOES_001665_post_disaster.png",
+        "offset": 360517726,
+        "role": "header30",
+        "sha256": "212bd801c1409eac2e874176143fb2f03a0557ee9df751717f6f3908be1509f7",
+        "url": "https://ndownloader.figshare.com/files/44705161"
+      },
+      {
+        "bytes": 62,
+        "content_range": "bytes 360517756-360517817/361433408",
+        "http_status": 206,
+        "member": "TEXAS-TORNADOES/masks/TEXAS-TORNADOES_001665_post_disaster.png",
+        "offset": 360517756,
+        "role": "name_extra",
+        "sha256": "7bfba32b1721e5aa7bd19ff215ef2e152551166dc6f33ea20054b635e374ac7d",
+        "url": "https://ndownloader.figshare.com/files/44705161"
+      },
+      {
+        "bytes": 3479,
+        "content_range": "bytes 360517818-360521296/361433408",
+        "http_status": 206,
+        "member": "TEXAS-TORNADOES/masks/TEXAS-TORNADOES_001665_post_disaster.png",
+        "offset": 360517818,
+        "role": "mask_compressed",
+        "sha256": "f5c450afd6d0a4bf2666cce6fe724f5278f7ed7dc21d9d8cf4ee19951958cc0b",
+        "url": "https://ndownloader.figshare.com/files/44705161"
+      }
+    ],
+    "sample_id": "TEXAS-TORNADOES_001665",
+    "severe_reference_pixels": 5978,
+    "sha256": "0eb3507e9f2b2bf77b410079de9a54ba92d601019d7c7efa6719056abdd31baa",
+    "source_member": "TEXAS-TORNADOES/masks/TEXAS-TORNADOES_001665_post_disaster.png"
+  },
+  {
+    "bytes": 334,
+    "class_pixels": {
+      "0": 262144,
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0
+    },
+    "crc32_verified": "ceb60ca4",
+    "encoding": "L",
+    "event": "TEXAS-TORNADOES",
+    "mode": "published_post_mask",
+    "path": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/figshare/ebd_native_replication36_v1/reference_masks/TEXAS-TORNADOES_002028.png",
+    "ranges": [
+      {
+        "bytes": 30,
+        "content_range": "bytes 360537280-360537309/361433408",
+        "http_status": 206,
+        "member": "TEXAS-TORNADOES/masks/TEXAS-TORNADOES_002028_post_disaster.png",
+        "offset": 360537280,
+        "role": "header30",
+        "sha256": "bb2b1569550c5178802b98ac19dfd332d057cf4949d02f87a0b15746a1d2e142",
+        "url": "https://ndownloader.figshare.com/files/44705161"
+      },
+      {
+        "bytes": 62,
+        "content_range": "bytes 360537310-360537371/361433408",
+        "http_status": 206,
+        "member": "TEXAS-TORNADOES/masks/TEXAS-TORNADOES_002028_post_disaster.png",
+        "offset": 360537310,
+        "role": "name_extra",
+        "sha256": "cb4a76f5de71a36a26b0041b29b086d5e3bed1cc2110117d9de09b647c062160",
+        "url": "https://ndownloader.figshare.com/files/44705161"
+      },
+      {
+        "bytes": 79,
+        "content_range": "bytes 360537372-360537450/361433408",
+        "http_status": 206,
+        "member": "TEXAS-TORNADOES/masks/TEXAS-TORNADOES_002028_post_disaster.png",
+        "offset": 360537372,
+        "role": "mask_compressed",
+        "sha256": "11bd544c48ac56aee1876f6e599e8b233c65ef40256b45b978206057fe911bad",
+        "url": "https://ndownloader.figshare.com/files/44705161"
+      }
+    ],
+    "sample_id": "TEXAS-TORNADOES_002028",
+    "severe_reference_pixels": 0,
+    "sha256": "ef2a4c8949cdab1ef24e678bdb88cc276b1fd75e62066e47011c2ce53996efe6",
+    "source_member": "TEXAS-TORNADOES/masks/TEXAS-TORNADOES_002028_post_disaster.png"
+  },
+  {
+    "bytes": 453,
+    "class_pixels": {
+      "0": 261713,
+      "1": 431,
+      "2": 0,
+      "3": 0,
+      "4": 0
+    },
+    "crc32_verified": "a2167b1e",
+    "encoding": "L",
+    "event": "TEXAS-TORNADOES",
+    "mode": "published_post_mask",
+    "path": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/figshare/ebd_native_replication36_v1/reference_masks/TEXAS-TORNADOES_004617.png",
+    "ranges": [
+      {
+        "bytes": 30,
+        "content_range": "bytes 360652279-360652308/361433408",
+        "http_status": 206,
+        "member": "TEXAS-TORNADOES/masks/TEXAS-TORNADOES_004617_post_disaster.png",
+        "offset": 360652279,
+        "role": "header30",
+        "sha256": "27f21cb2a7be4fa4552871fa9a034a964007038848ed11a3bc0e5ca525fe033d",
+        "url": "https://ndownloader.figshare.com/files/44705161"
+      },
+      {
+        "bytes": 62,
+        "content_range": "bytes 360652309-360652370/361433408",
+        "http_status": 206,
+        "member": "TEXAS-TORNADOES/masks/TEXAS-TORNADOES_004617_post_disaster.png",
+        "offset": 360652309,
+        "role": "name_extra",
+        "sha256": "bf4118ea834ed91255fc326af54102df518ebd4387d4982d118a199be9662786",
+        "url": "https://ndownloader.figshare.com/files/44705161"
+      },
+      {
+        "bytes": 175,
+        "content_range": "bytes 360652371-360652545/361433408",
+        "http_status": 206,
+        "member": "TEXAS-TORNADOES/masks/TEXAS-TORNADOES_004617_post_disaster.png",
+        "offset": 360652371,
+        "role": "mask_compressed",
+        "sha256": "ff842c4c4ecc38b525231b884b8bfe70192e5284a561c436f645bcfe6ddb4128",
+        "url": "https://ndownloader.figshare.com/files/44705161"
+      }
+    ],
+    "sample_id": "TEXAS-TORNADOES_004617",
+    "severe_reference_pixels": 0,
+    "sha256": "8ea1d9f31b304f28256ed5563bda85d6289fb9b90f2fa1d1bfc3c4d289bcac7f",
+    "source_member": "TEXAS-TORNADOES/masks/TEXAS-TORNADOES_004617_post_disaster.png"
+  },
+  {
+    "bytes": 684,
+    "class_pixels": {
+      "0": 259698,
+      "1": 2446,
+      "2": 0,
+      "3": 0,
+      "4": 0
+    },
+    "crc32_verified": "cf84c6f7",
+    "encoding": "L",
+    "event": "TEXAS-TORNADOES",
+    "mode": "published_post_mask",
+    "path": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/figshare/ebd_native_replication36_v1/reference_masks/TEXAS-TORNADOES_005210.png",
+    "ranges": [
+      {
+        "bytes": 30,
+        "content_range": "bytes 360686887-360686916/361433408",
+        "http_status": 206,
+        "member": "TEXAS-TORNADOES/masks/TEXAS-TORNADOES_005210_post_disaster.png",
+        "offset": 360686887,
+        "role": "header30",
+        "sha256": "fb93d3ed7e6553ebdbb8a7a8c86df9cf056baa017d605f624988b2f644da545e",
+        "url": "https://ndownloader.figshare.com/files/44705161"
+      },
+      {
+        "bytes": 62,
+        "content_range": "bytes 360686917-360686978/361433408",
+        "http_status": 206,
+        "member": "TEXAS-TORNADOES/masks/TEXAS-TORNADOES_005210_post_disaster.png",
+        "offset": 360686917,
+        "role": "name_extra",
+        "sha256": "2199c960a633fb19b8652c15a084d5493989888ba7d3342249107686fc0a5cbe",
+        "url": "https://ndownloader.figshare.com/files/44705161"
+      },
+      {
+        "bytes": 465,
+        "content_range": "bytes 360686979-360687443/361433408",
+        "http_status": 206,
+        "member": "TEXAS-TORNADOES/masks/TEXAS-TORNADOES_005210_post_disaster.png",
+        "offset": 360686979,
+        "role": "mask_compressed",
+        "sha256": "6a82c069e435a95c96b530db071f548b86693e9eb1286d6cc54dd19f5b315d90",
+        "url": "https://ndownloader.figshare.com/files/44705161"
+      }
+    ],
+    "sample_id": "TEXAS-TORNADOES_005210",
+    "severe_reference_pixels": 0,
+    "sha256": "8135388373f1e1c419095a642c1f6fca5cc933c8be7906024219244e5804f824",
+    "source_member": "TEXAS-TORNADOES/masks/TEXAS-TORNADOES_005210_post_disaster.png"
+  },
+  {
+    "bytes": 334,
+    "class_pixels": {
+      "0": 262144,
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0
+    },
+    "crc32_verified": "ceb60ca4",
+    "encoding": "L",
+    "event": "TEXAS-TORNADOES",
+    "mode": "published_post_mask",
+    "path": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/figshare/ebd_native_replication36_v1/reference_masks/TEXAS-TORNADOES_005722.png",
+    "ranges": [
+      {
+        "bytes": 30,
+        "content_range": "bytes 360723552-360723581/361433408",
+        "http_status": 206,
+        "member": "TEXAS-TORNADOES/masks/TEXAS-TORNADOES_005722_post_disaster.png",
+        "offset": 360723552,
+        "role": "header30",
+        "sha256": "edca3f44d4851cfa3b315f68c9d5a825f08e6ace3b3bb53722b78585b69b306c",
+        "url": "https://ndownloader.figshare.com/files/44705161"
+      },
+      {
+        "bytes": 62,
+        "content_range": "bytes 360723582-360723643/361433408",
+        "http_status": 206,
+        "member": "TEXAS-TORNADOES/masks/TEXAS-TORNADOES_005722_post_disaster.png",
+        "offset": 360723582,
+        "role": "name_extra",
+        "sha256": "6212a32834bcf608f8de183350d978da4cefbd84f3a39d037a53de9ffb3aac67",
+        "url": "https://ndownloader.figshare.com/files/44705161"
+      },
+      {
+        "bytes": 79,
+        "content_range": "bytes 360723644-360723722/361433408",
+        "http_status": 206,
+        "member": "TEXAS-TORNADOES/masks/TEXAS-TORNADOES_005722_post_disaster.png",
+        "offset": 360723644,
+        "role": "mask_compressed",
+        "sha256": "11bd544c48ac56aee1876f6e599e8b233c65ef40256b45b978206057fe911bad",
+        "url": "https://ndownloader.figshare.com/files/44705161"
+      }
+    ],
+    "sample_id": "TEXAS-TORNADOES_005722",
+    "severe_reference_pixels": 0,
+    "sha256": "ef2a4c8949cdab1ef24e678bdb88cc276b1fd75e62066e47011c2ce53996efe6",
+    "source_member": "TEXAS-TORNADOES/masks/TEXAS-TORNADOES_005722_post_disaster.png"
+  },
+  {
+    "bytes": 334,
+    "class_pixels": {
+      "0": 262144,
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0
+    },
+    "crc32_verified": "ceb60ca4",
+    "encoding": "L",
+    "event": "TEXAS-TORNADOES",
+    "mode": "published_post_mask",
+    "path": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/figshare/ebd_native_replication36_v1/reference_masks/TEXAS-TORNADOES_007034.png",
+    "ranges": [
+      {
+        "bytes": 30,
+        "content_range": "bytes 360789126-360789155/361433408",
+        "http_status": 206,
+        "member": "TEXAS-TORNADOES/masks/TEXAS-TORNADOES_007034_post_disaster.png",
+        "offset": 360789126,
+        "role": "header30",
+        "sha256": "8867c5434d0c78ce42464e0a16194a011fdb47708023bbab0dd65ad406497766",
+        "url": "https://ndownloader.figshare.com/files/44705161"
+      },
+      {
+        "bytes": 62,
+        "content_range": "bytes 360789156-360789217/361433408",
+        "http_status": 206,
+        "member": "TEXAS-TORNADOES/masks/TEXAS-TORNADOES_007034_post_disaster.png",
+        "offset": 360789156,
+        "role": "name_extra",
+        "sha256": "cc937c88f0713018c45521126dfc95af613a5d31a50e868033d96ab4c166f245",
+        "url": "https://ndownloader.figshare.com/files/44705161"
+      },
+      {
+        "bytes": 79,
+        "content_range": "bytes 360789218-360789296/361433408",
+        "http_status": 206,
+        "member": "TEXAS-TORNADOES/masks/TEXAS-TORNADOES_007034_post_disaster.png",
+        "offset": 360789218,
+        "role": "mask_compressed",
+        "sha256": "11bd544c48ac56aee1876f6e599e8b233c65ef40256b45b978206057fe911bad",
+        "url": "https://ndownloader.figshare.com/files/44705161"
+      }
+    ],
+    "sample_id": "TEXAS-TORNADOES_007034",
+    "severe_reference_pixels": 0,
+    "sha256": "ef2a4c8949cdab1ef24e678bdb88cc276b1fd75e62066e47011c2ce53996efe6",
+    "source_member": "TEXAS-TORNADOES/masks/TEXAS-TORNADOES_007034_post_disaster.png"
+  },
+  {
+    "bytes": 3778,
+    "class_pixels": {
+      "0": 221936,
+      "1": 40208,
+      "2": 0,
+      "3": 0,
+      "4": 0
+    },
+    "crc32_verified": "8991feb5",
+    "encoding": "L",
+    "event": "TEXAS-TORNADOES",
+    "mode": "published_post_mask",
+    "path": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/figshare/ebd_native_replication36_v1/reference_masks/TEXAS-TORNADOES_009474.png",
+    "ranges": [
+      {
+        "bytes": 30,
+        "content_range": "bytes 360860414-360860443/361433408",
+        "http_status": 206,
+        "member": "TEXAS-TORNADOES/masks/TEXAS-TORNADOES_009474_post_disaster.png",
+        "offset": 360860414,
+        "role": "header30",
+        "sha256": "f413435a7848112a0aecc1edbc5b8792622cc84617c0f8b76d75f47061d92bf2",
+        "url": "https://ndownloader.figshare.com/files/44705161"
+      },
+      {
+        "bytes": 62,
+        "content_range": "bytes 360860444-360860505/361433408",
+        "http_status": 206,
+        "member": "TEXAS-TORNADOES/masks/TEXAS-TORNADOES_009474_post_disaster.png",
+        "offset": 360860444,
+        "role": "name_extra",
+        "sha256": "622adf3fe929ec56dee70b7bc5e1d9f4cf44326c0327a1c6cd90c73b4f20081d",
+        "url": "https://ndownloader.figshare.com/files/44705161"
+      },
+      {
+        "bytes": 3675,
+        "content_range": "bytes 360860506-360864180/361433408",
+        "http_status": 206,
+        "member": "TEXAS-TORNADOES/masks/TEXAS-TORNADOES_009474_post_disaster.png",
+        "offset": 360860506,
+        "role": "mask_compressed",
+        "sha256": "071094b2b11dfcd283f2d70546d5fcb7248203966f3d5cfc985964440eb65ea8",
+        "url": "https://ndownloader.figshare.com/files/44705161"
+      }
+    ],
+    "sample_id": "TEXAS-TORNADOES_009474",
+    "severe_reference_pixels": 0,
+    "sha256": "a2e3f6a4e974a3b6e71f38eab46664039829a7b778fdc62ab24481ad92904b46",
+    "source_member": "TEXAS-TORNADOES/masks/TEXAS-TORNADOES_009474_post_disaster.png"
+  },
+  {
+    "bytes": 634,
+    "class_pixels": {
+      "0": 260578,
+      "1": 1566,
+      "2": 0,
+      "3": 0,
+      "4": 0
+    },
+    "crc32_verified": "c4be7270",
+    "encoding": "L",
+    "event": "TEXAS-TORNADOES",
+    "mode": "published_post_mask",
+    "path": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/figshare/ebd_native_replication36_v1/reference_masks/TEXAS-TORNADOES_009557.png",
+    "ranges": [
+      {
+        "bytes": 30,
+        "content_range": "bytes 360867961-360867990/361433408",
+        "http_status": 206,
+        "member": "TEXAS-TORNADOES/masks/TEXAS-TORNADOES_009557_post_disaster.png",
+        "offset": 360867961,
+        "role": "header30",
+        "sha256": "a6c687e5d31e4f2c78a950d58725e4b5d3589fbee15053c6949820178813a3f8",
+        "url": "https://ndownloader.figshare.com/files/44705161"
+      },
+      {
+        "bytes": 62,
+        "content_range": "bytes 360867991-360868052/361433408",
+        "http_status": 206,
+        "member": "TEXAS-TORNADOES/masks/TEXAS-TORNADOES_009557_post_disaster.png",
+        "offset": 360867991,
+        "role": "name_extra",
+        "sha256": "656ec47a8b8ab64c86da49c1e217045033a90e0e713b3cb644ad1f42ad07c801",
+        "url": "https://ndownloader.figshare.com/files/44705161"
+      },
+      {
+        "bytes": 421,
+        "content_range": "bytes 360868053-360868473/361433408",
+        "http_status": 206,
+        "member": "TEXAS-TORNADOES/masks/TEXAS-TORNADOES_009557_post_disaster.png",
+        "offset": 360868053,
+        "role": "mask_compressed",
+        "sha256": "9060569be7a5dac3ddabf36a8108d6fe6a8ffce474752ce3a22b55968abb8462",
+        "url": "https://ndownloader.figshare.com/files/44705161"
+      }
+    ],
+    "sample_id": "TEXAS-TORNADOES_009557",
+    "severe_reference_pixels": 0,
+    "sha256": "7f5ec539beabaaf1eac533a37d5eefb31c4fb34bd9fe94376ba0ba0f363a8367",
+    "source_member": "TEXAS-TORNADOES/masks/TEXAS-TORNADOES_009557_post_disaster.png"
+  },
+  {
+    "bytes": 459,
+    "class_pixels": {
+      "0": 261821,
+      "1": 323,
+      "2": 0,
+      "3": 0,
+      "4": 0
+    },
+    "crc32_verified": "e0914874",
+    "encoding": "L",
+    "event": "TEXAS-TORNADOES",
+    "mode": "published_post_mask",
+    "path": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/figshare/ebd_native_replication36_v1/reference_masks/TEXAS-TORNADOES_012106.png",
+    "ranges": [
+      {
+        "bytes": 30,
+        "content_range": "bytes 360952849-360952878/361433408",
+        "http_status": 206,
+        "member": "TEXAS-TORNADOES/masks/TEXAS-TORNADOES_012106_post_disaster.png",
+        "offset": 360952849,
+        "role": "header30",
+        "sha256": "0b065d4fad97376aa011a786f4b0dbf068543ea54c8d3eed2699beb0767cdafb",
+        "url": "https://ndownloader.figshare.com/files/44705161"
+      },
+      {
+        "bytes": 62,
+        "content_range": "bytes 360952879-360952940/361433408",
+        "http_status": 206,
+        "member": "TEXAS-TORNADOES/masks/TEXAS-TORNADOES_012106_post_disaster.png",
+        "offset": 360952879,
+        "role": "name_extra",
+        "sha256": "f4d8d8238a4fe883237e08a1976daf5000185a0bbb3f5af384e643c82a31be44",
+        "url": "https://ndownloader.figshare.com/files/44705161"
+      },
+      {
+        "bytes": 203,
+        "content_range": "bytes 360952941-360953143/361433408",
+        "http_status": 206,
+        "member": "TEXAS-TORNADOES/masks/TEXAS-TORNADOES_012106_post_disaster.png",
+        "offset": 360952941,
+        "role": "mask_compressed",
+        "sha256": "d9d7e830931ccac27f29d2248e2d0ad9d1a2bacf5825e0aa762685083d68551c",
+        "url": "https://ndownloader.figshare.com/files/44705161"
+      }
+    ],
+    "sample_id": "TEXAS-TORNADOES_012106",
+    "severe_reference_pixels": 0,
+    "sha256": "20cf51c47be8bfb47fdb187fe65bec440837e13e8f355a256018611b1f109368",
+    "source_member": "TEXAS-TORNADOES/masks/TEXAS-TORNADOES_012106_post_disaster.png"
+  },
+  {
+    "bytes": 334,
+    "class_pixels": {
+      "0": 262144,
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0
+    },
+    "crc32_verified": "ceb60ca4",
+    "encoding": "L",
+    "event": "TEXAS-TORNADOES",
+    "mode": "published_post_mask",
+    "path": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/figshare/ebd_native_replication36_v1/reference_masks/TEXAS-TORNADOES_012926.png",
+    "ranges": [
+      {
+        "bytes": 30,
+        "content_range": "bytes 360978411-360978440/361433408",
+        "http_status": 206,
+        "member": "TEXAS-TORNADOES/masks/TEXAS-TORNADOES_012926_post_disaster.png",
+        "offset": 360978411,
+        "role": "header30",
+        "sha256": "0e35fea079d31d994e597308f22783fa365303c559ba10bba976a74b45acb557",
+        "url": "https://ndownloader.figshare.com/files/44705161"
+      },
+      {
+        "bytes": 62,
+        "content_range": "bytes 360978441-360978502/361433408",
+        "http_status": 206,
+        "member": "TEXAS-TORNADOES/masks/TEXAS-TORNADOES_012926_post_disaster.png",
+        "offset": 360978441,
+        "role": "name_extra",
+        "sha256": "fad19799a7565bd296a7b3e72a3901416421ce1e4a225afddcc32036d6c31e5c",
+        "url": "https://ndownloader.figshare.com/files/44705161"
+      },
+      {
+        "bytes": 79,
+        "content_range": "bytes 360978503-360978581/361433408",
+        "http_status": 206,
+        "member": "TEXAS-TORNADOES/masks/TEXAS-TORNADOES_012926_post_disaster.png",
+        "offset": 360978503,
+        "role": "mask_compressed",
+        "sha256": "11bd544c48ac56aee1876f6e599e8b233c65ef40256b45b978206057fe911bad",
+        "url": "https://ndownloader.figshare.com/files/44705161"
+      }
+    ],
+    "sample_id": "TEXAS-TORNADOES_012926",
+    "severe_reference_pixels": 0,
+    "sha256": "ef2a4c8949cdab1ef24e678bdb88cc276b1fd75e62066e47011c2ce53996efe6",
+    "source_member": "TEXAS-TORNADOES/masks/TEXAS-TORNADOES_012926_post_disaster.png"
+  },
+  {
+    "bytes": 615,
+    "class_pixels": {
+      "0": 260808,
+      "1": 1336,
+      "2": 0,
+      "3": 0,
+      "4": 0
+    },
+    "crc32_verified": "eaf30246",
+    "encoding": "L",
+    "event": "TEXAS-TORNADOES",
+    "mode": "published_post_mask",
+    "path": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/figshare/ebd_native_replication36_v1/reference_masks/TEXAS-TORNADOES_014048.png",
+    "ranges": [
+      {
+        "bytes": 30,
+        "content_range": "bytes 361028534-361028563/361433408",
+        "http_status": 206,
+        "member": "TEXAS-TORNADOES/masks/TEXAS-TORNADOES_014048_post_disaster.png",
+        "offset": 361028534,
+        "role": "header30",
+        "sha256": "9857929e8ad94d4a7cf2ee93f7211b8c73f1866e06b6bca5b60305ac0d6cb8d7",
+        "url": "https://ndownloader.figshare.com/files/44705161"
+      },
+      {
+        "bytes": 62,
+        "content_range": "bytes 361028564-361028625/361433408",
+        "http_status": 206,
+        "member": "TEXAS-TORNADOES/masks/TEXAS-TORNADOES_014048_post_disaster.png",
+        "offset": 361028564,
+        "role": "name_extra",
+        "sha256": "dc22a0c1897cfcfbc1a50ded01f766ed425be665b86e0971b4dbe9397492c8e4",
+        "url": "https://ndownloader.figshare.com/files/44705161"
+      },
+      {
+        "bytes": 360,
+        "content_range": "bytes 361028626-361028985/361433408",
+        "http_status": 206,
+        "member": "TEXAS-TORNADOES/masks/TEXAS-TORNADOES_014048_post_disaster.png",
+        "offset": 361028626,
+        "role": "mask_compressed",
+        "sha256": "41dc56b3f06209161138bd5f0d4beed5564bf68ff9de8e5a7c38df103af45306",
+        "url": "https://ndownloader.figshare.com/files/44705161"
+      }
+    ],
+    "sample_id": "TEXAS-TORNADOES_014048",
+    "severe_reference_pixels": 0,
+    "sha256": "f571e9ffc463074d16e846ec63207711d82264d9763037b37867d4410ce41979",
+    "source_member": "TEXAS-TORNADOES/masks/TEXAS-TORNADOES_014048_post_disaster.png"
+  }
+]

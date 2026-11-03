@@ -1,0 +1,22 @@
+{
+  "version": "raster_visibility_v2",
+  "use": "EVALUATOR_ONLY_NEVER_PLANNER_INPUT",
+  "timing": "Posthoc correction motivated by the inspected calibration pilot boundary errors; not preregistered pilot evaluation.",
+  "rasterization": "Pillow ImageDraw full-scene pixel polygon, then half-open crop slices; shared pixels have one cell owner.",
+  "cell_truth": "True if any severe building has >=4 visible raster pixels. Otherwise null if any severe fragment or unknown building is visible, else false.",
+  "discovery_rule": {
+    "min_overlap_pixels": 4,
+    "min_visible_footprint_coverage": 0.1
+  },
+  "sensitivity_coverage": [
+    0.05,
+    0.1,
+    0.25
+  ],
+  "matching": "For each severe building, intersect its visible footprint with the unchanged canonical severe_mask. This is a coverage proxy, not standard instance AP or IoU matching.",
+  "deduplication": "Union (sample_id, building_uid) across visited cells; repeated quality modes cannot create extra discoveries.",
+  "denominator": "Unique severe buildings with >=4 visible pixels in at least one selected cell, not all targets in the scene.",
+  "unknowns": "Unknown subtype footprints remain ambiguous, even if their centroid is outside this cell. Positives take precedence for cell presence.",
+  "pixel_diagnostic": "Severe-pixel precision against union of severe footprints; pixels overlapping unknown-only footprints excluded. Broad masks can match buildings, so pixel precision must also be reported.",
+  "scope": "All 24 frozen calibration scenes and 64 cells, using the pilot-motivated v2 rules; no validation/test evaluation. Model training exposure expected."
+}

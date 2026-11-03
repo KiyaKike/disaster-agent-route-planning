@@ -1,0 +1,13 @@
+{
+  "gpu_rented": false,
+  "legacy_exact_reproductions": 2160,
+  "loop_seconds": 23.935264292056672,
+  "new_perception_calls": 0,
+  "new_real_labels": 0,
+  "new_worlds": 0,
+  "planner_invocations": 128562,
+  "public_cache_hits": 105145,
+  "routes": 8640,
+  "status": "COMPLETE",
+  "sum_uncached_solver_compute_s": 18.67547093948815
+}

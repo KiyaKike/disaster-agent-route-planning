@@ -1,0 +1,12 @@
+Traceback (most recent call last):
+  File "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/materialize_hold_development.py", line 212, in <module>
+    if __name__ == "__main__": main()
+                               ^^^^^^
+  File "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/materialize_hold_development.py", line 209, in main
+    materialize(args,selected,cohort,amendment,remaining,attempts/(str(uuid.uuid4())+".json"))
+  File "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/materialize_hold_development.py", line 80, in materialize
+    features={sid:build_features(sid,row) for sid,row in rows.items()}
+                  ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/materialize_hold_probes.py", line 95, in build_features
+    raise ValueError("Source polygon vertex outside image; inspect rather than clip silently")
+ValueError: Source polygon vertex outside image; inspect rather than clip silently

@@ -1,0 +1,1046 @@
+{
+  "all_primary_online_losses_to_post_static": [
+    {
+      "delta": -1,
+      "last_online_observation_before_divergence": {
+        "arrival_s": 1.0,
+        "block_belief_after": 0.22218675179569025,
+        "block_belief_before": 0.3452380952380952,
+        "block_index": 76,
+        "cell_id": "P_26_14",
+        "cell_index": 688,
+        "cumulative_travel_m": 0.0,
+        "elapsed_before_step_s": 0.0,
+        "leg_m": 0.0,
+        "observation_complete_s": 21.0,
+        "observed_positive": false,
+        "planning_latency_s": 1,
+        "return_reserve_s": 0.0,
+        "step": 1
+      },
+      "mode": "aligned",
+      "next_online_cell": "P_24_14",
+      "next_static_cell": "P_25_14",
+      "noise": "moderate",
+      "online_detected": 0,
+      "online_distance_m": 3231.60427978443,
+      "post_static_detected": 1,
+      "post_static_distance_m": 2582.304288624318,
+      "region": "口岸",
+      "seed": 2026102803,
+      "shared_initial_visits": 1,
+      "world_id": "口岸/aligned/2026102803"
+    },
+    {
+      "delta": -3,
+      "last_online_observation_before_divergence": {
+        "arrival_s": 1.0,
+        "block_belief_after": 0.17709923664122135,
+        "block_belief_before": 0.3452380952380952,
+        "block_index": 76,
+        "cell_id": "P_26_14",
+        "cell_index": 688,
+        "cumulative_travel_m": 0.0,
+        "elapsed_before_step_s": 0.0,
+        "leg_m": 0.0,
+        "observation_complete_s": 21.0,
+        "observed_positive": false,
+        "planning_latency_s": 1,
+        "return_reserve_s": 0.0,
+        "step": 1
+      },
+      "mode": "aligned",
+      "next_online_cell": "P_24_14",
+      "next_static_cell": "P_25_14",
+      "noise": "perfect",
+      "online_detected": 6,
+      "online_distance_m": 3478.2862814835157,
+      "post_static_detected": 9,
+      "post_static_distance_m": 2582.304288624318,
+      "region": "口岸",
+      "seed": 2026102805,
+      "shared_initial_visits": 1,
+      "world_id": "口岸/aligned/2026102805"
+    },
+    {
+      "delta": -2,
+      "last_online_observation_before_divergence": {
+        "arrival_s": 100.0,
+        "block_belief_after": 0.2659502262335492,
+        "block_belief_before": 0.3326684254797351,
+        "block_index": 76,
+        "cell_id": "P_26_13",
+        "cell_index": 687,
+        "cumulative_travel_m": 180.0,
+        "elapsed_before_step_s": 87.0,
+        "leg_m": 60.0,
+        "observation_complete_s": 120.0,
+        "observed_positive": false,
+        "planning_latency_s": 1,
+        "return_reserve_s": 12.0,
+        "step": 4
+      },
+      "mode": "aligned",
+      "next_online_cell": "P_24_13",
+      "next_static_cell": "P_26_15",
+      "noise": "poor",
+      "online_detected": 5,
+      "online_distance_m": 2739.3256137950925,
+      "post_static_detected": 7,
+      "post_static_distance_m": 2582.304288624318,
+      "region": "口岸",
+      "seed": 2026102805,
+      "shared_initial_visits": 4,
+      "world_id": "口岸/aligned/2026102805"
+    },
+    {
+      "delta": -1,
+      "last_online_observation_before_divergence": {
+        "arrival_s": 1.0,
+        "block_belief_after": 0.22218675179569025,
+        "block_belief_before": 0.3452380952380952,
+        "block_index": 76,
+        "cell_id": "P_26_14",
+        "cell_index": 688,
+        "cumulative_travel_m": 0.0,
+        "elapsed_before_step_s": 0.0,
+        "leg_m": 0.0,
+        "observation_complete_s": 21.0,
+        "observed_positive": false,
+        "planning_latency_s": 1,
+        "return_reserve_s": 0.0,
+        "step": 1
+      },
+      "mode": "reversed",
+      "next_online_cell": "P_24_14",
+      "next_static_cell": "P_25_14",
+      "noise": "moderate",
+      "online_detected": 1,
+      "online_distance_m": 3231.283482911198,
+      "post_static_detected": 2,
+      "post_static_distance_m": 2582.304288624318,
+      "region": "口岸",
+      "seed": 2026102802,
+      "shared_initial_visits": 1,
+      "world_id": "口岸/reversed/2026102802"
+    },
+    {
+      "delta": -3,
+      "last_online_observation_before_divergence": {
+        "arrival_s": 1.0,
+        "block_belief_after": 0.22218675179569025,
+        "block_belief_before": 0.3452380952380952,
+        "block_index": 76,
+        "cell_id": "P_26_14",
+        "cell_index": 688,
+        "cumulative_travel_m": 0.0,
+        "elapsed_before_step_s": 0.0,
+        "leg_m": 0.0,
+        "observation_complete_s": 21.0,
+        "observed_positive": false,
+        "planning_latency_s": 1,
+        "return_reserve_s": 0.0,
+        "step": 1
+      },
+      "mode": "reversed",
+      "next_online_cell": "P_24_14",
+      "next_static_cell": "P_25_14",
+      "noise": "moderate",
+      "online_detected": 0,
+      "online_distance_m": 3041.4159375573995,
+      "post_static_detected": 3,
+      "post_static_distance_m": 2582.304288624318,
+      "region": "口岸",
+      "seed": 2026102804,
+      "shared_initial_visits": 1,
+      "world_id": "口岸/reversed/2026102804"
+    },
+    {
+      "delta": -1,
+      "last_online_observation_before_divergence": {
+        "arrival_s": 1.0,
+        "block_belief_after": 0.22218675179569025,
+        "block_belief_before": 0.3452380952380952,
+        "block_index": 76,
+        "cell_id": "P_26_14",
+        "cell_index": 688,
+        "cumulative_travel_m": 0.0,
+        "elapsed_before_step_s": 0.0,
+        "leg_m": 0.0,
+        "observation_complete_s": 21.0,
+        "observed_positive": false,
+        "planning_latency_s": 1,
+        "return_reserve_s": 0.0,
+        "step": 1
+      },
+      "mode": "reversed",
+      "next_online_cell": "P_24_14",
+      "next_static_cell": "P_25_14",
+      "noise": "moderate",
+      "online_detected": 1,
+      "online_distance_m": 2872.0099161090893,
+      "post_static_detected": 2,
+      "post_static_distance_m": 2582.304288624318,
+      "region": "口岸",
+      "seed": 2026102808,
+      "shared_initial_visits": 1,
+      "world_id": "口岸/reversed/2026102808"
+    },
+    {
+      "delta": -3,
+      "last_online_observation_before_divergence": {
+        "arrival_s": 1.0,
+        "block_belief_after": 0.22218675179569025,
+        "block_belief_before": 0.3452380952380952,
+        "block_index": 76,
+        "cell_id": "P_26_14",
+        "cell_index": 688,
+        "cumulative_travel_m": 0.0,
+        "elapsed_before_step_s": 0.0,
+        "leg_m": 0.0,
+        "observation_complete_s": 21.0,
+        "observed_positive": false,
+        "planning_latency_s": 1,
+        "return_reserve_s": 0.0,
+        "step": 1
+      },
+      "mode": "independent",
+      "next_online_cell": "P_24_14",
+      "next_static_cell": "P_25_14",
+      "noise": "moderate",
+      "online_detected": 0,
+      "online_distance_m": 3041.4159375573995,
+      "post_static_detected": 3,
+      "post_static_distance_m": 2582.304288624318,
+      "region": "口岸",
+      "seed": 2026102804,
+      "shared_initial_visits": 1,
+      "world_id": "口岸/independent/2026102804"
+    },
+    {
+      "delta": -2,
+      "last_online_observation_before_divergence": {
+        "arrival_s": 1.0,
+        "block_belief_after": 0.30913978494623656,
+        "block_belief_before": 0.2,
+        "block_index": 17,
+        "cell_id": "S_13_06",
+        "cell_index": 149,
+        "cumulative_travel_m": 0.0,
+        "elapsed_before_step_s": 0.0,
+        "leg_m": 0.0,
+        "observation_complete_s": 21.0,
+        "observed_positive": true,
+        "planning_latency_s": 1,
+        "return_reserve_s": 0.0,
+        "step": 1
+      },
+      "mode": "aligned",
+      "next_online_cell": "S_13_05",
+      "next_static_cell": "S_12_06",
+      "noise": "poor",
+      "online_detected": 3,
+      "online_distance_m": 2633.73780845922,
+      "post_static_detected": 5,
+      "post_static_distance_m": 2127.5867726337906,
+      "region": "南侧建筑区",
+      "seed": 2026102801,
+      "shared_initial_visits": 1,
+      "world_id": "南侧建筑区/aligned/2026102801"
+    },
+    {
+      "delta": -5,
+      "last_online_observation_before_divergence": {
+        "arrival_s": 100.0,
+        "block_belief_after": 0.36792697390161794,
+        "block_belief_before": 0.24540507644704032,
+        "block_index": 13,
+        "cell_id": "S_10_06",
+        "cell_index": 113,
+        "cumulative_travel_m": 180.0,
+        "elapsed_before_step_s": 87.0,
+        "leg_m": 60.0,
+        "observation_complete_s": 120.0,
+        "observed_positive": true,
+        "planning_latency_s": 1,
+        "return_reserve_s": 36.0,
+        "step": 4
+      },
+      "mode": "aligned",
+      "next_online_cell": "S_10_05",
+      "next_static_cell": "S_09_06",
+      "noise": "poor",
+      "online_detected": 4,
+      "online_distance_m": 2412.3330765278392,
+      "post_static_detected": 9,
+      "post_static_distance_m": 2127.5867726337906,
+      "region": "南侧建筑区",
+      "seed": 2026102809,
+      "shared_initial_visits": 4,
+      "world_id": "南侧建筑区/aligned/2026102809"
+    },
+    {
+      "delta": -1,
+      "last_online_observation_before_divergence": {
+        "arrival_s": 1.0,
+        "block_belief_after": 0.30913978494623656,
+        "block_belief_before": 0.2,
+        "block_index": 17,
+        "cell_id": "S_13_06",
+        "cell_index": 149,
+        "cumulative_travel_m": 0.0,
+        "elapsed_before_step_s": 0.0,
+        "leg_m": 0.0,
+        "observation_complete_s": 21.0,
+        "observed_positive": true,
+        "planning_latency_s": 1,
+        "return_reserve_s": 0.0,
+        "step": 1
+      },
+      "mode": "reversed",
+      "next_online_cell": "S_13_05",
+      "next_static_cell": "S_12_06",
+      "noise": "poor",
+      "online_detected": 3,
+      "online_distance_m": 2633.73780845922,
+      "post_static_detected": 4,
+      "post_static_distance_m": 2127.5867726337906,
+      "region": "南侧建筑区",
+      "seed": 2026102801,
+      "shared_initial_visits": 1,
+      "world_id": "南侧建筑区/reversed/2026102801"
+    },
+    {
+      "delta": -3,
+      "last_online_observation_before_divergence": {
+        "arrival_s": 100.0,
+        "block_belief_after": 0.25076701955560793,
+        "block_belief_before": 0.3818755966806199,
+        "block_index": 13,
+        "cell_id": "S_10_06",
+        "cell_index": 113,
+        "cumulative_travel_m": 180.0,
+        "elapsed_before_step_s": 87.0,
+        "leg_m": 60.0,
+        "observation_complete_s": 120.0,
+        "observed_positive": false,
+        "planning_latency_s": 1,
+        "return_reserve_s": 36.0,
+        "step": 4
+      },
+      "mode": "reversed",
+      "next_online_cell": "S_10_05",
+      "next_static_cell": "S_09_06",
+      "noise": "moderate",
+      "online_detected": 4,
+      "online_distance_m": 2775.7842818501517,
+      "post_static_detected": 7,
+      "post_static_distance_m": 2127.5867726337906,
+      "region": "南侧建筑区",
+      "seed": 2026102808,
+      "shared_initial_visits": 4,
+      "world_id": "南侧建筑区/reversed/2026102808"
+    },
+    {
+      "delta": -2,
+      "last_online_observation_before_divergence": {
+        "arrival_s": 100.0,
+        "block_belief_after": 0.36792697390161794,
+        "block_belief_before": 0.24540507644704032,
+        "block_index": 13,
+        "cell_id": "S_10_06",
+        "cell_index": 113,
+        "cumulative_travel_m": 180.0,
+        "elapsed_before_step_s": 87.0,
+        "leg_m": 60.0,
+        "observation_complete_s": 120.0,
+        "observed_positive": true,
+        "planning_latency_s": 1,
+        "return_reserve_s": 36.0,
+        "step": 4
+      },
+      "mode": "reversed",
+      "next_online_cell": "S_10_05",
+      "next_static_cell": "S_09_06",
+      "noise": "poor",
+      "online_detected": 4,
+      "online_distance_m": 2412.3330765278392,
+      "post_static_detected": 6,
+      "post_static_distance_m": 2127.5867726337906,
+      "region": "南侧建筑区",
+      "seed": 2026102809,
+      "shared_initial_visits": 4,
+      "world_id": "南侧建筑区/reversed/2026102809"
+    },
+    {
+      "delta": -2,
+      "last_online_observation_before_divergence": {
+        "arrival_s": 1.0,
+        "block_belief_after": 0.30913978494623656,
+        "block_belief_before": 0.2,
+        "block_index": 17,
+        "cell_id": "S_13_06",
+        "cell_index": 149,
+        "cumulative_travel_m": 0.0,
+        "elapsed_before_step_s": 0.0,
+        "leg_m": 0.0,
+        "observation_complete_s": 21.0,
+        "observed_positive": true,
+        "planning_latency_s": 1,
+        "return_reserve_s": 0.0,
+        "step": 1
+      },
+      "mode": "independent",
+      "next_online_cell": "S_13_05",
+      "next_static_cell": "S_12_06",
+      "noise": "poor",
+      "online_detected": 3,
+      "online_distance_m": 2633.73780845922,
+      "post_static_detected": 5,
+      "post_static_distance_m": 2127.5867726337906,
+      "region": "南侧建筑区",
+      "seed": 2026102801,
+      "shared_initial_visits": 1,
+      "world_id": "南侧建筑区/independent/2026102801"
+    },
+    {
+      "delta": -3,
+      "last_online_observation_before_divergence": {
+        "arrival_s": 100.0,
+        "block_belief_after": 0.25076701955560793,
+        "block_belief_before": 0.3818755966806199,
+        "block_index": 13,
+        "cell_id": "S_10_06",
+        "cell_index": 113,
+        "cumulative_travel_m": 180.0,
+        "elapsed_before_step_s": 87.0,
+        "leg_m": 60.0,
+        "observation_complete_s": 120.0,
+        "observed_positive": false,
+        "planning_latency_s": 1,
+        "return_reserve_s": 36.0,
+        "step": 4
+      },
+      "mode": "independent",
+      "next_online_cell": "S_10_05",
+      "next_static_cell": "S_09_06",
+      "noise": "moderate",
+      "online_detected": 4,
+      "online_distance_m": 2775.7842818501517,
+      "post_static_detected": 7,
+      "post_static_distance_m": 2127.5867726337906,
+      "region": "南侧建筑区",
+      "seed": 2026102808,
+      "shared_initial_visits": 4,
+      "world_id": "南侧建筑区/independent/2026102808"
+    },
+    {
+      "delta": -5,
+      "last_online_observation_before_divergence": {
+        "arrival_s": 100.0,
+        "block_belief_after": 0.36792697390161794,
+        "block_belief_before": 0.24540507644704032,
+        "block_index": 13,
+        "cell_id": "S_10_06",
+        "cell_index": 113,
+        "cumulative_travel_m": 180.0,
+        "elapsed_before_step_s": 87.0,
+        "leg_m": 60.0,
+        "observation_complete_s": 120.0,
+        "observed_positive": true,
+        "planning_latency_s": 1,
+        "return_reserve_s": 36.0,
+        "step": 4
+      },
+      "mode": "independent",
+      "next_online_cell": "S_10_05",
+      "next_static_cell": "S_09_06",
+      "noise": "poor",
+      "online_detected": 4,
+      "online_distance_m": 2412.3330765278392,
+      "post_static_detected": 9,
+      "post_static_distance_m": 2127.5867726337906,
+      "region": "南侧建筑区",
+      "seed": 2026102809,
+      "shared_initial_visits": 4,
+      "world_id": "南侧建筑区/independent/2026102809"
+    }
+  ],
+  "analysis_type": "POST_HOC_DESCRIPTIVE_NO_NEW_EXPERIMENT",
+  "client_completion_date": "2026-11-01",
+  "comparisons": {
+    "online_frozen": {
+      "condition_win_tie_loss": [
+        18,
+        0,
+        0
+      ],
+      "conditions": [
+        {
+          "mean_detected_delta": 4.5,
+          "mode": "aligned",
+          "noise": "perfect",
+          "region": "口岸"
+        },
+        {
+          "mean_detected_delta": 2.1,
+          "mode": "aligned",
+          "noise": "moderate",
+          "region": "口岸"
+        },
+        {
+          "mean_detected_delta": 2.6,
+          "mode": "aligned",
+          "noise": "poor",
+          "region": "口岸"
+        },
+        {
+          "mean_detected_delta": 3.7,
+          "mode": "reversed",
+          "noise": "perfect",
+          "region": "口岸"
+        },
+        {
+          "mean_detected_delta": 1.4,
+          "mode": "reversed",
+          "noise": "moderate",
+          "region": "口岸"
+        },
+        {
+          "mean_detected_delta": 2.3,
+          "mode": "reversed",
+          "noise": "poor",
+          "region": "口岸"
+        },
+        {
+          "mean_detected_delta": 4.4,
+          "mode": "independent",
+          "noise": "perfect",
+          "region": "口岸"
+        },
+        {
+          "mean_detected_delta": 2.3,
+          "mode": "independent",
+          "noise": "moderate",
+          "region": "口岸"
+        },
+        {
+          "mean_detected_delta": 2.6,
+          "mode": "independent",
+          "noise": "poor",
+          "region": "口岸"
+        },
+        {
+          "mean_detected_delta": 6.4,
+          "mode": "aligned",
+          "noise": "perfect",
+          "region": "南侧建筑区"
+        },
+        {
+          "mean_detected_delta": 3.3,
+          "mode": "aligned",
+          "noise": "moderate",
+          "region": "南侧建筑区"
+        },
+        {
+          "mean_detected_delta": 0.9,
+          "mode": "aligned",
+          "noise": "poor",
+          "region": "南侧建筑区"
+        },
+        {
+          "mean_detected_delta": 6.4,
+          "mode": "reversed",
+          "noise": "perfect",
+          "region": "南侧建筑区"
+        },
+        {
+          "mean_detected_delta": 2.7,
+          "mode": "reversed",
+          "noise": "moderate",
+          "region": "南侧建筑区"
+        },
+        {
+          "mean_detected_delta": 0.7,
+          "mode": "reversed",
+          "noise": "poor",
+          "region": "南侧建筑区"
+        },
+        {
+          "mean_detected_delta": 6.4,
+          "mode": "independent",
+          "noise": "perfect",
+          "region": "南侧建筑区"
+        },
+        {
+          "mean_detected_delta": 2.6,
+          "mode": "independent",
+          "noise": "moderate",
+          "region": "南侧建筑区"
+        },
+        {
+          "mean_detected_delta": 0.9,
+          "mode": "independent",
+          "noise": "poor",
+          "region": "南侧建筑区"
+        }
+      ],
+      "paired_run_win_tie_loss": [
+        126,
+        39,
+        15
+      ],
+      "warning": "These counts share seeds and observation worlds across noise settings; they are descriptive, not independent replications or a significance test."
+    },
+    "post_static": {
+      "condition_win_tie_loss": [
+        18,
+        0,
+        0
+      ],
+      "conditions": [
+        {
+          "mean_detected_delta": 4.7,
+          "mode": "aligned",
+          "noise": "perfect",
+          "region": "口岸"
+        },
+        {
+          "mean_detected_delta": 2.3,
+          "mode": "aligned",
+          "noise": "moderate",
+          "region": "口岸"
+        },
+        {
+          "mean_detected_delta": 2.8,
+          "mode": "aligned",
+          "noise": "poor",
+          "region": "口岸"
+        },
+        {
+          "mean_detected_delta": 3.9,
+          "mode": "reversed",
+          "noise": "perfect",
+          "region": "口岸"
+        },
+        {
+          "mean_detected_delta": 1.6,
+          "mode": "reversed",
+          "noise": "moderate",
+          "region": "口岸"
+        },
+        {
+          "mean_detected_delta": 2.5,
+          "mode": "reversed",
+          "noise": "poor",
+          "region": "口岸"
+        },
+        {
+          "mean_detected_delta": 4.6,
+          "mode": "independent",
+          "noise": "perfect",
+          "region": "口岸"
+        },
+        {
+          "mean_detected_delta": 2.5,
+          "mode": "independent",
+          "noise": "moderate",
+          "region": "口岸"
+        },
+        {
+          "mean_detected_delta": 2.8,
+          "mode": "independent",
+          "noise": "poor",
+          "region": "口岸"
+        },
+        {
+          "mean_detected_delta": 6.4,
+          "mode": "aligned",
+          "noise": "perfect",
+          "region": "南侧建筑区"
+        },
+        {
+          "mean_detected_delta": 3.3,
+          "mode": "aligned",
+          "noise": "moderate",
+          "region": "南侧建筑区"
+        },
+        {
+          "mean_detected_delta": 0.9,
+          "mode": "aligned",
+          "noise": "poor",
+          "region": "南侧建筑区"
+        },
+        {
+          "mean_detected_delta": 6.4,
+          "mode": "reversed",
+          "noise": "perfect",
+          "region": "南侧建筑区"
+        },
+        {
+          "mean_detected_delta": 2.7,
+          "mode": "reversed",
+          "noise": "moderate",
+          "region": "南侧建筑区"
+        },
+        {
+          "mean_detected_delta": 0.7,
+          "mode": "reversed",
+          "noise": "poor",
+          "region": "南侧建筑区"
+        },
+        {
+          "mean_detected_delta": 6.4,
+          "mode": "independent",
+          "noise": "perfect",
+          "region": "南侧建筑区"
+        },
+        {
+          "mean_detected_delta": 2.6,
+          "mode": "independent",
+          "noise": "moderate",
+          "region": "南侧建筑区"
+        },
+        {
+          "mean_detected_delta": 0.9,
+          "mode": "independent",
+          "noise": "poor",
+          "region": "南侧建筑区"
+        }
+      ],
+      "paired_run_win_tie_loss": [
+        128,
+        37,
+        15
+      ],
+      "warning": "These counts share seeds and observation worlds across noise settings; they are descriptive, not independent replications or a significance test."
+    },
+    "pre_static": {
+      "condition_win_tie_loss": [
+        17,
+        1,
+        0
+      ],
+      "conditions": [
+        {
+          "mean_detected_delta": 5.3,
+          "mode": "aligned",
+          "noise": "perfect",
+          "region": "口岸"
+        },
+        {
+          "mean_detected_delta": 3,
+          "mode": "aligned",
+          "noise": "moderate",
+          "region": "口岸"
+        },
+        {
+          "mean_detected_delta": 3.3,
+          "mode": "aligned",
+          "noise": "poor",
+          "region": "口岸"
+        },
+        {
+          "mean_detected_delta": 1.7,
+          "mode": "reversed",
+          "noise": "perfect",
+          "region": "口岸"
+        },
+        {
+          "mean_detected_delta": 0,
+          "mode": "reversed",
+          "noise": "moderate",
+          "region": "口岸"
+        },
+        {
+          "mean_detected_delta": 0.9,
+          "mode": "reversed",
+          "noise": "poor",
+          "region": "口岸"
+        },
+        {
+          "mean_detected_delta": 3.8,
+          "mode": "independent",
+          "noise": "perfect",
+          "region": "口岸"
+        },
+        {
+          "mean_detected_delta": 2,
+          "mode": "independent",
+          "noise": "moderate",
+          "region": "口岸"
+        },
+        {
+          "mean_detected_delta": 2.1,
+          "mode": "independent",
+          "noise": "poor",
+          "region": "口岸"
+        },
+        {
+          "mean_detected_delta": 5.3,
+          "mode": "aligned",
+          "noise": "perfect",
+          "region": "南侧建筑区"
+        },
+        {
+          "mean_detected_delta": 2.7,
+          "mode": "aligned",
+          "noise": "moderate",
+          "region": "南侧建筑区"
+        },
+        {
+          "mean_detected_delta": 0.7,
+          "mode": "aligned",
+          "noise": "poor",
+          "region": "南侧建筑区"
+        },
+        {
+          "mean_detected_delta": 6.3,
+          "mode": "reversed",
+          "noise": "perfect",
+          "region": "南侧建筑区"
+        },
+        {
+          "mean_detected_delta": 2.9,
+          "mode": "reversed",
+          "noise": "moderate",
+          "region": "南侧建筑区"
+        },
+        {
+          "mean_detected_delta": 0.9,
+          "mode": "reversed",
+          "noise": "poor",
+          "region": "南侧建筑区"
+        },
+        {
+          "mean_detected_delta": 5.9,
+          "mode": "independent",
+          "noise": "perfect",
+          "region": "南侧建筑区"
+        },
+        {
+          "mean_detected_delta": 2.5,
+          "mode": "independent",
+          "noise": "moderate",
+          "region": "南侧建筑区"
+        },
+        {
+          "mean_detected_delta": 0.9,
+          "mode": "independent",
+          "noise": "poor",
+          "region": "南侧建筑区"
+        }
+      ],
+      "paired_run_win_tie_loss": [
+        125,
+        22,
+        33
+      ],
+      "warning": "These counts share seeds and observation worlds across noise settings; they are descriptive, not independent replications or a significance test."
+    }
+  },
+  "cross_mode_pairing": "Each region/seed reuses RNG streams across the three prior modes; 60 stored worlds are not 60 independent real events.",
+  "inputs_sha256": {
+    "audit_report.json": "27138668a7eb01f2762686c965bc8778fb03c3c5af21709cfca2f5ebe7bcd642",
+    "metrics.json": "ede3d5cb5613a5f838e7664ffe7d6eb0cfcba258672e714b95b554eef226c7b4",
+    "protocol.json": "32973e58ba6a101ad7fe542b4c201b8e4bd2d8483c03c4b718da0953c33e300b",
+    "routes.jsonl": "73d55fc5e8b7255b2427aa4b51b6db4f47a256f61ab1c8baa730b54421ca30db"
+  },
+  "no_new_runs": true,
+  "no_parameters_changed": true,
+  "primary_budget_s": 1200,
+  "visit_cap_diagnostics": [
+    {
+      "at_30_visit_cap": 0,
+      "budget_s": 600,
+      "mean_unused_budget_s": 7.0,
+      "policy": "pre_static",
+      "region": "口岸",
+      "runs": 90
+    },
+    {
+      "at_30_visit_cap": 0,
+      "budget_s": 600,
+      "mean_unused_budget_s": 11.733384694432175,
+      "policy": "post_static",
+      "region": "口岸",
+      "runs": 90
+    },
+    {
+      "at_30_visit_cap": 0,
+      "budget_s": 600,
+      "mean_unused_budget_s": 9.175733553148083,
+      "policy": "online",
+      "region": "口岸",
+      "runs": 90
+    },
+    {
+      "at_30_visit_cap": 0,
+      "budget_s": 600,
+      "mean_unused_budget_s": 12.167184270002508,
+      "policy": "online_frozen",
+      "region": "口岸",
+      "runs": 90
+    },
+    {
+      "at_30_visit_cap": 0,
+      "budget_s": 1200,
+      "mean_unused_budget_s": 14.041531104373007,
+      "policy": "pre_static",
+      "region": "口岸",
+      "runs": 90
+    },
+    {
+      "at_30_visit_cap": 90,
+      "budget_s": 1200,
+      "mean_unused_budget_s": 82.53914227513633,
+      "policy": "post_static",
+      "region": "口岸",
+      "runs": 90
+    },
+    {
+      "at_30_visit_cap": 25,
+      "budget_s": 1200,
+      "mean_unused_budget_s": 19.999921321450454,
+      "policy": "online",
+      "region": "口岸",
+      "runs": 90
+    },
+    {
+      "at_30_visit_cap": 90,
+      "budget_s": 1200,
+      "mean_unused_budget_s": 60.5303023060153,
+      "policy": "online_frozen",
+      "region": "口岸",
+      "runs": 90
+    },
+    {
+      "at_30_visit_cap": 90,
+      "budget_s": 1800,
+      "mean_unused_budget_s": 547.184266371868,
+      "policy": "pre_static",
+      "region": "口岸",
+      "runs": 90
+    },
+    {
+      "at_30_visit_cap": 90,
+      "budget_s": 1800,
+      "mean_unused_budget_s": 682.5391422751363,
+      "policy": "post_static",
+      "region": "口岸",
+      "runs": 90
+    },
+    {
+      "at_30_visit_cap": 90,
+      "budget_s": 1800,
+      "mean_unused_budget_s": 536.4087719689837,
+      "policy": "online",
+      "region": "口岸",
+      "runs": 90
+    },
+    {
+      "at_30_visit_cap": 90,
+      "budget_s": 1800,
+      "mean_unused_budget_s": 660.5303023060153,
+      "policy": "online_frozen",
+      "region": "口岸",
+      "runs": 90
+    },
+    {
+      "at_30_visit_cap": 0,
+      "budget_s": 600,
+      "mean_unused_budget_s": 18.500865054492465,
+      "policy": "pre_static",
+      "region": "南侧建筑区",
+      "runs": 90
+    },
+    {
+      "at_30_visit_cap": 0,
+      "budget_s": 600,
+      "mean_unused_budget_s": 12.82166366684362,
+      "policy": "post_static",
+      "region": "南侧建筑区",
+      "runs": 90
+    },
+    {
+      "at_30_visit_cap": 0,
+      "budget_s": 600,
+      "mean_unused_budget_s": 5.861129355626213,
+      "policy": "online",
+      "region": "南侧建筑区",
+      "runs": 90
+    },
+    {
+      "at_30_visit_cap": 0,
+      "budget_s": 600,
+      "mean_unused_budget_s": 0.3923830533843784,
+      "policy": "online_frozen",
+      "region": "南侧建筑区",
+      "runs": 90
+    },
+    {
+      "at_30_visit_cap": 90,
+      "budget_s": 1200,
+      "mean_unused_budget_s": 132.8137063784468,
+      "policy": "pre_static",
+      "region": "南侧建筑区",
+      "runs": 90
+    },
+    {
+      "at_30_visit_cap": 90,
+      "budget_s": 1200,
+      "mean_unused_budget_s": 173.48264547324175,
+      "policy": "post_static",
+      "region": "南侧建筑区",
+      "runs": 90
+    },
+    {
+      "at_30_visit_cap": 52,
+      "budget_s": 1200,
+      "mean_unused_budget_s": 31.162679488708733,
+      "policy": "online",
+      "region": "南侧建筑区",
+      "runs": 90
+    },
+    {
+      "at_30_visit_cap": 90,
+      "budget_s": 1200,
+      "mean_unused_budget_s": 144.48264547324175,
+      "policy": "online_frozen",
+      "region": "南侧建筑区",
+      "runs": 90
+    },
+    {
+      "at_30_visit_cap": 90,
+      "budget_s": 1800,
+      "mean_unused_budget_s": 732.8137063784468,
+      "policy": "pre_static",
+      "region": "南侧建筑区",
+      "runs": 90
+    },
+    {
+      "at_30_visit_cap": 90,
+      "budget_s": 1800,
+      "mean_unused_budget_s": 773.4826454732417,
+      "policy": "post_static",
+      "region": "南侧建筑区",
+      "runs": 90
+    },
+    {
+      "at_30_visit_cap": 90,
+      "budget_s": 1800,
+      "mean_unused_budget_s": 594.6935887678198,
+      "policy": "online",
+      "region": "南侧建筑区",
+      "runs": 90
+    },
+    {
+      "at_30_visit_cap": 90,
+      "budget_s": 1800,
+      "mean_unused_budget_s": 744.4826454732417,
+      "policy": "online_frozen",
+      "region": "南侧建筑区",
+      "runs": 90
+    }
+  ]
+}

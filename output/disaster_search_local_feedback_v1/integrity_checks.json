@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "split": "calibration",
+  "episodes_replayed": 1512,
+  "steps_replayed": 26151,
+  "action_scores_and_neighborhood_shifts_recomputed": true,
+  "posteriors_anchored_to_original_prior": true,
+  "budget_unique_evidence_and_building_counts_recomputed": true,
+  "calibration_parameters_unchanged": true,
+  "test_used": false,
+  "source_parameters_sha256": "db3c3a77647b18009e2e192e187084c5148f39c24fb952a0f7b40420ea3fc600",
+  "report_sha256": "4b8bdae4e73a0060ac8685e71ce9fde8f02132ae5c895abfd37606d49286669a",
+  "traces_sha256": "1b07c2082d42ccc7305f700d25ed57bb096fad759e219dd3fa6cc03ab3a14d55"
+}

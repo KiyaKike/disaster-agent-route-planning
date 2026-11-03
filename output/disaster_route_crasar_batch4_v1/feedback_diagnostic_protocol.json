@@ -1,0 +1,29 @@
+{
+  "status": "FROZEN_BEFORE_BATCH_OUTCOMES",
+  "features_prior": [
+    "window_prior_damage_score",
+    "window_prior_uncertainty",
+    "window_prior_localization",
+    "building_mask_fraction",
+    "x_relative",
+    "y_relative",
+    "global_prior_damage",
+    "log_paid_count"
+  ],
+  "features_feedback": [
+    "mean_paid_model_damage",
+    "mean_paid_minus_prior",
+    "distance_weighted_paid_minus_prior",
+    "nearest_paid_minus_prior"
+  ],
+  "target": "Fraction of eligible-building footprint pixels classified as any damage by the fixed model in a future UAS window. Model consistency,not human damage truth or marginal route gain.",
+  "prefixes": "All nonempty prefixes of distance-priority route under100s proxy budget; never chosen by damage observations",
+  "candidate_exclusion": "Visited windows,windows with no eligible footprint,and any window sharing a building ID with any paid window excluded",
+  "folds": "Leave-one-new-region-out; older two inspected regions not used for fitting or selection",
+  "purge": "Remove entire training region if shared eligible building IDs or ROI gap<=128m in same CRS with held-out region",
+  "estimator": "Ridge regression,fixed lambda1,training-only weighted scaling,unpenalized intercept,clip predictions to[0,1];regions equal total training weight",
+  "metrics": "Per-region MSE/MAE then macro average;no row-level significance or event generalization",
+  "required_train_regions": 2,
+  "permutation": "None:no cross-fold feedback borrowing",
+  "interpretation": "Incremental predictive information is necessary evidence,not sufficient proof of route or rescue benefit"
+}

@@ -1,0 +1,87 @@
+{
+  "assumptions": [
+    "Proxy adds counts over cells despite possible duplicate true buildings.",
+    "Other-cell distributions are unchanged by a fantasy; no learned spatial coupling.",
+    "Joint declaration probabilities and shrunk count means are aggregate approximations, not a validated coherent instance-level generative model.",
+    "Batch tail is not an exact multi-step optimum and does not implement MF-ENS's exploratory L batch."
+  ],
+  "batch_tail": "First action plus expected optimal costed batch of currently eligible subsequent actions, one item per cell. Future survey-upgrade chains inside batch omitted; only first fantasy survey unlocks its conditional upgrade. Replan after each paid observation.",
+  "branches": "Hypothetical survey: native terminal with known scenario mixture probability; blurred-negative/positive according to frozen paired likelihood mixed under frozen binned truth prior. Conditional upgrade rewards already fitted by B result. Never multiply marginal B,N likelihoods.",
+  "budgets": [
+    8,
+    16,
+    32
+  ],
+  "candidate_grouping": "Equivalent state/reward/branch-probability public parameter classes; exact symmetry under proxy. No shortlist or hidden-data pruning.",
+  "faithful_ens_or_mfens_reproduction": false,
+  "fit_scopes": {
+    "development_fit": "All 72 fit, full settings grid.",
+    "event_holdout": "Fit on other two dev events; primary cost/quality/budget only. Previously seen development data, not independent validation."
+  },
+  "helper_sha256": {
+    "cross_cell_count_smoke.py": "4312afc1ac40d33210ee15a8cc91464d6620b5fd638e437e47d1db1b5d1fbc0c",
+    "paired_count_baseline.py": "b04ea42f2e9880b67d054ae76df98b0ddb7c3f4ca49a4ff462de803cafe67818",
+    "run_development_budget_controls.py": "baca8a89a7b1ceef36670b406fd0cbabf8a3818b72dc2c387644c3ce0afed53e"
+  },
+  "new_inference_calls": 0,
+  "new_method_selected": false,
+  "no_parameter_tuning_after_run": true,
+  "paid_gpu": false,
+  "policies": [
+    "proxy_greedy",
+    "two_step",
+    "batch_tail"
+  ],
+  "primary": {
+    "budget": 32,
+    "scenario": "mixed_survey",
+    "threshold": 0.1,
+    "upgrade_cost": 2
+  },
+  "primary_source_sha256": {
+    "ens_page.json": "f3e93bdc241180abae751d12407c81049d3faa083bda9a68041e788369589597",
+    "jiang17d.pdf": "55da700ec33da27d7a064f1083bc41c233cbba73221e53344cd49ba11b729f1d",
+    "mfens_page.json": "35974f9b57e7bcced1dfcf80afb22c6d5fe964358c35abc87448dc06012e3b28",
+    "nguyen21f.pdf": "c71e775dcc77a0765a366b3e9a71786b9dc6611e2cbee90775e330a1f83cc1f0"
+  },
+  "quality_seeds": [
+    20261025,
+    20261026,
+    20261027,
+    20261028,
+    20261029
+  ],
+  "reward": "Unchanged count_all same-cell reward and paired/presence parameters; no global dedup proxy, spatial update or new fit. Reward is unconditional expected count, not rate, inside lookahead.",
+  "runner_sha256": "75734fac1c2c4d65cf2980c7eb7a6749c769ebe7902c7c90f01d640c21005bd2",
+  "scenarios": [
+    "native_survey",
+    "mixed_survey",
+    "blurred_survey"
+  ],
+  "sources": {
+    "adaptation": "da8bd4df614b8407c9d621d22440007296357d4cc660b2657b77cf3d9a35337d",
+    "association": "59c51a09e2c46eeac0c778de1dd9af2771f72bee5ff526ac967c0a6fb75fbffc",
+    "contract": "452de54015d0c717819553487885007d8aabc82751499387d17b0ba2044919c0",
+    "features": "ce768154dd129816ff5ecf30042fbd60e621e04a0e93dcad90f36cdc42cb2e27",
+    "models": "c9566ab3c6aaa920e1baf62d3093c28e6bea121e5d85c8c78965b01d59390350",
+    "observations": "30aca3da060f9fd6acfdc6e73efea0c593360765b455150195cbfbc02f2556e2",
+    "previous_receipt": "14534c581054e6fb613cb97d0a4012fec8a6b3decfe53e26358610378094bed2",
+    "previous_scene_means": "74b90e6d3c9b4a10aba11e5aa3f18a4f4860a2d21215fad1729c9a10ebd709cf",
+    "selection": "0b93aa296f53276f508a4d2dd4fcfa122f93578f3f3e939ee731d350021569c8",
+    "spatial": "d8a2dc9fe8d4120ade4ccd07b6ea6411d6fda24a596f848d2823ddfba1ba654a"
+  },
+  "stage": "DEVELOPMENT72_COSTED_PLANNING_CONTROLS",
+  "thresholds": [
+    0.05,
+    0.1,
+    0.25
+  ],
+  "ties": "Planning Q within 1e-12: higher original greedy reward/cost, then cell index. Greedy retains strict > and exact previous utilities.",
+  "two_step": "First action plus best affordable one later action; exact two-action expectation under frozen proxy, budget beyond second action ignored.",
+  "upgrade_costs": [
+    1,
+    2,
+    4
+  ],
+  "validation_or_confirmation_access": false
+}

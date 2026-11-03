@@ -1,0 +1,101 @@
+{
+  "date": "2026-11-02",
+  "role": "Synthetic controlled inspection-information boundary;not a new method or real UAV experiment.",
+  "grid": {
+    "rho": [
+      0,
+      0.25,
+      0.5,
+      0.75,
+      1
+    ],
+    "sensor_q": [
+      0.5,
+      0.65,
+      0.8,
+      1
+    ],
+    "budget": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "extra_replan_fee": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  "home": [
+    0,
+    0
+  ],
+  "sites": [
+    [
+      1,
+      0
+    ],
+    [
+      2,
+      0
+    ],
+    [
+      0,
+      2
+    ]
+  ],
+  "costs": "Manhattan movement +1 per local inspection +1 initial planning + declared optional extra update fee;closed return charged.",
+  "reward": "One unit for each correctly detected positive at a paid observation;no separate target arrival reward,no repeats.",
+  "sensor": "Conditional independent symmetric local errors:TPR=q,FPR=1-q. Fixed known model in this reference.",
+  "joint": "rho mixture of (Z,Z,1-Z),Z~Bernoulli(.5),and three independent Bernoulli(.5) states.All marginals identical.",
+  "policies": [
+    "exact static",
+    "static with identical extra fee, no feedback",
+    "best forced update immediately after first observation",
+    "best static or one update under known model"
+  ],
+  "scope": "At most one update after first observation;not unrestricted adaptive optimum. Model known and calibrated by construction.",
+  "scenarios": "All world and local observation configurations integrated exactly;not independent sampled scenes.",
+  "predeclared_examples": [
+    [
+      0,
+      1,
+      10,
+      1
+    ],
+    [
+      1,
+      1,
+      10,
+      1
+    ],
+    [
+      1,
+      0.5,
+      10,
+      1
+    ],
+    [
+      0,
+      1,
+      12,
+      1
+    ],
+    [
+      1,
+      1,
+      10,
+      2
+    ]
+  ],
+  "real_data_modified": false,
+  "gpu_rental": false,
+  "new_model_inference": 0
+}

@@ -1,0 +1,17 @@
+{
+  "fixed_baseline": "StrongBaseline event checkpoint fe7ded8c5012dee3d39675226b0aa1fd671d8c19cef5c88080daa8b13645c6b6",
+  "gpu_rental": false,
+  "new_data_payloads_enabled": false,
+  "new_inference_enabled": false,
+  "next": "Cost-compatible local observation feasibility before any adaptive controller",
+  "requirements": [
+    "Count purchased native image area and all quality/flip costs explicitly",
+    "Freeze input contract,budgets,metrics,all sample IDs and all inference calls before prediction",
+    "Use all eligible fixed scenes; no positive mining",
+    "Separate old used development from prospectively selected multi-event confirmation",
+    "Report per-event positive prevalence,detectability,random/static/oracle spread before method claims"
+  ],
+  "reserved_sets_enabled": false,
+  "status": "NOT_EXECUTED_PROTOCOL_PENDING",
+  "training": false
+}

@@ -1,0 +1,520 @@
+{
+  "cells": [
+    "r00c00",
+    "r00c01",
+    "r00c02",
+    "r00c03",
+    "r00c04",
+    "r00c05",
+    "r00c06",
+    "r00c07",
+    "r01c00",
+    "r01c01",
+    "r01c02",
+    "r01c03",
+    "r01c04",
+    "r01c05",
+    "r01c06",
+    "r01c07",
+    "r02c00",
+    "r02c01",
+    "r02c02",
+    "r02c03",
+    "r02c04",
+    "r02c05",
+    "r02c06",
+    "r02c07",
+    "r03c00",
+    "r03c01",
+    "r03c02",
+    "r03c03",
+    "r03c04",
+    "r03c05",
+    "r03c06",
+    "r03c07",
+    "r04c00",
+    "r04c01",
+    "r04c02",
+    "r04c03",
+    "r04c04",
+    "r04c05",
+    "r04c06",
+    "r04c07",
+    "r05c00",
+    "r05c01",
+    "r05c02",
+    "r05c03",
+    "r05c04",
+    "r05c05",
+    "r05c06",
+    "r05c07",
+    "r06c00",
+    "r06c01",
+    "r06c02",
+    "r06c03",
+    "r06c04",
+    "r06c05",
+    "r06c06",
+    "r06c07",
+    "r07c00",
+    "r07c01",
+    "r07c02",
+    "r07c03",
+    "r07c04",
+    "r07c05",
+    "r07c06",
+    "r07c07"
+  ],
+  "code_commit": "190b07a2eb4c389a5dc3f72802c67f428cdfd6b7",
+  "effective_contract_sha256": "452de54015d0c717819553487885007d8aabc82751499387d17b0ba2044919c0",
+  "evaluation": "Separate command, unchanged raster_visibility_v2; 5/10/25% coverage diagnostics, no tuning.",
+  "manifest_sha256": "a70646afabf0822b3adea609835ab95c1cfdb2e7f834d6d8173d38fa4b042346",
+  "model_id": "EVER-Z/torchange_example_changeos_swint_on_xview2_best42k",
+  "model_revision": "4007dd10c5eaee67161e2d4a45a43da3ead6c722",
+  "modes": [
+    "native",
+    "blurred"
+  ],
+  "observations": 9216,
+  "planned_component_fit": "Development-only aggregate fit: Jeffreys(0.5 per joint outcome) 2x2 paired sensor tables; four public RGB-change quantile bins, count means shrunk with 8 pseudo-cells. No search policy scores or generalization claim.",
+  "prediction": "RGB-only selected-cell inference, unchanged mini72 tensor/degradation/declaration rules; canonical boolean severe masks cached.",
+  "runner_sha256": "c53c5bca5822525a6bdf84922ce52ab8e995bd144c8b9971be11ea6e7430f5c4",
+  "samples": [
+    {
+      "event": "hurricane-harvey",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/hurricane-harvey_00000363/hurricane-harvey_00000363_post_disaster.png",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/hurricane-harvey_00000363/hurricane-harvey_00000363_pre_disaster.png",
+      "sample_id": "hurricane-harvey_00000363"
+    },
+    {
+      "event": "hurricane-harvey",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/hurricane-harvey_00000074/hurricane-harvey_00000074_post_disaster.png",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/hurricane-harvey_00000074/hurricane-harvey_00000074_pre_disaster.png",
+      "sample_id": "hurricane-harvey_00000074"
+    },
+    {
+      "event": "hurricane-harvey",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/hurricane-harvey_00000403/hurricane-harvey_00000403_post_disaster.png",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/hurricane-harvey_00000403/hurricane-harvey_00000403_pre_disaster.png",
+      "sample_id": "hurricane-harvey_00000403"
+    },
+    {
+      "event": "hurricane-harvey",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/hurricane-harvey_00000121/hurricane-harvey_00000121_post_disaster.png",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/hurricane-harvey_00000121/hurricane-harvey_00000121_pre_disaster.png",
+      "sample_id": "hurricane-harvey_00000121"
+    },
+    {
+      "event": "hurricane-harvey",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/hurricane-harvey_00000293/hurricane-harvey_00000293_post_disaster.png",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/hurricane-harvey_00000293/hurricane-harvey_00000293_pre_disaster.png",
+      "sample_id": "hurricane-harvey_00000293"
+    },
+    {
+      "event": "hurricane-harvey",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/hurricane-harvey_00000065/hurricane-harvey_00000065_post_disaster.png",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/hurricane-harvey_00000065/hurricane-harvey_00000065_pre_disaster.png",
+      "sample_id": "hurricane-harvey_00000065"
+    },
+    {
+      "event": "hurricane-harvey",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/hurricane-harvey_00000343/hurricane-harvey_00000343_post_disaster.png",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/hurricane-harvey_00000343/hurricane-harvey_00000343_pre_disaster.png",
+      "sample_id": "hurricane-harvey_00000343"
+    },
+    {
+      "event": "hurricane-harvey",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/hurricane-harvey_00000386/hurricane-harvey_00000386_post_disaster.png",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/hurricane-harvey_00000386/hurricane-harvey_00000386_pre_disaster.png",
+      "sample_id": "hurricane-harvey_00000386"
+    },
+    {
+      "event": "hurricane-harvey",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/hurricane-harvey_00000421/hurricane-harvey_00000421_post_disaster.png",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/hurricane-harvey_00000421/hurricane-harvey_00000421_pre_disaster.png",
+      "sample_id": "hurricane-harvey_00000421"
+    },
+    {
+      "event": "hurricane-harvey",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/hurricane-harvey_00000219/hurricane-harvey_00000219_post_disaster.png",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/hurricane-harvey_00000219/hurricane-harvey_00000219_pre_disaster.png",
+      "sample_id": "hurricane-harvey_00000219"
+    },
+    {
+      "event": "hurricane-harvey",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/hurricane-harvey_00000372/hurricane-harvey_00000372_post_disaster.png",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/hurricane-harvey_00000372/hurricane-harvey_00000372_pre_disaster.png",
+      "sample_id": "hurricane-harvey_00000372"
+    },
+    {
+      "event": "hurricane-harvey",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/hurricane-harvey_00000459/hurricane-harvey_00000459_post_disaster.png",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/hurricane-harvey_00000459/hurricane-harvey_00000459_pre_disaster.png",
+      "sample_id": "hurricane-harvey_00000459"
+    },
+    {
+      "event": "hurricane-harvey",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/hurricane-harvey_00000193/hurricane-harvey_00000193_post_disaster.png",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/hurricane-harvey_00000193/hurricane-harvey_00000193_pre_disaster.png",
+      "sample_id": "hurricane-harvey_00000193"
+    },
+    {
+      "event": "hurricane-harvey",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/hurricane-harvey_00000311/hurricane-harvey_00000311_post_disaster.png",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/hurricane-harvey_00000311/hurricane-harvey_00000311_pre_disaster.png",
+      "sample_id": "hurricane-harvey_00000311"
+    },
+    {
+      "event": "hurricane-harvey",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/hurricane-harvey_00000404/hurricane-harvey_00000404_post_disaster.png",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/hurricane-harvey_00000404/hurricane-harvey_00000404_pre_disaster.png",
+      "sample_id": "hurricane-harvey_00000404"
+    },
+    {
+      "event": "hurricane-harvey",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/hurricane-harvey_00000013/hurricane-harvey_00000013_post_disaster.png",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/hurricane-harvey_00000013/hurricane-harvey_00000013_pre_disaster.png",
+      "sample_id": "hurricane-harvey_00000013"
+    },
+    {
+      "event": "hurricane-harvey",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/hurricane-harvey_00000279/hurricane-harvey_00000279_post_disaster.png",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/hurricane-harvey_00000279/hurricane-harvey_00000279_pre_disaster.png",
+      "sample_id": "hurricane-harvey_00000279"
+    },
+    {
+      "event": "hurricane-harvey",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/hurricane-harvey_00000487/hurricane-harvey_00000487_post_disaster.png",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/hurricane-harvey_00000487/hurricane-harvey_00000487_pre_disaster.png",
+      "sample_id": "hurricane-harvey_00000487"
+    },
+    {
+      "event": "hurricane-harvey",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/hurricane-harvey_00000201/hurricane-harvey_00000201_post_disaster.png",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/hurricane-harvey_00000201/hurricane-harvey_00000201_pre_disaster.png",
+      "sample_id": "hurricane-harvey_00000201"
+    },
+    {
+      "event": "hurricane-harvey",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/hurricane-harvey_00000014/hurricane-harvey_00000014_post_disaster.png",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/hurricane-harvey_00000014/hurricane-harvey_00000014_pre_disaster.png",
+      "sample_id": "hurricane-harvey_00000014"
+    },
+    {
+      "event": "hurricane-harvey",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/hurricane-harvey_00000125/hurricane-harvey_00000125_post_disaster.png",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/hurricane-harvey_00000125/hurricane-harvey_00000125_pre_disaster.png",
+      "sample_id": "hurricane-harvey_00000125"
+    },
+    {
+      "event": "hurricane-harvey",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/hurricane-harvey_00000334/hurricane-harvey_00000334_post_disaster.png",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/hurricane-harvey_00000334/hurricane-harvey_00000334_pre_disaster.png",
+      "sample_id": "hurricane-harvey_00000334"
+    },
+    {
+      "event": "hurricane-harvey",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/hurricane-harvey_00000447/hurricane-harvey_00000447_post_disaster.png",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/hurricane-harvey_00000447/hurricane-harvey_00000447_pre_disaster.png",
+      "sample_id": "hurricane-harvey_00000447"
+    },
+    {
+      "event": "hurricane-harvey",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/hurricane-harvey_00000236/hurricane-harvey_00000236_post_disaster.png",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/hurricane-harvey_00000236/hurricane-harvey_00000236_pre_disaster.png",
+      "sample_id": "hurricane-harvey_00000236"
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000013/santa-rosa-wildfire_00000013_post_disaster.png",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000013/santa-rosa-wildfire_00000013_pre_disaster.png",
+      "sample_id": "santa-rosa-wildfire_00000013"
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000266/santa-rosa-wildfire_00000266_post_disaster.png",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000266/santa-rosa-wildfire_00000266_pre_disaster.png",
+      "sample_id": "santa-rosa-wildfire_00000266"
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000278/santa-rosa-wildfire_00000278_post_disaster.png",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000278/santa-rosa-wildfire_00000278_pre_disaster.png",
+      "sample_id": "santa-rosa-wildfire_00000278"
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000010/santa-rosa-wildfire_00000010_post_disaster.png",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000010/santa-rosa-wildfire_00000010_pre_disaster.png",
+      "sample_id": "santa-rosa-wildfire_00000010"
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000029/santa-rosa-wildfire_00000029_post_disaster.png",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000029/santa-rosa-wildfire_00000029_pre_disaster.png",
+      "sample_id": "santa-rosa-wildfire_00000029"
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000112/santa-rosa-wildfire_00000112_post_disaster.png",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000112/santa-rosa-wildfire_00000112_pre_disaster.png",
+      "sample_id": "santa-rosa-wildfire_00000112"
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000255/santa-rosa-wildfire_00000255_post_disaster.png",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000255/santa-rosa-wildfire_00000255_pre_disaster.png",
+      "sample_id": "santa-rosa-wildfire_00000255"
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000342/santa-rosa-wildfire_00000342_post_disaster.png",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000342/santa-rosa-wildfire_00000342_pre_disaster.png",
+      "sample_id": "santa-rosa-wildfire_00000342"
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000263/santa-rosa-wildfire_00000263_post_disaster.png",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000263/santa-rosa-wildfire_00000263_pre_disaster.png",
+      "sample_id": "santa-rosa-wildfire_00000263"
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000054/santa-rosa-wildfire_00000054_post_disaster.png",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000054/santa-rosa-wildfire_00000054_pre_disaster.png",
+      "sample_id": "santa-rosa-wildfire_00000054"
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000122/santa-rosa-wildfire_00000122_post_disaster.png",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000122/santa-rosa-wildfire_00000122_pre_disaster.png",
+      "sample_id": "santa-rosa-wildfire_00000122"
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000232/santa-rosa-wildfire_00000232_post_disaster.png",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000232/santa-rosa-wildfire_00000232_pre_disaster.png",
+      "sample_id": "santa-rosa-wildfire_00000232"
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000160/santa-rosa-wildfire_00000160_post_disaster.png",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000160/santa-rosa-wildfire_00000160_pre_disaster.png",
+      "sample_id": "santa-rosa-wildfire_00000160"
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000194/santa-rosa-wildfire_00000194_post_disaster.png",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000194/santa-rosa-wildfire_00000194_pre_disaster.png",
+      "sample_id": "santa-rosa-wildfire_00000194"
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000108/santa-rosa-wildfire_00000108_post_disaster.png",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000108/santa-rosa-wildfire_00000108_pre_disaster.png",
+      "sample_id": "santa-rosa-wildfire_00000108"
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000227/santa-rosa-wildfire_00000227_post_disaster.png",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000227/santa-rosa-wildfire_00000227_pre_disaster.png",
+      "sample_id": "santa-rosa-wildfire_00000227"
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000062/santa-rosa-wildfire_00000062_post_disaster.png",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000062/santa-rosa-wildfire_00000062_pre_disaster.png",
+      "sample_id": "santa-rosa-wildfire_00000062"
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000126/santa-rosa-wildfire_00000126_post_disaster.png",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000126/santa-rosa-wildfire_00000126_pre_disaster.png",
+      "sample_id": "santa-rosa-wildfire_00000126"
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000115/santa-rosa-wildfire_00000115_post_disaster.png",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000115/santa-rosa-wildfire_00000115_pre_disaster.png",
+      "sample_id": "santa-rosa-wildfire_00000115"
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000193/santa-rosa-wildfire_00000193_post_disaster.png",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000193/santa-rosa-wildfire_00000193_pre_disaster.png",
+      "sample_id": "santa-rosa-wildfire_00000193"
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000352/santa-rosa-wildfire_00000352_post_disaster.png",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000352/santa-rosa-wildfire_00000352_pre_disaster.png",
+      "sample_id": "santa-rosa-wildfire_00000352"
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000008/santa-rosa-wildfire_00000008_post_disaster.png",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000008/santa-rosa-wildfire_00000008_pre_disaster.png",
+      "sample_id": "santa-rosa-wildfire_00000008"
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000188/santa-rosa-wildfire_00000188_post_disaster.png",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000188/santa-rosa-wildfire_00000188_pre_disaster.png",
+      "sample_id": "santa-rosa-wildfire_00000188"
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000025/santa-rosa-wildfire_00000025_post_disaster.png",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000025/santa-rosa-wildfire_00000025_pre_disaster.png",
+      "sample_id": "santa-rosa-wildfire_00000025"
+    },
+    {
+      "event": "mexico-earthquake",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/mexico-earthquake_00000145/mexico-earthquake_00000145_post_disaster.png",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/mexico-earthquake_00000145/mexico-earthquake_00000145_pre_disaster.png",
+      "sample_id": "mexico-earthquake_00000145"
+    },
+    {
+      "event": "mexico-earthquake",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/mexico-earthquake_00000054/mexico-earthquake_00000054_post_disaster.png",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/mexico-earthquake_00000054/mexico-earthquake_00000054_pre_disaster.png",
+      "sample_id": "mexico-earthquake_00000054"
+    },
+    {
+      "event": "mexico-earthquake",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/mexico-earthquake_00000036/mexico-earthquake_00000036_post_disaster.png",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/mexico-earthquake_00000036/mexico-earthquake_00000036_pre_disaster.png",
+      "sample_id": "mexico-earthquake_00000036"
+    },
+    {
+      "event": "mexico-earthquake",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/mexico-earthquake_00000116/mexico-earthquake_00000116_post_disaster.png",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/mexico-earthquake_00000116/mexico-earthquake_00000116_pre_disaster.png",
+      "sample_id": "mexico-earthquake_00000116"
+    },
+    {
+      "event": "mexico-earthquake",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/mexico-earthquake_00000130/mexico-earthquake_00000130_post_disaster.png",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/mexico-earthquake_00000130/mexico-earthquake_00000130_pre_disaster.png",
+      "sample_id": "mexico-earthquake_00000130"
+    },
+    {
+      "event": "mexico-earthquake",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/mexico-earthquake_00000175/mexico-earthquake_00000175_post_disaster.png",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/mexico-earthquake_00000175/mexico-earthquake_00000175_pre_disaster.png",
+      "sample_id": "mexico-earthquake_00000175"
+    },
+    {
+      "event": "mexico-earthquake",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/mexico-earthquake_00000134/mexico-earthquake_00000134_post_disaster.png",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/mexico-earthquake_00000134/mexico-earthquake_00000134_pre_disaster.png",
+      "sample_id": "mexico-earthquake_00000134"
+    },
+    {
+      "event": "mexico-earthquake",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/mexico-earthquake_00000077/mexico-earthquake_00000077_post_disaster.png",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/mexico-earthquake_00000077/mexico-earthquake_00000077_pre_disaster.png",
+      "sample_id": "mexico-earthquake_00000077"
+    },
+    {
+      "event": "mexico-earthquake",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/mexico-earthquake_00000056/mexico-earthquake_00000056_post_disaster.png",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/mexico-earthquake_00000056/mexico-earthquake_00000056_pre_disaster.png",
+      "sample_id": "mexico-earthquake_00000056"
+    },
+    {
+      "event": "mexico-earthquake",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/mexico-earthquake_00000071/mexico-earthquake_00000071_post_disaster.png",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/mexico-earthquake_00000071/mexico-earthquake_00000071_pre_disaster.png",
+      "sample_id": "mexico-earthquake_00000071"
+    },
+    {
+      "event": "mexico-earthquake",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/mexico-earthquake_00000162/mexico-earthquake_00000162_post_disaster.png",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/mexico-earthquake_00000162/mexico-earthquake_00000162_pre_disaster.png",
+      "sample_id": "mexico-earthquake_00000162"
+    },
+    {
+      "event": "mexico-earthquake",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/mexico-earthquake_00000170/mexico-earthquake_00000170_post_disaster.png",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/mexico-earthquake_00000170/mexico-earthquake_00000170_pre_disaster.png",
+      "sample_id": "mexico-earthquake_00000170"
+    },
+    {
+      "event": "mexico-earthquake",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/mexico-earthquake_00000123/mexico-earthquake_00000123_post_disaster.png",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/mexico-earthquake_00000123/mexico-earthquake_00000123_pre_disaster.png",
+      "sample_id": "mexico-earthquake_00000123"
+    },
+    {
+      "event": "mexico-earthquake",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/mexico-earthquake_00000060/mexico-earthquake_00000060_post_disaster.png",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/mexico-earthquake_00000060/mexico-earthquake_00000060_pre_disaster.png",
+      "sample_id": "mexico-earthquake_00000060"
+    },
+    {
+      "event": "mexico-earthquake",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/mexico-earthquake_00000014/mexico-earthquake_00000014_post_disaster.png",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/mexico-earthquake_00000014/mexico-earthquake_00000014_pre_disaster.png",
+      "sample_id": "mexico-earthquake_00000014"
+    },
+    {
+      "event": "mexico-earthquake",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/mexico-earthquake_00000099/mexico-earthquake_00000099_post_disaster.png",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/mexico-earthquake_00000099/mexico-earthquake_00000099_pre_disaster.png",
+      "sample_id": "mexico-earthquake_00000099"
+    },
+    {
+      "event": "mexico-earthquake",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/mexico-earthquake_00000137/mexico-earthquake_00000137_post_disaster.png",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/mexico-earthquake_00000137/mexico-earthquake_00000137_pre_disaster.png",
+      "sample_id": "mexico-earthquake_00000137"
+    },
+    {
+      "event": "mexico-earthquake",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/mexico-earthquake_00000149/mexico-earthquake_00000149_post_disaster.png",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/mexico-earthquake_00000149/mexico-earthquake_00000149_pre_disaster.png",
+      "sample_id": "mexico-earthquake_00000149"
+    },
+    {
+      "event": "mexico-earthquake",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/mexico-earthquake_00000081/mexico-earthquake_00000081_post_disaster.png",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/mexico-earthquake_00000081/mexico-earthquake_00000081_pre_disaster.png",
+      "sample_id": "mexico-earthquake_00000081"
+    },
+    {
+      "event": "mexico-earthquake",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/mexico-earthquake_00000038/mexico-earthquake_00000038_post_disaster.png",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/mexico-earthquake_00000038/mexico-earthquake_00000038_pre_disaster.png",
+      "sample_id": "mexico-earthquake_00000038"
+    },
+    {
+      "event": "mexico-earthquake",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/mexico-earthquake_00000045/mexico-earthquake_00000045_post_disaster.png",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/mexico-earthquake_00000045/mexico-earthquake_00000045_pre_disaster.png",
+      "sample_id": "mexico-earthquake_00000045"
+    },
+    {
+      "event": "mexico-earthquake",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/mexico-earthquake_00000133/mexico-earthquake_00000133_post_disaster.png",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/mexico-earthquake_00000133/mexico-earthquake_00000133_pre_disaster.png",
+      "sample_id": "mexico-earthquake_00000133"
+    },
+    {
+      "event": "mexico-earthquake",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/mexico-earthquake_00000147/mexico-earthquake_00000147_post_disaster.png",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/mexico-earthquake_00000147/mexico-earthquake_00000147_pre_disaster.png",
+      "sample_id": "mexico-earthquake_00000147"
+    },
+    {
+      "event": "mexico-earthquake",
+      "post_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/mexico-earthquake_00000156/mexico-earthquake_00000156_post_disaster.png",
+      "pre_image": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/mexico-earthquake_00000156/mexico-earthquake_00000156_pre_disaster.png",
+      "sample_id": "mexico-earthquake_00000156"
+    }
+  ],
+  "scope": "Fixed 72 development scenes only; full 216-scene independent admission remains incomplete; no new controller training.",
+  "shared_rgb_helpers_sha256": "158d2dd0e87f3baa46a9fd24b55b77ef000b2921aa311df37ead01af758f00d7",
+  "version": "hold_development72_perception_v1",
+  "weights_sha256": "81ae6386ceebe225ab6c072cb987b57312fdcfdb2a7f72ab9b30e5e8f1041cc4"
+}

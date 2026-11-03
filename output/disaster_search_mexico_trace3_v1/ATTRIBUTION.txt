@@ -1,0 +1,6 @@
+Source label representations: xBD/xView2; TACO-derived reference already present in project.
+Published semantic masks: https://huggingface.co/datasets/EVER-Z/torchange_xView2/tree/cda47e44377258222166dac63a85068e8bdca446
+Prospective baseline source: https://github.com/SebastianHafner/DisasterAdaptiveNet/tree/fada4e791766f810dc815a4e82d52f2bb27116c6
+Hafner, Gerard, Sullivan, Ban. DisasterAdaptiveNet. IJAEOG143 (2025),104756.
+Public Drive folders are linked by author README; retained metadata and split lists only, no model binaries.
+No original JSON UID reconstruction, new human annotations or redistribution-rights claim.

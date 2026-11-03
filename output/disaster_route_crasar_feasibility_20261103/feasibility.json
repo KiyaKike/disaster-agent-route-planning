@@ -1,0 +1,64 @@
+{
+  "date": "2026-11-03",
+  "revision": "4c2732a7ab9658517ca8caa69bfee9e1f87ca532",
+  "selection": "First lexicographic train UAS building annotation with matching SATELLITE scene-name prefix;first lexicographic satellite counterpart. Selection based on metadata only,not damage labels or scores.",
+  "files": [
+    {
+      "modality": "UAS",
+      "path": "train/annotations/UAS/building_damage_assessment/090302-Pecan-Grove-Levee.geo.tif.json",
+      "bytes": 1231286,
+      "records": 660,
+      "unique_buildings": 660,
+      "keys": [
+        "EPSG:4326",
+        "boundary",
+        "building_id",
+        "filename",
+        "id",
+        "jds_version",
+        "label",
+        "payload_version",
+        "pixels",
+        "source",
+        "view_id"
+      ],
+      "all_have_geographic_polygon": true,
+      "sha256": "f1c972bce6ba78f0ef8f06df10aa704d5a2d5fd223478460a5fbc674096612c9"
+    },
+    {
+      "modality": "SATELLITE",
+      "path": "train/annotations/SATELLITE/building_damage_assessment/090302-Pecan-Grove-Levee.geo.tif_103001006F018C00.tif.geo.tif.json",
+      "bytes": 1203522,
+      "records": 640,
+      "unique_buildings": 640,
+      "keys": [
+        "EPSG:4326",
+        "boundary",
+        "building_id",
+        "filename",
+        "id",
+        "jds_version",
+        "label",
+        "payload_version",
+        "pixels",
+        "source",
+        "view_id"
+      ],
+      "all_have_geographic_polygon": true,
+      "sha256": "68b45a46c4f25ba8d75e877b80ee3d0c08f734f15559dfb9546db64f2b2d8682"
+    }
+  ],
+  "shared_building_ids": 639,
+  "imagery_downloaded": false,
+  "test_annotations_opened": false,
+  "train_annotations_opened": true,
+  "damage_label_agreement_computed": false,
+  "new_method_efficacy": false,
+  "remaining_checks": [
+    "GeoTIFF CRS and transform",
+    "acquisition dates;prior must genuinely predate disaster if called pre-disaster",
+    "building overlap geometry and visibility",
+    "fixed image-derived detector vs private evaluation labels",
+    "travel and observation costs still platform assumptions,not flight log"
+  ]
+}

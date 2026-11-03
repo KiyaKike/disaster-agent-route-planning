@@ -1,0 +1,809 @@
+{
+  "damage_column_read": false,
+  "has_original_uid_column": false,
+  "interpretation": "Object polygons and PNGs match two known original calibration examples. Derived IDs for preserved source polygons are defensible as a separately documented adapter; original UIDs have not been recovered for hold. New development geometry/mask/unknown handling and spatial checks remain required.",
+  "network_bytes_this_runner": 0,
+  "new_hold_damage_read": false,
+  "new_hold_images_read": false,
+  "no_damage_payload_intersections": true,
+  "protected_column_ranges": [
+    {
+      "bytes": 85048,
+      "field": "ml:damage",
+      "offset": 32294925915
+    }
+  ],
+  "protocol_sha256": "328f105e23cdddffb6b647ac5c59dced3bc4fa29b5f25ae17ffe1ad5a3cc414a",
+  "read_receipts": [
+    {
+      "bytes": 30,
+      "cache_hit": true,
+      "offset": 0,
+      "sha256": "7b813800398698a075a15981028089b28f2563c70f5a82f581c36c86a347adac"
+    },
+    {
+      "bytes": 9,
+      "cache_hit": true,
+      "offset": 30,
+      "sha256": "c48de6429d7104358add5bccc1f19ececbb95f196ebfc944d4fd181d3e4f90e7"
+    },
+    {
+      "bytes": 128,
+      "cache_hit": true,
+      "offset": 51,
+      "sha256": "88016aa8b5788f31b3e1e890b20817acbdfce9f24fe00a9a7aeba2f7651a2247"
+    },
+    {
+      "bytes": 65536,
+      "cache_hit": true,
+      "offset": 32403120720,
+      "sha256": "6fb7eeef8a5df9d7db48c9d6007a230d80095e07de381daa202a74d01a18a79e"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32295010963,
+      "sha256": "cffac99375a429b2336196222d1bdb141074a034c78304e81d5298a5101e9dff"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32296059539,
+      "sha256": "ab6e6307447f08e6ce56b241ae50b6a3097d0b3957db17128c9b1cb1ab4daaa7"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32297108115,
+      "sha256": "76670683bf739ad1b6b2e6e6eae057e37469de9cd7d7e11a2577e13bad920aec"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32298156691,
+      "sha256": "732aa6087d7c8af0d06c4a40bb48f6a25be1bff4b8d174bddbe44f8450426155"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32299205267,
+      "sha256": "5c9ffb77371f608ae512b0f326366107f8e58f7c5f4f469b704c501b9cb0327c"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32300253843,
+      "sha256": "6239e9d7590fce17e5f2973ef53ebdf9b66d7fad8f584a7e7d2bc6eccbc856b1"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32301302419,
+      "sha256": "33ddc85022ea8d37c804f1cdd9ebd67676cc5912af0150c05de80647d293739c"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32302350995,
+      "sha256": "dbf721f0d18b202b5a1c9522600193785e244efa30c1450ed2755331c8f4eecb"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32303399571,
+      "sha256": "2507f7ebb8ec2a274da36adb9fdab17e5169e8cc676d46fc4dd50ef713176bc5"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32304448147,
+      "sha256": "cad914b27ffc4e9dc668890c6491332a60e245adad912d25ffb2733134a49d23"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32305496723,
+      "sha256": "ba27ce42a09e9a1b722892f4111e5b9d7c036fa80b2906fa5cde93566d400c4c"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32306545299,
+      "sha256": "9bc66082edf742004d6611a53a98b6fed4c1ca87c2f679256c726385587fa455"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32307593875,
+      "sha256": "e16181d9dafb2cf99f26c2f9a950dbd93e0f88c44280081f0813bc27c8b3143e"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32308642451,
+      "sha256": "c28db01370b48a08504eeeb210404754341af9f6ce6c03fecfe82b900fdf17f2"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32309691027,
+      "sha256": "72cf6b8738c2adf675164ed2bda5cb44d6cbd886936aec416216951bba9f87e4"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32310739603,
+      "sha256": "891f84b3d655ccc14ac92bfc8c83056fa76411cfd41564045efed033f0d91814"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32311788179,
+      "sha256": "5b0bbb61d61b98ddea3999a1b4fb8e390299b7cde9e397604c766a4ba42a9922"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32312836755,
+      "sha256": "d5accd3d6f43de19e8beb149acd56cf75f1b3a8a189661da4cf56a0b572f5ac9"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32313885331,
+      "sha256": "266b45a7a286d570c42a6adac645e250f684a302e249a54eba88123b6c65bdb5"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32314933907,
+      "sha256": "7ca0451f22ebc1637195f8dfca97d263749c5c1a306e771f7cf492bb537cfeb2"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32315982483,
+      "sha256": "2e21860a2e4e3d1f1bc48ebc333f43240468ddda72793463f1f3fa4c087751af"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32317031059,
+      "sha256": "bf5f8abbe81a5dd8f2eedde107062145fe7599d3da727c0df92f02475b11f2ea"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32318079635,
+      "sha256": "53571aae2e7a6d324f74f9e98167ccc147bd5b01de023c3fd3ade26c5a68ee5d"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32319128211,
+      "sha256": "944e5871d08186a70ced689928849e20e42ae0cda65a321041d738a113df043e"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32320176787,
+      "sha256": "4c021b8a991d37ee931d59d1312b9e0d27252f8a02e7d922fb8b575a6d892911"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32321225363,
+      "sha256": "be7bd285a9b4a997e88af651fb6d241be68723ecd02a4250deedff981e655c0c"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32322273939,
+      "sha256": "8b46ec9e933a63badf7ff4bd3f81fac5a497eecac4ee3feae8c2af45818f6415"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32323322515,
+      "sha256": "6c7e429b201f72bfa24858b4f0d0a69bbd0451f34d6f7f0f48a71ed981f27800"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32324371091,
+      "sha256": "739c0b10fd2610aad79d39a5fbcd05a088c9be62c73285b2f8bd1a1971c14c09"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32325419667,
+      "sha256": "f16a34557e33a05df7e6d2bd4267c26daf27795a6c5d6af9f5ffa0183d946193"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32326468243,
+      "sha256": "af29a860ebe7782131fc89e7edacc16cd944ff114cbef8436c575b6e42a54d5c"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32327516819,
+      "sha256": "deee3b17a295f0ee23595f0354f91345353106b35aa7e7bd3e3a9502b2fa872b"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32328565395,
+      "sha256": "47fc11a86afeebc2b55e6b4c971f242aed8079d7505e7acf54ae3b6498c5ca67"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32329613971,
+      "sha256": "5e3397a39a78028d9fcbbdb11d68f50c131753186ea06c9036301b58bb32fd35"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32330662547,
+      "sha256": "850269ba96ac8abb8ce7e7853178ab16c11d384cf5f013d0b4b348fc2f538aa0"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32331711123,
+      "sha256": "d787fb04a48c027c482553cecdb289047ffef27d291a9bb4e99b5837c68abd10"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32332759699,
+      "sha256": "53829a68ca7cf7d08c29f3ebe97decb6bcb8403a98ea4748c280c6cf25c79252"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32333808275,
+      "sha256": "9f3af1e2c4b1cde6854b1190161ad0121bf225929e90424cd7db7a22f9bbd7dc"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32334856851,
+      "sha256": "29543999453bfdd820b7c4f3275757ee12c7d8e9e205f1026f0965cb86524491"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32335905427,
+      "sha256": "691eaff7a3f9993b8330c26e47de842c9001da2537c5c7efb88e7ab07596940f"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32336954003,
+      "sha256": "6eec9b9cb90339c86165c64f86079483b25a50f13196444b1017451e739bb992"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32338002579,
+      "sha256": "3069dfbbc4f7c7d74ac33ed13add92f4bdd9de6cf4e340750d4d3f4474fb1ff6"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32339051155,
+      "sha256": "a3967f2f3285461bd5fa3d36e783449e0bc44d97428ce14368b1157683106363"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32340099731,
+      "sha256": "381d675432e49adfdf26fc494cac9a6a779a46209efcd3f148bead04c9452797"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32341148307,
+      "sha256": "0e7d9c9050c99e34ff3b175cf32e5aabcc4c7907f8c6db96d0f164fbd82a1f56"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32342196883,
+      "sha256": "1be09b49eeb685db75e9bb1064852c56c0c37acaf7c562084e72ce5142817f54"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32343245459,
+      "sha256": "85b89adc82b2e419562eefb2c48fb781117e384bee5c62b1b0da63e727f31fc5"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32344294035,
+      "sha256": "13c08811b58813ffdc8ff611dae533cf05d48cc3caf00c3a4b9afaa9aff44ff1"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32345342611,
+      "sha256": "dd0cdac7e3cc9a74050519081a55d81dbbf7d9bee22b1813502ef4e3cc069637"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32346391187,
+      "sha256": "419a2dcc33739dae4b8f1d52ffcc149a8bdba3faef0b178cca0dce2fbd582237"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32347439763,
+      "sha256": "a5f227153ca2809262163f1f3a542a13a49e9f75f07754c10f62449d85aa2d09"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32348488339,
+      "sha256": "7a834f4be89f52435c16cbb6d501c0f4ffad231829fa8f47e9fe1e40ff9aa342"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32349536915,
+      "sha256": "ed82683f39d500b09eee2653de2990d00b6e21ede86bc0ab799c9ea6f7459b9c"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 32350585491,
+      "sha256": "c23493b2af64aaffff3ad7a56606793a771ca65f0971b6949791ec9c3123f456"
+    },
+    {
+      "bytes": 263804,
+      "cache_hit": true,
+      "offset": 32351634067,
+      "sha256": "87b2f01b86458b01d51a6798bf15b1f24d3cdc575736a96926ae8ac464e2e35a"
+    },
+    {
+      "bytes": 366020,
+      "cache_hit": true,
+      "offset": 32351897871,
+      "sha256": "b30a85eeae162159ae4a44aeb95e09a9552e0e393c00a88211f742fd9bfc3e5a"
+    },
+    {
+      "bytes": 65536,
+      "cache_hit": true,
+      "offset": 32294734504,
+      "sha256": "a34e77a860700fa01b6182e3bc2c828abbd472edd1c0053ef6cb282c4b6f1374"
+    },
+    {
+      "bytes": 539724,
+      "cache_hit": true,
+      "offset": 32294258602,
+      "sha256": "1b0433dcc331e982204aba4f17919183c4137dced337d846cb3a9ef680022f6b"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 958757400,
+      "sha256": "62a57ba86f96c6d7d8e9f4857a5637d171a21b157dd0cd42b13cda94f71bc52b"
+    },
+    {
+      "bytes": 482373,
+      "cache_hit": true,
+      "offset": 959805976,
+      "sha256": "3694d2191f544fe781f9b95c5704ded0b59997906ac7e8db5b7d0795d066b3b8"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 960288396,
+      "sha256": "7669c78df491ea444e440ae595cfacaac8e57e792c20163b40afa9ee1f13ab8d"
+    },
+    {
+      "bytes": 471736,
+      "cache_hit": true,
+      "offset": 961336972,
+      "sha256": "ad731278fd4fab70bdae5bc6dda081cd58b381bcd6b2f8ecc9d8732f2a3c81c0"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 5210531460,
+      "sha256": "256929a3935e39d0a2cc2929d1d0877379217a3a6aa228a53081e189fa2b2cd0"
+    },
+    {
+      "bytes": 422859,
+      "cache_hit": true,
+      "offset": 5211580036,
+      "sha256": "80ead3529eade93fd13371becb524fed77372f39228958d05f7af1ab7ba6fa81"
+    },
+    {
+      "bytes": 1048576,
+      "cache_hit": true,
+      "offset": 5212002943,
+      "sha256": "1b639ac34d53ed341d16a9980b78c0621744fafbdf231fd884da89b252d26356"
+    },
+    {
+      "bytes": 629947,
+      "cache_hit": true,
+      "offset": 5213051519,
+      "sha256": "9ce1b83be539d47c742e31e0fa33ef1cb398ffa5e032043bd8331e4be97ae25b"
+    }
+  ],
+  "results": [
+    {
+      "all_polygons_one_to_one_round6": true,
+      "images": [
+        {
+          "byte_identical_to_known_original": true,
+          "bytes": 1530949,
+          "mode": "pre",
+          "sha256": "35b408e9955485529f226b8f20b8b104280bdc86b937b8ebd8a2c3e440b3c45f"
+        },
+        {
+          "byte_identical_to_known_original": true,
+          "bytes": 1520312,
+          "mode": "post",
+          "sha256": "a36a329acc0948b372d18c5b4b15c3ced22ba2b4ccc839b6e08480f3dc33fad9"
+        }
+      ],
+      "mapping": [
+        {
+          "original_uid_on_this_known_scene": "1e2229b3-fce6-4976-88d9-77c918cac10c",
+          "polygon_sha256_round6": "8b64ed5dae7bf8840986cbb32b8acf1d60e8806b4ece81041673ace112b83057",
+          "source_object_index": 0
+        },
+        {
+          "original_uid_on_this_known_scene": "d06330a9-3f1a-4c97-95db-a6297f373e2d",
+          "polygon_sha256_round6": "c2b3ff00e54f6e0bc0ab21ded3ef1e1aeafa0e85a52db4aeef742045bbb4fa61",
+          "source_object_index": 1
+        },
+        {
+          "original_uid_on_this_known_scene": "2c79bf56-84f9-4467-bbe3-1ed5be7dc8b0",
+          "polygon_sha256_round6": "b34e45d3eb2e013d05985bcf7e744fecb316cfe575460d01ec130b0369d33a5c",
+          "source_object_index": 2
+        },
+        {
+          "original_uid_on_this_known_scene": "30673410-efac-4bae-a586-11dd23a1772a",
+          "polygon_sha256_round6": "1d4d36aee15213cfce00980ab74cf47c4c04ecc71103375260be3cabf229a5d1",
+          "source_object_index": 3
+        },
+        {
+          "original_uid_on_this_known_scene": "01598c97-8f40-4894-b2fe-de95cd10241f",
+          "polygon_sha256_round6": "1c4df99a913b2a2b2edeb4be1fbf3c62f5c2ff75dc7c38a1f80a7f514e7a5778",
+          "source_object_index": 4
+        },
+        {
+          "original_uid_on_this_known_scene": "1a997d6f-4706-4890-b461-68926e3657fb",
+          "polygon_sha256_round6": "1766729f6e23e18373fd9883166a5d01e549c6a99fa1b025605ef474fcf103fb",
+          "source_object_index": 5
+        },
+        {
+          "original_uid_on_this_known_scene": "dc390602-3b32-4759-842d-4302896fe0b1",
+          "polygon_sha256_round6": "70a8bb214151c6ef9bb83d1c8151f96230f46ceeb177b86d055678fd58a6438e",
+          "source_object_index": 6
+        },
+        {
+          "original_uid_on_this_known_scene": "7412dfb0-60ad-45c9-a0aa-c0f8afddde64",
+          "polygon_sha256_round6": "2fd2f9b22f8267c52031dd40df2d5d02faaede8fcf52843f444128aa84e9282c",
+          "source_object_index": 7
+        },
+        {
+          "original_uid_on_this_known_scene": "82ecdfc4-8d99-4e30-ace4-247ef057d239",
+          "polygon_sha256_round6": "1d98d6cdf0bca637cfaaf7d28901f2a497796b0a45c4db3952c39f9d3df119dd",
+          "source_object_index": 8
+        },
+        {
+          "original_uid_on_this_known_scene": "6a685fcb-c7a7-4d17-a96c-7c98b7ba8420",
+          "polygon_sha256_round6": "828690805597d15df53e0baca22d76977e36b6585879330b5b6a2c2ff7729ce4",
+          "source_object_index": 9
+        },
+        {
+          "original_uid_on_this_known_scene": "02a33f63-28bf-42fc-97ed-b039814131a9",
+          "polygon_sha256_round6": "b79f9a9853b42f89fd7517fad45c26f79ec841a41897059715bd50a566984830",
+          "source_object_index": 10
+        },
+        {
+          "original_uid_on_this_known_scene": "36c8599b-9383-4eac-a642-8dfe98862a62",
+          "polygon_sha256_round6": "56b8d5f88a2099f7c08c80b315ef9eb58bcbafebf1eed823d1b8f534b7092784",
+          "source_object_index": 11
+        },
+        {
+          "original_uid_on_this_known_scene": "6ff8a30b-f1e8-48be-bc6f-54605a201c1f",
+          "polygon_sha256_round6": "3af9f4e4cb9a60cbe289cdbd150b0f6c59ad9fe38cfbab45808d95fe62b5a34d",
+          "source_object_index": 12
+        },
+        {
+          "original_uid_on_this_known_scene": "d259271a-08d9-4f90-9d82-e150a640ab26",
+          "polygon_sha256_round6": "8b512a819b354d8cbb2e7a8af6b2dac91f12cae3cc67e11a52b49fbf1cc17643",
+          "source_object_index": 13
+        },
+        {
+          "original_uid_on_this_known_scene": "ca27883d-06a3-462c-9b7f-f0715d75cdc2",
+          "polygon_sha256_round6": "689e14ec47bec0bac5f4820a82f4e73f765b12e52956b8768eefc8db85a412c5",
+          "source_object_index": 14
+        },
+        {
+          "original_uid_on_this_known_scene": "d2b897f5-a608-453f-9aec-3a82d4f2cd6a",
+          "polygon_sha256_round6": "881a1c581618a6ed0d6b0868d9c248a07fc9d2c751b77f3afe81c26064288ac4",
+          "source_object_index": 15
+        },
+        {
+          "original_uid_on_this_known_scene": "fd597477-c15a-40c5-860a-6b13bc75b8f3",
+          "polygon_sha256_round6": "c0a63f184f4463d12d10e4b171513d5d2e5802f7c59e279a5ff81a347d6ec9d2",
+          "source_object_index": 16
+        },
+        {
+          "original_uid_on_this_known_scene": "b9bc7bac-fa5b-4003-b213-4249239f2795",
+          "polygon_sha256_round6": "d97be9c5380f65d53957353361ff11d4129797cfa5073cbe18eb93e6652e63d5",
+          "source_object_index": 17
+        },
+        {
+          "original_uid_on_this_known_scene": "96eda897-45b9-4013-9dea-e5ef926c1cf3",
+          "polygon_sha256_round6": "9fcaf16b9f6f0562c94155b8693c1c95536649787292f4caa85307bead82d6ee",
+          "source_object_index": 18
+        },
+        {
+          "original_uid_on_this_known_scene": "f52a7782-0434-42e6-bbaa-c0db61dfba35",
+          "polygon_sha256_round6": "ebda2c9285bec9ccfdd831bce64c7c20a67ea9edc2a4e43e14d46493480f9ea2",
+          "source_object_index": 19
+        },
+        {
+          "original_uid_on_this_known_scene": "ece7c125-6593-45c3-ab9b-2ffe32a30a25",
+          "polygon_sha256_round6": "f5efb88fa262dc462fa8f33427a3c9686c11def65552f0807f29d2b4066dde44",
+          "source_object_index": 20
+        },
+        {
+          "original_uid_on_this_known_scene": "c7140c37-f8e5-452c-8e45-ff8dba57a3f1",
+          "polygon_sha256_round6": "002a46ae222fd5bb7cffd6df1f77f9d77b860affd8f2f790dc0b82a1094c622a",
+          "source_object_index": 21
+        },
+        {
+          "original_uid_on_this_known_scene": "ad312316-0daf-486b-816c-d588cccb7b12",
+          "polygon_sha256_round6": "90c72541ca463dfa6a4c3e90bb80f2263ee917cbc0ce52262049a493501b36ea",
+          "source_object_index": 22
+        },
+        {
+          "original_uid_on_this_known_scene": "b50cf4ac-a5f5-46d2-af89-cbcddecd9560",
+          "polygon_sha256_round6": "c30d701e635c745b113898acea6fd96c0f0ad1c03b07842d426980466abde8fe",
+          "source_object_index": 23
+        },
+        {
+          "original_uid_on_this_known_scene": "b3c0705d-d35c-4643-b53e-ef4a92704df5",
+          "polygon_sha256_round6": "981a7803ef8e3619e05e76b53f5249efd766e36a2f9e76d4d9fa5ca65fadf11f",
+          "source_object_index": 24
+        },
+        {
+          "original_uid_on_this_known_scene": "d701eec2-2a97-4630-b0a5-f8506d9005ff",
+          "polygon_sha256_round6": "49c7d7ef9e8973a5deaca7fed362b93e773001249478106840ff3c139c24606e",
+          "source_object_index": 25
+        },
+        {
+          "original_uid_on_this_known_scene": "5ae0d985-63bb-486a-8409-d563775983e7",
+          "polygon_sha256_round6": "d6806cbfa764eb37f71653db1a94519dc2512ab04b9782358b1831d77b37f3c0",
+          "source_object_index": 26
+        },
+        {
+          "original_uid_on_this_known_scene": "b658216e-f371-4cac-882e-c49b97fb0b4c",
+          "polygon_sha256_round6": "a0d3aae6c6fa0aef0e2cd63ba94a4a3ef4aa8a47d7d31389587c2507fc24259d",
+          "source_object_index": 27
+        },
+        {
+          "original_uid_on_this_known_scene": "85759c12-da8f-44cb-a403-b18d9c572ce9",
+          "polygon_sha256_round6": "077858417a21091ee9d76fe4b340b5a6e8bfd1f984bcab321184cac4814f55e1",
+          "source_object_index": 28
+        },
+        {
+          "original_uid_on_this_known_scene": "63cd4755-dbee-451f-ab79-ba50a7528a75",
+          "polygon_sha256_round6": "0d74a27bb8563132ffd6b3665e841e24c2d0b5d5a87d634414892ea3a4eccb68",
+          "source_object_index": 29
+        },
+        {
+          "original_uid_on_this_known_scene": "cbb9a4eb-7562-42b2-ac5c-7efad78a13a6",
+          "polygon_sha256_round6": "8719ead90ab93d25391fff90276172ee4d7bc45faaf96a5557fc656922fac8cb",
+          "source_object_index": 30
+        },
+        {
+          "original_uid_on_this_known_scene": "0ae8dfbc-9527-4efb-97ff-ac928d9f9c9e",
+          "polygon_sha256_round6": "ce001107068d5abb8122941b21c1bb644d50c1e8dacd7f6d977064df30d55100",
+          "source_object_index": 31
+        },
+        {
+          "original_uid_on_this_known_scene": "b6ce03a3-5ee8-4f10-b6f7-15a2df662ce7",
+          "polygon_sha256_round6": "f7488fc52c4c5bcda137ba3525ae1bf829a712d6bc222fbe51911aba455fe176",
+          "source_object_index": 32
+        },
+        {
+          "original_uid_on_this_known_scene": "2d6341c5-299b-4834-aca9-bfead35d4c83",
+          "polygon_sha256_round6": "69877565f6c8d5768922d27306ab67eceeb2d9f80279cc985931aeace2f8163f",
+          "source_object_index": 33
+        },
+        {
+          "original_uid_on_this_known_scene": "aa4f95b7-5f58-46c6-8260-98c5bb6229ac",
+          "polygon_sha256_round6": "c0906b734beb3d3d1bacc8ae6c073cef92fc766ae94567a671db8cd4eb3d1663",
+          "source_object_index": 34
+        },
+        {
+          "original_uid_on_this_known_scene": "d72e8f0d-a9ba-49c3-be17-bff84191bc9c",
+          "polygon_sha256_round6": "eee7ed914c3334e3e3fd4cfce00d351192be895c37c0763a38db501b4e6bb70d",
+          "source_object_index": 35
+        },
+        {
+          "original_uid_on_this_known_scene": "43eacbb9-061a-4460-a817-77f07f29f8c4",
+          "polygon_sha256_round6": "185c5019ce7a133c69d36f7613a7b9f036c25f4ed2b489b25f2ebd6f6909f13a",
+          "source_object_index": 36
+        },
+        {
+          "original_uid_on_this_known_scene": "a4686482-e410-4360-895d-e49267c76912",
+          "polygon_sha256_round6": "fcdc1f348e397ca677c5ae4978b1f73b694b8cc9ce51d16fd93d26474b9d6477",
+          "source_object_index": 37
+        },
+        {
+          "original_uid_on_this_known_scene": "79b7029a-0560-49b0-90b8-a0165202c3ed",
+          "polygon_sha256_round6": "c60a655cc7592edab474c7f62f3d604d9bbca2445de0c483008ed5336997eb31",
+          "source_object_index": 38
+        },
+        {
+          "original_uid_on_this_known_scene": "b75952fa-865a-495c-8030-b4995e56f7f7",
+          "polygon_sha256_round6": "c414ac4d0b576f393a76894035fb11534608c01a9c42126ef4c6c891fa98e645",
+          "source_object_index": 39
+        }
+      ],
+      "original_label_sha256": "8b32338e5026b37ea2c60ace60450acb825f1da929b86dac1c7649d8b86bb525",
+      "original_polygon_count": 40,
+      "sample_id": "hurricane-harvey_00000008"
+    },
+    {
+      "all_polygons_one_to_one_round6": true,
+      "images": [
+        {
+          "byte_identical_to_known_original": true,
+          "bytes": 1471435,
+          "mode": "pre",
+          "sha256": "e09257bfecab0c9ab7e341a15fed8b105ba5850156a260fe6bd6905d46079e3a"
+        },
+        {
+          "byte_identical_to_known_original": true,
+          "bytes": 1678523,
+          "mode": "post",
+          "sha256": "05539831bd1422af031ce5c9c6c7ae6f71414700659935552550eb0890b77bec"
+        }
+      ],
+      "mapping": [
+        {
+          "original_uid_on_this_known_scene": "7fb679a7-b190-4e30-9af5-aae942f26345",
+          "polygon_sha256_round6": "8aae0ccaaa13554775ba2266d097afef51c1bd87db2a24f2cc7e705b3aed944d",
+          "source_object_index": 0
+        },
+        {
+          "original_uid_on_this_known_scene": "758666e9-6452-466f-a2cf-b44c23477bb2",
+          "polygon_sha256_round6": "1cfc328803ac9509bdecaffede88f9f855ac4ac764ac1467857b2d2e4b03e2f1",
+          "source_object_index": 1
+        },
+        {
+          "original_uid_on_this_known_scene": "efe0c9c4-87a5-41aa-8d41-f402102f463b",
+          "polygon_sha256_round6": "6e1e08962069fd97d789912ce82f3cf048ac97ea166a20c66f07ddb112660808",
+          "source_object_index": 2
+        },
+        {
+          "original_uid_on_this_known_scene": "12b96f4f-d56d-489c-9557-5baa41946f7a",
+          "polygon_sha256_round6": "c972e4cb0b6a0af9e10f07453be9adb84e3508d749776851e5fc5a308486dc73",
+          "source_object_index": 3
+        },
+        {
+          "original_uid_on_this_known_scene": "5b92d8d3-00d8-4471-ab99-e8d8c1554fa6",
+          "polygon_sha256_round6": "278ef65991bda5d90e29b9881357b7f696ded3c78a1125554b3bdc00508d8ec1",
+          "source_object_index": 4
+        },
+        {
+          "original_uid_on_this_known_scene": "d99673b2-a97d-4844-8c45-4c16b9a75933",
+          "polygon_sha256_round6": "a798f3d50d20c57d7a30e6b44f60cb931909d2703a660bc21790d46a43ee6937",
+          "source_object_index": 5
+        },
+        {
+          "original_uid_on_this_known_scene": "c56a7f16-86ec-44bf-9838-2ed04d8b3ff0",
+          "polygon_sha256_round6": "8df23437121d4f6dacca09f55c17c9588f9f0fb3af6e01f85a3b91daf25358ce",
+          "source_object_index": 6
+        },
+        {
+          "original_uid_on_this_known_scene": "73ae92c8-3ab1-4942-82ed-b32c14131cc6",
+          "polygon_sha256_round6": "6bff760eebefd8862278b0eee46f427d95638e10aa48659d863fc2cbcd8d812f",
+          "source_object_index": 7
+        },
+        {
+          "original_uid_on_this_known_scene": "9ba89e50-0b50-4413-bca2-04edfb225f7c",
+          "polygon_sha256_round6": "d3f6c971ae48858d80fe03ad141ec07940e48c127431ddff2da5c1a7e1fdd7ff",
+          "source_object_index": 8
+        },
+        {
+          "original_uid_on_this_known_scene": "a9fee201-e921-44fc-bd22-8567ebff8f52",
+          "polygon_sha256_round6": "cf960ec6ae0ac362c11839c0a68deb8bd2ca356f50e5c8c99472ad01cedfcf01",
+          "source_object_index": 9
+        },
+        {
+          "original_uid_on_this_known_scene": "92bc5ead-f98d-4fe1-9e94-5d11d20fd5a6",
+          "polygon_sha256_round6": "f52fbf702c39cffa5d609a7e0b9d8e37f2b729177405809bbc8bc944147c1877",
+          "source_object_index": 10
+        },
+        {
+          "original_uid_on_this_known_scene": "9957d872-74ad-4f7f-8569-34c40a4a4fbf",
+          "polygon_sha256_round6": "3f5a09fffc31d9b96aa5124f7b2b30c50f41ed59ef35e03cb1b3e519ab0ab2a4",
+          "source_object_index": 11
+        },
+        {
+          "original_uid_on_this_known_scene": "32fe2de4-9c96-4a60-ba57-dc52b65d0bdd",
+          "polygon_sha256_round6": "c3c64ee0ee36f42b16f3993f91723c228e04a2c27c6f1c552b42072fb5a970a5",
+          "source_object_index": 12
+        },
+        {
+          "original_uid_on_this_known_scene": "fdbf25b9-83b2-4116-83b0-da4f0073c1e0",
+          "polygon_sha256_round6": "afa1e2b7e65f7b1f95a39c21638e1d225ca20ffd132fa9fbd0e9e0b095903d5b",
+          "source_object_index": 13
+        },
+        {
+          "original_uid_on_this_known_scene": "19130ad7-0bd0-4477-bc96-a0112b9c2a97",
+          "polygon_sha256_round6": "62dfd419b975143c0a56d8a0ffe8518fd4efcff50f9302936c95eb353d46e524",
+          "source_object_index": 14
+        },
+        {
+          "original_uid_on_this_known_scene": "d699ac35-67bf-4f49-98f1-ba8d5f162093",
+          "polygon_sha256_round6": "1dd66deff93a7b63e89bd51d96bd21a59e0ee3c6768f21c60b85b274d5a58a24",
+          "source_object_index": 15
+        },
+        {
+          "original_uid_on_this_known_scene": "d777d357-aa11-4aa2-8d68-e3a6b089ae3e",
+          "polygon_sha256_round6": "3d1f4ede9814fe34329e79905da523cd0a33d353381c1d0af22fed8bdd8a9482",
+          "source_object_index": 16
+        },
+        {
+          "original_uid_on_this_known_scene": "452dddc4-2600-43db-88d3-09573986dfc1",
+          "polygon_sha256_round6": "370c517500226870076d8ed0cc696d732a8f56ad5ddfb13d57ec7a47718dc088",
+          "source_object_index": 17
+        },
+        {
+          "original_uid_on_this_known_scene": "7805879c-af51-4cf4-88d3-dfd1052a8ee8",
+          "polygon_sha256_round6": "df74c7f9a689d6a89d91d21f9eb5f362d4ef3dfff9586eb82a7210978cf3d1ab",
+          "source_object_index": 18
+        },
+        {
+          "original_uid_on_this_known_scene": "db695a42-71d1-4939-862c-c63e40c0c89b",
+          "polygon_sha256_round6": "10626fafa0bad6db4474aae2bbee81f881d7e97862552a49b6d448a7a2b5d02b",
+          "source_object_index": 19
+        },
+        {
+          "original_uid_on_this_known_scene": "81d34969-b2e7-4ff0-a810-942295ffc23d",
+          "polygon_sha256_round6": "68e9693822ea1ad3a7a81e76af3631b5d48adf36f60b7531a8bb6117d326c77b",
+          "source_object_index": 20
+        },
+        {
+          "original_uid_on_this_known_scene": "85e78fff-5fd6-46e1-991f-4b2b1ecd7038",
+          "polygon_sha256_round6": "4cec623766c771e1a50b8925afa8ed8ba4946be28e343d0d7d331d37a802f694",
+          "source_object_index": 21
+        },
+        {
+          "original_uid_on_this_known_scene": "0ec58358-0230-43c0-8ed6-43bf046db024",
+          "polygon_sha256_round6": "e1a5d5f38d3824d6b7b7a786aeb738a85d30415b10f5384fc08f2f8afa161639",
+          "source_object_index": 22
+        },
+        {
+          "original_uid_on_this_known_scene": "d0c9cb3b-340f-45f4-907a-fd975e68c061",
+          "polygon_sha256_round6": "18a444eaecec8909661c24d25887e6c6d81df262b0414c7f79a865e9dc1ea5f4",
+          "source_object_index": 23
+        }
+      ],
+      "original_label_sha256": "c0304567276ad675ec32bb1e72001ee52addaaa55ffe1b06e5687bda59517515",
+      "original_polygon_count": 24,
+      "sample_id": "santa-rosa-wildfire_00000023"
+    }
+  ],
+  "revision": "44e219dc1d88c9d0903d6b478d7f2f3c435e574f",
+  "runner_sha256": "11bf2156964fc1a536b2d05a21fa4a56c23bc904bd6bff6622e5ddbd501bed37",
+  "stage": "OLD_CALIBRATION_GEOMETRY_AND_IMAGE_BRIDGE",
+  "whole_hold_annotation_validated": false
+}

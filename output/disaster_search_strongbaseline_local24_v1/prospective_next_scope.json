@@ -1,0 +1,10 @@
+{
+  "decision": "PROCEED_TO_PROSPECTIVE_MULTIEVENT_MEASUREMENT_ONLY",
+  "gpu_rental": false,
+  "new_data_payloads_enabled": false,
+  "new_inference_enabled": false,
+  "next": "Prospectively lock new multi-event measurement cohort and image-quality/access rules before payloads;no adaptive strategy until measurement replication",
+  "reserved_sets_enabled": false,
+  "status": "NOT_EXECUTED_METADATA_PLANNING_ONLY",
+  "training": false
+}

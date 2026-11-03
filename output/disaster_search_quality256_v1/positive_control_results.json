@@ -1,0 +1,52 @@
+[
+  {
+    "block_id": null,
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_quality256_v1/cache/hurricane-harvey_00000125_positive_control.npz",
+    "cache_sha256": "d3ab4afb595d7fe888ba923ce9a3301e63eac6beb1554015b3ebad6439fa10b3",
+    "declared_target": true,
+    "different_pixels_from_legacy": 0,
+    "elapsed_seconds": 0.442624417017214,
+    "exact_mask_equal": true,
+    "index": 1,
+    "input_mode": "positive_control",
+    "input_tensor_sha256": "f983bfc2be71bff8a9e8edc0a44e1a89975cf7a0b454eb4bb0533e017fddfe5f",
+    "input_tensor_shape": [
+      1,
+      6,
+      128,
+      128
+    ],
+    "job": "hurricane-harvey_00000125_positive_control",
+    "mean_max_damage_probability": 0.9760066270828247,
+    "observation_id": "hurricane-harvey_00000125:r07c04:native",
+    "predicted_building_pixels": 4910,
+    "predicted_severe_pixels": 3943,
+    "status": "COMPLETE",
+    "uncalibrated_severe_score": 0.9996781349182129
+  },
+  {
+    "block_id": null,
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_quality256_v1/cache/santa-rosa-wildfire_00000025_positive_control.npz",
+    "cache_sha256": "3596e6fa70ea2c8a01c95026b8aa8c6ce472d52903a6becb15a542f2649ed3e3",
+    "declared_target": true,
+    "different_pixels_from_legacy": 0,
+    "elapsed_seconds": 0.06253545900108293,
+    "exact_mask_equal": true,
+    "index": 2,
+    "input_mode": "positive_control",
+    "input_tensor_sha256": "b1ff1f4c04a7b92d51b5ac2985eb7550185167134e5a76cddca45bbaf6f68e28",
+    "input_tensor_shape": [
+      1,
+      6,
+      128,
+      128
+    ],
+    "job": "santa-rosa-wildfire_00000025_positive_control",
+    "mean_max_damage_probability": 0.9973737597465515,
+    "observation_id": "santa-rosa-wildfire_00000025:r05c01:native",
+    "predicted_building_pixels": 1445,
+    "predicted_severe_pixels": 1379,
+    "status": "COMPLETE",
+    "uncalibrated_severe_score": 0.9999110698699951
+  }
+]

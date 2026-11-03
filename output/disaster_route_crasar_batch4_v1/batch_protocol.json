@@ -1,0 +1,26 @@
+{
+  "parent_protocol": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_route_crasar_region_rank2_v1/next_batch_protocol.json",
+  "parent_protocol_sha256": "9eb318a022077240665d4e4c501c9393c9f634c7790fe577ec1c859056806c3c",
+  "scene_names": [
+    "1001-Ft-Myers-Beach-DIRT.geo.tif",
+    "1001-Iona-Point.geo.tif",
+    "1001-Kennedy-Green-Mobile-Homes.geo.tif",
+    "1001-McGregor-College-Pkwy-South.1.geo.tif"
+  ],
+  "zero_based_ranks": [
+    2,
+    3,
+    4,
+    5
+  ],
+  "selection": "Exactly the four previously fixed scenes,one128m center ROI each;all failures retained;no outcome-based replacement",
+  "primary": "UAS major/destroyed",
+  "secondary": "UAS minor/major/destroyed,predeclared for this batch,exploratory development",
+  "evaluation": "Same frozen detector,128x128 per32m window,thresholds.38/.8/.1,budgets60/100/140,5m/s,10s observation,1s planning,return paid",
+  "quality_scope": "Geometry support and image registration separate. Routing permitted only as explicitly provisional image-access diagnostics unless independent registration passes.",
+  "resource_caps": "Two independent scene acquisition workers,eight range threads per source,32MiB cached image ranges per source,12MB annotation limit",
+  "prediction_increment": "Leave-one-region-out prediction of unvisited fixed-model damage fraction,using prior features versus same plus paid-prefix features;candidate rows exclude prefix and shared-building overlaps;no event-generalization claim",
+  "outcome_selection": false,
+  "training_new_detector": false,
+  "gpu_rental": false
+}

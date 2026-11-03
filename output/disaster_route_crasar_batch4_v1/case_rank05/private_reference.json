@@ -1,0 +1,232 @@
+[
+  {
+    "building_id": "259f9c13d418478bbc39b888e0927e53",
+    "eligible": true,
+    "labels": {
+      "pre": "no damage",
+      "post": "minor damage",
+      "uas": "minor damage"
+    },
+    "primary_target": false
+  },
+  {
+    "building_id": "296c2168874e40de9b5ad6f1d3ea66d7",
+    "eligible": true,
+    "labels": {
+      "pre": "no damage",
+      "post": "no damage",
+      "uas": "minor damage"
+    },
+    "primary_target": false
+  },
+  {
+    "building_id": "298f6dcec6c04c67b531997c4d7bc679",
+    "eligible": true,
+    "labels": {
+      "pre": "obscured",
+      "post": "minor damage",
+      "uas": "no damage"
+    },
+    "primary_target": false
+  },
+  {
+    "building_id": "3183b49d075e45f4a8c83ccd5e63b6e3",
+    "eligible": true,
+    "labels": {
+      "pre": "no damage",
+      "post": "minor damage",
+      "uas": "major damage"
+    },
+    "primary_target": true
+  },
+  {
+    "building_id": "3f82dad4e9ab476eab5ece2d8e9b8942",
+    "eligible": true,
+    "labels": {
+      "pre": "no damage",
+      "post": "no damage",
+      "uas": "no damage"
+    },
+    "primary_target": false
+  },
+  {
+    "building_id": "43106665019149308799578f06e00a6e",
+    "eligible": true,
+    "labels": {
+      "pre": "no damage",
+      "post": "minor damage",
+      "uas": "no damage"
+    },
+    "primary_target": false
+  },
+  {
+    "building_id": "4d683f5fce1c48b19d8f7b1c54bee95a",
+    "eligible": true,
+    "labels": {
+      "pre": "no damage",
+      "post": "major damage",
+      "uas": "major damage"
+    },
+    "primary_target": true
+  },
+  {
+    "building_id": "520b9f864bba4eaf9c75f43e84496dcf",
+    "eligible": false,
+    "labels": {
+      "pre": "no damage",
+      "post": "no damage",
+      "uas": "minor damage"
+    },
+    "primary_target": false
+  },
+  {
+    "building_id": "628cffc642c94aeeb7412a925e90295f",
+    "eligible": true,
+    "labels": {
+      "pre": "no damage",
+      "post": "minor damage",
+      "uas": "minor damage"
+    },
+    "primary_target": false
+  },
+  {
+    "building_id": "65362cbc111d474f81d8efd671ed0b52",
+    "eligible": true,
+    "labels": {
+      "pre": "no damage",
+      "post": "minor damage",
+      "uas": "minor damage"
+    },
+    "primary_target": false
+  },
+  {
+    "building_id": "80a186a9a34542e5a8d9a7a811628a27",
+    "eligible": true,
+    "labels": {
+      "pre": "no damage",
+      "post": "no damage",
+      "uas": "minor damage"
+    },
+    "primary_target": false
+  },
+  {
+    "building_id": "960b2bc05dd84a3f87005f0bdc0f3592",
+    "eligible": true,
+    "labels": {
+      "pre": "no damage",
+      "post": "no damage",
+      "uas": "minor damage"
+    },
+    "primary_target": false
+  },
+  {
+    "building_id": "a610538971b24ab191c3a55b8e6deb80",
+    "eligible": true,
+    "labels": {
+      "pre": "no damage",
+      "post": "minor damage",
+      "uas": "minor damage"
+    },
+    "primary_target": false
+  },
+  {
+    "building_id": "ae352dea8c51489095f9772be61a68f0",
+    "eligible": false,
+    "labels": {
+      "pre": "no damage",
+      "post": "minor damage",
+      "uas": "minor damage"
+    },
+    "primary_target": false
+  },
+  {
+    "building_id": "ae7f56d86de34b9fbd753580b108938c",
+    "eligible": true,
+    "labels": {
+      "pre": "no damage",
+      "post": "minor damage",
+      "uas": "minor damage"
+    },
+    "primary_target": false
+  },
+  {
+    "building_id": "b21e5fcde646488dba079461e5dc9f84",
+    "eligible": true,
+    "labels": {
+      "pre": "no damage",
+      "post": "no damage",
+      "uas": "no damage"
+    },
+    "primary_target": false
+  },
+  {
+    "building_id": "bc1fcf54bd764bd5ac21033a9f71d831",
+    "eligible": true,
+    "labels": {
+      "pre": "no damage",
+      "post": "major damage",
+      "uas": "major damage"
+    },
+    "primary_target": true
+  },
+  {
+    "building_id": "c00b74cab0704852bf4726a9049ce329",
+    "eligible": true,
+    "labels": {
+      "pre": "no damage",
+      "post": "minor damage",
+      "uas": "minor damage"
+    },
+    "primary_target": false
+  },
+  {
+    "building_id": "c12bbf3771ef4006aab374cd1f36a85b",
+    "eligible": true,
+    "labels": {
+      "pre": "no damage",
+      "post": "minor damage",
+      "uas": "no damage"
+    },
+    "primary_target": false
+  },
+  {
+    "building_id": "cdea66708c874c7aaa409a39d60a0ce5",
+    "eligible": true,
+    "labels": {
+      "pre": "no damage",
+      "post": "no damage",
+      "uas": "major damage"
+    },
+    "primary_target": true
+  },
+  {
+    "building_id": "dd95fd8034fc469dacfd417293b9b434",
+    "eligible": true,
+    "labels": {
+      "pre": "no damage",
+      "post": "major damage",
+      "uas": "major damage"
+    },
+    "primary_target": true
+  },
+  {
+    "building_id": "e4575fa382d640cd957b61aa8c75d041",
+    "eligible": true,
+    "labels": {
+      "pre": "no damage",
+      "post": "un-classified",
+      "uas": "un-classified"
+    },
+    "primary_target": false
+  },
+  {
+    "building_id": "e4d61191817e476a8303e3668b8dd94b",
+    "eligible": true,
+    "labels": {
+      "pre": "no damage",
+      "post": "major damage",
+      "uas": "major damage"
+    },
+    "primary_target": true
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "budget_proxy_s": 60,
+    "correctly_checked_target_buildings": 1,
+    "route": [
+      11
+    ],
+    "role": "Hindsight evaluator ceiling only; full future model cache and reference access; not a deployable control"
+  },
+  {
+    "budget_proxy_s": 100,
+    "correctly_checked_target_buildings": 2,
+    "route": [
+      14,
+      11,
+      10
+    ],
+    "role": "Hindsight evaluator ceiling only; full future model cache and reference access; not a deployable control"
+  },
+  {
+    "budget_proxy_s": 140,
+    "correctly_checked_target_buildings": 3,
+    "route": [
+      14,
+      11,
+      7,
+      2,
+      6,
+      10
+    ],
+    "role": "Hindsight evaluator ceiling only; full future model cache and reference access; not a deployable control"
+  }
+]

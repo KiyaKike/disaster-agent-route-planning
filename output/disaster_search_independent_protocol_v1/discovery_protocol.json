@@ -1,0 +1,33 @@
+{
+  "allowed_new_access": "Public papers, README, source metadata and archive file inventories. Bounded structured metadata <=8MiB; no image, mask, per-building damage, model checkpoint, detector inference or policy scores. Browser article/README views logged separately.",
+  "basis": {
+    "output/disaster_search_metadata_admission_v1/completion_receipt.json": "a98111b295b3cbf42fe0ad8e684f40b72cc0e2e3250bee81288c7fc724d3e058",
+    "output/disaster_search_serial_multifidelity_v1/completion_receipt.json": "7318d033fd323942ae084cf9d0e496b3348d70cadaa437cfd28fa188bcc282d9",
+    "output/disaster_search_v2_design/experiment_contract_v2_2.json": "452de54015d0c717819553487885007d8aabc82751499387d17b0ba2044919c0"
+  },
+  "candidate_admission": "Not admitted merely by name, date, different archive, public license label or pseudo-label availability. Preserve original cohort unchanged.",
+  "candidate_sources": [
+    "EBD original figshare v2 and original paper",
+    "BRIGHT author repo/Zenodo and official paper",
+    "QuickQuakeBuildings author repo",
+    "TE23D original publisher",
+    "RSCC author repo only to identify underlying provenance",
+    "Existing unused TACO tier3 identities only to audit event exposure"
+  ],
+  "new_method_selected": false,
+  "no_fitting_or_policy_tuning": true,
+  "old_reserved_cohorts_access": "No new image/annotation/detector/policy access. Metadata audit evidence already known may be cited.",
+  "paid_gpu": false,
+  "planned_deliverables": [
+    "Evidence-backed source decision",
+    "Prospective v3 feasibility protocol with fixed limits and stop rules",
+    "Metadata-only cohort selector with deterministic tests",
+    "Download/annotation queue remaining disabled until corresponding evidence is present"
+  ],
+  "questions": [
+    "Which external source preserves paired optical RGB and independently checkable damaged-building instances?",
+    "Which new event/scene roles can be fixed before reading outcomes?",
+    "What minimal human gold and observation budget permits a falsifiable cross-event utility-transfer experiment?"
+  ],
+  "stage": "INDEPENDENT_DATA_METADATA_AND_EXPERIMENT_DESIGN_ONLY"
+}

@@ -1,0 +1,11 @@
+{
+  "association_sha256": "7a493209b22b3452d2104944fea64302284947881bc3776e77ce1d0c7c584de8",
+  "cross_cell_duplicate_reward_model": "NOT_IMPLEMENTED",
+  "joint_pseudocount_per_outcome": 0.5,
+  "method": "Joint paired B,N likelihoods conditioned on known cell truth; expected same-cell native-minus-blurred matched UID count, conditioned on observed B.",
+  "no_policy_result": true,
+  "public_scores_sha256": "26be4691ec15c538da747c35d03ea3aceb9c8e00b6199a899e5f354b1ad159ca",
+  "runner_sha256": "b04ea42f2e9880b67d054ae76df98b0ddb7c3f4ca49a4ff462de803cafe67818",
+  "shrinkage_pseudo_cells": 8,
+  "stage": "SIX_DEVELOPMENT_COMPONENT_SMOKE_ONLY"
+}

@@ -1,0 +1,543 @@
+{
+  "every_route_budget_feasible": true,
+  "main_policies": [
+    "pre_static",
+    "post_static",
+    "online"
+  ],
+  "new_route_method_established": false,
+  "physical_flight_validation": false,
+  "primary_budget_s": 1200,
+  "primary_condition_counts": {
+    "negative": 0,
+    "positive": 18,
+    "zero": 0
+  },
+  "primary_online_minus_post_static_by_condition": [
+    {
+      "budget_s": 1200,
+      "comparator": "post_static",
+      "individual_detected_deltas": [
+        8,
+        5,
+        5,
+        10,
+        4,
+        -3,
+        7,
+        0,
+        10,
+        1
+      ],
+      "mean_detected_delta": 4.7,
+      "mean_first_detection_or_budget_delta_s": -213.2263340389897,
+      "mean_no_detection_rate_delta": -0.1,
+      "mean_visited_delta": 4.7,
+      "mode": "aligned",
+      "noise": "perfect",
+      "paired_runs": 10,
+      "region": "口岸",
+      "win_tie_loss": [
+        8,
+        1,
+        1
+      ]
+    },
+    {
+      "budget_s": 1200,
+      "comparator": "post_static",
+      "individual_detected_deltas": [
+        0,
+        7,
+        4,
+        -1,
+        1,
+        3,
+        6,
+        0,
+        3,
+        0
+      ],
+      "mean_detected_delta": 2.3,
+      "mean_first_detection_or_budget_delta_s": -27.802943725152282,
+      "mean_no_detection_rate_delta": 0.1,
+      "mean_visited_delta": 2.6,
+      "mode": "aligned",
+      "noise": "moderate",
+      "paired_runs": 10,
+      "region": "口岸",
+      "win_tie_loss": [
+        6,
+        3,
+        1
+      ]
+    },
+    {
+      "budget_s": 1200,
+      "comparator": "post_static",
+      "individual_detected_deltas": [
+        0,
+        7,
+        4,
+        3,
+        2,
+        -2,
+        6,
+        0,
+        3,
+        5
+      ],
+      "mean_detected_delta": 2.8,
+      "mean_first_detection_or_budget_delta_s": -98.32260587730482,
+      "mean_no_detection_rate_delta": 0.0,
+      "mean_visited_delta": 4.2,
+      "mode": "aligned",
+      "noise": "poor",
+      "paired_runs": 10,
+      "region": "口岸",
+      "win_tie_loss": [
+        7,
+        2,
+        1
+      ]
+    },
+    {
+      "budget_s": 1200,
+      "comparator": "post_static",
+      "individual_detected_deltas": [
+        4,
+        5,
+        2,
+        5,
+        2,
+        0,
+        6,
+        0,
+        1,
+        14
+      ],
+      "mean_detected_delta": 3.9,
+      "mean_first_detection_or_budget_delta_s": -426.9526680779794,
+      "mean_no_detection_rate_delta": -0.3,
+      "mean_visited_delta": 3.9,
+      "mode": "reversed",
+      "noise": "perfect",
+      "paired_runs": 10,
+      "region": "口岸",
+      "win_tie_loss": [
+        8,
+        2,
+        0
+      ]
+    },
+    {
+      "budget_s": 1200,
+      "comparator": "post_static",
+      "individual_detected_deltas": [
+        0,
+        7,
+        -1,
+        0,
+        -3,
+        1,
+        3,
+        0,
+        -1,
+        10
+      ],
+      "mean_detected_delta": 1.6,
+      "mean_first_detection_or_budget_delta_s": -159.29921135330716,
+      "mean_no_detection_rate_delta": -0.1,
+      "mean_visited_delta": 2.1,
+      "mode": "reversed",
+      "noise": "moderate",
+      "paired_runs": 10,
+      "region": "口岸",
+      "win_tie_loss": [
+        4,
+        3,
+        3
+      ]
+    },
+    {
+      "budget_s": 1200,
+      "comparator": "post_static",
+      "individual_detected_deltas": [
+        0,
+        7,
+        1,
+        0,
+        2,
+        0,
+        7,
+        0,
+        7,
+        1
+      ],
+      "mean_detected_delta": 2.5,
+      "mean_first_detection_or_budget_delta_s": -234.50294372515228,
+      "mean_no_detection_rate_delta": -0.2,
+      "mean_visited_delta": 3.0,
+      "mode": "reversed",
+      "noise": "poor",
+      "paired_runs": 10,
+      "region": "口岸",
+      "win_tie_loss": [
+        6,
+        4,
+        0
+      ]
+    },
+    {
+      "budget_s": 1200,
+      "comparator": "post_static",
+      "individual_detected_deltas": [
+        1,
+        5,
+        5,
+        9,
+        2,
+        0,
+        3,
+        0,
+        7,
+        14
+      ],
+      "mean_detected_delta": 4.6,
+      "mean_first_detection_or_budget_delta_s": -332.429277764142,
+      "mean_no_detection_rate_delta": -0.3,
+      "mean_visited_delta": 4.6,
+      "mode": "independent",
+      "noise": "perfect",
+      "paired_runs": 10,
+      "region": "口岸",
+      "win_tie_loss": [
+        8,
+        2,
+        0
+      ]
+    },
+    {
+      "budget_s": 1200,
+      "comparator": "post_static",
+      "individual_detected_deltas": [
+        0,
+        7,
+        4,
+        0,
+        -3,
+        1,
+        3,
+        0,
+        3,
+        10
+      ],
+      "mean_detected_delta": 2.5,
+      "mean_first_detection_or_budget_delta_s": -134.09332390300258,
+      "mean_no_detection_rate_delta": -0.1,
+      "mean_visited_delta": 3.1,
+      "mode": "independent",
+      "noise": "moderate",
+      "paired_runs": 10,
+      "region": "口岸",
+      "win_tie_loss": [
+        6,
+        3,
+        1
+      ]
+    },
+    {
+      "budget_s": 1200,
+      "comparator": "post_static",
+      "individual_detected_deltas": [
+        0,
+        7,
+        4,
+        4,
+        2,
+        0,
+        7,
+        0,
+        3,
+        1
+      ],
+      "mean_detected_delta": 2.8,
+      "mean_first_detection_or_budget_delta_s": -222.02260587730478,
+      "mean_no_detection_rate_delta": -0.2,
+      "mean_visited_delta": 3.6,
+      "mode": "independent",
+      "noise": "poor",
+      "paired_runs": 10,
+      "region": "口岸",
+      "win_tie_loss": [
+        7,
+        3,
+        0
+      ]
+    },
+    {
+      "budget_s": 1200,
+      "comparator": "post_static",
+      "individual_detected_deltas": [
+        9,
+        1,
+        10,
+        6,
+        3,
+        8,
+        5,
+        12,
+        2,
+        8
+      ],
+      "mean_detected_delta": 6.4,
+      "mean_first_detection_or_budget_delta_s": -150.67516521444657,
+      "mean_no_detection_rate_delta": -0.2,
+      "mean_visited_delta": 6.4,
+      "mode": "aligned",
+      "noise": "perfect",
+      "paired_runs": 10,
+      "region": "南侧建筑区",
+      "win_tie_loss": [
+        10,
+        0,
+        0
+      ]
+    },
+    {
+      "budget_s": 1200,
+      "comparator": "post_static",
+      "individual_detected_deltas": [
+        8,
+        1,
+        5,
+        2,
+        2,
+        3,
+        0,
+        10,
+        2,
+        0
+      ],
+      "mean_detected_delta": 3.3,
+      "mean_first_detection_or_budget_delta_s": -102.78383159829143,
+      "mean_no_detection_rate_delta": -0.1,
+      "mean_visited_delta": 5.0,
+      "mode": "aligned",
+      "noise": "moderate",
+      "paired_runs": 10,
+      "region": "南侧建筑区",
+      "win_tie_loss": [
+        8,
+        2,
+        0
+      ]
+    },
+    {
+      "budget_s": 1200,
+      "comparator": "post_static",
+      "individual_detected_deltas": [
+        5,
+        -2,
+        1,
+        1,
+        0,
+        0,
+        0,
+        5,
+        4,
+        -5
+      ],
+      "mean_detected_delta": 0.9,
+      "mean_first_detection_or_budget_delta_s": -87.87705627484772,
+      "mean_no_detection_rate_delta": -0.1,
+      "mean_visited_delta": 2.3,
+      "mode": "aligned",
+      "noise": "poor",
+      "paired_runs": 10,
+      "region": "南侧建筑区",
+      "win_tie_loss": [
+        5,
+        3,
+        2
+      ]
+    },
+    {
+      "budget_s": 1200,
+      "comparator": "post_static",
+      "individual_detected_deltas": [
+        9,
+        4,
+        10,
+        6,
+        3,
+        8,
+        5,
+        9,
+        2,
+        8
+      ],
+      "mean_detected_delta": 6.4,
+      "mean_first_detection_or_budget_delta_s": -150.67516521444657,
+      "mean_no_detection_rate_delta": -0.2,
+      "mean_visited_delta": 6.4,
+      "mode": "reversed",
+      "noise": "perfect",
+      "paired_runs": 10,
+      "region": "南侧建筑区",
+      "win_tie_loss": [
+        10,
+        0,
+        0
+      ]
+    },
+    {
+      "budget_s": 1200,
+      "comparator": "post_static",
+      "individual_detected_deltas": [
+        9,
+        2,
+        3,
+        2,
+        2,
+        1,
+        0,
+        5,
+        -3,
+        6
+      ],
+      "mean_detected_delta": 2.7,
+      "mean_first_detection_or_budget_delta_s": -65.68677532344371,
+      "mean_no_detection_rate_delta": -0.1,
+      "mean_visited_delta": 4.3,
+      "mode": "reversed",
+      "noise": "moderate",
+      "paired_runs": 10,
+      "region": "南侧建筑区",
+      "win_tie_loss": [
+        8,
+        1,
+        1
+      ]
+    },
+    {
+      "budget_s": 1200,
+      "comparator": "post_static",
+      "individual_detected_deltas": [
+        3,
+        -1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        1,
+        4,
+        -2
+      ],
+      "mean_detected_delta": 0.7,
+      "mean_first_detection_or_budget_delta_s": -87.87705627484772,
+      "mean_no_detection_rate_delta": -0.1,
+      "mean_visited_delta": 1.9,
+      "mode": "reversed",
+      "noise": "poor",
+      "paired_runs": 10,
+      "region": "南侧建筑区",
+      "win_tie_loss": [
+        5,
+        3,
+        2
+      ]
+    },
+    {
+      "budget_s": 1200,
+      "comparator": "post_static",
+      "individual_detected_deltas": [
+        9,
+        1,
+        10,
+        6,
+        3,
+        8,
+        5,
+        12,
+        2,
+        8
+      ],
+      "mean_detected_delta": 6.4,
+      "mean_first_detection_or_budget_delta_s": -150.67516521444657,
+      "mean_no_detection_rate_delta": -0.2,
+      "mean_visited_delta": 6.4,
+      "mode": "independent",
+      "noise": "perfect",
+      "paired_runs": 10,
+      "region": "南侧建筑区",
+      "win_tie_loss": [
+        10,
+        0,
+        0
+      ]
+    },
+    {
+      "budget_s": 1200,
+      "comparator": "post_static",
+      "individual_detected_deltas": [
+        8,
+        1,
+        3,
+        2,
+        2,
+        3,
+        0,
+        10,
+        -3,
+        0
+      ],
+      "mean_detected_delta": 2.6,
+      "mean_first_detection_or_budget_delta_s": -102.78383159829143,
+      "mean_no_detection_rate_delta": -0.1,
+      "mean_visited_delta": 4.2,
+      "mode": "independent",
+      "noise": "moderate",
+      "paired_runs": 10,
+      "region": "南侧建筑区",
+      "win_tie_loss": [
+        7,
+        2,
+        1
+      ]
+    },
+    {
+      "budget_s": 1200,
+      "comparator": "post_static",
+      "individual_detected_deltas": [
+        5,
+        -2,
+        1,
+        1,
+        0,
+        0,
+        0,
+        5,
+        4,
+        -5
+      ],
+      "mean_detected_delta": 0.9,
+      "mean_first_detection_or_budget_delta_s": -87.87705627484772,
+      "mean_no_detection_rate_delta": -0.1,
+      "mean_visited_delta": 2.3,
+      "mode": "independent",
+      "noise": "poor",
+      "paired_runs": 10,
+      "region": "南侧建筑区",
+      "win_tie_loss": [
+        5,
+        3,
+        2
+      ]
+    }
+  ],
+  "real_target_efficacy_claim": false,
+  "scope": "Two existing map geometries,synthetic target/observation worlds,knownlikelihood,planartravel;10seeds percondition;not independent disaster replications.",
+  "status": "COMPLETE_SIMULATION_ONLY"
+}

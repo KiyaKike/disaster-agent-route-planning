@@ -1,0 +1,30 @@
+{
+  "browser_interactions_passed": true,
+  "browser_js_errors": [],
+  "checks": [
+    "Both regions and3 policies and2 map modes switch and end within1200s.",
+    "Mode switch keeps frame,observation count and elapsed time.",
+    "Paid vs unobserved cell inspector distinguishes evidence and unknown.",
+    "Pre/post stage jump,slider Home/End,play/pause work.",
+    "Cached pre/post images load with no network.",
+    "Post-patch region/policy changes reset cell inspector.",
+    "390px mobile has no horizontal overflow.",
+    "Scientific figures show both map schemes at3 fixed stages without target truth positions."
+  ],
+  "client_date": "2026-11-02",
+  "demo_html_sha256": "750b1a6f40730dee70a0a66ba9793c240b50efbf90ed29d1a5016b7501271d77",
+  "files_sha256": {
+    "browser_checks/geometry_semantic_port10.png": "c9a7390e6be0337a08ca72b300b56c2adf1315d000a70e85c4dc6e8571c619a1",
+    "browser_checks/geometry_semantic_south_end.png": "8f7dae6c8a0018dae7369b498e933499749e7f1b9eb084659bc5b4835e97dd89",
+    "browser_checks/mobile.png": "64081e804624b52ebfaf27be7215fb5eb1a092dffd5ebf55742615527c4396d8",
+    "browser_checks/prior_evidence_port10.png": "5231d57899c19221587f87a3bb5e83dfc8bfdca1a16971ba06ac44c8d678b63a",
+    "figures/port_geometry_semantic.png": "c7b2d8609d5d41c78750632be918866a7441d98429b9453a0ca398d434c631b0",
+    "figures/port_prior_evidence.png": "1cdfae79f7a28ca18fe1729aa7ea3d9d25469f68b0b7c3103240ccf8f9d8855b",
+    "figures/south_geometry_semantic.png": "6d4cf9c0f94ce48605e32c6abc7031dc0896018091e36431405556cf79fe6f4a",
+    "figures/south_prior_evidence.png": "ccbdb589ece32ae41490489488d7610f744b7f863a0322413a42d59c0b1fdf90"
+  },
+  "four_figures_viewed": true,
+  "functional_ui_configurations": 12,
+  "mobile_width": 390,
+  "scope": "12 configuration checks on original viewer plus targeted regression after presentation-only inspector fix."
+}

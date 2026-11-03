@@ -1,0 +1,68 @@
+{
+  "candidate_next_problem": "How can budgeted discovery avoid losing to simple public ranking when learned action utilities shift across disaster events and paid observations are fallible?",
+  "date": "2026-10-25",
+  "fatal_flaws": [
+    {
+      "action": "Do not revive the premise by extra tuning or changing the primary cost/threshold.",
+      "finding": "Existing matched ablations beat the proposed current count-positive-revisit mechanism at the fixed primary setting in all6 tie/fit cases.",
+      "severity": "CRITICAL"
+    },
+    {
+      "action": "Resolve admission and observation/label definitions before independent evaluation; do not replace samples to select targets.",
+      "finding": "Independent generalization claim unavailable: previously inspected development data, only2 events with cached detections, detector event exposure and unverified full-image spatial independence.",
+      "severity": "MAJOR"
+    }
+  ],
+  "five_dimension_scoring": "Not run: critical data-refuted mechanism invokes early stop for this version.",
+  "future_validation_rule": "Keep the existing contract criterion for a later locked candidate; no new optimistic threshold introduced and no access to reserved outcomes enabled.",
+  "inputs": {
+    "audit": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_unified_revisit_v1/audit.json",
+      "sha256": "5cc56fa59cad6173d79dc8e86f67264733ae6addac06e883870a2259f0527301"
+    },
+    "completion": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_unified_revisit_v1/completion_receipt.json",
+      "sha256": "fe607694e42d453f166f659b051c675c0de578ad3cc3b0cb744279a922425c08"
+    },
+    "contract": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_v2_design/experiment_contract_v2_2.json",
+      "sha256": "452de54015d0c717819553487885007d8aabc82751499387d17b0ba2044919c0"
+    },
+    "decision": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_unified_revisit_v1/next_step_decision.json",
+      "sha256": "7b0fd6c3dfc6adfef48264695e0c6c2d673173ce3178a2e4404fd1f388b31319"
+    },
+    "models": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_development72_budget_controls_v1/models.json",
+      "sha256": "c9566ab3c6aaa920e1baf62d3093c28e6bea121e5d85c8c78965b01d59390350"
+    },
+    "report": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_unified_revisit_v1/report.json",
+      "sha256": "d2fecd104cf6f023341b8c1b9a90ffb316245d0012e4866205123432c9ef4512"
+    },
+    "summary": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_unified_revisit_v1/summary.json",
+      "sha256": "ec893ad99e016ffcae93d97a4d8e966447d1c53343da37fc68e6df56a3a093d0"
+    }
+  },
+  "new_experiment_started": false,
+  "new_inference": false,
+  "new_model_fit": false,
+  "new_policy_selected": false,
+  "new_problem_status": "Conditional diagnostic hypothesis; no claimed novelty, method or efficacy.",
+  "paid_gpu": false,
+  "positioning": "Current version is an unvalidated method attempt in a disaster-search setting; prospective problem shift is cross-event utility misspecification, not an established novel contribution.",
+  "stage": "DIRECTION_REVIEW_COMPLETE_NO_NEW_EXPERIMENT",
+  "stop_conditions": [
+    "If a correction only reproduces simple ranking, record baseline repair rather than a method contribution.",
+    "If a candidate differs only in disaster application or combines known components without a distinct mechanism, revise the question before training.",
+    "If the desired generalization claim cannot be supported by admitted independent evidence, narrow that claim or pivot; never manufacture a third positive event."
+  ],
+  "top_actions": [
+    "Freeze one diagnostic distinguishing ranking reversal/quantization, action-value scale error, sensor limits and global-duplicate mismatch using current development cache; no new policy training.",
+    "Compute an offline budget-feasible ideal-observation reference or certified bound with same actions/costs; keep private outcomes evaluator-only and label all solver bounds correctly. A high oracle ceiling is not evidence of a learnable gain.",
+    "Write a mechanism/input/objective comparison against closest work and finish data-admission plan. Only then select one falsifiable mechanism and preregister a new development trial; reserved scores remain untouched."
+  ],
+  "validation_or_confirmation_scored": false,
+  "verdict_current_version": "REJECT_AND_PIVOT"
+}

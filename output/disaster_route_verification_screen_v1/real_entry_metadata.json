@@ -1,0 +1,48 @@
+{
+  "status": "HEADER_ONLY_CANDIDATE_CHECK",
+  "selection": "First existing training candidate in previously frozen ordering with additional crewed imagery on primary POST date;no label or method-score selection",
+  "scene": "1001-Ft-Myers-Beach-Boone.geo.tif",
+  "source": {
+    "Orthomosaic": "1001-Ft-Myers-Beach-Boone.geo.tif_20220930d_RGB.geo.tif",
+    "Source": "Crewed Aircraft",
+    "Event": "Hurricane Ian",
+    "Date (mm/dd/yyy)": "9/30/2022",
+    "Pre/Post Event": "POST",
+    "Platform / Provider": "NOAA"
+  },
+  "path": "train/imagery/CREWED/1001-Ft-Myers-Beach-Boone.geo.tif_20220930d_RGB.geo.tif",
+  "header": {
+    "shape": [
+      13688,
+      13231,
+      3
+    ],
+    "compression": "1",
+    "tiled": false,
+    "crs": "EPSG:4326",
+    "bands": 3,
+    "bounds": [
+      -81.91164227296866,
+      26.40048470525756,
+      -81.88189653035933,
+      26.43125786864932
+    ],
+    "resolution": [
+      2.248185519562663e-06,
+      2.248185519561405e-06
+    ]
+  },
+  "logical_file_bytes": 543400290,
+  "header_bytes_read": 131072,
+  "previous128mROI_within_georeferenced_bounds": true,
+  "actual_nonblank_coverage_checked": false,
+  "relation": "NOAA crewed and primary satellite dates2022-09-30;UAS2022-10-01. Day equality is not simultaneous capture or error independence.",
+  "admissible_scope": "Potential archived satellite/crewed evidence reveal only,pending real pixel coverage,registration,label semantics and timing checks",
+  "same_state_independent_UAS_reinspection": false,
+  "calibration_anchor_established": false,
+  "common_ground_truth_established": false,
+  "new_annotations_read": false,
+  "new_pixel_payloads_requested": false,
+  "model_calls": 0,
+  "provenance": "GeoTIFF header fields only;metadata range blocks may contain incidental neighboring bytes,not decoded image observations"
+}

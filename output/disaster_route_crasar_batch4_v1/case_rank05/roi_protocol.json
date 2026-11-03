@@ -1,0 +1,40 @@
+{
+  "selection": "128m square centered at mean geographic centroids of all shared buildings; no damage or image-score filtering",
+  "crs": "EPSG:32617",
+  "bounds": [
+    404160.5390936965,
+    2931471.2921706405,
+    404288.5390936965,
+    2931599.2921706405
+  ],
+  "size_m": 128,
+  "output_pixels": 1024,
+  "shared_buildings_all": 1041,
+  "shared_building_centroids_inside": [
+    "259f9c13d418478bbc39b888e0927e53",
+    "296c2168874e40de9b5ad6f1d3ea66d7",
+    "298f6dcec6c04c67b531997c4d7bc679",
+    "3183b49d075e45f4a8c83ccd5e63b6e3",
+    "3f82dad4e9ab476eab5ece2d8e9b8942",
+    "43106665019149308799578f06e00a6e",
+    "4d683f5fce1c48b19d8f7b1c54bee95a",
+    "520b9f864bba4eaf9c75f43e84496dcf",
+    "628cffc642c94aeeb7412a925e90295f",
+    "65362cbc111d474f81d8efd671ed0b52",
+    "80a186a9a34542e5a8d9a7a811628a27",
+    "960b2bc05dd84a3f87005f0bdc0f3592",
+    "a610538971b24ab191c3a55b8e6deb80",
+    "ae352dea8c51489095f9772be61a68f0",
+    "ae7f56d86de34b9fbd753580b108938c",
+    "b21e5fcde646488dba079461e5dc9f84",
+    "bc1fcf54bd764bd5ac21033a9f71d831",
+    "c00b74cab0704852bf4726a9049ce329",
+    "c12bbf3771ef4006aab374cd1f36a85b",
+    "cdea66708c874c7aaa409a39d60a0ce5",
+    "dd95fd8034fc469dacfd417293b9b434",
+    "e4575fa382d640cd957b61aa8c75d041",
+    "e4d61191817e476a8303e3668b8dd94b"
+  ],
+  "public_image_access_unit": "4x4 disjoint 32m square image windows,not measured camera footprints",
+  "motion": "Subsequent distance can be georeferenced;flight/observation durations still unmeasured assumptions."
+}

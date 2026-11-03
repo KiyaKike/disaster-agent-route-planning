@@ -1,0 +1,38 @@
+{
+  "all_candidates_in_audited_hold": true,
+  "bridge_report_sha256": "08ccf4689af1f04830914aaf5715b10fd71a9d61f5638bd3ae973b767391940d",
+  "candidate_pairs": 216,
+  "data_admitted": false,
+  "effective_contract_sha256": "316d7dc61cac5cd68780bd8ae713d76feb030310b5d39297e91bc25b83487ee4",
+  "gpu_rented": false,
+  "known_old_calibration_png_byte_matches": 4,
+  "known_old_calibration_polygon_matches": 64,
+  "metadata_and_bridge_cache_replay_network_bytes": 0,
+  "metadata_report_sha256": "53df2aebea70690b99cab2c202d623e4804c23e1abc77eabf1bccbe62600ac84",
+  "new_hold_damage_column_read": false,
+  "new_hold_model_inference_run": false,
+  "new_hold_policy_scores_run": false,
+  "old_calibration_parameters_sha256": "db3c3a77647b18009e2e192e187084c5148f39c24fb952a0f7b40420ea3fc600",
+  "original_hold_name_count": 933,
+  "original_hold_names_exact_match": true,
+  "selection_sha256": "4119345fdfc0587c55cd8558ac2bc78a0a2041556e0e6fd7a4bcadcfaf011ad0",
+  "source_sha256": {
+    "audit_hold_taco.py": "f348b944f4bd5331612e9fa4f47ef6463374953c3f9903daef173c5130aacf86",
+    "plan_search_v2.py": "3f88219832ca8d3939d5cbc38919974d1932f4b941e1248c208534493254b83b",
+    "test_search_v2_admission.py": "eef4bc24386610695f73002d8a515e7470d85a9fc90585f761bef0535c74c63a",
+    "verify_taco_polygon_bridge.py": "11bf2156964fc1a536b2d05a21fa4a56c23bc904bd6bff6622e5ddbd501bed37"
+  },
+  "split_counts": {
+    "confirmation": 72,
+    "development": 72,
+    "validation": 72
+  },
+  "stage": "DESIGN_AND_ALTERNATIVE_SOURCE_BRIDGE_COMPLETE_FULL_DATA_ADMISSION_PENDING",
+  "unique_pinned_cached_range_bytes": 64275046,
+  "unit_test_receipt": {
+    "command": "work/disaster_search/.venv_inference/bin/python -m unittest discover -s work/disaster_search -p 'test_*.py'",
+    "note": "Observed terminal run this session; not a fresh test invocation in this receipt writer.",
+    "observed_exit_code": 0,
+    "observed_tests": 89
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "by_event": {
+    "hurricane-harvey": {
+      "both_modes_cache_union_ceiling": 624,
+      "composition": {
+        "buildings": 1751,
+        "scenes": 24,
+        "target_bearing_scenes": 13,
+        "targets": 705,
+        "training_envelope_overlap_scenes": 10,
+        "unknown": 46
+      },
+      "full_grid_sensor_proxy": {
+        "blurred": {
+          "matched_observation_building_pairs": 171,
+          "repeated_matches_not_counted_again": 42,
+          "severe_pixel_precision_known_only": 0.9205623060354129,
+          "severe_pixels_on_known_negative_or_background": 20247,
+          "severe_pixels_on_targets": 234632,
+          "severe_pixels_on_unknown_only": 0,
+          "unique_matched_targets": 129,
+          "unique_visible_targets": 705,
+          "visible_building_coverage_proxy": 0.1829787234042553
+        },
+        "native": {
+          "matched_observation_building_pairs": 909,
+          "repeated_matches_not_counted_again": 286,
+          "severe_pixel_precision_known_only": 0.8058467241358775,
+          "severe_pixels_on_known_negative_or_background": 211915,
+          "severe_pixels_on_targets": 879568,
+          "severe_pixels_on_unknown_only": 3971,
+          "unique_matched_targets": 623,
+          "unique_visible_targets": 705,
+          "visible_building_coverage_proxy": 0.8836879432624114
+        }
+      },
+      "scenes_with_native_matches": 13
+    },
+    "mexico-earthquake": {
+      "both_modes_cache_union_ceiling": 0,
+      "composition": {
+        "buildings": 5416,
+        "scenes": 24,
+        "target_bearing_scenes": 3,
+        "targets": 3,
+        "training_envelope_overlap_scenes": 3,
+        "unknown": 25
+      },
+      "full_grid_sensor_proxy": {
+        "blurred": {
+          "matched_observation_building_pairs": 0,
+          "repeated_matches_not_counted_again": 0,
+          "severe_pixel_precision_known_only": null,
+          "severe_pixels_on_known_negative_or_background": 0,
+          "severe_pixels_on_targets": 0,
+          "severe_pixels_on_unknown_only": 0,
+          "unique_matched_targets": 0,
+          "unique_visible_targets": 3,
+          "visible_building_coverage_proxy": 0.0
+        },
+        "native": {
+          "matched_observation_building_pairs": 0,
+          "repeated_matches_not_counted_again": 0,
+          "severe_pixel_precision_known_only": 0.0,
+          "severe_pixels_on_known_negative_or_background": 9809,
+          "severe_pixels_on_targets": 0,
+          "severe_pixels_on_unknown_only": 0,
+          "unique_matched_targets": 0,
+          "unique_visible_targets": 3,
+          "visible_building_coverage_proxy": 0.0
+        }
+      },
+      "scenes_with_native_matches": 0
+    },
+    "santa-rosa-wildfire": {
+      "both_modes_cache_union_ceiling": 457,
+      "composition": {
+        "buildings": 1792,
+        "scenes": 24,
+        "target_bearing_scenes": 18,
+        "targets": 508,
+        "training_envelope_overlap_scenes": 7,
+        "unknown": 5
+      },
+      "full_grid_sensor_proxy": {
+        "blurred": {
+          "matched_observation_building_pairs": 55,
+          "repeated_matches_not_counted_again": 6,
+          "severe_pixel_precision_known_only": 0.8754212130937099,
+          "severe_pixels_on_known_negative_or_background": 6211,
+          "severe_pixels_on_targets": 43645,
+          "severe_pixels_on_unknown_only": 0,
+          "unique_matched_targets": 49,
+          "unique_visible_targets": 508,
+          "visible_building_coverage_proxy": 0.09645669291338582
+        },
+        "native": {
+          "matched_observation_building_pairs": 679,
+          "repeated_matches_not_counted_again": 222,
+          "severe_pixel_precision_known_only": 0.8579119489747629,
+          "severe_pixels_on_known_negative_or_background": 100582,
+          "severe_pixels_on_targets": 607303,
+          "severe_pixels_on_unknown_only": 294,
+          "unique_matched_targets": 457,
+          "unique_visible_targets": 508,
+          "visible_building_coverage_proxy": 0.8996062992125984
+        }
+      },
+      "scenes_with_native_matches": 17
+    }
+  },
+  "full_image_spatial_independence_verified": false,
+  "independent_efficacy_claim": false,
+  "network": {
+    "received_bytes": 209974223,
+    "reserved_bytes": 209974223
+  },
+  "next": "Budgeted simple controls and existence/count ablation on development; specify strong baseline before validation/new-method claim.",
+  "prediction_masks_verified": 9216,
+  "previous_six_scene_artifacts_unchanged": true,
+  "runner_sha256": "f3ce8683c8ce97b614e75f8b5f58aa5a42e4aee72b07831125c184741f4f2dec",
+  "scenes": 72,
+  "scope": "Full-grid cache union is an engineering discoverability ceiling, never a budgeted policy score or real-world detection guarantee.",
+  "shared_damage_payload_cached": false,
+  "source_files_verified": 216,
+  "stage": "DEVELOPMENT72_DATA_SENSOR_AND_AGGREGATE_FIT_VERIFIED",
+  "validation_or_confirmation_predictions_or_policy_scores_run": false
+}

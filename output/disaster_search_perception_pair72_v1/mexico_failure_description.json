@@ -1,0 +1,99 @@
+{
+  "status": "POST_HOC_DESCRIPTIVE_ONLY",
+  "selection": "All3 severe source polygons in the failed event, no replacement or primary metric changes",
+  "objects": [
+    {
+      "sample_id": "mexico-earthquake_00000081",
+      "derived_uid": "derived-taco-07075a2389acc0debf86a5ea54dccf18831d750e33120b7da26959358a8d0a4b",
+      "reference_grade": "major-damage",
+      "valid_footprint_pixels": 1803,
+      "diagnostic_only_not_instance_detection": true,
+      "models": {
+        "swint": {
+          "localization_coverage_fraction": 0.9650582362728786,
+          "ungated_damage_class_counts": {
+            "0": 241,
+            "1": 1562,
+            "2": 0,
+            "3": 0,
+            "4": 0
+          },
+          "severe_pixels_after_localization_gate": 0
+        },
+        "r34": {
+          "localization_coverage_fraction": 0.9445368829728231,
+          "ungated_damage_class_counts": {
+            "0": 287,
+            "1": 1516,
+            "2": 0,
+            "3": 0,
+            "4": 0
+          },
+          "severe_pixels_after_localization_gate": 0
+        }
+      }
+    },
+    {
+      "sample_id": "mexico-earthquake_00000145",
+      "derived_uid": "derived-taco-aaa5c1f8d5a169b7da8b156eceeb3d9b9fb7276f46f96e1280999c24412da9b5",
+      "reference_grade": "major-damage",
+      "valid_footprint_pixels": 444,
+      "diagnostic_only_not_instance_detection": true,
+      "models": {
+        "swint": {
+          "localization_coverage_fraction": 0.8243243243243243,
+          "ungated_damage_class_counts": {
+            "0": 180,
+            "1": 264,
+            "2": 0,
+            "3": 0,
+            "4": 0
+          },
+          "severe_pixels_after_localization_gate": 0
+        },
+        "r34": {
+          "localization_coverage_fraction": 0.8040540540540541,
+          "ungated_damage_class_counts": {
+            "0": 270,
+            "1": 174,
+            "2": 0,
+            "3": 0,
+            "4": 0
+          },
+          "severe_pixels_after_localization_gate": 0
+        }
+      }
+    },
+    {
+      "sample_id": "mexico-earthquake_00000162",
+      "derived_uid": "derived-taco-d0dc28bc83cc28cec50371dc2d51759debe69ac34c8b93acb11471e59ae74434",
+      "reference_grade": "major-damage",
+      "valid_footprint_pixels": 451,
+      "diagnostic_only_not_instance_detection": true,
+      "models": {
+        "swint": {
+          "localization_coverage_fraction": 1.0,
+          "ungated_damage_class_counts": {
+            "0": 2,
+            "1": 449,
+            "2": 0,
+            "3": 0,
+            "4": 0
+          },
+          "severe_pixels_after_localization_gate": 0
+        },
+        "r34": {
+          "localization_coverage_fraction": 1.0,
+          "ungated_damage_class_counts": {
+            "0": 1,
+            "1": 450,
+            "2": 0,
+            "3": 0,
+            "4": 0
+          },
+          "severe_pixels_after_localization_gate": 0
+        }
+      }
+    }
+  ]
+}

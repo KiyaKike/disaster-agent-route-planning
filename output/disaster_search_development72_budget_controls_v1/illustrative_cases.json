@@ -1,0 +1,1691 @@
+[
+  {
+    "all_upgrade_found": 36,
+    "all_upgrade_trace": [
+      {
+        "cell_id": "r00c01",
+        "cost": 1,
+        "cumulative_cost": 1,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r00c02",
+        "cost": 1,
+        "cumulative_cost": 2,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r00c03",
+        "cost": 1,
+        "cumulative_cost": 3,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r00c04",
+        "cost": 1,
+        "cumulative_cost": 4,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r00c05",
+        "cost": 1,
+        "cumulative_cost": 5,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r00c07",
+        "cost": 1,
+        "cumulative_cost": 6,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r01c04",
+        "cost": 1,
+        "cumulative_cost": 7,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r01c05",
+        "cost": 1,
+        "cumulative_cost": 8,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r01c06",
+        "cost": 1,
+        "cumulative_cost": 9,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r01c07",
+        "cost": 1,
+        "cumulative_cost": 10,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r02c00",
+        "cost": 1,
+        "cumulative_cost": 11,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r02c01",
+        "cost": 1,
+        "cumulative_cost": 12,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r02c02",
+        "cost": 1,
+        "cumulative_cost": 13,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r02c03",
+        "cost": 1,
+        "cumulative_cost": 14,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r02c06",
+        "cost": 1,
+        "cumulative_cost": 15,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r02c06",
+        "cost": 2,
+        "cumulative_cost": 17,
+        "declared_target": true,
+        "kind": "upgrade",
+        "mode": "native",
+        "utility": 0.9518762677484787
+      },
+      {
+        "cell_id": "r02c07",
+        "cost": 1,
+        "cumulative_cost": 18,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r02c07",
+        "cost": 2,
+        "cumulative_cost": 20,
+        "declared_target": true,
+        "kind": "upgrade",
+        "mode": "native",
+        "utility": 0.9518762677484787
+      },
+      {
+        "cell_id": "r03c01",
+        "cost": 1,
+        "cumulative_cost": 21,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r03c03",
+        "cost": 1,
+        "cumulative_cost": 22,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r03c04",
+        "cost": 1,
+        "cumulative_cost": 23,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r03c06",
+        "cost": 1,
+        "cumulative_cost": 24,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r03c06",
+        "cost": 2,
+        "cumulative_cost": 26,
+        "declared_target": true,
+        "kind": "upgrade",
+        "mode": "native",
+        "utility": 0.9518762677484787
+      },
+      {
+        "cell_id": "r04c00",
+        "cost": 1,
+        "cumulative_cost": 27,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r04c00",
+        "cost": 2,
+        "cumulative_cost": 29,
+        "declared_target": true,
+        "kind": "upgrade",
+        "mode": "native",
+        "utility": 0.9518762677484787
+      },
+      {
+        "cell_id": "r04c01",
+        "cost": 1,
+        "cumulative_cost": 30,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r04c04",
+        "cost": 1,
+        "cumulative_cost": 31,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r05c00",
+        "cost": 1,
+        "cumulative_cost": 32,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.28183722068769607
+      }
+    ],
+    "first_divergence_action": 16,
+    "negative_only_found": 45,
+    "negative_only_trace": [
+      {
+        "cell_id": "r00c01",
+        "cost": 1,
+        "cumulative_cost": 1,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r00c02",
+        "cost": 1,
+        "cumulative_cost": 2,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r00c03",
+        "cost": 1,
+        "cumulative_cost": 3,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r00c04",
+        "cost": 1,
+        "cumulative_cost": 4,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r00c05",
+        "cost": 1,
+        "cumulative_cost": 5,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r00c07",
+        "cost": 1,
+        "cumulative_cost": 6,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r01c04",
+        "cost": 1,
+        "cumulative_cost": 7,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r01c05",
+        "cost": 1,
+        "cumulative_cost": 8,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r01c06",
+        "cost": 1,
+        "cumulative_cost": 9,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r01c07",
+        "cost": 1,
+        "cumulative_cost": 10,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r02c00",
+        "cost": 1,
+        "cumulative_cost": 11,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r02c01",
+        "cost": 1,
+        "cumulative_cost": 12,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r02c02",
+        "cost": 1,
+        "cumulative_cost": 13,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r02c03",
+        "cost": 1,
+        "cumulative_cost": 14,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r02c06",
+        "cost": 1,
+        "cumulative_cost": 15,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r02c07",
+        "cost": 1,
+        "cumulative_cost": 16,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r03c01",
+        "cost": 1,
+        "cumulative_cost": 17,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r03c03",
+        "cost": 1,
+        "cumulative_cost": 18,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r03c04",
+        "cost": 1,
+        "cumulative_cost": 19,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r03c06",
+        "cost": 1,
+        "cumulative_cost": 20,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r04c00",
+        "cost": 1,
+        "cumulative_cost": 21,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r04c01",
+        "cost": 1,
+        "cumulative_cost": 22,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r04c04",
+        "cost": 1,
+        "cumulative_cost": 23,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r05c00",
+        "cost": 1,
+        "cumulative_cost": 24,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r05c01",
+        "cost": 1,
+        "cumulative_cost": 25,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r05c07",
+        "cost": 1,
+        "cumulative_cost": 26,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r06c00",
+        "cost": 1,
+        "cumulative_cost": 27,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r06c01",
+        "cost": 1,
+        "cumulative_cost": 28,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r06c02",
+        "cost": 1,
+        "cumulative_cost": 29,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r06c05",
+        "cost": 1,
+        "cumulative_cost": 30,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r06c06",
+        "cost": 1,
+        "cumulative_cost": 31,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r06c07",
+        "cost": 1,
+        "cumulative_cost": 32,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.28183722068769607
+      }
+    ],
+    "positive_upgrade_found": 8,
+    "positive_upgrades": 4,
+    "quality_seed": 20261026,
+    "sample_id": "hurricane-harvey_00000125",
+    "scope": "Post-hoc illustrative scene/seed case; selected for mechanism explanation, not an independent result."
+  },
+  {
+    "all_upgrade_found": 34,
+    "all_upgrade_trace": [
+      {
+        "cell_id": "r00c01",
+        "cost": 1,
+        "cumulative_cost": 1,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r00c02",
+        "cost": 1,
+        "cumulative_cost": 2,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r00c03",
+        "cost": 1,
+        "cumulative_cost": 3,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r00c04",
+        "cost": 1,
+        "cumulative_cost": 4,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r00c05",
+        "cost": 1,
+        "cumulative_cost": 5,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r00c07",
+        "cost": 1,
+        "cumulative_cost": 6,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r00c07",
+        "cost": 2,
+        "cumulative_cost": 8,
+        "declared_target": true,
+        "kind": "upgrade",
+        "mode": "native",
+        "utility": 0.9518762677484787
+      },
+      {
+        "cell_id": "r01c04",
+        "cost": 1,
+        "cumulative_cost": 9,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r01c05",
+        "cost": 1,
+        "cumulative_cost": 10,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r01c06",
+        "cost": 1,
+        "cumulative_cost": 11,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r01c07",
+        "cost": 1,
+        "cumulative_cost": 12,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r02c00",
+        "cost": 1,
+        "cumulative_cost": 13,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r02c01",
+        "cost": 1,
+        "cumulative_cost": 14,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r02c02",
+        "cost": 1,
+        "cumulative_cost": 15,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r02c03",
+        "cost": 1,
+        "cumulative_cost": 16,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r02c06",
+        "cost": 1,
+        "cumulative_cost": 17,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r02c07",
+        "cost": 1,
+        "cumulative_cost": 18,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r03c01",
+        "cost": 1,
+        "cumulative_cost": 19,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r03c03",
+        "cost": 1,
+        "cumulative_cost": 20,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r03c04",
+        "cost": 1,
+        "cumulative_cost": 21,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r03c06",
+        "cost": 1,
+        "cumulative_cost": 22,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r03c06",
+        "cost": 2,
+        "cumulative_cost": 24,
+        "declared_target": true,
+        "kind": "upgrade",
+        "mode": "native",
+        "utility": 0.9518762677484787
+      },
+      {
+        "cell_id": "r04c00",
+        "cost": 1,
+        "cumulative_cost": 25,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r04c01",
+        "cost": 1,
+        "cumulative_cost": 26,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r04c04",
+        "cost": 1,
+        "cumulative_cost": 27,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r05c00",
+        "cost": 1,
+        "cumulative_cost": 28,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r05c01",
+        "cost": 1,
+        "cumulative_cost": 29,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r05c07",
+        "cost": 1,
+        "cumulative_cost": 30,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r06c00",
+        "cost": 1,
+        "cumulative_cost": 31,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r06c01",
+        "cost": 1,
+        "cumulative_cost": 32,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      }
+    ],
+    "first_divergence_action": 7,
+    "negative_only_found": 43,
+    "negative_only_trace": [
+      {
+        "cell_id": "r00c01",
+        "cost": 1,
+        "cumulative_cost": 1,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r00c02",
+        "cost": 1,
+        "cumulative_cost": 2,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r00c03",
+        "cost": 1,
+        "cumulative_cost": 3,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r00c04",
+        "cost": 1,
+        "cumulative_cost": 4,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r00c05",
+        "cost": 1,
+        "cumulative_cost": 5,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r00c07",
+        "cost": 1,
+        "cumulative_cost": 6,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r01c04",
+        "cost": 1,
+        "cumulative_cost": 7,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r01c05",
+        "cost": 1,
+        "cumulative_cost": 8,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r01c06",
+        "cost": 1,
+        "cumulative_cost": 9,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r01c07",
+        "cost": 1,
+        "cumulative_cost": 10,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r02c00",
+        "cost": 1,
+        "cumulative_cost": 11,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r02c01",
+        "cost": 1,
+        "cumulative_cost": 12,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r02c02",
+        "cost": 1,
+        "cumulative_cost": 13,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r02c03",
+        "cost": 1,
+        "cumulative_cost": 14,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r02c06",
+        "cost": 1,
+        "cumulative_cost": 15,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r02c07",
+        "cost": 1,
+        "cumulative_cost": 16,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r03c01",
+        "cost": 1,
+        "cumulative_cost": 17,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r03c03",
+        "cost": 1,
+        "cumulative_cost": 18,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r03c04",
+        "cost": 1,
+        "cumulative_cost": 19,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r03c06",
+        "cost": 1,
+        "cumulative_cost": 20,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r04c00",
+        "cost": 1,
+        "cumulative_cost": 21,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r04c01",
+        "cost": 1,
+        "cumulative_cost": 22,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r04c04",
+        "cost": 1,
+        "cumulative_cost": 23,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r05c00",
+        "cost": 1,
+        "cumulative_cost": 24,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r05c01",
+        "cost": 1,
+        "cumulative_cost": 25,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r05c07",
+        "cost": 1,
+        "cumulative_cost": 26,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r06c00",
+        "cost": 1,
+        "cumulative_cost": 27,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r06c01",
+        "cost": 1,
+        "cumulative_cost": 28,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r06c02",
+        "cost": 1,
+        "cumulative_cost": 29,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r06c05",
+        "cost": 1,
+        "cumulative_cost": 30,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r06c06",
+        "cost": 1,
+        "cumulative_cost": 31,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r06c07",
+        "cost": 1,
+        "cumulative_cost": 32,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      }
+    ],
+    "positive_upgrade_found": 2,
+    "positive_upgrades": 2,
+    "quality_seed": 20261027,
+    "sample_id": "hurricane-harvey_00000125",
+    "scope": "Post-hoc illustrative scene/seed case; selected for mechanism explanation, not an independent result."
+  },
+  {
+    "all_upgrade_found": 56,
+    "all_upgrade_trace": [
+      {
+        "cell_id": "r00c00",
+        "cost": 1,
+        "cumulative_cost": 1,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r00c06",
+        "cost": 1,
+        "cumulative_cost": 2,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r01c05",
+        "cost": 1,
+        "cumulative_cost": 3,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r02c00",
+        "cost": 1,
+        "cumulative_cost": 4,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r02c02",
+        "cost": 1,
+        "cumulative_cost": 5,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r02c02",
+        "cost": 2,
+        "cumulative_cost": 7,
+        "declared_target": true,
+        "kind": "upgrade",
+        "mode": "native",
+        "utility": 0.9518762677484787
+      },
+      {
+        "cell_id": "r02c05",
+        "cost": 1,
+        "cumulative_cost": 8,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r02c05",
+        "cost": 2,
+        "cumulative_cost": 10,
+        "declared_target": true,
+        "kind": "upgrade",
+        "mode": "native",
+        "utility": 0.9518762677484787
+      },
+      {
+        "cell_id": "r02c06",
+        "cost": 1,
+        "cumulative_cost": 11,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r03c05",
+        "cost": 1,
+        "cumulative_cost": 12,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r03c05",
+        "cost": 2,
+        "cumulative_cost": 14,
+        "declared_target": true,
+        "kind": "upgrade",
+        "mode": "native",
+        "utility": 0.9518762677484787
+      },
+      {
+        "cell_id": "r04c00",
+        "cost": 1,
+        "cumulative_cost": 15,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r04c02",
+        "cost": 1,
+        "cumulative_cost": 16,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r04c07",
+        "cost": 1,
+        "cumulative_cost": 17,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r05c03",
+        "cost": 1,
+        "cumulative_cost": 18,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r06c01",
+        "cost": 1,
+        "cumulative_cost": 19,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r06c07",
+        "cost": 1,
+        "cumulative_cost": 20,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r07c06",
+        "cost": 1,
+        "cumulative_cost": 21,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r07c07",
+        "cost": 1,
+        "cumulative_cost": 22,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r00c02",
+        "cost": 1,
+        "cumulative_cost": 23,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.23740005623746882
+      },
+      {
+        "cell_id": "r00c04",
+        "cost": 1,
+        "cumulative_cost": 24,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.23740005623746882
+      },
+      {
+        "cell_id": "r00c07",
+        "cost": 1,
+        "cumulative_cost": 25,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.23740005623746882
+      },
+      {
+        "cell_id": "r01c00",
+        "cost": 1,
+        "cumulative_cost": 26,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.23740005623746882
+      },
+      {
+        "cell_id": "r01c01",
+        "cost": 1,
+        "cumulative_cost": 27,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.23740005623746882
+      },
+      {
+        "cell_id": "r01c02",
+        "cost": 1,
+        "cumulative_cost": 28,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.23740005623746882
+      },
+      {
+        "cell_id": "r01c04",
+        "cost": 1,
+        "cumulative_cost": 29,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.23740005623746882
+      },
+      {
+        "cell_id": "r01c07",
+        "cost": 1,
+        "cumulative_cost": 30,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.23740005623746882
+      },
+      {
+        "cell_id": "r02c01",
+        "cost": 1,
+        "cumulative_cost": 31,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.23740005623746882
+      },
+      {
+        "cell_id": "r02c04",
+        "cost": 1,
+        "cumulative_cost": 32,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.23740005623746882
+      }
+    ],
+    "first_divergence_action": 6,
+    "negative_only_found": 64,
+    "negative_only_trace": [
+      {
+        "cell_id": "r00c00",
+        "cost": 1,
+        "cumulative_cost": 1,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r00c06",
+        "cost": 1,
+        "cumulative_cost": 2,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r01c05",
+        "cost": 1,
+        "cumulative_cost": 3,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r02c00",
+        "cost": 1,
+        "cumulative_cost": 4,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r02c02",
+        "cost": 1,
+        "cumulative_cost": 5,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r02c05",
+        "cost": 1,
+        "cumulative_cost": 6,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r02c06",
+        "cost": 1,
+        "cumulative_cost": 7,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r03c05",
+        "cost": 1,
+        "cumulative_cost": 8,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r04c00",
+        "cost": 1,
+        "cumulative_cost": 9,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r04c02",
+        "cost": 1,
+        "cumulative_cost": 10,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r04c07",
+        "cost": 1,
+        "cumulative_cost": 11,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r05c03",
+        "cost": 1,
+        "cumulative_cost": 12,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r06c01",
+        "cost": 1,
+        "cumulative_cost": 13,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r06c07",
+        "cost": 1,
+        "cumulative_cost": 14,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r07c06",
+        "cost": 1,
+        "cumulative_cost": 15,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r07c07",
+        "cost": 1,
+        "cumulative_cost": 16,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.28183722068769607
+      },
+      {
+        "cell_id": "r00c02",
+        "cost": 1,
+        "cumulative_cost": 17,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.23740005623746882
+      },
+      {
+        "cell_id": "r00c04",
+        "cost": 1,
+        "cumulative_cost": 18,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.23740005623746882
+      },
+      {
+        "cell_id": "r00c07",
+        "cost": 1,
+        "cumulative_cost": 19,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.23740005623746882
+      },
+      {
+        "cell_id": "r01c00",
+        "cost": 1,
+        "cumulative_cost": 20,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.23740005623746882
+      },
+      {
+        "cell_id": "r01c01",
+        "cost": 1,
+        "cumulative_cost": 21,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.23740005623746882
+      },
+      {
+        "cell_id": "r01c02",
+        "cost": 1,
+        "cumulative_cost": 22,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.23740005623746882
+      },
+      {
+        "cell_id": "r01c04",
+        "cost": 1,
+        "cumulative_cost": 23,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.23740005623746882
+      },
+      {
+        "cell_id": "r01c07",
+        "cost": 1,
+        "cumulative_cost": 24,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.23740005623746882
+      },
+      {
+        "cell_id": "r02c01",
+        "cost": 1,
+        "cumulative_cost": 25,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.23740005623746882
+      },
+      {
+        "cell_id": "r02c04",
+        "cost": 1,
+        "cumulative_cost": 26,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.23740005623746882
+      },
+      {
+        "cell_id": "r02c07",
+        "cost": 1,
+        "cumulative_cost": 27,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.23740005623746882
+      },
+      {
+        "cell_id": "r03c01",
+        "cost": 1,
+        "cumulative_cost": 28,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.23740005623746882
+      },
+      {
+        "cell_id": "r03c02",
+        "cost": 1,
+        "cumulative_cost": 29,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.23740005623746882
+      },
+      {
+        "cell_id": "r03c03",
+        "cost": 1,
+        "cumulative_cost": 30,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.23740005623746882
+      },
+      {
+        "cell_id": "r03c04",
+        "cost": 1,
+        "cumulative_cost": 31,
+        "declared_target": true,
+        "kind": "survey",
+        "mode": "blurred",
+        "utility": 0.23740005623746882
+      },
+      {
+        "cell_id": "r03c06",
+        "cost": 1,
+        "cumulative_cost": 32,
+        "declared_target": false,
+        "kind": "survey",
+        "mode": "native",
+        "utility": 0.23740005623746882
+      }
+    ],
+    "positive_upgrade_found": 13,
+    "positive_upgrades": 3,
+    "quality_seed": 20261026,
+    "sample_id": "hurricane-harvey_00000404",
+    "scope": "Post-hoc illustrative scene/seed case; selected for mechanism explanation, not an independent result."
+  }
+]

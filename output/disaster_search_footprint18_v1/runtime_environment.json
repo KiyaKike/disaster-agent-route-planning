@@ -1,0 +1,29 @@
+{
+  "device": "mps",
+  "machine": "arm64",
+  "model_id": "EVER-Z/torchange_example_changeos_swint_on_xview2_best42k",
+  "model_revision": "4007dd10c5eaee67161e2d4a45a43da3ead6c722",
+  "offline_only": true,
+  "packages": {
+    "Pillow": "13.0.0",
+    "numpy": "2.5.4",
+    "safetensors": "0.8.0",
+    "torch": "2.9.1",
+    "torchange": "0.0.5",
+    "torchvision": "0.24.1"
+  },
+  "platform": "Darwin",
+  "python": "3.12.14",
+  "seed": 20261025,
+  "torch_threads": 4,
+  "torchange_direct_url": {
+    "archive_info": {
+      "hash": "sha256=2927c4c5b4bc2a22f07e3425f93c9f78d32792457620528fc64ea5f82354604b",
+      "hashes": {
+        "sha256": "2927c4c5b4bc2a22f07e3425f93c9f78d32792457620528fc64ea5f82354604b"
+      }
+    },
+    "url": "https://github.com/Z-Zheng/pytorch-change-models/archive/190b07a2eb4c389a5dc3f72802c67f428cdfd6b7.zip"
+  },
+  "training": false
+}

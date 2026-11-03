@@ -1,0 +1,29 @@
+{
+  "status": "COMPLETE_ENTRY_AUDIT_WITH_NEGATIVE_CALIBRATION_ADMISSION",
+  "native_raw_RGB_pixels_independently_verified": 100,
+  "bilinear_points_per_variant": 500,
+  "bilinear_variants": 2,
+  "max_abs_interpolation_error_8bit": {
+    "raw_georef": 0.49993150700866806,
+    "aligned": 0.49918355111350365
+  },
+  "tolerance_8bit": 9,
+  "tolerance_reason": "OpenCV1/32pixel linear-interpolation table plus rounding;independent exact bilinear comparison,not a registration tolerance",
+  "all_required_strips_present": true,
+  "decoded_strip_rows": 533,
+  "crewed_supported_existing_eligible": 12,
+  "archive_image_access_supported": true,
+  "calibration_anchor_validated": false,
+  "same_state_UAS_reinspection_validated": false,
+  "causal_error_attribution_validated": false,
+  "method_gain_claim": false,
+  "new_model_calls": 0,
+  "new_training": false,
+  "gpu_rental": false,
+  "previous_frozen_files_verified": {
+    "disaster_route_crasar_region_rank2_v1": 674,
+    "disaster_route_verification_screen_v1": 16,
+    "disaster_route_research_admission_v1": 16,
+    "disaster_route_crasar_batch4_v1": 2531
+  }
+}

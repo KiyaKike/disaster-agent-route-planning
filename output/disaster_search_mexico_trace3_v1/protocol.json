@@ -1,0 +1,77 @@
+{
+  "allowed_projected_columns": [
+    "image_name",
+    "t2_mask"
+  ],
+  "class_encoding": "0background,1no-damage,2minor,3major,4destroyed;255ignored; no adaptive remapping",
+  "client_date": "2026-10-28",
+  "comparisons": "Full-scene severe IoU and exact class agreement on shared known pixels; published grade distribution inside each fixed original derived footprint. No threshold fitting or efficacy gate.",
+  "forbidden": [
+    "RGB column reads",
+    "t1_mask reads",
+    "new scenes",
+    "new model calls",
+    "training",
+    "GPU rental",
+    "policy tuning",
+    "reserved-set scoring"
+  ],
+  "interpretation": "Cross-representation consistency for the same underlying xBD release; not a second independent human truth, original JSON UID bridge or damage-observability verdict.",
+  "max_network_bytes": 8388608,
+  "parent_receipt_sha256": "7f686cf192670b4950f85f6b46bf969792c109fb710885b4870ef48724aff8d5",
+  "qualitative_crops": "One160x160 native crop centered at each fixed footprint bounding-box center, clipped to scene; displayed2x nearest, same bounds forbothdates. Only target outline overlaid; no relabelling.",
+  "revision": "cda47e44377258222166dac63a85068e8bdca446",
+  "selected_ids": [
+    "mexico-earthquake_00000081",
+    "mexico-earthquake_00000145",
+    "mexico-earthquake_00000162"
+  ],
+  "selected_locations": [
+    {
+      "image_name": "hold/images/mexico-earthquake_00000081",
+      "row_index": 80,
+      "sample_id": "mexico-earthquake_00000081",
+      "shard_path": "data/hold-00004-of-00006.parquet",
+      "shard_rows": 155,
+      "shard_size": 475211183,
+      "source_names_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_data_admission_v1/shard_names/hold-00004-of-00006.json",
+      "source_names_sha256": "2575370e296df06126cdd35c9d40dc3cac4f52631c918a6378730f771f5eddeb"
+    },
+    {
+      "image_name": "hold/images/mexico-earthquake_00000145",
+      "row_index": 11,
+      "sample_id": "mexico-earthquake_00000145",
+      "shard_path": "data/hold-00003-of-00006.parquet",
+      "shard_rows": 155,
+      "shard_size": 467737801,
+      "source_names_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_data_admission_v1/shard_names/hold-00003-of-00006.json",
+      "source_names_sha256": "5af004417d9aae5b025a43e62cac13f972df165b1e05e4341081f63d0e737f81"
+    },
+    {
+      "image_name": "hold/images/mexico-earthquake_00000162",
+      "row_index": 26,
+      "sample_id": "mexico-earthquake_00000162",
+      "shard_path": "data/hold-00000-of-00006.parquet",
+      "shard_rows": 156,
+      "shard_size": 477300356,
+      "source_names_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_data_admission_v1/shard_names/hold-00000-of-00006.json",
+      "source_names_sha256": "d6ec60b518b3969c2487286c12259675e2dedcf73fc44fbfa999a360aae55b3f"
+    }
+  ],
+  "selection": "All3 severe source objects in the prior failed event; no replacements",
+  "shared_column_contract": "A selected row group can physically contain other labels. Decode transiently in trusted extraction and return only these3 exact IDs; do not print, summarize or retain unselected mask payloads.",
+  "source_code_sha256": {
+    "build_xbd_mini.py": "080c23c373b59827acf78f3bfd421c85a14e6407094ce871dfaeed5e55c3e501",
+    "extract_external_area_masks.py": "17bd552aaaea712f3385bffe48d3d649ba03f0b9dfb9183de00f051dae80e3ea",
+    "mexico_reference_core.py": "4bd2f7a4da250fc7d5f944e7d0254272c21183ca2110e3a0d58b8f4315a19f6f",
+    "perception_pair72_core.py": "8a1bba44385019c7a24aec6d4bf3b09fedc326b4a24772bff223b36a6237b6e3",
+    "plan_search_v2.py": "3f88219832ca8d3939d5cbc38919974d1932f4b941e1248c208534493254b83b",
+    "run_perception_pair72.py": "626691bb9bd00d4143043558774ad6464f405c11598e4dab755f006b393b5179",
+    "test_mexico_reference.py": "94c76beb6abfa814bd5f736234f5a1809ccad765e29002087ac73c22ca4d2a27",
+    "trace_mexico_reference.py": "d61feeec22f3e73ce0801e4df48eb94c87fa73d7f1386726b5e06b1686642202"
+  },
+  "source_repo": "EVER-Z/torchange_xView2",
+  "stage": "THREE_FIXED_MEXICO_FAILURE_REFERENCE_CROSSCHECK",
+  "test_log_sha256": "f2c3e7ad5f3fe3ef66c6d11c1437cd36e2cf0658380e8888b1f67b1d3b7912a8",
+  "tests_passed": 341
+}

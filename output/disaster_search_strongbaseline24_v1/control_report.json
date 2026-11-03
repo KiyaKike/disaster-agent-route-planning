@@ -1,0 +1,6 @@
+{
+  "max_abs_logits_difference": 5.340576171875e-05,
+  "model_calls": 2,
+  "status": "PASS",
+  "tolerance": 0.005
+}

@@ -1,0 +1,13 @@
+{
+  "client_date": "2026-11-01",
+  "all_five_figures_viewed": true,
+  "files": {
+    "figures/PS_geometry_routes.png": "991e8bb21b4cf3b89d72ceed72135f164e97c052ca9fe88969e2c4192b806a6a",
+    "figures/all_primary_deltas.png": "9aea8dfe07a7fd6e67a997e23e283d23a772b02670a46d8bcb273b767fd6163d",
+    "figures/budget_comparison.png": "10034f498a023d2a269b0707aac845ab50d086eff6304de39c629a4ae8ffcbdf",
+    "figures/route_example_port.png": "caeb15d8939826c796bd9d22751b76b524a022c7b873f838eec8078b00532182",
+    "figures/route_example_south.png": "3b2f699d5d8ff02aa909dc1e249f89d464a5677e171c4f8b5b2e66a46f5ff5f8"
+  },
+  "inspection": "Viewed all five generated PNGs. Titles, axes, legends and routes are readable, with no material clipping. Simulation target displays are explicitly marked SIMULATION. The PS-only figure contains no target efficacy annotations. The predeclared Port example with zero post/online detections is retained.",
+  "budget_curve_caveat": "All 30-minute routes hit the inherited 30-visit cap; curve plateaus are discussed explicitly in the descriptive report."
+}

@@ -1,0 +1,65 @@
+{
+  "stage": "REAL_DATA_ADAPTER_CHECK_ONLY",
+  "real_efficacy_evaluation_run": false,
+  "download_manifest_sha256": "1085512c6caae43bc32d5a0bcdcd4a7d9fce11333a15c200a439fed19c539b77",
+  "samples": [
+    {
+      "sample_id": "guatemala-volcano_00000000",
+      "event": "guatemala-volcano",
+      "label_selected_diagnostic": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 10,
+      "subtypes": {
+        "no-damage": 10
+      },
+      "target_buildings": 0,
+      "positive_cells": 0,
+      "unknown_cells": 0
+    },
+    {
+      "sample_id": "hurricane-florence_00000000",
+      "event": "hurricane-florence",
+      "label_selected_diagnostic": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 110,
+      "subtypes": {
+        "no-damage": 110
+      },
+      "target_buildings": 0,
+      "positive_cells": 0,
+      "unknown_cells": 0
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000004",
+      "event": "santa-rosa-wildfire",
+      "label_selected_diagnostic": true,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 6,
+      "subtypes": {
+        "destroyed": 3,
+        "no-damage": 1,
+        "un-classified": 2
+      },
+      "target_buildings": 3,
+      "positive_cells": 2,
+      "unknown_cells": 2
+    }
+  ],
+  "pending": [
+    "Verify source terms and consistency with original distribution.",
+    "Acquire event-disjoint calibration and evaluation samples.",
+    "Choose frozen detector and calibrate its quality-conditional error rates.",
+    "Calibrate raw cue into an initial probability using calibration events only.",
+    "Define actual additional observations; repeated reads of one image are not independent evidence.",
+    "Add travel/return costs after the observation-budget experiment."
+  ]
+}

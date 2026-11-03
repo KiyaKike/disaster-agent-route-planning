@@ -1,0 +1,15 @@
+{
+  "selection_or_model_threshold_changes": false,
+  "changes": [
+    "Coalesced adjacent validated byte ranges to reduce network requests",
+    "Bounded transport retries and resumed exact byte cache",
+    "Raised annotation file cap to12MB",
+    "Single-band preview repetition for display only;RGB inference rejects it",
+    "Existing sealed output write guard",
+    "Fetched margin derived from published local alignment vector magnitudes",
+    "Iona UAS cached-source cap64MiB instead of32MiB:see transport amendment",
+    "Unknown reference labels excluded from false positive/precision denominators",
+    "All-window outcome renamed:only exact subset hindsight result is an upper bound"
+  ],
+  "scientific_contract": "Fixed scene list,geometric ROI,perception weights,thresholds,costs and route controls retained. Failures and retries remain in logs and attempts."
+}

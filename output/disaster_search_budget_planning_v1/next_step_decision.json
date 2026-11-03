@@ -1,0 +1,24 @@
+{
+  "basis_audit_sha256": "395ca04292646ee18cce9cb20a1e85dafc98f4d5e9ddec638a5dca2f78799213",
+  "basis_public_resolution_sha256": "65235273f470c2dd54c320310c5a1bb47d08d7baa6e45bd8fc05b6172b69b44a",
+  "basis_report_sha256": "07c5745e150dedde876d694dd0f233f9e0cfbd432d249587be2834bf0bf862b6",
+  "decision": "Do not increase planning depth or promote the batch-tail variant as a new method. Test coarse-utility tie handling before changing reward models.",
+  "limits": [
+    "Does not prove a research contribution or replace a full MF-ENS exploratory-batch implementation.",
+    "No exact cross-cell distinct-building proxy or coherent instance-level observation simulator yet.",
+    "Current Mexico cache has zero detectable targets; full-image geographic independence unverified."
+  ],
+  "new_model_training_enabled": false,
+  "next_hypothesis": "Does retaining the initial raw change rank only within equal count-utility classes materially change distinct-building discovery relative to row-major and fixed random tie rules?",
+  "paid_gpu_needed": false,
+  "protocol_status": "New prospective execution protocol and tie-control implementation still required. No results for this hypothesis yet.",
+  "reason": "Same-model budget planning improves greedy modestly but still loses to simple ranking. Highest initial count utility ties cover about16 cells on average; this is a public diagnostic, not a demonstrated failure cause.",
+  "required_controls": [
+    "Same four-bin parameters, actions, budgets, costs and joint observations for each tie rule.",
+    "Row-major tie, higher public raw-change tie, fixed random tie orders with the established order seeds. No outcome-selected weights.",
+    "Same candidate sets; investigate how tie controls interact with public-parameter symmetry grouping. Freeze any implementation change before scoring.",
+    "Full development fit and leave-one-development-event-out, all thresholds and simple original ranking controls."
+  ],
+  "stage": "NEXT_DEVELOPMENT_DIAGNOSTIC_PLANNED_NOT_RUN",
+  "validation_or_confirmation_scoring_enabled": false
+}

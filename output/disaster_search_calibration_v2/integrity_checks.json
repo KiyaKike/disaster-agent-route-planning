@@ -1,0 +1,18 @@
+{
+  "checks_passed": true,
+  "observations": 3072,
+  "unique_evidence_groups": 1536,
+  "scenes": 24,
+  "validation_or_test_observations": 0,
+  "cache_hash_and_canonical_mask_checks": 3072,
+  "pilot_masks_and_declarations_reproduced": 64,
+  "maximum_pilot_score_absolute_difference": 0,
+  "original_pilot_centroid_report_preserved": true,
+  "mini72_protocol_preserved": true,
+  "unit_tests": {
+    "count": 39,
+    "result": "OK",
+    "log": "test_log.txt"
+  },
+  "parameter_sha256": "db3c3a77647b18009e2e192e187084c5148f39c24fb952a0f7b40420ea3fc600"
+}

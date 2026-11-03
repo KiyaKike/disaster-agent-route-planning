@@ -1,0 +1,71 @@
+{
+  "agent_actions": "Pre-plan,receive post cues,optionally post-plan,move and observe,update maps,optional every5 replan,return.",
+  "claim_gate": "Two map organizations are not two new planners. No dual-map improvement claim without a future information-fair comparison.",
+  "client_date": "2026-11-02",
+  "costs": {
+    "initial_planning": "All policies pay1 pre-plan;post_static and online_5 additionally pay1 post-plan. Both are charged to the same1200s budget;the pre plan is not a free trial.",
+    "observe_s": 20,
+    "online": "Every5 observations replan if another paid inspection+return after planning is affordable;all actual calls charged.",
+    "planning_call_s": 1,
+    "scope": "Planar metric movement,no terrain/road/flight safety validation.",
+    "speed_m_s": 5
+  },
+  "figures": "Both regions,online_5,pre_plan/post_plan/after10 replan;both map organizations. No simulated true target locations drawn.",
+  "functional_gates": [
+    "No paid evidence before completed inspection",
+    "Prior immutable under online observation",
+    "Two modes produce identical actions and costs with identical information",
+    "Snapshot restore preserves both maps and no repeated prefix charge",
+    "All tours return within budget",
+    "No private target or future-bit arrays in browser data"
+  ],
+  "gpu_rented": false,
+  "input_sha256": {
+    "/Users/bethany/Documents/ChatGPT/复现论文/output/PS变化先验_第一版/搜索网格_待复核.geojson": "4a1acb41247477864a10bb8041e00009150af4bd114341f0c25870900562e43f",
+    "/Users/bethany/Documents/ChatGPT/复现论文/output/PS搜索决策_演示版/参数与限制.json": "dde69c9b88c8e870b7f8992aae0f70c27fc053aff144fc19feaa2e7baefe0280",
+    "/Users/bethany/Documents/ChatGPT/复现论文/output/PS搜索决策_演示版/独立目标标注_空表.csv": "ba0815428fc864b44a922854ff56b5b3d903e72825d9562bed4327cc199c22f1",
+    "/Users/bethany/Documents/ChatGPT/复现论文/output/PS搜索决策_演示版/输入网格与显示图.json": "3dde0a9396d8e6f0d5ed3bcb9cc177c9464b4115df64d044557701ab8de77635",
+    "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_route_scope_v1/decision.json": "4b11f913bba12b283ca7d0f979856f733880629e3b15a4ea85284c8fb9684dfb",
+    "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_route_trigger_v4/completion_receipt.json": "abc47115a4d14d6f54a51120a478aadbfb659ace41f4b082fd1fc725cf02281f",
+    "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_route_trigger_v4/synthetic_worlds.json": "b2a48f113f6e148c1dbf1c5afdd2173a343e6e060766ee7e46a494452abd175f",
+    "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_multievent36_v1/completion_receipt.json": "92d93ccc683334e784b30c050aba784d4192a9d2de8baec3e55993ec8eb2d4cf",
+    "/Users/bethany/Documents/ChatGPT/复现论文/output/感知检查_阶段汇报_20261028/归档校验.json": "899a0f4651349f85d4c9e2a34b17f30e307ac2eea4f7a6467ba9c661cde6f07b",
+    "/Users/bethany/Documents/ChatGPT/复现论文/work/ps_search_decision/build_demo.py": "688138d833552f2e90dc06e04ee7cfeb73fe2294f057530e04ed521ba8f567e3",
+    "/Users/bethany/Documents/ChatGPT/复现论文/work/ps_search_decision/engine.js": "c656f75ba7d84d55785bd121513200d3357e9a494280c4da7b821dafc160d004"
+  },
+  "modes": {
+    "geometry_semantic": "Straight-line geometric cost/budget feasibility + semantic search state retaining the same prior,evidence and fusion.",
+    "prior_evidence": "Prior/cue layer + paid observation evidence,with shared geometry."
+  },
+  "new_perception_calls": 0,
+  "new_real_labels": 0,
+  "new_training": false,
+  "purpose": "Implement and compare two information-equivalent map organizations in the complete pre/post-disaster paid inspection loop,not establish algorithmic efficacy.",
+  "selection": {
+    "budget_s": 1200,
+    "no_outcome_based_selection": true,
+    "noise": "moderate",
+    "policies": [
+      "pre_static",
+      "post_static",
+      "online_5"
+    ],
+    "prior_mode": "aligned",
+    "regions": [
+      "口岸",
+      "南侧建筑区"
+    ],
+    "reused_worlds": 2,
+    "route_executions": 12,
+    "seed": 2026110200
+  },
+  "source_sha256": {
+    "build_dual_map_demo.py": "a9877e8ecc7d3cc3e56def9982a9e763e42aedb5ac20c828a5148df77502b550",
+    "dual_map_core.py": "0df59df5372eff8838b02237d5c15e046fb022b7c550219fc98c6e9eb4a8eeb5",
+    "dual_map_viewer.html": "69292d74c4149d9635853320e106c9bb01d1722c386d11da1e811e1b3042d336",
+    "test_route_dual_map.py": "e02e8a7c0bdcf9c802a586744173392f37bf865b8723b34f4704f7c648c96c47"
+  },
+  "source_truth": "Real PS geometry and change cue;preprior uniform placeholder,postprior synthetic rank construction;targets and observed bits reused simulation,not verified real damage.",
+  "stage": "DUAL_MAP_AGENT_FUNCTIONAL_DEMO_V1",
+  "test_log_sha256": "179d2e7392643f1058a9e910140fac756b05008715d52b22e79ac96866e54d94"
+}

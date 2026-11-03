@@ -1,0 +1,51 @@
+{
+  "status": "RGB_SHAPE_AND_BYTES_PASS_MEASUREMENT_ADMISSION_STILL_PENDING",
+  "files": 36,
+  "all_512_RGB": true,
+  "within36_exact_pixel_duplicate_groups": 0,
+  "files_with_at_least25percent_all_channel_zero_pixels": 4,
+  "affected_files": [
+    {
+      "all_channel_zero_fraction": 0.5025444030761719,
+      "gray_std": 60.18257768066814,
+      "mode": "pre",
+      "pixel_sha256": "c060238812be38dfb88fe31d146aa61bacf03eddeab112be4911ca6724e0e400",
+      "png_metadata_keys": [],
+      "sample_id": "EARTHQUAKE-TURKEY_000237",
+      "sha256": "fe5985355c42206d3b7e19f55d8908bf8dd4119689f27f5c7177603176774e4f"
+    },
+    {
+      "all_channel_zero_fraction": 0.9161605834960938,
+      "gray_std": 16.18591515630096,
+      "mode": "pre",
+      "pixel_sha256": "481c343c032dacbca7176add29a32d13d0645474dbc1a788b437fc90c045e642",
+      "png_metadata_keys": [],
+      "sample_id": "EARTHQUAKE-TURKEY_003472",
+      "sha256": "702a6e0c8048a9cd79ff45cd34e5614a58a532271d2a8195f4c31889f241f9be"
+    },
+    {
+      "all_channel_zero_fraction": 0.65625,
+      "gray_std": 59.75896095328862,
+      "mode": "post",
+      "pixel_sha256": "accbb37757e45d63c258df67409ebdbcab88955b6d93c9632be82ca27d9678ff",
+      "png_metadata_keys": [],
+      "sample_id": "TEXAS-TORNADOES_002969",
+      "sha256": "34650d45162b2ddfb3b843c63a18f9ad622f2cf53b97ec0261e30b2ba384f65a"
+    },
+    {
+      "all_channel_zero_fraction": 0.65625,
+      "gray_std": 55.22060217833216,
+      "mode": "pre",
+      "pixel_sha256": "140e83bcfec480bd88e57502477c6d930bfe15530af22ee12aeabca2473bcc97",
+      "png_metadata_keys": [],
+      "sample_id": "TEXAS-TORNADOES_002969",
+      "sha256": "4a14f7e3221a9651c21876bb7af66a2a7bbd190f59a12c9069cddf2d00307897"
+    }
+  ],
+  "max_all_channel_zero_fraction": 0.9161605834960938,
+  "phase_result_scope": "Hints only; maximum152px shift belongs to a heavily blank pre-image and is not evidence of a verified152px registration error.",
+  "visual_inspection": "Agent visually inspected all3 paired contact sheets. Some scenes show extensive black margins and agricultural regions. This is not human instance annotation, a target count or independent label review.",
+  "actions": "Keep all18 pairs; no automatic registration shift, masking-based scene selection or replacement. Check declared reference label alignment before any future area scoring.",
+  "human_review": "User currently has no annotation resources; distinct-building efficacy route deferred.",
+  "next": "Separate prospective published-reference area diagnostic; masks and scores still unopened."
+}

@@ -1,0 +1,143 @@
+{
+  "bins": [
+    {
+      "bin": 0,
+      "known_cells": 1142,
+      "survey_mean_count": {
+        "blurred": 0.004691395560960778,
+        "native": 0.12763149893584677
+      },
+      "upgrade": {
+        "0": {
+          "cells": 1134,
+          "mean_new_within_cell": 0.11382628598621163
+        },
+        "1": {
+          "cells": 8,
+          "mean_new_within_cell": 1.590948275862069
+        }
+      }
+    },
+    {
+      "bin": 1,
+      "known_cells": 1136,
+      "survey_mean_count": {
+        "blurred": 0.040555161621595184,
+        "native": 0.43424495085334247
+      },
+      "upgrade": {
+        "0": {
+          "cells": 1107,
+          "mean_new_within_cell": 0.3399010032253396
+        },
+        "1": {
+          "cells": 29,
+          "mean_new_within_cell": 2.309599254426841
+        }
+      }
+    },
+    {
+      "bin": 2,
+      "known_cells": 1149,
+      "survey_mean_count": {
+        "blurred": 0.0859076101081287,
+        "native": 0.47776683126726344
+      },
+      "upgrade": {
+        "0": {
+          "cells": 1089,
+          "mean_new_within_cell": 0.30901514913058675
+        },
+        "1": {
+          "cells": 60,
+          "mean_new_within_cell": 1.9037525354969573
+        }
+      }
+    },
+    {
+      "bin": 3,
+      "known_cells": 1149,
+      "survey_mean_count": {
+        "blurred": 0.06602861270104139,
+        "native": 0.34812119600365066
+      },
+      "upgrade": {
+        "0": {
+          "cells": 1101,
+          "mean_new_within_cell": 0.23623951180906552
+        },
+        "1": {
+          "cells": 48,
+          "mean_new_within_cell": 1.4188423645320198
+        }
+      }
+    }
+  ],
+  "global_survey_mean_count": {
+    "blurred": 0.04938811188811189,
+    "native": 0.34702797202797203
+  },
+  "global_upgrade": {
+    "0": {
+      "cells": 4431,
+      "mean": 0.24870232453170843
+    },
+    "1": {
+      "cells": 145,
+      "mean": 1.806896551724138
+    }
+  },
+  "limits": [
+    "Only same-cell prior discovery is removed from upgrade rewards; cross-cell duplicate discovery is not modeled.",
+    "No reliable quality estimator or new viewpoint: fixed synthetic modes.",
+    "Fit on 72 development scenes; event-held-out count diagnostics do not constitute independent policy validation."
+  ],
+  "paired_known_cells": 4576,
+  "paired_sensor": {
+    "alpha_per_outcome": 0.5,
+    "counts": {
+      "0": {
+        "00": 3815,
+        "01": 39,
+        "10": 1,
+        "11": 1
+      },
+      "1": {
+        "00": 105,
+        "01": 472,
+        "10": 1,
+        "11": 142
+      }
+    },
+    "outcome_order": "blurred,native",
+    "probabilities": {
+      "0": {
+        "00": 0.9889839294971488,
+        "01": 0.010238465526179368,
+        "10": 0.00038880248833592535,
+        "11": 0.00038880248833592535
+      },
+      "1": {
+        "00": 0.1461218836565097,
+        "01": 0.6544321329639889,
+        "10": 0.002077562326869806,
+        "11": 0.19736842105263158
+      }
+    }
+  },
+  "public_quantile_edges": [
+    0.0761437908496732,
+    0.09836601307189542,
+    0.13145424836601308
+  ],
+  "shrinkage_pseudo_cells": 8,
+  "source_hashes": {
+    "association": "59c51a09e2c46eeac0c778de1dd9af2771f72bee5ff526ac967c0a6fb75fbffc",
+    "contract": "452de54015d0c717819553487885007d8aabc82751499387d17b0ba2044919c0",
+    "cues": "912294a718d1b31509886d72fcdffbee51fd9987a59bb6b1bd80e7283043fb6e",
+    "manifest": "a70646afabf0822b3adea609835ab95c1cfdb2e7f834d6d8173d38fa4b042346"
+  },
+  "source_scenes": 72,
+  "stage": "DEVELOPMENT72_AGGREGATE_BASELINE_FIT_NOT_VALIDATED",
+  "unknown_pairs_excluded": 32
+}

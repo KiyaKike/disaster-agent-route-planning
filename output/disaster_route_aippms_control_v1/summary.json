@@ -1,0 +1,162 @@
+[
+  {
+    "budget": 12,
+    "expected_or_sample_mean_reward": 0.0,
+    "mean_energy": 0.0,
+    "policy": "exact_no_sense",
+    "record_role": "Exhaustive expectation,branches dependent;not independent samples.",
+    "records": 8,
+    "sensing_probability_or_mean_calls": 0,
+    "sensor_model": "informative"
+  },
+  {
+    "budget": 12,
+    "expected_or_sample_mean_reward": 2.871745887492587,
+    "mean_energy": 10.0,
+    "policy": "exact_one_sense",
+    "record_role": "Exhaustive expectation,branches dependent;not independent samples.",
+    "records": 64,
+    "sensing_probability_or_mean_calls": 1.0,
+    "sensor_model": "informative"
+  },
+  {
+    "budget": 12,
+    "expected_or_sample_mean_reward": 0.625,
+    "mean_energy": 2.65625,
+    "policy": "pomcp_random",
+    "record_role": "8worlds x4seed runs;not32independent maps.",
+    "records": 32,
+    "sensing_probability_or_mean_calls": 0.53125,
+    "sensor_model": "informative"
+  },
+  {
+    "budget": 12,
+    "expected_or_sample_mean_reward": 2.1875,
+    "mean_energy": 10.390625,
+    "policy": "pomcp_gcb",
+    "record_role": "8worlds x4seed runs;not32independent maps.",
+    "records": 32,
+    "sensing_probability_or_mean_calls": 2.9375,
+    "sensor_model": "informative"
+  },
+  {
+    "budget": 20,
+    "expected_or_sample_mean_reward": 0.0,
+    "mean_energy": 0.0,
+    "policy": "exact_no_sense",
+    "record_role": "Exhaustive expectation,branches dependent;not independent samples.",
+    "records": 8,
+    "sensing_probability_or_mean_calls": 0,
+    "sensor_model": "informative"
+  },
+  {
+    "budget": 20,
+    "expected_or_sample_mean_reward": 9.121663505591348,
+    "mean_energy": 18.5,
+    "policy": "exact_one_sense",
+    "record_role": "Exhaustive expectation,branches dependent;not independent samples.",
+    "records": 64,
+    "sensing_probability_or_mean_calls": 0.9999999999999999,
+    "sensor_model": "informative"
+  },
+  {
+    "budget": 20,
+    "expected_or_sample_mean_reward": 0.0,
+    "mean_energy": 0.140625,
+    "policy": "pomcp_random",
+    "record_role": "8worlds x4seed runs;not32independent maps.",
+    "records": 32,
+    "sensing_probability_or_mean_calls": 0.0625,
+    "sensor_model": "informative"
+  },
+  {
+    "budget": 20,
+    "expected_or_sample_mean_reward": 3.75,
+    "mean_energy": 15.90625,
+    "policy": "pomcp_gcb",
+    "record_role": "8worlds x4seed runs;not32independent maps.",
+    "records": 32,
+    "sensing_probability_or_mean_calls": 3.71875,
+    "sensor_model": "informative"
+  },
+  {
+    "budget": 12,
+    "expected_or_sample_mean_reward": 0.0,
+    "mean_energy": 0.0,
+    "policy": "exact_no_sense",
+    "record_role": "Exhaustive expectation,branches dependent;not independent samples.",
+    "records": 8,
+    "sensing_probability_or_mean_calls": 0,
+    "sensor_model": "uninformative"
+  },
+  {
+    "budget": 12,
+    "expected_or_sample_mean_reward": 0.0,
+    "mean_energy": 0.0,
+    "policy": "exact_one_sense",
+    "record_role": "Exhaustive expectation,branches dependent;not independent samples.",
+    "records": 8,
+    "sensing_probability_or_mean_calls": 0,
+    "sensor_model": "uninformative"
+  },
+  {
+    "budget": 12,
+    "expected_or_sample_mean_reward": 0.0,
+    "mean_energy": 2.578125,
+    "policy": "pomcp_random",
+    "record_role": "8worlds x4seed runs;not32independent maps.",
+    "records": 32,
+    "sensing_probability_or_mean_calls": 0.65625,
+    "sensor_model": "uninformative"
+  },
+  {
+    "budget": 12,
+    "expected_or_sample_mean_reward": 0.3125,
+    "mean_energy": 5.96875,
+    "policy": "pomcp_gcb",
+    "record_role": "8worlds x4seed runs;not32independent maps.",
+    "records": 32,
+    "sensing_probability_or_mean_calls": 1.4375,
+    "sensor_model": "uninformative"
+  },
+  {
+    "budget": 20,
+    "expected_or_sample_mean_reward": 0.0,
+    "mean_energy": 0.0,
+    "policy": "exact_no_sense",
+    "record_role": "Exhaustive expectation,branches dependent;not independent samples.",
+    "records": 8,
+    "sensing_probability_or_mean_calls": 0,
+    "sensor_model": "uninformative"
+  },
+  {
+    "budget": 20,
+    "expected_or_sample_mean_reward": 0.0,
+    "mean_energy": 0.0,
+    "policy": "exact_one_sense",
+    "record_role": "Exhaustive expectation,branches dependent;not independent samples.",
+    "records": 8,
+    "sensing_probability_or_mean_calls": 0,
+    "sensor_model": "uninformative"
+  },
+  {
+    "budget": 20,
+    "expected_or_sample_mean_reward": 0.0,
+    "mean_energy": 0.0625,
+    "policy": "pomcp_random",
+    "record_role": "8worlds x4seed runs;not32independent maps.",
+    "records": 32,
+    "sensing_probability_or_mean_calls": 0.03125,
+    "sensor_model": "uninformative"
+  },
+  {
+    "budget": 20,
+    "expected_or_sample_mean_reward": -0.3125,
+    "mean_energy": 4.625,
+    "policy": "pomcp_gcb",
+    "record_role": "8worlds x4seed runs;not32independent maps.",
+    "records": 32,
+    "sensing_probability_or_mean_calls": 0.875,
+    "sensor_model": "uninformative"
+  }
+]

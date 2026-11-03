@@ -1,0 +1,194 @@
+[
+  {
+    "mean_probabilities_sha256": "33ad985b95ca04891e23b80668fa3bceb2fcf244d724c64edf6b7a54a7cefed5",
+    "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_strongbaseline24_v1/cache/santa-rosa-wildfire_00000008.npz",
+    "prediction_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_strongbaseline24_v1/predictions/santa-rosa-wildfire_00000008.png",
+    "prediction_sha256": "7deaa491f0460767b77e0a0c68efdc915ef95ebace098cf041b13db2e20b70f3",
+    "sample_id": "santa-rosa-wildfire_00000008",
+    "sha256": "8cc60ddc59fed2e5aba367b7fa3a7ea25b6e2ef4505a1d19e4943e6d3378ccfd"
+  },
+  {
+    "mean_probabilities_sha256": "815001dc042b095865771879ddac3936e1915ce241891df02a1e39e9fd2f458c",
+    "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_strongbaseline24_v1/cache/santa-rosa-wildfire_00000010.npz",
+    "prediction_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_strongbaseline24_v1/predictions/santa-rosa-wildfire_00000010.png",
+    "prediction_sha256": "e05289944a6cf3df9f4fb5db3adee61aecdf239b62d163f5af93bc58a82d88a1",
+    "sample_id": "santa-rosa-wildfire_00000010",
+    "sha256": "cdbb7c7e34091e2f554be4f02d89ef1b994ddebf76c839fde155df4de3a971e6"
+  },
+  {
+    "mean_probabilities_sha256": "652badb96fd9f1a47d94ba165e906774f1652355cd2af5d61777b72a0a3732ce",
+    "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_strongbaseline24_v1/cache/santa-rosa-wildfire_00000013.npz",
+    "prediction_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_strongbaseline24_v1/predictions/santa-rosa-wildfire_00000013.png",
+    "prediction_sha256": "67da46c2b5a2c263e86403bdc009213ca0e88d83cb6d16ca3e832504651386a8",
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "sha256": "8ded4d42afa996d560efdba119fe47a72a48c18e38753da0e8bac60bc22a5a4c"
+  },
+  {
+    "mean_probabilities_sha256": "ae2ebe4ceba646fb73e0cf7b92ffdf78d6dd23fe956d97f990be0ed0c6c4899c",
+    "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_strongbaseline24_v1/cache/santa-rosa-wildfire_00000025.npz",
+    "prediction_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_strongbaseline24_v1/predictions/santa-rosa-wildfire_00000025.png",
+    "prediction_sha256": "2a5c398abc876c7d8910eb4f42e8e3c7426bd353313cc9b51ce6e61a9f8a19dc",
+    "sample_id": "santa-rosa-wildfire_00000025",
+    "sha256": "3536f312fc3ee691db23b12b96d27dbea02dcc5f675c2ed45a87d19d857a92fa"
+  },
+  {
+    "mean_probabilities_sha256": "329bcae40e6ea256b0553c6ffb60f28f71a00abdd490885519e08eaca1aa79a3",
+    "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_strongbaseline24_v1/cache/santa-rosa-wildfire_00000029.npz",
+    "prediction_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_strongbaseline24_v1/predictions/santa-rosa-wildfire_00000029.png",
+    "prediction_sha256": "d1d69446b383d26d50a10e829d430bb740371f7c893c3c82044d2559ff1a3c34",
+    "sample_id": "santa-rosa-wildfire_00000029",
+    "sha256": "bfb96c18e71937b95a717dc2fbcf594550bbf7c01dae8a31b7a361ff3172dca2"
+  },
+  {
+    "mean_probabilities_sha256": "331a746b14e1a5d699fffa7ac2340634f85e816944da8467c83aad9a590b9aa6",
+    "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_strongbaseline24_v1/cache/santa-rosa-wildfire_00000054.npz",
+    "prediction_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_strongbaseline24_v1/predictions/santa-rosa-wildfire_00000054.png",
+    "prediction_sha256": "aa90d1ef2e0de46bab44701d7667256e22804ebba294442ee8aa7e21b31dcb27",
+    "sample_id": "santa-rosa-wildfire_00000054",
+    "sha256": "6f736ac5e7e10c58fd964bbf41d936f7b35e243db7cfc4399f8c576bf7abae71"
+  },
+  {
+    "mean_probabilities_sha256": "805a2e5d3568e5658e6ea71ae886120ffc213873d418b658c8fd46a642afc3e2",
+    "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_strongbaseline24_v1/cache/santa-rosa-wildfire_00000062.npz",
+    "prediction_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_strongbaseline24_v1/predictions/santa-rosa-wildfire_00000062.png",
+    "prediction_sha256": "60ba703052887cffb18df7d87aab5920526ee49af06ea9a822534a5eb6638316",
+    "sample_id": "santa-rosa-wildfire_00000062",
+    "sha256": "6b4902556ef49ee57d8486131e4f05c9302adb407dbd52a1cef17cc2a746421d"
+  },
+  {
+    "mean_probabilities_sha256": "310634b4ef784c0386577d631aeb46463cb549e855d3a5efc0b12ca6faa1009e",
+    "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_strongbaseline24_v1/cache/santa-rosa-wildfire_00000108.npz",
+    "prediction_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_strongbaseline24_v1/predictions/santa-rosa-wildfire_00000108.png",
+    "prediction_sha256": "d88faded7ff81a484f420f33306dcc8d32ef6eb9b379d8a2ce252aff229bf3a2",
+    "sample_id": "santa-rosa-wildfire_00000108",
+    "sha256": "81e14dcf43c949f588e7dc9f77625bdc9518c0afaf1304da4f99bb2b1ac84155"
+  },
+  {
+    "mean_probabilities_sha256": "a660cb066a12c112f11b4d84901ac0ffd600fc28ab0e38acfb1829f98f172f2c",
+    "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_strongbaseline24_v1/cache/santa-rosa-wildfire_00000112.npz",
+    "prediction_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_strongbaseline24_v1/predictions/santa-rosa-wildfire_00000112.png",
+    "prediction_sha256": "294b293415434783a802ec72f5b028319539799defc74931e0dbcb231ba51e4f",
+    "sample_id": "santa-rosa-wildfire_00000112",
+    "sha256": "16b7ad591071b4ae0a4ecaec4a0b49b19199aaa94d520f613d8e9fca3c8c9fdd"
+  },
+  {
+    "mean_probabilities_sha256": "9f84875a0746ee5554efc5abf8552ace3f13beabcf9e2bfddc3515673bea0575",
+    "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_strongbaseline24_v1/cache/santa-rosa-wildfire_00000115.npz",
+    "prediction_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_strongbaseline24_v1/predictions/santa-rosa-wildfire_00000115.png",
+    "prediction_sha256": "48caaaa83b513da2e3210c60d58aa7f8d18531dd95f3420e36ac0b6d3d0f9665",
+    "sample_id": "santa-rosa-wildfire_00000115",
+    "sha256": "ab8ba7ace82a27cce924149b735de74390f73cce37b7b92a38c7e5c50ca01a2c"
+  },
+  {
+    "mean_probabilities_sha256": "2c9bd9e0df4b79a3fd09d366316c8f0e20775b1c6930e2e5b1c9abc9171b6146",
+    "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_strongbaseline24_v1/cache/santa-rosa-wildfire_00000122.npz",
+    "prediction_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_strongbaseline24_v1/predictions/santa-rosa-wildfire_00000122.png",
+    "prediction_sha256": "41c928c55d4bb1a5abab2c578bb12c46bead24fb0add8a611037fdc36f858801",
+    "sample_id": "santa-rosa-wildfire_00000122",
+    "sha256": "c528e7a71544b83707a65a8b51d6162a239e515323905e9a5327026255d9dc4c"
+  },
+  {
+    "mean_probabilities_sha256": "4903cbbc6dc0e1d04cadf186e38e171492cd6a5b77c524cc348933cb37aa244c",
+    "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_strongbaseline24_v1/cache/santa-rosa-wildfire_00000126.npz",
+    "prediction_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_strongbaseline24_v1/predictions/santa-rosa-wildfire_00000126.png",
+    "prediction_sha256": "7c75680b726deca413d92b855054e572f44a5544e5c250b1122ba0d34bc382c7",
+    "sample_id": "santa-rosa-wildfire_00000126",
+    "sha256": "e961ab6790907574b51d84b1d271d9a5b2c8c81b4b58afd7ce0b22610f7dd2ef"
+  },
+  {
+    "mean_probabilities_sha256": "9fa78c96684753f6b7acc718656f5efbde7f49fb4da7e3371fd406e4e5be3b27",
+    "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_strongbaseline24_v1/cache/santa-rosa-wildfire_00000160.npz",
+    "prediction_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_strongbaseline24_v1/predictions/santa-rosa-wildfire_00000160.png",
+    "prediction_sha256": "b3e74f01a8612025ddee0cfb53eb65954a5f829edea777101b3702df71a7b2d5",
+    "sample_id": "santa-rosa-wildfire_00000160",
+    "sha256": "aff3aef4cdb319b9141a3f8945ae4c778ff90a7b2b32035192d825ee4652018a"
+  },
+  {
+    "mean_probabilities_sha256": "4e5fb795bc0748fed51018fd91fb4d5354a7f1628a1003484c1e08499655bb7f",
+    "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_strongbaseline24_v1/cache/santa-rosa-wildfire_00000188.npz",
+    "prediction_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_strongbaseline24_v1/predictions/santa-rosa-wildfire_00000188.png",
+    "prediction_sha256": "026cbb9317b8b818156fdcf14ad5c04dbc3f243eebe48ed1cb64517431758a03",
+    "sample_id": "santa-rosa-wildfire_00000188",
+    "sha256": "a41257d575115f740ae4cceaa0e86872adce7485bd355e6f5006ca34ef1e657a"
+  },
+  {
+    "mean_probabilities_sha256": "b03775e71930a32df378ec9d93879c706bd5d3cf1a8bd57d65059dfff17d608a",
+    "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_strongbaseline24_v1/cache/santa-rosa-wildfire_00000193.npz",
+    "prediction_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_strongbaseline24_v1/predictions/santa-rosa-wildfire_00000193.png",
+    "prediction_sha256": "390d3b224e6c7036efdf5a21c3603fc79940da787976dbe40c64ad638ff6b445",
+    "sample_id": "santa-rosa-wildfire_00000193",
+    "sha256": "fea6f60b2b93927d1f508d0189c0d6874c7dd37d1608df77f5e69a1eb025feab"
+  },
+  {
+    "mean_probabilities_sha256": "d4d3f1e9483058f3b9889dff4e74fbfdf79e79f70d7ae5f305535733bc72fecf",
+    "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_strongbaseline24_v1/cache/santa-rosa-wildfire_00000194.npz",
+    "prediction_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_strongbaseline24_v1/predictions/santa-rosa-wildfire_00000194.png",
+    "prediction_sha256": "06087700aeffff109855fe0c8d1757090afa7deaef0356d3aa267e191f9f91a4",
+    "sample_id": "santa-rosa-wildfire_00000194",
+    "sha256": "84cc2d64dd32656289df73ab6f1b1a67f5d84acfb4825435b92ce163f5bda740"
+  },
+  {
+    "mean_probabilities_sha256": "8d3d80f55d00f9ea31d25c9a0476d723ec16f55529b50fdc28aa179dfd8bcf2b",
+    "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_strongbaseline24_v1/cache/santa-rosa-wildfire_00000227.npz",
+    "prediction_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_strongbaseline24_v1/predictions/santa-rosa-wildfire_00000227.png",
+    "prediction_sha256": "8bf7d8d3ba7e108a659eb4d46a46bfbcdb737b44abde7b03bb2aee67f2bb81e5",
+    "sample_id": "santa-rosa-wildfire_00000227",
+    "sha256": "87a5e90e7d4e8ba9ed497ec45ef64acae3aaa62cfa2503c2de6975eda1eab64a"
+  },
+  {
+    "mean_probabilities_sha256": "908efe81fe5a6898f28d8dedfda91a35e5c813c70ca538f45ace34a613a9bb7d",
+    "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_strongbaseline24_v1/cache/santa-rosa-wildfire_00000232.npz",
+    "prediction_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_strongbaseline24_v1/predictions/santa-rosa-wildfire_00000232.png",
+    "prediction_sha256": "ba38152e8269b873e973eef46d411d95dd4b57a3cad4c815e3759f24a06d44da",
+    "sample_id": "santa-rosa-wildfire_00000232",
+    "sha256": "27baf8cd34cb003ef66d9302a22e22562d366b58016f01ccf40fdf99610a09b6"
+  },
+  {
+    "mean_probabilities_sha256": "e90e1577ee50a2af1be88895129d2cb612dfce5c992eccc452e95e877a37e756",
+    "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_strongbaseline24_v1/cache/santa-rosa-wildfire_00000255.npz",
+    "prediction_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_strongbaseline24_v1/predictions/santa-rosa-wildfire_00000255.png",
+    "prediction_sha256": "b56f5b1c6115eb1065abaff1f5b96914cbb339867eb9e9288f9c1a8e3424965e",
+    "sample_id": "santa-rosa-wildfire_00000255",
+    "sha256": "4f5a128edd6037df0c9eda468623ef7fc1fb4d9d2ef916339a14f61a0689446c"
+  },
+  {
+    "mean_probabilities_sha256": "0e9fc5b908ddd18e7d26fe348d071022e4fe4793704b15200ec7dcf4f9d106ac",
+    "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_strongbaseline24_v1/cache/santa-rosa-wildfire_00000263.npz",
+    "prediction_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_strongbaseline24_v1/predictions/santa-rosa-wildfire_00000263.png",
+    "prediction_sha256": "d3a34312ced4ae763f1290e0d9ff6d934ca989c1694c2303fd9cef2fbed6ba84",
+    "sample_id": "santa-rosa-wildfire_00000263",
+    "sha256": "990b82f116542c2a1e39b6e058c4fb30792f73a4d9572ccef9f993b41ee9ba83"
+  },
+  {
+    "mean_probabilities_sha256": "9e0efe88833374f569f33fef17d3e1cb55961e40b80151a57ad0c76c4dce2ce8",
+    "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_strongbaseline24_v1/cache/santa-rosa-wildfire_00000266.npz",
+    "prediction_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_strongbaseline24_v1/predictions/santa-rosa-wildfire_00000266.png",
+    "prediction_sha256": "a3aff126a8bfeeafccbbd5514d3295b61ef7744817872914cab0b300dd71969f",
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "sha256": "9255c1863105907be200c866b0060c6a7b4197105f2d39d2b7d2fdd208944305"
+  },
+  {
+    "mean_probabilities_sha256": "ff274e7ecd0f51c8e675b640c48ba30f7c51cd729af083f007713952fc8af819",
+    "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_strongbaseline24_v1/cache/santa-rosa-wildfire_00000278.npz",
+    "prediction_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_strongbaseline24_v1/predictions/santa-rosa-wildfire_00000278.png",
+    "prediction_sha256": "d74c6312d553fd13109fd62e4d3ddd3d36618939d54f9272d92cd964b5d6e899",
+    "sample_id": "santa-rosa-wildfire_00000278",
+    "sha256": "6bed0b6a09ab669cb00dd4e85c4ee9940fa4d49d0cf0c12017dc98e13d747d59"
+  },
+  {
+    "mean_probabilities_sha256": "17f791bd1f4d5ec95877ff0901acf1662b418b0185ead82c6679910748fef854",
+    "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_strongbaseline24_v1/cache/santa-rosa-wildfire_00000342.npz",
+    "prediction_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_strongbaseline24_v1/predictions/santa-rosa-wildfire_00000342.png",
+    "prediction_sha256": "0e1d1f3909bf2563829ad9900ed70581c989a0e962c91d7027cc83cebf92fa9a",
+    "sample_id": "santa-rosa-wildfire_00000342",
+    "sha256": "37657a1327419d6281a0397c5617042f7833c05f36f0cdf5fecb1beb23b50887"
+  },
+  {
+    "mean_probabilities_sha256": "f5630d3b9415af0eb32da7735bbbfc8c23f28b91eb309db7a3f1fdad7f439aed",
+    "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_strongbaseline24_v1/cache/santa-rosa-wildfire_00000352.npz",
+    "prediction_path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_strongbaseline24_v1/predictions/santa-rosa-wildfire_00000352.png",
+    "prediction_sha256": "6846f2bcfc6de979537e57660eab8aae579e6e8611af27bfc2a1394f1e9805b5",
+    "sample_id": "santa-rosa-wildfire_00000352",
+    "sha256": "39e8c9143c4fd88d4805a2076b876d563ab4e024af24eb766380a719e9ceca02"
+  }
+]

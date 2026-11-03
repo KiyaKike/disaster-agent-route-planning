@@ -1,0 +1,20 @@
+/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/.venv_inference/lib/python3.12/site-packages/torch/amp/autocast_mode.py:270: UserWarning: User provided device_type of 'cuda', but CUDA is not available. Disabling
+  warnings.warn(
+{"sample_id": "EARTHQUAKE-TURKEY_000237", "observations": 32, "device": "mps"}
+{"sample_id": "EARTHQUAKE-TURKEY_003472", "observations": 64, "device": "mps"}
+{"sample_id": "EARTHQUAKE-TURKEY_005459", "observations": 96, "device": "mps"}
+{"sample_id": "EARTHQUAKE-TURKEY_006807", "observations": 128, "device": "mps"}
+{"sample_id": "EARTHQUAKE-TURKEY_012987", "observations": 160, "device": "mps"}
+{"sample_id": "EARTHQUAKE-TURKEY_015741", "observations": 192, "device": "mps"}
+{"sample_id": "PAKISTAN-FLOODING_003197", "observations": 224, "device": "mps"}
+{"sample_id": "PAKISTAN-FLOODING_004697", "observations": 256, "device": "mps"}
+{"sample_id": "PAKISTAN-FLOODING_006998", "observations": 288, "device": "mps"}
+{"sample_id": "PAKISTAN-FLOODING_013475", "observations": 320, "device": "mps"}
+{"sample_id": "PAKISTAN-FLOODING_014536", "observations": 352, "device": "mps"}
+{"sample_id": "PAKISTAN-FLOODING_017841", "observations": 384, "device": "mps"}
+{"sample_id": "TEXAS-TORNADOES_000325", "observations": 416, "device": "mps"}
+{"sample_id": "TEXAS-TORNADOES_002697", "observations": 448, "device": "mps"}
+{"sample_id": "TEXAS-TORNADOES_002969", "observations": 480, "device": "mps"}
+{"sample_id": "TEXAS-TORNADOES_003987", "observations": 512, "device": "mps"}
+{"sample_id": "TEXAS-TORNADOES_004417", "observations": 544, "device": "mps"}
+{"sample_id": "TEXAS-TORNADOES_004813", "observations": 576, "device": "mps"}

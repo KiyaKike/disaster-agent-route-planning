@@ -1,0 +1,9 @@
+{
+  "diagnostic_domain": "Pixels with any nonzero RGB channel at both dates; sensitivity only, not certified nodata or a better-score selection",
+  "inspector_sha256": "36b2d11b54c20ca86c4ed4e1e1c31fb40841e553170aacf2ae7851587e531853",
+  "no_alignment_shift_or_scene_replacement": true,
+  "primary_domain": "All512x512 published reference pixels, no outcome-based exclusion",
+  "reference_manifest_sha256": "2fe4670a1baa7b92136d0da675e4649a94c67f99a02a992859e313467a2e2a4c",
+  "rgb_manifest_sha256": "4857076df9a54615d023cd4308bd71e505cda70087b7ea74614245debe9379b0",
+  "scope": "Reference format/identity/RGB-border diagnostics, not label accuracy or registration certification"
+}

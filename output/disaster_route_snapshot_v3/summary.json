@@ -1,0 +1,18 @@
+{
+  "budget_violations": 0,
+  "new_policy_efficacy_established": false,
+  "primary_checkpoint": 10,
+  "primary_condition_counts": {
+    "negative": 1,
+    "positive": 16,
+    "zero": 1
+  },
+  "primary_snapshot_win_tie_loss": [
+    79,
+    69,
+    32
+  ],
+  "scope": "One-time route revision after shared static collection history;not the previous always-online policy and not independent real-disaster replications.",
+  "status": "DEVELOPMENT_SIMULATION_ONLY",
+  "trigger_fitted": false
+}

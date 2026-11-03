@@ -1,0 +1,26 @@
+{
+  "version": "feedback_scope_diagnostics_v1",
+  "split": "calibration",
+  "timing": "After inspecting the first cached search failure; exploratory mechanism diagnosis, not preregistered evidence or validation.",
+  "relations": {
+    "same_bin": "Same public RGB-change quartile, any distance",
+    "neighbors": "8-connected one-cell neighborhood, irrespective of change bin",
+    "neighbors_same_bin": "8-connected neighbor AND same public RGB-change quartile",
+    "far_same_bin": "Same public RGB-change quartile, Chebyshev distance >1"
+  },
+  "primary": "Ordered distinct known-truth source/candidate cells within each scene; exclude pairs sharing any visible severe-building UID. Also report inclusive diagnostic separately.",
+  "conditional": "Candidate prevalence conditional on source truth, within each scene. Equal-scene mean difference only for scenes containing both source truth classes and eligible candidate pairs. Full per-scene values retained; no independence-based p-values.",
+  "one_step_predictor": "From original source prior and its fixed detector observation, compute posterior with the already fitted mode likelihood. Shift candidate logit by clip(4*r*(source_posterior-source_prior)/(8+r),-1,1), r=(TPR-FPR)^2, unchanged synthetic constants. Candidate labels used only to score Brier loss.",
+  "one_step_comparison": "After-minus-before Brier, averaged candidate pairs per source, then sources per scene, then scenes equally. Positive values mean harm. Report native/blurred, positive/negative observation, per-event and per-scene. Primary excludes shared target UIDs.",
+  "limits": [
+    "Labels serve evaluator diagnostics only, not an online neighborhood or known false-negative flag.",
+    "Calibration prior and sensor rates were fitted using these scenes, so these scores are exploratory and in-sample.",
+    "Conditional association can reflect scene density, layout or sampling; it is not a causal effect or proof of useful policy feedback.",
+    "A fixed single-feedback test is different from an adaptive multi-step policy."
+  ],
+  "source_hashes": {
+    "association": "cbb2239f0c9d268085d7b765f010ae8e830c73067cd8d12494bf03faed3b9128",
+    "observations": "46cafc0e181e764743f1923146a3c8aa4710f3bf7e900fa855dcf69ecc8ee20f",
+    "parameters": "db3c3a77647b18009e2e192e187084c5148f39c24fb952a0f7b40420ea3fc600"
+  }
+}

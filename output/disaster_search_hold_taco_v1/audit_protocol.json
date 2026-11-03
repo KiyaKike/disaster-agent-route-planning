@@ -1,0 +1,16 @@
+{
+  "archive_size": 32404817624,
+  "design_sha256": "5658ef8bee4801850cf9e2e4c4bd0280a6b79c4590afff69dcd6605afd108b38",
+  "exploratory_read_disclosure": "Before this runner, a 16384-byte prefix probe crossed the index into part of the first PNG's compressed payload. It was not decoded. A subsequent schema-only probe read 141049 bytes. Do not claim zero image bytes were accessed in the whole session.",
+  "max_network_bytes": 16777216,
+  "projected_columns": [
+    "ml:source_file",
+    "ml:split_original",
+    "ml:disaster",
+    "internal:current_id"
+  ],
+  "purpose": "Inspect schema and ID mapping only; do not decode images, damage, counts, XY or WGS84 polygons.",
+  "repo": "isp-uv-es/xview2-taco",
+  "revision": "44e219dc1d88c9d0903d6b478d7f2f3c435e574f",
+  "selection_sha256": "4119345fdfc0587c55cd8558ac2bc78a0a2041556e0e6fd7a4bcadcfaf011ad0"
+}

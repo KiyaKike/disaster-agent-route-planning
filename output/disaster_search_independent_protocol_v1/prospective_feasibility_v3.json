@@ -1,0 +1,137 @@
+{
+  "cohort": {
+    "events": [
+      "EARTHQUAKE-TURKEY",
+      "PAKISTAN-FLOODING",
+      "TEXAS-TORNADOES"
+    ],
+    "no_substitution": "Retain empty/unclear/failed scenes and their status. Technical failure stops that scene, not replacement. If the chosen pool fails, issue a separate prospective protocol for a different source, disclose failure.",
+    "old_216": "All old v2 candidates and split roles preserved; no new reserved payloads or scores.",
+    "pairs_per_event": 6,
+    "role": "Feasibility/development only, permanently excluded from future formal confirmation.",
+    "selection": "Hash of public event and sample identity; fixed before image, mask, prediction or outcome access.",
+    "source": "10.6084/m9.figshare.25285009.v2",
+    "total_pairs": 18
+  },
+  "decision_after_pilot": [
+    "Unusable provenance or instance truth: stop this data route.",
+    "Unusable detector on new events: solve/qualify measurement first, not search.",
+    "Detector usable but source utility transfers adequately: no evidence to justify a new transfer method from this pilot.",
+    "Detector usable and event-specific utility mismatch reproducible: formulate one constrained adaptation hypothesis, with observable information and charged costs, in a new protocol."
+  ],
+  "hypotheses": {
+    "falsification": "No usable per-instance gold or no detectable targets means the proposed search experiment is not supported by this pilot. It cannot be repaired by selecting more favorable scenes or increasing planner depth.",
+    "measurement": "Externally selected scenes have human-reviewable individual buildings and nonzero fixed-detector discovery opportunities in each event. This may fail.",
+    "transfer": "Frozen source utility ranking and upgrade prices may disagree with target-event realized marginal discoveries; assess descriptively before designing adaptation."
+  },
+  "independence_and_future_confirmation": {
+    "event_identity": "External event names are outside the published xBD event list, but names/dates alone are insufficient for full acquisition or geographic independence.",
+    "formal_confirmation_enabled": false,
+    "future_requirement": "If this feasibility stage supports the problem, select a separate external cohort by event/acquisition/footprint evidence before labels or outcomes. All18 pilot pairs remain development. No new method promotion before a distinct evaluation plan and verified nearest work.",
+    "independent_claim_enabled": false,
+    "spatial_status": "UNKNOWN: no acquisition/official footprint mapping verified from this metadata-only stage."
+  },
+  "name": "disaster_search_v3_external_feasibility_18",
+  "parent_v2_contract_sha256": "452de54015d0c717819553487885007d8aabc82751499387d17b0ba2044919c0",
+  "research_scope": "Cross-disaster transfer of budgeted optical image search with imperfect fixed detector feedback. No new algorithm or paper contribution is selected.",
+  "selection_protocol_sha256": "224f25c7570a48ae2be7d8d4f32169c8a1d81910fb4ef3e45bb7409d741601fe",
+  "source_decision_sha256": "36f6b0a562f241a68c099b6c46455920f5f5ace7dc6c7d2b4230faedb96a64f8",
+  "stage_a_now": {
+    "allowed": "Source papers, README and exact archive directories only",
+    "gpu_spend": 0,
+    "image_payload_bytes_read": 0,
+    "label_payload_bytes_read": 0,
+    "new_fit": false,
+    "new_inference": 0,
+    "selected": 18
+  },
+  "stage_b_next_rgb_and_gold": {
+    "after_rgb_extraction": [
+      "Check actual 512x512 RGB dimensions, pre/post alignment, missing pixels and image hashes; record failures without swapping.",
+      "Check acquisition IDs/dates and available footprints plus exact/perceptual duplicates against known training/evaluation imagery. Report unavailable spatial evidence as unknown, never independent."
+    ],
+    "annotation_record": "annotation_queue_unfilled.json is a blank queue. validate_gold_record checks structure, not reviewer identity or annotation accuracy. Empty forms cannot count as target-free scenes.",
+    "before_any_rgb_extraction": [
+      "Check original imagery terms and attribution chain using retained source links.",
+      "Write a bounded member-range extraction protocol that checks local headers, exact compressed sizes, CRC and SHA256, with no automatic full-archive fallback.",
+      "Keep the selected 18 IDs unchanged."
+    ],
+    "effort": "Time the first hash-ranked pair per event for each reviewer; project effort from those three timings while keeping all 18 fixed. No duration or labor availability is claimed now.",
+    "enabled_now": false,
+    "expected_rgb_members": 36,
+    "full_archives_allowed": false,
+    "future_payload_cap_bytes": 134217728,
+    "human_gold": "Review whole selected scenes, trace or verify individual building polygons and stable scene-local IDs; grade visible damage using no/minor/major/destroyed/unknown. Unknown is not negative. Labels describe visible imagery, not field-verified structural safety.",
+    "instance_rule": "No automatic conversion of connected components into primary building instances. Original polygons require identity verification; otherwise human-traced identities and polygon provenance are explicit.",
+    "mask_download_for_primary_gold": false,
+    "review_blinding": "First review uses paired RGB only, without detector predictions or EBD masks. A distinct second reviewer adjudicates every selected scene and records disagreement. Human expertise and effort are reported, never fabricated.",
+    "source_compressed_member_bytes": 13691009
+  },
+  "stage_c_future_measurement": {
+    "before_inference": "Freeze gold and model/cache lineage; finalize a 4x4 grid implementation with structural checks before any scores.",
+    "cell_pixels": [
+      128,
+      128
+    ],
+    "coarse_rule": "BOX downsample by8, 16x16 coarse pixels per128x128 native cell, matching the old per-cell public cue scale. Old 1024px scenes used128px coarse RGB; new512px scenes use64px. New size-aware adapter required; old 8x8 runner is not executed unchanged.",
+    "detector": "Same ChangeOS checkpoint, code and severe-declaration/degradation rules already frozen in v2. No fine-tuning.",
+    "enabled_now": false,
+    "execution_device": "Local CPU/MPS first; no paid GPU or controller training.",
+    "free_coarse_rgb_pixels": [
+      64,
+      64
+    ],
+    "grid": [
+      4,
+      4
+    ],
+    "matching": "Preserve raster_visibility_v2: at least4 pixels and primary10% visible footprint overlap; report5/10/25% sensitivity and merged/split association cases. This remains an engineering proxy, not standard instance AP.",
+    "measurement_outputs": [
+      "per-event reviewed and unknown building counts",
+      "per-event distinct severe targets and native/blurred opportunity counts",
+      "prediction component to human-instance association QA including merged/split buildings",
+      "target-free scene count, false positives and unscorable scenes",
+      "event-wise fixed source bin predicted vs observed discovery and conditional upgrade statistics"
+    ],
+    "modes": [
+      "native",
+      "blurred"
+    ],
+    "scene_pixels": [
+      512,
+      512
+    ],
+    "sensor_native_and_blurred_observations_max": 576,
+    "stopping": "If gold cannot distinguish instances or association proxy is invalid, stop before policy scoring and revise measurement prospectively. If any event has no detectable severe target, retain it and report that a three-event positive-search claim is unsupported; no target-enrichment sampling."
+  },
+  "stage_d_future_descriptive_policy_replay": {
+    "adaptation_boundary": "No target-label calibration or method tuning on these scores. Any later trusted online label/oracle action needs explicit cost and a new protocol; paid detector feedback is not ground truth.",
+    "baselines": [
+      "uniform random survey",
+      "raw RGB change survey",
+      "raw RGB change negative-upgrade gate",
+      "frozen source count survey",
+      "frozen source count negative upgrade",
+      "serial one stage",
+      "serial two stage MF-ENS-inspired cost adaptation"
+    ],
+    "comparison": "Compare policies only within the new512px/4x4/budget8 protocol. Absolute counts cannot be compared with old1024px/8x8/budget32 as improvement.",
+    "enabled_now": false,
+    "online_boundary": "Only free coarse RGB features, frozen source aggregate statistics and paid local boolean feedback enter policy. Human IDs, labels, target counts, future quality and evaluation associations stay evaluator-only.",
+    "primary": {
+      "budget": 8,
+      "coverage_threshold": 0.1,
+      "native_probability": 0.5,
+      "quality": "mixed_survey",
+      "survey_cost": 1,
+      "upgrade_cost": 2
+    },
+    "primary_reporting": "Average seeds within scene, scenes within event, then three events equally. Show every event and all zero-target scenes; target-free recall is null. Only three events: descriptive feasibility, not a powered efficacy result.",
+    "randomness": "Reuse quality seeds20261025..20261029 and random tie seeds20261030..20261039. Row/raw-change ties remain sensitivity checks; do not pick best tie on target scores.",
+    "requires": "Gold, provenance and measurement gates recorded in a separate execution receipt. No replay authorized by metadata success alone.",
+    "secondary": "Budgets4/16, costs1/4 and native/blurred sensitivity only under the same fixed cohort and no parameter selection.",
+    "source_model": "Use development_fit aggregate model in output/disaster_search_development72_budget_controls_v1/models.json unchanged. Do not select among held-event fits on target performance."
+  },
+  "status": "PROSPECTIVE_FEASIBILITY_ONLY_NO_EXECUTION_ADMISSION",
+  "tentative_cohort_sha256": "d2b23d17f9d458b650464e0e6b7038fc1c1859ae065f8738fc8514d25eb906e4"
+}

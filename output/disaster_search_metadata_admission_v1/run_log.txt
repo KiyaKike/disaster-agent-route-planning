@@ -1,0 +1,9 @@
+{"stage": "REPLAY_CACHED_GEOMETRY_ONLY", "geometric_models_planned": 7326}
+{"stage": "GEOMETRY_FIT_PROGRESS", "processed": 1000}
+{"stage": "GEOMETRY_FIT_PROGRESS", "processed": 2000}
+{"stage": "GEOMETRY_FIT_PROGRESS", "processed": 3000}
+{"stage": "GEOMETRY_FIT_PROGRESS", "processed": 4000}
+{"stage": "GEOMETRY_FIT_PROGRESS", "processed": 5000}
+{"stage": "GEOMETRY_FIT_PROGRESS", "processed": 6000}
+{"stage": "GEOMETRY_FIT_PROGRESS", "processed": 7000}
+{"stage": "OFFLINE_METADATA_ADMISSION_SCREEN_COMPLETE", "candidate_usable_inferred_ranges": 159, "candidate_unknown_inferred_ranges": 57, "training_usable_inferred_ranges": 3627, "network_bytes_received": 0, "metadata_compute_s": 3.2985236670065206}

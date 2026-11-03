@@ -1,0 +1,5333 @@
+{
+  "stage": "EXPLORATORY_CALIBRATION_FEEDBACK_SCOPE",
+  "protocol_sha256": "0369ec42a41bc55f730aa45d286493af284188fd7edea448c5d9cc5f3dc7bc33",
+  "runner_sha256": "5c5dbd87ee6ca71321ba7a40f62c1bd807cbbb0f851590479170eb5719fff719",
+  "summary": [
+    {
+      "relation": "same_bin",
+      "exclude_shared_target_uid": false,
+      "scenes": 24,
+      "ordered_pairs": 35976,
+      "shared_uid_pairs_excluded": 0,
+      "scenes_with_both_source_truth_classes": 13,
+      "equal_scene_conditional_difference": 0.06747358067631772,
+      "one_step_brier_delta": {
+        "blurred:negative": {
+          "equal_scene_mean": 9.42378269685132e-08,
+          "scenes": 24,
+          "scenes_helped": 16,
+          "scenes_harmed": 8,
+          "sources": 1493
+        },
+        "blurred:positive": {
+          "equal_scene_mean": -0.0002314907405899193,
+          "scenes": 8,
+          "scenes_helped": 4,
+          "scenes_harmed": 4,
+          "sources": 32
+        },
+        "native:negative": {
+          "equal_scene_mean": -0.0001568053840512949,
+          "scenes": 24,
+          "scenes_helped": 16,
+          "scenes_harmed": 8,
+          "sources": 1307
+        },
+        "native:positive": {
+          "equal_scene_mean": -0.006224924952221526,
+          "scenes": 15,
+          "scenes_helped": 7,
+          "scenes_harmed": 8,
+          "sources": 218
+        }
+      },
+      "by_event": {
+        "hurricane-harvey": {
+          "scenes": 12,
+          "ordered_pairs": 17512,
+          "shared_uid_pairs_excluded": 0,
+          "scenes_with_both_source_truth_classes": 5,
+          "equal_scene_conditional_difference": 0.052800674722947,
+          "one_step_brier_delta": {
+            "blurred:negative": {
+              "equal_scene_mean": -4.466125941750627e-06,
+              "scenes": 12,
+              "scenes_helped": 10,
+              "scenes_harmed": 2,
+              "sources": 743
+            },
+            "blurred:positive": {
+              "equal_scene_mean": -0.00022044197600290495,
+              "scenes": 4,
+              "scenes_helped": 2,
+              "scenes_harmed": 2,
+              "sources": 21
+            },
+            "native:negative": {
+              "equal_scene_mean": -0.0013556450017932875,
+              "scenes": 12,
+              "scenes_helped": 10,
+              "scenes_harmed": 2,
+              "sources": 690
+            },
+            "native:positive": {
+              "equal_scene_mean": 0.0015805418199494935,
+              "scenes": 7,
+              "scenes_helped": 2,
+              "scenes_harmed": 5,
+              "sources": 74
+            }
+          }
+        },
+        "santa-rosa-wildfire": {
+          "scenes": 12,
+          "ordered_pairs": 18464,
+          "shared_uid_pairs_excluded": 0,
+          "scenes_with_both_source_truth_classes": 8,
+          "equal_scene_conditional_difference": 0.07664414689717441,
+          "one_step_brier_delta": {
+            "blurred:negative": {
+              "equal_scene_mean": 4.654601595687654e-06,
+              "scenes": 12,
+              "scenes_helped": 6,
+              "scenes_harmed": 6,
+              "sources": 750
+            },
+            "blurred:positive": {
+              "equal_scene_mean": -0.00024253950517693368,
+              "scenes": 4,
+              "scenes_helped": 2,
+              "scenes_harmed": 2,
+              "sources": 11
+            },
+            "native:negative": {
+              "equal_scene_mean": 0.0010420342336906975,
+              "scenes": 12,
+              "scenes_helped": 6,
+              "scenes_harmed": 6,
+              "sources": 617
+            },
+            "native:positive": {
+              "equal_scene_mean": -0.013054708377871168,
+              "scenes": 8,
+              "scenes_helped": 5,
+              "scenes_harmed": 3,
+              "sources": 144
+            }
+          }
+        }
+      }
+    },
+    {
+      "relation": "same_bin",
+      "exclude_shared_target_uid": true,
+      "scenes": 24,
+      "ordered_pairs": 35798,
+      "shared_uid_pairs_excluded": 178,
+      "scenes_with_both_source_truth_classes": 13,
+      "equal_scene_conditional_difference": 0.046966936065204384,
+      "one_step_brier_delta": {
+        "blurred:negative": {
+          "equal_scene_mean": -8.600276344646149e-08,
+          "scenes": 24,
+          "scenes_helped": 16,
+          "scenes_harmed": 8,
+          "sources": 1493
+        },
+        "blurred:positive": {
+          "equal_scene_mean": -0.0001802925421527973,
+          "scenes": 8,
+          "scenes_helped": 4,
+          "scenes_harmed": 4,
+          "sources": 32
+        },
+        "native:negative": {
+          "equal_scene_mean": -0.00016891214112230737,
+          "scenes": 24,
+          "scenes_helped": 16,
+          "scenes_harmed": 8,
+          "sources": 1307
+        },
+        "native:positive": {
+          "equal_scene_mean": -0.004898108502395284,
+          "scenes": 15,
+          "scenes_helped": 7,
+          "scenes_harmed": 8,
+          "sources": 218
+        }
+      },
+      "by_event": {
+        "hurricane-harvey": {
+          "scenes": 12,
+          "ordered_pairs": 17428,
+          "shared_uid_pairs_excluded": 84,
+          "scenes_with_both_source_truth_classes": 5,
+          "equal_scene_conditional_difference": 0.03115155884832704,
+          "one_step_brier_delta": {
+            "blurred:negative": {
+              "equal_scene_mean": -4.61422472450288e-06,
+              "scenes": 12,
+              "scenes_helped": 10,
+              "scenes_harmed": 2,
+              "sources": 743
+            },
+            "blurred:positive": {
+              "equal_scene_mean": -0.00015024275606267826,
+              "scenes": 4,
+              "scenes_helped": 2,
+              "scenes_harmed": 2,
+              "sources": 21
+            },
+            "native:negative": {
+              "equal_scene_mean": -0.0013710227662925574,
+              "scenes": 12,
+              "scenes_helped": 10,
+              "scenes_harmed": 2,
+              "sources": 690
+            },
+            "native:positive": {
+              "equal_scene_mean": 0.002637708823811788,
+              "scenes": 7,
+              "scenes_helped": 2,
+              "scenes_harmed": 5,
+              "sources": 74
+            }
+          }
+        },
+        "santa-rosa-wildfire": {
+          "scenes": 12,
+          "ordered_pairs": 18370,
+          "shared_uid_pairs_excluded": 94,
+          "scenes_with_both_source_truth_classes": 8,
+          "equal_scene_conditional_difference": 0.056851546825752726,
+          "one_step_brier_delta": {
+            "blurred:negative": {
+              "equal_scene_mean": 4.442219197609957e-06,
+              "scenes": 12,
+              "scenes_helped": 6,
+              "scenes_harmed": 6,
+              "sources": 750
+            },
+            "blurred:positive": {
+              "equal_scene_mean": -0.00021034232824291635,
+              "scenes": 4,
+              "scenes_helped": 2,
+              "scenes_harmed": 2,
+              "sources": 11
+            },
+            "native:negative": {
+              "equal_scene_mean": 0.0010331984840479427,
+              "scenes": 12,
+              "scenes_helped": 6,
+              "scenes_harmed": 6,
+              "sources": 617
+            },
+            "native:positive": {
+              "equal_scene_mean": -0.011491948662826473,
+              "scenes": 8,
+              "scenes_helped": 5,
+              "scenes_harmed": 3,
+              "sources": 144
+            }
+          }
+        }
+      }
+    },
+    {
+      "relation": "neighbors",
+      "exclude_shared_target_uid": false,
+      "scenes": 24,
+      "ordered_pairs": 10020,
+      "shared_uid_pairs_excluded": 0,
+      "scenes_with_both_source_truth_classes": 13,
+      "equal_scene_conditional_difference": 0.3088215179680964,
+      "one_step_brier_delta": {
+        "blurred:negative": {
+          "equal_scene_mean": -1.2357605092612647e-07,
+          "scenes": 24,
+          "scenes_helped": 16,
+          "scenes_harmed": 8,
+          "sources": 1498
+        },
+        "blurred:positive": {
+          "equal_scene_mean": -0.0007016455149478962,
+          "scenes": 8,
+          "scenes_helped": 8,
+          "scenes_harmed": 0,
+          "sources": 32
+        },
+        "native:negative": {
+          "equal_scene_mean": -0.0005719688865641247,
+          "scenes": 24,
+          "scenes_helped": 17,
+          "scenes_harmed": 7,
+          "sources": 1312
+        },
+        "native:positive": {
+          "equal_scene_mean": -0.01790529182315495,
+          "scenes": 15,
+          "scenes_helped": 13,
+          "scenes_harmed": 2,
+          "sources": 218
+        }
+      },
+      "by_event": {
+        "hurricane-harvey": {
+          "scenes": 12,
+          "ordered_pairs": 5026,
+          "shared_uid_pairs_excluded": 0,
+          "scenes_with_both_source_truth_classes": 5,
+          "equal_scene_conditional_difference": 0.39894902509012015,
+          "one_step_brier_delta": {
+            "blurred:negative": {
+              "equal_scene_mean": -4.616983726548183e-06,
+              "scenes": 12,
+              "scenes_helped": 10,
+              "scenes_harmed": 2,
+              "sources": 745
+            },
+            "blurred:positive": {
+              "equal_scene_mean": -0.0007593980476787656,
+              "scenes": 4,
+              "scenes_helped": 4,
+              "scenes_harmed": 0,
+              "sources": 21
+            },
+            "native:negative": {
+              "equal_scene_mean": -0.0016883799362369006,
+              "scenes": 12,
+              "scenes_helped": 10,
+              "scenes_harmed": 2,
+              "sources": 692
+            },
+            "native:positive": {
+              "equal_scene_mean": -0.011295466704901263,
+              "scenes": 7,
+              "scenes_helped": 5,
+              "scenes_harmed": 2,
+              "sources": 74
+            }
+          }
+        },
+        "santa-rosa-wildfire": {
+          "scenes": 12,
+          "ordered_pairs": 4994,
+          "shared_uid_pairs_excluded": 0,
+          "scenes_with_both_source_truth_classes": 8,
+          "equal_scene_conditional_difference": 0.2524918260168316,
+          "one_step_brier_delta": {
+            "blurred:negative": {
+              "equal_scene_mean": 4.36983162469593e-06,
+              "scenes": 12,
+              "scenes_helped": 6,
+              "scenes_harmed": 6,
+              "sources": 753
+            },
+            "blurred:positive": {
+              "equal_scene_mean": -0.0006438929822170268,
+              "scenes": 4,
+              "scenes_helped": 4,
+              "scenes_harmed": 0,
+              "sources": 11
+            },
+            "native:negative": {
+              "equal_scene_mean": 0.0005444421631086511,
+              "scenes": 12,
+              "scenes_helped": 7,
+              "scenes_harmed": 5,
+              "sources": 620
+            },
+            "native:positive": {
+              "equal_scene_mean": -0.02368888880162693,
+              "scenes": 8,
+              "scenes_helped": 8,
+              "scenes_harmed": 0,
+              "sources": 144
+            }
+          }
+        }
+      }
+    },
+    {
+      "relation": "neighbors",
+      "exclude_shared_target_uid": true,
+      "scenes": 24,
+      "ordered_pairs": 9554,
+      "shared_uid_pairs_excluded": 466,
+      "scenes_with_both_source_truth_classes": 13,
+      "equal_scene_conditional_difference": 0.1656395369938189,
+      "one_step_brier_delta": {
+        "blurred:negative": {
+          "equal_scene_mean": -1.1793511499335726e-06,
+          "scenes": 24,
+          "scenes_helped": 17,
+          "scenes_harmed": 7,
+          "sources": 1491
+        },
+        "blurred:positive": {
+          "equal_scene_mean": -0.00040292005116517764,
+          "scenes": 8,
+          "scenes_helped": 5,
+          "scenes_harmed": 3,
+          "sources": 32
+        },
+        "native:negative": {
+          "equal_scene_mean": -0.0006616446532643942,
+          "scenes": 24,
+          "scenes_helped": 17,
+          "scenes_harmed": 7,
+          "sources": 1310
+        },
+        "native:positive": {
+          "equal_scene_mean": -0.009860597917199138,
+          "scenes": 15,
+          "scenes_helped": 9,
+          "scenes_harmed": 6,
+          "sources": 213
+        }
+      },
+      "by_event": {
+        "hurricane-harvey": {
+          "scenes": 12,
+          "ordered_pairs": 4834,
+          "shared_uid_pairs_excluded": 192,
+          "scenes_with_both_source_truth_classes": 5,
+          "equal_scene_conditional_difference": 0.2828547399714448,
+          "one_step_brier_delta": {
+            "blurred:negative": {
+              "equal_scene_mean": -5.21959553246594e-06,
+              "scenes": 12,
+              "scenes_helped": 10,
+              "scenes_harmed": 2,
+              "sources": 741
+            },
+            "blurred:positive": {
+              "equal_scene_mean": -0.0004590792636778472,
+              "scenes": 4,
+              "scenes_helped": 3,
+              "scenes_harmed": 1,
+              "sources": 21
+            },
+            "native:negative": {
+              "equal_scene_mean": -0.0018016042653980716,
+              "scenes": 12,
+              "scenes_helped": 10,
+              "scenes_harmed": 2,
+              "sources": 690
+            },
+            "native:positive": {
+              "equal_scene_mean": -0.006737879056761854,
+              "scenes": 7,
+              "scenes_helped": 3,
+              "scenes_harmed": 4,
+              "sources": 72
+            }
+          }
+        },
+        "santa-rosa-wildfire": {
+          "scenes": 12,
+          "ordered_pairs": 4720,
+          "shared_uid_pairs_excluded": 274,
+          "scenes_with_both_source_truth_classes": 8,
+          "equal_scene_conditional_difference": 0.09238003513280273,
+          "one_step_brier_delta": {
+            "blurred:negative": {
+              "equal_scene_mean": 2.8608932325987956e-06,
+              "scenes": 12,
+              "scenes_helped": 7,
+              "scenes_harmed": 5,
+              "sources": 750
+            },
+            "blurred:positive": {
+              "equal_scene_mean": -0.0003467608386525081,
+              "scenes": 4,
+              "scenes_helped": 2,
+              "scenes_harmed": 2,
+              "sources": 11
+            },
+            "native:negative": {
+              "equal_scene_mean": 0.00047831495886928326,
+              "scenes": 12,
+              "scenes_helped": 7,
+              "scenes_harmed": 5,
+              "sources": 620
+            },
+            "native:positive": {
+              "equal_scene_mean": -0.012592976920081761,
+              "scenes": 8,
+              "scenes_helped": 6,
+              "scenes_harmed": 2,
+              "sources": 141
+            }
+          }
+        }
+      }
+    },
+    {
+      "relation": "neighbors_same_bin",
+      "exclude_shared_target_uid": false,
+      "scenes": 24,
+      "ordered_pairs": 4732,
+      "shared_uid_pairs_excluded": 0,
+      "scenes_with_both_source_truth_classes": 13,
+      "equal_scene_conditional_difference": 0.33786808108920163,
+      "one_step_brier_delta": {
+        "blurred:negative": {
+          "equal_scene_mean": -2.341129550777941e-07,
+          "scenes": 24,
+          "scenes_helped": 16,
+          "scenes_harmed": 8,
+          "sources": 1375
+        },
+        "blurred:positive": {
+          "equal_scene_mean": -0.0008219773192882745,
+          "scenes": 7,
+          "scenes_helped": 7,
+          "scenes_harmed": 0,
+          "sources": 29
+        },
+        "native:negative": {
+          "equal_scene_mean": -0.000669111418849205,
+          "scenes": 24,
+          "scenes_helped": 18,
+          "scenes_harmed": 6,
+          "sources": 1212
+        },
+        "native:positive": {
+          "equal_scene_mean": -0.017067714347830856,
+          "scenes": 15,
+          "scenes_helped": 11,
+          "scenes_harmed": 4,
+          "sources": 192
+        }
+      },
+      "by_event": {
+        "hurricane-harvey": {
+          "scenes": 12,
+          "ordered_pairs": 2320,
+          "shared_uid_pairs_excluded": 0,
+          "scenes_with_both_source_truth_classes": 5,
+          "equal_scene_conditional_difference": 0.4295840576639218,
+          "one_step_brier_delta": {
+            "blurred:negative": {
+              "equal_scene_mean": -5.299232569505164e-06,
+              "scenes": 12,
+              "scenes_helped": 10,
+              "scenes_harmed": 2,
+              "sources": 693
+            },
+            "blurred:positive": {
+              "equal_scene_mean": -0.0008866795859873327,
+              "scenes": 4,
+              "scenes_helped": 4,
+              "scenes_harmed": 0,
+              "sources": 20
+            },
+            "native:negative": {
+              "equal_scene_mean": -0.001885197395095789,
+              "scenes": 12,
+              "scenes_helped": 10,
+              "scenes_harmed": 2,
+              "sources": 648
+            },
+            "native:positive": {
+              "equal_scene_mean": -0.00872424648653184,
+              "scenes": 7,
+              "scenes_helped": 4,
+              "scenes_harmed": 3,
+              "sources": 65
+            }
+          }
+        },
+        "santa-rosa-wildfire": {
+          "scenes": 12,
+          "ordered_pairs": 2412,
+          "shared_uid_pairs_excluded": 0,
+          "scenes_with_both_source_truth_classes": 8,
+          "equal_scene_conditional_difference": 0.2805455957300015,
+          "one_step_brier_delta": {
+            "blurred:negative": {
+              "equal_scene_mean": 4.831006659349576e-06,
+              "scenes": 12,
+              "scenes_helped": 6,
+              "scenes_harmed": 6,
+              "sources": 682
+            },
+            "blurred:positive": {
+              "equal_scene_mean": -0.0007357076303561971,
+              "scenes": 3,
+              "scenes_helped": 3,
+              "scenes_harmed": 0,
+              "sources": 9
+            },
+            "native:negative": {
+              "equal_scene_mean": 0.0005469745573973788,
+              "scenes": 12,
+              "scenes_helped": 8,
+              "scenes_harmed": 4,
+              "sources": 564
+            },
+            "native:positive": {
+              "equal_scene_mean": -0.024368248726467496,
+              "scenes": 8,
+              "scenes_helped": 7,
+              "scenes_harmed": 1,
+              "sources": 127
+            }
+          }
+        }
+      }
+    },
+    {
+      "relation": "neighbors_same_bin",
+      "exclude_shared_target_uid": true,
+      "scenes": 24,
+      "ordered_pairs": 4554,
+      "shared_uid_pairs_excluded": 178,
+      "scenes_with_both_source_truth_classes": 13,
+      "equal_scene_conditional_difference": 0.21746098339643397,
+      "one_step_brier_delta": {
+        "blurred:negative": {
+          "equal_scene_mean": -1.3085657464731065e-06,
+          "scenes": 24,
+          "scenes_helped": 17,
+          "scenes_harmed": 7,
+          "sources": 1354
+        },
+        "blurred:positive": {
+          "equal_scene_mean": -0.0005093575799740111,
+          "scenes": 7,
+          "scenes_helped": 5,
+          "scenes_harmed": 2,
+          "sources": 21
+        },
+        "native:negative": {
+          "equal_scene_mean": -0.0007432627722221915,
+          "scenes": 24,
+          "scenes_helped": 19,
+          "scenes_harmed": 5,
+          "sources": 1208
+        },
+        "native:positive": {
+          "equal_scene_mean": -0.01001366870571305,
+          "scenes": 15,
+          "scenes_helped": 9,
+          "scenes_harmed": 6,
+          "sources": 167
+        }
+      },
+      "by_event": {
+        "hurricane-harvey": {
+          "scenes": 12,
+          "ordered_pairs": 2236,
+          "shared_uid_pairs_excluded": 84,
+          "scenes_with_both_source_truth_classes": 5,
+          "equal_scene_conditional_difference": 0.2969757479628702,
+          "one_step_brier_delta": {
+            "blurred:negative": {
+              "equal_scene_mean": -6.090406680277561e-06,
+              "scenes": 12,
+              "scenes_helped": 10,
+              "scenes_harmed": 2,
+              "sources": 685
+            },
+            "blurred:positive": {
+              "equal_scene_mean": -0.0006031840154113688,
+              "scenes": 4,
+              "scenes_helped": 3,
+              "scenes_harmed": 1,
+              "sources": 12
+            },
+            "native:negative": {
+              "equal_scene_mean": -0.0019935889335221772,
+              "scenes": 12,
+              "scenes_helped": 11,
+              "scenes_harmed": 1,
+              "sources": 645
+            },
+            "native:positive": {
+              "equal_scene_mean": -0.0033169334331817403,
+              "scenes": 7,
+              "scenes_helped": 3,
+              "scenes_harmed": 4,
+              "sources": 52
+            }
+          }
+        },
+        "santa-rosa-wildfire": {
+          "scenes": 12,
+          "ordered_pairs": 2318,
+          "shared_uid_pairs_excluded": 94,
+          "scenes_with_both_source_truth_classes": 8,
+          "equal_scene_conditional_difference": 0.1677642555424113,
+          "one_step_brier_delta": {
+            "blurred:negative": {
+              "equal_scene_mean": 3.4732751873313476e-06,
+              "scenes": 12,
+              "scenes_helped": 7,
+              "scenes_harmed": 5,
+              "sources": 669
+            },
+            "blurred:positive": {
+              "equal_scene_mean": -0.0003842556660575342,
+              "scenes": 3,
+              "scenes_helped": 2,
+              "scenes_harmed": 1,
+              "sources": 9
+            },
+            "native:negative": {
+              "equal_scene_mean": 0.0005070633890777943,
+              "scenes": 12,
+              "scenes_helped": 8,
+              "scenes_harmed": 4,
+              "sources": 563
+            },
+            "native:positive": {
+              "equal_scene_mean": -0.01587331206917795,
+              "scenes": 8,
+              "scenes_helped": 6,
+              "scenes_harmed": 2,
+              "sources": 115
+            }
+          }
+        }
+      }
+    },
+    {
+      "relation": "far_same_bin",
+      "exclude_shared_target_uid": false,
+      "scenes": 24,
+      "ordered_pairs": 31244,
+      "shared_uid_pairs_excluded": 0,
+      "scenes_with_both_source_truth_classes": 13,
+      "equal_scene_conditional_difference": 0.01744426912144343,
+      "one_step_brier_delta": {
+        "blurred:negative": {
+          "equal_scene_mean": 1.021013248433787e-07,
+          "scenes": 24,
+          "scenes_helped": 16,
+          "scenes_harmed": 8,
+          "sources": 1492
+        },
+        "blurred:positive": {
+          "equal_scene_mean": -0.00014170586849636077,
+          "scenes": 8,
+          "scenes_helped": 4,
+          "scenes_harmed": 4,
+          "sources": 32
+        },
+        "native:negative": {
+          "equal_scene_mean": -6.66229824643515e-05,
+          "scenes": 24,
+          "scenes_helped": 16,
+          "scenes_harmed": 8,
+          "sources": 1306
+        },
+        "native:positive": {
+          "equal_scene_mean": -0.0037521336998195,
+          "scenes": 15,
+          "scenes_helped": 7,
+          "scenes_harmed": 8,
+          "sources": 218
+        }
+      },
+      "by_event": {
+        "hurricane-harvey": {
+          "scenes": 12,
+          "ordered_pairs": 15192,
+          "shared_uid_pairs_excluded": 0,
+          "scenes_with_both_source_truth_classes": 5,
+          "equal_scene_conditional_difference": -0.004772300542606317,
+          "one_step_brier_delta": {
+            "blurred:negative": {
+              "equal_scene_mean": -4.390833830526305e-06,
+              "scenes": 12,
+              "scenes_helped": 10,
+              "scenes_harmed": 2,
+              "sources": 743
+            },
+            "blurred:positive": {
+              "equal_scene_mean": -9.50636639871702e-05,
+              "scenes": 4,
+              "scenes_helped": 2,
+              "scenes_harmed": 2,
+              "sources": 21
+            },
+            "native:negative": {
+              "equal_scene_mean": -0.0012605696378728513,
+              "scenes": 12,
+              "scenes_helped": 10,
+              "scenes_harmed": 2,
+              "sources": 690
+            },
+            "native:positive": {
+              "equal_scene_mean": 0.003634697247748636,
+              "scenes": 7,
+              "scenes_helped": 2,
+              "scenes_harmed": 5,
+              "sources": 74
+            }
+          }
+        },
+        "santa-rosa-wildfire": {
+          "scenes": 12,
+          "ordered_pairs": 16052,
+          "shared_uid_pairs_excluded": 0,
+          "scenes_with_both_source_truth_classes": 8,
+          "equal_scene_conditional_difference": 0.03132962516147452,
+          "one_step_brier_delta": {
+            "blurred:negative": {
+              "equal_scene_mean": 4.595036480213063e-06,
+              "scenes": 12,
+              "scenes_helped": 6,
+              "scenes_harmed": 6,
+              "sources": 749
+            },
+            "blurred:positive": {
+              "equal_scene_mean": -0.00018834807300555136,
+              "scenes": 4,
+              "scenes_helped": 2,
+              "scenes_harmed": 2,
+              "sources": 11
+            },
+            "native:negative": {
+              "equal_scene_mean": 0.0011273236729441483,
+              "scenes": 12,
+              "scenes_helped": 6,
+              "scenes_harmed": 6,
+              "sources": 616
+            },
+            "native:positive": {
+              "equal_scene_mean": -0.01021561077894162,
+              "scenes": 8,
+              "scenes_helped": 5,
+              "scenes_harmed": 3,
+              "sources": 144
+            }
+          }
+        }
+      }
+    },
+    {
+      "relation": "far_same_bin",
+      "exclude_shared_target_uid": true,
+      "scenes": 24,
+      "ordered_pairs": 31244,
+      "shared_uid_pairs_excluded": 0,
+      "scenes_with_both_source_truth_classes": 13,
+      "equal_scene_conditional_difference": 0.01744426912144343,
+      "one_step_brier_delta": {
+        "blurred:negative": {
+          "equal_scene_mean": 1.021013248433787e-07,
+          "scenes": 24,
+          "scenes_helped": 16,
+          "scenes_harmed": 8,
+          "sources": 1492
+        },
+        "blurred:positive": {
+          "equal_scene_mean": -0.00014170586849636077,
+          "scenes": 8,
+          "scenes_helped": 4,
+          "scenes_harmed": 4,
+          "sources": 32
+        },
+        "native:negative": {
+          "equal_scene_mean": -6.66229824643515e-05,
+          "scenes": 24,
+          "scenes_helped": 16,
+          "scenes_harmed": 8,
+          "sources": 1306
+        },
+        "native:positive": {
+          "equal_scene_mean": -0.0037521336998195,
+          "scenes": 15,
+          "scenes_helped": 7,
+          "scenes_harmed": 8,
+          "sources": 218
+        }
+      },
+      "by_event": {
+        "hurricane-harvey": {
+          "scenes": 12,
+          "ordered_pairs": 15192,
+          "shared_uid_pairs_excluded": 0,
+          "scenes_with_both_source_truth_classes": 5,
+          "equal_scene_conditional_difference": -0.004772300542606317,
+          "one_step_brier_delta": {
+            "blurred:negative": {
+              "equal_scene_mean": -4.390833830526305e-06,
+              "scenes": 12,
+              "scenes_helped": 10,
+              "scenes_harmed": 2,
+              "sources": 743
+            },
+            "blurred:positive": {
+              "equal_scene_mean": -9.50636639871702e-05,
+              "scenes": 4,
+              "scenes_helped": 2,
+              "scenes_harmed": 2,
+              "sources": 21
+            },
+            "native:negative": {
+              "equal_scene_mean": -0.0012605696378728513,
+              "scenes": 12,
+              "scenes_helped": 10,
+              "scenes_harmed": 2,
+              "sources": 690
+            },
+            "native:positive": {
+              "equal_scene_mean": 0.003634697247748636,
+              "scenes": 7,
+              "scenes_helped": 2,
+              "scenes_harmed": 5,
+              "sources": 74
+            }
+          }
+        },
+        "santa-rosa-wildfire": {
+          "scenes": 12,
+          "ordered_pairs": 16052,
+          "shared_uid_pairs_excluded": 0,
+          "scenes_with_both_source_truth_classes": 8,
+          "equal_scene_conditional_difference": 0.03132962516147452,
+          "one_step_brier_delta": {
+            "blurred:negative": {
+              "equal_scene_mean": 4.595036480213063e-06,
+              "scenes": 12,
+              "scenes_helped": 6,
+              "scenes_harmed": 6,
+              "sources": 749
+            },
+            "blurred:positive": {
+              "equal_scene_mean": -0.00018834807300555136,
+              "scenes": 4,
+              "scenes_helped": 2,
+              "scenes_harmed": 2,
+              "sources": 11
+            },
+            "native:negative": {
+              "equal_scene_mean": 0.0011273236729441483,
+              "scenes": 12,
+              "scenes_helped": 6,
+              "scenes_harmed": 6,
+              "sources": 616
+            },
+            "native:positive": {
+              "equal_scene_mean": -0.01021561077894162,
+              "scenes": 8,
+              "scenes_helped": 5,
+              "scenes_harmed": 3,
+              "sources": 144
+            }
+          }
+        }
+      }
+    }
+  ],
+  "scene_diagnostics": [
+    {
+      "sample_id": "hurricane-harvey_00000008",
+      "event": "hurricane-harvey",
+      "relation": "same_bin",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 1830,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 61,
+      "one_step_brier_delta": {
+        "native:negative": -0.004177227566149039,
+        "blurred:negative": -1.5167954321336792e-05,
+        "native:positive": 0.021731878092365264
+      },
+      "one_step_source_counts": {
+        "native:negative": 60,
+        "blurred:negative": 61,
+        "native:positive": 1
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000008",
+      "event": "hurricane-harvey",
+      "relation": "same_bin",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 1830,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 61,
+      "one_step_brier_delta": {
+        "native:negative": -0.004177227566149039,
+        "blurred:negative": -1.5167954321336792e-05,
+        "native:positive": 0.021731878092365264
+      },
+      "one_step_source_counts": {
+        "native:negative": 60,
+        "blurred:negative": 61,
+        "native:positive": 1
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000008",
+      "event": "hurricane-harvey",
+      "relation": "neighbors",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 406,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 62,
+      "one_step_brier_delta": {
+        "native:negative": -0.004059641015212884,
+        "blurred:negative": -1.4772865036043506e-05,
+        "native:positive": 0.021926326416186068
+      },
+      "one_step_source_counts": {
+        "native:negative": 61,
+        "blurred:negative": 62,
+        "native:positive": 1
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000008",
+      "event": "hurricane-harvey",
+      "relation": "neighbors",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 406,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 62,
+      "one_step_brier_delta": {
+        "native:negative": -0.004059641015212884,
+        "blurred:negative": -1.4772865036043506e-05,
+        "native:positive": 0.021926326416186068
+      },
+      "one_step_source_counts": {
+        "native:negative": 61,
+        "blurred:negative": 62,
+        "native:positive": 1
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000008",
+      "event": "hurricane-harvey",
+      "relation": "neighbors_same_bin",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 220,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 58,
+      "one_step_brier_delta": {
+        "native:negative": -0.004225344468791323,
+        "blurred:negative": -1.5334882983091326e-05,
+        "native:positive": 0.021731878092365264
+      },
+      "one_step_source_counts": {
+        "native:negative": 57,
+        "blurred:negative": 58,
+        "native:positive": 1
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000008",
+      "event": "hurricane-harvey",
+      "relation": "neighbors_same_bin",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 220,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 58,
+      "one_step_brier_delta": {
+        "native:negative": -0.004225344468791323,
+        "blurred:negative": -1.5334882983091326e-05,
+        "native:positive": 0.021731878092365264
+      },
+      "one_step_source_counts": {
+        "native:negative": 57,
+        "blurred:negative": 58,
+        "native:positive": 1
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000008",
+      "event": "hurricane-harvey",
+      "relation": "far_same_bin",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 1610,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 61,
+      "one_step_brier_delta": {
+        "native:negative": -0.004177227566149039,
+        "blurred:negative": -1.5167954321336792e-05,
+        "native:positive": 0.021731878092365264
+      },
+      "one_step_source_counts": {
+        "native:negative": 60,
+        "blurred:negative": 61,
+        "native:positive": 1
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000008",
+      "event": "hurricane-harvey",
+      "relation": "far_same_bin",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 1610,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 61,
+      "one_step_brier_delta": {
+        "native:negative": -0.004177227566149039,
+        "blurred:negative": -1.5167954321336792e-05,
+        "native:positive": 0.021731878092365264
+      },
+      "one_step_source_counts": {
+        "native:negative": 60,
+        "blurred:negative": 61,
+        "native:positive": 1
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000066",
+      "event": "hurricane-harvey",
+      "relation": "same_bin",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 1176,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": 0.03508771929824561,
+      "candidate_rate_given_negative_source_truth": 0.04745470232959448,
+      "within_scene_conditional_difference": -0.012366983031348866,
+      "eligible_positive_truth_sources": 3,
+      "eligible_negative_truth_sources": 61,
+      "one_step_brier_delta": {
+        "native:negative": -0.0013113260816023176,
+        "blurred:negative": -4.888513267358552e-06,
+        "native:positive": 0.01213624133750703,
+        "blurred:positive": 0.0003949710136151585
+      },
+      "one_step_source_counts": {
+        "native:negative": 61,
+        "blurred:negative": 63,
+        "native:positive": 3,
+        "blurred:positive": 1
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000066",
+      "event": "hurricane-harvey",
+      "relation": "same_bin",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 1176,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": 0.03508771929824561,
+      "candidate_rate_given_negative_source_truth": 0.04745470232959448,
+      "within_scene_conditional_difference": -0.012366983031348866,
+      "eligible_positive_truth_sources": 3,
+      "eligible_negative_truth_sources": 61,
+      "one_step_brier_delta": {
+        "native:negative": -0.0013113260816023176,
+        "blurred:negative": -4.888513267358552e-06,
+        "native:positive": 0.01213624133750703,
+        "blurred:positive": 0.0003949710136151585
+      },
+      "one_step_source_counts": {
+        "native:negative": 61,
+        "blurred:negative": 63,
+        "native:positive": 3,
+        "blurred:positive": 1
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000066",
+      "event": "hurricane-harvey",
+      "relation": "neighbors",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 420,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": 0.26666666666666666,
+      "candidate_rate_given_negative_source_truth": 0.025,
+      "within_scene_conditional_difference": 0.24166666666666667,
+      "eligible_positive_truth_sources": 3,
+      "eligible_negative_truth_sources": 61,
+      "one_step_brier_delta": {
+        "native:negative": -0.001513204127269584,
+        "blurred:negative": -5.475563169713262e-06,
+        "native:positive": -0.0009614555016845272,
+        "blurred:positive": -0.0004301479662557339
+      },
+      "one_step_source_counts": {
+        "native:negative": 61,
+        "blurred:negative": 63,
+        "native:positive": 3,
+        "blurred:positive": 1
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000066",
+      "event": "hurricane-harvey",
+      "relation": "neighbors",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 418,
+      "shared_uid_pairs_excluded": 2,
+      "candidate_rate_given_positive_source_truth": 0.15,
+      "candidate_rate_given_negative_source_truth": 0.025,
+      "within_scene_conditional_difference": 0.125,
+      "eligible_positive_truth_sources": 3,
+      "eligible_negative_truth_sources": 61,
+      "one_step_brier_delta": {
+        "native:negative": -0.0015497359977176943,
+        "blurred:negative": -5.608859408677965e-06,
+        "native:positive": 0.0022991908595344965,
+        "blurred:positive": -0.00018574721313888154
+      },
+      "one_step_source_counts": {
+        "native:negative": 61,
+        "blurred:negative": 63,
+        "native:positive": 3,
+        "blurred:positive": 1
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000066",
+      "event": "hurricane-harvey",
+      "relation": "neighbors_same_bin",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 236,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": 0.26666666666666666,
+      "candidate_rate_given_negative_source_truth": 0.019128329297820823,
+      "within_scene_conditional_difference": 0.24753833736884584,
+      "eligible_positive_truth_sources": 2,
+      "eligible_negative_truth_sources": 59,
+      "one_step_brier_delta": {
+        "native:negative": -0.0017588579976362644,
+        "blurred:negative": -6.281512214433291e-06,
+        "native:positive": -0.0007412546501628586,
+        "blurred:positive": -0.0002604254549799512
+      },
+      "one_step_source_counts": {
+        "native:negative": 58,
+        "blurred:negative": 60,
+        "native:positive": 3,
+        "blurred:positive": 1
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000066",
+      "event": "hurricane-harvey",
+      "relation": "neighbors_same_bin",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 236,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": 0.26666666666666666,
+      "candidate_rate_given_negative_source_truth": 0.019128329297820823,
+      "within_scene_conditional_difference": 0.24753833736884584,
+      "eligible_positive_truth_sources": 2,
+      "eligible_negative_truth_sources": 59,
+      "one_step_brier_delta": {
+        "native:negative": -0.0017588579976362644,
+        "blurred:negative": -6.281512214433291e-06,
+        "native:positive": -0.0007412546501628586,
+        "blurred:positive": -0.0002604254549799512
+      },
+      "one_step_source_counts": {
+        "native:negative": 58,
+        "blurred:negative": 60,
+        "native:positive": 3,
+        "blurred:positive": 1
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000066",
+      "event": "hurricane-harvey",
+      "relation": "far_same_bin",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 940,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": 0,
+      "candidate_rate_given_negative_source_truth": 0.0527165858891992,
+      "within_scene_conditional_difference": -0.0527165858891992,
+      "eligible_positive_truth_sources": 3,
+      "eligible_negative_truth_sources": 61,
+      "one_step_brier_delta": {
+        "native:negative": -0.0012455502887716414,
+        "blurred:negative": -4.7145607878866875e-06,
+        "native:positive": 0.015302838711524207,
+        "blurred:positive": 0.0005178578514767329
+      },
+      "one_step_source_counts": {
+        "native:negative": 61,
+        "blurred:negative": 63,
+        "native:positive": 3,
+        "blurred:positive": 1
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000066",
+      "event": "hurricane-harvey",
+      "relation": "far_same_bin",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 940,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": 0,
+      "candidate_rate_given_negative_source_truth": 0.0527165858891992,
+      "within_scene_conditional_difference": -0.0527165858891992,
+      "eligible_positive_truth_sources": 3,
+      "eligible_negative_truth_sources": 61,
+      "one_step_brier_delta": {
+        "native:negative": -0.0012455502887716414,
+        "blurred:negative": -4.7145607878866875e-06,
+        "native:positive": 0.015302838711524207,
+        "blurred:positive": 0.0005178578514767329
+      },
+      "one_step_source_counts": {
+        "native:negative": 61,
+        "blurred:negative": 63,
+        "native:positive": 3,
+        "blurred:positive": 1
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000085",
+      "event": "hurricane-harvey",
+      "relation": "same_bin",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 1062,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 64,
+      "one_step_brier_delta": {
+        "native:negative": -0.0024780279886856996,
+        "blurred:negative": -9.037439591338118e-06
+      },
+      "one_step_source_counts": {
+        "native:negative": 64,
+        "blurred:negative": 64
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000085",
+      "event": "hurricane-harvey",
+      "relation": "same_bin",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 1062,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 64,
+      "one_step_brier_delta": {
+        "native:negative": -0.0024780279886856996,
+        "blurred:negative": -9.037439591338118e-06
+      },
+      "one_step_source_counts": {
+        "native:negative": 64,
+        "blurred:negative": 64
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000085",
+      "event": "hurricane-harvey",
+      "relation": "neighbors",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 420,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 64,
+      "one_step_brier_delta": {
+        "native:negative": -0.002137585318838541,
+        "blurred:negative": -7.865295009152083e-06
+      },
+      "one_step_source_counts": {
+        "native:negative": 64,
+        "blurred:negative": 64
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000085",
+      "event": "hurricane-harvey",
+      "relation": "neighbors",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 420,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 64,
+      "one_step_brier_delta": {
+        "native:negative": -0.002137585318838541,
+        "blurred:negative": -7.865295009152083e-06
+      },
+      "one_step_source_counts": {
+        "native:negative": 64,
+        "blurred:negative": 64
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000085",
+      "event": "hurricane-harvey",
+      "relation": "neighbors_same_bin",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 178,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 59,
+      "one_step_brier_delta": {
+        "native:negative": -0.0025498060745310263,
+        "blurred:negative": -9.28655452182493e-06
+      },
+      "one_step_source_counts": {
+        "native:negative": 59,
+        "blurred:negative": 59
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000085",
+      "event": "hurricane-harvey",
+      "relation": "neighbors_same_bin",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 178,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 59,
+      "one_step_brier_delta": {
+        "native:negative": -0.0025498060745310263,
+        "blurred:negative": -9.28655452182493e-06
+      },
+      "one_step_source_counts": {
+        "native:negative": 59,
+        "blurred:negative": 59
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000085",
+      "event": "hurricane-harvey",
+      "relation": "far_same_bin",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 884,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 64,
+      "one_step_brier_delta": {
+        "native:negative": -0.0024780279886856996,
+        "blurred:negative": -9.037439591338118e-06
+      },
+      "one_step_source_counts": {
+        "native:negative": 64,
+        "blurred:negative": 64
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000085",
+      "event": "hurricane-harvey",
+      "relation": "far_same_bin",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 884,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 64,
+      "one_step_brier_delta": {
+        "native:negative": -0.0024780279886856996,
+        "blurred:negative": -9.037439591338118e-06
+      },
+      "one_step_source_counts": {
+        "native:negative": 64,
+        "blurred:negative": 64
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000098",
+      "event": "hurricane-harvey",
+      "relation": "same_bin",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 1186,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 64,
+      "one_step_brier_delta": {
+        "native:negative": -0.0026778945138886045,
+        "blurred:negative": -9.824472972461834e-06
+      },
+      "one_step_source_counts": {
+        "native:negative": 64,
+        "blurred:negative": 64
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000098",
+      "event": "hurricane-harvey",
+      "relation": "same_bin",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 1186,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 64,
+      "one_step_brier_delta": {
+        "native:negative": -0.0026778945138886045,
+        "blurred:negative": -9.824472972461834e-06
+      },
+      "one_step_source_counts": {
+        "native:negative": 64,
+        "blurred:negative": 64
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000098",
+      "event": "hurricane-harvey",
+      "relation": "neighbors",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 420,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 64,
+      "one_step_brier_delta": {
+        "native:negative": -0.0024064211839404295,
+        "blurred:negative": -8.915986688460067e-06
+      },
+      "one_step_source_counts": {
+        "native:negative": 64,
+        "blurred:negative": 64
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000098",
+      "event": "hurricane-harvey",
+      "relation": "neighbors",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 420,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 64,
+      "one_step_brier_delta": {
+        "native:negative": -0.0024064211839404295,
+        "blurred:negative": -8.915986688460067e-06
+      },
+      "one_step_source_counts": {
+        "native:negative": 64,
+        "blurred:negative": 64
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000098",
+      "event": "hurricane-harvey",
+      "relation": "neighbors_same_bin",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 166,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 61,
+      "one_step_brier_delta": {
+        "native:negative": -0.0027158602750515628,
+        "blurred:negative": -9.962553664703722e-06
+      },
+      "one_step_source_counts": {
+        "native:negative": 61,
+        "blurred:negative": 61
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000098",
+      "event": "hurricane-harvey",
+      "relation": "neighbors_same_bin",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 166,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 61,
+      "one_step_brier_delta": {
+        "native:negative": -0.0027158602750515628,
+        "blurred:negative": -9.962553664703722e-06
+      },
+      "one_step_source_counts": {
+        "native:negative": 61,
+        "blurred:negative": 61
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000098",
+      "event": "hurricane-harvey",
+      "relation": "far_same_bin",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 1020,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 64,
+      "one_step_brier_delta": {
+        "native:negative": -0.0026778945138886045,
+        "blurred:negative": -9.824472972461834e-06
+      },
+      "one_step_source_counts": {
+        "native:negative": 64,
+        "blurred:negative": 64
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000098",
+      "event": "hurricane-harvey",
+      "relation": "far_same_bin",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 1020,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 64,
+      "one_step_brier_delta": {
+        "native:negative": -0.0026778945138886045,
+        "blurred:negative": -9.824472972461834e-06
+      },
+      "one_step_source_counts": {
+        "native:negative": 64,
+        "blurred:negative": 64
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000158",
+      "event": "hurricane-harvey",
+      "relation": "same_bin",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 1790,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 64,
+      "one_step_brier_delta": {
+        "native:negative": -0.003710781601973416,
+        "blurred:negative": -1.357602157344261e-05,
+        "native:positive": 0.021865964620443806
+      },
+      "one_step_source_counts": {
+        "native:negative": 62,
+        "blurred:negative": 64,
+        "native:positive": 2
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000158",
+      "event": "hurricane-harvey",
+      "relation": "same_bin",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 1790,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 64,
+      "one_step_brier_delta": {
+        "native:negative": -0.003710781601973416,
+        "blurred:negative": -1.357602157344261e-05,
+        "native:positive": 0.021865964620443806
+      },
+      "one_step_source_counts": {
+        "native:negative": 62,
+        "blurred:negative": 64,
+        "native:positive": 2
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000158",
+      "event": "hurricane-harvey",
+      "relation": "neighbors",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 420,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 64,
+      "one_step_brier_delta": {
+        "native:negative": -0.0035817118126489156,
+        "blurred:negative": -1.3109609062522394e-05,
+        "native:positive": 0.01904210749237456
+      },
+      "one_step_source_counts": {
+        "native:negative": 62,
+        "blurred:negative": 64,
+        "native:positive": 2
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000158",
+      "event": "hurricane-harvey",
+      "relation": "neighbors",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 420,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 64,
+      "one_step_brier_delta": {
+        "native:negative": -0.0035817118126489156,
+        "blurred:negative": -1.3109609062522394e-05,
+        "native:positive": 0.01904210749237456
+      },
+      "one_step_source_counts": {
+        "native:negative": 62,
+        "blurred:negative": 64,
+        "native:positive": 2
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000158",
+      "event": "hurricane-harvey",
+      "relation": "neighbors_same_bin",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 194,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 58,
+      "one_step_brier_delta": {
+        "native:negative": -0.003959379896400499,
+        "blurred:negative": -1.444282454978434e-05,
+        "native:positive": 0.021865964620443806
+      },
+      "one_step_source_counts": {
+        "native:negative": 56,
+        "blurred:negative": 58,
+        "native:positive": 2
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000158",
+      "event": "hurricane-harvey",
+      "relation": "neighbors_same_bin",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 194,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 58,
+      "one_step_brier_delta": {
+        "native:negative": -0.003959379896400499,
+        "blurred:negative": -1.444282454978434e-05,
+        "native:positive": 0.021865964620443806
+      },
+      "one_step_source_counts": {
+        "native:negative": 56,
+        "blurred:negative": 58,
+        "native:positive": 2
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000158",
+      "event": "hurricane-harvey",
+      "relation": "far_same_bin",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 1596,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 64,
+      "one_step_brier_delta": {
+        "native:negative": -0.003710781601973416,
+        "blurred:negative": -1.357602157344261e-05,
+        "native:positive": 0.021865964620443806
+      },
+      "one_step_source_counts": {
+        "native:negative": 62,
+        "blurred:negative": 64,
+        "native:positive": 2
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000158",
+      "event": "hurricane-harvey",
+      "relation": "far_same_bin",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 1596,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 64,
+      "one_step_brier_delta": {
+        "native:negative": -0.003710781601973416,
+        "blurred:negative": -1.357602157344261e-05,
+        "native:positive": 0.021865964620443806
+      },
+      "one_step_source_counts": {
+        "native:negative": 62,
+        "blurred:negative": 64,
+        "native:positive": 2
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000178",
+      "event": "hurricane-harvey",
+      "relation": "same_bin",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 1086,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 64,
+      "one_step_brier_delta": {
+        "native:negative": -0.003086220789067996,
+        "blurred:negative": -1.1271497733641243e-05
+      },
+      "one_step_source_counts": {
+        "native:negative": 64,
+        "blurred:negative": 64
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000178",
+      "event": "hurricane-harvey",
+      "relation": "same_bin",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 1086,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 64,
+      "one_step_brier_delta": {
+        "native:negative": -0.003086220789067996,
+        "blurred:negative": -1.1271497733641243e-05
+      },
+      "one_step_source_counts": {
+        "native:negative": 64,
+        "blurred:negative": 64
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000178",
+      "event": "hurricane-harvey",
+      "relation": "neighbors",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 420,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 64,
+      "one_step_brier_delta": {
+        "native:negative": -0.002862319836444479,
+        "blurred:negative": -1.0527095731880732e-05
+      },
+      "one_step_source_counts": {
+        "native:negative": 64,
+        "blurred:negative": 64
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000178",
+      "event": "hurricane-harvey",
+      "relation": "neighbors",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 420,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 64,
+      "one_step_brier_delta": {
+        "native:negative": -0.002862319836444479,
+        "blurred:negative": -1.0527095731880732e-05
+      },
+      "one_step_source_counts": {
+        "native:negative": 64,
+        "blurred:negative": 64
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000178",
+      "event": "hurricane-harvey",
+      "relation": "neighbors_same_bin",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 194,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 62,
+      "one_step_brier_delta": {
+        "native:negative": -0.0030949117812431553,
+        "blurred:negative": -1.1301080513000869e-05
+      },
+      "one_step_source_counts": {
+        "native:negative": 62,
+        "blurred:negative": 62
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000178",
+      "event": "hurricane-harvey",
+      "relation": "neighbors_same_bin",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 194,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 62,
+      "one_step_brier_delta": {
+        "native:negative": -0.0030949117812431553,
+        "blurred:negative": -1.1301080513000869e-05
+      },
+      "one_step_source_counts": {
+        "native:negative": 62,
+        "blurred:negative": 62
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000178",
+      "event": "hurricane-harvey",
+      "relation": "far_same_bin",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 892,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 64,
+      "one_step_brier_delta": {
+        "native:negative": -0.003086220789067996,
+        "blurred:negative": -1.1271497733641243e-05
+      },
+      "one_step_source_counts": {
+        "native:negative": 64,
+        "blurred:negative": 64
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000178",
+      "event": "hurricane-harvey",
+      "relation": "far_same_bin",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 892,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 64,
+      "one_step_brier_delta": {
+        "native:negative": -0.003086220789067996,
+        "blurred:negative": -1.1271497733641243e-05
+      },
+      "one_step_source_counts": {
+        "native:negative": 64,
+        "blurred:negative": 64
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000189",
+      "event": "hurricane-harvey",
+      "relation": "same_bin",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 1590,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 64,
+      "one_step_brier_delta": {
+        "native:negative": -0.003874604917759086,
+        "blurred:negative": -1.4097874325109407e-05
+      },
+      "one_step_source_counts": {
+        "native:negative": 64,
+        "blurred:negative": 64
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000189",
+      "event": "hurricane-harvey",
+      "relation": "same_bin",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 1590,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 64,
+      "one_step_brier_delta": {
+        "native:negative": -0.003874604917759086,
+        "blurred:negative": -1.4097874325109407e-05
+      },
+      "one_step_source_counts": {
+        "native:negative": 64,
+        "blurred:negative": 64
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000189",
+      "event": "hurricane-harvey",
+      "relation": "neighbors",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 420,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 64,
+      "one_step_brier_delta": {
+        "native:negative": -0.003773178536981751,
+        "blurred:negative": -1.3770137236798503e-05
+      },
+      "one_step_source_counts": {
+        "native:negative": 64,
+        "blurred:negative": 64
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000189",
+      "event": "hurricane-harvey",
+      "relation": "neighbors",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 420,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 64,
+      "one_step_brier_delta": {
+        "native:negative": -0.003773178536981751,
+        "blurred:negative": -1.3770137236798503e-05
+      },
+      "one_step_source_counts": {
+        "native:negative": 64,
+        "blurred:negative": 64
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000189",
+      "event": "hurricane-harvey",
+      "relation": "neighbors_same_bin",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 188,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 62,
+      "one_step_brier_delta": {
+        "native:negative": -0.003958604415658585,
+        "blurred:negative": -1.4394750487555512e-05
+      },
+      "one_step_source_counts": {
+        "native:negative": 62,
+        "blurred:negative": 62
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000189",
+      "event": "hurricane-harvey",
+      "relation": "neighbors_same_bin",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 188,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 62,
+      "one_step_brier_delta": {
+        "native:negative": -0.003958604415658585,
+        "blurred:negative": -1.4394750487555512e-05
+      },
+      "one_step_source_counts": {
+        "native:negative": 62,
+        "blurred:negative": 62
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000189",
+      "event": "hurricane-harvey",
+      "relation": "far_same_bin",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 1402,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 64,
+      "one_step_brier_delta": {
+        "native:negative": -0.003874604917759086,
+        "blurred:negative": -1.4097874325109407e-05
+      },
+      "one_step_source_counts": {
+        "native:negative": 64,
+        "blurred:negative": 64
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000189",
+      "event": "hurricane-harvey",
+      "relation": "far_same_bin",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 1402,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 64,
+      "one_step_brier_delta": {
+        "native:negative": -0.003874604917759086,
+        "blurred:negative": -1.4097874325109407e-05
+      },
+      "one_step_source_counts": {
+        "native:negative": 64,
+        "blurred:negative": 64
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000242",
+      "event": "hurricane-harvey",
+      "relation": "same_bin",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 1946,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 63,
+      "one_step_brier_delta": {
+        "native:negative": -0.001802921523295471,
+        "blurred:negative": -6.7374667302547575e-06
+      },
+      "one_step_source_counts": {
+        "native:negative": 63,
+        "blurred:negative": 63
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000242",
+      "event": "hurricane-harvey",
+      "relation": "same_bin",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 1946,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 63,
+      "one_step_brier_delta": {
+        "native:negative": -0.001802921523295471,
+        "blurred:negative": -6.7374667302547575e-06
+      },
+      "one_step_source_counts": {
+        "native:negative": 63,
+        "blurred:negative": 63
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000242",
+      "event": "hurricane-harvey",
+      "relation": "neighbors",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 420,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 64,
+      "one_step_brier_delta": {
+        "native:negative": -0.0016216010783763081,
+        "blurred:negative": -6.124785825661688e-06
+      },
+      "one_step_source_counts": {
+        "native:negative": 64,
+        "blurred:negative": 64
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000242",
+      "event": "hurricane-harvey",
+      "relation": "neighbors",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 420,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 64,
+      "one_step_brier_delta": {
+        "native:negative": -0.0016216010783763081,
+        "blurred:negative": -6.124785825661688e-06
+      },
+      "one_step_source_counts": {
+        "native:negative": 64,
+        "blurred:negative": 64
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000242",
+      "event": "hurricane-harvey",
+      "relation": "neighbors_same_bin",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 214,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 59,
+      "one_step_brier_delta": {
+        "native:negative": -0.001777920561148372,
+        "blurred:negative": -6.6584720275558155e-06
+      },
+      "one_step_source_counts": {
+        "native:negative": 59,
+        "blurred:negative": 59
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000242",
+      "event": "hurricane-harvey",
+      "relation": "neighbors_same_bin",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 214,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 59,
+      "one_step_brier_delta": {
+        "native:negative": -0.001777920561148372,
+        "blurred:negative": -6.6584720275558155e-06
+      },
+      "one_step_source_counts": {
+        "native:negative": 59,
+        "blurred:negative": 59
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000242",
+      "event": "hurricane-harvey",
+      "relation": "far_same_bin",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 1732,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 63,
+      "one_step_brier_delta": {
+        "native:negative": -0.001802921523295471,
+        "blurred:negative": -6.7374667302547575e-06
+      },
+      "one_step_source_counts": {
+        "native:negative": 63,
+        "blurred:negative": 63
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000242",
+      "event": "hurricane-harvey",
+      "relation": "far_same_bin",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 1732,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 63,
+      "one_step_brier_delta": {
+        "native:negative": -0.001802921523295471,
+        "blurred:negative": -6.7374667302547575e-06
+      },
+      "one_step_source_counts": {
+        "native:negative": 63,
+        "blurred:negative": 63
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000268",
+      "event": "hurricane-harvey",
+      "relation": "same_bin",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 2286,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": 0.15217391304347827,
+      "candidate_rate_given_negative_source_truth": 0.12111801242236024,
+      "within_scene_conditional_difference": 0.03105590062111803,
+      "eligible_positive_truth_sources": 8,
+      "eligible_negative_truth_sources": 56,
+      "one_step_brier_delta": {
+        "native:negative": -0.0009658721587592838,
+        "blurred:negative": -3.8017358948233464e-06,
+        "native:positive": 0.008266656015556512,
+        "blurred:positive": 0.000162554602876952
+      },
+      "one_step_source_counts": {
+        "native:negative": 57,
+        "blurred:negative": 61,
+        "native:positive": 7,
+        "blurred:positive": 3
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000268",
+      "event": "hurricane-harvey",
+      "relation": "same_bin",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 2280,
+      "shared_uid_pairs_excluded": 6,
+      "candidate_rate_given_positive_source_truth": 0.13804347826086957,
+      "candidate_rate_given_negative_source_truth": 0.12111801242236024,
+      "within_scene_conditional_difference": 0.016925465838509332,
+      "eligible_positive_truth_sources": 8,
+      "eligible_negative_truth_sources": 56,
+      "one_step_brier_delta": {
+        "native:negative": -0.0009725435522418304,
+        "blurred:negative": -3.867981869839727e-06,
+        "native:positive": 0.009481173952485478,
+        "blurred:positive": 0.0002065445288940565
+      },
+      "one_step_source_counts": {
+        "native:negative": 57,
+        "blurred:negative": 61,
+        "native:positive": 7,
+        "blurred:positive": 3
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000268",
+      "event": "hurricane-harvey",
+      "relation": "neighbors",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 420,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": 0.315625,
+      "candidate_rate_given_negative_source_truth": 0.1025297619047619,
+      "within_scene_conditional_difference": 0.2130952380952381,
+      "eligible_positive_truth_sources": 8,
+      "eligible_negative_truth_sources": 56,
+      "one_step_brier_delta": {
+        "native:negative": -0.0010531332982147798,
+        "blurred:negative": -3.392237720453182e-06,
+        "native:positive": -0.006631298751814737,
+        "blurred:positive": -0.0002795377523803581
+      },
+      "one_step_source_counts": {
+        "native:negative": 57,
+        "blurred:negative": 61,
+        "native:positive": 7,
+        "blurred:positive": 3
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000268",
+      "event": "hurricane-harvey",
+      "relation": "neighbors",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 414,
+      "shared_uid_pairs_excluded": 6,
+      "candidate_rate_given_positive_source_truth": 0.2174107142857143,
+      "candidate_rate_given_negative_source_truth": 0.1025297619047619,
+      "within_scene_conditional_difference": 0.11488095238095239,
+      "eligible_positive_truth_sources": 8,
+      "eligible_negative_truth_sources": 56,
+      "one_step_brier_delta": {
+        "native:negative": -0.0010827202568640837,
+        "blurred:negative": -3.7134027953255177e-06,
+        "native:positive": 0.0021808295451180007,
+        "blurred:positive": 0.00010482582649785216
+      },
+      "one_step_source_counts": {
+        "native:negative": 57,
+        "blurred:negative": 61,
+        "native:positive": 7,
+        "blurred:positive": 3
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000268",
+      "event": "hurricane-harvey",
+      "relation": "neighbors_same_bin",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 282,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": 0.34791666666666665,
+      "candidate_rate_given_negative_source_truth": 0.10370619946091644,
+      "within_scene_conditional_difference": 0.2442104672057502,
+      "eligible_positive_truth_sources": 8,
+      "eligible_negative_truth_sources": 53,
+      "one_step_brier_delta": {
+        "native:negative": -0.0012443253832189578,
+        "blurred:negative": -3.949687490051351e-06,
+        "native:positive": -0.007437995153501682,
+        "blurred:positive": -0.0002993396203027632
+      },
+      "one_step_source_counts": {
+        "native:negative": 54,
+        "blurred:negative": 58,
+        "native:positive": 7,
+        "blurred:positive": 3
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000268",
+      "event": "hurricane-harvey",
+      "relation": "neighbors_same_bin",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 276,
+      "shared_uid_pairs_excluded": 6,
+      "candidate_rate_given_positive_source_truth": 0.23883928571428573,
+      "candidate_rate_given_negative_source_truth": 0.10370619946091644,
+      "within_scene_conditional_difference": 0.13513308625336928,
+      "eligible_positive_truth_sources": 8,
+      "eligible_negative_truth_sources": 53,
+      "one_step_brier_delta": {
+        "native:negative": -0.001281702292858352,
+        "blurred:negative": -4.347369391322593e-06,
+        "native:positive": 0.0025230538819589984,
+        "blurred:positive": 0.00012871619824839087
+      },
+      "one_step_source_counts": {
+        "native:negative": 54,
+        "blurred:negative": 58,
+        "native:positive": 7,
+        "blurred:positive": 3
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000268",
+      "event": "hurricane-harvey",
+      "relation": "far_same_bin",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 2004,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": 0.12460858701632128,
+      "candidate_rate_given_negative_source_truth": 0.12178435391640252,
+      "within_scene_conditional_difference": 0.002824233099918763,
+      "eligible_positive_truth_sources": 8,
+      "eligible_negative_truth_sources": 56,
+      "one_step_brier_delta": {
+        "native:negative": -0.0009711336120762307,
+        "blurred:negative": -3.934698829692848e-06,
+        "native:positive": 0.010437104198072282,
+        "blurred:positive": 0.00021684932528617806
+      },
+      "one_step_source_counts": {
+        "native:negative": 57,
+        "blurred:negative": 61,
+        "native:positive": 7,
+        "blurred:positive": 3
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000268",
+      "event": "hurricane-harvey",
+      "relation": "far_same_bin",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 2004,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": 0.12460858701632128,
+      "candidate_rate_given_negative_source_truth": 0.12178435391640252,
+      "within_scene_conditional_difference": 0.002824233099918763,
+      "eligible_positive_truth_sources": 8,
+      "eligible_negative_truth_sources": 56,
+      "one_step_brier_delta": {
+        "native:negative": -0.0009711336120762307,
+        "blurred:negative": -3.934698829692848e-06,
+        "native:positive": 0.010437104198072282,
+        "blurred:positive": 0.00021684932528617806
+      },
+      "one_step_source_counts": {
+        "native:negative": 57,
+        "blurred:negative": 61,
+        "native:positive": 7,
+        "blurred:positive": 3
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000392",
+      "event": "hurricane-harvey",
+      "relation": "same_bin",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 1142,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": 0.4679962894248609,
+      "candidate_rate_given_negative_source_truth": 0.41378066378066375,
+      "within_scene_conditional_difference": 0.05421562564419713,
+      "eligible_positive_truth_sources": 28,
+      "eligible_negative_truth_sources": 36,
+      "one_step_brier_delta": {
+        "native:positive": -0.021295734774866865,
+        "blurred:negative": 1.539803344856044e-05,
+        "blurred:positive": -0.000563481606758295,
+        "native:negative": 0.004138710859126158
+      },
+      "one_step_source_counts": {
+        "native:positive": 25,
+        "blurred:negative": 50,
+        "blurred:positive": 14,
+        "native:negative": 39
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000392",
+      "event": "hurricane-harvey",
+      "relation": "same_bin",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 1102,
+      "shared_uid_pairs_excluded": 40,
+      "candidate_rate_given_positive_source_truth": 0.409691603914293,
+      "candidate_rate_given_negative_source_truth": 0.41378066378066375,
+      "within_scene_conditional_difference": -0.004089059866370759,
+      "eligible_positive_truth_sources": 28,
+      "eligible_negative_truth_sources": 36,
+      "one_step_brier_delta": {
+        "native:positive": -0.01668586920354247,
+        "blurred:negative": 1.4219747658347267e-05,
+        "blurred:positive": -0.00043756528548594527,
+        "native:negative": 0.003981917281080407
+      },
+      "one_step_source_counts": {
+        "native:positive": 25,
+        "blurred:negative": 50,
+        "blurred:positive": 14,
+        "native:negative": 39
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000392",
+      "event": "hurricane-harvey",
+      "relation": "neighbors",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 420,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": 0.756547619047619,
+      "candidate_rate_given_negative_source_truth": 0.18194444444444444,
+      "within_scene_conditional_difference": 0.5746031746031746,
+      "eligible_positive_truth_sources": 28,
+      "eligible_negative_truth_sources": 36,
+      "one_step_brier_delta": {
+        "native:positive": -0.04428089985250033,
+        "blurred:negative": 9.971107011494726e-06,
+        "blurred:positive": -0.0012466710608190043,
+        "native:negative": 0.0013206042622097892
+      },
+      "one_step_source_counts": {
+        "native:positive": 25,
+        "blurred:negative": 50,
+        "blurred:positive": 14,
+        "native:negative": 39
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000392",
+      "event": "hurricane-harvey",
+      "relation": "neighbors",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 354,
+      "shared_uid_pairs_excluded": 66,
+      "candidate_rate_given_positive_source_truth": 0.6526556776556777,
+      "candidate_rate_given_negative_source_truth": 0.18194444444444444,
+      "within_scene_conditional_difference": 0.4707112332112332,
+      "eligible_positive_truth_sources": 26,
+      "eligible_negative_truth_sources": 36,
+      "one_step_brier_delta": {
+        "native:positive": -0.03856123519320725,
+        "blurred:negative": 6.348357201772037e-06,
+        "blurred:positive": -0.0011334638200392866,
+        "native:negative": 0.0003981689721477783
+      },
+      "one_step_source_counts": {
+        "native:positive": 25,
+        "blurred:negative": 48,
+        "blurred:positive": 14,
+        "native:negative": 37
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000392",
+      "event": "hurricane-harvey",
+      "relation": "neighbors_same_bin",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 146,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": 0.8368055555555556,
+      "candidate_rate_given_negative_source_truth": 0.11274509803921569,
+      "within_scene_conditional_difference": 0.7240604575163399,
+      "eligible_positive_truth_sources": 24,
+      "eligible_negative_truth_sources": 34,
+      "one_step_brier_delta": {
+        "native:positive": -0.04748997637412601,
+        "blurred:positive": -0.0014619701196357192,
+        "native:negative": 0.0009022787408868449,
+        "blurred:negative": 7.412902676099575e-06
+      },
+      "one_step_source_counts": {
+        "native:positive": 21,
+        "blurred:positive": 13,
+        "native:negative": 37,
+        "blurred:negative": 45
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000392",
+      "event": "hurricane-harvey",
+      "relation": "neighbors_same_bin",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 106,
+      "shared_uid_pairs_excluded": 40,
+      "candidate_rate_given_positive_source_truth": 0.5897435897435898,
+      "candidate_rate_given_negative_source_truth": 0.11274509803921569,
+      "within_scene_conditional_difference": 0.4769984917043741,
+      "eligible_positive_truth_sources": 13,
+      "eligible_negative_truth_sources": 34,
+      "one_step_brier_delta": {
+        "native:positive": -0.02331522149964581,
+        "blurred:positive": -0.0009006997738621835,
+        "blurred:negative": 1.152835879996812e-06,
+        "native:negative": -3.348314320776767e-05
+      },
+      "one_step_source_counts": {
+        "native:positive": 12,
+        "blurred:positive": 6,
+        "blurred:negative": 41,
+        "native:negative": 35
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000392",
+      "event": "hurricane-harvey",
+      "relation": "far_same_bin",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 996,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": 0.40290806115109523,
+      "candidate_rate_given_negative_source_truth": 0.4520745519100782,
+      "within_scene_conditional_difference": -0.049166490758982995,
+      "eligible_positive_truth_sources": 28,
+      "eligible_negative_truth_sources": 36,
+      "one_step_brier_delta": {
+        "native:positive": -0.016430843569377802,
+        "blurred:negative": 1.5693637144718662e-05,
+        "blurred:positive": -0.0004233082610617944,
+        "native:negative": 0.00449099336705911
+      },
+      "one_step_source_counts": {
+        "native:positive": 25,
+        "blurred:negative": 50,
+        "blurred:positive": 14,
+        "native:negative": 39
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000392",
+      "event": "hurricane-harvey",
+      "relation": "far_same_bin",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 996,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": 0.40290806115109523,
+      "candidate_rate_given_negative_source_truth": 0.4520745519100782,
+      "within_scene_conditional_difference": -0.049166490758982995,
+      "eligible_positive_truth_sources": 28,
+      "eligible_negative_truth_sources": 36,
+      "one_step_brier_delta": {
+        "native:positive": -0.016430843569377802,
+        "blurred:negative": 1.5693637144718662e-05,
+        "blurred:positive": -0.0004233082610617944,
+        "native:negative": 0.00449099336705911
+      },
+      "one_step_source_counts": {
+        "native:positive": 25,
+        "blurred:negative": 50,
+        "blurred:positive": 14,
+        "native:negative": 39
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000406",
+      "event": "hurricane-harvey",
+      "relation": "same_bin",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 1018,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": 0.7240922635470699,
+      "candidate_rate_given_negative_source_truth": 0.4918355301987016,
+      "within_scene_conditional_difference": 0.23225673334836833,
+      "eligible_positive_truth_sources": 41,
+      "eligible_negative_truth_sources": 23,
+      "one_step_brier_delta": {
+        "native:positive": -0.04132047940827768,
+        "blurred:negative": 2.3574737234479087e-05,
+        "native:negative": 0.004783212192734482,
+        "blurred:positive": -0.0008758119137454353
+      },
+      "one_step_source_counts": {
+        "native:positive": 34,
+        "blurred:negative": 61,
+        "native:negative": 30,
+        "blurred:positive": 3
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000406",
+      "event": "hurricane-harvey",
+      "relation": "same_bin",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 984,
+      "shared_uid_pairs_excluded": 34,
+      "candidate_rate_given_positive_source_truth": 0.7069176112802934,
+      "candidate_rate_given_negative_source_truth": 0.4918355301987016,
+      "within_scene_conditional_difference": 0.21508208108159182,
+      "eligible_positive_truth_sources": 41,
+      "eligible_negative_truth_sources": 23,
+      "one_step_brier_delta": {
+        "native:positive": -0.03974469388949498,
+        "blurred:negative": 2.3113025838771393e-05,
+        "native:negative": 0.004781468280904924,
+        "blurred:positive": -0.0007649212812739827
+      },
+      "one_step_source_counts": {
+        "native:positive": 34,
+        "blurred:negative": 61,
+        "native:negative": 30,
+        "blurred:positive": 3
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000406",
+      "event": "hurricane-harvey",
+      "relation": "neighbors",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 420,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": 0.8522357723577236,
+      "candidate_rate_given_negative_source_truth": 0.24130434782608695,
+      "within_scene_conditional_difference": 0.6109314245316366,
+      "eligible_positive_truth_sources": 41,
+      "eligible_negative_truth_sources": 23,
+      "one_step_brier_delta": {
+        "native:positive": -0.0517821105854869,
+        "blurred:negative": 2.1480185398224785e-05,
+        "native:negative": 0.0022552630295611946,
+        "blurred:positive": -0.0010812354112599658
+      },
+      "one_step_source_counts": {
+        "native:positive": 34,
+        "blurred:negative": 61,
+        "native:negative": 30,
+        "blurred:positive": 3
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000406",
+      "event": "hurricane-harvey",
+      "relation": "neighbors",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 314,
+      "shared_uid_pairs_excluded": 106,
+      "candidate_rate_given_positive_source_truth": 0.7572039072039072,
+      "candidate_rate_given_negative_source_truth": 0.24130434782608695,
+      "within_scene_conditional_difference": 0.5158995593778202,
+      "eligible_positive_truth_sources": 39,
+      "eligible_negative_truth_sources": 23,
+      "one_step_brier_delta": {
+        "native:positive": -0.045354362649952094,
+        "blurred:negative": 1.9241134328571508e-05,
+        "native:negative": 0.002087032740090998,
+        "blurred:positive": -0.0006219318480310728
+      },
+      "one_step_source_counts": {
+        "native:positive": 32,
+        "blurred:negative": 59,
+        "native:negative": 30,
+        "blurred:positive": 3
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000406",
+      "event": "hurricane-harvey",
+      "relation": "neighbors_same_bin",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 166,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": 0.8642857142857143,
+      "candidate_rate_given_negative_source_truth": 0.22727272727272727,
+      "within_scene_conditional_difference": 0.637012987012987,
+      "eligible_positive_truth_sources": 35,
+      "eligible_negative_truth_sources": 22,
+      "one_step_brier_delta": {
+        "native:positive": -0.052746835525669805,
+        "blurred:negative": 2.291524399925749e-05,
+        "native:negative": 0.0023647026139050984,
+        "blurred:positive": -0.001524983149030897
+      },
+      "one_step_source_counts": {
+        "native:positive": 30,
+        "blurred:negative": 54,
+        "native:negative": 27,
+        "blurred:positive": 3
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000406",
+      "event": "hurricane-harvey",
+      "relation": "neighbors_same_bin",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 132,
+      "shared_uid_pairs_excluded": 34,
+      "candidate_rate_given_positive_source_truth": 0.8118279569892473,
+      "candidate_rate_given_negative_source_truth": 0.22727272727272727,
+      "within_scene_conditional_difference": 0.58455522971652,
+      "eligible_positive_truth_sources": 31,
+      "eligible_negative_truth_sources": 22,
+      "one_step_brier_delta": {
+        "native:positive": -0.049031448062159984,
+        "blurred:negative": 2.106854320734953e-05,
+        "native:negative": 0.002303342753235516,
+        "blurred:positive": -0.0013803270310517313
+      },
+      "one_step_source_counts": {
+        "native:positive": 26,
+        "blurred:negative": 51,
+        "native:negative": 27,
+        "blurred:positive": 2
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000406",
+      "event": "hurricane-harvey",
+      "relation": "far_same_bin",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 852,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": 0.7023678184225266,
+      "candidate_rate_given_negative_source_truth": 0.5550356044921262,
+      "within_scene_conditional_difference": 0.1473322139304004,
+      "eligible_positive_truth_sources": 41,
+      "eligible_negative_truth_sources": 23,
+      "one_step_brier_delta": {
+        "native:positive": -0.0392842072837339,
+        "blurred:negative": 2.434356531041959e-05,
+        "native:negative": 0.005555131775247552,
+        "blurred:positive": -0.0006916535716497973
+      },
+      "one_step_source_counts": {
+        "native:positive": 34,
+        "blurred:negative": 61,
+        "native:negative": 30,
+        "blurred:positive": 3
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000406",
+      "event": "hurricane-harvey",
+      "relation": "far_same_bin",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 852,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": 0.7023678184225266,
+      "candidate_rate_given_negative_source_truth": 0.5550356044921262,
+      "within_scene_conditional_difference": 0.1473322139304004,
+      "eligible_positive_truth_sources": 41,
+      "eligible_negative_truth_sources": 23,
+      "one_step_brier_delta": {
+        "native:positive": -0.0392842072837339,
+        "blurred:negative": 2.434356531041959e-05,
+        "native:negative": 0.005555131775247552,
+        "blurred:positive": -0.0006916535716497973
+      },
+      "one_step_source_counts": {
+        "native:positive": 34,
+        "blurred:negative": 61,
+        "native:negative": 30,
+        "blurred:positive": 3
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000505",
+      "event": "hurricane-harvey",
+      "relation": "same_bin",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 1400,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": 0.07271874266948158,
+      "candidate_rate_given_negative_source_truth": 0.1138766456370812,
+      "within_scene_conditional_difference": -0.04115790296759962,
+      "eligible_positive_truth_sources": 7,
+      "eligible_negative_truth_sources": 57,
+      "one_step_brier_delta": {
+        "native:negative": -0.0011047859321991758,
+        "blurred:negative": -4.163305574280391e-06,
+        "native:positive": 0.009679266856918391
+      },
+      "one_step_source_counts": {
+        "native:negative": 62,
+        "blurred:negative": 64,
+        "native:positive": 2
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000505",
+      "event": "hurricane-harvey",
+      "relation": "same_bin",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 1396,
+      "shared_uid_pairs_excluded": 4,
+      "candidate_rate_given_positive_source_truth": 0.05408293585633487,
+      "candidate_rate_given_negative_source_truth": 0.1138766456370812,
+      "within_scene_conditional_difference": -0.059793709780746336,
+      "eligible_positive_truth_sources": 7,
+      "eligible_negative_truth_sources": 57,
+      "one_step_brier_delta": {
+        "native:negative": -0.0011241102228325601,
+        "blurred:negative": -4.234247806370178e-06,
+        "native:positive": 0.009679266856918391
+      },
+      "one_step_source_counts": {
+        "native:negative": 62,
+        "blurred:negative": 64,
+        "native:positive": 2
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000505",
+      "event": "hurricane-harvey",
+      "relation": "neighbors",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 420,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": 0.42857142857142855,
+      "candidate_rate_given_negative_source_truth": 0.07412280701754385,
+      "within_scene_conditional_difference": 0.3544486215538847,
+      "eligible_positive_truth_sources": 7,
+      "eligible_negative_truth_sources": 57,
+      "one_step_brier_delta": {
+        "native:negative": -0.0008276303186861173,
+        "blurred:negative": -2.901521647612291e-06,
+        "native:positive": -0.016380936151382974
+      },
+      "one_step_source_counts": {
+        "native:negative": 62,
+        "blurred:negative": 64,
+        "native:positive": 2
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000505",
+      "event": "hurricane-harvey",
+      "relation": "neighbors",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 408,
+      "shared_uid_pairs_excluded": 12,
+      "candidate_rate_given_positive_source_truth": 0.2619047619047619,
+      "candidate_rate_given_negative_source_truth": 0.07412280701754385,
+      "within_scene_conditional_difference": 0.18778195488721805,
+      "eligible_positive_truth_sources": 7,
+      "eligible_negative_truth_sources": 57,
+      "one_step_brier_delta": {
+        "native:negative": -0.0010295378599905493,
+        "blurred:negative": -3.816601125412379e-06,
+        "native:positive": -0.008698009867386766
+      },
+      "one_step_source_counts": {
+        "native:negative": 62,
+        "blurred:negative": 64,
+        "native:positive": 2
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000505",
+      "event": "hurricane-harvey",
+      "relation": "neighbors_same_bin",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 136,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": 0.39444444444444443,
+      "candidate_rate_given_negative_source_truth": 0.09934640522875816,
+      "within_scene_conditional_difference": 0.2950980392156863,
+      "eligible_positive_truth_sources": 6,
+      "eligible_negative_truth_sources": 51,
+      "one_step_brier_delta": {
+        "native:negative": -0.0006043392422616645,
+        "blurred:negative": -2.306619057417883e-06,
+        "native:positive": 0.003748493584928403
+      },
+      "one_step_source_counts": {
+        "native:negative": 56,
+        "blurred:negative": 57,
+        "native:positive": 1
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000505",
+      "event": "hurricane-harvey",
+      "relation": "neighbors_same_bin",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 132,
+      "shared_uid_pairs_excluded": 4,
+      "candidate_rate_given_positive_source_truth": 0.14,
+      "candidate_rate_given_negative_source_truth": 0.09934640522875816,
+      "within_scene_conditional_difference": 0.04065359477124185,
+      "eligible_positive_truth_sources": 5,
+      "eligible_negative_truth_sources": 51,
+      "one_step_brier_delta": {
+        "native:negative": -0.0008705390489747367,
+        "blurred:negative": -3.2962588974046712e-06,
+        "native:positive": 0.003748493584928403
+      },
+      "one_step_source_counts": {
+        "native:negative": 55,
+        "blurred:negative": 56,
+        "native:positive": 1
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000505",
+      "event": "hurricane-harvey",
+      "relation": "far_same_bin",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 1264,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": 0.044411884411884414,
+      "candidate_rate_given_negative_source_truth": 0.11654675750705298,
+      "within_scene_conditional_difference": -0.07213487309516857,
+      "eligible_positive_truth_sources": 7,
+      "eligible_negative_truth_sources": 57,
+      "one_step_brier_delta": {
+        "native:negative": -0.0011485979951136951,
+        "blurred:negative": -4.365221556289621e-06,
+        "native:positive": 0.011820145964946594
+      },
+      "one_step_source_counts": {
+        "native:negative": 62,
+        "blurred:negative": 64,
+        "native:positive": 2
+      }
+    },
+    {
+      "sample_id": "hurricane-harvey_00000505",
+      "event": "hurricane-harvey",
+      "relation": "far_same_bin",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 1264,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": 0.044411884411884414,
+      "candidate_rate_given_negative_source_truth": 0.11654675750705298,
+      "within_scene_conditional_difference": -0.07213487309516857,
+      "eligible_positive_truth_sources": 7,
+      "eligible_negative_truth_sources": 57,
+      "one_step_brier_delta": {
+        "native:negative": -0.0011485979951136951,
+        "blurred:negative": -4.365221556289621e-06,
+        "native:positive": 0.011820145964946594
+      },
+      "one_step_source_counts": {
+        "native:negative": 62,
+        "blurred:negative": 64,
+        "native:positive": 2
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000023",
+      "event": "santa-rosa-wildfire",
+      "relation": "same_bin",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 1492,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": 0.11176470588235295,
+      "candidate_rate_given_negative_source_truth": 0.07527417746759721,
+      "within_scene_conditional_difference": 0.03649052841475574,
+      "eligible_positive_truth_sources": 5,
+      "eligible_negative_truth_sources": 59,
+      "one_step_brier_delta": {
+        "native:negative": -0.0005184482417358636,
+        "blurred:negative": -1.8217885864062937e-06,
+        "native:positive": 0.0023233819754755725
+      },
+      "one_step_source_counts": {
+        "native:negative": 59,
+        "blurred:negative": 64,
+        "native:positive": 5
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000023",
+      "event": "santa-rosa-wildfire",
+      "relation": "same_bin",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 1492,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": 0.11176470588235295,
+      "candidate_rate_given_negative_source_truth": 0.07527417746759721,
+      "within_scene_conditional_difference": 0.03649052841475574,
+      "eligible_positive_truth_sources": 5,
+      "eligible_negative_truth_sources": 59,
+      "one_step_brier_delta": {
+        "native:negative": -0.0005184482417358636,
+        "blurred:negative": -1.8217885864062937e-06,
+        "native:positive": 0.0023233819754755725
+      },
+      "one_step_source_counts": {
+        "native:negative": 59,
+        "blurred:negative": 64,
+        "native:positive": 5
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000023",
+      "event": "santa-rosa-wildfire",
+      "relation": "neighbors",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 420,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": 0.26666666666666666,
+      "candidate_rate_given_negative_source_truth": 0.04590395480225989,
+      "within_scene_conditional_difference": 0.22076271186440677,
+      "eligible_positive_truth_sources": 5,
+      "eligible_negative_truth_sources": 59,
+      "one_step_brier_delta": {
+        "native:negative": -0.00044148623393525343,
+        "blurred:negative": -1.3175566702919422e-06,
+        "native:positive": -0.004706342731896939
+      },
+      "one_step_source_counts": {
+        "native:negative": 59,
+        "blurred:negative": 64,
+        "native:positive": 5
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000023",
+      "event": "santa-rosa-wildfire",
+      "relation": "neighbors",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 418,
+      "shared_uid_pairs_excluded": 2,
+      "candidate_rate_given_positive_source_truth": 0.18666666666666668,
+      "candidate_rate_given_negative_source_truth": 0.04590395480225989,
+      "within_scene_conditional_difference": 0.14076271186440678,
+      "eligible_positive_truth_sources": 5,
+      "eligible_negative_truth_sources": 59,
+      "one_step_brier_delta": {
+        "native:negative": -0.00044148623393525343,
+        "blurred:negative": -1.4116836160451573e-06,
+        "native:positive": -0.0006740821266257183
+      },
+      "one_step_source_counts": {
+        "native:negative": 59,
+        "blurred:negative": 64,
+        "native:positive": 5
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000023",
+      "event": "santa-rosa-wildfire",
+      "relation": "neighbors_same_bin",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 182,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": 0.3,
+      "candidate_rate_given_negative_source_truth": 0.038580246913580245,
+      "within_scene_conditional_difference": 0.26141975308641974,
+      "eligible_positive_truth_sources": 5,
+      "eligible_negative_truth_sources": 54,
+      "one_step_brier_delta": {
+        "native:negative": -0.0007434339144365173,
+        "blurred:negative": -1.3475579969443048e-06,
+        "native:positive": -0.01529911662086537
+      },
+      "one_step_source_counts": {
+        "native:negative": 54,
+        "blurred:negative": 59,
+        "native:positive": 5
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000023",
+      "event": "santa-rosa-wildfire",
+      "relation": "neighbors_same_bin",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 182,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": 0.3,
+      "candidate_rate_given_negative_source_truth": 0.038580246913580245,
+      "within_scene_conditional_difference": 0.26141975308641974,
+      "eligible_positive_truth_sources": 5,
+      "eligible_negative_truth_sources": 54,
+      "one_step_brier_delta": {
+        "native:negative": -0.0007434339144365173,
+        "blurred:negative": -1.3475579969443048e-06,
+        "native:positive": -0.01529911662086537
+      },
+      "one_step_source_counts": {
+        "native:negative": 54,
+        "blurred:negative": 59,
+        "native:positive": 5
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000023",
+      "event": "santa-rosa-wildfire",
+      "relation": "far_same_bin",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 1310,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": 0.012121212121212121,
+      "candidate_rate_given_negative_source_truth": 0.08183755571413233,
+      "within_scene_conditional_difference": -0.06971634359292021,
+      "eligible_positive_truth_sources": 5,
+      "eligible_negative_truth_sources": 59,
+      "one_step_brier_delta": {
+        "native:negative": -0.00045695148107337426,
+        "blurred:negative": -2.1691009385483174e-06,
+        "native:positive": 0.011304138292494138
+      },
+      "one_step_source_counts": {
+        "native:negative": 59,
+        "blurred:negative": 64,
+        "native:positive": 5
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000023",
+      "event": "santa-rosa-wildfire",
+      "relation": "far_same_bin",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 1310,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": 0.012121212121212121,
+      "candidate_rate_given_negative_source_truth": 0.08183755571413233,
+      "within_scene_conditional_difference": -0.06971634359292021,
+      "eligible_positive_truth_sources": 5,
+      "eligible_negative_truth_sources": 59,
+      "one_step_brier_delta": {
+        "native:negative": -0.00045695148107337426,
+        "blurred:negative": -2.1691009385483174e-06,
+        "native:positive": 0.011304138292494138
+      },
+      "one_step_source_counts": {
+        "native:negative": 59,
+        "blurred:negative": 64,
+        "native:positive": 5
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000035",
+      "event": "santa-rosa-wildfire",
+      "relation": "same_bin",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 1166,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": 0.4470380194518126,
+      "candidate_rate_given_negative_source_truth": 0.45816849816849814,
+      "within_scene_conditional_difference": -0.011130478716685543,
+      "eligible_positive_truth_sources": 29,
+      "eligible_negative_truth_sources": 35,
+      "one_step_brier_delta": {
+        "native:negative": 0.004512145926223186,
+        "blurred:negative": 1.5555130319683673e-05,
+        "native:positive": -0.01947262588306502,
+        "blurred:positive": -0.0005717387775626137
+      },
+      "one_step_source_counts": {
+        "native:negative": 36,
+        "blurred:negative": 63,
+        "native:positive": 28,
+        "blurred:positive": 1
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000035",
+      "event": "santa-rosa-wildfire",
+      "relation": "same_bin",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 1146,
+      "shared_uid_pairs_excluded": 20,
+      "candidate_rate_given_positive_source_truth": 0.4291252176109747,
+      "candidate_rate_given_negative_source_truth": 0.45816849816849814,
+      "within_scene_conditional_difference": -0.02904328055752342,
+      "eligible_positive_truth_sources": 29,
+      "eligible_negative_truth_sources": 35,
+      "one_step_brier_delta": {
+        "native:negative": 0.0044733599273383984,
+        "blurred:negative": 1.4971128494745644e-05,
+        "native:positive": -0.018028180353721127,
+        "blurred:positive": -0.0005717387775626137
+      },
+      "one_step_source_counts": {
+        "native:negative": 36,
+        "blurred:negative": 63,
+        "native:positive": 28,
+        "blurred:positive": 1
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000035",
+      "event": "santa-rosa-wildfire",
+      "relation": "neighbors",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 420,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": 0.6040229885057471,
+      "candidate_rate_given_negative_source_truth": 0.32166666666666666,
+      "within_scene_conditional_difference": 0.28235632183908044,
+      "eligible_positive_truth_sources": 29,
+      "eligible_negative_truth_sources": 35,
+      "one_step_brier_delta": {
+        "native:negative": 0.002153114253624382,
+        "blurred:negative": 1.441435216024603e-05,
+        "native:positive": -0.033612170255354366,
+        "blurred:positive": -0.0012307121277836952
+      },
+      "one_step_source_counts": {
+        "native:negative": 36,
+        "blurred:negative": 63,
+        "native:positive": 28,
+        "blurred:positive": 1
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000035",
+      "event": "santa-rosa-wildfire",
+      "relation": "neighbors",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 384,
+      "shared_uid_pairs_excluded": 36,
+      "candidate_rate_given_positive_source_truth": 0.49905582922824304,
+      "candidate_rate_given_negative_source_truth": 0.32166666666666666,
+      "within_scene_conditional_difference": 0.17738916256157639,
+      "eligible_positive_truth_sources": 29,
+      "eligible_negative_truth_sources": 35,
+      "one_step_brier_delta": {
+        "native:negative": 0.0019706770510973157,
+        "blurred:negative": 1.1523705655027578e-05,
+        "native:positive": -0.025912974769828477,
+        "blurred:positive": -0.0011479776060545066
+      },
+      "one_step_source_counts": {
+        "native:negative": 36,
+        "blurred:negative": 63,
+        "native:positive": 28,
+        "blurred:positive": 1
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000035",
+      "event": "santa-rosa-wildfire",
+      "relation": "neighbors_same_bin",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 178,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": 0.5388888888888889,
+      "candidate_rate_given_negative_source_truth": 0.34531249999999997,
+      "within_scene_conditional_difference": 0.1935763888888889,
+      "eligible_positive_truth_sources": 24,
+      "eligible_negative_truth_sources": 32,
+      "one_step_brier_delta": {
+        "native:negative": 0.002948600505920524,
+        "blurred:negative": 1.4320564937900332e-05,
+        "native:positive": -0.02712549032220092,
+        "blurred:positive": -0.0010387087614366353
+      },
+      "one_step_source_counts": {
+        "native:negative": 33,
+        "blurred:negative": 55,
+        "native:positive": 23,
+        "blurred:positive": 1
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000035",
+      "event": "santa-rosa-wildfire",
+      "relation": "neighbors_same_bin",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 158,
+      "shared_uid_pairs_excluded": 20,
+      "candidate_rate_given_positive_source_truth": 0.3986111111111111,
+      "candidate_rate_given_negative_source_truth": 0.34531249999999997,
+      "within_scene_conditional_difference": 0.053298611111111116,
+      "eligible_positive_truth_sources": 24,
+      "eligible_negative_truth_sources": 32,
+      "one_step_brier_delta": {
+        "native:negative": 0.002587135144885161,
+        "blurred:negative": 9.992104109247157e-06,
+        "native:positive": -0.0163009992113652,
+        "blurred:positive": -0.0010387087614366353
+      },
+      "one_step_source_counts": {
+        "native:negative": 33,
+        "blurred:negative": 55,
+        "native:positive": 23,
+        "blurred:positive": 1
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000035",
+      "event": "santa-rosa-wildfire",
+      "relation": "far_same_bin",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 988,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": 0.4400614502938341,
+      "candidate_rate_given_negative_source_truth": 0.486820727926318,
+      "within_scene_conditional_difference": -0.04675927763248389,
+      "eligible_positive_truth_sources": 29,
+      "eligible_negative_truth_sources": 35,
+      "one_step_brier_delta": {
+        "native:negative": 0.004848695976406304,
+        "blurred:negative": 1.6128922327870476e-05,
+        "native:positive": -0.018950484544481453,
+        "blurred:positive": -0.0004549962815941222
+      },
+      "one_step_source_counts": {
+        "native:negative": 36,
+        "blurred:negative": 63,
+        "native:positive": 28,
+        "blurred:positive": 1
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000035",
+      "event": "santa-rosa-wildfire",
+      "relation": "far_same_bin",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 988,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": 0.4400614502938341,
+      "candidate_rate_given_negative_source_truth": 0.486820727926318,
+      "within_scene_conditional_difference": -0.04675927763248389,
+      "eligible_positive_truth_sources": 29,
+      "eligible_negative_truth_sources": 35,
+      "one_step_brier_delta": {
+        "native:negative": 0.004848695976406304,
+        "blurred:negative": 1.6128922327870476e-05,
+        "native:positive": -0.018950484544481453,
+        "blurred:positive": -0.0004549962815941222
+      },
+      "one_step_source_counts": {
+        "native:negative": 36,
+        "blurred:negative": 63,
+        "native:positive": 28,
+        "blurred:positive": 1
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000039",
+      "event": "santa-rosa-wildfire",
+      "relation": "same_bin",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 1070,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": 0.19268774703557312,
+      "candidate_rate_given_negative_source_truth": 0.16755537325676784,
+      "within_scene_conditional_difference": 0.025132373778805284,
+      "eligible_positive_truth_sources": 11,
+      "eligible_negative_truth_sources": 53,
+      "one_step_brier_delta": {
+        "native:negative": 0.00037436872867672576,
+        "blurred:negative": 1.1115697157196479e-06,
+        "native:positive": 0.0026568467805750985,
+        "blurred:positive": 0.00012955918066330044
+      },
+      "one_step_source_counts": {
+        "native:negative": 54,
+        "blurred:negative": 61,
+        "native:positive": 10,
+        "blurred:positive": 3
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000039",
+      "event": "santa-rosa-wildfire",
+      "relation": "same_bin",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 1050,
+      "shared_uid_pairs_excluded": 20,
+      "candidate_rate_given_positive_source_truth": 0.1093167701863354,
+      "candidate_rate_given_negative_source_truth": 0.16755537325676784,
+      "within_scene_conditional_difference": -0.05823860307043244,
+      "eligible_positive_truth_sources": 11,
+      "eligible_negative_truth_sources": 53,
+      "one_step_brier_delta": {
+        "native:negative": 0.00033492310396056514,
+        "blurred:negative": 4.6989703717359045e-07,
+        "native:positive": 0.00896062895358814,
+        "blurred:positive": 0.00024247701313043907
+      },
+      "one_step_source_counts": {
+        "native:negative": 54,
+        "blurred:negative": 61,
+        "native:positive": 10,
+        "blurred:positive": 3
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000039",
+      "event": "santa-rosa-wildfire",
+      "relation": "neighbors",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 420,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": 0.41363636363636364,
+      "candidate_rate_given_negative_source_truth": 0.129874213836478,
+      "within_scene_conditional_difference": 0.2837621497998857,
+      "eligible_positive_truth_sources": 11,
+      "eligible_negative_truth_sources": 53,
+      "one_step_brier_delta": {
+        "native:negative": -0.0003205185917913047,
+        "blurred:negative": 4.419615631108292e-07,
+        "native:positive": -0.01847804493504355,
+        "blurred:positive": -0.00048182516982068585
+      },
+      "one_step_source_counts": {
+        "native:negative": 54,
+        "blurred:negative": 61,
+        "native:positive": 10,
+        "blurred:positive": 3
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000039",
+      "event": "santa-rosa-wildfire",
+      "relation": "neighbors",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 392,
+      "shared_uid_pairs_excluded": 28,
+      "candidate_rate_given_positive_source_truth": 0.09805194805194806,
+      "candidate_rate_given_negative_source_truth": 0.129874213836478,
+      "within_scene_conditional_difference": -0.03182226578452993,
+      "eligible_positive_truth_sources": 11,
+      "eligible_negative_truth_sources": 53,
+      "one_step_brier_delta": {
+        "native:negative": -0.00048086101019131845,
+        "blurred:negative": -1.5340687972964813e-06,
+        "native:positive": 0.0028356095009650405,
+        "blurred:positive": 0.00014134061696276004
+      },
+      "one_step_source_counts": {
+        "native:negative": 54,
+        "blurred:negative": 61,
+        "native:positive": 10,
+        "blurred:positive": 3
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000039",
+      "event": "santa-rosa-wildfire",
+      "relation": "neighbors_same_bin",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 158,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": 0.5151515151515151,
+      "candidate_rate_given_negative_source_truth": 0.12198581560283688,
+      "within_scene_conditional_difference": 0.39316569954867825,
+      "eligible_positive_truth_sources": 11,
+      "eligible_negative_truth_sources": 47,
+      "one_step_brier_delta": {
+        "native:negative": -0.00044530247140805925,
+        "blurred:negative": 1.7230633231654477e-06,
+        "native:positive": -0.030072660035208813,
+        "blurred:positive": -0.0004090084921094528
+      },
+      "one_step_source_counts": {
+        "native:negative": 48,
+        "blurred:negative": 55,
+        "native:positive": 10,
+        "blurred:positive": 3
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000039",
+      "event": "santa-rosa-wildfire",
+      "relation": "neighbors_same_bin",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 138,
+      "shared_uid_pairs_excluded": 20,
+      "candidate_rate_given_positive_source_truth": 0.1,
+      "candidate_rate_given_negative_source_truth": 0.12198581560283688,
+      "within_scene_conditional_difference": -0.02198581560283687,
+      "eligible_positive_truth_sources": 10,
+      "eligible_negative_truth_sources": 47,
+      "one_step_brier_delta": {
+        "native:negative": -0.000548847236287982,
+        "blurred:negative": -1.2280685686136176e-06,
+        "native:positive": 0.003224308751490429,
+        "blurred:positive": 0.0004274280749786777
+      },
+      "one_step_source_counts": {
+        "native:negative": 48,
+        "blurred:negative": 54,
+        "native:positive": 9,
+        "blurred:positive": 3
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000039",
+      "event": "santa-rosa-wildfire",
+      "relation": "far_same_bin",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 912,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": 0.10976699130372082,
+      "candidate_rate_given_negative_source_truth": 0.17491769512623534,
+      "within_scene_conditional_difference": -0.06515070382251452,
+      "eligible_positive_truth_sources": 11,
+      "eligible_negative_truth_sources": 53,
+      "one_step_brier_delta": {
+        "native:negative": 0.0004750126468186458,
+        "blurred:negative": 8.122429766026167e-07,
+        "native:positive": 0.009566161630488098,
+        "blurred:positive": 0.00022982871760363297
+      },
+      "one_step_source_counts": {
+        "native:negative": 54,
+        "blurred:negative": 61,
+        "native:positive": 10,
+        "blurred:positive": 3
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000039",
+      "event": "santa-rosa-wildfire",
+      "relation": "far_same_bin",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 912,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": 0.10976699130372082,
+      "candidate_rate_given_negative_source_truth": 0.17491769512623534,
+      "within_scene_conditional_difference": -0.06515070382251452,
+      "eligible_positive_truth_sources": 11,
+      "eligible_negative_truth_sources": 53,
+      "one_step_brier_delta": {
+        "native:negative": 0.0004750126468186458,
+        "blurred:negative": 8.122429766026167e-07,
+        "native:positive": 0.009566161630488098,
+        "blurred:positive": 0.00022982871760363297
+      },
+      "one_step_source_counts": {
+        "native:negative": 54,
+        "blurred:negative": 61,
+        "native:positive": 10,
+        "blurred:positive": 3
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000056",
+      "event": "santa-rosa-wildfire",
+      "relation": "same_bin",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 1190,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": 0.43978243978243975,
+      "candidate_rate_given_negative_source_truth": 0.3081196581196581,
+      "within_scene_conditional_difference": 0.13166278166278167,
+      "eligible_positive_truth_sources": 22,
+      "eligible_negative_truth_sources": 40,
+      "one_step_brier_delta": {
+        "native:negative": 0.003445693087577741,
+        "blurred:negative": 1.3041098921469285e-05,
+        "native:positive": -0.018473449056203704
+      },
+      "one_step_source_counts": {
+        "native:negative": 46,
+        "blurred:negative": 62,
+        "native:positive": 16
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000056",
+      "event": "santa-rosa-wildfire",
+      "relation": "same_bin",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 1188,
+      "shared_uid_pairs_excluded": 2,
+      "candidate_rate_given_positive_source_truth": 0.43570318570318567,
+      "candidate_rate_given_negative_source_truth": 0.3081196581196581,
+      "within_scene_conditional_difference": 0.1275835275835276,
+      "eligible_positive_truth_sources": 22,
+      "eligible_negative_truth_sources": 40,
+      "one_step_brier_delta": {
+        "native:negative": 0.0034263000881353464,
+        "blurred:negative": 1.2938981512402912e-05,
+        "native:positive": -0.01822127819972923
+      },
+      "one_step_source_counts": {
+        "native:negative": 46,
+        "blurred:negative": 62,
+        "native:positive": 16
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000056",
+      "event": "santa-rosa-wildfire",
+      "relation": "neighbors",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 406,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": 0.5806818181818182,
+      "candidate_rate_given_negative_source_truth": 0.27401785714285715,
+      "within_scene_conditional_difference": 0.30666396103896104,
+      "eligible_positive_truth_sources": 22,
+      "eligible_negative_truth_sources": 40,
+      "one_step_brier_delta": {
+        "native:negative": 0.002716907319361877,
+        "blurred:negative": 1.335325938286767e-05,
+        "native:positive": -0.0298327937786771
+      },
+      "one_step_source_counts": {
+        "native:negative": 46,
+        "blurred:negative": 62,
+        "native:positive": 16
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000056",
+      "event": "santa-rosa-wildfire",
+      "relation": "neighbors",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 384,
+      "shared_uid_pairs_excluded": 22,
+      "candidate_rate_given_positive_source_truth": 0.5206709956709956,
+      "candidate_rate_given_negative_source_truth": 0.27401785714285715,
+      "within_scene_conditional_difference": 0.24665313852813847,
+      "eligible_positive_truth_sources": 22,
+      "eligible_negative_truth_sources": 40,
+      "one_step_brier_delta": {
+        "native:negative": 0.0025299311173574536,
+        "blurred:negative": 1.2007103603290576e-05,
+        "native:positive": -0.025467933525065083
+      },
+      "one_step_source_counts": {
+        "native:negative": 46,
+        "blurred:negative": 62,
+        "native:positive": 16
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000056",
+      "event": "santa-rosa-wildfire",
+      "relation": "neighbors_same_bin",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 232,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": 0.643095238095238,
+      "candidate_rate_given_negative_source_truth": 0.2496947496947497,
+      "within_scene_conditional_difference": 0.39340048840048836,
+      "eligible_positive_truth_sources": 20,
+      "eligible_negative_truth_sources": 39,
+      "one_step_brier_delta": {
+        "native:negative": 0.003252314084723808,
+        "blurred:negative": 1.4713770662816757e-05,
+        "native:positive": -0.029563118726599093
+      },
+      "one_step_source_counts": {
+        "native:negative": 44,
+        "blurred:negative": 59,
+        "native:positive": 15
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000056",
+      "event": "santa-rosa-wildfire",
+      "relation": "neighbors_same_bin",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 230,
+      "shared_uid_pairs_excluded": 2,
+      "candidate_rate_given_positive_source_truth": 0.643095238095238,
+      "candidate_rate_given_negative_source_truth": 0.2496947496947497,
+      "within_scene_conditional_difference": 0.39340048840048836,
+      "eligible_positive_truth_sources": 20,
+      "eligible_negative_truth_sources": 39,
+      "one_step_brier_delta": {
+        "native:negative": 0.003252314084723808,
+        "blurred:negative": 1.4713770662816757e-05,
+        "native:positive": -0.029563118726599093
+      },
+      "one_step_source_counts": {
+        "native:negative": 44,
+        "blurred:negative": 59,
+        "native:positive": 15
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000056",
+      "event": "santa-rosa-wildfire",
+      "relation": "far_same_bin",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 958,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": 0.40015467624163276,
+      "candidate_rate_given_negative_source_truth": 0.30191897776136906,
+      "within_scene_conditional_difference": 0.0982356984802637,
+      "eligible_positive_truth_sources": 21,
+      "eligible_negative_truth_sources": 40,
+      "one_step_brier_delta": {
+        "native:negative": 0.0033988979571750724,
+        "blurred:negative": 1.2459340628564928e-05,
+        "native:positive": -0.015823158067892848
+      },
+      "one_step_source_counts": {
+        "native:negative": 45,
+        "blurred:negative": 61,
+        "native:positive": 16
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000056",
+      "event": "santa-rosa-wildfire",
+      "relation": "far_same_bin",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 958,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": 0.40015467624163276,
+      "candidate_rate_given_negative_source_truth": 0.30191897776136906,
+      "within_scene_conditional_difference": 0.0982356984802637,
+      "eligible_positive_truth_sources": 21,
+      "eligible_negative_truth_sources": 40,
+      "one_step_brier_delta": {
+        "native:negative": 0.0033988979571750724,
+        "blurred:negative": 1.2459340628564928e-05,
+        "native:positive": -0.015823158067892848
+      },
+      "one_step_source_counts": {
+        "native:negative": 45,
+        "blurred:negative": 61,
+        "native:positive": 16
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000079",
+      "event": "santa-rosa-wildfire",
+      "relation": "same_bin",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 1006,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": 0.45825651621106167,
+      "candidate_rate_given_negative_source_truth": 0.2837703962703963,
+      "within_scene_conditional_difference": 0.17448611994066537,
+      "eligible_positive_truth_sources": 22,
+      "eligible_negative_truth_sources": 42,
+      "one_step_brier_delta": {
+        "native:negative": 0.002302624462157582,
+        "blurred:negative": 1.2085619120193267e-05,
+        "native:positive": -0.024536692410070268
+      },
+      "one_step_source_counts": {
+        "native:negative": 44,
+        "blurred:negative": 64,
+        "native:positive": 20
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000079",
+      "event": "santa-rosa-wildfire",
+      "relation": "same_bin",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 990,
+      "shared_uid_pairs_excluded": 16,
+      "candidate_rate_given_positive_source_truth": 0.430840750158932,
+      "candidate_rate_given_negative_source_truth": 0.2837703962703963,
+      "within_scene_conditional_difference": 0.14707035388853568,
+      "eligible_positive_truth_sources": 22,
+      "eligible_negative_truth_sources": 42,
+      "one_step_brier_delta": {
+        "native:negative": 0.002302624462157582,
+        "blurred:negative": 1.141318496189871e-05,
+        "native:positive": -0.021816556803106645
+      },
+      "one_step_source_counts": {
+        "native:negative": 44,
+        "blurred:negative": 64,
+        "native:positive": 20
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000079",
+      "event": "santa-rosa-wildfire",
+      "relation": "neighbors",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 420,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": 0.6852272727272727,
+      "candidate_rate_given_negative_source_truth": 0.15912698412698412,
+      "within_scene_conditional_difference": 0.5261002886002886,
+      "eligible_positive_truth_sources": 22,
+      "eligible_negative_truth_sources": 42,
+      "one_step_brier_delta": {
+        "native:negative": 0.0002036939014364158,
+        "blurred:negative": 1.0582258628401343e-05,
+        "native:positive": -0.04136115161003463
+      },
+      "one_step_source_counts": {
+        "native:negative": 44,
+        "blurred:negative": 64,
+        "native:positive": 20
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000079",
+      "event": "santa-rosa-wildfire",
+      "relation": "neighbors",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 346,
+      "shared_uid_pairs_excluded": 74,
+      "candidate_rate_given_positive_source_truth": 0.47445887445887447,
+      "candidate_rate_given_negative_source_truth": 0.15912698412698412,
+      "within_scene_conditional_difference": 0.31533189033189035,
+      "eligible_positive_truth_sources": 22,
+      "eligible_negative_truth_sources": 42,
+      "one_step_brier_delta": {
+        "native:negative": 0.00016970905836563452,
+        "blurred:negative": 6.723792580215349e-06,
+        "native:positive": -0.02516029050627588
+      },
+      "one_step_source_counts": {
+        "native:negative": 44,
+        "blurred:negative": 64,
+        "native:positive": 20
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000079",
+      "event": "santa-rosa-wildfire",
+      "relation": "neighbors_same_bin",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 136,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": 0.6666666666666666,
+      "candidate_rate_given_negative_source_truth": 0.11929824561403508,
+      "within_scene_conditional_difference": 0.5473684210526315,
+      "eligible_positive_truth_sources": 18,
+      "eligible_negative_truth_sources": 38,
+      "one_step_brier_delta": {
+        "native:positive": -0.047730902578103765,
+        "blurred:negative": 1.0269260170910751e-05,
+        "native:negative": -0.0003978598890785493
+      },
+      "one_step_source_counts": {
+        "native:positive": 16,
+        "blurred:negative": 56,
+        "native:negative": 40
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000079",
+      "event": "santa-rosa-wildfire",
+      "relation": "neighbors_same_bin",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 120,
+      "shared_uid_pairs_excluded": 16,
+      "candidate_rate_given_positive_source_truth": 0.5714285714285714,
+      "candidate_rate_given_negative_source_truth": 0.11929824561403508,
+      "within_scene_conditional_difference": 0.4521303258145363,
+      "eligible_positive_truth_sources": 14,
+      "eligible_negative_truth_sources": 38,
+      "one_step_brier_delta": {
+        "native:positive": -0.04090236702817394,
+        "blurred:negative": 6.7989939327128935e-06,
+        "native:negative": -0.0003978598890785493
+      },
+      "one_step_source_counts": {
+        "native:positive": 12,
+        "blurred:negative": 52,
+        "native:negative": 40
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000079",
+      "event": "santa-rosa-wildfire",
+      "relation": "far_same_bin",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 870,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": 0.4089536659512736,
+      "candidate_rate_given_negative_source_truth": 0.315753387704405,
+      "within_scene_conditional_difference": 0.0932002782468686,
+      "eligible_positive_truth_sources": 22,
+      "eligible_negative_truth_sources": 42,
+      "one_step_brier_delta": {
+        "native:negative": 0.0028171997748720613,
+        "blurred:negative": 1.2100721978382375e-05,
+        "native:positive": -0.01954461492054696
+      },
+      "one_step_source_counts": {
+        "native:negative": 44,
+        "blurred:negative": 64,
+        "native:positive": 20
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000079",
+      "event": "santa-rosa-wildfire",
+      "relation": "far_same_bin",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 870,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": 0.4089536659512736,
+      "candidate_rate_given_negative_source_truth": 0.315753387704405,
+      "within_scene_conditional_difference": 0.0932002782468686,
+      "eligible_positive_truth_sources": 22,
+      "eligible_negative_truth_sources": 42,
+      "one_step_brier_delta": {
+        "native:negative": 0.0028171997748720613,
+        "blurred:negative": 1.2100721978382375e-05,
+        "native:positive": -0.01954461492054696
+      },
+      "one_step_source_counts": {
+        "native:negative": 44,
+        "blurred:negative": 64,
+        "native:positive": 20
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000125",
+      "event": "santa-rosa-wildfire",
+      "relation": "same_bin",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 1062,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 64,
+      "one_step_brier_delta": {
+        "native:negative": -0.00236296287194019,
+        "blurred:negative": -8.635069490071129e-06
+      },
+      "one_step_source_counts": {
+        "native:negative": 64,
+        "blurred:negative": 64
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000125",
+      "event": "santa-rosa-wildfire",
+      "relation": "same_bin",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 1062,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 64,
+      "one_step_brier_delta": {
+        "native:negative": -0.00236296287194019,
+        "blurred:negative": -8.635069490071129e-06
+      },
+      "one_step_source_counts": {
+        "native:negative": 64,
+        "blurred:negative": 64
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000125",
+      "event": "santa-rosa-wildfire",
+      "relation": "neighbors",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 420,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 64,
+      "one_step_brier_delta": {
+        "native:negative": -0.002027687189664285,
+        "blurred:negative": -7.472214312343736e-06
+      },
+      "one_step_source_counts": {
+        "native:negative": 64,
+        "blurred:negative": 64
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000125",
+      "event": "santa-rosa-wildfire",
+      "relation": "neighbors",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 420,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 64,
+      "one_step_brier_delta": {
+        "native:negative": -0.002027687189664285,
+        "blurred:negative": -7.472214312343736e-06
+      },
+      "one_step_source_counts": {
+        "native:negative": 64,
+        "blurred:negative": 64
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000125",
+      "event": "santa-rosa-wildfire",
+      "relation": "neighbors_same_bin",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 196,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 57,
+      "one_step_brier_delta": {
+        "native:negative": -0.0023063795274233124,
+        "blurred:negative": -8.426461516582296e-06
+      },
+      "one_step_source_counts": {
+        "native:negative": 57,
+        "blurred:negative": 57
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000125",
+      "event": "santa-rosa-wildfire",
+      "relation": "neighbors_same_bin",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 196,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 57,
+      "one_step_brier_delta": {
+        "native:negative": -0.0023063795274233124,
+        "blurred:negative": -8.426461516582296e-06
+      },
+      "one_step_source_counts": {
+        "native:negative": 57,
+        "blurred:negative": 57
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000125",
+      "event": "santa-rosa-wildfire",
+      "relation": "far_same_bin",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 866,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 64,
+      "one_step_brier_delta": {
+        "native:negative": -0.00236296287194019,
+        "blurred:negative": -8.635069490071129e-06
+      },
+      "one_step_source_counts": {
+        "native:negative": 64,
+        "blurred:negative": 64
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000125",
+      "event": "santa-rosa-wildfire",
+      "relation": "far_same_bin",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 866,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 64,
+      "one_step_brier_delta": {
+        "native:negative": -0.00236296287194019,
+        "blurred:negative": -8.635069490071129e-06
+      },
+      "one_step_source_counts": {
+        "native:negative": 64,
+        "blurred:negative": 64
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000151",
+      "event": "santa-rosa-wildfire",
+      "relation": "same_bin",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 1168,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": 0.10352941176470588,
+      "candidate_rate_given_negative_source_truth": 0.07597208374875374,
+      "within_scene_conditional_difference": 0.02755732801595215,
+      "eligible_positive_truth_sources": 5,
+      "eligible_negative_truth_sources": 59,
+      "one_step_brier_delta": {
+        "native:negative": -0.0004502570654714297,
+        "blurred:negative": -1.9837302470813942e-06,
+        "native:positive": 0.0103957783167838,
+        "blurred:positive": 0.0002132672698967955
+      },
+      "one_step_source_counts": {
+        "native:negative": 59,
+        "blurred:negative": 62,
+        "native:positive": 5,
+        "blurred:positive": 2
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000151",
+      "event": "santa-rosa-wildfire",
+      "relation": "same_bin",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 1168,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": 0.10352941176470588,
+      "candidate_rate_given_negative_source_truth": 0.07597208374875374,
+      "within_scene_conditional_difference": 0.02755732801595215,
+      "eligible_positive_truth_sources": 5,
+      "eligible_negative_truth_sources": 59,
+      "one_step_brier_delta": {
+        "native:negative": -0.0004502570654714297,
+        "blurred:negative": -1.9837302470813942e-06,
+        "native:positive": 0.0103957783167838,
+        "blurred:positive": 0.0002132672698967955
+      },
+      "one_step_source_counts": {
+        "native:negative": 59,
+        "blurred:negative": 62,
+        "native:positive": 5,
+        "blurred:positive": 2
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000151",
+      "event": "santa-rosa-wildfire",
+      "relation": "neighbors",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 420,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": 0.15666666666666668,
+      "candidate_rate_given_negative_source_truth": 0.07457627118644068,
+      "within_scene_conditional_difference": 0.082090395480226,
+      "eligible_positive_truth_sources": 5,
+      "eligible_negative_truth_sources": 59,
+      "one_step_brier_delta": {
+        "native:negative": -0.0006460627453317339,
+        "blurred:negative": -2.2992973756758205e-06,
+        "native:positive": -0.0031612196708506526,
+        "blurred:positive": -0.00019120831619487974
+      },
+      "one_step_source_counts": {
+        "native:negative": 59,
+        "blurred:negative": 62,
+        "native:positive": 5,
+        "blurred:positive": 2
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000151",
+      "event": "santa-rosa-wildfire",
+      "relation": "neighbors",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 416,
+      "shared_uid_pairs_excluded": 4,
+      "candidate_rate_given_positive_source_truth": 0,
+      "candidate_rate_given_negative_source_truth": 0.07457627118644068,
+      "within_scene_conditional_difference": -0.07457627118644068,
+      "eligible_positive_truth_sources": 5,
+      "eligible_negative_truth_sources": 59,
+      "one_step_brier_delta": {
+        "native:negative": -0.0006460627453317339,
+        "blurred:negative": -2.6973637447764404e-06,
+        "native:positive": 0.00794066538232961,
+        "blurred:positive": 5.0390099433546666e-05
+      },
+      "one_step_source_counts": {
+        "native:negative": 59,
+        "blurred:negative": 62,
+        "native:positive": 5,
+        "blurred:positive": 2
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000151",
+      "event": "santa-rosa-wildfire",
+      "relation": "neighbors_same_bin",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 186,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": 0,
+      "candidate_rate_given_negative_source_truth": 0.05817610062893082,
+      "within_scene_conditional_difference": -0.05817610062893082,
+      "eligible_positive_truth_sources": 2,
+      "eligible_negative_truth_sources": 53,
+      "one_step_brier_delta": {
+        "native:negative": -0.0006169121631859026,
+        "blurred:negative": -2.8858702005948616e-06,
+        "native:positive": 0.021865964620443806
+      },
+      "one_step_source_counts": {
+        "native:negative": 53,
+        "blurred:negative": 55,
+        "native:positive": 2
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000151",
+      "event": "santa-rosa-wildfire",
+      "relation": "neighbors_same_bin",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 186,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": 0,
+      "candidate_rate_given_negative_source_truth": 0.05817610062893082,
+      "within_scene_conditional_difference": -0.05817610062893082,
+      "eligible_positive_truth_sources": 2,
+      "eligible_negative_truth_sources": 53,
+      "one_step_brier_delta": {
+        "native:negative": -0.0006169121631859026,
+        "blurred:negative": -2.8858702005948616e-06,
+        "native:positive": 0.021865964620443806
+      },
+      "one_step_source_counts": {
+        "native:negative": 53,
+        "blurred:negative": 55,
+        "native:positive": 2
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000151",
+      "event": "santa-rosa-wildfire",
+      "relation": "far_same_bin",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 982,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": 0.13271708683473388,
+      "candidate_rate_given_negative_source_truth": 0.08095873053500172,
+      "within_scene_conditional_difference": 0.05175835629973216,
+      "eligible_positive_truth_sources": 5,
+      "eligible_negative_truth_sources": 59,
+      "one_step_brier_delta": {
+        "native:negative": -0.00040606536717690113,
+        "blurred:negative": -1.6577305444767015e-06,
+        "native:positive": 0.007770477685978378,
+        "blurred:positive": 0.0002132672698967955
+      },
+      "one_step_source_counts": {
+        "native:negative": 59,
+        "blurred:negative": 62,
+        "native:positive": 5,
+        "blurred:positive": 2
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000151",
+      "event": "santa-rosa-wildfire",
+      "relation": "far_same_bin",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 982,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": 0.13271708683473388,
+      "candidate_rate_given_negative_source_truth": 0.08095873053500172,
+      "within_scene_conditional_difference": 0.05175835629973216,
+      "eligible_positive_truth_sources": 5,
+      "eligible_negative_truth_sources": 59,
+      "one_step_brier_delta": {
+        "native:negative": -0.00040606536717690113,
+        "blurred:negative": -1.6577305444767015e-06,
+        "native:positive": 0.007770477685978378,
+        "blurred:positive": 0.0002132672698967955
+      },
+      "one_step_source_counts": {
+        "native:negative": 59,
+        "blurred:negative": 62,
+        "native:positive": 5,
+        "blurred:positive": 2
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000169",
+      "event": "santa-rosa-wildfire",
+      "relation": "same_bin",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 2342,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 63,
+      "one_step_brier_delta": {
+        "native:negative": -0.0004043247998656151,
+        "blurred:negative": -1.5702423638955254e-06
+      },
+      "one_step_source_counts": {
+        "native:negative": 63,
+        "blurred:negative": 63
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000169",
+      "event": "santa-rosa-wildfire",
+      "relation": "same_bin",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 2342,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 63,
+      "one_step_brier_delta": {
+        "native:negative": -0.0004043247998656151,
+        "blurred:negative": -1.5702423638955254e-06
+      },
+      "one_step_source_counts": {
+        "native:negative": 63,
+        "blurred:negative": 63
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000169",
+      "event": "santa-rosa-wildfire",
+      "relation": "neighbors",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 420,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 64,
+      "one_step_brier_delta": {
+        "native:negative": -0.00026850019698851504,
+        "blurred:negative": -1.0636910804677675e-06
+      },
+      "one_step_source_counts": {
+        "native:negative": 64,
+        "blurred:negative": 64
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000169",
+      "event": "santa-rosa-wildfire",
+      "relation": "neighbors",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 420,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 64,
+      "one_step_brier_delta": {
+        "native:negative": -0.00026850019698851504,
+        "blurred:negative": -1.0636910804677675e-06
+      },
+      "one_step_source_counts": {
+        "native:negative": 64,
+        "blurred:negative": 64
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000169",
+      "event": "santa-rosa-wildfire",
+      "relation": "neighbors_same_bin",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 254,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 60,
+      "one_step_brier_delta": {
+        "native:negative": -0.00036101001571516456,
+        "blurred:negative": -1.4040188176262942e-06
+      },
+      "one_step_source_counts": {
+        "native:negative": 60,
+        "blurred:negative": 60
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000169",
+      "event": "santa-rosa-wildfire",
+      "relation": "neighbors_same_bin",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 254,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 60,
+      "one_step_brier_delta": {
+        "native:negative": -0.00036101001571516456,
+        "blurred:negative": -1.4040188176262942e-06
+      },
+      "one_step_source_counts": {
+        "native:negative": 60,
+        "blurred:negative": 60
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000169",
+      "event": "santa-rosa-wildfire",
+      "relation": "far_same_bin",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 2088,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 63,
+      "one_step_brier_delta": {
+        "native:negative": -0.0004043247998656151,
+        "blurred:negative": -1.5702423638955254e-06
+      },
+      "one_step_source_counts": {
+        "native:negative": 63,
+        "blurred:negative": 63
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000169",
+      "event": "santa-rosa-wildfire",
+      "relation": "far_same_bin",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 2088,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 63,
+      "one_step_brier_delta": {
+        "native:negative": -0.0004043247998656151,
+        "blurred:negative": -1.5702423638955254e-06
+      },
+      "one_step_source_counts": {
+        "native:negative": 63,
+        "blurred:negative": 63
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000177",
+      "event": "santa-rosa-wildfire",
+      "relation": "same_bin",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 3210,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 64,
+      "one_step_brier_delta": {
+        "native:negative": -0.00035402948099294747,
+        "blurred:negative": -1.3350452513174771e-06
+      },
+      "one_step_source_counts": {
+        "native:negative": 64,
+        "blurred:negative": 64
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000177",
+      "event": "santa-rosa-wildfire",
+      "relation": "same_bin",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 3210,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 64,
+      "one_step_brier_delta": {
+        "native:negative": -0.00035402948099294747,
+        "blurred:negative": -1.3350452513174771e-06
+      },
+      "one_step_source_counts": {
+        "native:negative": 64,
+        "blurred:negative": 64
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000177",
+      "event": "santa-rosa-wildfire",
+      "relation": "neighbors",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 420,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 64,
+      "one_step_brier_delta": {
+        "native:negative": -0.00020794097922961994,
+        "blurred:negative": -8.208510035059814e-07
+      },
+      "one_step_source_counts": {
+        "native:negative": 64,
+        "blurred:negative": 64
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000177",
+      "event": "santa-rosa-wildfire",
+      "relation": "neighbors",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 420,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 64,
+      "one_step_brier_delta": {
+        "native:negative": -0.00020794097922961994,
+        "blurred:negative": -8.208510035059814e-07
+      },
+      "one_step_source_counts": {
+        "native:negative": 64,
+        "blurred:negative": 64
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000177",
+      "event": "santa-rosa-wildfire",
+      "relation": "neighbors_same_bin",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 338,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 59,
+      "one_step_brier_delta": {
+        "native:negative": -0.0002256983977893053,
+        "blurred:negative": -8.542440556053274e-07
+      },
+      "one_step_source_counts": {
+        "native:negative": 59,
+        "blurred:negative": 59
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000177",
+      "event": "santa-rosa-wildfire",
+      "relation": "neighbors_same_bin",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 338,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 59,
+      "one_step_brier_delta": {
+        "native:negative": -0.0002256983977893053,
+        "blurred:negative": -8.542440556053274e-07
+      },
+      "one_step_source_counts": {
+        "native:negative": 59,
+        "blurred:negative": 59
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000177",
+      "event": "santa-rosa-wildfire",
+      "relation": "far_same_bin",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 2872,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 64,
+      "one_step_brier_delta": {
+        "native:negative": -0.00035402948099294747,
+        "blurred:negative": -1.3350452513174771e-06
+      },
+      "one_step_source_counts": {
+        "native:negative": 64,
+        "blurred:negative": 64
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000177",
+      "event": "santa-rosa-wildfire",
+      "relation": "far_same_bin",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 2872,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 64,
+      "one_step_brier_delta": {
+        "native:negative": -0.00035402948099294747,
+        "blurred:negative": -1.3350452513174771e-06
+      },
+      "one_step_source_counts": {
+        "native:negative": 64,
+        "blurred:negative": 64
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000182",
+      "event": "santa-rosa-wildfire",
+      "relation": "same_bin",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 2054,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 63,
+      "one_step_brier_delta": {
+        "native:negative": -0.0015755054523545703,
+        "blurred:negative": -5.92188131882484e-06
+      },
+      "one_step_source_counts": {
+        "native:negative": 63,
+        "blurred:negative": 63
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000182",
+      "event": "santa-rosa-wildfire",
+      "relation": "same_bin",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 2054,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 63,
+      "one_step_brier_delta": {
+        "native:negative": -0.0015755054523545703,
+        "blurred:negative": -5.92188131882484e-06
+      },
+      "one_step_source_counts": {
+        "native:negative": 63,
+        "blurred:negative": 63
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000182",
+      "event": "santa-rosa-wildfire",
+      "relation": "neighbors",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 420,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 64,
+      "one_step_brier_delta": {
+        "native:negative": -0.0013648732644785846,
+        "blurred:negative": -5.196923776552278e-06
+      },
+      "one_step_source_counts": {
+        "native:negative": 64,
+        "blurred:negative": 64
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000182",
+      "event": "santa-rosa-wildfire",
+      "relation": "neighbors",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 420,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 64,
+      "one_step_brier_delta": {
+        "native:negative": -0.0013648732644785846,
+        "blurred:negative": -5.196923776552278e-06
+      },
+      "one_step_source_counts": {
+        "native:negative": 64,
+        "blurred:negative": 64
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000182",
+      "event": "santa-rosa-wildfire",
+      "relation": "neighbors_same_bin",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 220,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 57,
+      "one_step_brier_delta": {
+        "native:negative": -0.0015127496352376638,
+        "blurred:negative": -5.713380552904913e-06
+      },
+      "one_step_source_counts": {
+        "native:negative": 57,
+        "blurred:negative": 57
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000182",
+      "event": "santa-rosa-wildfire",
+      "relation": "neighbors_same_bin",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 220,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 57,
+      "one_step_brier_delta": {
+        "native:negative": -0.0015127496352376638,
+        "blurred:negative": -5.713380552904913e-06
+      },
+      "one_step_source_counts": {
+        "native:negative": 57,
+        "blurred:negative": 57
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000182",
+      "event": "santa-rosa-wildfire",
+      "relation": "far_same_bin",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 1834,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 63,
+      "one_step_brier_delta": {
+        "native:negative": -0.0015755054523545703,
+        "blurred:negative": -5.92188131882484e-06
+      },
+      "one_step_source_counts": {
+        "native:negative": 63,
+        "blurred:negative": 63
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000182",
+      "event": "santa-rosa-wildfire",
+      "relation": "far_same_bin",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 1834,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": null,
+      "candidate_rate_given_negative_source_truth": 0,
+      "within_scene_conditional_difference": null,
+      "eligible_positive_truth_sources": 0,
+      "eligible_negative_truth_sources": 63,
+      "one_step_brier_delta": {
+        "native:negative": -0.0015755054523545703,
+        "blurred:negative": -5.92188131882484e-06
+      },
+      "one_step_source_counts": {
+        "native:negative": 63,
+        "blurred:negative": 63
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000196",
+      "event": "santa-rosa-wildfire",
+      "relation": "same_bin",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 1646,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": 0.5466269841269842,
+      "candidate_rate_given_negative_source_truth": 0.3846801346801347,
+      "within_scene_conditional_difference": 0.1619468494468495,
+      "eligible_positive_truth_sources": 28,
+      "eligible_negative_truth_sources": 33,
+      "one_step_brier_delta": {
+        "native:negative": 0.0039032358214538933,
+        "blurred:negative": 1.7878044670631967e-05,
+        "native:positive": -0.027737483333097505,
+        "blurred:positive": -0.0007412456937052169
+      },
+      "one_step_source_counts": {
+        "native:negative": 32,
+        "blurred:negative": 56,
+        "native:positive": 29,
+        "blurred:positive": 5
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000196",
+      "event": "santa-rosa-wildfire",
+      "relation": "same_bin",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 1630,
+      "shared_uid_pairs_excluded": 16,
+      "candidate_rate_given_positive_source_truth": 0.5401844070961718,
+      "candidate_rate_given_negative_source_truth": 0.3846801346801347,
+      "within_scene_conditional_difference": 0.1555042724160371,
+      "eligible_positive_truth_sources": 28,
+      "eligible_negative_truth_sources": 33,
+      "one_step_brier_delta": {
+        "native:negative": 0.0038962276508965063,
+        "blurred:negative": 1.769113043645131e-05,
+        "native:positive": -0.02721068057185551,
+        "blurred:positive": -0.0007253748184362863
+      },
+      "one_step_source_counts": {
+        "native:negative": 32,
+        "blurred:negative": 56,
+        "native:positive": 29,
+        "blurred:positive": 5
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000196",
+      "event": "santa-rosa-wildfire",
+      "relation": "neighbors",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 388,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": 0.5349914965986394,
+      "candidate_rate_given_negative_source_truth": 0.3859593837535014,
+      "within_scene_conditional_difference": 0.149032112845138,
+      "eligible_positive_truth_sources": 28,
+      "eligible_negative_truth_sources": 34,
+      "one_step_brier_delta": {
+        "native:negative": 0.003791987261245786,
+        "blurred:negative": 1.7461013325973413e-05,
+        "native:positive": -0.026881323658725798,
+        "blurred:positive": -0.0006718263150688464
+      },
+      "one_step_source_counts": {
+        "native:negative": 33,
+        "blurred:negative": 57,
+        "native:positive": 29,
+        "blurred:positive": 5
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000196",
+      "event": "santa-rosa-wildfire",
+      "relation": "neighbors",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 356,
+      "shared_uid_pairs_excluded": 32,
+      "candidate_rate_given_positive_source_truth": 0.41516754850088183,
+      "candidate_rate_given_negative_source_truth": 0.3859593837535014,
+      "within_scene_conditional_difference": 0.029208164747380416,
+      "eligible_positive_truth_sources": 27,
+      "eligible_negative_truth_sources": 34,
+      "one_step_brier_delta": {
+        "native:negative": 0.00372999767672349,
+        "blurred:negative": 1.3969958329545144e-05,
+        "native:positive": -0.016966563654444166,
+        "blurred:positive": -0.00043079646495183257
+      },
+      "one_step_source_counts": {
+        "native:negative": 33,
+        "blurred:negative": 56,
+        "native:positive": 28,
+        "blurred:positive": 5
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000196",
+      "event": "santa-rosa-wildfire",
+      "relation": "neighbors_same_bin",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 194,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": 0.6055555555555555,
+      "candidate_rate_given_negative_source_truth": 0.3564516129032258,
+      "within_scene_conditional_difference": 0.2491039426523297,
+      "eligible_positive_truth_sources": 27,
+      "eligible_negative_truth_sources": 31,
+      "one_step_brier_delta": {
+        "native:positive": -0.03372817498300896,
+        "blurred:negative": 1.8708525932778208e-05,
+        "native:negative": 0.00306622062941648,
+        "blurred:positive": -0.0007594056375225033
+      },
+      "one_step_source_counts": {
+        "native:positive": 28,
+        "blurred:negative": 53,
+        "native:negative": 30,
+        "blurred:positive": 5
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000196",
+      "event": "santa-rosa-wildfire",
+      "relation": "neighbors_same_bin",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 178,
+      "shared_uid_pairs_excluded": 16,
+      "candidate_rate_given_positive_source_truth": 0.5046666666666667,
+      "candidate_rate_given_negative_source_truth": 0.3564516129032258,
+      "within_scene_conditional_difference": 0.1482150537634409,
+      "eligible_positive_truth_sources": 25,
+      "eligible_negative_truth_sources": 31,
+      "one_step_brier_delta": {
+        "native:positive": -0.02557693249999195,
+        "blurred:negative": 1.5482957618409075e-05,
+        "native:negative": 0.002965302973390112,
+        "blurred:positive": -0.0005414863117146451
+      },
+      "one_step_source_counts": {
+        "native:positive": 26,
+        "blurred:negative": 51,
+        "native:negative": 30,
+        "blurred:positive": 5
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000196",
+      "event": "santa-rosa-wildfire",
+      "relation": "far_same_bin",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 1452,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": 0.5423644737051148,
+      "candidate_rate_given_negative_source_truth": 0.3867352873584545,
+      "within_scene_conditional_difference": 0.15562918634666023,
+      "eligible_positive_truth_sources": 28,
+      "eligible_negative_truth_sources": 33,
+      "one_step_brier_delta": {
+        "native:negative": 0.003971053778171276,
+        "blurred:negative": 1.7813513219157853e-05,
+        "native:positive": -0.02724523064808356,
+        "blurred:positive": -0.0007414919979285117
+      },
+      "one_step_source_counts": {
+        "native:negative": 32,
+        "blurred:negative": 56,
+        "native:positive": 29,
+        "blurred:positive": 5
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000196",
+      "event": "santa-rosa-wildfire",
+      "relation": "far_same_bin",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 1452,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": 0.5423644737051148,
+      "candidate_rate_given_negative_source_truth": 0.3867352873584545,
+      "within_scene_conditional_difference": 0.15562918634666023,
+      "eligible_positive_truth_sources": 28,
+      "eligible_negative_truth_sources": 33,
+      "one_step_brier_delta": {
+        "native:negative": 0.003971053778171276,
+        "blurred:negative": 1.7813513219157853e-05,
+        "native:positive": -0.02724523064808356,
+        "blurred:positive": -0.0007414919979285117
+      },
+      "one_step_source_counts": {
+        "native:negative": 32,
+        "blurred:negative": 56,
+        "native:positive": 29,
+        "blurred:positive": 5
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000220",
+      "event": "santa-rosa-wildfire",
+      "relation": "same_bin",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 1058,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": 0.5626598465473146,
+      "candidate_rate_given_negative_source_truth": 0.4956521739130435,
+      "within_scene_conditional_difference": 0.0670076726342711,
+      "eligible_positive_truth_sources": 34,
+      "eligible_negative_truth_sources": 30,
+      "one_step_brier_delta": {
+        "native:positive": -0.02959342341336732,
+        "blurred:negative": 1.745151365815066e-05,
+        "native:negative": 0.0036318706905598586
+      },
+      "one_step_source_counts": {
+        "native:positive": 31,
+        "blurred:negative": 64,
+        "native:negative": 33
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000220",
+      "event": "santa-rosa-wildfire",
+      "relation": "same_bin",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 1038,
+      "shared_uid_pairs_excluded": 20,
+      "candidate_rate_given_positive_source_truth": 0.5435404218282129,
+      "candidate_rate_given_negative_source_truth": 0.4956521739130435,
+      "within_scene_conditional_difference": 0.047888247915169435,
+      "eligible_positive_truth_sources": 34,
+      "eligible_negative_truth_sources": 30,
+      "one_step_brier_delta": {
+        "native:positive": -0.02833868262004679,
+        "blurred:negative": 1.7090065186243977e-05,
+        "native:negative": 0.0036304744884475297
+      },
+      "one_step_source_counts": {
+        "native:positive": 31,
+        "blurred:negative": 64,
+        "native:negative": 33
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000220",
+      "event": "santa-rosa-wildfire",
+      "relation": "neighbors",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 420,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": 0.625,
+      "candidate_rate_given_negative_source_truth": 0.4558333333333333,
+      "within_scene_conditional_difference": 0.1691666666666667,
+      "eligible_positive_truth_sources": 34,
+      "eligible_negative_truth_sources": 30,
+      "one_step_brier_delta": {
+        "native:positive": -0.031478063772432396,
+        "blurred:negative": 1.43556686545894e-05,
+        "native:negative": 0.0029446724230546483
+      },
+      "one_step_source_counts": {
+        "native:positive": 31,
+        "blurred:negative": 64,
+        "native:negative": 33
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000220",
+      "event": "santa-rosa-wildfire",
+      "relation": "neighbors",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 344,
+      "shared_uid_pairs_excluded": 76,
+      "candidate_rate_given_positive_source_truth": 0.3919270833333333,
+      "candidate_rate_given_negative_source_truth": 0.4558333333333333,
+      "within_scene_conditional_difference": -0.06390625,
+      "eligible_positive_truth_sources": 32,
+      "eligible_negative_truth_sources": 30,
+      "one_step_brier_delta": {
+        "native:positive": -0.017338245661709415,
+        "blurred:negative": 1.030295495409474e-05,
+        "native:negative": 0.002776876222706816
+      },
+      "one_step_source_counts": {
+        "native:positive": 29,
+        "blurred:negative": 62,
+        "native:negative": 33
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000220",
+      "event": "santa-rosa-wildfire",
+      "relation": "neighbors_same_bin",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 138,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": 0.675,
+      "candidate_rate_given_negative_source_truth": 0.4104938271604938,
+      "within_scene_conditional_difference": 0.2645061728395062,
+      "eligible_positive_truth_sources": 30,
+      "eligible_negative_truth_sources": 27,
+      "one_step_brier_delta": {
+        "native:positive": -0.03329249116619686,
+        "blurred:negative": 1.8868428024881417e-05,
+        "native:negative": 0.0039059054829822084
+      },
+      "one_step_source_counts": {
+        "native:positive": 28,
+        "blurred:negative": 57,
+        "native:negative": 29
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000220",
+      "event": "santa-rosa-wildfire",
+      "relation": "neighbors_same_bin",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 118,
+      "shared_uid_pairs_excluded": 20,
+      "candidate_rate_given_positive_source_truth": 0.5243055555555556,
+      "candidate_rate_given_negative_source_truth": 0.4104938271604938,
+      "within_scene_conditional_difference": 0.11381172839506176,
+      "eligible_positive_truth_sources": 24,
+      "eligible_negative_truth_sources": 27,
+      "one_step_brier_delta": {
+        "native:positive": -0.024434235838362264,
+        "blurred:negative": 1.6551077633661904e-05,
+        "native:negative": 0.003992899245088848
+      },
+      "one_step_source_counts": {
+        "native:positive": 23,
+        "blurred:negative": 51,
+        "native:negative": 28
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000220",
+      "event": "santa-rosa-wildfire",
+      "relation": "far_same_bin",
+      "exclude_shared_target_uid": false,
+      "ordered_pairs": 920,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": 0.5487625831565124,
+      "candidate_rate_given_negative_source_truth": 0.5153227761903223,
+      "within_scene_conditional_difference": 0.03343980696619009,
+      "eligible_positive_truth_sources": 34,
+      "eligible_negative_truth_sources": 30,
+      "one_step_brier_delta": {
+        "native:positive": -0.02880217565948874,
+        "blurred:negative": 1.7114766539112498e-05,
+        "native:negative": 0.0035768633952900186
+      },
+      "one_step_source_counts": {
+        "native:positive": 31,
+        "blurred:negative": 64,
+        "native:negative": 33
+      }
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000220",
+      "event": "santa-rosa-wildfire",
+      "relation": "far_same_bin",
+      "exclude_shared_target_uid": true,
+      "ordered_pairs": 920,
+      "shared_uid_pairs_excluded": 0,
+      "candidate_rate_given_positive_source_truth": 0.5487625831565124,
+      "candidate_rate_given_negative_source_truth": 0.5153227761903223,
+      "within_scene_conditional_difference": 0.03343980696619009,
+      "eligible_positive_truth_sources": 34,
+      "eligible_negative_truth_sources": 30,
+      "one_step_brier_delta": {
+        "native:positive": -0.02880217565948874,
+        "blurred:negative": 1.7114766539112498e-05,
+        "native:negative": 0.0035768633952900186
+      },
+      "one_step_source_counts": {
+        "native:positive": 31,
+        "blurred:negative": 64,
+        "native:negative": 33
+      }
+    }
+  ],
+  "validation_used": false,
+  "test_used": false,
+  "limitations": [
+    "Labels serve evaluator diagnostics only, not an online neighborhood or known false-negative flag.",
+    "Calibration prior and sensor rates were fitted using these scenes, so these scores are exploratory and in-sample.",
+    "Conditional association can reflect scene density, layout or sampling; it is not a causal effect or proof of useful policy feedback.",
+    "A fixed single-feedback test is different from an adaptive multi-step policy."
+  ]
+}

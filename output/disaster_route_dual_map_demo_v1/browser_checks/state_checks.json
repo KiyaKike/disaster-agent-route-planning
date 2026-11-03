@@ -1,0 +1,182 @@
+[
+  {
+    "current": {
+      "region": "口岸",
+      "policy": "pre_static",
+      "mode": "prior_evidence",
+      "frame": 40,
+      "observations": 37,
+      "closed": true,
+      "phase": "post"
+    },
+    "elapsed": "1190.0",
+    "calls": "1",
+    "first": "搜索先验／线索地图",
+    "second": "沿途观测证据地图"
+  },
+  {
+    "current": {
+      "region": "口岸",
+      "policy": "pre_static",
+      "mode": "geometry_semantic",
+      "frame": 40,
+      "observations": 37,
+      "closed": true,
+      "phase": "post"
+    },
+    "elapsed": "1190.0",
+    "calls": "1",
+    "first": "几何与移动代价地图",
+    "second": "目标语义与融合信念地图"
+  },
+  {
+    "current": {
+      "region": "口岸",
+      "policy": "post_static",
+      "mode": "prior_evidence",
+      "frame": 40,
+      "observations": 36,
+      "closed": true,
+      "phase": "post"
+    },
+    "elapsed": "1163.9",
+    "calls": "2",
+    "first": "搜索先验／线索地图",
+    "second": "沿途观测证据地图"
+  },
+  {
+    "current": {
+      "region": "口岸",
+      "policy": "post_static",
+      "mode": "geometry_semantic",
+      "frame": 40,
+      "observations": 36,
+      "closed": true,
+      "phase": "post"
+    },
+    "elapsed": "1163.9",
+    "calls": "2",
+    "first": "几何与移动代价地图",
+    "second": "目标语义与融合信念地图"
+  },
+  {
+    "current": {
+      "region": "口岸",
+      "policy": "online_5",
+      "mode": "prior_evidence",
+      "frame": 44,
+      "observations": 34,
+      "closed": true,
+      "phase": "post"
+    },
+    "elapsed": "1183.8",
+    "calls": "8",
+    "first": "搜索先验／线索地图",
+    "second": "沿途观测证据地图"
+  },
+  {
+    "current": {
+      "region": "口岸",
+      "policy": "online_5",
+      "mode": "geometry_semantic",
+      "frame": 44,
+      "observations": 34,
+      "closed": true,
+      "phase": "post"
+    },
+    "elapsed": "1183.8",
+    "calls": "8",
+    "first": "几何与移动代价地图",
+    "second": "目标语义与融合信念地图"
+  },
+  {
+    "current": {
+      "region": "南侧建筑区",
+      "policy": "pre_static",
+      "mode": "prior_evidence",
+      "frame": 40,
+      "observations": 37,
+      "closed": true,
+      "phase": "post"
+    },
+    "elapsed": "1190.0",
+    "calls": "1",
+    "first": "搜索先验／线索地图",
+    "second": "沿途观测证据地图"
+  },
+  {
+    "current": {
+      "region": "南侧建筑区",
+      "policy": "pre_static",
+      "mode": "geometry_semantic",
+      "frame": 40,
+      "observations": 37,
+      "closed": true,
+      "phase": "post"
+    },
+    "elapsed": "1190.0",
+    "calls": "1",
+    "first": "几何与移动代价地图",
+    "second": "目标语义与融合信念地图"
+  },
+  {
+    "current": {
+      "region": "南侧建筑区",
+      "policy": "post_static",
+      "mode": "prior_evidence",
+      "frame": 41,
+      "observations": 37,
+      "closed": true,
+      "phase": "post"
+    },
+    "elapsed": "1197.2",
+    "calls": "2",
+    "first": "搜索先验／线索地图",
+    "second": "沿途观测证据地图"
+  },
+  {
+    "current": {
+      "region": "南侧建筑区",
+      "policy": "post_static",
+      "mode": "geometry_semantic",
+      "frame": 41,
+      "observations": 37,
+      "closed": true,
+      "phase": "post"
+    },
+    "elapsed": "1197.2",
+    "calls": "2",
+    "first": "几何与移动代价地图",
+    "second": "目标语义与融合信念地图"
+  },
+  {
+    "current": {
+      "region": "南侧建筑区",
+      "policy": "online_5",
+      "mode": "prior_evidence",
+      "frame": 44,
+      "observations": 34,
+      "closed": true,
+      "phase": "post"
+    },
+    "elapsed": "1188.7",
+    "calls": "8",
+    "first": "搜索先验／线索地图",
+    "second": "沿途观测证据地图"
+  },
+  {
+    "current": {
+      "region": "南侧建筑区",
+      "policy": "online_5",
+      "mode": "geometry_semantic",
+      "frame": 44,
+      "observations": 34,
+      "closed": true,
+      "phase": "post"
+    },
+    "elapsed": "1188.7",
+    "calls": "8",
+    "first": "几何与移动代价地图",
+    "second": "目标语义与融合信念地图"
+  }
+]

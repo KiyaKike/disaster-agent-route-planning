@@ -1,0 +1,19 @@
+{
+  "calls": 578,
+  "device": "mps",
+  "labels_decoded_by_prediction": false,
+  "loop_seconds": 112.02983779198257,
+  "new_calls_this_invocation": 578,
+  "new_network_by_prediction": 0,
+  "packages": {
+    "Pillow": "13.0.0",
+    "numpy": "2.5.4",
+    "torch": "2.9.1",
+    "torchange": "0.0.5",
+    "torchvision": "0.24.1"
+  },
+  "paid_gpu": false,
+  "status": "COMPLETE",
+  "sum_recorded_call_seconds": 99.66457820509095,
+  "training": false
+}

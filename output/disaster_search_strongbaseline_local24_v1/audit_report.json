@@ -1,0 +1,18 @@
+{
+  "aggregates_replayed": 12,
+  "all256_predictions_decoded": 384,
+  "input_tensors_reconstructed": 1540,
+  "new_audit_model_calls": 0,
+  "old_frozen_sources_verified": 59,
+  "old_full1024_control_probability_max_abs_difference": 0.0,
+  "oracle_optima_exhaustively_verified": 96,
+  "parent_external_files_verified": 171,
+  "parent_output_files_verified": 234,
+  "policy_scores_replayed": 288,
+  "reference_rasters_rebuilt": 24,
+  "scene_scores_replayed": 24,
+  "score_selection_changed": false,
+  "status": "PASS",
+  "tile_scores_replayed": 384,
+  "uniform_random_subsets_enumerated": 355464
+}

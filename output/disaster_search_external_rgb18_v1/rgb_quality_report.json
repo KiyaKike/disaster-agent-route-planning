@@ -1,0 +1,607 @@
+{
+  "exact_pixel_duplicate_groups_within36": [],
+  "files": [
+    {
+      "all_channel_zero_fraction": 6.4849853515625e-05,
+      "gray_std": 54.06208257982364,
+      "mode": "post",
+      "pixel_sha256": "88780c5424eb2c9babe59c338b44b8b454359ac1a0d46f4ffe6a92e8a52f6b85",
+      "png_metadata_keys": [],
+      "sample_id": "EARTHQUAKE-TURKEY_000237",
+      "sha256": "9b1d6ca47082187cf46716c38f00c060e387502be048b7dc264734d7ee89a4e8"
+    },
+    {
+      "all_channel_zero_fraction": 0.5025444030761719,
+      "gray_std": 60.18257768066814,
+      "mode": "pre",
+      "pixel_sha256": "c060238812be38dfb88fe31d146aa61bacf03eddeab112be4911ca6724e0e400",
+      "png_metadata_keys": [],
+      "sample_id": "EARTHQUAKE-TURKEY_000237",
+      "sha256": "fe5985355c42206d3b7e19f55d8908bf8dd4119689f27f5c7177603176774e4f"
+    },
+    {
+      "all_channel_zero_fraction": 0.001888275146484375,
+      "gray_std": 39.02616319624249,
+      "mode": "post",
+      "pixel_sha256": "80541918933d0b3800f859fc77edf2678ad134915e2d9d9302c0915ae011097b",
+      "png_metadata_keys": [],
+      "sample_id": "EARTHQUAKE-TURKEY_003472",
+      "sha256": "e046115fb9df4ef4cd6b49481131639f96c9b8b692a960f37e7200634218e391"
+    },
+    {
+      "all_channel_zero_fraction": 0.9161605834960938,
+      "gray_std": 16.18591515630096,
+      "mode": "pre",
+      "pixel_sha256": "481c343c032dacbca7176add29a32d13d0645474dbc1a788b437fc90c045e642",
+      "png_metadata_keys": [],
+      "sample_id": "EARTHQUAKE-TURKEY_003472",
+      "sha256": "702a6e0c8048a9cd79ff45cd34e5614a58a532271d2a8195f4c31889f241f9be"
+    },
+    {
+      "all_channel_zero_fraction": 2.6702880859375e-05,
+      "gray_std": 61.57687320761708,
+      "mode": "post",
+      "pixel_sha256": "bb4a86fe5f843ee7155cb04667debd5aaf31f7225fe004b0aa1e698482126191",
+      "png_metadata_keys": [],
+      "sample_id": "EARTHQUAKE-TURKEY_005459",
+      "sha256": "6f0129c0ffd3f7ef96e3c09c188367d69ae981153ecf758377e5b309b6d863a7"
+    },
+    {
+      "all_channel_zero_fraction": 0.0001068115234375,
+      "gray_std": 57.542637060480224,
+      "mode": "pre",
+      "pixel_sha256": "6692a638cfe5b52532fa43125f6bb3b44399bb63cfd6accc55d2ad34e8d23060",
+      "png_metadata_keys": [],
+      "sample_id": "EARTHQUAKE-TURKEY_005459",
+      "sha256": "4851e477c702a84028bfd10a306510ab4414bbb04d8257c5e7b45eafd00f432b"
+    },
+    {
+      "all_channel_zero_fraction": 0.000217437744140625,
+      "gray_std": 48.22141647521108,
+      "mode": "post",
+      "pixel_sha256": "392cc4d9ab88ee252d41826d3965f519085eb8a226d558650d0d7d0f4e4b4ccb",
+      "png_metadata_keys": [],
+      "sample_id": "EARTHQUAKE-TURKEY_006807",
+      "sha256": "827c9401a8fc91e52825fd37984f5501fa5eb6e0aea9a40eaabd20995ec0fb53"
+    },
+    {
+      "all_channel_zero_fraction": 0.0,
+      "gray_std": 40.64592490671612,
+      "mode": "pre",
+      "pixel_sha256": "37d1ef3f93e80ea548c4bf9810eaea40ea7b9c2aaf07e989a9780828f054ce9b",
+      "png_metadata_keys": [],
+      "sample_id": "EARTHQUAKE-TURKEY_006807",
+      "sha256": "fe3e59d5cc9970017e49d4f869d08821a33dcb17d3a40769d26b90f27423c5d7"
+    },
+    {
+      "all_channel_zero_fraction": 0.000446319580078125,
+      "gray_std": 66.66585824498293,
+      "mode": "post",
+      "pixel_sha256": "8fe487abd2171cbd40bd4a25f36784ff74c3840e5d43d3ffb6d92943c7bbaf0f",
+      "png_metadata_keys": [],
+      "sample_id": "EARTHQUAKE-TURKEY_012987",
+      "sha256": "eaf3d18027ca6437ce4032c8487abf0f9ad0fc222b9e75ceab495f2040d48531"
+    },
+    {
+      "all_channel_zero_fraction": 0.0,
+      "gray_std": 61.14208936675243,
+      "mode": "pre",
+      "pixel_sha256": "8d9e72c56b734d2e112a4392c5cb4ad851e2d5209fdc45a128a1adb1f477f20d",
+      "png_metadata_keys": [],
+      "sample_id": "EARTHQUAKE-TURKEY_012987",
+      "sha256": "1cbf39b25d53965deb67a19c4b163f6f58dd90375d144e5931ed251712bc31e6"
+    },
+    {
+      "all_channel_zero_fraction": 0.00031280517578125,
+      "gray_std": 54.94429627854692,
+      "mode": "post",
+      "pixel_sha256": "9e602f647c6e756d9fda635ab70d446630e1e5dac707b0525e7fd62ef9122a7c",
+      "png_metadata_keys": [],
+      "sample_id": "EARTHQUAKE-TURKEY_015741",
+      "sha256": "1080f3f0be1817bd1390ed9414470f47a36bf60b0ffb9bc4568c02062340adf0"
+    },
+    {
+      "all_channel_zero_fraction": 0.051937103271484375,
+      "gray_std": 59.38586077120563,
+      "mode": "pre",
+      "pixel_sha256": "ee09fcb2304094a88927cfefa6a0f1aabf4c9e8619f4a14da8b8f0587c43b640",
+      "png_metadata_keys": [],
+      "sample_id": "EARTHQUAKE-TURKEY_015741",
+      "sha256": "3b493aca6f4711e45ad846a59aafd101e47a5a55906193f1e048dc9719944fb7"
+    },
+    {
+      "all_channel_zero_fraction": 0.0,
+      "gray_std": 51.23438486674851,
+      "mode": "post",
+      "pixel_sha256": "bace4765deff54a9ce984052b117e347a2a14e439f4ea4cf0ee366e8012285f4",
+      "png_metadata_keys": [],
+      "sample_id": "PAKISTAN-FLOODING_003197",
+      "sha256": "89988fb7a0df970aebdb0f8522f6f3d523439436fc9f4fc823c615cd11314d82"
+    },
+    {
+      "all_channel_zero_fraction": 0.0,
+      "gray_std": 44.157817734674616,
+      "mode": "pre",
+      "pixel_sha256": "f18767e3a7eb22abfbc0123e2c4072684322318e0cf4b882d0b70a4031b60abf",
+      "png_metadata_keys": [],
+      "sample_id": "PAKISTAN-FLOODING_003197",
+      "sha256": "e82d11a28738f5f6a01c71842ef6f555462b8e79c34ff79126135ea6adc06264"
+    },
+    {
+      "all_channel_zero_fraction": 0.0,
+      "gray_std": 42.92344799700533,
+      "mode": "post",
+      "pixel_sha256": "de1f903b2219e1d2137bb550b7afa150d29da0ea9eadc9f3d69526e2fd21d361",
+      "png_metadata_keys": [],
+      "sample_id": "PAKISTAN-FLOODING_004697",
+      "sha256": "e97a643234a9f88ebe5416bb57ae7a40f21b2bef022cc124af16b1b75c61d85b"
+    },
+    {
+      "all_channel_zero_fraction": 0.0,
+      "gray_std": 37.373242313644376,
+      "mode": "pre",
+      "pixel_sha256": "022cb0648f613d79544bc43ff3cc266adff08498cbaf0235ab7701000a00c3ba",
+      "png_metadata_keys": [],
+      "sample_id": "PAKISTAN-FLOODING_004697",
+      "sha256": "4d79939cfe8a25acf0a7495e4225fa81313780dc15d00d864537836154e7cd9c"
+    },
+    {
+      "all_channel_zero_fraction": 0.0,
+      "gray_std": 27.713667795407016,
+      "mode": "post",
+      "pixel_sha256": "d8918f8349764be01a2d4619186b42ce73e2bb727afc89f19e3eefd56508b29b",
+      "png_metadata_keys": [],
+      "sample_id": "PAKISTAN-FLOODING_006998",
+      "sha256": "de56b8ce4b3fb2f79a0b3484253779fe7ed662429263dc6b45287854656603b3"
+    },
+    {
+      "all_channel_zero_fraction": 0.0,
+      "gray_std": 20.473649305189543,
+      "mode": "pre",
+      "pixel_sha256": "64817689d3bba4509a788a35592f300c2bc1e3009170efbcfa928b38de3bb9cb",
+      "png_metadata_keys": [],
+      "sample_id": "PAKISTAN-FLOODING_006998",
+      "sha256": "2011ce5ea31005150fe09ec2871c0af8b321e3d3065f2863f999be5ca9920260"
+    },
+    {
+      "all_channel_zero_fraction": 0.0,
+      "gray_std": 43.21664780303807,
+      "mode": "post",
+      "pixel_sha256": "756fdb67b46ebd0142f61e24c112760564d50a9caab5a0d2589fee0c44eec210",
+      "png_metadata_keys": [],
+      "sample_id": "PAKISTAN-FLOODING_013475",
+      "sha256": "4a84eb37fb14b0477ea1c2a745c9c76d76cfb437d1fef57ecbfb21d965220e75"
+    },
+    {
+      "all_channel_zero_fraction": 0.0,
+      "gray_std": 27.463942901834507,
+      "mode": "pre",
+      "pixel_sha256": "73b8af166ed6283d9ee242fe08e3b959d2fd340ff6e0ec84a4a7a8d148fc0b45",
+      "png_metadata_keys": [],
+      "sample_id": "PAKISTAN-FLOODING_013475",
+      "sha256": "4d6cee03984f25346171175902812f9d1449f9d91b0c2d7010379e83bd2d6b5e"
+    },
+    {
+      "all_channel_zero_fraction": 0.0,
+      "gray_std": 51.55045725672064,
+      "mode": "post",
+      "pixel_sha256": "54eab6ca4f1ffee81bf1e26eeb6fffafaebb1e7a862a0c741fa30926c81ce762",
+      "png_metadata_keys": [],
+      "sample_id": "PAKISTAN-FLOODING_014536",
+      "sha256": "6c7a8207487217969ce45b68e6eea2b2e6a820ede2276f18e5f5ca1c9d69762b"
+    },
+    {
+      "all_channel_zero_fraction": 0.0,
+      "gray_std": 24.912412760574924,
+      "mode": "pre",
+      "pixel_sha256": "e5b1269943aa084cf5dc00fa0b3421086b8dd15ad61f7ad17744448166f004e2",
+      "png_metadata_keys": [],
+      "sample_id": "PAKISTAN-FLOODING_014536",
+      "sha256": "3f3bcc4200db053250bc86bb037ac56b3db22b5d2ec4ea77c66de59b37f2d187"
+    },
+    {
+      "all_channel_zero_fraction": 0.0,
+      "gray_std": 39.31373366874121,
+      "mode": "post",
+      "pixel_sha256": "f7a98232c7f10868d472eac40d7fe0b303cea29a8e45248c4fad5b6d872f724a",
+      "png_metadata_keys": [],
+      "sample_id": "PAKISTAN-FLOODING_017841",
+      "sha256": "85bc83829da4fc8d78ac3c44b45ba57d80fdd761d9e4e4a3b0e07fe233dd149b"
+    },
+    {
+      "all_channel_zero_fraction": 0.0,
+      "gray_std": 28.626809507868323,
+      "mode": "pre",
+      "pixel_sha256": "ba78f40e0316437ec7c206dc2c4babd86b85279563c6bccef61daceb7b9def3c",
+      "png_metadata_keys": [],
+      "sample_id": "PAKISTAN-FLOODING_017841",
+      "sha256": "255e4a21a52b4eab7f0384b45088718ff614ee03c8085b36ba6e86ef75701ac7"
+    },
+    {
+      "all_channel_zero_fraction": 0.0,
+      "gray_std": 45.44492666283097,
+      "mode": "post",
+      "pixel_sha256": "3053121fd4bb4105cad0751c248e929cf915191ca836795eb4345089d1e61ff7",
+      "png_metadata_keys": [],
+      "sample_id": "TEXAS-TORNADOES_000325",
+      "sha256": "90cecd5625ef689e0f0af1e9d169de63fc7b74490d0574be6993a7520924e5ef"
+    },
+    {
+      "all_channel_zero_fraction": 0.0,
+      "gray_std": 46.02563610746332,
+      "mode": "pre",
+      "pixel_sha256": "aa98ab2539fb7a63e94a45a40a16a1cce4ee289645a65aa11d0181dd890ada6a",
+      "png_metadata_keys": [],
+      "sample_id": "TEXAS-TORNADOES_000325",
+      "sha256": "e3ea24f0df553c7c608f6997cd474fb92c8235cb0824883b2a81c6bf9b0092dc"
+    },
+    {
+      "all_channel_zero_fraction": 0.0,
+      "gray_std": 31.92611614352908,
+      "mode": "post",
+      "pixel_sha256": "c9eb4e236ae35f8c617457970c0254e41a6abcb942ce8d3a6ad27767b6427fc5",
+      "png_metadata_keys": [],
+      "sample_id": "TEXAS-TORNADOES_002697",
+      "sha256": "4616cbd0104df3255ccba24c05e93beee84c5875dfba3424810169acefe73086"
+    },
+    {
+      "all_channel_zero_fraction": 0.0,
+      "gray_std": 29.841247207122144,
+      "mode": "pre",
+      "pixel_sha256": "94171c2b6e82aa4214dd9ef9795ea49baa4ecd6eb71a65522f436a48f429d028",
+      "png_metadata_keys": [],
+      "sample_id": "TEXAS-TORNADOES_002697",
+      "sha256": "793f16da84482052b3066a111bcc6648c8f77f9e54b60250d40ceb9c6a1777fa"
+    },
+    {
+      "all_channel_zero_fraction": 0.65625,
+      "gray_std": 59.75896095328862,
+      "mode": "post",
+      "pixel_sha256": "accbb37757e45d63c258df67409ebdbcab88955b6d93c9632be82ca27d9678ff",
+      "png_metadata_keys": [],
+      "sample_id": "TEXAS-TORNADOES_002969",
+      "sha256": "34650d45162b2ddfb3b843c63a18f9ad622f2cf53b97ec0261e30b2ba384f65a"
+    },
+    {
+      "all_channel_zero_fraction": 0.65625,
+      "gray_std": 55.22060217833216,
+      "mode": "pre",
+      "pixel_sha256": "140e83bcfec480bd88e57502477c6d930bfe15530af22ee12aeabca2473bcc97",
+      "png_metadata_keys": [],
+      "sample_id": "TEXAS-TORNADOES_002969",
+      "sha256": "4a14f7e3221a9651c21876bb7af66a2a7bbd190f59a12c9069cddf2d00307897"
+    },
+    {
+      "all_channel_zero_fraction": 0.0,
+      "gray_std": 32.879066528962596,
+      "mode": "post",
+      "pixel_sha256": "eddcff66c43746c64c7b7578742c8d8797c05143eb86aca3844933b3143fba48",
+      "png_metadata_keys": [],
+      "sample_id": "TEXAS-TORNADOES_003987",
+      "sha256": "3ada619736e062afd0a7b488e2322c9916073cc4c9c445844f60e91463d70148"
+    },
+    {
+      "all_channel_zero_fraction": 0.0,
+      "gray_std": 26.781468185631926,
+      "mode": "pre",
+      "pixel_sha256": "5779bb69e76e51143f36c38622e2b48c7f962dfce02ffe87b08f2cca01feca85",
+      "png_metadata_keys": [],
+      "sample_id": "TEXAS-TORNADOES_003987",
+      "sha256": "599d330dd796ca8cfafb3913156e610afb378adbf714cebcd086163347288b21"
+    },
+    {
+      "all_channel_zero_fraction": 0.0,
+      "gray_std": 34.9809509121358,
+      "mode": "post",
+      "pixel_sha256": "068e9914648ad76d6f602edf2356ee4a6a65c5197dcfcdbe847f2f024b9da91f",
+      "png_metadata_keys": [],
+      "sample_id": "TEXAS-TORNADOES_004417",
+      "sha256": "bd579e4ca325831b0572015c5a21563e101e2f41fa7e7645b6dd5137107a9f98"
+    },
+    {
+      "all_channel_zero_fraction": 0.00037384033203125,
+      "gray_std": 32.03337343694232,
+      "mode": "pre",
+      "pixel_sha256": "18441a81f3f03e23b8fc4b85d2d4945086232af54f4c397479362893476d60b9",
+      "png_metadata_keys": [],
+      "sample_id": "TEXAS-TORNADOES_004417",
+      "sha256": "4250075c026a810dfb38460813d7790a19ef531460c5e116519a42a203779fcd"
+    },
+    {
+      "all_channel_zero_fraction": 0.0,
+      "gray_std": 27.026238549244233,
+      "mode": "post",
+      "pixel_sha256": "c6101a0fdbe01bb15ee99fe9bd9a616507a462f00c3c738ca636d69c626b2cef",
+      "png_metadata_keys": [],
+      "sample_id": "TEXAS-TORNADOES_004813",
+      "sha256": "b30480620feb24d590461dc6d5a42d3ae467cb9efabe36ce7c58780882492a61"
+    },
+    {
+      "all_channel_zero_fraction": 0.000263214111328125,
+      "gray_std": 23.43610843048434,
+      "mode": "pre",
+      "pixel_sha256": "15d0879345302b5e4ebd450ca59bd96bdeca2501a504f418bc89790348571e5c",
+      "png_metadata_keys": [],
+      "sample_id": "TEXAS-TORNADOES_004813",
+      "sha256": "d29590f4ec4a81ed78ff6a78c057b5f52ee150d59ddc517806bf1288ada1471a"
+    }
+  ],
+  "gold_complete": false,
+  "human_alignment_review_complete": false,
+  "new_inference": 0,
+  "policy_scores": 0,
+  "scenes": [
+    {
+      "estimated_post_to_pre_translation_native_px": [
+        -2,
+        -14
+      ],
+      "event": "EARTHQUAKE-TURKEY",
+      "geographic_independence": "UNKNOWN",
+      "instance_gold": "NOT_STARTED",
+      "interpretation": "Global diagnostic only; low texture, clouds, damage or repeated roofs can invalidate this estimate. Manual paired review remains required.",
+      "phase_peak_not_probability": 0.04022639760999812,
+      "rank": 1,
+      "registration_review": "PENDING_HUMAN_REVIEW",
+      "rgb_mean_absolute_difference": 53.196581522623696,
+      "sample_id": "EARTHQUAKE-TURKEY_012987"
+    },
+    {
+      "estimated_post_to_pre_translation_native_px": [
+        2,
+        -6
+      ],
+      "event": "EARTHQUAKE-TURKEY",
+      "geographic_independence": "UNKNOWN",
+      "instance_gold": "NOT_STARTED",
+      "interpretation": "Global diagnostic only; low texture, clouds, damage or repeated roofs can invalidate this estimate. Manual paired review remains required.",
+      "phase_peak_not_probability": 0.03379242363409889,
+      "rank": 2,
+      "registration_review": "PENDING_HUMAN_REVIEW",
+      "rgb_mean_absolute_difference": 36.990135192871094,
+      "sample_id": "EARTHQUAKE-TURKEY_006807"
+    },
+    {
+      "estimated_post_to_pre_translation_native_px": [
+        -24,
+        2
+      ],
+      "event": "EARTHQUAKE-TURKEY",
+      "geographic_independence": "UNKNOWN",
+      "instance_gold": "NOT_STARTED",
+      "interpretation": "Global diagnostic only; low texture, clouds, damage or repeated roofs can invalidate this estimate. Manual paired review remains required.",
+      "phase_peak_not_probability": 0.026082704359172496,
+      "rank": 3,
+      "registration_review": "PENDING_HUMAN_REVIEW",
+      "rgb_mean_absolute_difference": 56.34360122680664,
+      "sample_id": "EARTHQUAKE-TURKEY_005459"
+    },
+    {
+      "estimated_post_to_pre_translation_native_px": [
+        -12,
+        2
+      ],
+      "event": "EARTHQUAKE-TURKEY",
+      "geographic_independence": "UNKNOWN",
+      "instance_gold": "NOT_STARTED",
+      "interpretation": "Global diagnostic only; low texture, clouds, damage or repeated roofs can invalidate this estimate. Manual paired review remains required.",
+      "phase_peak_not_probability": 0.03500872751284033,
+      "rank": 4,
+      "registration_review": "PENDING_HUMAN_REVIEW",
+      "rgb_mean_absolute_difference": 71.09818013509114,
+      "sample_id": "EARTHQUAKE-TURKEY_000237"
+    },
+    {
+      "estimated_post_to_pre_translation_native_px": [
+        152,
+        98
+      ],
+      "event": "EARTHQUAKE-TURKEY",
+      "geographic_independence": "UNKNOWN",
+      "instance_gold": "NOT_STARTED",
+      "interpretation": "Global diagnostic only; low texture, clouds, damage or repeated roofs can invalidate this estimate. Manual paired review remains required.",
+      "phase_peak_not_probability": 0.028015779817519508,
+      "rank": 5,
+      "registration_review": "PENDING_HUMAN_REVIEW",
+      "rgb_mean_absolute_difference": 70.06049219767253,
+      "sample_id": "EARTHQUAKE-TURKEY_003472"
+    },
+    {
+      "estimated_post_to_pre_translation_native_px": [
+        -20,
+        -18
+      ],
+      "event": "EARTHQUAKE-TURKEY",
+      "geographic_independence": "UNKNOWN",
+      "instance_gold": "NOT_STARTED",
+      "interpretation": "Global diagnostic only; low texture, clouds, damage or repeated roofs can invalidate this estimate. Manual paired review remains required.",
+      "phase_peak_not_probability": 0.04005369587442989,
+      "rank": 6,
+      "registration_review": "PENDING_HUMAN_REVIEW",
+      "rgb_mean_absolute_difference": 37.96870803833008,
+      "sample_id": "EARTHQUAKE-TURKEY_015741"
+    },
+    {
+      "estimated_post_to_pre_translation_native_px": [
+        8,
+        -2
+      ],
+      "event": "PAKISTAN-FLOODING",
+      "geographic_independence": "UNKNOWN",
+      "instance_gold": "NOT_STARTED",
+      "interpretation": "Global diagnostic only; low texture, clouds, damage or repeated roofs can invalidate this estimate. Manual paired review remains required.",
+      "phase_peak_not_probability": 0.054079021796328286,
+      "rank": 1,
+      "registration_review": "PENDING_HUMAN_REVIEW",
+      "rgb_mean_absolute_difference": 51.59347407023112,
+      "sample_id": "PAKISTAN-FLOODING_017841"
+    },
+    {
+      "estimated_post_to_pre_translation_native_px": [
+        20,
+        -4
+      ],
+      "event": "PAKISTAN-FLOODING",
+      "geographic_independence": "UNKNOWN",
+      "instance_gold": "NOT_STARTED",
+      "interpretation": "Global diagnostic only; low texture, clouds, damage or repeated roofs can invalidate this estimate. Manual paired review remains required.",
+      "phase_peak_not_probability": 0.03642539376618108,
+      "rank": 2,
+      "registration_review": "PENDING_HUMAN_REVIEW",
+      "rgb_mean_absolute_difference": 32.056803385416664,
+      "sample_id": "PAKISTAN-FLOODING_004697"
+    },
+    {
+      "estimated_post_to_pre_translation_native_px": [
+        12,
+        -8
+      ],
+      "event": "PAKISTAN-FLOODING",
+      "geographic_independence": "UNKNOWN",
+      "instance_gold": "NOT_STARTED",
+      "interpretation": "Global diagnostic only; low texture, clouds, damage or repeated roofs can invalidate this estimate. Manual paired review remains required.",
+      "phase_peak_not_probability": 0.09354770938109175,
+      "rank": 3,
+      "registration_review": "PENDING_HUMAN_REVIEW",
+      "rgb_mean_absolute_difference": 45.55436579386393,
+      "sample_id": "PAKISTAN-FLOODING_014536"
+    },
+    {
+      "estimated_post_to_pre_translation_native_px": [
+        10,
+        -4
+      ],
+      "event": "PAKISTAN-FLOODING",
+      "geographic_independence": "UNKNOWN",
+      "instance_gold": "NOT_STARTED",
+      "interpretation": "Global diagnostic only; low texture, clouds, damage or repeated roofs can invalidate this estimate. Manual paired review remains required.",
+      "phase_peak_not_probability": 0.0559066581133114,
+      "rank": 4,
+      "registration_review": "PENDING_HUMAN_REVIEW",
+      "rgb_mean_absolute_difference": 36.332253774007164,
+      "sample_id": "PAKISTAN-FLOODING_003197"
+    },
+    {
+      "estimated_post_to_pre_translation_native_px": [
+        18,
+        0
+      ],
+      "event": "PAKISTAN-FLOODING",
+      "geographic_independence": "UNKNOWN",
+      "instance_gold": "NOT_STARTED",
+      "interpretation": "Global diagnostic only; low texture, clouds, damage or repeated roofs can invalidate this estimate. Manual paired review remains required.",
+      "phase_peak_not_probability": 0.03834945249997669,
+      "rank": 5,
+      "registration_review": "PENDING_HUMAN_REVIEW",
+      "rgb_mean_absolute_difference": 47.29659779866537,
+      "sample_id": "PAKISTAN-FLOODING_006998"
+    },
+    {
+      "estimated_post_to_pre_translation_native_px": [
+        16,
+        -4
+      ],
+      "event": "PAKISTAN-FLOODING",
+      "geographic_independence": "UNKNOWN",
+      "instance_gold": "NOT_STARTED",
+      "interpretation": "Global diagnostic only; low texture, clouds, damage or repeated roofs can invalidate this estimate. Manual paired review remains required.",
+      "phase_peak_not_probability": 0.07238108047582127,
+      "rank": 6,
+      "registration_review": "PENDING_HUMAN_REVIEW",
+      "rgb_mean_absolute_difference": 38.70561599731445,
+      "sample_id": "PAKISTAN-FLOODING_013475"
+    },
+    {
+      "estimated_post_to_pre_translation_native_px": [
+        14,
+        -10
+      ],
+      "event": "TEXAS-TORNADOES",
+      "geographic_independence": "UNKNOWN",
+      "instance_gold": "NOT_STARTED",
+      "interpretation": "Global diagnostic only; low texture, clouds, damage or repeated roofs can invalidate this estimate. Manual paired review remains required.",
+      "phase_peak_not_probability": 0.0540200795719725,
+      "rank": 1,
+      "registration_review": "PENDING_HUMAN_REVIEW",
+      "rgb_mean_absolute_difference": 31.90388361612956,
+      "sample_id": "TEXAS-TORNADOES_004417"
+    },
+    {
+      "estimated_post_to_pre_translation_native_px": [
+        4,
+        4
+      ],
+      "event": "TEXAS-TORNADOES",
+      "geographic_independence": "UNKNOWN",
+      "instance_gold": "NOT_STARTED",
+      "interpretation": "Global diagnostic only; low texture, clouds, damage or repeated roofs can invalidate this estimate. Manual paired review remains required.",
+      "phase_peak_not_probability": 0.1143884903384827,
+      "rank": 2,
+      "registration_review": "PENDING_HUMAN_REVIEW",
+      "rgb_mean_absolute_difference": 29.11798095703125,
+      "sample_id": "TEXAS-TORNADOES_000325"
+    },
+    {
+      "estimated_post_to_pre_translation_native_px": [
+        4,
+        4
+      ],
+      "event": "TEXAS-TORNADOES",
+      "geographic_independence": "UNKNOWN",
+      "instance_gold": "NOT_STARTED",
+      "interpretation": "Global diagnostic only; low texture, clouds, damage or repeated roofs can invalidate this estimate. Manual paired review remains required.",
+      "phase_peak_not_probability": 0.12874043311406003,
+      "rank": 3,
+      "registration_review": "PENDING_HUMAN_REVIEW",
+      "rgb_mean_absolute_difference": 30.562328338623047,
+      "sample_id": "TEXAS-TORNADOES_003987"
+    },
+    {
+      "estimated_post_to_pre_translation_native_px": [
+        4,
+        4
+      ],
+      "event": "TEXAS-TORNADOES",
+      "geographic_independence": "UNKNOWN",
+      "instance_gold": "NOT_STARTED",
+      "interpretation": "Global diagnostic only; low texture, clouds, damage or repeated roofs can invalidate this estimate. Manual paired review remains required.",
+      "phase_peak_not_probability": 0.10021246859804625,
+      "rank": 4,
+      "registration_review": "PENDING_HUMAN_REVIEW",
+      "rgb_mean_absolute_difference": 27.563208262125652,
+      "sample_id": "TEXAS-TORNADOES_002697"
+    },
+    {
+      "estimated_post_to_pre_translation_native_px": [
+        2,
+        4
+      ],
+      "event": "TEXAS-TORNADOES",
+      "geographic_independence": "UNKNOWN",
+      "instance_gold": "NOT_STARTED",
+      "interpretation": "Global diagnostic only; low texture, clouds, damage or repeated roofs can invalidate this estimate. Manual paired review remains required.",
+      "phase_peak_not_probability": 0.14280176686320772,
+      "rank": 5,
+      "registration_review": "PENDING_HUMAN_REVIEW",
+      "rgb_mean_absolute_difference": 9.227826436360678,
+      "sample_id": "TEXAS-TORNADOES_002969"
+    },
+    {
+      "estimated_post_to_pre_translation_native_px": [
+        14,
+        -4
+      ],
+      "event": "TEXAS-TORNADOES",
+      "geographic_independence": "UNKNOWN",
+      "instance_gold": "NOT_STARTED",
+      "interpretation": "Global diagnostic only; low texture, clouds, damage or repeated roofs can invalidate this estimate. Manual paired review remains required.",
+      "phase_peak_not_probability": 0.05052187606809894,
+      "rank": 6,
+      "registration_review": "PENDING_HUMAN_REVIEW",
+      "rgb_mean_absolute_difference": 30.27643330891927,
+      "sample_id": "TEXAS-TORNADOES_004813"
+    }
+  ],
+  "stage": "STRUCTURAL_RGB_CHECKS_COMPLETE_HUMAN_REVIEW_PENDING",
+  "training_pixel_or_geographic_independence_checked": false
+}

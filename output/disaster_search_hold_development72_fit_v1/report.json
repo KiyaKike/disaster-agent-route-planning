@@ -1,0 +1,227 @@
+{
+  "cross_cell_distinct_utility_solved": false,
+  "development_fit_diagnostic": {
+    "count_prediction": {
+      "blurred": {
+        "cells": 4576,
+        "mean_absolute_error": 0.09539774780403164,
+        "mean_observed_count": 0.04938811188811189,
+        "mean_predicted_count": 0.04938875816007118,
+        "mean_squared_error": 0.14478991094826346
+      },
+      "native": {
+        "cells": 4576,
+        "mean_absolute_error": 0.5905998206174412,
+        "mean_observed_count": 0.34702797202797203,
+        "mean_predicted_count": 0.3470285793899507,
+        "mean_squared_error": 1.3008090261490424
+      },
+      "upgrade": {
+        "cells": 4576,
+        "mean_absolute_error": 0.4778466744939531,
+        "mean_observed_count": 0.2980769230769231,
+        "mean_predicted_count": 0.29807739707089914,
+        "mean_squared_error": 0.9626809307315752
+      }
+    },
+    "unknown_pairs_excluded": 32,
+    "unsupported_upgrade_conditions": 0
+  },
+  "full_216_cohort_admitted": false,
+  "global_survey_mean_count": {
+    "blurred": 0.04938811188811189,
+    "native": 0.34702797202797203
+  },
+  "global_upgrade": {
+    "0": {
+      "cells": 4431,
+      "mean": 0.24870232453170843
+    },
+    "1": {
+      "cells": 145,
+      "mean": 1.806896551724138
+    }
+  },
+  "independent_efficacy_claim": false,
+  "known_pairs": 4576,
+  "leave_one_development_event_out": {
+    "hurricane-harvey": {
+      "count_prediction": {
+        "blurred": {
+          "cells": 1512,
+          "mean_absolute_error": 0.13259365807646095,
+          "mean_observed_count": 0.1130952380952381,
+          "mean_predicted_count": 0.022189925751693113,
+          "mean_squared_error": 0.33813887346324006
+        },
+        "native": {
+          "cells": 1512,
+          "mean_absolute_error": 0.7613237544117017,
+          "mean_observed_count": 0.6011904761904762,
+          "mean_predicted_count": 0.2541931667259338,
+          "mean_squared_error": 2.6827523995093085
+        },
+        "upgrade": {
+          "cells": 1512,
+          "mean_absolute_error": 0.6367241649876292,
+          "mean_observed_count": 0.4894179894179894,
+          "mean_predicted_count": 0.3243636885561598,
+          "mean_squared_error": 1.874878018303475
+        }
+      },
+      "held_out_scenes": 24,
+      "training_events": [
+        "mexico-earthquake",
+        "santa-rosa-wildfire"
+      ],
+      "training_paired_truth_support": {
+        "0": 2709,
+        "1": 355
+      },
+      "training_scenes": 48,
+      "training_upgrade_support": {
+        "0": {
+          "cells": 3023,
+          "mean": 0.1806152828316242
+        },
+        "1": {
+          "cells": 41,
+          "mean": 1.9024390243902438
+        }
+      },
+      "unknown_pairs_excluded": 24,
+      "unsupported_upgrade_conditions": 0
+    },
+    "mexico-earthquake": {
+      "count_prediction": {
+        "blurred": {
+          "cells": 1530,
+          "mean_absolute_error": 0.08474674716618902,
+          "mean_observed_count": 0.0,
+          "mean_predicted_count": 0.08474674716618902,
+          "mean_squared_error": 0.009314264309230177
+        },
+        "native": {
+          "cells": 1530,
+          "mean_absolute_error": 0.5839891545522752,
+          "mean_observed_count": 0.0,
+          "mean_predicted_count": 0.5839891545522752,
+          "mean_squared_error": 0.3875699974202575
+        },
+        "upgrade": {
+          "cells": 1530,
+          "mean_absolute_error": 0.42612238571472155,
+          "mean_observed_count": 0.0,
+          "mean_predicted_count": 0.42612238571472155,
+          "mean_squared_error": 0.20457861882484343
+        }
+      },
+      "held_out_scenes": 24,
+      "training_events": [
+        "hurricane-harvey",
+        "santa-rosa-wildfire"
+      ],
+      "training_paired_truth_support": {
+        "0": 2329,
+        "1": 717
+      },
+      "training_scenes": 48,
+      "training_upgrade_support": {
+        "0": {
+          "cells": 2901,
+          "mean": 0.37986901068597034
+        },
+        "1": {
+          "cells": 145,
+          "mean": 1.806896551724138
+        }
+      },
+      "unknown_pairs_excluded": 6,
+      "unsupported_upgrade_conditions": 0
+    },
+    "santa-rosa-wildfire": {
+      "count_prediction": {
+        "blurred": {
+          "cells": 1534,
+          "mean_absolute_error": 0.07648775896592774,
+          "mean_observed_count": 0.03585397653194263,
+          "mean_predicted_count": 0.04304476956835789,
+          "mean_squared_error": 0.10325210682764388
+        },
+        "native": {
+          "cells": 1534,
+          "mean_absolute_error": 0.6089259756018859,
+          "mean_observed_count": 0.4426336375488918,
+          "mean_predicted_count": 0.2808746587199802,
+          "mean_squared_error": 1.29774015791298
+        },
+        "upgrade": {
+          "cells": 1534,
+          "mean_absolute_error": 0.5247139545833448,
+          "mean_observed_count": 0.4067796610169492,
+          "mean_predicted_count": 0.23459361197223333,
+          "mean_squared_error": 1.0915986192248202
+        }
+      },
+      "held_out_scenes": 24,
+      "training_events": [
+        "hurricane-harvey",
+        "mexico-earthquake"
+      ],
+      "training_paired_truth_support": {
+        "0": 2674,
+        "1": 368
+      },
+      "training_scenes": 48,
+      "training_upgrade_support": {
+        "0": {
+          "cells": 2938,
+          "mean": 0.18924438393464943
+        },
+        "1": {
+          "cells": 104,
+          "mean": 1.7692307692307692
+        }
+      },
+      "unknown_pairs_excluded": 2,
+      "unsupported_upgrade_conditions": 0
+    }
+  },
+  "new_method_selected": false,
+  "paired_sensor": {
+    "alpha_per_outcome": 0.5,
+    "counts": {
+      "0": {
+        "00": 3815,
+        "01": 39,
+        "10": 1,
+        "11": 1
+      },
+      "1": {
+        "00": 105,
+        "01": 472,
+        "10": 1,
+        "11": 142
+      }
+    },
+    "outcome_order": "blurred,native",
+    "probabilities": {
+      "0": {
+        "00": 0.9889839294971488,
+        "01": 0.010238465526179368,
+        "10": 0.00038880248833592535,
+        "11": 0.00038880248833592535
+      },
+      "1": {
+        "00": 0.1461218836565097,
+        "01": 0.6544321329639889,
+        "10": 0.002077562326869806,
+        "11": 0.19736842105263158
+      }
+    }
+  },
+  "search_policy_evaluated": false,
+  "source_scenes": 72,
+  "stage": "DEVELOPMENT72_AGGREGATE_BASELINE_FIT_NOT_VALIDATED",
+  "unknown_pairs_excluded": 32
+}

@@ -1,0 +1,1342 @@
+{
+  "stage": "REAL_DATA_ADAPTER_CHECK_ONLY",
+  "real_efficacy_evaluation_run": false,
+  "dataset_id": "xbd_mini72_v1",
+  "grid_cells_per_scene": 64,
+  "total_pairs": 72,
+  "split_summary": {
+    "calibration": {
+      "pairs": 24,
+      "events": [
+        "hurricane-harvey",
+        "santa-rosa-wildfire"
+      ],
+      "buildings": 1788,
+      "target_buildings": 454,
+      "positive_scenes": 13,
+      "negative_scenes": 10,
+      "indeterminate_scenes": 1,
+      "positive_cells": 190,
+      "unknown_cells": 3
+    },
+    "validation": {
+      "pairs": 24,
+      "events": [
+        "hurricane-michael",
+        "mexico-earthquake"
+      ],
+      "buildings": 3436,
+      "target_buildings": 53,
+      "positive_scenes": 10,
+      "negative_scenes": 14,
+      "indeterminate_scenes": 0,
+      "positive_cells": 46,
+      "unknown_cells": 7
+    },
+    "test": {
+      "pairs": 24,
+      "events": [
+        "midwest-flooding",
+        "socal-fire"
+      ],
+      "buildings": 407,
+      "target_buildings": 15,
+      "positive_scenes": 7,
+      "negative_scenes": 14,
+      "indeterminate_scenes": 3,
+      "positive_cells": 15,
+      "unknown_cells": 13
+    }
+  },
+  "protocol_sha256": "957c04b5e681c4fcecc81fcc3b0109ccdf0025c6230ee5dec7a72c48e645f14a",
+  "cross_split_duplicate_images": [],
+  "cross_split_duplicate_building_uids": [],
+  "integrity_checks_passed": true,
+  "geographic_overlap_audited": false,
+  "preparation_code_sha256": "761b0d8947d644a6a001b2c612a4d5050eb7e7e4bcf9691402d989eacb3611e2",
+  "download_manifest_sha256": "666b98ff821e409b75e94e8bfebf7904d15c25f3e922ead1d389f5c196e2aa62",
+  "samples": [
+    {
+      "sample_id": "hurricane-harvey_00000392",
+      "event": "hurricane-harvey",
+      "split": "calibration",
+      "label_selected_diagnostic": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 92,
+      "subtypes": {
+        "major-damage": 91,
+        "destroyed": 1
+      },
+      "target_buildings": 92,
+      "positive_cells": 25,
+      "unknown_cells": 0
+    },
+    {
+      "sample_id": "hurricane-harvey_00000406",
+      "event": "hurricane-harvey",
+      "split": "calibration",
+      "label_selected_diagnostic": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 84,
+      "subtypes": {
+        "destroyed": 39,
+        "major-damage": 36,
+        "un-classified": 9
+      },
+      "target_buildings": 75,
+      "positive_cells": 32,
+      "unknown_cells": 0
+    },
+    {
+      "sample_id": "hurricane-harvey_00000098",
+      "event": "hurricane-harvey",
+      "split": "calibration",
+      "label_selected_diagnostic": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 159,
+      "subtypes": {
+        "no-damage": 157,
+        "minor-damage": 2
+      },
+      "target_buildings": 0,
+      "positive_cells": 0,
+      "unknown_cells": 0
+    },
+    {
+      "sample_id": "hurricane-harvey_00000242",
+      "event": "hurricane-harvey",
+      "split": "calibration",
+      "label_selected_diagnostic": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 261,
+      "subtypes": {
+        "no-damage": 261
+      },
+      "target_buildings": 0,
+      "positive_cells": 0,
+      "unknown_cells": 0
+    },
+    {
+      "sample_id": "hurricane-harvey_00000066",
+      "event": "hurricane-harvey",
+      "split": "calibration",
+      "label_selected_diagnostic": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 14,
+      "subtypes": {
+        "minor-damage": 7,
+        "no-damage": 5,
+        "major-damage": 2
+      },
+      "target_buildings": 2,
+      "positive_cells": 2,
+      "unknown_cells": 0
+    },
+    {
+      "sample_id": "hurricane-harvey_00000158",
+      "event": "hurricane-harvey",
+      "split": "calibration",
+      "label_selected_diagnostic": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 94,
+      "subtypes": {
+        "no-damage": 94
+      },
+      "target_buildings": 0,
+      "positive_cells": 0,
+      "unknown_cells": 0
+    },
+    {
+      "sample_id": "hurricane-harvey_00000189",
+      "event": "hurricane-harvey",
+      "split": "calibration",
+      "label_selected_diagnostic": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 0,
+      "subtypes": {},
+      "target_buildings": 0,
+      "positive_cells": 0,
+      "unknown_cells": 0
+    },
+    {
+      "sample_id": "hurricane-harvey_00000008",
+      "event": "hurricane-harvey",
+      "split": "calibration",
+      "label_selected_diagnostic": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 40,
+      "subtypes": {
+        "no-damage": 39,
+        "un-classified": 1
+      },
+      "target_buildings": 0,
+      "positive_cells": 0,
+      "unknown_cells": 1
+    },
+    {
+      "sample_id": "hurricane-harvey_00000085",
+      "event": "hurricane-harvey",
+      "split": "calibration",
+      "label_selected_diagnostic": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 20,
+      "subtypes": {
+        "no-damage": 20
+      },
+      "target_buildings": 0,
+      "positive_cells": 0,
+      "unknown_cells": 0
+    },
+    {
+      "sample_id": "hurricane-harvey_00000268",
+      "event": "hurricane-harvey",
+      "split": "calibration",
+      "label_selected_diagnostic": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 14,
+      "subtypes": {
+        "major-damage": 9,
+        "minor-damage": 1,
+        "un-classified": 4
+      },
+      "target_buildings": 9,
+      "positive_cells": 6,
+      "unknown_cells": 0
+    },
+    {
+      "sample_id": "hurricane-harvey_00000178",
+      "event": "hurricane-harvey",
+      "split": "calibration",
+      "label_selected_diagnostic": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 180,
+      "subtypes": {
+        "no-damage": 180
+      },
+      "target_buildings": 0,
+      "positive_cells": 0,
+      "unknown_cells": 0
+    },
+    {
+      "sample_id": "hurricane-harvey_00000505",
+      "event": "hurricane-harvey",
+      "split": "calibration",
+      "label_selected_diagnostic": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 54,
+      "subtypes": {
+        "major-damage": 4,
+        "minor-damage": 35,
+        "no-damage": 15
+      },
+      "target_buildings": 4,
+      "positive_cells": 4,
+      "unknown_cells": 0
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000220",
+      "event": "santa-rosa-wildfire",
+      "split": "calibration",
+      "label_selected_diagnostic": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 41,
+      "subtypes": {
+        "destroyed": 27,
+        "minor-damage": 7,
+        "major-damage": 5,
+        "no-damage": 2
+      },
+      "target_buildings": 32,
+      "positive_cells": 25,
+      "unknown_cells": 0
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000125",
+      "event": "santa-rosa-wildfire",
+      "split": "calibration",
+      "label_selected_diagnostic": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 0,
+      "subtypes": {},
+      "target_buildings": 0,
+      "positive_cells": 0,
+      "unknown_cells": 0
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000079",
+      "event": "santa-rosa-wildfire",
+      "split": "calibration",
+      "label_selected_diagnostic": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 182,
+      "subtypes": {
+        "destroyed": 115,
+        "no-damage": 63,
+        "minor-damage": 2,
+        "major-damage": 2
+      },
+      "target_buildings": 117,
+      "positive_cells": 19,
+      "unknown_cells": 0
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000023",
+      "event": "santa-rosa-wildfire",
+      "split": "calibration",
+      "label_selected_diagnostic": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 24,
+      "subtypes": {
+        "no-damage": 13,
+        "destroyed": 11
+      },
+      "target_buildings": 11,
+      "positive_cells": 4,
+      "unknown_cells": 0
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000056",
+      "event": "santa-rosa-wildfire",
+      "split": "calibration",
+      "label_selected_diagnostic": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 53,
+      "subtypes": {
+        "destroyed": 34,
+        "minor-damage": 2,
+        "no-damage": 13,
+        "un-classified": 4
+      },
+      "target_buildings": 34,
+      "positive_cells": 18,
+      "unknown_cells": 2
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000196",
+      "event": "santa-rosa-wildfire",
+      "split": "calibration",
+      "label_selected_diagnostic": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 32,
+      "subtypes": {
+        "destroyed": 31,
+        "no-damage": 1
+      },
+      "target_buildings": 31,
+      "positive_cells": 24,
+      "unknown_cells": 0
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000177",
+      "event": "santa-rosa-wildfire",
+      "split": "calibration",
+      "label_selected_diagnostic": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 169,
+      "subtypes": {
+        "no-damage": 169
+      },
+      "target_buildings": 0,
+      "positive_cells": 0,
+      "unknown_cells": 0
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000151",
+      "event": "santa-rosa-wildfire",
+      "split": "calibration",
+      "label_selected_diagnostic": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 4,
+      "subtypes": {
+        "destroyed": 3,
+        "un-classified": 1
+      },
+      "target_buildings": 3,
+      "positive_cells": 3,
+      "unknown_cells": 0
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000169",
+      "event": "santa-rosa-wildfire",
+      "split": "calibration",
+      "label_selected_diagnostic": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 179,
+      "subtypes": {
+        "no-damage": 179
+      },
+      "target_buildings": 0,
+      "positive_cells": 0,
+      "unknown_cells": 0
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000182",
+      "event": "santa-rosa-wildfire",
+      "split": "calibration",
+      "label_selected_diagnostic": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 11,
+      "subtypes": {
+        "no-damage": 11
+      },
+      "target_buildings": 0,
+      "positive_cells": 0,
+      "unknown_cells": 0
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000035",
+      "event": "santa-rosa-wildfire",
+      "split": "calibration",
+      "label_selected_diagnostic": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 35,
+      "subtypes": {
+        "destroyed": 34,
+        "no-damage": 1
+      },
+      "target_buildings": 34,
+      "positive_cells": 23,
+      "unknown_cells": 0
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000039",
+      "event": "santa-rosa-wildfire",
+      "split": "calibration",
+      "label_selected_diagnostic": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 46,
+      "subtypes": {
+        "no-damage": 36,
+        "destroyed": 10
+      },
+      "target_buildings": 10,
+      "positive_cells": 5,
+      "unknown_cells": 0
+    },
+    {
+      "sample_id": "hurricane-michael_00000341",
+      "event": "hurricane-michael",
+      "split": "validation",
+      "label_selected_diagnostic": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 16,
+      "subtypes": {
+        "no-damage": 12,
+        "minor-damage": 3,
+        "major-damage": 1
+      },
+      "target_buildings": 1,
+      "positive_cells": 1,
+      "unknown_cells": 0
+    },
+    {
+      "sample_id": "hurricane-michael_00000184",
+      "event": "hurricane-michael",
+      "split": "validation",
+      "label_selected_diagnostic": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 95,
+      "subtypes": {
+        "major-damage": 12,
+        "no-damage": 44,
+        "un-classified": 13,
+        "destroyed": 4,
+        "minor-damage": 22
+      },
+      "target_buildings": 16,
+      "positive_cells": 13,
+      "unknown_cells": 6
+    },
+    {
+      "sample_id": "hurricane-michael_00000275",
+      "event": "hurricane-michael",
+      "split": "validation",
+      "label_selected_diagnostic": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 17,
+      "subtypes": {
+        "no-damage": 14,
+        "major-damage": 1,
+        "minor-damage": 2
+      },
+      "target_buildings": 1,
+      "positive_cells": 1,
+      "unknown_cells": 0
+    },
+    {
+      "sample_id": "hurricane-michael_00000135",
+      "event": "hurricane-michael",
+      "split": "validation",
+      "label_selected_diagnostic": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 59,
+      "subtypes": {
+        "major-damage": 10,
+        "no-damage": 41,
+        "destroyed": 2,
+        "minor-damage": 6
+      },
+      "target_buildings": 12,
+      "positive_cells": 9,
+      "unknown_cells": 0
+    },
+    {
+      "sample_id": "hurricane-michael_00000484",
+      "event": "hurricane-michael",
+      "split": "validation",
+      "label_selected_diagnostic": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 78,
+      "subtypes": {
+        "no-damage": 66,
+        "major-damage": 3,
+        "minor-damage": 9
+      },
+      "target_buildings": 3,
+      "positive_cells": 3,
+      "unknown_cells": 0
+    },
+    {
+      "sample_id": "hurricane-michael_00000059",
+      "event": "hurricane-michael",
+      "split": "validation",
+      "label_selected_diagnostic": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 56,
+      "subtypes": {
+        "no-damage": 40,
+        "destroyed": 3,
+        "minor-damage": 8,
+        "major-damage": 5
+      },
+      "target_buildings": 8,
+      "positive_cells": 7,
+      "unknown_cells": 0
+    },
+    {
+      "sample_id": "hurricane-michael_00000546",
+      "event": "hurricane-michael",
+      "split": "validation",
+      "label_selected_diagnostic": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 85,
+      "subtypes": {
+        "no-damage": 83,
+        "minor-damage": 2
+      },
+      "target_buildings": 0,
+      "positive_cells": 0,
+      "unknown_cells": 0
+    },
+    {
+      "sample_id": "hurricane-michael_00000039",
+      "event": "hurricane-michael",
+      "split": "validation",
+      "label_selected_diagnostic": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 24,
+      "subtypes": {
+        "minor-damage": 8,
+        "no-damage": 16
+      },
+      "target_buildings": 0,
+      "positive_cells": 0,
+      "unknown_cells": 0
+    },
+    {
+      "sample_id": "hurricane-michael_00000357",
+      "event": "hurricane-michael",
+      "split": "validation",
+      "label_selected_diagnostic": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 119,
+      "subtypes": {
+        "no-damage": 93,
+        "minor-damage": 25,
+        "major-damage": 1
+      },
+      "target_buildings": 1,
+      "positive_cells": 1,
+      "unknown_cells": 0
+    },
+    {
+      "sample_id": "hurricane-michael_00000452",
+      "event": "hurricane-michael",
+      "split": "validation",
+      "label_selected_diagnostic": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 52,
+      "subtypes": {
+        "major-damage": 3,
+        "no-damage": 34,
+        "minor-damage": 14,
+        "destroyed": 1
+      },
+      "target_buildings": 4,
+      "positive_cells": 4,
+      "unknown_cells": 0
+    },
+    {
+      "sample_id": "hurricane-michael_00000430",
+      "event": "hurricane-michael",
+      "split": "validation",
+      "label_selected_diagnostic": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 8,
+      "subtypes": {
+        "major-damage": 3,
+        "no-damage": 3,
+        "minor-damage": 1,
+        "un-classified": 1
+      },
+      "target_buildings": 3,
+      "positive_cells": 3,
+      "unknown_cells": 1
+    },
+    {
+      "sample_id": "hurricane-michael_00000220",
+      "event": "hurricane-michael",
+      "split": "validation",
+      "label_selected_diagnostic": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 71,
+      "subtypes": {
+        "no-damage": 53,
+        "minor-damage": 14,
+        "major-damage": 4
+      },
+      "target_buildings": 4,
+      "positive_cells": 4,
+      "unknown_cells": 0
+    },
+    {
+      "sample_id": "mexico-earthquake_00000064",
+      "event": "mexico-earthquake",
+      "split": "validation",
+      "label_selected_diagnostic": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 397,
+      "subtypes": {
+        "no-damage": 397
+      },
+      "target_buildings": 0,
+      "positive_cells": 0,
+      "unknown_cells": 0
+    },
+    {
+      "sample_id": "mexico-earthquake_00000072",
+      "event": "mexico-earthquake",
+      "split": "validation",
+      "label_selected_diagnostic": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 58,
+      "subtypes": {
+        "no-damage": 58
+      },
+      "target_buildings": 0,
+      "positive_cells": 0,
+      "unknown_cells": 0
+    },
+    {
+      "sample_id": "mexico-earthquake_00000078",
+      "event": "mexico-earthquake",
+      "split": "validation",
+      "label_selected_diagnostic": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 272,
+      "subtypes": {
+        "no-damage": 272
+      },
+      "target_buildings": 0,
+      "positive_cells": 0,
+      "unknown_cells": 0
+    },
+    {
+      "sample_id": "mexico-earthquake_00000166",
+      "event": "mexico-earthquake",
+      "split": "validation",
+      "label_selected_diagnostic": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 7,
+      "subtypes": {
+        "no-damage": 7
+      },
+      "target_buildings": 0,
+      "positive_cells": 0,
+      "unknown_cells": 0
+    },
+    {
+      "sample_id": "mexico-earthquake_00000115",
+      "event": "mexico-earthquake",
+      "split": "validation",
+      "label_selected_diagnostic": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 344,
+      "subtypes": {
+        "no-damage": 344
+      },
+      "target_buildings": 0,
+      "positive_cells": 0,
+      "unknown_cells": 0
+    },
+    {
+      "sample_id": "mexico-earthquake_00000000",
+      "event": "mexico-earthquake",
+      "split": "validation",
+      "label_selected_diagnostic": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 449,
+      "subtypes": {
+        "no-damage": 447,
+        "minor-damage": 2
+      },
+      "target_buildings": 0,
+      "positive_cells": 0,
+      "unknown_cells": 0
+    },
+    {
+      "sample_id": "mexico-earthquake_00000089",
+      "event": "mexico-earthquake",
+      "split": "validation",
+      "label_selected_diagnostic": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 340,
+      "subtypes": {
+        "no-damage": 340
+      },
+      "target_buildings": 0,
+      "positive_cells": 0,
+      "unknown_cells": 0
+    },
+    {
+      "sample_id": "mexico-earthquake_00000159",
+      "event": "mexico-earthquake",
+      "split": "validation",
+      "label_selected_diagnostic": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 136,
+      "subtypes": {
+        "no-damage": 136
+      },
+      "target_buildings": 0,
+      "positive_cells": 0,
+      "unknown_cells": 0
+    },
+    {
+      "sample_id": "mexico-earthquake_00000160",
+      "event": "mexico-earthquake",
+      "split": "validation",
+      "label_selected_diagnostic": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 188,
+      "subtypes": {
+        "no-damage": 188
+      },
+      "target_buildings": 0,
+      "positive_cells": 0,
+      "unknown_cells": 0
+    },
+    {
+      "sample_id": "mexico-earthquake_00000118",
+      "event": "mexico-earthquake",
+      "split": "validation",
+      "label_selected_diagnostic": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 279,
+      "subtypes": {
+        "no-damage": 279
+      },
+      "target_buildings": 0,
+      "positive_cells": 0,
+      "unknown_cells": 0
+    },
+    {
+      "sample_id": "mexico-earthquake_00000013",
+      "event": "mexico-earthquake",
+      "split": "validation",
+      "label_selected_diagnostic": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 260,
+      "subtypes": {
+        "no-damage": 260
+      },
+      "target_buildings": 0,
+      "positive_cells": 0,
+      "unknown_cells": 0
+    },
+    {
+      "sample_id": "mexico-earthquake_00000168",
+      "event": "mexico-earthquake",
+      "split": "validation",
+      "label_selected_diagnostic": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 26,
+      "subtypes": {
+        "no-damage": 26
+      },
+      "target_buildings": 0,
+      "positive_cells": 0,
+      "unknown_cells": 0
+    },
+    {
+      "sample_id": "midwest-flooding_00000430",
+      "event": "midwest-flooding",
+      "split": "test",
+      "label_selected_diagnostic": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 22,
+      "subtypes": {
+        "no-damage": 22
+      },
+      "target_buildings": 0,
+      "positive_cells": 0,
+      "unknown_cells": 0
+    },
+    {
+      "sample_id": "midwest-flooding_00000130",
+      "event": "midwest-flooding",
+      "split": "test",
+      "label_selected_diagnostic": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 11,
+      "subtypes": {
+        "no-damage": 7,
+        "destroyed": 2,
+        "major-damage": 1,
+        "minor-damage": 1
+      },
+      "target_buildings": 3,
+      "positive_cells": 3,
+      "unknown_cells": 0
+    },
+    {
+      "sample_id": "midwest-flooding_00000170",
+      "event": "midwest-flooding",
+      "split": "test",
+      "label_selected_diagnostic": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 22,
+      "subtypes": {
+        "no-damage": 14,
+        "minor-damage": 4,
+        "un-classified": 3,
+        "major-damage": 1
+      },
+      "target_buildings": 1,
+      "positive_cells": 1,
+      "unknown_cells": 1
+    },
+    {
+      "sample_id": "midwest-flooding_00000109",
+      "event": "midwest-flooding",
+      "split": "test",
+      "label_selected_diagnostic": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 19,
+      "subtypes": {
+        "no-damage": 19
+      },
+      "target_buildings": 0,
+      "positive_cells": 0,
+      "unknown_cells": 0
+    },
+    {
+      "sample_id": "midwest-flooding_00000177",
+      "event": "midwest-flooding",
+      "split": "test",
+      "label_selected_diagnostic": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 0,
+      "subtypes": {},
+      "target_buildings": 0,
+      "positive_cells": 0,
+      "unknown_cells": 0
+    },
+    {
+      "sample_id": "midwest-flooding_00000021",
+      "event": "midwest-flooding",
+      "split": "test",
+      "label_selected_diagnostic": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 6,
+      "subtypes": {
+        "major-damage": 1,
+        "destroyed": 1,
+        "minor-damage": 2,
+        "no-damage": 1,
+        "un-classified": 1
+      },
+      "target_buildings": 2,
+      "positive_cells": 2,
+      "unknown_cells": 1
+    },
+    {
+      "sample_id": "midwest-flooding_00000114",
+      "event": "midwest-flooding",
+      "split": "test",
+      "label_selected_diagnostic": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 25,
+      "subtypes": {
+        "no-damage": 23,
+        "un-classified": 2
+      },
+      "target_buildings": 0,
+      "positive_cells": 0,
+      "unknown_cells": 2
+    },
+    {
+      "sample_id": "midwest-flooding_00000018",
+      "event": "midwest-flooding",
+      "split": "test",
+      "label_selected_diagnostic": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 181,
+      "subtypes": {
+        "no-damage": 166,
+        "un-classified": 11,
+        "minor-damage": 4
+      },
+      "target_buildings": 0,
+      "positive_cells": 0,
+      "unknown_cells": 8
+    },
+    {
+      "sample_id": "midwest-flooding_00000139",
+      "event": "midwest-flooding",
+      "split": "test",
+      "label_selected_diagnostic": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 1,
+      "subtypes": {
+        "destroyed": 1
+      },
+      "target_buildings": 1,
+      "positive_cells": 1,
+      "unknown_cells": 0
+    },
+    {
+      "sample_id": "midwest-flooding_00000276",
+      "event": "midwest-flooding",
+      "split": "test",
+      "label_selected_diagnostic": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 17,
+      "subtypes": {
+        "major-damage": 2,
+        "destroyed": 1,
+        "no-damage": 12,
+        "minor-damage": 2
+      },
+      "target_buildings": 3,
+      "positive_cells": 3,
+      "unknown_cells": 0
+    },
+    {
+      "sample_id": "midwest-flooding_00000079",
+      "event": "midwest-flooding",
+      "split": "test",
+      "label_selected_diagnostic": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 1,
+      "subtypes": {
+        "no-damage": 1
+      },
+      "target_buildings": 0,
+      "positive_cells": 0,
+      "unknown_cells": 0
+    },
+    {
+      "sample_id": "midwest-flooding_00000196",
+      "event": "midwest-flooding",
+      "split": "test",
+      "label_selected_diagnostic": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 31,
+      "subtypes": {
+        "no-damage": 31
+      },
+      "target_buildings": 0,
+      "positive_cells": 0,
+      "unknown_cells": 0
+    },
+    {
+      "sample_id": "socal-fire_00001337",
+      "event": "socal-fire",
+      "split": "test",
+      "label_selected_diagnostic": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 0,
+      "subtypes": {},
+      "target_buildings": 0,
+      "positive_cells": 0,
+      "unknown_cells": 0
+    },
+    {
+      "sample_id": "socal-fire_00000429",
+      "event": "socal-fire",
+      "split": "test",
+      "label_selected_diagnostic": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 1,
+      "subtypes": {
+        "destroyed": 1
+      },
+      "target_buildings": 1,
+      "positive_cells": 1,
+      "unknown_cells": 0
+    },
+    {
+      "sample_id": "socal-fire_00000354",
+      "event": "socal-fire",
+      "split": "test",
+      "label_selected_diagnostic": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 1,
+      "subtypes": {
+        "un-classified": 1
+      },
+      "target_buildings": 0,
+      "positive_cells": 0,
+      "unknown_cells": 1
+    },
+    {
+      "sample_id": "socal-fire_00001334",
+      "event": "socal-fire",
+      "split": "test",
+      "label_selected_diagnostic": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 0,
+      "subtypes": {},
+      "target_buildings": 0,
+      "positive_cells": 0,
+      "unknown_cells": 0
+    },
+    {
+      "sample_id": "socal-fire_00000296",
+      "event": "socal-fire",
+      "split": "test",
+      "label_selected_diagnostic": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 64,
+      "subtypes": {
+        "no-damage": 64
+      },
+      "target_buildings": 0,
+      "positive_cells": 0,
+      "unknown_cells": 0
+    },
+    {
+      "sample_id": "socal-fire_00000698",
+      "event": "socal-fire",
+      "split": "test",
+      "label_selected_diagnostic": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 0,
+      "subtypes": {},
+      "target_buildings": 0,
+      "positive_cells": 0,
+      "unknown_cells": 0
+    },
+    {
+      "sample_id": "socal-fire_00001318",
+      "event": "socal-fire",
+      "split": "test",
+      "label_selected_diagnostic": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 1,
+      "subtypes": {
+        "no-damage": 1
+      },
+      "target_buildings": 0,
+      "positive_cells": 0,
+      "unknown_cells": 0
+    },
+    {
+      "sample_id": "socal-fire_00001083",
+      "event": "socal-fire",
+      "split": "test",
+      "label_selected_diagnostic": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 0,
+      "subtypes": {},
+      "target_buildings": 0,
+      "positive_cells": 0,
+      "unknown_cells": 0
+    },
+    {
+      "sample_id": "socal-fire_00000932",
+      "event": "socal-fire",
+      "split": "test",
+      "label_selected_diagnostic": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 0,
+      "subtypes": {},
+      "target_buildings": 0,
+      "positive_cells": 0,
+      "unknown_cells": 0
+    },
+    {
+      "sample_id": "socal-fire_00000969",
+      "event": "socal-fire",
+      "split": "test",
+      "label_selected_diagnostic": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 0,
+      "subtypes": {},
+      "target_buildings": 0,
+      "positive_cells": 0,
+      "unknown_cells": 0
+    },
+    {
+      "sample_id": "socal-fire_00000265",
+      "event": "socal-fire",
+      "split": "test",
+      "label_selected_diagnostic": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 4,
+      "subtypes": {
+        "destroyed": 4
+      },
+      "target_buildings": 4,
+      "positive_cells": 4,
+      "unknown_cells": 0
+    },
+    {
+      "sample_id": "socal-fire_00000781",
+      "event": "socal-fire",
+      "split": "test",
+      "label_selected_diagnostic": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "building_count": 0,
+      "subtypes": {},
+      "target_buildings": 0,
+      "positive_cells": 0,
+      "unknown_cells": 0
+    }
+  ],
+  "pending": [
+    "Compare raw mirror files with original distribution if official checksums become available.",
+    "Audit frozen perception checkpoint training-event overlap before unseen-event claims.",
+    "Choose frozen detector and calibrate its quality-conditional error rates.",
+    "Calibrate raw cue into an initial probability using calibration events only.",
+    "Define actual additional observations; repeated reads of one image are not independent evidence.",
+    "Add travel/return costs after the observation-budget experiment."
+  ]
+}

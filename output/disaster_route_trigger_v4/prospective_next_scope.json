@@ -1,0 +1,13 @@
+{
+  "candidate_threshold_retuning_enabled": false,
+  "gpu_rental": false,
+  "new_perception_calls_enabled": false,
+  "new_training": false,
+  "next": "Keep fixed pre/post static,always-online and every5-online baselines;prospectively test mismatch between environmental observation error and planner-assumed error before adding further triggers.",
+  "next_experiment_executed": false,
+  "one_sd_candidate_status": "STOPPED_AS_PRIMARY_CANDIDATE_ON_THIS_RULE",
+  "positive_mean_candidate_status": "RETAIN_AS_ADDITIONAL_CONTROL;no demonstrated clear gain over periodic5",
+  "real_targets_available": false,
+  "real_world_efficacy_established": false,
+  "status": "NOT_EXECUTED"
+}

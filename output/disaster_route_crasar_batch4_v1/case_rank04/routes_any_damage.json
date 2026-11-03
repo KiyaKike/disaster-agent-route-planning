@@ -1,0 +1,1215 @@
+[
+  {
+    "route": [
+      13,
+      9,
+      10
+    ],
+    "distance_m": 137.22385956066358,
+    "elapsed_proxy_s": 58.444771912132715,
+    "observation_count": 3,
+    "events": [
+      {
+        "window": 13,
+        "arrival_proxy_s": 5.525483399593904,
+        "observation_complete_proxy_s": 15.525483399593904,
+        "utility": 2.7059878686528327e-05
+      },
+      {
+        "window": 9,
+        "arrival_proxy_s": 21.9254833995939,
+        "observation_complete_proxy_s": 31.9254833995939,
+        "utility": 8.402634385254828e-05
+      },
+      {
+        "window": 10,
+        "arrival_proxy_s": 38.3254833995939,
+        "observation_complete_proxy_s": 48.3254833995939,
+        "utility": 0.0001101160038013192
+      }
+    ],
+    "public_utility_proxy": 0.0001101160038013192,
+    "returned_home": true,
+    "planning_charge_proxy_s": 1,
+    "observed_building_fraction": [
+      0.0,
+      0.0,
+      0.00266844563042028,
+      0.10015082956259427,
+      0.3685165034457744,
+      0.8659308847476027,
+      0.0,
+      0.5091516791341716
+    ],
+    "policy": "distance",
+    "solver_wall_seconds": 0.00022887499653734267,
+    "certificate": {
+      "solver": "greedy feasible insertion",
+      "objective_gap": null
+    },
+    "utility_scope": "damage score × uncertainty score × newly accessed footprint fraction; uncalibrated proxy",
+    "flight_cost_measured": false,
+    "budget_proxy_s": 60
+  },
+  {
+    "route": [
+      9,
+      13,
+      14
+    ],
+    "distance_m": 137.2238595606636,
+    "elapsed_proxy_s": 58.444771912132715,
+    "observation_count": 3,
+    "events": [
+      {
+        "window": 9,
+        "arrival_proxy_s": 11.119288512538816,
+        "observation_complete_proxy_s": 21.119288512538816,
+        "utility": 5.6966465166019943e-05
+      },
+      {
+        "window": 13,
+        "arrival_proxy_s": 27.519288512538814,
+        "observation_complete_proxy_s": 37.519288512538814,
+        "utility": 8.402634385254828e-05
+      },
+      {
+        "window": 14,
+        "arrival_proxy_s": 43.91928851253881,
+        "observation_complete_proxy_s": 53.91928851253881,
+        "utility": 0.00010183789744367822
+      }
+    ],
+    "public_utility_proxy": 0.00010183789744367822,
+    "returned_home": true,
+    "planning_charge_proxy_s": 1,
+    "observed_building_fraction": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.7939207526687172,
+      0.0,
+      0.476842272799618
+    ],
+    "policy": "damage",
+    "solver_wall_seconds": 0.00021037498663645238,
+    "certificate": {
+      "solver": "greedy feasible insertion",
+      "objective_gap": null
+    },
+    "utility_scope": "damage score × uncertainty score × newly accessed footprint fraction; uncalibrated proxy",
+    "flight_cost_measured": false,
+    "budget_proxy_s": 60
+  },
+  {
+    "route": [
+      9,
+      13,
+      14
+    ],
+    "distance_m": 137.2238595606636,
+    "elapsed_proxy_s": 58.444771912132715,
+    "observation_count": 3,
+    "events": [
+      {
+        "window": 9,
+        "arrival_proxy_s": 11.119288512538816,
+        "observation_complete_proxy_s": 21.119288512538816,
+        "utility": 5.6966465166019943e-05
+      },
+      {
+        "window": 13,
+        "arrival_proxy_s": 27.519288512538814,
+        "observation_complete_proxy_s": 37.519288512538814,
+        "utility": 8.402634385254828e-05
+      },
+      {
+        "window": 14,
+        "arrival_proxy_s": 43.91928851253881,
+        "observation_complete_proxy_s": 53.91928851253881,
+        "utility": 0.00010183789744367822
+      }
+    ],
+    "public_utility_proxy": 0.00010183789744367822,
+    "returned_home": true,
+    "planning_charge_proxy_s": 1,
+    "observed_building_fraction": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.7939207526687172,
+      0.0,
+      0.476842272799618
+    ],
+    "policy": "uncertainty",
+    "solver_wall_seconds": 0.00020125000446569175,
+    "certificate": {
+      "solver": "greedy feasible insertion",
+      "objective_gap": null
+    },
+    "utility_scope": "damage score × uncertainty score × newly accessed footprint fraction; uncalibrated proxy",
+    "flight_cost_measured": false,
+    "budget_proxy_s": 60
+  },
+  {
+    "route": [
+      14,
+      9,
+      13
+    ],
+    "distance_m": 122.50966799187809,
+    "elapsed_proxy_s": 55.501933598375615,
+    "observation_count": 3,
+    "events": [
+      {
+        "window": 14,
+        "arrival_proxy_s": 5.525483399593904,
+        "observation_complete_proxy_s": 15.525483399593904,
+        "utility": 0.0005678562247996398
+      },
+      {
+        "window": 9,
+        "arrival_proxy_s": 24.576450198781714,
+        "observation_complete_proxy_s": 34.576450198781714,
+        "utility": 0.0016517483665423622
+      },
+      {
+        "window": 13,
+        "arrival_proxy_s": 40.97645019878171,
+        "observation_complete_proxy_s": 50.97645019878171,
+        "utility": 0.0022997248462058705
+      }
+    ],
+    "public_utility_proxy": 0.0022997248462058705,
+    "returned_home": true,
+    "planning_charge_proxy_s": 1,
+    "observed_building_fraction": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.7939207526687172,
+      0.0,
+      0.476842272799618
+    ],
+    "policy": "static_exact_damage",
+    "solver_wall_seconds": 0.05549704200529959,
+    "certificate": {
+      "solver": "Held-Karp all subsets",
+      "enumerated_subsets": 65536,
+      "feasible_subsets": 63,
+      "objective_upper_bound": 0.0022997248462058705,
+      "objective_gap": 0.0
+    },
+    "utility_scope": "damage score × uncertainty score × newly accessed footprint fraction; uncalibrated proxy",
+    "flight_cost_measured": false,
+    "budget_proxy_s": 60
+  },
+  {
+    "route": [
+      13,
+      9,
+      10
+    ],
+    "distance_m": 137.22385956066358,
+    "elapsed_proxy_s": 58.444771912132715,
+    "observation_count": 3,
+    "events": [
+      {
+        "window": 13,
+        "arrival_proxy_s": 5.525483399593904,
+        "observation_complete_proxy_s": 15.525483399593904,
+        "utility": 2.7059878686528327e-05
+      },
+      {
+        "window": 9,
+        "arrival_proxy_s": 21.9254833995939,
+        "observation_complete_proxy_s": 31.9254833995939,
+        "utility": 8.402634385254828e-05
+      },
+      {
+        "window": 10,
+        "arrival_proxy_s": 38.3254833995939,
+        "observation_complete_proxy_s": 48.3254833995939,
+        "utility": 0.0001101160038013192
+      }
+    ],
+    "public_utility_proxy": 0.0001101160038013192,
+    "returned_home": true,
+    "planning_charge_proxy_s": 1,
+    "observed_building_fraction": [
+      0.0,
+      0.0,
+      0.00266844563042028,
+      0.10015082956259427,
+      0.3685165034457744,
+      0.8659308847476027,
+      0.0,
+      0.5091516791341716
+    ],
+    "policy": "static_exact",
+    "solver_wall_seconds": 0.05636850000882987,
+    "certificate": {
+      "solver": "Held-Karp all subsets",
+      "enumerated_subsets": 65536,
+      "feasible_subsets": 63,
+      "objective_upper_bound": 0.00011011600380131919,
+      "objective_gap": 0.0
+    },
+    "utility_scope": "damage score × uncertainty score × newly accessed footprint fraction; uncalibrated proxy",
+    "flight_cost_measured": false,
+    "budget_proxy_s": 60
+  },
+  {
+    "route": [
+      9,
+      13,
+      14
+    ],
+    "distance_m": 137.2238595606636,
+    "elapsed_proxy_s": 58.444771912132715,
+    "observation_count": 3,
+    "events": [
+      {
+        "window": 9,
+        "arrival_proxy_s": 11.119288512538816,
+        "observation_complete_proxy_s": 21.119288512538816,
+        "utility": 5.6966465166019943e-05
+      },
+      {
+        "window": 13,
+        "arrival_proxy_s": 27.519288512538814,
+        "observation_complete_proxy_s": 37.519288512538814,
+        "utility": 8.402634385254828e-05
+      },
+      {
+        "window": 14,
+        "arrival_proxy_s": 43.91928851253881,
+        "observation_complete_proxy_s": 53.91928851253881,
+        "utility": 0.00010183789744367822
+      }
+    ],
+    "public_utility_proxy": 0.00010183789744367822,
+    "returned_home": true,
+    "planning_charge_proxy_s": 1,
+    "observed_building_fraction": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.7939207526687172,
+      0.0,
+      0.476842272799618
+    ],
+    "policy": "value_cost_proxy",
+    "solver_wall_seconds": 0.0002876670041587204,
+    "certificate": {
+      "solver": "greedy feasible insertion",
+      "objective_gap": null
+    },
+    "utility_scope": "damage score × uncertainty score × newly accessed footprint fraction; uncalibrated proxy",
+    "flight_cost_measured": false,
+    "budget_proxy_s": 60
+  },
+  {
+    "route": [
+      13,
+      9,
+      5,
+      1,
+      10
+    ],
+    "distance_m": 240.7780348406569,
+    "elapsed_proxy_s": 99.15560696813137,
+    "observation_count": 5,
+    "events": [
+      {
+        "window": 13,
+        "arrival_proxy_s": 5.525483399593904,
+        "observation_complete_proxy_s": 15.525483399593904,
+        "utility": 2.7059878686528327e-05
+      },
+      {
+        "window": 9,
+        "arrival_proxy_s": 21.9254833995939,
+        "observation_complete_proxy_s": 31.9254833995939,
+        "utility": 8.402634385254828e-05
+      },
+      {
+        "window": 5,
+        "arrival_proxy_s": 38.3254833995939,
+        "observation_complete_proxy_s": 48.3254833995939,
+        "utility": 8.456546836592441e-05
+      },
+      {
+        "window": 1,
+        "arrival_proxy_s": 54.7254833995939,
+        "observation_complete_proxy_s": 64.7254833995939,
+        "utility": 8.460037991524295e-05
+      },
+      {
+        "window": 10,
+        "arrival_proxy_s": 79.03631845559255,
+        "observation_complete_proxy_s": 89.03631845559255,
+        "utility": 0.00011069003986401389
+      }
+    ],
+    "public_utility_proxy": 0.00011069003986401389,
+    "returned_home": true,
+    "planning_charge_proxy_s": 1,
+    "observed_building_fraction": [
+      0.0,
+      0.8819886461379667,
+      0.00266844563042028,
+      0.10015082956259427,
+      0.3685165034457744,
+      0.8659308847476027,
+      0.8230243560539687,
+      0.8855642209135763
+    ],
+    "policy": "distance",
+    "solver_wall_seconds": 0.0002507919998606667,
+    "certificate": {
+      "solver": "greedy feasible insertion",
+      "objective_gap": null
+    },
+    "utility_scope": "damage score × uncertainty score × newly accessed footprint fraction; uncalibrated proxy",
+    "flight_cost_measured": false,
+    "budget_proxy_s": 100
+  },
+  {
+    "route": [
+      9,
+      13,
+      14,
+      10,
+      15
+    ],
+    "distance_m": 242.4477191213272,
+    "elapsed_proxy_s": 99.48954382426543,
+    "observation_count": 5,
+    "events": [
+      {
+        "window": 9,
+        "arrival_proxy_s": 11.119288512538816,
+        "observation_complete_proxy_s": 21.119288512538816,
+        "utility": 5.6966465166019943e-05
+      },
+      {
+        "window": 13,
+        "arrival_proxy_s": 27.519288512538814,
+        "observation_complete_proxy_s": 37.519288512538814,
+        "utility": 8.402634385254828e-05
+      },
+      {
+        "window": 14,
+        "arrival_proxy_s": 43.91928851253881,
+        "observation_complete_proxy_s": 53.91928851253881,
+        "utility": 0.00010183789744367822
+      },
+      {
+        "window": 10,
+        "arrival_proxy_s": 60.319288512538805,
+        "observation_complete_proxy_s": 70.3192885125388,
+        "utility": 0.00012792755739244916
+      },
+      {
+        "window": 15,
+        "arrival_proxy_s": 79.37025531172661,
+        "observation_complete_proxy_s": 89.37025531172661,
+        "utility": 0.00012792950626534149
+      }
+    ],
+    "public_utility_proxy": 0.00012792950626534149,
+    "returned_home": true,
+    "planning_charge_proxy_s": 1,
+    "observed_building_fraction": [
+      0.0,
+      0.0,
+      0.8080386924616411,
+      0.10015082956259427,
+      1.0,
+      1.0,
+      0.0,
+      0.5091516791341716
+    ],
+    "policy": "damage",
+    "solver_wall_seconds": 0.0002884170098695904,
+    "certificate": {
+      "solver": "greedy feasible insertion",
+      "objective_gap": null
+    },
+    "utility_scope": "damage score × uncertainty score × newly accessed footprint fraction; uncalibrated proxy",
+    "flight_cost_measured": false,
+    "budget_proxy_s": 100
+  },
+  {
+    "route": [
+      9,
+      13,
+      10,
+      14,
+      15
+    ],
+    "distance_m": 242.4477191213272,
+    "elapsed_proxy_s": 99.48954382426544,
+    "observation_count": 5,
+    "events": [
+      {
+        "window": 9,
+        "arrival_proxy_s": 11.119288512538816,
+        "observation_complete_proxy_s": 21.119288512538816,
+        "utility": 5.6966465166019943e-05
+      },
+      {
+        "window": 13,
+        "arrival_proxy_s": 27.519288512538814,
+        "observation_complete_proxy_s": 37.519288512538814,
+        "utility": 8.402634385254828e-05
+      },
+      {
+        "window": 10,
+        "arrival_proxy_s": 46.570255311726626,
+        "observation_complete_proxy_s": 56.570255311726626,
+        "utility": 0.0001101160038013192
+      },
+      {
+        "window": 14,
+        "arrival_proxy_s": 62.97025531172662,
+        "observation_complete_proxy_s": 72.97025531172662,
+        "utility": 0.00012792755739244916
+      },
+      {
+        "window": 15,
+        "arrival_proxy_s": 79.37025531172662,
+        "observation_complete_proxy_s": 89.37025531172662,
+        "utility": 0.00012792950626534149
+      }
+    ],
+    "public_utility_proxy": 0.00012792950626534149,
+    "returned_home": true,
+    "planning_charge_proxy_s": 1,
+    "observed_building_fraction": [
+      0.0,
+      0.0,
+      0.8080386924616411,
+      0.10015082956259427,
+      1.0,
+      1.0,
+      0.0,
+      0.5091516791341716
+    ],
+    "policy": "uncertainty",
+    "solver_wall_seconds": 0.00028779200511053205,
+    "certificate": {
+      "solver": "greedy feasible insertion",
+      "objective_gap": null
+    },
+    "utility_scope": "damage score × uncertainty score × newly accessed footprint fraction; uncalibrated proxy",
+    "flight_cost_measured": false,
+    "budget_proxy_s": 100
+  },
+  {
+    "route": [
+      14,
+      10,
+      5,
+      9,
+      13
+    ],
+    "distance_m": 186.5096679918781,
+    "elapsed_proxy_s": 88.30193359837561,
+    "observation_count": 5,
+    "events": [
+      {
+        "window": 14,
+        "arrival_proxy_s": 5.525483399593904,
+        "observation_complete_proxy_s": 15.525483399593904,
+        "utility": 0.0005678562247996398
+      },
+      {
+        "window": 10,
+        "arrival_proxy_s": 21.9254833995939,
+        "observation_complete_proxy_s": 31.9254833995939,
+        "utility": 0.0010657728669732761
+      },
+      {
+        "window": 5,
+        "arrival_proxy_s": 40.976450198781706,
+        "observation_complete_proxy_s": 50.976450198781706,
+        "utility": 0.0013690716606937566
+      },
+      {
+        "window": 9,
+        "arrival_proxy_s": 57.3764501987817,
+        "observation_complete_proxy_s": 67.3764501987817,
+        "utility": 0.002452963802436479
+      },
+      {
+        "window": 13,
+        "arrival_proxy_s": 73.7764501987817,
+        "observation_complete_proxy_s": 83.7764501987817,
+        "utility": 0.003100940282099988
+      }
+    ],
+    "public_utility_proxy": 0.003100940282099988,
+    "returned_home": true,
+    "planning_charge_proxy_s": 1,
+    "observed_building_fraction": [
+      0.0,
+      0.0,
+      0.00266844563042028,
+      0.10015082956259427,
+      1.0,
+      1.0,
+      0.773260907657263,
+      0.8855642209135763
+    ],
+    "policy": "static_exact_damage",
+    "solver_wall_seconds": 0.05624254098802339,
+    "certificate": {
+      "solver": "Held-Karp all subsets",
+      "enumerated_subsets": 65536,
+      "feasible_subsets": 1891,
+      "objective_upper_bound": 0.0031009402820999874,
+      "objective_gap": 0.0
+    },
+    "utility_scope": "damage score × uncertainty score × newly accessed footprint fraction; uncalibrated proxy",
+    "flight_cost_measured": false,
+    "budget_proxy_s": 100
+  },
+  {
+    "route": [
+      14,
+      10,
+      5,
+      9,
+      13
+    ],
+    "distance_m": 186.5096679918781,
+    "elapsed_proxy_s": 88.30193359837561,
+    "observation_count": 5,
+    "events": [
+      {
+        "window": 14,
+        "arrival_proxy_s": 5.525483399593904,
+        "observation_complete_proxy_s": 15.525483399593904,
+        "utility": 1.7811553591129937e-05
+      },
+      {
+        "window": 10,
+        "arrival_proxy_s": 21.9254833995939,
+        "observation_complete_proxy_s": 31.9254833995939,
+        "utility": 4.390121353990087e-05
+      },
+      {
+        "window": 5,
+        "arrival_proxy_s": 40.976450198781706,
+        "observation_complete_proxy_s": 50.976450198781706,
+        "utility": 4.4440338053276996e-05
+      },
+      {
+        "window": 9,
+        "arrival_proxy_s": 57.3764501987817,
+        "observation_complete_proxy_s": 67.3764501987817,
+        "utility": 0.00010140680321929694
+      },
+      {
+        "window": 13,
+        "arrival_proxy_s": 73.7764501987817,
+        "observation_complete_proxy_s": 83.7764501987817,
+        "utility": 0.00012846668190582528
+      }
+    ],
+    "public_utility_proxy": 0.00012846668190582528,
+    "returned_home": true,
+    "planning_charge_proxy_s": 1,
+    "observed_building_fraction": [
+      0.0,
+      0.0,
+      0.00266844563042028,
+      0.10015082956259427,
+      1.0,
+      1.0,
+      0.773260907657263,
+      0.8855642209135763
+    ],
+    "policy": "static_exact",
+    "solver_wall_seconds": 0.055827291987952776,
+    "certificate": {
+      "solver": "Held-Karp all subsets",
+      "enumerated_subsets": 65536,
+      "feasible_subsets": 1891,
+      "objective_upper_bound": 0.00012846668190582525,
+      "objective_gap": 0.0
+    },
+    "utility_scope": "damage score × uncertainty score × newly accessed footprint fraction; uncalibrated proxy",
+    "flight_cost_measured": false,
+    "budget_proxy_s": 100
+  },
+  {
+    "route": [
+      9,
+      13,
+      14,
+      10,
+      15
+    ],
+    "distance_m": 242.4477191213272,
+    "elapsed_proxy_s": 99.48954382426543,
+    "observation_count": 5,
+    "events": [
+      {
+        "window": 9,
+        "arrival_proxy_s": 11.119288512538816,
+        "observation_complete_proxy_s": 21.119288512538816,
+        "utility": 5.6966465166019943e-05
+      },
+      {
+        "window": 13,
+        "arrival_proxy_s": 27.519288512538814,
+        "observation_complete_proxy_s": 37.519288512538814,
+        "utility": 8.402634385254828e-05
+      },
+      {
+        "window": 14,
+        "arrival_proxy_s": 43.91928851253881,
+        "observation_complete_proxy_s": 53.91928851253881,
+        "utility": 0.00010183789744367822
+      },
+      {
+        "window": 10,
+        "arrival_proxy_s": 60.319288512538805,
+        "observation_complete_proxy_s": 70.3192885125388,
+        "utility": 0.00012792755739244916
+      },
+      {
+        "window": 15,
+        "arrival_proxy_s": 79.37025531172661,
+        "observation_complete_proxy_s": 89.37025531172661,
+        "utility": 0.00012792950626534149
+      }
+    ],
+    "public_utility_proxy": 0.00012792950626534149,
+    "returned_home": true,
+    "planning_charge_proxy_s": 1,
+    "observed_building_fraction": [
+      0.0,
+      0.0,
+      0.8080386924616411,
+      0.10015082956259427,
+      1.0,
+      1.0,
+      0.0,
+      0.5091516791341716
+    ],
+    "policy": "value_cost_proxy",
+    "solver_wall_seconds": 0.0004324589972384274,
+    "certificate": {
+      "solver": "greedy feasible insertion",
+      "objective_gap": null
+    },
+    "utility_scope": "damage score × uncertainty score × newly accessed footprint fraction; uncalibrated proxy",
+    "flight_cost_measured": false,
+    "budget_proxy_s": 100
+  },
+  {
+    "route": [
+      13,
+      9,
+      5,
+      1,
+      2,
+      6,
+      7
+    ],
+    "distance_m": 307.9226473154944,
+    "elapsed_proxy_s": 132.58452946309887,
+    "observation_count": 7,
+    "events": [
+      {
+        "window": 13,
+        "arrival_proxy_s": 5.525483399593904,
+        "observation_complete_proxy_s": 15.525483399593904,
+        "utility": 2.7059878686528327e-05
+      },
+      {
+        "window": 9,
+        "arrival_proxy_s": 21.9254833995939,
+        "observation_complete_proxy_s": 31.9254833995939,
+        "utility": 8.402634385254828e-05
+      },
+      {
+        "window": 5,
+        "arrival_proxy_s": 38.3254833995939,
+        "observation_complete_proxy_s": 48.3254833995939,
+        "utility": 8.456546836592441e-05
+      },
+      {
+        "window": 1,
+        "arrival_proxy_s": 54.7254833995939,
+        "observation_complete_proxy_s": 64.7254833995939,
+        "utility": 8.460037991524295e-05
+      },
+      {
+        "window": 2,
+        "arrival_proxy_s": 71.12548339959389,
+        "observation_complete_proxy_s": 81.12548339959389,
+        "utility": 8.46078608175961e-05
+      },
+      {
+        "window": 6,
+        "arrival_proxy_s": 87.5254833995939,
+        "observation_complete_proxy_s": 97.5254833995939,
+        "utility": 8.472383643450645e-05
+      },
+      {
+        "window": 7,
+        "arrival_proxy_s": 103.9254833995939,
+        "observation_complete_proxy_s": 113.9254833995939,
+        "utility": 8.47241260287122e-05
+      }
+    ],
+    "public_utility_proxy": 8.47241260287122e-05,
+    "returned_home": true,
+    "planning_charge_proxy_s": 1,
+    "observed_building_fraction": [
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.3685165034457744,
+      0.6598516374163199,
+      1.0,
+      0.9676905936654464
+    ],
+    "policy": "distance",
+    "solver_wall_seconds": 0.00030366700957529247,
+    "certificate": {
+      "solver": "greedy feasible insertion",
+      "objective_gap": null
+    },
+    "utility_scope": "damage score × uncertainty score × newly accessed footprint fraction; uncalibrated proxy",
+    "flight_cost_measured": false,
+    "budget_proxy_s": 140
+  },
+  {
+    "route": [
+      9,
+      13,
+      14,
+      10,
+      5,
+      6,
+      11
+    ],
+    "distance_m": 336.9883615484807,
+    "elapsed_proxy_s": 138.3976723096961,
+    "observation_count": 7,
+    "events": [
+      {
+        "window": 9,
+        "arrival_proxy_s": 11.119288512538816,
+        "observation_complete_proxy_s": 21.119288512538816,
+        "utility": 5.6966465166019943e-05
+      },
+      {
+        "window": 13,
+        "arrival_proxy_s": 27.519288512538814,
+        "observation_complete_proxy_s": 37.519288512538814,
+        "utility": 8.402634385254828e-05
+      },
+      {
+        "window": 14,
+        "arrival_proxy_s": 43.91928851253881,
+        "observation_complete_proxy_s": 53.91928851253881,
+        "utility": 0.00010183789744367822
+      },
+      {
+        "window": 10,
+        "arrival_proxy_s": 60.319288512538805,
+        "observation_complete_proxy_s": 70.3192885125388,
+        "utility": 0.00012792755739244916
+      },
+      {
+        "window": 5,
+        "arrival_proxy_s": 79.37025531172661,
+        "observation_complete_proxy_s": 89.37025531172661,
+        "utility": 0.00012846668190582528
+      },
+      {
+        "window": 6,
+        "arrival_proxy_s": 95.7702553117266,
+        "observation_complete_proxy_s": 105.7702553117266,
+        "utility": 0.0001285826575227356
+      },
+      {
+        "window": 11,
+        "arrival_proxy_s": 114.8212221109144,
+        "observation_complete_proxy_s": 124.8212221109144,
+        "utility": 0.00012858389499827245
+      }
+    ],
+    "public_utility_proxy": 0.00012858389499827245,
+    "returned_home": true,
+    "planning_charge_proxy_s": 1,
+    "observed_building_fraction": [
+      0.10842277605966891,
+      0.0,
+      0.1946297531687792,
+      1.0,
+      1.0,
+      1.0,
+      0.9395479236025932,
+      1.0
+    ],
+    "policy": "damage",
+    "solver_wall_seconds": 0.0003606249956646934,
+    "certificate": {
+      "solver": "greedy feasible insertion",
+      "objective_gap": null
+    },
+    "utility_scope": "damage score × uncertainty score × newly accessed footprint fraction; uncalibrated proxy",
+    "flight_cost_measured": false,
+    "budget_proxy_s": 140
+  },
+  {
+    "route": [
+      9,
+      13,
+      10,
+      14,
+      5,
+      6
+    ],
+    "distance_m": 344.98976405611097,
+    "elapsed_proxy_s": 129.99795281122218,
+    "observation_count": 6,
+    "events": [
+      {
+        "window": 9,
+        "arrival_proxy_s": 11.119288512538816,
+        "observation_complete_proxy_s": 21.119288512538816,
+        "utility": 5.6966465166019943e-05
+      },
+      {
+        "window": 13,
+        "arrival_proxy_s": 27.519288512538814,
+        "observation_complete_proxy_s": 37.519288512538814,
+        "utility": 8.402634385254828e-05
+      },
+      {
+        "window": 10,
+        "arrival_proxy_s": 46.570255311726626,
+        "observation_complete_proxy_s": 56.570255311726626,
+        "utility": 0.0001101160038013192
+      },
+      {
+        "window": 14,
+        "arrival_proxy_s": 62.97025531172662,
+        "observation_complete_proxy_s": 72.97025531172662,
+        "utility": 0.00012792755739244916
+      },
+      {
+        "window": 5,
+        "arrival_proxy_s": 87.28109036772527,
+        "observation_complete_proxy_s": 97.28109036772527,
+        "utility": 0.00012846668190582528
+      },
+      {
+        "window": 6,
+        "arrival_proxy_s": 103.68109036772526,
+        "observation_complete_proxy_s": 113.68109036772526,
+        "utility": 0.0001285826575227356
+      }
+    ],
+    "public_utility_proxy": 0.0001285826575227356,
+    "returned_home": true,
+    "planning_charge_proxy_s": 1,
+    "observed_building_fraction": [
+      0.10842277605966891,
+      0.0,
+      0.00266844563042028,
+      0.10015082956259427,
+      1.0,
+      1.0,
+      0.9395479236025932,
+      1.0
+    ],
+    "policy": "uncertainty",
+    "solver_wall_seconds": 0.0003292079927632585,
+    "certificate": {
+      "solver": "greedy feasible insertion",
+      "objective_gap": null
+    },
+    "utility_scope": "damage score × uncertainty score × newly accessed footprint fraction; uncalibrated proxy",
+    "flight_cost_measured": false,
+    "budget_proxy_s": 140
+  },
+  {
+    "route": [
+      14,
+      15,
+      11,
+      10,
+      6,
+      5,
+      9,
+      13
+    ],
+    "distance_m": 269.25483399593907,
+    "elapsed_proxy_s": 134.8509667991878,
+    "observation_count": 8,
+    "events": [
+      {
+        "window": 14,
+        "arrival_proxy_s": 5.525483399593904,
+        "observation_complete_proxy_s": 15.525483399593904,
+        "utility": 0.0005678562247996398
+      },
+      {
+        "window": 15,
+        "arrival_proxy_s": 21.9254833995939,
+        "observation_complete_proxy_s": 31.9254833995939,
+        "utility": 0.0005866399198693207
+      },
+      {
+        "window": 11,
+        "arrival_proxy_s": 38.3254833995939,
+        "observation_complete_proxy_s": 48.3254833995939,
+        "utility": 0.0006101768392048628
+      },
+      {
+        "window": 10,
+        "arrival_proxy_s": 54.7254833995939,
+        "observation_complete_proxy_s": 64.7254833995939,
+        "utility": 0.0011080934813784992
+      },
+      {
+        "window": 6,
+        "arrival_proxy_s": 71.12548339959389,
+        "observation_complete_proxy_s": 81.12548339959389,
+        "utility": 0.0011747966061936917
+      },
+      {
+        "window": 5,
+        "arrival_proxy_s": 87.5254833995939,
+        "observation_complete_proxy_s": 97.5254833995939,
+        "utility": 0.0014780953999141719
+      },
+      {
+        "window": 9,
+        "arrival_proxy_s": 103.9254833995939,
+        "observation_complete_proxy_s": 113.9254833995939,
+        "utility": 0.0025619875416568946
+      },
+      {
+        "window": 13,
+        "arrival_proxy_s": 120.3254833995939,
+        "observation_complete_proxy_s": 130.3254833995939,
+        "utility": 0.003209964021320403
+      }
+    ],
+    "public_utility_proxy": 0.003209964021320403,
+    "returned_home": true,
+    "planning_charge_proxy_s": 1,
+    "observed_building_fraction": [
+      0.10842277605966891,
+      0.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      0.9395479236025932,
+      1.0
+    ],
+    "policy": "static_exact_damage",
+    "solver_wall_seconds": 0.05596633401000872,
+    "certificate": {
+      "solver": "Held-Karp all subsets",
+      "enumerated_subsets": 65536,
+      "feasible_subsets": 19194,
+      "objective_upper_bound": 0.0032099640213204025,
+      "objective_gap": 0.0
+    },
+    "utility_scope": "damage score × uncertainty score × newly accessed footprint fraction; uncalibrated proxy",
+    "flight_cost_measured": false,
+    "budget_proxy_s": 140
+  },
+  {
+    "route": [
+      14,
+      10,
+      6,
+      2,
+      1,
+      5,
+      9,
+      13
+    ],
+    "distance_m": 269.25483399593907,
+    "elapsed_proxy_s": 134.8509667991878,
+    "observation_count": 8,
+    "events": [
+      {
+        "window": 14,
+        "arrival_proxy_s": 5.525483399593904,
+        "observation_complete_proxy_s": 15.525483399593904,
+        "utility": 1.7811553591129937e-05
+      },
+      {
+        "window": 10,
+        "arrival_proxy_s": 21.9254833995939,
+        "observation_complete_proxy_s": 31.9254833995939,
+        "utility": 4.390121353990087e-05
+      },
+      {
+        "window": 6,
+        "arrival_proxy_s": 38.3254833995939,
+        "observation_complete_proxy_s": 48.3254833995939,
+        "utility": 4.4017189156811216e-05
+      },
+      {
+        "window": 2,
+        "arrival_proxy_s": 54.7254833995939,
+        "observation_complete_proxy_s": 64.7254833995939,
+        "utility": 4.402467005916437e-05
+      },
+      {
+        "window": 1,
+        "arrival_proxy_s": 71.12548339959389,
+        "observation_complete_proxy_s": 81.12548339959389,
+        "utility": 4.405958160848291e-05
+      },
+      {
+        "window": 5,
+        "arrival_proxy_s": 87.5254833995939,
+        "observation_complete_proxy_s": 97.5254833995939,
+        "utility": 4.4598706121859046e-05
+      },
+      {
+        "window": 9,
+        "arrival_proxy_s": 103.9254833995939,
+        "observation_complete_proxy_s": 113.9254833995939,
+        "utility": 0.00010156517128787899
+      },
+      {
+        "window": 13,
+        "arrival_proxy_s": 120.3254833995939,
+        "observation_complete_proxy_s": 130.3254833995939,
+        "utility": 0.0001286250499744073
+      }
+    ],
+    "public_utility_proxy": 0.0001286250499744073,
+    "returned_home": true,
+    "planning_charge_proxy_s": 1,
+    "observed_building_fraction": [
+      0.10842277605966891,
+      1.0,
+      0.00266844563042028,
+      0.10015082956259427,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "policy": "static_exact",
+    "solver_wall_seconds": 0.056964874995173886,
+    "certificate": {
+      "solver": "Held-Karp all subsets",
+      "enumerated_subsets": 65536,
+      "feasible_subsets": 19194,
+      "objective_upper_bound": 0.0001286250499744073,
+      "objective_gap": 0.0
+    },
+    "utility_scope": "damage score × uncertainty score × newly accessed footprint fraction; uncalibrated proxy",
+    "flight_cost_measured": false,
+    "budget_proxy_s": 140
+  },
+  {
+    "route": [
+      9,
+      13,
+      14,
+      10,
+      5,
+      6,
+      11
+    ],
+    "distance_m": 336.9883615484807,
+    "elapsed_proxy_s": 138.3976723096961,
+    "observation_count": 7,
+    "events": [
+      {
+        "window": 9,
+        "arrival_proxy_s": 11.119288512538816,
+        "observation_complete_proxy_s": 21.119288512538816,
+        "utility": 5.6966465166019943e-05
+      },
+      {
+        "window": 13,
+        "arrival_proxy_s": 27.519288512538814,
+        "observation_complete_proxy_s": 37.519288512538814,
+        "utility": 8.402634385254828e-05
+      },
+      {
+        "window": 14,
+        "arrival_proxy_s": 43.91928851253881,
+        "observation_complete_proxy_s": 53.91928851253881,
+        "utility": 0.00010183789744367822
+      },
+      {
+        "window": 10,
+        "arrival_proxy_s": 60.319288512538805,
+        "observation_complete_proxy_s": 70.3192885125388,
+        "utility": 0.00012792755739244916
+      },
+      {
+        "window": 5,
+        "arrival_proxy_s": 79.37025531172661,
+        "observation_complete_proxy_s": 89.37025531172661,
+        "utility": 0.00012846668190582528
+      },
+      {
+        "window": 6,
+        "arrival_proxy_s": 95.7702553117266,
+        "observation_complete_proxy_s": 105.7702553117266,
+        "utility": 0.0001285826575227356
+      },
+      {
+        "window": 11,
+        "arrival_proxy_s": 114.8212221109144,
+        "observation_complete_proxy_s": 124.8212221109144,
+        "utility": 0.00012858389499827245
+      }
+    ],
+    "public_utility_proxy": 0.00012858389499827245,
+    "returned_home": true,
+    "planning_charge_proxy_s": 1,
+    "observed_building_fraction": [
+      0.10842277605966891,
+      0.0,
+      0.1946297531687792,
+      1.0,
+      1.0,
+      1.0,
+      0.9395479236025932,
+      1.0
+    ],
+    "policy": "value_cost_proxy",
+    "solver_wall_seconds": 0.0005514580116141587,
+    "certificate": {
+      "solver": "greedy feasible insertion",
+      "objective_gap": null
+    },
+    "utility_scope": "damage score × uncertainty score × newly accessed footprint fraction; uncalibrated proxy",
+    "flight_cost_measured": false,
+    "budget_proxy_s": 140
+  }
+]

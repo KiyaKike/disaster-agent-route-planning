@@ -1,0 +1,28 @@
+{
+  "basis_audit_sha256": "5cc56fa59cad6173d79dc8e86f67264733ae6addac06e883870a2259f0527301",
+  "basis_effects_sha256": "3a21a602c4f561e26602c550ca0a312c9f111f2cdc7a4b18ea85fc3229b4dfe5",
+  "basis_prior_decision_sha256": "60ed6d992a369d5300c7d1cc6511bab15948429df5831958e5db0ef87a18fefb",
+  "decision": "Apply the prior frozen stop rule: stop promoting the current count-based positive-revisit policy. Keep raw-change survey and simple negative-gate policies as reference controls; no new method selected.",
+  "evidence": {
+    "all_revisits_below_survey_only_primary_cases": 6,
+    "count_negative_below_survey_only_in_all3_held_tie_rules": true,
+    "raw_gate_helps_one_detectable_event_and_harms_the_other": true,
+    "raw_gate_random_primary_gain": 0.07555555555555545
+  },
+  "independent_efficacy_claim": false,
+  "interpretation": "Raw-gate gain is small and event-dependent; fitted count-policy loss already exists without upgrades. Positive-only local findings are not net budget gain. Cost1 gains do not replace prespecified cost2 primary.",
+  "limits": [
+    "This stops this fitted policy, not all possible positive revisits.",
+    "Held development events were previously inspected; raw policies are identical across fit scopes by construction, not a second validation.",
+    "Mexico has zero cached detected targets; all scenes retained.",
+    "Training-event exposure and full-image geographic independence remain unresolved."
+  ],
+  "new_controller_training_enabled": false,
+  "new_experiment_started": false,
+  "new_method_selected": false,
+  "new_model_fit_enabled": false,
+  "next_focus": "Diagnose cross-event utility ranking and revisit valuation separately before designing another policy. The current summary-gap identity is completed descriptive evidence; a new diagnostic experiment still needs a prospective protocol.",
+  "paid_gpu_needed": false,
+  "stage": "CURRENT_COUNT_POSITIVE_REVISIT_POLICY_STOPPED_NOT_A_RESEARCH_METHOD",
+  "validation_or_confirmation_access_enabled": false
+}

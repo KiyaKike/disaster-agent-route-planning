@@ -1,0 +1,14 @@
+{
+  "budget_or_return_violations": 0,
+  "geometry_passed_cases": 3,
+  "independent_field_accuracy_verified": false,
+  "new_independent_efficacy_validation": false,
+  "new_model_calls": 0,
+  "official_geotransform_verified": false,
+  "paid_observations_replayed": 666,
+  "post_damage_labels_in_planner": false,
+  "retained_geometry_failures": 1,
+  "routes_replayed": 54,
+  "selected_cases": 4,
+  "status": "PASS"
+}

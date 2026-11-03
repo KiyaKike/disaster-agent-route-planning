@@ -1,0 +1,327 @@
+{
+  "region": "1001-Ft-Myers-Beach-Boone.geo.tif",
+  "target_definition": "severe",
+  "endpoint_scope": "Primary severe,undefined with zero targets",
+  "eligible_buildings": 12,
+  "eligible_target_buildings": 0,
+  "all_windows_detector_correct_check_ceiling": 0,
+  "routes": 18,
+  "budget_violations": 0,
+  "main_budget_results": [
+    {
+      "policy": "distance",
+      "budget_proxy_s": 100,
+      "route": [
+        13,
+        9,
+        5,
+        1,
+        10
+      ],
+      "correctly_checked_target_buildings": 0,
+      "eligible_target_buildings": 0,
+      "target_recall": null,
+      "checked_buildings_geometry_only": 1,
+      "first_correct_check_proxy_s": null,
+      "false_positive_checked_buildings": 0,
+      "checked_prediction_precision": null,
+      "distance_m": 240.77803484065686,
+      "elapsed_proxy_s": 99.15560696813137,
+      "budget_verified": true
+    },
+    {
+      "policy": "damage",
+      "budget_proxy_s": 100,
+      "route": [
+        11,
+        2,
+        6,
+        14
+      ],
+      "correctly_checked_target_buildings": 0,
+      "eligible_target_buildings": 0,
+      "target_recall": null,
+      "checked_buildings_geometry_only": 3,
+      "first_correct_check_proxy_s": null,
+      "false_positive_checked_buildings": 2,
+      "checked_prediction_precision": 0.0,
+      "distance_m": 258.06384327187135,
+      "elapsed_proxy_s": 92.61276865437426,
+      "budget_verified": true
+    },
+    {
+      "policy": "uncertainty",
+      "budget_proxy_s": 100,
+      "route": [
+        2,
+        6,
+        11,
+        14
+      ],
+      "correctly_checked_target_buildings": 0,
+      "eligible_target_buildings": 0,
+      "target_recall": null,
+      "checked_buildings_geometry_only": 3,
+      "first_correct_check_proxy_s": null,
+      "false_positive_checked_buildings": 2,
+      "checked_prediction_precision": 0.0,
+      "distance_m": 258.2741699796952,
+      "elapsed_proxy_s": 92.65483399593904,
+      "budget_verified": true
+    },
+    {
+      "policy": "static_exact_damage",
+      "budget_proxy_s": 100,
+      "route": [
+        11,
+        3,
+        2,
+        6
+      ],
+      "correctly_checked_target_buildings": 0,
+      "eligible_target_buildings": 0,
+      "target_recall": null,
+      "checked_buildings_geometry_only": 4,
+      "first_correct_check_proxy_s": null,
+      "false_positive_checked_buildings": 2,
+      "checked_prediction_precision": 0.0,
+      "distance_m": 277.4665632113931,
+      "elapsed_proxy_s": 96.49331264227862,
+      "budget_verified": true
+    },
+    {
+      "policy": "static_exact",
+      "budget_proxy_s": 100,
+      "route": [
+        11,
+        3,
+        2,
+        6
+      ],
+      "correctly_checked_target_buildings": 0,
+      "eligible_target_buildings": 0,
+      "target_recall": null,
+      "checked_buildings_geometry_only": 4,
+      "first_correct_check_proxy_s": null,
+      "false_positive_checked_buildings": 2,
+      "checked_prediction_precision": 0.0,
+      "distance_m": 277.4665632113931,
+      "elapsed_proxy_s": 96.49331264227862,
+      "budget_verified": true
+    },
+    {
+      "policy": "value_cost_proxy",
+      "budget_proxy_s": 100,
+      "route": [
+        11,
+        2,
+        6,
+        14
+      ],
+      "correctly_checked_target_buildings": 0,
+      "eligible_target_buildings": 0,
+      "target_recall": null,
+      "checked_buildings_geometry_only": 3,
+      "first_correct_check_proxy_s": null,
+      "false_positive_checked_buildings": 2,
+      "checked_prediction_precision": 0.0,
+      "distance_m": 258.06384327187135,
+      "elapsed_proxy_s": 92.61276865437426,
+      "budget_verified": true
+    }
+  ],
+  "hindsight_same_budget_ceiling": [
+    {
+      "budget_proxy_s": 60,
+      "correctly_checked_target_buildings": 0,
+      "route": [],
+      "role": "Hindsight evaluator ceiling only; full future model cache and reference access; not a deployable control"
+    },
+    {
+      "budget_proxy_s": 100,
+      "correctly_checked_target_buildings": 0,
+      "route": [],
+      "role": "Hindsight evaluator ceiling only; full future model cache and reference access; not a deployable control"
+    },
+    {
+      "budget_proxy_s": 140,
+      "correctly_checked_target_buildings": 0,
+      "route": [],
+      "role": "Hindsight evaluator ceiling only; full future model cache and reference access; not a deployable control"
+    }
+  ],
+  "method_gain_established": false,
+  "interpretation": "One development case with uncalibrated cross-sensor detector and proxy service/flight costs. Outcomes are an admission probe,not evidence of a general method contribution.",
+  "online_information_gain_validated": false,
+  "gpu_rental": false
+}
+{
+  "region": "1001-Ft-Myers-Beach-Boone.geo.tif",
+  "target_definition": "any_damage",
+  "endpoint_scope": "Exploratory secondary:added after label inspection,before model inference",
+  "eligible_buildings": 12,
+  "eligible_target_buildings": 3,
+  "all_windows_detector_correct_check_ceiling": 3,
+  "routes": 18,
+  "budget_violations": 0,
+  "main_budget_results": [
+    {
+      "policy": "distance",
+      "budget_proxy_s": 100,
+      "route": [
+        13,
+        9,
+        5,
+        1,
+        10
+      ],
+      "correctly_checked_target_buildings": 0,
+      "eligible_target_buildings": 3,
+      "target_recall": 0.0,
+      "checked_buildings_geometry_only": 1,
+      "first_correct_check_proxy_s": null,
+      "false_positive_checked_buildings": 0,
+      "checked_prediction_precision": null,
+      "distance_m": 240.77803484065686,
+      "elapsed_proxy_s": 99.15560696813137,
+      "budget_verified": true
+    },
+    {
+      "policy": "damage",
+      "budget_proxy_s": 100,
+      "route": [
+        11,
+        2,
+        6,
+        14
+      ],
+      "correctly_checked_target_buildings": 1,
+      "eligible_target_buildings": 3,
+      "target_recall": 0.3333333333333333,
+      "checked_buildings_geometry_only": 3,
+      "first_correct_check_proxy_s": 24.57645019878171,
+      "false_positive_checked_buildings": 2,
+      "checked_prediction_precision": 0.3333333333333333,
+      "distance_m": 258.06384327187135,
+      "elapsed_proxy_s": 92.61276865437426,
+      "budget_verified": true
+    },
+    {
+      "policy": "uncertainty",
+      "budget_proxy_s": 100,
+      "route": [
+        2,
+        6,
+        11,
+        14
+      ],
+      "correctly_checked_target_buildings": 1,
+      "eligible_target_buildings": 3,
+      "target_recall": 0.3333333333333333,
+      "checked_buildings_geometry_only": 3,
+      "first_correct_check_proxy_s": 69.07838379715733,
+      "false_positive_checked_buildings": 2,
+      "checked_prediction_precision": 0.3333333333333333,
+      "distance_m": 258.2741699796952,
+      "elapsed_proxy_s": 92.65483399593904,
+      "budget_verified": true
+    },
+    {
+      "policy": "static_exact_damage",
+      "budget_proxy_s": 100,
+      "route": [
+        11,
+        3,
+        2,
+        6
+      ],
+      "correctly_checked_target_buildings": 2,
+      "eligible_target_buildings": 3,
+      "target_recall": 0.6666666666666666,
+      "checked_buildings_geometry_only": 4,
+      "first_correct_check_proxy_s": 24.57645019878171,
+      "false_positive_checked_buildings": 2,
+      "checked_prediction_precision": 0.5,
+      "distance_m": 277.4665632113931,
+      "elapsed_proxy_s": 96.49331264227862,
+      "budget_verified": true
+    },
+    {
+      "policy": "static_exact",
+      "budget_proxy_s": 100,
+      "route": [
+        11,
+        3,
+        2,
+        6
+      ],
+      "correctly_checked_target_buildings": 2,
+      "eligible_target_buildings": 3,
+      "target_recall": 0.6666666666666666,
+      "checked_buildings_geometry_only": 4,
+      "first_correct_check_proxy_s": 24.57645019878171,
+      "false_positive_checked_buildings": 2,
+      "checked_prediction_precision": 0.5,
+      "distance_m": 277.4665632113931,
+      "elapsed_proxy_s": 96.49331264227862,
+      "budget_verified": true
+    },
+    {
+      "policy": "value_cost_proxy",
+      "budget_proxy_s": 100,
+      "route": [
+        11,
+        2,
+        6,
+        14
+      ],
+      "correctly_checked_target_buildings": 1,
+      "eligible_target_buildings": 3,
+      "target_recall": 0.3333333333333333,
+      "checked_buildings_geometry_only": 3,
+      "first_correct_check_proxy_s": 24.57645019878171,
+      "false_positive_checked_buildings": 2,
+      "checked_prediction_precision": 0.3333333333333333,
+      "distance_m": 258.06384327187135,
+      "elapsed_proxy_s": 92.61276865437426,
+      "budget_verified": true
+    }
+  ],
+  "hindsight_same_budget_ceiling": [
+    {
+      "budget_proxy_s": 60,
+      "correctly_checked_target_buildings": 1,
+      "route": [
+        11
+      ],
+      "role": "Hindsight evaluator ceiling only; full future model cache and reference access; not a deployable control"
+    },
+    {
+      "budget_proxy_s": 100,
+      "correctly_checked_target_buildings": 2,
+      "route": [
+        14,
+        11,
+        10
+      ],
+      "role": "Hindsight evaluator ceiling only; full future model cache and reference access; not a deployable control"
+    },
+    {
+      "budget_proxy_s": 140,
+      "correctly_checked_target_buildings": 3,
+      "route": [
+        14,
+        11,
+        7,
+        2,
+        6,
+        10
+      ],
+      "role": "Hindsight evaluator ceiling only; full future model cache and reference access; not a deployable control"
+    }
+  ],
+  "method_gain_established": false,
+  "interpretation": "One development case with uncalibrated cross-sensor detector and proxy service/flight costs. Outcomes are an admission probe,not evidence of a general method contribution.",
+  "online_information_gain_validated": false,
+  "gpu_rental": false
+}

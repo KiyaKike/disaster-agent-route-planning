@@ -1,0 +1,149 @@
+{
+  "area_cost_contract": "Controlled purchased native-pixel area: one128 cell costs1, contiguous256 block costs4, full native512 scene costs16. This is a NEW acquisition-cost proxy, not measured field/flight latency or physical sensor resolution.",
+  "basis_decision_sha256": "1d48c2d77ee38ad426aceedce7d7dc963f1e396ce024b3f3a3a38a73058915ec",
+  "basis_evidence_sha256": "775a0600edfcc4d07173c80b023bdb77316f3ba74f33c084eca36cf4b992bec3",
+  "basis_protocol_sha256": "1c8491301f59fc6fa85f8a2f53439543208e73f06fb8810ebc1478aceb6b9582",
+  "blocks": [
+    {
+      "block_id": "b00",
+      "bounds_xyxy": [
+        0,
+        0,
+        256,
+        256
+      ],
+      "cost": 4,
+      "paid_cell_ids": [
+        "r00c00",
+        "r00c01",
+        "r01c00",
+        "r01c01"
+      ]
+    },
+    {
+      "block_id": "b01",
+      "bounds_xyxy": [
+        256,
+        0,
+        512,
+        256
+      ],
+      "cost": 4,
+      "paid_cell_ids": [
+        "r00c02",
+        "r00c03",
+        "r01c02",
+        "r01c03"
+      ]
+    },
+    {
+      "block_id": "b10",
+      "bounds_xyxy": [
+        0,
+        256,
+        256,
+        512
+      ],
+      "cost": 4,
+      "paid_cell_ids": [
+        "r02c00",
+        "r02c01",
+        "r03c00",
+        "r03c01"
+      ]
+    },
+    {
+      "block_id": "b11",
+      "bounds_xyxy": [
+        256,
+        256,
+        512,
+        512
+      ],
+      "cost": 4,
+      "paid_cell_ids": [
+        "r02c02",
+        "r02c03",
+        "r03c02",
+        "r03c03"
+      ]
+    }
+  ],
+  "budgets": [
+    4,
+    8,
+    16
+  ],
+  "cached_controls": "Old128 native predictions (288 masks), free-coarse-only18 masks, offline full512 native18 masks reused unchanged. Full512 ineligible at budget4/8, available only at16; never credit its free context at budget8.",
+  "checkpoint": {
+    "code_commit": "190b07a2eb4c389a5dc3f72802c67f428cdfd6b7",
+    "config_sha256": "dd452bc568ff31a4706687b83d2ce0712b136f23d22705834311592d98a31d23",
+    "model_id": "EVER-Z/torchange_example_changeos_swint_on_xview2_best42k",
+    "revision": "4007dd10c5eaee67161e2d4a45a43da3ead6c722",
+    "weights_sha256": "81ae6386ceebe225ab6c072cb987b57312fdcfdb2a7f72ab9b30e5e8f1041cc4"
+  },
+  "client_report_date": "2026-10-26",
+  "conditions": [
+    {
+      "calls": 72,
+      "input": "Unresized256x256 paired RGB from each of4 fixed nonoverlapping2x2-cell blocks.",
+      "name": "native256_contiguous",
+      "output": "Canonical256 boolean severe output, no resize; all prediction pixels belong to four purchased128px cells."
+    },
+    {
+      "calls": 72,
+      "input": "Free64 BOX coarse ->512 BILINEAR canvas per date; paste only purchased256 block at exact source position.",
+      "name": "free_coarse512_plus_native256",
+      "output": "Crop output to exact256 purchased ROI. Transform receives only64 coarse plus256 block, never the full native512 scene."
+    }
+  ],
+  "domains": [
+    "all_published_pixels",
+    "both_dates_nonzero"
+  ],
+  "engineering_followup_rule": "Advance only primary native256 if both reference-positive events have nonzero incremental opportunity, budget8 exact-random event-macro incremental coverage strictly exceeds128, and pooled reference precision at budget8 does not fall below128. Secondary condition cannot replace failed primary by a posthoc win. Report every budget/event/condition.",
+  "fixed_cohort": "All18 retained, all4blocks scored, no reference-guided placement, offset selection, resizing, fitting or threshold tuning.",
+  "free_baseline": "Report each scene's free-coarse-only severe mask at budget0 and count only new reference-pixel union beyond it as paid gain. Report total union and false pixels separately, including any harmful additions.",
+  "generator_sha256": "be2a57d16dcd31952285882c1d9403ea8dcb9d92fd8f7120175fb687ee75a27a",
+  "human_annotation_resources": "Unavailable",
+  "locked_positive_controls": "Same2 old128 native controls first; any unequal pixel stops before new conditions.",
+  "max_new_forward_calls": 146,
+  "new_training_or_paid_gpu_or_download": false,
+  "no_hidden_warmup": true,
+  "old_reserved_sets_scored": false,
+  "policies_before_outputs": [
+    "Uniform random without replacement over16cells or4blocks; evaluate exact expected incremental pixel area since units are disjoint (no neural calls or MonteCarlo seeds needed).",
+    "Fixed rawRGB-change rank: original coarse-only cell75th-percentile cue; block utility = arithmetic mean of its4 cell cues (equivalent totalcue/cost); tie ranks inherited from10 frozen cell-order seeds, block rank = minimum member rank. No feedback adaptation or new utility fit."
+  ],
+  "primary_budget": 8,
+  "primary_condition": "native256_contiguous",
+  "primary_contrast": "Budget8 exact-random expected additional severe-reference area for primary native256 vs cached native128, pooled reference precision including free baseline, each event and3-event macro. Random precision is the ratio of expected pooled covered counts to expected pooled predicted counts, not mean trajectory precision. Ranked strategy is a separately reported secondary contrast.",
+  "quality": "Native only; do not compare directly against previous mixed-quality scores or label it the old primary experiment.",
+  "question": "At the same purchased native-pixel area, does acquiring contiguous256px blocks recover more published severe reference than independent128px cells?",
+  "required_preflight": "Lock implementation SHA before any new predictions; check four-block partition, exact256 ROI, source pixel ownership,4/16 cost accounting and full512 budget ineligibility, independent random-area identity and equality with enumeration, and no reference/future-feedback access.",
+  "research_scope": "Measurement/acquisition-interface feasibility, no new search method or independent efficacy claim.",
+  "secondary_condition": "free_coarse512_plus_native256",
+  "selected_ids": [
+    "EARTHQUAKE-TURKEY_000237",
+    "EARTHQUAKE-TURKEY_003472",
+    "EARTHQUAKE-TURKEY_005459",
+    "EARTHQUAKE-TURKEY_006807",
+    "EARTHQUAKE-TURKEY_012987",
+    "EARTHQUAKE-TURKEY_015741",
+    "PAKISTAN-FLOODING_003197",
+    "PAKISTAN-FLOODING_004697",
+    "PAKISTAN-FLOODING_006998",
+    "PAKISTAN-FLOODING_013475",
+    "PAKISTAN-FLOODING_014536",
+    "PAKISTAN-FLOODING_017841",
+    "TEXAS-TORNADOES_000325",
+    "TEXAS-TORNADOES_002697",
+    "TEXAS-TORNADOES_002969",
+    "TEXAS-TORNADOES_003987",
+    "TEXAS-TORNADOES_004417",
+    "TEXAS-TORNADOES_004813"
+  ],
+  "status": "PROSPECTIVE_NOT_EXECUTED",
+  "stop_scope": "If primary fails, stop measurement-interface variants on these18; assess new data/reference or fixed detector replacement as a separately scoped study before any planner development.",
+  "stopped_candidate": "free_coarse512_plus_native_cell at128px remains stopped; do not resume its mixed-quality extension."
+}

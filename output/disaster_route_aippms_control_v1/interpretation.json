@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "budget": 12,
+      "exact_null_information_gain": 0.0,
+      "exact_paid_information_gain": 2.871745887492587,
+      "pomcp_gcb_informative_sample_mean": 2.1875,
+      "pomcp_gcb_uninformative_sample_mean": 0.3125
+    },
+    {
+      "budget": 20,
+      "exact_null_information_gain": 0.0,
+      "exact_paid_information_gain": 9.121663505591348,
+      "pomcp_gcb_informative_sample_mean": 3.75,
+      "pomcp_gcb_uninformative_sample_mean": -0.3125
+    }
+  ],
+  "decisive_mechanism": "Paid remote measurement directly observes unvisited candidates;independent rocks need no spatial propagation assumption.",
+  "gpu_rental": false,
+  "limitation": "Perfectly known source sensor likelihood and synthetic remote footprint do not exist as validated inputs in current xBD local-observation task.",
+  "new_model_calls": 0,
+  "next": "Verify actual observation footprint and task reward contract before adapting a policy to disaster data.",
+  "null_pomcp_sample": "Small positive/negative sample means on the uninformative model are not information value;exact expected gain is zero. Finite-search sampling effects and unnecessary sensing retained.",
+  "objective_mismatch": "Rock visitation reward is not the same as inspection detection reward. Real inspection may finish a task at image acquisition,so do not copy separate visit reward without task justification.",
+  "role": "Controlled mechanism check,not published-table reproduction or real disaster result."
+}

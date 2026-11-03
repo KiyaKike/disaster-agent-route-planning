@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "episodes_checked": 2520,
+  "steps_checked": 44433,
+  "protocol_and_source_hashes_match": true,
+  "budget_action_evidence_and_building_replay_passed": true,
+  "upgrades_recomputed_from_original_prior": true,
+  "native_condition_baseline_trajectories_equal": true,
+  "quality_gate_and_quality_equal_trajectories": 504,
+  "quality_gate_and_quality_paired_total": 504,
+  "adaptive_and_quality_different_trajectories": 321,
+  "validation_or_test_episodes": 0,
+  "unit_tests_passed": 49,
+  "report_sha256": "cf6da8d7729f8da4598d387d89c78e2a5e8bf7a9dfed76614bf366821e8f5fec",
+  "traces_sha256": "d5e4b8648a2f5e7a7118a491446ae06279b8111c176912f1975aaa33334de2a8"
+}

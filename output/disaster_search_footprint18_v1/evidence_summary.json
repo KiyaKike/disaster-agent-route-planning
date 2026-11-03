@@ -1,0 +1,85 @@
+{
+  "all18_retained": true,
+  "cached128_comparison": {
+    "affordable": true,
+    "area_recall": 0.02387911686413696,
+    "budget": 8,
+    "covered_reference_pixels": 457.5,
+    "domain": "all_published_pixels",
+    "event_macro_false_pixels_per_scene": 162.22222222222223,
+    "event_macro_incremental_covered_pixels_per_scene": 25.416666666666668,
+    "events": 3,
+    "free_covered_reference_pixels": 0,
+    "free_false_positive_pixels": 0,
+    "incremental_covered_reference_pixels": 457.5,
+    "incremental_false_positive_pixels": 2920.0,
+    "input_mode": "cached_native128",
+    "policy": "random_exact",
+    "predicted_pixels": 3377.5,
+    "reference_false_positive_pixels": 2920.0,
+    "reference_pixels": 19159,
+    "reference_precision": 0.13545521835677277,
+    "scenes": 18
+  },
+  "full_native_area16_opportunities": [
+    {
+      "covered_reference_pixels": 915,
+      "detectable_events": 1,
+      "detectable_scenes": 1,
+      "input_mode": "cached_native128",
+      "reference_false_positive_pixels": 5840
+    },
+    {
+      "covered_reference_pixels": 5353,
+      "detectable_events": 2,
+      "detectable_scenes": 2,
+      "input_mode": "native256_contiguous",
+      "reference_false_positive_pixels": 4355
+    },
+    {
+      "covered_reference_pixels": 4781,
+      "detectable_events": 2,
+      "detectable_scenes": 2,
+      "input_mode": "free_coarse512_plus_native256",
+      "reference_false_positive_pixels": 1667
+    },
+    {
+      "covered_reference_pixels": 4796,
+      "detectable_events": 2,
+      "detectable_scenes": 2,
+      "input_mode": "cached_native512",
+      "reference_false_positive_pixels": 1125
+    }
+  ],
+  "measurement_feasibility_only": true,
+  "new_search_method_selected": false,
+  "old_mixed_quality_scores_not_compared": true,
+  "primary_native_only_budget8": {
+    "affordable": true,
+    "area_recall": 0.13969935800407118,
+    "budget": 8,
+    "covered_reference_pixels": 2676.5,
+    "domain": "all_published_pixels",
+    "event_macro_false_pixels_per_scene": 120.97222222222223,
+    "event_macro_incremental_covered_pixels_per_scene": 148.69444444444443,
+    "events": 3,
+    "free_covered_reference_pixels": 0,
+    "free_false_positive_pixels": 0,
+    "incremental_covered_reference_pixels": 2676.5,
+    "incremental_false_positive_pixels": 2177.5,
+    "input_mode": "native256_contiguous",
+    "policy": "random_exact",
+    "predicted_pixels": 4854.0,
+    "reference_false_positive_pixels": 2177.5,
+    "reference_pixels": 19159,
+    "reference_precision": 0.5514009064688916,
+    "scenes": 18
+  },
+  "primary_random_coverage_ratio": 5.850273224043715,
+  "primary_screen_passed": true,
+  "ranked256_zero_reward_events": [
+    "PAKISTAN-FLOODING",
+    "TEXAS-TORNADOES"
+  ],
+  "secondary_not_promoted": true
+}

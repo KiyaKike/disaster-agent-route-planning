@@ -1,0 +1,15 @@
+{
+  "all_three_RGB_sheets_viewed": true,
+  "files": {
+    "RGB_QA/sunda-tsunami.png": "2907f3e3bc475ee3aa4fd428eeab7009de236e208bcd0a2ea784370c85b994e4",
+    "RGB_QA/tuscaloosa-tornado.png": "1002d33ec0cac0ef97a9f41860ac9cc10139d0eff242bf3ac1b652e459ba5196",
+    "RGB_QA/nepal-flooding.png": "c3a85f90ba7bf515c4f15fc0109f463c5fc8002bfb539206b08e935ab2ff105c"
+  },
+  "all36_pairs_retained": true,
+  "observations": [
+    "Two Nepal images have more than25percent zeroRGB,retained by frozen rule",
+    "Several Sunda images show cloud-like occlusion;exact-zero rule is not a cloud mask",
+    "No damage grades assigned by visual review;no sample replacements"
+  ],
+  "new_human_damage_annotations": 0
+}

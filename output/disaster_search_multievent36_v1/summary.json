@@ -1,0 +1,200 @@
+{
+  "events": [
+    {
+      "all_grid": {
+        "f1_ratio_of_counts": 0.32797341748902137,
+        "fn": 25536,
+        "fp": 95205,
+        "precision_ratio_of_counts": 0.236331696987198,
+        "recall": 0.535700649102711,
+        "reference": 54999,
+        "tp": 29463
+      },
+      "event": "nepal-flooding",
+      "local_detectable_scenes": 9,
+      "reference_positive_scenes": 9,
+      "scenes": 12
+    },
+    {
+      "all_grid": {
+        "f1_ratio_of_counts": 0.0,
+        "fn": 1456,
+        "fp": 22406,
+        "precision_ratio_of_counts": 0.0,
+        "recall": 0.0,
+        "reference": 1456,
+        "tp": 0
+      },
+      "event": "sunda-tsunami",
+      "local_detectable_scenes": 0,
+      "reference_positive_scenes": 2,
+      "scenes": 12
+    },
+    {
+      "all_grid": {
+        "f1_ratio_of_counts": 0.505026430775812,
+        "fn": 9315,
+        "fp": 6884,
+        "precision_ratio_of_counts": 0.5455505677317137,
+        "recall": 0.4701063769270152,
+        "reference": 17579,
+        "tp": 8264
+      },
+      "event": "tuscaloosa-tornado",
+      "local_detectable_scenes": 2,
+      "reference_positive_scenes": 3,
+      "scenes": 12
+    }
+  ],
+  "events_with_at_least6_local_detectable_scenes": 1,
+  "independent_efficacy_claim": false,
+  "new_method_run": false,
+  "old_SantaRosa_pooled_in": false,
+  "primary_budget": 16,
+  "primary_macro": [
+    {
+      "budget": 16,
+      "defined_reference_positive_events": 3,
+      "equal_event_mean_TP_per_scene": 261.99305555555554,
+      "events": 3,
+      "macro_recall": 0.08381725216914386,
+      "policy": "random_exact_expected_counts"
+    },
+    {
+      "budget": 16,
+      "defined_reference_positive_events": 3,
+      "equal_event_mean_TP_per_scene": 554.8888888888889,
+      "events": 3,
+      "macro_recall": 0.12633259946951106,
+      "policy": "static_coarse_change"
+    },
+    {
+      "budget": 16,
+      "defined_reference_positive_events": 3,
+      "equal_event_mean_TP_per_scene": 1000.861111111111,
+      "events": 3,
+      "macro_recall": 0.32499003390733716,
+      "policy": "oracle_true_gain"
+    }
+  ],
+  "primary_per_event": [
+    {
+      "budget": 16,
+      "event": "nepal-flooding",
+      "f1_ratio_of_counts": 0.17096650651068868,
+      "fn": 47633.25,
+      "fp": 23801.25,
+      "mean_TP_per_scene": 613.8125,
+      "policy": "random_exact_expected_counts",
+      "precision_ratio_of_counts": 0.236331696987198,
+      "recall": 0.13392516227567774,
+      "reference": 54999,
+      "tp": 7365.75
+    },
+    {
+      "budget": 16,
+      "event": "sunda-tsunami",
+      "f1_ratio_of_counts": 0.0,
+      "fn": 1456.0,
+      "fp": 5601.5,
+      "mean_TP_per_scene": 0.0,
+      "policy": "random_exact_expected_counts",
+      "precision_ratio_of_counts": 0.0,
+      "recall": 0.0,
+      "reference": 1456,
+      "tp": 0.0
+    },
+    {
+      "budget": 16,
+      "event": "tuscaloosa-tornado",
+      "f1_ratio_of_counts": 0.19339136946550595,
+      "fn": 15513.0,
+      "fp": 1721.0,
+      "mean_TP_per_scene": 172.16666666666666,
+      "policy": "random_exact_expected_counts",
+      "precision_ratio_of_counts": 0.5455505677317137,
+      "recall": 0.1175265942317538,
+      "reference": 17579,
+      "tp": 2066.0
+    },
+    {
+      "budget": 16,
+      "event": "nepal-flooding",
+      "f1_ratio_of_counts": 0.3551490072234927,
+      "fn": 35431,
+      "fp": 35629,
+      "mean_TP_per_scene": 1630.6666666666667,
+      "policy": "static_coarse_change",
+      "precision_ratio_of_counts": 0.35451202058082865,
+      "recall": 0.35578828705976473,
+      "reference": 54999,
+      "tp": 19568
+    },
+    {
+      "budget": 16,
+      "event": "sunda-tsunami",
+      "f1_ratio_of_counts": 0.0,
+      "fn": 1456,
+      "fp": 2648,
+      "mean_TP_per_scene": 0.0,
+      "policy": "static_coarse_change",
+      "precision_ratio_of_counts": 0.0,
+      "recall": 0.0,
+      "reference": 1456,
+      "tp": 0
+    },
+    {
+      "budget": 16,
+      "event": "tuscaloosa-tornado",
+      "f1_ratio_of_counts": 0.04523532346582405,
+      "fn": 17171,
+      "fp": 52,
+      "mean_TP_per_scene": 34.0,
+      "policy": "static_coarse_change",
+      "precision_ratio_of_counts": 0.8869565217391304,
+      "recall": 0.023209511348768416,
+      "reference": 17579,
+      "tp": 408
+    },
+    {
+      "budget": 16,
+      "event": "nepal-flooding",
+      "f1_ratio_of_counts": 0.4450838329112301,
+      "fn": 27232,
+      "fp": 42006,
+      "mean_TP_per_scene": 2313.9166666666665,
+      "policy": "oracle_true_gain",
+      "precision_ratio_of_counts": 0.39796196236366504,
+      "recall": 0.5048637247949963,
+      "reference": 54999,
+      "tp": 27767
+    },
+    {
+      "budget": 16,
+      "event": "sunda-tsunami",
+      "f1_ratio_of_counts": 0.0,
+      "fn": 1456,
+      "fp": 16137,
+      "mean_TP_per_scene": 0.0,
+      "policy": "oracle_true_gain",
+      "precision_ratio_of_counts": 0.0,
+      "recall": 0.0,
+      "reference": 1456,
+      "tp": 0
+    },
+    {
+      "budget": 16,
+      "event": "tuscaloosa-tornado",
+      "f1_ratio_of_counts": 0.5749469509861899,
+      "fn": 9315,
+      "fp": 2904,
+      "mean_TP_per_scene": 688.6666666666666,
+      "policy": "oracle_true_gain",
+      "precision_ratio_of_counts": 0.7399713467048711,
+      "recall": 0.4701063769270152,
+      "reference": 17579,
+      "tp": 8264
+    }
+  ],
+  "screen": "INSUFFICIENT_CROSS_EVENT_MEASUREMENT_SIGNAL_DO_NOT_TUNE_PLANNER"
+}

@@ -1,0 +1,19 @@
+test_adaptive_feedback_changes_unvisited_peer_belief (test_experiment.SearchChecks) ... ok
+test_all_negative_scene_and_empty_predictions_are_defined (test_experiment.SearchChecks) ... ok
+test_budget_accounting_and_unique_opportunities_all_policies (test_experiment.SearchChecks) ... ok
+test_clear_negative_is_stronger_than_poor_negative (test_experiment.SearchChecks) ... ok
+test_duplicate_evidence_and_unsupported_verify_are_rejected (test_experiment.SearchChecks) ... ok
+test_ground_truth_is_not_used_by_planner (test_experiment.SearchChecks) ... ok
+test_outcomes_are_paired_across_policies (test_experiment.SearchChecks) ... ok
+test_repeatability (test_experiment.SearchChecks) ... ok
+test_revisit_can_be_chosen_and_costs_more (test_experiment.SearchChecks) ... ok
+test_unobserved_quality_cannot_affect_first_action (test_experiment.SearchChecks) ... ok
+test_duplicates_and_unsupported_geometry_rejected (test_xbd_adapter.LabelChecks) ... ok
+test_multiple_target_buildings_are_counted_once_each (test_xbd_adapter.LabelChecks) ... ok
+test_polygon_centroid_independent_of_vertex_order (test_xbd_adapter.LabelChecks) ... ok
+test_unknown_label_never_becomes_negative (test_xbd_adapter.LabelChecks) ... ok
+
+----------------------------------------------------------------------
+Ran 14 tests in 0.107s
+
+OK

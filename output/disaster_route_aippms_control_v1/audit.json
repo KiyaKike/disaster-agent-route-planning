@@ -1,0 +1,12 @@
+{
+  "budget_or_return_violations": 0,
+  "exact_branches_checked": 176,
+  "native_julia_execution": false,
+  "new_model_calls": 0,
+  "paid_actions_replayed": 1322,
+  "paper_table_replication": false,
+  "pomcp_episodes_replayed": 256,
+  "real_disaster_efficacy": false,
+  "status": "PASS",
+  "zero_information_exact_gain": 0
+}

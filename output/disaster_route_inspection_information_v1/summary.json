@@ -1,0 +1,66 @@
+{
+  "conditions": 720,
+  "policy_evaluations": 2880,
+  "exact_weighted_replay_leaves": 122400,
+  "no_information_conditions": 288,
+  "no_information_adaptive_advantage": 0,
+  "known_model_best_one_update_positive_conditions": 72,
+  "forced_update_worse_than_static_conditions": 254,
+  "budget_violations": 0,
+  "elapsed_cpu_wall_seconds": 0.35151641700213077,
+  "examples": [
+    {
+      "rho": 0,
+      "q": 1,
+      "budget": 10,
+      "fee": 1,
+      "static": 1.0,
+      "static_with_same_extra_fee": 1.0,
+      "forced_one_update": 1.0,
+      "best_static_or_one_update": 1.0
+    },
+    {
+      "rho": 1,
+      "q": 1,
+      "budget": 10,
+      "fee": 1,
+      "static": 1.0,
+      "static_with_same_extra_fee": 1.0,
+      "forced_one_update": 1.5,
+      "best_static_or_one_update": 1.5
+    },
+    {
+      "rho": 1,
+      "q": 0.5,
+      "budget": 10,
+      "fee": 1,
+      "static": 0.5,
+      "static_with_same_extra_fee": 0.5,
+      "forced_one_update": 0.5,
+      "best_static_or_one_update": 0.5
+    },
+    {
+      "rho": 0,
+      "q": 1,
+      "budget": 12,
+      "fee": 1,
+      "static": 1.5,
+      "static_with_same_extra_fee": 1.0,
+      "forced_one_update": 1.0,
+      "best_static_or_one_update": 1.5
+    },
+    {
+      "rho": 1,
+      "q": 1,
+      "budget": 10,
+      "fee": 2,
+      "static": 1.0,
+      "static_with_same_extra_fee": 1.0,
+      "forced_one_update": 1.0,
+      "best_static_or_one_update": 1.0
+    }
+  ],
+  "interpretation": "Counts describe a chosen synthetic parameter grid,not prevalence or efficacy on disaster scenes.",
+  "new_method": false,
+  "real_disaster_information_value_established": false
+}

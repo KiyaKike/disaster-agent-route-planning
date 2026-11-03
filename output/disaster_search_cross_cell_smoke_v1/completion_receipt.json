@@ -1,0 +1,45 @@
+{
+  "checks": {
+    "frozen_prediction_masks_verified": 768,
+    "full_development_extraction_started": false,
+    "new_access_allowlist_exact_development_72": true,
+    "old_contract_and_selection_unchanged": true,
+    "probe_source_files_verified": 18,
+    "source_and_runner_hashes_match": true
+  },
+  "development_batch_locked": 72,
+  "development_batch_materialized": 6,
+  "failure_decision": "DO_NOT_PROMOTE_BOUNDARY_DISCOUNT. Keep as a failed engineering ablation; no tuning on validation/confirmation.",
+  "files": {
+    "README.md": "28f472da7de12e410bab080fc2336d1a701a3060bc1fdf2dad7978219cc13a3e",
+    "action_budget_audit.json": "1d93de42017b9d91ec40202856de918b07d839db43f38fd52cb11ce50681317a",
+    "discount_parameters.json": "468f9125fcce7d4588cfa0959c54f9c481c2514c351ee3110fc35a3795bdc6bb",
+    "failure_examples_evaluator_only.json": "64db93c14cabfe7147e53dba5716f5a9f4ccec9adb8ebc0c448febbcc69768f6",
+    "metrics.jsonl": "6cb028fc8d27c226563ea155289a329bffa8f49638a7f97caeb636048d278bf1",
+    "paired_action_checks.json": "64c02bb6565f8ca802358b0576069de84579a74b9f4795d0a67742f0912478ae",
+    "protocol.json": "ae7e3dbb0e8cc3c41c810b5895f6be8f932ba1b37ea9332c52c42b7ae2ee5f55",
+    "report.json": "6a52bbb037bd68032a1472f548e753659f0ab84f9bb78925fa802a43886f2bc3",
+    "run_log.txt": "34208a47cc2625aa34a72018a14822730a31c33fbabecb2c39770537b782321e",
+    "source_snapshots/audit_cross_cell_smoke.py": "a078b8c3feaba9a083cf5a26cce9da6c870154bd4214480a90cb9b7f90c668d4",
+    "source_snapshots/build_xbd_mini.py": "080c23c373b59827acf78f3bfd421c85a14e6407094ce871dfaeed5e55c3e501",
+    "source_snapshots/cross_cell_count_smoke.py": "4312afc1ac40d33210ee15a8cc91464d6620b5fd638e437e47d1db1b5d1fbc0c",
+    "source_snapshots/paired_count_baseline.py": "b04ea42f2e9880b67d054ae76df98b0ddb7c3f4ca49a4ff462de803cafe67818",
+    "source_snapshots/plan_search_v2.py": "3f88219832ca8d3939d5cbc38919974d1932f4b941e1248c208534493254b83b",
+    "source_snapshots/test_cross_cell_count_smoke.py": "8afb01463e378eaacaff573da51948d6e573c4f93149ce812168bf5f889eed2a",
+    "spatial_groups.json": "d8a2dc9fe8d4120ade4ccd07b6ea6411d6fda24a596f848d2823ddfba1ba654a",
+    "summary.json": "b606662b7d685b8d0342ebedf8ce3ae9b83442e63077aa438acd11b3595dbea7",
+    "test_log.txt": "37876c199aa1373ac51e09d9e17f710bea2355c12a330cfa6752c16f72fb1741",
+    "trajectories.jsonl": "25ee2817c6d69c700d1ccc85394fa400915fe605a538d490cf1896760098cbd4"
+  },
+  "new_contract_sha256": "452de54015d0c717819553487885007d8aabc82751499387d17b0ba2044919c0",
+  "new_contract_version": "search_v2_2_design_20261025",
+  "new_design_files": {
+    "contract_amendment_02.json": "02616502613c2f68a950cac46992da9c6e60157e7ff4f11a12a5d246e967bc6d",
+    "experiment_contract_v2_2.json": "452de54015d0c717819553487885007d8aabc82751499387d17b0ba2044919c0",
+    "next_development_batch.json": "0b93aa296f53276f508a4d2dd4fcfa122f93578f3f3e939ee731d350021569c8"
+  },
+  "old_outputs_preserved": true,
+  "stage": "CROSS_CELL_ENGINEERING_AND_FAILED_ABLATION_RECORDED",
+  "tests_passed": 116,
+  "validation_or_confirmation_scored": false
+}

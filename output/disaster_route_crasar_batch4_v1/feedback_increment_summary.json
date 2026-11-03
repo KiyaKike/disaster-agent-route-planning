@@ -1,0 +1,75 @@
+{
+  "status": "EVALUATED_EXPLORATORY",
+  "regions_available": 3,
+  "regions_evaluated": 3,
+  "excluded_shared_building_candidate_rows": {
+    "case_rank03": 16,
+    "case_rank04": 21,
+    "case_rank06": 17
+  },
+  "per_region": [
+    {
+      "held_out": "case_rank03",
+      "status": "EVALUATED",
+      "training_regions": [
+        "case_rank04",
+        "case_rank06"
+      ],
+      "purged": [],
+      "test_rows": 39,
+      "prior": {
+        "mse": 0.12027968215554494,
+        "mae": 0.21736400539310508
+      },
+      "prior_plus_paid": {
+        "mse": 0.15299070470868845,
+        "mae": 0.24564843206428796
+      },
+      "delta_mse_paid_minus_prior": 0.03271102255314351
+    },
+    {
+      "held_out": "case_rank04",
+      "status": "EVALUATED",
+      "training_regions": [
+        "case_rank03",
+        "case_rank06"
+      ],
+      "purged": [],
+      "test_rows": 19,
+      "prior": {
+        "mse": 0.17324260371863143,
+        "mae": 0.3460002197454271
+      },
+      "prior_plus_paid": {
+        "mse": 0.12864672914124442,
+        "mae": 0.2725511868863914
+      },
+      "delta_mse_paid_minus_prior": -0.04459587457738701
+    },
+    {
+      "held_out": "case_rank06",
+      "status": "EVALUATED",
+      "training_regions": [
+        "case_rank03",
+        "case_rank04"
+      ],
+      "purged": [],
+      "test_rows": 38,
+      "prior": {
+        "mse": 0.20816097648445533,
+        "mae": 0.4321152599143516
+      },
+      "prior_plus_paid": {
+        "mse": 0.20483033015261745,
+        "mae": 0.42814829583721953
+      },
+      "delta_mse_paid_minus_prior": -0.003330646331837883
+    }
+  ],
+  "macro_mse_prior": 0.1672277541195439,
+  "macro_mse_prior_plus_paid": 0.16215592133418344,
+  "regions_improved": 2,
+  "method_gain_established": false,
+  "event_generalization": false,
+  "target_is_human_truth": false
+}

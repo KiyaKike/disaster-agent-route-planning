@@ -1,0 +1,174 @@
+{
+  "acquisition": {
+    "correlation": "Joint native/blurred observation model or conditional native likelihood given observed blurred outcome; never multiply marginal likelihoods as independent and never call evidence replacement an exact joint posterior.",
+    "count_proxy": "Any observable component/score feature is a prediction feature, not the evaluator building UID or a claimed true instance count.",
+    "implementation_status": "Six-scene paired/count search engineering complete. Boundary-only cross-cell discount failed and is not selected. Full 72-scene fitting, exact global distinct-building utility, existence ablation and strong baselines remain incomplete.",
+    "utility": "Expected incremental distinct-building discovery proxy / action cost, fitted on development; existence-only utility retained as an explicit ablation."
+  },
+  "adapter_source": {
+    "repo": "isp-uv-es/xview2-taco",
+    "revision": "44e219dc1d88c9d0903d6b478d7f2f3c435e574f",
+    "role": "Alternative image/polygon representation only; cohort membership still audited against author hold."
+  },
+  "admission_gates": [
+    "Repackaged hold names map to audited author hold; individual source polygons retained; original UID or explicitly derived per-source-object identity is traceable and duplicate-safe.",
+    "RGB shape/orientation and canonical pixel hashes match overlapping original examples; masks/unknown semantics checked on development probes only.",
+    "Audit exact image duplicates and available geographic overlap across policy splits, and disclose detector-training adjacency separately. Unavailable scene footprints are recorded as unverified.",
+    "No damage outcomes determine cohort membership. At least three target-bearing confirmation events are required for a three-event positive replication claim; otherwise restrict conclusions and do not swap samples.",
+    "Measurement and count/correlation baseline implementation gates complete before validation/confirmation policy scoring."
+  ],
+  "amendment_chain": [
+    {
+      "file": "contract_amendment_01.json",
+      "sha256": "56fe9a23bc3ce9877796ae8a24aa8ef889abcebe71cab05c6a9b727b71aacc1b"
+    },
+    {
+      "file": "contract_amendment_02.json",
+      "sha256": "02616502613c2f68a950cac46992da9c6e60157e7ff4f11a12a5d246e967bc6d"
+    }
+  ],
+  "amendment_sha256": "02616502613c2f68a950cac46992da9c6e60157e7ff4f11a12a5d246e967bc6d",
+  "comparisons": {
+    "fairness": "Same allowed observations, action eligibility, costs, quality maps and fitting data; report actual upgrades and planning wall time.",
+    "new_method": "NONE_SELECTED; local residual propagation and short-prefix switching are previous exploratory candidates, not established contributions.",
+    "random_order_seeds": [
+      20261030,
+      20261031,
+      20261032,
+      20261033,
+      20261034,
+      20261035,
+      20261036,
+      20261037,
+      20261038,
+      20261039
+    ],
+    "required_literature": "Specify a budget-compatible ENS/MF-ENS or rollout adaptation before any new-method claim; do not present an adaptation as a faithful reproduction without verification.",
+    "required_simple": [
+      "random survey",
+      "spatial coverage survey",
+      "prior survey",
+      "random with upgrade",
+      "prior with simple quality gate",
+      "development-fitted count-greedy with correlated upgrade likelihood"
+    ]
+  },
+  "decision_rule": {
+    "current": "No new controller training or paid GPU until data and measurement admission passes.",
+    "failure": "Report failure and stop adding parameters to that candidate; a changed hypothesis requires a new version and unconsumed confirmation evidence.",
+    "statistics": "Average repeated seeds within scenes first; report paired scene effects and separate events/spatial groups. Three events do not justify precise population-level confidence or treating seeds/cells as independent disasters.",
+    "validation_go": "For a later prespecified candidate: >=10% relative primary gain over each required simple baseline, >=0.1 additional building/scene in event-macro mean, positive gains in >=2/3 target-bearing validation events, and <=0.05 extra false-positive cells/scene. These are engineering effect-size targets, not significance tests.",
+    "zero_baseline": "If a baseline primary mean is zero, do not report relative percentage gain; apply the absolute-gain and event/false-positive conditions and report the zero denominator."
+  },
+  "development_access_limits": {
+    "max_new_network_bytes": 536870912,
+    "new_controller_training_allowed": false,
+    "paid_gpu_allowed": false,
+    "validation_or_confirmation_scoring_allowed": false
+  },
+  "measurement": {
+    "legacy_discovery_proxy": "raster_visibility_v2: >=4 overlapping severe pixels and >=10% visible-footprint coverage; explicit proxy, not verified real-world identification.",
+    "primary": "For each event average distinct discovered buildings per scene, then average events equally at budget 32, mixed quality, native-upgrade cost 2.",
+    "required_measurement_gate": "Before policy scores, inspect the six development interface probes for UID, polygons, alignment and boundary behavior; re-score all fixed trajectories at 5/10/25% coverage. A changed measurement definition requires a new version before validation/confirmation outcomes.",
+    "secondary": [
+      "Event-wise and scene-wise building recall; no-target recall null",
+      "Known-negative false-positive cells and unmatched positives",
+      "Discovery-versus-cost curve and censored first-discovery cost",
+      "Raw counts and event target composition; no target-free event counted as a positive replication"
+    ],
+    "unit": "Original UID when available; otherwise (pinned_source_revision, sample_id, source_object_index) with polygon fingerprint. Clearly mark as derived identity, never claim original UID recovered. Verify duplicates and object/class ordering before admission; no mask connected-component substitution."
+  },
+  "objective": "Maximize expected NEW distinct major-damage/destroyed building discoveries under an observation budget; engineering image-search proxy.",
+  "observations": {
+    "budgets": [
+      8,
+      16,
+      32
+    ],
+    "cost_limits": "Declared observation costs only. No inference of actual flight/energy savings. No new UAV viewpoint or genuine recovery of lost image information.",
+    "grid": "64 non-overlapping 128x128 cells in a 1024x1024 image; coarse RGB prior available initially; truth private.",
+    "positive_cells": "No blanket positive-cell terminal rule before the eligible native upgrade; expected additional building reward may be nonzero.",
+    "quality_scenarios": [
+      "native_survey",
+      "mixed_survey",
+      "blurred_survey"
+    ],
+    "quality_seeds": [
+      20261025,
+      20261026,
+      20261027,
+      20261028,
+      20261029
+    ],
+    "sensor": "Existing pinned ChangeOS model and frozen image preprocessing; no retraining in this stage.",
+    "survey": "Cost 1; fixed hidden quality assignment per cell; future actual quality unavailable to planner.",
+    "upgrade": "One native observation after any blurred survey, including a blurred positive. Upgrade is not an independent image. No repeated native action.",
+    "upgrade_costs": [
+      1,
+      2,
+      4
+    ]
+  },
+  "parent_contract_sha256": "316d7dc61cac5cd68780bd8ae713d76feb030310b5d39297e91bc25b83487ee4",
+  "planner_forbidden": [
+    "building_uid",
+    "true_damage",
+    "future_observations",
+    "evaluator_matches",
+    "future_actual_quality"
+  ],
+  "preservation": "All mini72 observations, fits, protocols, reports and failed variants remain unchanged.",
+  "research_questions": [
+    "Does the coarse image prior retain discovery value over coverage across new hold images and multiple events?",
+    "What share of benefit is due to coverage/ranking versus the offered native upgrade, and is it robust to its declared cost?",
+    "After count-objective alignment and correlated likelihoods, is there enough remaining gain to justify a new adaptive mechanism?"
+  ],
+  "sampling": {
+    "allowed_development_batch": {
+      "count": 72,
+      "file": "next_development_batch.json",
+      "no_replacement": true,
+      "sha256": "0b93aa296f53276f508a4d2dd4fcfa122f93578f3f3e939ee731d350021569c8"
+    },
+    "annotation_access_after_this_design_freeze": "Trusted extractor may transiently decode the shared damage column but return only the exact allowlist. No other damage values/class statistics/model outputs/policy scores may be returned. Never persist shared damage payloads. Prior physical access to shared reserved payloads is disclosed.",
+    "events": {
+      "confirmation": [
+        "hurricane-florence",
+        "hurricane-matthew",
+        "palu-tsunami"
+      ],
+      "development": [
+        "hurricane-harvey",
+        "santa-rosa-wildfire",
+        "mexico-earthquake"
+      ],
+      "validation": [
+        "hurricane-michael",
+        "midwest-flooding",
+        "socal-fire"
+      ]
+    },
+    "excluded_event": {
+      "guatemala-volcano": "Only five hold identities; excluded before outcomes to keep equal 24-scene event cohorts."
+    },
+    "interface_probes": "First two selected IDs in each development event only (six total). No confirmation damage payload access during admission.",
+    "no_replacement": "Missing files, invalid annotations, target sparsity or failed admission never trigger automatic swaps or outcome-based expansion.",
+    "per_event": 24,
+    "rank": "SHA256(disaster-search-v2|seed|event|sample_id), ascending; sample_id breaks ties",
+    "seed": 20261025
+  },
+  "source": {
+    "identities_sha256": "d60d89219847292051e9d96e92cb32e1ba6931f6689cc2677693e675203a83fe",
+    "pool": "hold",
+    "repo": "EVER-Z/torchange_xView2",
+    "revision": "cda47e44377258222166dac63a85068e8bdca446"
+  },
+  "split_meaning": {
+    "confirmation": "Florence/Matthew/Palu have not been used in mini72 policy experiments; use only after complete baseline/method lock.",
+    "development": "All sensor/prior/count-utility fitting, interface QA and mechanism exploration; overlaps previously explored event types.",
+    "perception": "All nine events occur in the frozen detector training pool. ID-disjoint hold cannot establish unseen-event perception generalization.",
+    "validation": "One prespecified baseline screening run after implementations are frozen; prior Michael event exploration is disclosed."
+  },
+  "status": "DESIGN_LOCKED_DATA_NOT_ADMITTED",
+  "version": "search_v2_2_design_20261025"
+}

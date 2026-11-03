@@ -1,0 +1,28 @@
+{
+  "rank": 4,
+  "scene": "1001-Kennedy-Green-Mobile-Homes.geo.tif",
+  "history": [
+    {
+      "script": "probe_crasar_region.py",
+      "exit_code": 0,
+      "wall_seconds": 54.98620524999569
+    },
+    {
+      "script": "extract_crasar_region.py",
+      "exit_code": 1,
+      "wall_seconds": 173.69116516699432
+    },
+    {
+      "script": "extract_crasar_region.py",
+      "exit_code": 0,
+      "wall_seconds": 3.2337667920073727
+    },
+    {
+      "script": "qualify_crasar_region.py",
+      "exit_code": 0,
+      "wall_seconds": 1.2700208329915768
+    }
+  ],
+  "last_stage": "qualify_crasar_region.py",
+  "exit_code": 0
+}

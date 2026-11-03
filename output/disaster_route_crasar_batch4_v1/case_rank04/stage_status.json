@@ -1,0 +1,38 @@
+{
+  "rank": 3,
+  "scene": "1001-Iona-Point.geo.tif",
+  "history": [
+    {
+      "script": "probe_crasar_region.py",
+      "exit_code": 0,
+      "wall_seconds": 44.037100707995705
+    },
+    {
+      "script": "extract_crasar_region.py",
+      "exit_code": 1,
+      "wall_seconds": 171.48936862499977
+    },
+    {
+      "script": "extract_crasar_region.py",
+      "exit_code": 1,
+      "wall_seconds": 119.89160112499667
+    },
+    {
+      "script": "extract_crasar_region.py",
+      "exit_code": 1,
+      "wall_seconds": 21.839643957995577
+    },
+    {
+      "script": "extract_crasar_region.py",
+      "exit_code": 0,
+      "wall_seconds": 14.734663499999442
+    },
+    {
+      "script": "qualify_crasar_region.py",
+      "exit_code": 0,
+      "wall_seconds": 0.9427461669984041
+    }
+  ],
+  "last_stage": "qualify_crasar_region.py",
+  "exit_code": 0
+}

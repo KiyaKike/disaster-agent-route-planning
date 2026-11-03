@@ -1,0 +1,6 @@
+{
+  "adapter_source_sha256": "260f3c42e5e28552cbda778e5f63dec2a4ba4d2e8c6dd2e61949d258858f9b60",
+  "allowed_or_protected_ranges_changed": false,
+  "parent_protocol_sha256": "9f4b136a0ff9d966c40e5cf9d07bd900775cf6588f5e675f54b62632fa9a7477",
+  "scope": "One projected column per Parquet read to prevent read coalescing over unrequested columns."
+}

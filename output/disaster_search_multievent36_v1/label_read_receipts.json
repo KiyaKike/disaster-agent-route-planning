@@ -1,0 +1,474 @@
+[
+  {
+    "bytes": 65536,
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_taco_v1/ranges/32403120720_65536.bin",
+    "offset": 32403120720,
+    "persisted": true,
+    "sha256": "6fb7eeef8a5df9d7db48c9d6007a230d80095e07de381daa202a74d01a18a79e",
+    "transient_damage": false
+  },
+  {
+    "bytes": 1048576,
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_taco_v1/ranges/32295010963_1048576.bin",
+    "offset": 32295010963,
+    "persisted": true,
+    "sha256": "cffac99375a429b2336196222d1bdb141074a034c78304e81d5298a5101e9dff",
+    "transient_damage": false
+  },
+  {
+    "bytes": 1048576,
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_taco_v1/ranges/32296059539_1048576.bin",
+    "offset": 32296059539,
+    "persisted": true,
+    "sha256": "ab6e6307447f08e6ce56b241ae50b6a3097d0b3957db17128c9b1cb1ab4daaa7",
+    "transient_damage": false
+  },
+  {
+    "bytes": 1048576,
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_taco_v1/ranges/32297108115_1048576.bin",
+    "offset": 32297108115,
+    "persisted": true,
+    "sha256": "76670683bf739ad1b6b2e6e6eae057e37469de9cd7d7e11a2577e13bad920aec",
+    "transient_damage": false
+  },
+  {
+    "bytes": 1048576,
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_taco_v1/ranges/32298156691_1048576.bin",
+    "offset": 32298156691,
+    "persisted": true,
+    "sha256": "732aa6087d7c8af0d06c4a40bb48f6a25be1bff4b8d174bddbe44f8450426155",
+    "transient_damage": false
+  },
+  {
+    "bytes": 1048576,
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_taco_v1/ranges/32299205267_1048576.bin",
+    "offset": 32299205267,
+    "persisted": true,
+    "sha256": "5c9ffb77371f608ae512b0f326366107f8e58f7c5f4f469b704c501b9cb0327c",
+    "transient_damage": false
+  },
+  {
+    "bytes": 1048576,
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_taco_v1/ranges/32300253843_1048576.bin",
+    "offset": 32300253843,
+    "persisted": true,
+    "sha256": "6239e9d7590fce17e5f2973ef53ebdf9b66d7fad8f584a7e7d2bc6eccbc856b1",
+    "transient_damage": false
+  },
+  {
+    "bytes": 1048576,
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_taco_v1/ranges/32301302419_1048576.bin",
+    "offset": 32301302419,
+    "persisted": true,
+    "sha256": "33ddc85022ea8d37c804f1cdd9ebd67676cc5912af0150c05de80647d293739c",
+    "transient_damage": false
+  },
+  {
+    "bytes": 1048576,
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_taco_v1/ranges/32302350995_1048576.bin",
+    "offset": 32302350995,
+    "persisted": true,
+    "sha256": "dbf721f0d18b202b5a1c9522600193785e244efa30c1450ed2755331c8f4eecb",
+    "transient_damage": false
+  },
+  {
+    "bytes": 1048576,
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_taco_v1/ranges/32303399571_1048576.bin",
+    "offset": 32303399571,
+    "persisted": true,
+    "sha256": "2507f7ebb8ec2a274da36adb9fdab17e5169e8cc676d46fc4dd50ef713176bc5",
+    "transient_damage": false
+  },
+  {
+    "bytes": 1048576,
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_taco_v1/ranges/32304448147_1048576.bin",
+    "offset": 32304448147,
+    "persisted": true,
+    "sha256": "cad914b27ffc4e9dc668890c6491332a60e245adad912d25ffb2733134a49d23",
+    "transient_damage": false
+  },
+  {
+    "bytes": 1048576,
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_taco_v1/ranges/32305496723_1048576.bin",
+    "offset": 32305496723,
+    "persisted": true,
+    "sha256": "ba27ce42a09e9a1b722892f4111e5b9d7c036fa80b2906fa5cde93566d400c4c",
+    "transient_damage": false
+  },
+  {
+    "bytes": 1048576,
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_taco_v1/ranges/32306545299_1048576.bin",
+    "offset": 32306545299,
+    "persisted": true,
+    "sha256": "9bc66082edf742004d6611a53a98b6fed4c1ca87c2f679256c726385587fa455",
+    "transient_damage": false
+  },
+  {
+    "bytes": 1048576,
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_taco_v1/ranges/32307593875_1048576.bin",
+    "offset": 32307593875,
+    "persisted": true,
+    "sha256": "e16181d9dafb2cf99f26c2f9a950dbd93e0f88c44280081f0813bc27c8b3143e",
+    "transient_damage": false
+  },
+  {
+    "bytes": 1048576,
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_taco_v1/ranges/32308642451_1048576.bin",
+    "offset": 32308642451,
+    "persisted": true,
+    "sha256": "c28db01370b48a08504eeeb210404754341af9f6ce6c03fecfe82b900fdf17f2",
+    "transient_damage": false
+  },
+  {
+    "bytes": 1048576,
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_taco_v1/ranges/32309691027_1048576.bin",
+    "offset": 32309691027,
+    "persisted": true,
+    "sha256": "72cf6b8738c2adf675164ed2bda5cb44d6cbd886936aec416216951bba9f87e4",
+    "transient_damage": false
+  },
+  {
+    "bytes": 1048576,
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_taco_v1/ranges/32310739603_1048576.bin",
+    "offset": 32310739603,
+    "persisted": true,
+    "sha256": "891f84b3d655ccc14ac92bfc8c83056fa76411cfd41564045efed033f0d91814",
+    "transient_damage": false
+  },
+  {
+    "bytes": 1048576,
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_taco_v1/ranges/32311788179_1048576.bin",
+    "offset": 32311788179,
+    "persisted": true,
+    "sha256": "5b0bbb61d61b98ddea3999a1b4fb8e390299b7cde9e397604c766a4ba42a9922",
+    "transient_damage": false
+  },
+  {
+    "bytes": 1048576,
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_taco_v1/ranges/32312836755_1048576.bin",
+    "offset": 32312836755,
+    "persisted": true,
+    "sha256": "d5accd3d6f43de19e8beb149acd56cf75f1b3a8a189661da4cf56a0b572f5ac9",
+    "transient_damage": false
+  },
+  {
+    "bytes": 1048576,
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_taco_v1/ranges/32313885331_1048576.bin",
+    "offset": 32313885331,
+    "persisted": true,
+    "sha256": "266b45a7a286d570c42a6adac645e250f684a302e249a54eba88123b6c65bdb5",
+    "transient_damage": false
+  },
+  {
+    "bytes": 1048576,
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_taco_v1/ranges/32314933907_1048576.bin",
+    "offset": 32314933907,
+    "persisted": true,
+    "sha256": "7ca0451f22ebc1637195f8dfca97d263749c5c1a306e771f7cf492bb537cfeb2",
+    "transient_damage": false
+  },
+  {
+    "bytes": 1048576,
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_taco_v1/ranges/32315982483_1048576.bin",
+    "offset": 32315982483,
+    "persisted": true,
+    "sha256": "2e21860a2e4e3d1f1bc48ebc333f43240468ddda72793463f1f3fa4c087751af",
+    "transient_damage": false
+  },
+  {
+    "bytes": 1048576,
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_taco_v1/ranges/32317031059_1048576.bin",
+    "offset": 32317031059,
+    "persisted": true,
+    "sha256": "bf5f8abbe81a5dd8f2eedde107062145fe7599d3da727c0df92f02475b11f2ea",
+    "transient_damage": false
+  },
+  {
+    "bytes": 1048576,
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_taco_v1/ranges/32318079635_1048576.bin",
+    "offset": 32318079635,
+    "persisted": true,
+    "sha256": "53571aae2e7a6d324f74f9e98167ccc147bd5b01de023c3fd3ade26c5a68ee5d",
+    "transient_damage": false
+  },
+  {
+    "bytes": 1048576,
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_taco_v1/ranges/32319128211_1048576.bin",
+    "offset": 32319128211,
+    "persisted": true,
+    "sha256": "944e5871d08186a70ced689928849e20e42ae0cda65a321041d738a113df043e",
+    "transient_damage": false
+  },
+  {
+    "bytes": 1048576,
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_taco_v1/ranges/32320176787_1048576.bin",
+    "offset": 32320176787,
+    "persisted": true,
+    "sha256": "4c021b8a991d37ee931d59d1312b9e0d27252f8a02e7d922fb8b575a6d892911",
+    "transient_damage": false
+  },
+  {
+    "bytes": 1048576,
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_taco_v1/ranges/32321225363_1048576.bin",
+    "offset": 32321225363,
+    "persisted": true,
+    "sha256": "be7bd285a9b4a997e88af651fb6d241be68723ecd02a4250deedff981e655c0c",
+    "transient_damage": false
+  },
+  {
+    "bytes": 1048576,
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_taco_v1/ranges/32322273939_1048576.bin",
+    "offset": 32322273939,
+    "persisted": true,
+    "sha256": "8b46ec9e933a63badf7ff4bd3f81fac5a497eecac4ee3feae8c2af45818f6415",
+    "transient_damage": false
+  },
+  {
+    "bytes": 1048576,
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_taco_v1/ranges/32323322515_1048576.bin",
+    "offset": 32323322515,
+    "persisted": true,
+    "sha256": "6c7e429b201f72bfa24858b4f0d0a69bbd0451f34d6f7f0f48a71ed981f27800",
+    "transient_damage": false
+  },
+  {
+    "bytes": 1048576,
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_taco_v1/ranges/32324371091_1048576.bin",
+    "offset": 32324371091,
+    "persisted": true,
+    "sha256": "739c0b10fd2610aad79d39a5fbcd05a088c9be62c73285b2f8bd1a1971c14c09",
+    "transient_damage": false
+  },
+  {
+    "bytes": 1048576,
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_taco_v1/ranges/32325419667_1048576.bin",
+    "offset": 32325419667,
+    "persisted": true,
+    "sha256": "f16a34557e33a05df7e6d2bd4267c26daf27795a6c5d6af9f5ffa0183d946193",
+    "transient_damage": false
+  },
+  {
+    "bytes": 1048576,
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_taco_v1/ranges/32326468243_1048576.bin",
+    "offset": 32326468243,
+    "persisted": true,
+    "sha256": "af29a860ebe7782131fc89e7edacc16cd944ff114cbef8436c575b6e42a54d5c",
+    "transient_damage": false
+  },
+  {
+    "bytes": 1048576,
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_taco_v1/ranges/32327516819_1048576.bin",
+    "offset": 32327516819,
+    "persisted": true,
+    "sha256": "deee3b17a295f0ee23595f0354f91345353106b35aa7e7bd3e3a9502b2fa872b",
+    "transient_damage": false
+  },
+  {
+    "bytes": 1048576,
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_taco_v1/ranges/32328565395_1048576.bin",
+    "offset": 32328565395,
+    "persisted": true,
+    "sha256": "47fc11a86afeebc2b55e6b4c971f242aed8079d7505e7acf54ae3b6498c5ca67",
+    "transient_damage": false
+  },
+  {
+    "bytes": 1048576,
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_taco_v1/ranges/32329613971_1048576.bin",
+    "offset": 32329613971,
+    "persisted": true,
+    "sha256": "5e3397a39a78028d9fcbbdb11d68f50c131753186ea06c9036301b58bb32fd35",
+    "transient_damage": false
+  },
+  {
+    "bytes": 1048576,
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_taco_v1/ranges/32330662547_1048576.bin",
+    "offset": 32330662547,
+    "persisted": true,
+    "sha256": "850269ba96ac8abb8ce7e7853178ab16c11d384cf5f013d0b4b348fc2f538aa0",
+    "transient_damage": false
+  },
+  {
+    "bytes": 1048576,
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_taco_v1/ranges/32331711123_1048576.bin",
+    "offset": 32331711123,
+    "persisted": true,
+    "sha256": "d787fb04a48c027c482553cecdb289047ffef27d291a9bb4e99b5837c68abd10",
+    "transient_damage": false
+  },
+  {
+    "bytes": 1048576,
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_taco_v1/ranges/32332759699_1048576.bin",
+    "offset": 32332759699,
+    "persisted": true,
+    "sha256": "53829a68ca7cf7d08c29f3ebe97decb6bcb8403a98ea4748c280c6cf25c79252",
+    "transient_damage": false
+  },
+  {
+    "bytes": 1048576,
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_taco_v1/ranges/32333808275_1048576.bin",
+    "offset": 32333808275,
+    "persisted": true,
+    "sha256": "9f3af1e2c4b1cde6854b1190161ad0121bf225929e90424cd7db7a22f9bbd7dc",
+    "transient_damage": false
+  },
+  {
+    "bytes": 1048576,
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_taco_v1/ranges/32334856851_1048576.bin",
+    "offset": 32334856851,
+    "persisted": true,
+    "sha256": "29543999453bfdd820b7c4f3275757ee12c7d8e9e205f1026f0965cb86524491",
+    "transient_damage": false
+  },
+  {
+    "bytes": 1048576,
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_taco_v1/ranges/32335905427_1048576.bin",
+    "offset": 32335905427,
+    "persisted": true,
+    "sha256": "691eaff7a3f9993b8330c26e47de842c9001da2537c5c7efb88e7ab07596940f",
+    "transient_damage": false
+  },
+  {
+    "bytes": 1048576,
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_taco_v1/ranges/32336954003_1048576.bin",
+    "offset": 32336954003,
+    "persisted": true,
+    "sha256": "6eec9b9cb90339c86165c64f86079483b25a50f13196444b1017451e739bb992",
+    "transient_damage": false
+  },
+  {
+    "bytes": 1048576,
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_taco_v1/ranges/32338002579_1048576.bin",
+    "offset": 32338002579,
+    "persisted": true,
+    "sha256": "3069dfbbc4f7c7d74ac33ed13add92f4bdd9de6cf4e340750d4d3f4474fb1ff6",
+    "transient_damage": false
+  },
+  {
+    "bytes": 1048576,
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_taco_v1/ranges/32339051155_1048576.bin",
+    "offset": 32339051155,
+    "persisted": true,
+    "sha256": "a3967f2f3285461bd5fa3d36e783449e0bc44d97428ce14368b1157683106363",
+    "transient_damage": false
+  },
+  {
+    "bytes": 1048576,
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_taco_v1/ranges/32340099731_1048576.bin",
+    "offset": 32340099731,
+    "persisted": true,
+    "sha256": "381d675432e49adfdf26fc494cac9a6a779a46209efcd3f148bead04c9452797",
+    "transient_damage": false
+  },
+  {
+    "bytes": 1048576,
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_taco_v1/ranges/32341148307_1048576.bin",
+    "offset": 32341148307,
+    "persisted": true,
+    "sha256": "0e7d9c9050c99e34ff3b175cf32e5aabcc4c7907f8c6db96d0f164fbd82a1f56",
+    "transient_damage": false
+  },
+  {
+    "bytes": 1048576,
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_taco_v1/ranges/32342196883_1048576.bin",
+    "offset": 32342196883,
+    "persisted": true,
+    "sha256": "1be09b49eeb685db75e9bb1064852c56c0c37acaf7c562084e72ce5142817f54",
+    "transient_damage": false
+  },
+  {
+    "bytes": 1048576,
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_taco_v1/ranges/32343245459_1048576.bin",
+    "offset": 32343245459,
+    "persisted": true,
+    "sha256": "85b89adc82b2e419562eefb2c48fb781117e384bee5c62b1b0da63e727f31fc5",
+    "transient_damage": false
+  },
+  {
+    "bytes": 1048576,
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_taco_v1/ranges/32344294035_1048576.bin",
+    "offset": 32344294035,
+    "persisted": true,
+    "sha256": "13c08811b58813ffdc8ff611dae533cf05d48cc3caf00c3a4b9afaa9aff44ff1",
+    "transient_damage": false
+  },
+  {
+    "bytes": 1048576,
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_taco_v1/ranges/32345342611_1048576.bin",
+    "offset": 32345342611,
+    "persisted": true,
+    "sha256": "dd0cdac7e3cc9a74050519081a55d81dbbf7d9bee22b1813502ef4e3cc069637",
+    "transient_damage": false
+  },
+  {
+    "bytes": 1048576,
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_taco_v1/ranges/32346391187_1048576.bin",
+    "offset": 32346391187,
+    "persisted": true,
+    "sha256": "419a2dcc33739dae4b8f1d52ffcc149a8bdba3faef0b178cca0dce2fbd582237",
+    "transient_damage": false
+  },
+  {
+    "bytes": 1048576,
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_taco_v1/ranges/32347439763_1048576.bin",
+    "offset": 32347439763,
+    "persisted": true,
+    "sha256": "a5f227153ca2809262163f1f3a542a13a49e9f75f07754c10f62449d85aa2d09",
+    "transient_damage": false
+  },
+  {
+    "bytes": 1048576,
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_taco_v1/ranges/32348488339_1048576.bin",
+    "offset": 32348488339,
+    "persisted": true,
+    "sha256": "7a834f4be89f52435c16cbb6d501c0f4ffad231829fa8f47e9fe1e40ff9aa342",
+    "transient_damage": false
+  },
+  {
+    "bytes": 1048576,
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_taco_v1/ranges/32349536915_1048576.bin",
+    "offset": 32349536915,
+    "persisted": true,
+    "sha256": "ed82683f39d500b09eee2653de2990d00b6e21ede86bc0ab799c9ea6f7459b9c",
+    "transient_damage": false
+  },
+  {
+    "bytes": 1048576,
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_taco_v1/ranges/32350585491_1048576.bin",
+    "offset": 32350585491,
+    "persisted": true,
+    "sha256": "c23493b2af64aaffff3ad7a56606793a771ca65f0971b6949791ec9c3123f456",
+    "transient_damage": false
+  },
+  {
+    "bytes": 263804,
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_taco_v1/ranges/32351634067_263804.bin",
+    "offset": 32351634067,
+    "persisted": true,
+    "sha256": "87b2f01b86458b01d51a6798bf15b1f24d3cdc575736a96926ae8ac464e2e35a",
+    "transient_damage": false
+  },
+  {
+    "bytes": 366020,
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_taco_v1/ranges/32351897871_366020.bin",
+    "offset": 32351897871,
+    "persisted": true,
+    "sha256": "b30a85eeae162159ae4a44aeb95e09a9552e0e393c00a88211f742fd9bfc3e5a",
+    "transient_damage": false
+  },
+  {
+    "bytes": 85048,
+    "cache_file": null,
+    "offset": 32294925915,
+    "persisted": false,
+    "sha256": "1ca420b59ab9501153ffd842ab810d6bd22579aae114dfc0a93de5806911846c",
+    "transient_damage": true
+  },
+  {
+    "bytes": 168,
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_taco_v1/ranges/32294876954_168.bin",
+    "offset": 32294876954,
+    "persisted": true,
+    "sha256": "ef84954ed450cb1cf56a3c8739b5431a6e98d915bc638ef0fe0c40da827dcd51",
+    "transient_damage": false
+  }
+]

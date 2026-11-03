@@ -1,0 +1,28 @@
+{
+  "status": "PASS",
+  "map_switch_preserves_trace": true,
+  "paid_cell_inspector": "P_26_13　线索：0.527　先验热点值：0.345　当时后验：0.566　证据：观测阳性，未确认目标（34.0秒）",
+  "unpaid_cell_inspector": "P_01_01　线索：未知／尚不可用　先验热点值：0.200　当时后验：0.200　证据：未付费观察，证据未知",
+  "pre_phase": {
+    "region": "口岸",
+    "policy": "online_5",
+    "mode": "geometry_semantic",
+    "frame": 1,
+    "observations": 0,
+    "closed": false,
+    "phase": "pre"
+  },
+  "post_phase": {
+    "region": "口岸",
+    "policy": "online_5",
+    "mode": "geometry_semantic",
+    "frame": 3,
+    "observations": 0,
+    "closed": false,
+    "phase": "post"
+  },
+  "slider_home_end": true,
+  "play_pause": true,
+  "cached_images_loaded": true,
+  "js_errors": []
+}

@@ -1,0 +1,32 @@
+{
+  "status": "PASSED_DATA_CONSTRUCTION_CHECKS",
+  "raw_pairs": 72,
+  "raw_png_files": 144,
+  "raw_json_files": 144,
+  "grid_cells": 4608,
+  "unknown_cells_preserved": 23,
+  "event_disjoint": true,
+  "development_examples_excluded": true,
+  "public_cues_contain_no_target_truth": true,
+  "initial_probabilities_uncalibrated_null": true,
+  "same_cell_ids_across_public_environment_evaluator": true,
+  "cross_split_exact_image_duplicates": 0,
+  "cross_split_duplicate_building_uids": 0,
+  "geographic_overlap_audited": false,
+  "selected_perception_checkpoint_training_overlap_audited": false,
+  "real_efficacy_evaluation_run": false,
+  "unit_tests_passed": 20,
+  "protocol_sha256": "957c04b5e681c4fcecc81fcc3b0109ccdf0025c6230ee5dec7a72c48e645f14a",
+  "download_manifest_sha256": "666b98ff821e409b75e94e8bfebf7904d15c25f3e922ead1d389f5c196e2aa62",
+  "audit_report_sha256": "9e43c037cb56925d15a0563579d6000fd51997f8f9b75b586bd918e5c796a9fc",
+  "code_sha256": {
+    "build_xbd_mini.py": "080c23c373b59827acf78f3bfd421c85a14e6407094ce871dfaeed5e55c3e501",
+    "experiment.py": "74fc5d21d4bf378f48514697dcbf0a6ef94ceb8b07b17e36407e8afa9c78bda7",
+    "fetch_xbd_sample.py": "688a2e4b321fdf9cfd5019562a51729840f4d03418dec5ca5dace0b8969f4262",
+    "prepare_xbd_sample.py": "761b0d8947d644a6a001b2c612a4d5050eb7e7e4bcf9691402d989eacb3611e2",
+    "preview_xbd_mini.py": "1df6e7fe063fc1a5c4d992c5ab3019d9c89e525204b303bc0af1ef04b0f650ee",
+    "test_experiment.py": "aaaf95ec4bdcf572607b3c9b254cceec73d54270db60ab3c6d5c51c52565384b",
+    "test_mini_protocol.py": "99783794c42ad90e34bf2821fbe9d3d88f890373b9b285b4accaa58c70f5b474",
+    "test_xbd_adapter.py": "47e9cd66dec082b353700eea789d2859f56697ee43eaeb50e46f9ff39f93e28c"
+  }
+}

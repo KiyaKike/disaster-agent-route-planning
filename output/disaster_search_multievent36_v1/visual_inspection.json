@@ -1,0 +1,17 @@
+{
+  "budget_plot_viewed": true,
+  "all_three_RGB_sheets_viewed": true,
+  "files": {
+    "RGB_QA/sunda-tsunami.png": "2907f3e3bc475ee3aa4fd428eeab7009de236e208bcd0a2ea784370c85b994e4",
+    "RGB_QA/tuscaloosa-tornado.png": "1002d33ec0cac0ef97a9f41860ac9cc10139d0eff242bf3ac1b652e459ba5196",
+    "RGB_QA/nepal-flooding.png": "c3a85f90ba7bf515c4f15fc0109f463c5fc8002bfb539206b08e935ab2ff105c",
+    "figures/multievent_budget.png": "e256e1f9079377078968ff5b12af23eefd4d889458362f62009dd3b223c1f2a8"
+  },
+  "checks": [
+    "All36RGBpairs shown before labels or predictions",
+    "Threeevent results separated;Sunda zero-recall line retained",
+    "Allfour budgets shown;primary25percent marked",
+    "No figure label overlap or clipping observed"
+  ],
+  "new_damage_annotations": 0
+}

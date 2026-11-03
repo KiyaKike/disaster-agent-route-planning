@@ -1,0 +1,26 @@
+{
+  "basis_audit_sha256": "2322496361130c5a86e0935a2d80aa9c60bcfcaf01b1c6a95cd44f5f9c8df5ad",
+  "basis_evidence_sha256": "17881ba0a3f4b45cce86dede9e0d0dddc5efe286fdffee65f50e24154464ef4f",
+  "decision": "Keep the old positive-revisit policy stopped. Do not deepen planning or present this diagnostic as a new method. A follow-up may test a source-fitted rank-preserving survey-utility calibration as a baseline control, with an independently specified revisit opportunity-cost model; first distinguish it from simply restoring raw ordering.",
+  "gate": "Only lock one new candidate after protocol, nearest-work mechanism comparison, and independent-data admission plan. If correction only reproduces public raw ranking, label baseline repair; do not promote it as a research method.",
+  "new_followup_experiment_started": false,
+  "new_model_fit_enabled": false,
+  "new_policy_selected": false,
+  "next_controls_required": [
+    "Frozen raw survey and raw negative gate",
+    "Current frozen count-only/negative controls",
+    "Rank-preserving calibration only as a baseline repair control, not claimed novelty",
+    "Specified budget-compatible VAS/MF-ENS-related strong baselines before a method claim"
+  ],
+  "no_revival_of_failed_variants": "Do not repackage the earlier boundary discount or short-prefix switching failures as new mechanisms.",
+  "novelty_established": false,
+  "paid_gpu_needed": false,
+  "stage": "DIAGNOSTIC_COMPLETED_EVENT_DEPENDENT_RANKING_AND_OPPORTUNITY_COST_SUPPORTED",
+  "supported": [
+    "The frozen source-bin ordering misranks held Santa Rosa; no globally monotone relationship is established because Harvey differs.",
+    "Factual count-negative upgrades have lower one-step global yield than two public-ranked unseen surveys on average in held development events; not a full-policy causal estimate.",
+    "Cross-cell duplicates are real, but count survey has fewer duplicates than raw survey and still loses; duplicate removal alone does not explain the failure.",
+    "The current cache has substantial perfect-information headroom; Mexico remains zero and cannot be repaired by planning in this cache."
+  ],
+  "validation_or_confirmation_access_enabled": false
+}

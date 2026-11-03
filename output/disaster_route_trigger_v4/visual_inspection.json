@@ -1,0 +1,19 @@
+{
+  "all_five_figures_viewed": true,
+  "checks": [
+    "All18 primary conditions present,including negative cells.",
+    "Separate labels for nearby periodic/mean points;no outcome or policy changed.",
+    "Budget sensitivity marked primary20 minutes.",
+    "Both fixed first-seed examples show all6 complete routes,with synthetic targets explicitly labeled.",
+    "No cropped titles or unreadable axes in final images."
+  ],
+  "client_date": "2026-11-02",
+  "figures_sha256": {
+    "all_condition_deltas.png": "70f5cd1854d00b136fb7faf3973ec92eb81f4518163dac2dcfa56d2bd75e1cc3",
+    "budget_sensitivity.png": "e8967174946592ada866e34d0e260969de28e0634f0678b77ce0327bbed1fae9",
+    "planning_tradeoff.png": "327717d46be7269203cef7252b33ebc416a7b3e5c1fb09852caf30564558278c",
+    "routes_port.png": "43717db15a54693fbcd8bb0bb327d27b62c6bd7fc74ffc8f4d01fb3a7ae2e5a8",
+    "routes_south.png": "4e675d6678801b9a2323912adfd11997405ba9e9c44d627dca302f3cd609d596"
+  },
+  "postprocessing_source": "analysis_sources/supplementary_reporting.py"
+}

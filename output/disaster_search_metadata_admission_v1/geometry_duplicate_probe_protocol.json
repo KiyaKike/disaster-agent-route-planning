@@ -1,0 +1,45 @@
+{
+  "basis_candidate_ledger_sha256": "ae05757d32fe7888f6ba8084da699faedf9f7dd90f302770888db8693c3cdd68",
+  "child_metadata_columns": [
+    "internal:parent_id",
+    "internal:relative_path",
+    "internal:offset",
+    "internal:size"
+  ],
+  "comparison": "Exact array equality and full per-ring XY fingerprint multisets at round6, ignoring ring start/winding via the established bridge helper. Source image offset/size equality is reported separately from size alone.",
+  "geometry_columns": [
+    "ml:polygon_xy",
+    "ml:polygon_len",
+    "ml:polygon_lnglat",
+    "ml:polygon_lnglat_len"
+  ],
+  "limits": "Identical geometry or equal PNG lengths does NOT establish pixel equality. No geographic independence or actual optimizer exposure claim.",
+  "network_byte_cap": 0,
+  "no_damage_or_count_columns": true,
+  "no_image_payload_reads": true,
+  "pairs": [
+    {
+      "candidate_id": "socal-fire_00000453",
+      "fraction_of_smaller_inferred_post_range": 0.9999996575131552,
+      "training_id": "woolsey-fire_00000568"
+    },
+    {
+      "candidate_id": "socal-fire_00000134",
+      "fraction_of_smaller_inferred_post_range": 0.999997434789842,
+      "training_id": "woolsey-fire_00000056"
+    },
+    {
+      "candidate_id": "socal-fire_00000165",
+      "fraction_of_smaller_inferred_post_range": 0.9999992662538215,
+      "training_id": "woolsey-fire_00000137"
+    }
+  ],
+  "selection": "ALL candidate/training pairs with inferred overlap >=.99; metadata only, no policy/target-outcome selection.",
+  "source_code_sha256": {
+    "audit_hold_taco.py": "f348b944f4bd5331612e9fa4f47ef6463374953c3f9903daef173c5130aacf86",
+    "inferred_scene_geometry.py": "460280b82725fdb3b91faeb60f58af0ceb240d09a6c1f6ab46e877f4d187d0ed",
+    "probe_metadata_geometry_duplicates.py": "6f4cd1743de214f4e7681f906f87ca0b11130c40b2e5a196acfc4e951e10ea5d",
+    "verify_taco_polygon_bridge.py": "11bf2156964fc1a536b2d05a21fa4a56c23bc904bd6bff6622e5ddbd501bed37"
+  },
+  "stage": "POST_SCREEN_GEOMETRY_DUPLICATE_PROBE"
+}

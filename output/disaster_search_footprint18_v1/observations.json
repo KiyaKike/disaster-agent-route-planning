@@ -1,0 +1,4970 @@
+[
+  {
+    "block_id": "b00",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/EARTHQUAKE-TURKEY_000237_b00_native256_contiguous.npz",
+    "cache_sha256": "e6da8c4e120c2031e798042349d43971d05b1d2b32868b36795e5db2dbcb98e6",
+    "coarse_rgb_sha256": null,
+    "declared_target": false,
+    "elapsed_seconds": 0.8684360000188462,
+    "event": "EARTHQUAKE-TURKEY",
+    "index": 3,
+    "input_mode": "native256_contiguous",
+    "input_tensor_sha256": "1426c15c25b74ff774b45bcb7522c9bc4279022610748a09f9b9804af19f0f5a",
+    "input_tensor_shape": [
+      1,
+      6,
+      256,
+      256
+    ],
+    "job": "EARTHQUAKE-TURKEY_000237_b00_native256_contiguous",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "3381de4ca9f3a477f25989dfc8b744e7916046b7aa369f61a9a2f7dc0963ec9e",
+      "02ac33607d2328b25bae9031898e7360b5dc3c3b39a59b0aa12542a580ec32bc"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9999954700469971,
+      "predicted_building_pixels": 0,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 8.758149587506647e-12
+    },
+    "sample_id": "EARTHQUAKE-TURKEY_000237",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b01",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/EARTHQUAKE-TURKEY_000237_b01_native256_contiguous.npz",
+    "cache_sha256": "e6da8c4e120c2031e798042349d43971d05b1d2b32868b36795e5db2dbcb98e6",
+    "coarse_rgb_sha256": null,
+    "declared_target": false,
+    "elapsed_seconds": 0.09210308303590864,
+    "event": "EARTHQUAKE-TURKEY",
+    "index": 4,
+    "input_mode": "native256_contiguous",
+    "input_tensor_sha256": "d39bb61ea086c822d0ecd69812ed0074d7df957765aa25d742ba589ef7b5ddb0",
+    "input_tensor_shape": [
+      1,
+      6,
+      256,
+      256
+    ],
+    "job": "EARTHQUAKE-TURKEY_000237_b01_native256_contiguous",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "766b1e6439a5c9d4bd8dca0e6decc0f0c9b2a932b52802cacc6aa85693f3a57b",
+      "ba1c491f3761cc32c376fc925b14c9d76bf3f5b8ee54b7845f489686b3a05ef3"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9999934434890747,
+      "predicted_building_pixels": 0,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 6.800052708422211e-12
+    },
+    "sample_id": "EARTHQUAKE-TURKEY_000237",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b10",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/EARTHQUAKE-TURKEY_000237_b10_native256_contiguous.npz",
+    "cache_sha256": "e6da8c4e120c2031e798042349d43971d05b1d2b32868b36795e5db2dbcb98e6",
+    "coarse_rgb_sha256": null,
+    "declared_target": false,
+    "elapsed_seconds": 0.08529783302219585,
+    "event": "EARTHQUAKE-TURKEY",
+    "index": 5,
+    "input_mode": "native256_contiguous",
+    "input_tensor_sha256": "a749e3b16da853bffed0495d23f53fb4e29c028ce1d9cf736a71c163998e9738",
+    "input_tensor_shape": [
+      1,
+      6,
+      256,
+      256
+    ],
+    "job": "EARTHQUAKE-TURKEY_000237_b10_native256_contiguous",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "320f88b5bea93bd30271c6916904899ccb7296fbf25793dd77b4e4011046b761",
+      "b07ef6dead46de96752d4e3a503db7b219832e92b8ca019b4c73ed0cb6499bf9"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.97968590259552,
+      "predicted_building_pixels": 5743,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 0.007610172964632511
+    },
+    "sample_id": "EARTHQUAKE-TURKEY_000237",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b11",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/EARTHQUAKE-TURKEY_000237_b11_native256_contiguous.npz",
+    "cache_sha256": "e6da8c4e120c2031e798042349d43971d05b1d2b32868b36795e5db2dbcb98e6",
+    "coarse_rgb_sha256": null,
+    "declared_target": false,
+    "elapsed_seconds": 0.08416595897870138,
+    "event": "EARTHQUAKE-TURKEY",
+    "index": 6,
+    "input_mode": "native256_contiguous",
+    "input_tensor_sha256": "e006b161b885301f78c670b4ba427159cb2e95a9fb37d45ea4bbec51df8340ca",
+    "input_tensor_shape": [
+      1,
+      6,
+      256,
+      256
+    ],
+    "job": "EARTHQUAKE-TURKEY_000237_b11_native256_contiguous",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "6e1cba89005251f5681492240d6458ba3324b4a422f53d92f7c967b5f29c6896",
+      "2ac0d7a20e40c5cff01fea6580c3515cb89360af7ee539c25e63d6811b1e66a1"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9697614908218384,
+      "predicted_building_pixels": 12557,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 0.00020389986457303166
+    },
+    "sample_id": "EARTHQUAKE-TURKEY_000237",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b00",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/EARTHQUAKE-TURKEY_000237_b00_free_coarse512_plus_native256.npz",
+    "cache_sha256": "b447d7d2fcfd62f39e072849bd793ceab7473828d6e785a62fc6b5e6484ef05a",
+    "coarse_rgb_sha256": [
+      "306334c8fa96bbe021027cd759dc354b5767665c13968d53f81741e450562d53",
+      "13af4f19eecc6e9c62592b743bc7504908f5b3b91c2d973d2b8fb15070b5f719"
+    ],
+    "declared_target": false,
+    "elapsed_seconds": 0.3620634159888141,
+    "event": "EARTHQUAKE-TURKEY",
+    "index": 7,
+    "input_mode": "free_coarse512_plus_native256",
+    "input_tensor_sha256": "95e3ad6e54b3eecf408327695eb983435dfade5f61b2820117615860f264a199",
+    "input_tensor_shape": [
+      1,
+      6,
+      512,
+      512
+    ],
+    "job": "EARTHQUAKE-TURKEY_000237_b00_free_coarse512_plus_native256",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "3381de4ca9f3a477f25989dfc8b744e7916046b7aa369f61a9a2f7dc0963ec9e",
+      "02ac33607d2328b25bae9031898e7360b5dc3c3b39a59b0aa12542a580ec32bc"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9819427132606506,
+      "predicted_building_pixels": 36359,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 4.112100577913225e-05
+    },
+    "sample_id": "EARTHQUAKE-TURKEY_000237",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b01",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/EARTHQUAKE-TURKEY_000237_b01_free_coarse512_plus_native256.npz",
+    "cache_sha256": "b447d7d2fcfd62f39e072849bd793ceab7473828d6e785a62fc6b5e6484ef05a",
+    "coarse_rgb_sha256": [
+      "306334c8fa96bbe021027cd759dc354b5767665c13968d53f81741e450562d53",
+      "13af4f19eecc6e9c62592b743bc7504908f5b3b91c2d973d2b8fb15070b5f719"
+    ],
+    "declared_target": false,
+    "elapsed_seconds": 0.23998966696672142,
+    "event": "EARTHQUAKE-TURKEY",
+    "index": 8,
+    "input_mode": "free_coarse512_plus_native256",
+    "input_tensor_sha256": "718af915f972ef4a28cc350eedd1d3359818ca526b0a35a6000e566c7d1de8eb",
+    "input_tensor_shape": [
+      1,
+      6,
+      512,
+      512
+    ],
+    "job": "EARTHQUAKE-TURKEY_000237_b01_free_coarse512_plus_native256",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "766b1e6439a5c9d4bd8dca0e6decc0f0c9b2a932b52802cacc6aa85693f3a57b",
+      "ba1c491f3761cc32c376fc925b14c9d76bf3f5b8ee54b7845f489686b3a05ef3"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9821271300315857,
+      "predicted_building_pixels": 36245,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 4.2929161281790584e-05
+    },
+    "sample_id": "EARTHQUAKE-TURKEY_000237",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b10",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/EARTHQUAKE-TURKEY_000237_b10_free_coarse512_plus_native256.npz",
+    "cache_sha256": "574a316f24b5e411ddb716c87e180f5b6387ac42041014d8c9488c6a8f8cce54",
+    "coarse_rgb_sha256": [
+      "306334c8fa96bbe021027cd759dc354b5767665c13968d53f81741e450562d53",
+      "13af4f19eecc6e9c62592b743bc7504908f5b3b91c2d973d2b8fb15070b5f719"
+    ],
+    "declared_target": true,
+    "elapsed_seconds": 0.24982216698117554,
+    "event": "EARTHQUAKE-TURKEY",
+    "index": 9,
+    "input_mode": "free_coarse512_plus_native256",
+    "input_tensor_sha256": "7322da74340fe997abbafea7e740db7dc2e4489ae47cace1df6cc566da3e5c09",
+    "input_tensor_shape": [
+      1,
+      6,
+      512,
+      512
+    ],
+    "job": "EARTHQUAKE-TURKEY_000237_b10_free_coarse512_plus_native256",
+    "predicted_severe_pixels": 16,
+    "purchased_rgb_sha256": [
+      "320f88b5bea93bd30271c6916904899ccb7296fbf25793dd77b4e4011046b761",
+      "b07ef6dead46de96752d4e3a503db7b219832e92b8ca019b4c73ed0cb6499bf9"
+    ],
+    "raw_summary": {
+      "declared_target": true,
+      "mean_max_damage_probability": 0.9868922233581543,
+      "predicted_building_pixels": 21239,
+      "predicted_severe_pixels": 16,
+      "uncalibrated_severe_score": 0.5558218359947205
+    },
+    "sample_id": "EARTHQUAKE-TURKEY_000237",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b11",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/EARTHQUAKE-TURKEY_000237_b11_free_coarse512_plus_native256.npz",
+    "cache_sha256": "b447d7d2fcfd62f39e072849bd793ceab7473828d6e785a62fc6b5e6484ef05a",
+    "coarse_rgb_sha256": [
+      "306334c8fa96bbe021027cd759dc354b5767665c13968d53f81741e450562d53",
+      "13af4f19eecc6e9c62592b743bc7504908f5b3b91c2d973d2b8fb15070b5f719"
+    ],
+    "declared_target": false,
+    "elapsed_seconds": 0.2663711659843102,
+    "event": "EARTHQUAKE-TURKEY",
+    "index": 10,
+    "input_mode": "free_coarse512_plus_native256",
+    "input_tensor_sha256": "18a0871bd5214f69c92ee5bfa760e0cbde8241c94801c30a47c146653fe8036e",
+    "input_tensor_shape": [
+      1,
+      6,
+      512,
+      512
+    ],
+    "job": "EARTHQUAKE-TURKEY_000237_b11_free_coarse512_plus_native256",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "6e1cba89005251f5681492240d6458ba3324b4a422f53d92f7c967b5f29c6896",
+      "2ac0d7a20e40c5cff01fea6580c3515cb89360af7ee539c25e63d6811b1e66a1"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9854423999786377,
+      "predicted_building_pixels": 22983,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 0.00023191234504338354
+    },
+    "sample_id": "EARTHQUAKE-TURKEY_000237",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b00",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/EARTHQUAKE-TURKEY_003472_b00_native256_contiguous.npz",
+    "cache_sha256": "e6da8c4e120c2031e798042349d43971d05b1d2b32868b36795e5db2dbcb98e6",
+    "coarse_rgb_sha256": null,
+    "declared_target": false,
+    "elapsed_seconds": 0.09963150002295151,
+    "event": "EARTHQUAKE-TURKEY",
+    "index": 11,
+    "input_mode": "native256_contiguous",
+    "input_tensor_sha256": "2b60ebf7ef6743c6812ea128e62435d6c977694f1a28f15d03d96c56f6294383",
+    "input_tensor_shape": [
+      1,
+      6,
+      256,
+      256
+    ],
+    "job": "EARTHQUAKE-TURKEY_003472_b00_native256_contiguous",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "3381de4ca9f3a477f25989dfc8b744e7916046b7aa369f61a9a2f7dc0963ec9e",
+      "f75de6417df2fa3230778505a4983888af5dac4eb6de1cc1b59976402aa67176"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9999980330467224,
+      "predicted_building_pixels": 0,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 1.0714895984365036e-11
+    },
+    "sample_id": "EARTHQUAKE-TURKEY_003472",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b01",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/EARTHQUAKE-TURKEY_003472_b01_native256_contiguous.npz",
+    "cache_sha256": "e6da8c4e120c2031e798042349d43971d05b1d2b32868b36795e5db2dbcb98e6",
+    "coarse_rgb_sha256": null,
+    "declared_target": false,
+    "elapsed_seconds": 0.08475770801305771,
+    "event": "EARTHQUAKE-TURKEY",
+    "index": 12,
+    "input_mode": "native256_contiguous",
+    "input_tensor_sha256": "75fef0f4535cbacd2a5081f3fa3faa53c1f8dda2a764b6488c5d151600789261",
+    "input_tensor_shape": [
+      1,
+      6,
+      256,
+      256
+    ],
+    "job": "EARTHQUAKE-TURKEY_003472_b01_native256_contiguous",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "3381de4ca9f3a477f25989dfc8b744e7916046b7aa369f61a9a2f7dc0963ec9e",
+      "802e48d7f10ca7e29bc186ce2b23c466c5a0e809cb71038806e659e825c61038"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9999980926513672,
+      "predicted_building_pixels": 0,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 1.0507154174499433e-11
+    },
+    "sample_id": "EARTHQUAKE-TURKEY_003472",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b10",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/EARTHQUAKE-TURKEY_003472_b10_native256_contiguous.npz",
+    "cache_sha256": "e6da8c4e120c2031e798042349d43971d05b1d2b32868b36795e5db2dbcb98e6",
+    "coarse_rgb_sha256": null,
+    "declared_target": false,
+    "elapsed_seconds": 0.08540974999777973,
+    "event": "EARTHQUAKE-TURKEY",
+    "index": 13,
+    "input_mode": "native256_contiguous",
+    "input_tensor_sha256": "6c5e2a7ed5794252a3a067a0e9108aada65a5abf1f3af8cfdc452b3dfda79e5b",
+    "input_tensor_shape": [
+      1,
+      6,
+      256,
+      256
+    ],
+    "job": "EARTHQUAKE-TURKEY_003472_b10_native256_contiguous",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "8447929cb1e6051ee78caff1525427956cc47c811f13f801569a060078fc01ab",
+      "a7ecda9c69c94ea23a324075dbe13521eff9080d5f9014cd3de1c36f1d8d7c8e"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9999978542327881,
+      "predicted_building_pixels": 0,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 1.0972830283284551e-11
+    },
+    "sample_id": "EARTHQUAKE-TURKEY_003472",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b11",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/EARTHQUAKE-TURKEY_003472_b11_native256_contiguous.npz",
+    "cache_sha256": "e6da8c4e120c2031e798042349d43971d05b1d2b32868b36795e5db2dbcb98e6",
+    "coarse_rgb_sha256": null,
+    "declared_target": false,
+    "elapsed_seconds": 0.08610820799367502,
+    "event": "EARTHQUAKE-TURKEY",
+    "index": 14,
+    "input_mode": "native256_contiguous",
+    "input_tensor_sha256": "4e0f7ad900d5753231ecddfe854e9555a9b7cb27093dbf9cd33adfc62608d392",
+    "input_tensor_shape": [
+      1,
+      6,
+      256,
+      256
+    ],
+    "job": "EARTHQUAKE-TURKEY_003472_b11_native256_contiguous",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "3f8f38578564f417c1d2f4c1788ba38e8ae158fb16e169187ad2900c1722b493",
+      "a343c99f3913df75093119289a44f38d052146c7cc71a598aa1f3ee2d013e8ee"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9999694228172302,
+      "predicted_building_pixels": 0,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 2.968811895698309e-05
+    },
+    "sample_id": "EARTHQUAKE-TURKEY_003472",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b00",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/EARTHQUAKE-TURKEY_003472_b00_free_coarse512_plus_native256.npz",
+    "cache_sha256": "b447d7d2fcfd62f39e072849bd793ceab7473828d6e785a62fc6b5e6484ef05a",
+    "coarse_rgb_sha256": [
+      "8a8e34e46ecf36de25eab7a3adb0c57558a7fd831b5d2e99bb3dad7106868d43",
+      "bbc1e9fa0c30f6ca41ce788a74a18878f0a576ae54e1dbf8af092f646fea1855"
+    ],
+    "declared_target": false,
+    "elapsed_seconds": 0.2617890830151737,
+    "event": "EARTHQUAKE-TURKEY",
+    "index": 15,
+    "input_mode": "free_coarse512_plus_native256",
+    "input_tensor_sha256": "53dd49041636911edc70c74b3114e1eb9d1235ca6b4f27b48d8ecaf4c707d489",
+    "input_tensor_shape": [
+      1,
+      6,
+      512,
+      512
+    ],
+    "job": "EARTHQUAKE-TURKEY_003472_b00_free_coarse512_plus_native256",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "3381de4ca9f3a477f25989dfc8b744e7916046b7aa369f61a9a2f7dc0963ec9e",
+      "f75de6417df2fa3230778505a4983888af5dac4eb6de1cc1b59976402aa67176"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9999505877494812,
+      "predicted_building_pixels": 0,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 2.5456065486650914e-06
+    },
+    "sample_id": "EARTHQUAKE-TURKEY_003472",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b01",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/EARTHQUAKE-TURKEY_003472_b01_free_coarse512_plus_native256.npz",
+    "cache_sha256": "b447d7d2fcfd62f39e072849bd793ceab7473828d6e785a62fc6b5e6484ef05a",
+    "coarse_rgb_sha256": [
+      "8a8e34e46ecf36de25eab7a3adb0c57558a7fd831b5d2e99bb3dad7106868d43",
+      "bbc1e9fa0c30f6ca41ce788a74a18878f0a576ae54e1dbf8af092f646fea1855"
+    ],
+    "declared_target": false,
+    "elapsed_seconds": 0.2568597079953179,
+    "event": "EARTHQUAKE-TURKEY",
+    "index": 16,
+    "input_mode": "free_coarse512_plus_native256",
+    "input_tensor_sha256": "ca721424568cfcbfa489300b833bd1f7390b739623cbd089da093b200025cac6",
+    "input_tensor_shape": [
+      1,
+      6,
+      512,
+      512
+    ],
+    "job": "EARTHQUAKE-TURKEY_003472_b01_free_coarse512_plus_native256",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "3381de4ca9f3a477f25989dfc8b744e7916046b7aa369f61a9a2f7dc0963ec9e",
+      "802e48d7f10ca7e29bc186ce2b23c466c5a0e809cb71038806e659e825c61038"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9999518394470215,
+      "predicted_building_pixels": 0,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 2.699016476981342e-06
+    },
+    "sample_id": "EARTHQUAKE-TURKEY_003472",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b10",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/EARTHQUAKE-TURKEY_003472_b10_free_coarse512_plus_native256.npz",
+    "cache_sha256": "b447d7d2fcfd62f39e072849bd793ceab7473828d6e785a62fc6b5e6484ef05a",
+    "coarse_rgb_sha256": [
+      "8a8e34e46ecf36de25eab7a3adb0c57558a7fd831b5d2e99bb3dad7106868d43",
+      "bbc1e9fa0c30f6ca41ce788a74a18878f0a576ae54e1dbf8af092f646fea1855"
+    ],
+    "declared_target": false,
+    "elapsed_seconds": 0.25566904101287946,
+    "event": "EARTHQUAKE-TURKEY",
+    "index": 17,
+    "input_mode": "free_coarse512_plus_native256",
+    "input_tensor_sha256": "2a4a87388408f3d89f2afb5628b6c0ff08a0402ea64a6bf006dde820b8aad41e",
+    "input_tensor_shape": [
+      1,
+      6,
+      512,
+      512
+    ],
+    "job": "EARTHQUAKE-TURKEY_003472_b10_free_coarse512_plus_native256",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "8447929cb1e6051ee78caff1525427956cc47c811f13f801569a060078fc01ab",
+      "a7ecda9c69c94ea23a324075dbe13521eff9080d5f9014cd3de1c36f1d8d7c8e"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9999628067016602,
+      "predicted_building_pixels": 0,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 4.741523753182264e-06
+    },
+    "sample_id": "EARTHQUAKE-TURKEY_003472",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b11",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/EARTHQUAKE-TURKEY_003472_b11_free_coarse512_plus_native256.npz",
+    "cache_sha256": "b447d7d2fcfd62f39e072849bd793ceab7473828d6e785a62fc6b5e6484ef05a",
+    "coarse_rgb_sha256": [
+      "8a8e34e46ecf36de25eab7a3adb0c57558a7fd831b5d2e99bb3dad7106868d43",
+      "bbc1e9fa0c30f6ca41ce788a74a18878f0a576ae54e1dbf8af092f646fea1855"
+    ],
+    "declared_target": false,
+    "elapsed_seconds": 0.2458875419688411,
+    "event": "EARTHQUAKE-TURKEY",
+    "index": 18,
+    "input_mode": "free_coarse512_plus_native256",
+    "input_tensor_sha256": "68a8e65671369a1c46c9d16e85333c4a1c5cb963a97054093c049bc722e91eb5",
+    "input_tensor_shape": [
+      1,
+      6,
+      512,
+      512
+    ],
+    "job": "EARTHQUAKE-TURKEY_003472_b11_free_coarse512_plus_native256",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "3f8f38578564f417c1d2f4c1788ba38e8ae158fb16e169187ad2900c1722b493",
+      "a343c99f3913df75093119289a44f38d052146c7cc71a598aa1f3ee2d013e8ee"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9999856948852539,
+      "predicted_building_pixels": 0,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 0.00011752630962291732
+    },
+    "sample_id": "EARTHQUAKE-TURKEY_003472",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b00",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/EARTHQUAKE-TURKEY_005459_b00_native256_contiguous.npz",
+    "cache_sha256": "e6da8c4e120c2031e798042349d43971d05b1d2b32868b36795e5db2dbcb98e6",
+    "coarse_rgb_sha256": null,
+    "declared_target": false,
+    "elapsed_seconds": 0.09369212499586865,
+    "event": "EARTHQUAKE-TURKEY",
+    "index": 19,
+    "input_mode": "native256_contiguous",
+    "input_tensor_sha256": "10f14768c15b37abeb9c73f7ae7d33e44ccf1fd33f6f4d670c539fdb7d02dcdb",
+    "input_tensor_shape": [
+      1,
+      6,
+      256,
+      256
+    ],
+    "job": "EARTHQUAKE-TURKEY_005459_b00_native256_contiguous",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "7e7cbd8b7aa7858a161e6a1e2ba90e03eee6231eb50b4296c9ba94b66b6e1b6c",
+      "90fd5d8b8ab49650ff9d955165ad39b743b26d9a2c5930d322cafd4f4f13391b"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9683045148849487,
+      "predicted_building_pixels": 10743,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 0.005193550139665604
+    },
+    "sample_id": "EARTHQUAKE-TURKEY_005459",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b01",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/EARTHQUAKE-TURKEY_005459_b01_native256_contiguous.npz",
+    "cache_sha256": "910f0addbbc86dededcef99e5a7091070eeca0648017b3918d262e9ef417de68",
+    "coarse_rgb_sha256": null,
+    "declared_target": true,
+    "elapsed_seconds": 0.0900839589885436,
+    "event": "EARTHQUAKE-TURKEY",
+    "index": 20,
+    "input_mode": "native256_contiguous",
+    "input_tensor_sha256": "68aaccccd0efea5fb0f180fbe26e3fad776af963b872eb33191b948ef1ebbf4a",
+    "input_tensor_shape": [
+      1,
+      6,
+      256,
+      256
+    ],
+    "job": "EARTHQUAKE-TURKEY_005459_b01_native256_contiguous",
+    "predicted_severe_pixels": 4731,
+    "purchased_rgb_sha256": [
+      "d24f3a9cb23a929609d01775a11b01e146546ce26b7ca007c8cb0ae243f260f1",
+      "020051211679ef8c1aa964f9b4dcf0e83c78ba3de4807b396bebff5eaa8550fb"
+    ],
+    "raw_summary": {
+      "declared_target": true,
+      "mean_max_damage_probability": 0.9796878695487976,
+      "predicted_building_pixels": 10378,
+      "predicted_severe_pixels": 4731,
+      "uncalibrated_severe_score": 0.999304473400116
+    },
+    "sample_id": "EARTHQUAKE-TURKEY_005459",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b10",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/EARTHQUAKE-TURKEY_005459_b10_native256_contiguous.npz",
+    "cache_sha256": "e6da8c4e120c2031e798042349d43971d05b1d2b32868b36795e5db2dbcb98e6",
+    "coarse_rgb_sha256": null,
+    "declared_target": false,
+    "elapsed_seconds": 0.0943798340158537,
+    "event": "EARTHQUAKE-TURKEY",
+    "index": 21,
+    "input_mode": "native256_contiguous",
+    "input_tensor_sha256": "59aeeb9eb6e782402a31cb2f2a3edaece6800174f279421750432faa8f8385dc",
+    "input_tensor_shape": [
+      1,
+      6,
+      256,
+      256
+    ],
+    "job": "EARTHQUAKE-TURKEY_005459_b10_native256_contiguous",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "3701d1d5774cb55771cb55840b11aa7ba9928c4d84e3b2b2f19df165a9b1f995",
+      "c4845e53f62f821d2f7ee337878958ef19e3fa3d13494e26e1a09d57d5533ae6"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9563853740692139,
+      "predicted_building_pixels": 14675,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 0.00012837980466429144
+    },
+    "sample_id": "EARTHQUAKE-TURKEY_005459",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b11",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/EARTHQUAKE-TURKEY_005459_b11_native256_contiguous.npz",
+    "cache_sha256": "e6da8c4e120c2031e798042349d43971d05b1d2b32868b36795e5db2dbcb98e6",
+    "coarse_rgb_sha256": null,
+    "declared_target": false,
+    "elapsed_seconds": 0.08119295799406245,
+    "event": "EARTHQUAKE-TURKEY",
+    "index": 22,
+    "input_mode": "native256_contiguous",
+    "input_tensor_sha256": "27cdab48a5267c4998477b834028446d91f1488ea5134746825c032059433e08",
+    "input_tensor_shape": [
+      1,
+      6,
+      256,
+      256
+    ],
+    "job": "EARTHQUAKE-TURKEY_005459_b11_native256_contiguous",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "1ef614f1f59352b4c2f1d3c6cadc412ab556f40306c144679cbdf4d447efd1d5",
+      "cf6a583dcdb419de8929699260210e4e30ae5f7547923fb06bd7bd2e3361b05e"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9794222712516785,
+      "predicted_building_pixels": 11813,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 0.005336020141839981
+    },
+    "sample_id": "EARTHQUAKE-TURKEY_005459",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b00",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/EARTHQUAKE-TURKEY_005459_b00_free_coarse512_plus_native256.npz",
+    "cache_sha256": "b447d7d2fcfd62f39e072849bd793ceab7473828d6e785a62fc6b5e6484ef05a",
+    "coarse_rgb_sha256": [
+      "3abcc1e737273395b816bd8535b7c4a449b979bc877c92432a1309d27764f099",
+      "bf333815b4499d1ba41e3d7deb63e3680cec1483da24ac1e0a18226e8ccc0d99"
+    ],
+    "declared_target": false,
+    "elapsed_seconds": 0.27782179100904614,
+    "event": "EARTHQUAKE-TURKEY",
+    "index": 23,
+    "input_mode": "free_coarse512_plus_native256",
+    "input_tensor_sha256": "437b4d83e3c42ab4df9daa026931be7a7c43ab8026885f3fc7edaaf97f12fcd5",
+    "input_tensor_shape": [
+      1,
+      6,
+      512,
+      512
+    ],
+    "job": "EARTHQUAKE-TURKEY_005459_b00_free_coarse512_plus_native256",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "7e7cbd8b7aa7858a161e6a1e2ba90e03eee6231eb50b4296c9ba94b66b6e1b6c",
+      "90fd5d8b8ab49650ff9d955165ad39b743b26d9a2c5930d322cafd4f4f13391b"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9789674282073975,
+      "predicted_building_pixels": 32438,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 0.0009778456296771765
+    },
+    "sample_id": "EARTHQUAKE-TURKEY_005459",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b01",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/EARTHQUAKE-TURKEY_005459_b01_free_coarse512_plus_native256.npz",
+    "cache_sha256": "2d9bd8d467069041c5f7d134d0743fcc0aa11fe1bb3ef66b58be574c8639edf7",
+    "coarse_rgb_sha256": [
+      "3abcc1e737273395b816bd8535b7c4a449b979bc877c92432a1309d27764f099",
+      "bf333815b4499d1ba41e3d7deb63e3680cec1483da24ac1e0a18226e8ccc0d99"
+    ],
+    "declared_target": true,
+    "elapsed_seconds": 0.26018400001339614,
+    "event": "EARTHQUAKE-TURKEY",
+    "index": 24,
+    "input_mode": "free_coarse512_plus_native256",
+    "input_tensor_sha256": "4dbdac9bf46a729edb4e334c1969a35f5bd4bb7a6513c35f95fcf3a904385dbb",
+    "input_tensor_shape": [
+      1,
+      6,
+      512,
+      512
+    ],
+    "job": "EARTHQUAKE-TURKEY_005459_b01_free_coarse512_plus_native256",
+    "predicted_severe_pixels": 3659,
+    "purchased_rgb_sha256": [
+      "d24f3a9cb23a929609d01775a11b01e146546ce26b7ca007c8cb0ae243f260f1",
+      "020051211679ef8c1aa964f9b4dcf0e83c78ba3de4807b396bebff5eaa8550fb"
+    ],
+    "raw_summary": {
+      "declared_target": true,
+      "mean_max_damage_probability": 0.9808777570724487,
+      "predicted_building_pixels": 35849,
+      "predicted_severe_pixels": 3659,
+      "uncalibrated_severe_score": 0.9992067813873291
+    },
+    "sample_id": "EARTHQUAKE-TURKEY_005459",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b10",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/EARTHQUAKE-TURKEY_005459_b10_free_coarse512_plus_native256.npz",
+    "cache_sha256": "b447d7d2fcfd62f39e072849bd793ceab7473828d6e785a62fc6b5e6484ef05a",
+    "coarse_rgb_sha256": [
+      "3abcc1e737273395b816bd8535b7c4a449b979bc877c92432a1309d27764f099",
+      "bf333815b4499d1ba41e3d7deb63e3680cec1483da24ac1e0a18226e8ccc0d99"
+    ],
+    "declared_target": false,
+    "elapsed_seconds": 0.24808520800434053,
+    "event": "EARTHQUAKE-TURKEY",
+    "index": 25,
+    "input_mode": "free_coarse512_plus_native256",
+    "input_tensor_sha256": "91e5b521e803057495951715441d0796373f3352f3c92fed1efc56f80108f4fd",
+    "input_tensor_shape": [
+      1,
+      6,
+      512,
+      512
+    ],
+    "job": "EARTHQUAKE-TURKEY_005459_b10_free_coarse512_plus_native256",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "3701d1d5774cb55771cb55840b11aa7ba9928c4d84e3b2b2f19df165a9b1f995",
+      "c4845e53f62f821d2f7ee337878958ef19e3fa3d13494e26e1a09d57d5533ae6"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9802740812301636,
+      "predicted_building_pixels": 35156,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 0.0014376519247889519
+    },
+    "sample_id": "EARTHQUAKE-TURKEY_005459",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b11",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/EARTHQUAKE-TURKEY_005459_b11_free_coarse512_plus_native256.npz",
+    "cache_sha256": "b447d7d2fcfd62f39e072849bd793ceab7473828d6e785a62fc6b5e6484ef05a",
+    "coarse_rgb_sha256": [
+      "3abcc1e737273395b816bd8535b7c4a449b979bc877c92432a1309d27764f099",
+      "bf333815b4499d1ba41e3d7deb63e3680cec1483da24ac1e0a18226e8ccc0d99"
+    ],
+    "declared_target": false,
+    "elapsed_seconds": 0.25457699998514727,
+    "event": "EARTHQUAKE-TURKEY",
+    "index": 26,
+    "input_mode": "free_coarse512_plus_native256",
+    "input_tensor_sha256": "ee7253f53305c03f42318674f7b097c8e1abcc5a8579c14801db91e27b4f346b",
+    "input_tensor_shape": [
+      1,
+      6,
+      512,
+      512
+    ],
+    "job": "EARTHQUAKE-TURKEY_005459_b11_free_coarse512_plus_native256",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "1ef614f1f59352b4c2f1d3c6cadc412ab556f40306c144679cbdf4d447efd1d5",
+      "cf6a583dcdb419de8929699260210e4e30ae5f7547923fb06bd7bd2e3361b05e"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9864780306816101,
+      "predicted_building_pixels": 37401,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 0.0003138399333693087
+    },
+    "sample_id": "EARTHQUAKE-TURKEY_005459",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b00",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/EARTHQUAKE-TURKEY_006807_b00_native256_contiguous.npz",
+    "cache_sha256": "e6da8c4e120c2031e798042349d43971d05b1d2b32868b36795e5db2dbcb98e6",
+    "coarse_rgb_sha256": null,
+    "declared_target": false,
+    "elapsed_seconds": 0.09695720800664276,
+    "event": "EARTHQUAKE-TURKEY",
+    "index": 27,
+    "input_mode": "native256_contiguous",
+    "input_tensor_sha256": "03aef7330b22261a2f2733cbce95e26696856741c329e9ab0bf3f39eed587788",
+    "input_tensor_shape": [
+      1,
+      6,
+      256,
+      256
+    ],
+    "job": "EARTHQUAKE-TURKEY_006807_b00_native256_contiguous",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "bde787c3084b958122f9c759d881294b29d9a4e1a23db733f02f15d135f36a21",
+      "6e2cc0c060fb00f0d188482077a65928c080fa87a8308e06abe9b0f77643f4ee"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9993383884429932,
+      "predicted_building_pixels": 108,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 5.397056884248741e-05
+    },
+    "sample_id": "EARTHQUAKE-TURKEY_006807",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b01",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/EARTHQUAKE-TURKEY_006807_b01_native256_contiguous.npz",
+    "cache_sha256": "e6da8c4e120c2031e798042349d43971d05b1d2b32868b36795e5db2dbcb98e6",
+    "coarse_rgb_sha256": null,
+    "declared_target": false,
+    "elapsed_seconds": 0.08660591597435996,
+    "event": "EARTHQUAKE-TURKEY",
+    "index": 28,
+    "input_mode": "native256_contiguous",
+    "input_tensor_sha256": "56dfc2e93d8227e8ff70aa3ab4faa1232fe766683ab68d6e6be6ad081c527aec",
+    "input_tensor_shape": [
+      1,
+      6,
+      256,
+      256
+    ],
+    "job": "EARTHQUAKE-TURKEY_006807_b01_native256_contiguous",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "5f9da06588a8453871d53e1b85e2b5416aa1b3c808c5efc0278a923fa66687d2",
+      "16cfae090b79fab468477d12eaadca047ec771e8914f11057b682c3a8ba89e2d"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9998805522918701,
+      "predicted_building_pixels": 0,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 1.3984110580622655e-07
+    },
+    "sample_id": "EARTHQUAKE-TURKEY_006807",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b10",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/EARTHQUAKE-TURKEY_006807_b10_native256_contiguous.npz",
+    "cache_sha256": "e6da8c4e120c2031e798042349d43971d05b1d2b32868b36795e5db2dbcb98e6",
+    "coarse_rgb_sha256": null,
+    "declared_target": false,
+    "elapsed_seconds": 0.08460362500045449,
+    "event": "EARTHQUAKE-TURKEY",
+    "index": 29,
+    "input_mode": "native256_contiguous",
+    "input_tensor_sha256": "f746da4472a98960e015f57c52fa815efcb2dc91c310c9424bab3b7997128a15",
+    "input_tensor_shape": [
+      1,
+      6,
+      256,
+      256
+    ],
+    "job": "EARTHQUAKE-TURKEY_006807_b10_native256_contiguous",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "25bb8456d75751bdea8cd12da9a1b9642ede9bb291f20c851702f1e6eacd4ef6",
+      "73efeeffc4d56f5894ea76e1b0747499ea9d69fab3b701ea089253ff1d216320"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9667776823043823,
+      "predicted_building_pixels": 13317,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 0.00019467531819827855
+    },
+    "sample_id": "EARTHQUAKE-TURKEY_006807",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b11",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/EARTHQUAKE-TURKEY_006807_b11_native256_contiguous.npz",
+    "cache_sha256": "d3b2a00b4cad64ce055b50db3efd07d04d4eeaafbdfda9a7204706fd32162bf0",
+    "coarse_rgb_sha256": null,
+    "declared_target": true,
+    "elapsed_seconds": 0.08720904099754989,
+    "event": "EARTHQUAKE-TURKEY",
+    "index": 30,
+    "input_mode": "native256_contiguous",
+    "input_tensor_sha256": "62050d2eac968e854320779ddbf9c4d81fbc902250bdc88d9fa83d37efae9127",
+    "input_tensor_shape": [
+      1,
+      6,
+      256,
+      256
+    ],
+    "job": "EARTHQUAKE-TURKEY_006807_b11_native256_contiguous",
+    "predicted_severe_pixels": 527,
+    "purchased_rgb_sha256": [
+      "c52424ce0a41e8b1d98e7fdbc120b2835e8f4f8aceb1056496ba9ff675ae2730",
+      "8b32546238962b07198e89e1376638f6878397603dcb43c9599291f5b5713323"
+    ],
+    "raw_summary": {
+      "declared_target": true,
+      "mean_max_damage_probability": 0.9824144840240479,
+      "predicted_building_pixels": 4941,
+      "predicted_severe_pixels": 527,
+      "uncalibrated_severe_score": 0.9968703985214233
+    },
+    "sample_id": "EARTHQUAKE-TURKEY_006807",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b00",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/EARTHQUAKE-TURKEY_006807_b00_free_coarse512_plus_native256.npz",
+    "cache_sha256": "b447d7d2fcfd62f39e072849bd793ceab7473828d6e785a62fc6b5e6484ef05a",
+    "coarse_rgb_sha256": [
+      "ec9348f02d7dbffb4eeb805e9a6867211ebbc0a251bc45d7a386fc7bfd31a313",
+      "05e9e7c3f5c8ce8087e405e75f0e9b1335fe74405894c183704172abd9766044"
+    ],
+    "declared_target": false,
+    "elapsed_seconds": 0.27204925002297387,
+    "event": "EARTHQUAKE-TURKEY",
+    "index": 31,
+    "input_mode": "free_coarse512_plus_native256",
+    "input_tensor_sha256": "86f6f69253666648e132e5b849593d30479c6f8ab33f69ac59e9525cdf06a80b",
+    "input_tensor_shape": [
+      1,
+      6,
+      512,
+      512
+    ],
+    "job": "EARTHQUAKE-TURKEY_006807_b00_free_coarse512_plus_native256",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "bde787c3084b958122f9c759d881294b29d9a4e1a23db733f02f15d135f36a21",
+      "6e2cc0c060fb00f0d188482077a65928c080fa87a8308e06abe9b0f77643f4ee"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.985078752040863,
+      "predicted_building_pixels": 20252,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 6.126915104687214e-05
+    },
+    "sample_id": "EARTHQUAKE-TURKEY_006807",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b01",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/EARTHQUAKE-TURKEY_006807_b01_free_coarse512_plus_native256.npz",
+    "cache_sha256": "b447d7d2fcfd62f39e072849bd793ceab7473828d6e785a62fc6b5e6484ef05a",
+    "coarse_rgb_sha256": [
+      "ec9348f02d7dbffb4eeb805e9a6867211ebbc0a251bc45d7a386fc7bfd31a313",
+      "05e9e7c3f5c8ce8087e405e75f0e9b1335fe74405894c183704172abd9766044"
+    ],
+    "declared_target": false,
+    "elapsed_seconds": 0.2689381670206785,
+    "event": "EARTHQUAKE-TURKEY",
+    "index": 32,
+    "input_mode": "free_coarse512_plus_native256",
+    "input_tensor_sha256": "d14f4ef0332d6358dd7d0fe9f7c24b190f7b099f784876487bec234aad9b76da",
+    "input_tensor_shape": [
+      1,
+      6,
+      512,
+      512
+    ],
+    "job": "EARTHQUAKE-TURKEY_006807_b01_free_coarse512_plus_native256",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "5f9da06588a8453871d53e1b85e2b5416aa1b3c808c5efc0278a923fa66687d2",
+      "16cfae090b79fab468477d12eaadca047ec771e8914f11057b682c3a8ba89e2d"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9861559867858887,
+      "predicted_building_pixels": 20734,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 6.905436021042988e-05
+    },
+    "sample_id": "EARTHQUAKE-TURKEY_006807",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b10",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/EARTHQUAKE-TURKEY_006807_b10_free_coarse512_plus_native256.npz",
+    "cache_sha256": "b447d7d2fcfd62f39e072849bd793ceab7473828d6e785a62fc6b5e6484ef05a",
+    "coarse_rgb_sha256": [
+      "ec9348f02d7dbffb4eeb805e9a6867211ebbc0a251bc45d7a386fc7bfd31a313",
+      "05e9e7c3f5c8ce8087e405e75f0e9b1335fe74405894c183704172abd9766044"
+    ],
+    "declared_target": false,
+    "elapsed_seconds": 0.2570152499829419,
+    "event": "EARTHQUAKE-TURKEY",
+    "index": 33,
+    "input_mode": "free_coarse512_plus_native256",
+    "input_tensor_sha256": "56a478ae6fa915a85f2c04a0c748b64429859569d714a786fbfff0eaad45e4b4",
+    "input_tensor_shape": [
+      1,
+      6,
+      512,
+      512
+    ],
+    "job": "EARTHQUAKE-TURKEY_006807_b10_free_coarse512_plus_native256",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "25bb8456d75751bdea8cd12da9a1b9642ede9bb291f20c851702f1e6eacd4ef6",
+      "73efeeffc4d56f5894ea76e1b0747499ea9d69fab3b701ea089253ff1d216320"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9815813899040222,
+      "predicted_building_pixels": 29161,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 0.0005521844141185284
+    },
+    "sample_id": "EARTHQUAKE-TURKEY_006807",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b11",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/EARTHQUAKE-TURKEY_006807_b11_free_coarse512_plus_native256.npz",
+    "cache_sha256": "3688290ba8c3843d71e0c8d5cb2061eab46584bd9a9834c509eb96a32b9350a0",
+    "coarse_rgb_sha256": [
+      "ec9348f02d7dbffb4eeb805e9a6867211ebbc0a251bc45d7a386fc7bfd31a313",
+      "05e9e7c3f5c8ce8087e405e75f0e9b1335fe74405894c183704172abd9766044"
+    ],
+    "declared_target": true,
+    "elapsed_seconds": 0.26674087496940047,
+    "event": "EARTHQUAKE-TURKEY",
+    "index": 34,
+    "input_mode": "free_coarse512_plus_native256",
+    "input_tensor_sha256": "bdbd681783cfde6eca9481bcd907332df4ef48f9a5b26ba6b681c34dfbfc61d1",
+    "input_tensor_shape": [
+      1,
+      6,
+      512,
+      512
+    ],
+    "job": "EARTHQUAKE-TURKEY_006807_b11_free_coarse512_plus_native256",
+    "predicted_severe_pixels": 533,
+    "purchased_rgb_sha256": [
+      "c52424ce0a41e8b1d98e7fdbc120b2835e8f4f8aceb1056496ba9ff675ae2730",
+      "8b32546238962b07198e89e1376638f6878397603dcb43c9599291f5b5713323"
+    ],
+    "raw_summary": {
+      "declared_target": true,
+      "mean_max_damage_probability": 0.9912304878234863,
+      "predicted_building_pixels": 12619,
+      "predicted_severe_pixels": 533,
+      "uncalibrated_severe_score": 0.9976309537887573
+    },
+    "sample_id": "EARTHQUAKE-TURKEY_006807",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b00",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/EARTHQUAKE-TURKEY_012987_b00_native256_contiguous.npz",
+    "cache_sha256": "e6da8c4e120c2031e798042349d43971d05b1d2b32868b36795e5db2dbcb98e6",
+    "coarse_rgb_sha256": null,
+    "declared_target": false,
+    "elapsed_seconds": 0.10433762503089383,
+    "event": "EARTHQUAKE-TURKEY",
+    "index": 35,
+    "input_mode": "native256_contiguous",
+    "input_tensor_sha256": "a6e67b7f552b66d3e3fba87b702e950f1d472b3630561c6bab3616902c410cf9",
+    "input_tensor_shape": [
+      1,
+      6,
+      256,
+      256
+    ],
+    "job": "EARTHQUAKE-TURKEY_012987_b00_native256_contiguous",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "278aab46c9ee2c9e22f6ee8aaaced93d451ea80ba9c8f86fbec027a3a0053cbe",
+      "be0e2f89f09111994c8b6382547195b0843d3eb76e678b1dd5fb60e62e5b1ff8"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9543858766555786,
+      "predicted_building_pixels": 15911,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 0.0028561758808791637
+    },
+    "sample_id": "EARTHQUAKE-TURKEY_012987",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b01",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/EARTHQUAKE-TURKEY_012987_b01_native256_contiguous.npz",
+    "cache_sha256": "0add87e51da5951da50786ad3a6a07030193401423f2964a30e939fc1967c038",
+    "coarse_rgb_sha256": null,
+    "declared_target": true,
+    "elapsed_seconds": 0.08019295800477266,
+    "event": "EARTHQUAKE-TURKEY",
+    "index": 36,
+    "input_mode": "native256_contiguous",
+    "input_tensor_sha256": "994fa60863bff1d54bc9c90233ac724596991643c678defb45e97b1afbc7f5e4",
+    "input_tensor_shape": [
+      1,
+      6,
+      256,
+      256
+    ],
+    "job": "EARTHQUAKE-TURKEY_012987_b01_native256_contiguous",
+    "predicted_severe_pixels": 2012,
+    "purchased_rgb_sha256": [
+      "79ce4dfe25116185e43d0701ee7f99bdb7773dd4c090fe973c79c08fb41f42c4",
+      "6aec76e88197560ac6e86145f98d7fec2907a5aa28019957833147786794b703"
+    ],
+    "raw_summary": {
+      "declared_target": true,
+      "mean_max_damage_probability": 0.9061934947967529,
+      "predicted_building_pixels": 31430,
+      "predicted_severe_pixels": 2012,
+      "uncalibrated_severe_score": 0.980195164680481
+    },
+    "sample_id": "EARTHQUAKE-TURKEY_012987",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b10",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/EARTHQUAKE-TURKEY_012987_b10_native256_contiguous.npz",
+    "cache_sha256": "c773cbd750bb5444474b0fedcedd54a6b8a7f411d7b7ab16a6f963e0336cee0f",
+    "coarse_rgb_sha256": null,
+    "declared_target": true,
+    "elapsed_seconds": 0.08274687500670552,
+    "event": "EARTHQUAKE-TURKEY",
+    "index": 37,
+    "input_mode": "native256_contiguous",
+    "input_tensor_sha256": "5420931b73738ee6934e975c4a89bb6c1271432be1c915325c69d5dce64d2479",
+    "input_tensor_shape": [
+      1,
+      6,
+      256,
+      256
+    ],
+    "job": "EARTHQUAKE-TURKEY_012987_b10_native256_contiguous",
+    "predicted_severe_pixels": 765,
+    "purchased_rgb_sha256": [
+      "77a318e36827c192b568973fc3e67e1d2d940a1ad1644c462781dfa27325a3d1",
+      "f24d07169e833d1c60ffc2b0456173d57c71dff5ecf737bfe55af6e66ba93143"
+    ],
+    "raw_summary": {
+      "declared_target": true,
+      "mean_max_damage_probability": 0.9565919637680054,
+      "predicted_building_pixels": 11725,
+      "predicted_severe_pixels": 765,
+      "uncalibrated_severe_score": 0.9809592962265015
+    },
+    "sample_id": "EARTHQUAKE-TURKEY_012987",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b11",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/EARTHQUAKE-TURKEY_012987_b11_native256_contiguous.npz",
+    "cache_sha256": "e6da8c4e120c2031e798042349d43971d05b1d2b32868b36795e5db2dbcb98e6",
+    "coarse_rgb_sha256": null,
+    "declared_target": false,
+    "elapsed_seconds": 0.08667187503306195,
+    "event": "EARTHQUAKE-TURKEY",
+    "index": 38,
+    "input_mode": "native256_contiguous",
+    "input_tensor_sha256": "6a1274fff7e01c97f6591334b8d72bee68cd0721f166f5b181458b726f05fef7",
+    "input_tensor_shape": [
+      1,
+      6,
+      256,
+      256
+    ],
+    "job": "EARTHQUAKE-TURKEY_012987_b11_native256_contiguous",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "804089afe76c47cbbc8b96b18e3efac7c7d7c18844ea97eacdf458d2ed2e8355",
+      "83e5076d3be1862ede2ec854f1d18bdc2549fc2971ebb1b086a5584ae1ea3818"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9122447967529297,
+      "predicted_building_pixels": 34604,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 0.0282512828707695
+    },
+    "sample_id": "EARTHQUAKE-TURKEY_012987",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b00",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/EARTHQUAKE-TURKEY_012987_b00_free_coarse512_plus_native256.npz",
+    "cache_sha256": "b447d7d2fcfd62f39e072849bd793ceab7473828d6e785a62fc6b5e6484ef05a",
+    "coarse_rgb_sha256": [
+      "adcf3907c12dcf16699bb6129695f20302cb3ce46ec9ca8976bd36b303b59c92",
+      "bd60bba804ca7b36a152166c3ad41369a067d576f27db583eabc5e45a04bbdbe"
+    ],
+    "declared_target": false,
+    "elapsed_seconds": 0.26670025003841147,
+    "event": "EARTHQUAKE-TURKEY",
+    "index": 39,
+    "input_mode": "free_coarse512_plus_native256",
+    "input_tensor_sha256": "0801c42e5a60bc738ca5ab128074ca93f3ae47ae9780ab91e3e5f50a7dc7ff79",
+    "input_tensor_shape": [
+      1,
+      6,
+      512,
+      512
+    ],
+    "job": "EARTHQUAKE-TURKEY_012987_b00_free_coarse512_plus_native256",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "278aab46c9ee2c9e22f6ee8aaaced93d451ea80ba9c8f86fbec027a3a0053cbe",
+      "be0e2f89f09111994c8b6382547195b0843d3eb76e678b1dd5fb60e62e5b1ff8"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9459496736526489,
+      "predicted_building_pixels": 67509,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 0.0011246649082750082
+    },
+    "sample_id": "EARTHQUAKE-TURKEY_012987",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b01",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/EARTHQUAKE-TURKEY_012987_b01_free_coarse512_plus_native256.npz",
+    "cache_sha256": "b447d7d2fcfd62f39e072849bd793ceab7473828d6e785a62fc6b5e6484ef05a",
+    "coarse_rgb_sha256": [
+      "adcf3907c12dcf16699bb6129695f20302cb3ce46ec9ca8976bd36b303b59c92",
+      "bd60bba804ca7b36a152166c3ad41369a067d576f27db583eabc5e45a04bbdbe"
+    ],
+    "declared_target": false,
+    "elapsed_seconds": 0.2617430829559453,
+    "event": "EARTHQUAKE-TURKEY",
+    "index": 40,
+    "input_mode": "free_coarse512_plus_native256",
+    "input_tensor_sha256": "8e53a7a21f85cc3c67c60c3c7f493ee657b89f520e4ca94e31ab197f1441a1e8",
+    "input_tensor_shape": [
+      1,
+      6,
+      512,
+      512
+    ],
+    "job": "EARTHQUAKE-TURKEY_012987_b01_free_coarse512_plus_native256",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "79ce4dfe25116185e43d0701ee7f99bdb7773dd4c090fe973c79c08fb41f42c4",
+      "6aec76e88197560ac6e86145f98d7fec2907a5aa28019957833147786794b703"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9416846632957458,
+      "predicted_building_pixels": 71733,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 0.13104024529457092
+    },
+    "sample_id": "EARTHQUAKE-TURKEY_012987",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b10",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/EARTHQUAKE-TURKEY_012987_b10_free_coarse512_plus_native256.npz",
+    "cache_sha256": "e6431ac6b4f05ca4df88f5aec8a9ab3409642b238342a27b979ebc8f8b8b3c2b",
+    "coarse_rgb_sha256": [
+      "adcf3907c12dcf16699bb6129695f20302cb3ce46ec9ca8976bd36b303b59c92",
+      "bd60bba804ca7b36a152166c3ad41369a067d576f27db583eabc5e45a04bbdbe"
+    ],
+    "declared_target": true,
+    "elapsed_seconds": 0.26820645795669407,
+    "event": "EARTHQUAKE-TURKEY",
+    "index": 41,
+    "input_mode": "free_coarse512_plus_native256",
+    "input_tensor_sha256": "b3251e0d050260f2016bb2694a09a5c89f59cbfa7fd04918372b8d13e9503158",
+    "input_tensor_shape": [
+      1,
+      6,
+      512,
+      512
+    ],
+    "job": "EARTHQUAKE-TURKEY_012987_b10_free_coarse512_plus_native256",
+    "predicted_severe_pixels": 302,
+    "purchased_rgb_sha256": [
+      "77a318e36827c192b568973fc3e67e1d2d940a1ad1644c462781dfa27325a3d1",
+      "f24d07169e833d1c60ffc2b0456173d57c71dff5ecf737bfe55af6e66ba93143"
+    ],
+    "raw_summary": {
+      "declared_target": true,
+      "mean_max_damage_probability": 0.9362471699714661,
+      "predicted_building_pixels": 75641,
+      "predicted_severe_pixels": 302,
+      "uncalibrated_severe_score": 0.7943028211593628
+    },
+    "sample_id": "EARTHQUAKE-TURKEY_012987",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b11",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/EARTHQUAKE-TURKEY_012987_b11_free_coarse512_plus_native256.npz",
+    "cache_sha256": "b447d7d2fcfd62f39e072849bd793ceab7473828d6e785a62fc6b5e6484ef05a",
+    "coarse_rgb_sha256": [
+      "adcf3907c12dcf16699bb6129695f20302cb3ce46ec9ca8976bd36b303b59c92",
+      "bd60bba804ca7b36a152166c3ad41369a067d576f27db583eabc5e45a04bbdbe"
+    ],
+    "declared_target": false,
+    "elapsed_seconds": 0.2924104160047136,
+    "event": "EARTHQUAKE-TURKEY",
+    "index": 42,
+    "input_mode": "free_coarse512_plus_native256",
+    "input_tensor_sha256": "ab61cf3e3d655cd95c028ebd7ea786778fbdfdb5dd66392ec7b637db1e0a9605",
+    "input_tensor_shape": [
+      1,
+      6,
+      512,
+      512
+    ],
+    "job": "EARTHQUAKE-TURKEY_012987_b11_free_coarse512_plus_native256",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "804089afe76c47cbbc8b96b18e3efac7c7d7c18844ea97eacdf458d2ed2e8355",
+      "83e5076d3be1862ede2ec854f1d18bdc2549fc2971ebb1b086a5584ae1ea3818"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.956738293170929,
+      "predicted_building_pixels": 64003,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 0.0006486449274234474
+    },
+    "sample_id": "EARTHQUAKE-TURKEY_012987",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b00",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/EARTHQUAKE-TURKEY_015741_b00_native256_contiguous.npz",
+    "cache_sha256": "e6da8c4e120c2031e798042349d43971d05b1d2b32868b36795e5db2dbcb98e6",
+    "coarse_rgb_sha256": null,
+    "declared_target": false,
+    "elapsed_seconds": 0.1075285830302164,
+    "event": "EARTHQUAKE-TURKEY",
+    "index": 43,
+    "input_mode": "native256_contiguous",
+    "input_tensor_sha256": "234e599f61527a13e8df9e177328c44c4fbdfbd2355faa21acdf34a9e4a385c5",
+    "input_tensor_shape": [
+      1,
+      6,
+      256,
+      256
+    ],
+    "job": "EARTHQUAKE-TURKEY_015741_b00_native256_contiguous",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "17ebcca976e413f7d0f5a74d86be346b842da3a794312593f38a34ca51be547d",
+      "8b884949e1848deeb14233198c8f2f56d4e5a64d16c764c4a00354e4904fb6fa"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9875174760818481,
+      "predicted_building_pixels": 22324,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 0.00010123638639925048
+    },
+    "sample_id": "EARTHQUAKE-TURKEY_015741",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b01",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/EARTHQUAKE-TURKEY_015741_b01_native256_contiguous.npz",
+    "cache_sha256": "e6da8c4e120c2031e798042349d43971d05b1d2b32868b36795e5db2dbcb98e6",
+    "coarse_rgb_sha256": null,
+    "declared_target": false,
+    "elapsed_seconds": 0.09150708402739838,
+    "event": "EARTHQUAKE-TURKEY",
+    "index": 44,
+    "input_mode": "native256_contiguous",
+    "input_tensor_sha256": "fc6f546583d90117109a14e2f6ee2e767a92715c9981666171d5cd5fdcc9c657",
+    "input_tensor_shape": [
+      1,
+      6,
+      256,
+      256
+    ],
+    "job": "EARTHQUAKE-TURKEY_015741_b01_native256_contiguous",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "9b28febdca551c834c74cec8c6dbe305d146f8a9d98c3c5f68d1d91831f368b6",
+      "a34c91401bee5b447105d23793ebe6802d2dfc52d863144536c25924f230f2a7"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9939256906509399,
+      "predicted_building_pixels": 4377,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 0.00012876921391580254
+    },
+    "sample_id": "EARTHQUAKE-TURKEY_015741",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b10",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/EARTHQUAKE-TURKEY_015741_b10_native256_contiguous.npz",
+    "cache_sha256": "e6da8c4e120c2031e798042349d43971d05b1d2b32868b36795e5db2dbcb98e6",
+    "coarse_rgb_sha256": null,
+    "declared_target": false,
+    "elapsed_seconds": 0.08733916701748967,
+    "event": "EARTHQUAKE-TURKEY",
+    "index": 45,
+    "input_mode": "native256_contiguous",
+    "input_tensor_sha256": "a424a88d72af2fa450a0b0021980600f2e11dce5f89373086cc8f5b3c327ebed",
+    "input_tensor_shape": [
+      1,
+      6,
+      256,
+      256
+    ],
+    "job": "EARTHQUAKE-TURKEY_015741_b10_native256_contiguous",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "ea58fce014505b283160b420f9dc099b5d654ce812f98463a869ae626bd8f08a",
+      "6943f0ce75b225fc9545d1cb050e663f11d3fd7fa77bdc2687abfa8877e5f5e1"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9702216386795044,
+      "predicted_building_pixels": 23632,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 0.0018352903425693512
+    },
+    "sample_id": "EARTHQUAKE-TURKEY_015741",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b11",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/EARTHQUAKE-TURKEY_015741_b11_native256_contiguous.npz",
+    "cache_sha256": "e6da8c4e120c2031e798042349d43971d05b1d2b32868b36795e5db2dbcb98e6",
+    "coarse_rgb_sha256": null,
+    "declared_target": false,
+    "elapsed_seconds": 0.08184649999020621,
+    "event": "EARTHQUAKE-TURKEY",
+    "index": 46,
+    "input_mode": "native256_contiguous",
+    "input_tensor_sha256": "aa74581f601abfb2e31dca609da4aebca17b95e21b81b01b8830251ef4e6afe5",
+    "input_tensor_shape": [
+      1,
+      6,
+      256,
+      256
+    ],
+    "job": "EARTHQUAKE-TURKEY_015741_b11_native256_contiguous",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "e92fa1dcaf26afe2cfb452d3d6fba416284352e5d694e3ff5d2a00a921920c06",
+      "227831f8ae5ce98de1e35ebac091802963a46c65c05edf2d8337c0eaddb12ab4"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9927749633789062,
+      "predicted_building_pixels": 1377,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 0.0006309592281468213
+    },
+    "sample_id": "EARTHQUAKE-TURKEY_015741",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b00",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/EARTHQUAKE-TURKEY_015741_b00_free_coarse512_plus_native256.npz",
+    "cache_sha256": "b447d7d2fcfd62f39e072849bd793ceab7473828d6e785a62fc6b5e6484ef05a",
+    "coarse_rgb_sha256": [
+      "1f730f4b8ea82300482c8627768fe4dabfa526a688ab69b5c31e9d1ca39d44c6",
+      "33e90614e719448679511c0e28296f14227363a050973b6b68e18436861e6910"
+    ],
+    "declared_target": false,
+    "elapsed_seconds": 0.2738846249994822,
+    "event": "EARTHQUAKE-TURKEY",
+    "index": 47,
+    "input_mode": "free_coarse512_plus_native256",
+    "input_tensor_sha256": "1b5765c42f79a788d3c3148efe8b27b5c506196cab14a4e5621835b5b050b31a",
+    "input_tensor_shape": [
+      1,
+      6,
+      512,
+      512
+    ],
+    "job": "EARTHQUAKE-TURKEY_015741_b00_free_coarse512_plus_native256",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "17ebcca976e413f7d0f5a74d86be346b842da3a794312593f38a34ca51be547d",
+      "8b884949e1848deeb14233198c8f2f56d4e5a64d16c764c4a00354e4904fb6fa"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9921165704727173,
+      "predicted_building_pixels": 27604,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 4.42793607362546e-05
+    },
+    "sample_id": "EARTHQUAKE-TURKEY_015741",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b01",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/EARTHQUAKE-TURKEY_015741_b01_free_coarse512_plus_native256.npz",
+    "cache_sha256": "b447d7d2fcfd62f39e072849bd793ceab7473828d6e785a62fc6b5e6484ef05a",
+    "coarse_rgb_sha256": [
+      "1f730f4b8ea82300482c8627768fe4dabfa526a688ab69b5c31e9d1ca39d44c6",
+      "33e90614e719448679511c0e28296f14227363a050973b6b68e18436861e6910"
+    ],
+    "declared_target": false,
+    "elapsed_seconds": 0.2859412089455873,
+    "event": "EARTHQUAKE-TURKEY",
+    "index": 48,
+    "input_mode": "free_coarse512_plus_native256",
+    "input_tensor_sha256": "6810b9b2f418fe897c1829cbfb57e12fa13807c157662284ee5f80607a9e66c3",
+    "input_tensor_shape": [
+      1,
+      6,
+      512,
+      512
+    ],
+    "job": "EARTHQUAKE-TURKEY_015741_b01_free_coarse512_plus_native256",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "9b28febdca551c834c74cec8c6dbe305d146f8a9d98c3c5f68d1d91831f368b6",
+      "a34c91401bee5b447105d23793ebe6802d2dfc52d863144536c25924f230f2a7"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9953509569168091,
+      "predicted_building_pixels": 5373,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 7.239007391035557e-05
+    },
+    "sample_id": "EARTHQUAKE-TURKEY_015741",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b10",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/EARTHQUAKE-TURKEY_015741_b10_free_coarse512_plus_native256.npz",
+    "cache_sha256": "b447d7d2fcfd62f39e072849bd793ceab7473828d6e785a62fc6b5e6484ef05a",
+    "coarse_rgb_sha256": [
+      "1f730f4b8ea82300482c8627768fe4dabfa526a688ab69b5c31e9d1ca39d44c6",
+      "33e90614e719448679511c0e28296f14227363a050973b6b68e18436861e6910"
+    ],
+    "declared_target": false,
+    "elapsed_seconds": 0.2928268329706043,
+    "event": "EARTHQUAKE-TURKEY",
+    "index": 49,
+    "input_mode": "free_coarse512_plus_native256",
+    "input_tensor_sha256": "6fa3380263a7c9264f8f2e301d604091da4e9026fcb241e2d8909f57a9b4bb98",
+    "input_tensor_shape": [
+      1,
+      6,
+      512,
+      512
+    ],
+    "job": "EARTHQUAKE-TURKEY_015741_b10_free_coarse512_plus_native256",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "ea58fce014505b283160b420f9dc099b5d654ce812f98463a869ae626bd8f08a",
+      "6943f0ce75b225fc9545d1cb050e663f11d3fd7fa77bdc2687abfa8877e5f5e1"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9903836250305176,
+      "predicted_building_pixels": 30000,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 0.007583319675177336
+    },
+    "sample_id": "EARTHQUAKE-TURKEY_015741",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b11",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/EARTHQUAKE-TURKEY_015741_b11_free_coarse512_plus_native256.npz",
+    "cache_sha256": "b447d7d2fcfd62f39e072849bd793ceab7473828d6e785a62fc6b5e6484ef05a",
+    "coarse_rgb_sha256": [
+      "1f730f4b8ea82300482c8627768fe4dabfa526a688ab69b5c31e9d1ca39d44c6",
+      "33e90614e719448679511c0e28296f14227363a050973b6b68e18436861e6910"
+    ],
+    "declared_target": false,
+    "elapsed_seconds": 0.27041587501298636,
+    "event": "EARTHQUAKE-TURKEY",
+    "index": 50,
+    "input_mode": "free_coarse512_plus_native256",
+    "input_tensor_sha256": "2b2694d0f0420606b66425cffe5c52617e88914f35dfda99435b77670c361a99",
+    "input_tensor_shape": [
+      1,
+      6,
+      512,
+      512
+    ],
+    "job": "EARTHQUAKE-TURKEY_015741_b11_free_coarse512_plus_native256",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "e92fa1dcaf26afe2cfb452d3d6fba416284352e5d694e3ff5d2a00a921920c06",
+      "227831f8ae5ce98de1e35ebac091802963a46c65c05edf2d8337c0eaddb12ab4"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.997726559638977,
+      "predicted_building_pixels": 1575,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 7.804347842466086e-05
+    },
+    "sample_id": "EARTHQUAKE-TURKEY_015741",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b00",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/PAKISTAN-FLOODING_003197_b00_native256_contiguous.npz",
+    "cache_sha256": "e6da8c4e120c2031e798042349d43971d05b1d2b32868b36795e5db2dbcb98e6",
+    "coarse_rgb_sha256": null,
+    "declared_target": false,
+    "elapsed_seconds": 0.10455045796697959,
+    "event": "PAKISTAN-FLOODING",
+    "index": 51,
+    "input_mode": "native256_contiguous",
+    "input_tensor_sha256": "bd31a7a3e65929718ffcf9a5efabcdbbfb078de117f2cf33eb1e4703d04115a3",
+    "input_tensor_shape": [
+      1,
+      6,
+      256,
+      256
+    ],
+    "job": "PAKISTAN-FLOODING_003197_b00_native256_contiguous",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "e0d6c5b9d0f73bbf0c6e105921a002106ede1174f66de1f384c6c924a8e9f2ec",
+      "737934c70a26a71fcfa13ed26f57ff01888f6378b9af2f651b75c6db31fd8a5a"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9912841320037842,
+      "predicted_building_pixels": 2153,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 0.0003058970905840397
+    },
+    "sample_id": "PAKISTAN-FLOODING_003197",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b01",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/PAKISTAN-FLOODING_003197_b01_native256_contiguous.npz",
+    "cache_sha256": "e6da8c4e120c2031e798042349d43971d05b1d2b32868b36795e5db2dbcb98e6",
+    "coarse_rgb_sha256": null,
+    "declared_target": false,
+    "elapsed_seconds": 0.09212279197527096,
+    "event": "PAKISTAN-FLOODING",
+    "index": 52,
+    "input_mode": "native256_contiguous",
+    "input_tensor_sha256": "75bd9e24323765aaf0c94ea7af2d2f59236dc5f5fd464d0d42fc5788c2819289",
+    "input_tensor_shape": [
+      1,
+      6,
+      256,
+      256
+    ],
+    "job": "PAKISTAN-FLOODING_003197_b01_native256_contiguous",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "7475297cb259d9b124e7a6f0edc92adf8988df1ab5ecc97feb77f17ba249c346",
+      "1bf1186efbdab5371bb6269df1f77fe2db1f99f15c0871c24c764e1beee1d55b"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9734295010566711,
+      "predicted_building_pixels": 6416,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 0.0019171899184584618
+    },
+    "sample_id": "PAKISTAN-FLOODING_003197",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b10",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/PAKISTAN-FLOODING_003197_b10_native256_contiguous.npz",
+    "cache_sha256": "e6da8c4e120c2031e798042349d43971d05b1d2b32868b36795e5db2dbcb98e6",
+    "coarse_rgb_sha256": null,
+    "declared_target": false,
+    "elapsed_seconds": 0.08162316697416827,
+    "event": "PAKISTAN-FLOODING",
+    "index": 53,
+    "input_mode": "native256_contiguous",
+    "input_tensor_sha256": "24cde038eef0417ae3764628fe8cad6f599406a7edd976d4886b56f978a1f699",
+    "input_tensor_shape": [
+      1,
+      6,
+      256,
+      256
+    ],
+    "job": "PAKISTAN-FLOODING_003197_b10_native256_contiguous",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "5e54828a8069f8d3e5eeea27acde5b0dc0cae7f1d184472d726a92bb2f1197a5",
+      "f0a281b8766fd31972567ec86ac8f3a9d0bb728c7072059dd798449b92ffd62a"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9999544620513916,
+      "predicted_building_pixels": 0,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 1.0369034498580731e-05
+    },
+    "sample_id": "PAKISTAN-FLOODING_003197",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b11",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/PAKISTAN-FLOODING_003197_b11_native256_contiguous.npz",
+    "cache_sha256": "e6da8c4e120c2031e798042349d43971d05b1d2b32868b36795e5db2dbcb98e6",
+    "coarse_rgb_sha256": null,
+    "declared_target": false,
+    "elapsed_seconds": 0.08035720797488466,
+    "event": "PAKISTAN-FLOODING",
+    "index": 54,
+    "input_mode": "native256_contiguous",
+    "input_tensor_sha256": "ad7b75b98d22e9bdcf772f760b36aea0b01f509861524bb012d2946b1fea73cb",
+    "input_tensor_shape": [
+      1,
+      6,
+      256,
+      256
+    ],
+    "job": "PAKISTAN-FLOODING_003197_b11_native256_contiguous",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "426ef3afe95118e17737da157df63112c0bdbc6d82db8abda82f31b2d3967709",
+      "bf907e6bc06b544b4ed5810fbc8350c54e157e5db93cf3d6579b1dcdb8813590"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9999276995658875,
+      "predicted_building_pixels": 0,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 1.0193884008913301e-05
+    },
+    "sample_id": "PAKISTAN-FLOODING_003197",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b00",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/PAKISTAN-FLOODING_003197_b00_free_coarse512_plus_native256.npz",
+    "cache_sha256": "b447d7d2fcfd62f39e072849bd793ceab7473828d6e785a62fc6b5e6484ef05a",
+    "coarse_rgb_sha256": [
+      "7eb1d6b222b8cb19aeb3019ac90674b4405c22199f247aa8a91c602e8dd06d57",
+      "e6179c1880828a9e320ae6808c03c5b48f42cc67cace85da84ffca46f1aa91ad"
+    ],
+    "declared_target": false,
+    "elapsed_seconds": 0.24985099997138605,
+    "event": "PAKISTAN-FLOODING",
+    "index": 55,
+    "input_mode": "free_coarse512_plus_native256",
+    "input_tensor_sha256": "d9df8973b82eaa1b57e4c2424e4930b50b237dfcbf3e4215419dfc6d59239217",
+    "input_tensor_shape": [
+      1,
+      6,
+      512,
+      512
+    ],
+    "job": "PAKISTAN-FLOODING_003197_b00_free_coarse512_plus_native256",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "e0d6c5b9d0f73bbf0c6e105921a002106ede1174f66de1f384c6c924a8e9f2ec",
+      "737934c70a26a71fcfa13ed26f57ff01888f6378b9af2f651b75c6db31fd8a5a"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9982857704162598,
+      "predicted_building_pixels": 1707,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 0.0006618012557737529
+    },
+    "sample_id": "PAKISTAN-FLOODING_003197",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b01",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/PAKISTAN-FLOODING_003197_b01_free_coarse512_plus_native256.npz",
+    "cache_sha256": "b447d7d2fcfd62f39e072849bd793ceab7473828d6e785a62fc6b5e6484ef05a",
+    "coarse_rgb_sha256": [
+      "7eb1d6b222b8cb19aeb3019ac90674b4405c22199f247aa8a91c602e8dd06d57",
+      "e6179c1880828a9e320ae6808c03c5b48f42cc67cace85da84ffca46f1aa91ad"
+    ],
+    "declared_target": false,
+    "elapsed_seconds": 0.25450208300026134,
+    "event": "PAKISTAN-FLOODING",
+    "index": 56,
+    "input_mode": "free_coarse512_plus_native256",
+    "input_tensor_sha256": "64d23dce5d5bc861dd9b8c75ffde733c6b47aa71090c6341d2381d4109ce7f77",
+    "input_tensor_shape": [
+      1,
+      6,
+      512,
+      512
+    ],
+    "job": "PAKISTAN-FLOODING_003197_b01_free_coarse512_plus_native256",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "7475297cb259d9b124e7a6f0edc92adf8988df1ab5ecc97feb77f17ba249c346",
+      "1bf1186efbdab5371bb6269df1f77fe2db1f99f15c0871c24c764e1beee1d55b"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9930906295776367,
+      "predicted_building_pixels": 7140,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 0.2233780324459076
+    },
+    "sample_id": "PAKISTAN-FLOODING_003197",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b10",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/PAKISTAN-FLOODING_003197_b10_free_coarse512_plus_native256.npz",
+    "cache_sha256": "b447d7d2fcfd62f39e072849bd793ceab7473828d6e785a62fc6b5e6484ef05a",
+    "coarse_rgb_sha256": [
+      "7eb1d6b222b8cb19aeb3019ac90674b4405c22199f247aa8a91c602e8dd06d57",
+      "e6179c1880828a9e320ae6808c03c5b48f42cc67cace85da84ffca46f1aa91ad"
+    ],
+    "declared_target": false,
+    "elapsed_seconds": 0.26070241699926555,
+    "event": "PAKISTAN-FLOODING",
+    "index": 57,
+    "input_mode": "free_coarse512_plus_native256",
+    "input_tensor_sha256": "658258eda9f62cae0a0da9b5e51ebe0f4e213263458a65af0ead1152be090b3f",
+    "input_tensor_shape": [
+      1,
+      6,
+      512,
+      512
+    ],
+    "job": "PAKISTAN-FLOODING_003197_b10_free_coarse512_plus_native256",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "5e54828a8069f8d3e5eeea27acde5b0dc0cae7f1d184472d726a92bb2f1197a5",
+      "f0a281b8766fd31972567ec86ac8f3a9d0bb728c7072059dd798449b92ffd62a"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9999329447746277,
+      "predicted_building_pixels": 367,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 1.7572792785358615e-06
+    },
+    "sample_id": "PAKISTAN-FLOODING_003197",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b11",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/PAKISTAN-FLOODING_003197_b11_free_coarse512_plus_native256.npz",
+    "cache_sha256": "b447d7d2fcfd62f39e072849bd793ceab7473828d6e785a62fc6b5e6484ef05a",
+    "coarse_rgb_sha256": [
+      "7eb1d6b222b8cb19aeb3019ac90674b4405c22199f247aa8a91c602e8dd06d57",
+      "e6179c1880828a9e320ae6808c03c5b48f42cc67cace85da84ffca46f1aa91ad"
+    ],
+    "declared_target": false,
+    "elapsed_seconds": 0.2699886250193231,
+    "event": "PAKISTAN-FLOODING",
+    "index": 58,
+    "input_mode": "free_coarse512_plus_native256",
+    "input_tensor_sha256": "bc701bf096c8d4e5f2156455a7affa7ef3dae31f9f7d6c8cb0de982822035ec8",
+    "input_tensor_shape": [
+      1,
+      6,
+      512,
+      512
+    ],
+    "job": "PAKISTAN-FLOODING_003197_b11_free_coarse512_plus_native256",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "426ef3afe95118e17737da157df63112c0bdbc6d82db8abda82f31b2d3967709",
+      "bf907e6bc06b544b4ed5810fbc8350c54e157e5db93cf3d6579b1dcdb8813590"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9998321533203125,
+      "predicted_building_pixels": 144,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 2.0451507225516252e-05
+    },
+    "sample_id": "PAKISTAN-FLOODING_003197",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b00",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/PAKISTAN-FLOODING_004697_b00_native256_contiguous.npz",
+    "cache_sha256": "e6da8c4e120c2031e798042349d43971d05b1d2b32868b36795e5db2dbcb98e6",
+    "coarse_rgb_sha256": null,
+    "declared_target": false,
+    "elapsed_seconds": 0.10062433296116069,
+    "event": "PAKISTAN-FLOODING",
+    "index": 59,
+    "input_mode": "native256_contiguous",
+    "input_tensor_sha256": "3ec4b0e248a0916c5b012e3f00dd36ae56af5743b187e1e29b0f5dc8b99f8831",
+    "input_tensor_shape": [
+      1,
+      6,
+      256,
+      256
+    ],
+    "job": "PAKISTAN-FLOODING_004697_b00_native256_contiguous",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "8df58b862bce81e17d85a48c6a5a1a2ece23914517571af905e8a442c2e57127",
+      "dec2116be090a5763b502bbd1e70d3b2d9ac72b84a4b097faa7a2b67569f34b6"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9798555374145508,
+      "predicted_building_pixels": 2294,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 7.523801468778402e-05
+    },
+    "sample_id": "PAKISTAN-FLOODING_004697",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b01",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/PAKISTAN-FLOODING_004697_b01_native256_contiguous.npz",
+    "cache_sha256": "e6da8c4e120c2031e798042349d43971d05b1d2b32868b36795e5db2dbcb98e6",
+    "coarse_rgb_sha256": null,
+    "declared_target": false,
+    "elapsed_seconds": 0.07898037502309307,
+    "event": "PAKISTAN-FLOODING",
+    "index": 60,
+    "input_mode": "native256_contiguous",
+    "input_tensor_sha256": "4114b82fcc619e223029323875c408d8769f0b4d9e59878a15161e3cfe96fd78",
+    "input_tensor_shape": [
+      1,
+      6,
+      256,
+      256
+    ],
+    "job": "PAKISTAN-FLOODING_004697_b01_native256_contiguous",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "ee25f1a47b700ee9fd07419d70fcc2978a8c8460b3d71b1ec54c395d059e45a2",
+      "466260590aa76ff6f3de2e69a96bf57ed75cf0f7b13e1ce722c4ddedf84f5389"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9927988052368164,
+      "predicted_building_pixels": 2913,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 0.00018308465951122344
+    },
+    "sample_id": "PAKISTAN-FLOODING_004697",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b10",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/PAKISTAN-FLOODING_004697_b10_native256_contiguous.npz",
+    "cache_sha256": "e6da8c4e120c2031e798042349d43971d05b1d2b32868b36795e5db2dbcb98e6",
+    "coarse_rgb_sha256": null,
+    "declared_target": false,
+    "elapsed_seconds": 0.0778620420023799,
+    "event": "PAKISTAN-FLOODING",
+    "index": 61,
+    "input_mode": "native256_contiguous",
+    "input_tensor_sha256": "1b4daf2c58efc8fdd6dc85df203e3ae4e2837bb139582ec138d4cb2e1602ab22",
+    "input_tensor_shape": [
+      1,
+      6,
+      256,
+      256
+    ],
+    "job": "PAKISTAN-FLOODING_004697_b10_native256_contiguous",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "b584746c6e24da8fe42c50f813c405487d50f23edcaf88e922bd416e7f07d906",
+      "1896c75d51117b8efc4f1a76ce6a3d045b195647b7e2ebf54a373ceaa0e1f290"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9986799359321594,
+      "predicted_building_pixels": 361,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 0.00043147182441316545
+    },
+    "sample_id": "PAKISTAN-FLOODING_004697",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b11",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/PAKISTAN-FLOODING_004697_b11_native256_contiguous.npz",
+    "cache_sha256": "e6da8c4e120c2031e798042349d43971d05b1d2b32868b36795e5db2dbcb98e6",
+    "coarse_rgb_sha256": null,
+    "declared_target": false,
+    "elapsed_seconds": 0.08662329096114263,
+    "event": "PAKISTAN-FLOODING",
+    "index": 62,
+    "input_mode": "native256_contiguous",
+    "input_tensor_sha256": "b8823ffdab3413135e619e18449bbd55fc617fac7e3de5358cf32eef4e047d05",
+    "input_tensor_shape": [
+      1,
+      6,
+      256,
+      256
+    ],
+    "job": "PAKISTAN-FLOODING_004697_b11_native256_contiguous",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "63a3737d1e0f3bf099aea1f29895f78e15f465afde7416b08ab9b145e818ec60",
+      "67742e19457fe5d43a8aa9426ccbe9642d7f9b8fdfc99bcd9c3eaf1eac3ee1d0"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9999889731407166,
+      "predicted_building_pixels": 0,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 8.234135293605505e-07
+    },
+    "sample_id": "PAKISTAN-FLOODING_004697",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b00",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/PAKISTAN-FLOODING_004697_b00_free_coarse512_plus_native256.npz",
+    "cache_sha256": "b447d7d2fcfd62f39e072849bd793ceab7473828d6e785a62fc6b5e6484ef05a",
+    "coarse_rgb_sha256": [
+      "86626485ad8e91f3dfba5a89b66fabc6ca34084d9a4c8225f7dcfbb1cb66458b",
+      "b169fe8de79627b71a8d2e515ef28b657ddde1c7d1a45d5e26b0d9f0e12f8029"
+    ],
+    "declared_target": false,
+    "elapsed_seconds": 0.27070354198804125,
+    "event": "PAKISTAN-FLOODING",
+    "index": 63,
+    "input_mode": "free_coarse512_plus_native256",
+    "input_tensor_sha256": "61ed48bae4643db5554141d992fdec3d3960f46efc75e108a4c985ea805eb95a",
+    "input_tensor_shape": [
+      1,
+      6,
+      512,
+      512
+    ],
+    "job": "PAKISTAN-FLOODING_004697_b00_free_coarse512_plus_native256",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "8df58b862bce81e17d85a48c6a5a1a2ece23914517571af905e8a442c2e57127",
+      "dec2116be090a5763b502bbd1e70d3b2d9ac72b84a4b097faa7a2b67569f34b6"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9935486316680908,
+      "predicted_building_pixels": 3373,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 7.055392779875547e-05
+    },
+    "sample_id": "PAKISTAN-FLOODING_004697",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b01",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/PAKISTAN-FLOODING_004697_b01_free_coarse512_plus_native256.npz",
+    "cache_sha256": "b447d7d2fcfd62f39e072849bd793ceab7473828d6e785a62fc6b5e6484ef05a",
+    "coarse_rgb_sha256": [
+      "86626485ad8e91f3dfba5a89b66fabc6ca34084d9a4c8225f7dcfbb1cb66458b",
+      "b169fe8de79627b71a8d2e515ef28b657ddde1c7d1a45d5e26b0d9f0e12f8029"
+    ],
+    "declared_target": false,
+    "elapsed_seconds": 0.262318332970608,
+    "event": "PAKISTAN-FLOODING",
+    "index": 64,
+    "input_mode": "free_coarse512_plus_native256",
+    "input_tensor_sha256": "165a255f48d518df35e8fa5ca3050aca35284d245c7769f46bbfc5dd9b06792f",
+    "input_tensor_shape": [
+      1,
+      6,
+      512,
+      512
+    ],
+    "job": "PAKISTAN-FLOODING_004697_b01_free_coarse512_plus_native256",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "ee25f1a47b700ee9fd07419d70fcc2978a8c8460b3d71b1ec54c395d059e45a2",
+      "466260590aa76ff6f3de2e69a96bf57ed75cf0f7b13e1ce722c4ddedf84f5389"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9978564977645874,
+      "predicted_building_pixels": 1994,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 0.00012186622188892215
+    },
+    "sample_id": "PAKISTAN-FLOODING_004697",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b10",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/PAKISTAN-FLOODING_004697_b10_free_coarse512_plus_native256.npz",
+    "cache_sha256": "b447d7d2fcfd62f39e072849bd793ceab7473828d6e785a62fc6b5e6484ef05a",
+    "coarse_rgb_sha256": [
+      "86626485ad8e91f3dfba5a89b66fabc6ca34084d9a4c8225f7dcfbb1cb66458b",
+      "b169fe8de79627b71a8d2e515ef28b657ddde1c7d1a45d5e26b0d9f0e12f8029"
+    ],
+    "declared_target": false,
+    "elapsed_seconds": 0.2499307079706341,
+    "event": "PAKISTAN-FLOODING",
+    "index": 65,
+    "input_mode": "free_coarse512_plus_native256",
+    "input_tensor_sha256": "f35a815ba855104e7b4d082fd36567f0dcd46df984a23bed059d4d442dc73e0f",
+    "input_tensor_shape": [
+      1,
+      6,
+      512,
+      512
+    ],
+    "job": "PAKISTAN-FLOODING_004697_b10_free_coarse512_plus_native256",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "b584746c6e24da8fe42c50f813c405487d50f23edcaf88e922bd416e7f07d906",
+      "1896c75d51117b8efc4f1a76ce6a3d045b195647b7e2ebf54a373ceaa0e1f290"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9976415038108826,
+      "predicted_building_pixels": 1978,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 0.00010362556349718943
+    },
+    "sample_id": "PAKISTAN-FLOODING_004697",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b11",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/PAKISTAN-FLOODING_004697_b11_free_coarse512_plus_native256.npz",
+    "cache_sha256": "b447d7d2fcfd62f39e072849bd793ceab7473828d6e785a62fc6b5e6484ef05a",
+    "coarse_rgb_sha256": [
+      "86626485ad8e91f3dfba5a89b66fabc6ca34084d9a4c8225f7dcfbb1cb66458b",
+      "b169fe8de79627b71a8d2e515ef28b657ddde1c7d1a45d5e26b0d9f0e12f8029"
+    ],
+    "declared_target": false,
+    "elapsed_seconds": 0.2573305410332978,
+    "event": "PAKISTAN-FLOODING",
+    "index": 66,
+    "input_mode": "free_coarse512_plus_native256",
+    "input_tensor_sha256": "8a725109b1654a727c79f4bda2948986d46e30f667f28bf6ad40982c5090104e",
+    "input_tensor_shape": [
+      1,
+      6,
+      512,
+      512
+    ],
+    "job": "PAKISTAN-FLOODING_004697_b11_free_coarse512_plus_native256",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "63a3737d1e0f3bf099aea1f29895f78e15f465afde7416b08ab9b145e818ec60",
+      "67742e19457fe5d43a8aa9426ccbe9642d7f9b8fdfc99bcd9c3eaf1eac3ee1d0"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9980478286743164,
+      "predicted_building_pixels": 1612,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 5.7992721849586815e-05
+    },
+    "sample_id": "PAKISTAN-FLOODING_004697",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b00",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/PAKISTAN-FLOODING_006998_b00_native256_contiguous.npz",
+    "cache_sha256": "e6da8c4e120c2031e798042349d43971d05b1d2b32868b36795e5db2dbcb98e6",
+    "coarse_rgb_sha256": null,
+    "declared_target": false,
+    "elapsed_seconds": 0.09967879101168364,
+    "event": "PAKISTAN-FLOODING",
+    "index": 67,
+    "input_mode": "native256_contiguous",
+    "input_tensor_sha256": "2e166f316de9a7e28bcd3780c66854179abb4009bc41d3f835b9975421b9f407",
+    "input_tensor_shape": [
+      1,
+      6,
+      256,
+      256
+    ],
+    "job": "PAKISTAN-FLOODING_006998_b00_native256_contiguous",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "554edee5efaee8d4bb0c4859a895a6e500e4bd3038e37f13cef878a48ce7151a",
+      "64ffbd824f22167448ac0ed7374250938ff603b6af8028d2ad1023710cd9439f"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.999505877494812,
+      "predicted_building_pixels": 441,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 0.0008506561862304807
+    },
+    "sample_id": "PAKISTAN-FLOODING_006998",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b01",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/PAKISTAN-FLOODING_006998_b01_native256_contiguous.npz",
+    "cache_sha256": "e6da8c4e120c2031e798042349d43971d05b1d2b32868b36795e5db2dbcb98e6",
+    "coarse_rgb_sha256": null,
+    "declared_target": false,
+    "elapsed_seconds": 0.08360641601029783,
+    "event": "PAKISTAN-FLOODING",
+    "index": 68,
+    "input_mode": "native256_contiguous",
+    "input_tensor_sha256": "41be854db74f814df712f25f830dfa523a0f620a9b25f963b0347749c3c680bc",
+    "input_tensor_shape": [
+      1,
+      6,
+      256,
+      256
+    ],
+    "job": "PAKISTAN-FLOODING_006998_b01_native256_contiguous",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "0835abeaf16c2d50eed786a2e74a93564cc440fbbad9faa3841b0190fdd5e418",
+      "a49947f79a5ff8c4a2b400f398f2888480ba7d292ca16754c93840a7c4aef234"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9999952912330627,
+      "predicted_building_pixels": 0,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 3.8258342272001755e-08
+    },
+    "sample_id": "PAKISTAN-FLOODING_006998",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b10",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/PAKISTAN-FLOODING_006998_b10_native256_contiguous.npz",
+    "cache_sha256": "e6da8c4e120c2031e798042349d43971d05b1d2b32868b36795e5db2dbcb98e6",
+    "coarse_rgb_sha256": null,
+    "declared_target": false,
+    "elapsed_seconds": 0.07660112500889227,
+    "event": "PAKISTAN-FLOODING",
+    "index": 69,
+    "input_mode": "native256_contiguous",
+    "input_tensor_sha256": "ae936b062b286d896d3c93c51491fcc8f5ad87ea22580b4de4a692ed79db2d95",
+    "input_tensor_shape": [
+      1,
+      6,
+      256,
+      256
+    ],
+    "job": "PAKISTAN-FLOODING_006998_b10_native256_contiguous",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "a556fefd9f8e8fdf1a335b41f3f0fccd12b93f43424f43ac4db77db1f35fbc3d",
+      "9828e1cee6dfd9016ad8113b878e2c7d9f0d67bb084ccf714b653c939bb627f3"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9999977350234985,
+      "predicted_building_pixels": 0,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 8.946749119331798e-09
+    },
+    "sample_id": "PAKISTAN-FLOODING_006998",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b11",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/PAKISTAN-FLOODING_006998_b11_native256_contiguous.npz",
+    "cache_sha256": "e6da8c4e120c2031e798042349d43971d05b1d2b32868b36795e5db2dbcb98e6",
+    "coarse_rgb_sha256": null,
+    "declared_target": false,
+    "elapsed_seconds": 0.08059100003447384,
+    "event": "PAKISTAN-FLOODING",
+    "index": 70,
+    "input_mode": "native256_contiguous",
+    "input_tensor_sha256": "ce0904d121b8b6073507a2fbe9d8502df806e0fef93b3f22b90c61141ae206c3",
+    "input_tensor_shape": [
+      1,
+      6,
+      256,
+      256
+    ],
+    "job": "PAKISTAN-FLOODING_006998_b11_native256_contiguous",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "796bf738e8a396f326277ebd64c623b2c14ceb08013570d790d44b75bb845de6",
+      "a606537f7c488af64aa45e8c8db29e1193f4bf02cd7049011013e00bc95468e6"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9999974966049194,
+      "predicted_building_pixels": 0,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 2.3139605787037e-09
+    },
+    "sample_id": "PAKISTAN-FLOODING_006998",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b00",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/PAKISTAN-FLOODING_006998_b00_free_coarse512_plus_native256.npz",
+    "cache_sha256": "b447d7d2fcfd62f39e072849bd793ceab7473828d6e785a62fc6b5e6484ef05a",
+    "coarse_rgb_sha256": [
+      "84f7f753e4363d9c7d1428404a3f0dcb3b6b0b630ace2c85ca9a1873774dd8cd",
+      "8851c12669542f116c572feb4170b82773943e182c723424fe8d0fc6e1ce546b"
+    ],
+    "declared_target": false,
+    "elapsed_seconds": 0.26588058401830494,
+    "event": "PAKISTAN-FLOODING",
+    "index": 71,
+    "input_mode": "free_coarse512_plus_native256",
+    "input_tensor_sha256": "d45d02168d8e815d7cca7e6e8d957841afd2c19d099bd9eb9a556e30fa91da40",
+    "input_tensor_shape": [
+      1,
+      6,
+      512,
+      512
+    ],
+    "job": "PAKISTAN-FLOODING_006998_b00_free_coarse512_plus_native256",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "554edee5efaee8d4bb0c4859a895a6e500e4bd3038e37f13cef878a48ce7151a",
+      "64ffbd824f22167448ac0ed7374250938ff603b6af8028d2ad1023710cd9439f"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9999433755874634,
+      "predicted_building_pixels": 63,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 1.385327777825296e-05
+    },
+    "sample_id": "PAKISTAN-FLOODING_006998",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b01",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/PAKISTAN-FLOODING_006998_b01_free_coarse512_plus_native256.npz",
+    "cache_sha256": "b447d7d2fcfd62f39e072849bd793ceab7473828d6e785a62fc6b5e6484ef05a",
+    "coarse_rgb_sha256": [
+      "84f7f753e4363d9c7d1428404a3f0dcb3b6b0b630ace2c85ca9a1873774dd8cd",
+      "8851c12669542f116c572feb4170b82773943e182c723424fe8d0fc6e1ce546b"
+    ],
+    "declared_target": false,
+    "elapsed_seconds": 0.2601689579896629,
+    "event": "PAKISTAN-FLOODING",
+    "index": 72,
+    "input_mode": "free_coarse512_plus_native256",
+    "input_tensor_sha256": "71c2016e4bda55e5d7479cff05dc1928fc9e6dca79334ff6db74833dd4f889fb",
+    "input_tensor_shape": [
+      1,
+      6,
+      512,
+      512
+    ],
+    "job": "PAKISTAN-FLOODING_006998_b01_free_coarse512_plus_native256",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "0835abeaf16c2d50eed786a2e74a93564cc440fbbad9faa3841b0190fdd5e418",
+      "a49947f79a5ff8c4a2b400f398f2888480ba7d292ca16754c93840a7c4aef234"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9999772906303406,
+      "predicted_building_pixels": 0,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 1.748309443883045e-07
+    },
+    "sample_id": "PAKISTAN-FLOODING_006998",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b10",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/PAKISTAN-FLOODING_006998_b10_free_coarse512_plus_native256.npz",
+    "cache_sha256": "b447d7d2fcfd62f39e072849bd793ceab7473828d6e785a62fc6b5e6484ef05a",
+    "coarse_rgb_sha256": [
+      "84f7f753e4363d9c7d1428404a3f0dcb3b6b0b630ace2c85ca9a1873774dd8cd",
+      "8851c12669542f116c572feb4170b82773943e182c723424fe8d0fc6e1ce546b"
+    ],
+    "declared_target": false,
+    "elapsed_seconds": 0.2362807499594055,
+    "event": "PAKISTAN-FLOODING",
+    "index": 73,
+    "input_mode": "free_coarse512_plus_native256",
+    "input_tensor_sha256": "3f27aef1880691662bdedb81bf6806064972ae4282f2350b40a14c4916210220",
+    "input_tensor_shape": [
+      1,
+      6,
+      512,
+      512
+    ],
+    "job": "PAKISTAN-FLOODING_006998_b10_free_coarse512_plus_native256",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "a556fefd9f8e8fdf1a335b41f3f0fccd12b93f43424f43ac4db77db1f35fbc3d",
+      "9828e1cee6dfd9016ad8113b878e2c7d9f0d67bb084ccf714b653c939bb627f3"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.999953031539917,
+      "predicted_building_pixels": 13,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 1.270350821869215e-05
+    },
+    "sample_id": "PAKISTAN-FLOODING_006998",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b11",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/PAKISTAN-FLOODING_006998_b11_free_coarse512_plus_native256.npz",
+    "cache_sha256": "b447d7d2fcfd62f39e072849bd793ceab7473828d6e785a62fc6b5e6484ef05a",
+    "coarse_rgb_sha256": [
+      "84f7f753e4363d9c7d1428404a3f0dcb3b6b0b630ace2c85ca9a1873774dd8cd",
+      "8851c12669542f116c572feb4170b82773943e182c723424fe8d0fc6e1ce546b"
+    ],
+    "declared_target": false,
+    "elapsed_seconds": 0.26897404197370633,
+    "event": "PAKISTAN-FLOODING",
+    "index": 74,
+    "input_mode": "free_coarse512_plus_native256",
+    "input_tensor_sha256": "8b97f5f472b42b6b8a26d19d3ef0f3a644b38f2943f763cec8936ca043534651",
+    "input_tensor_shape": [
+      1,
+      6,
+      512,
+      512
+    ],
+    "job": "PAKISTAN-FLOODING_006998_b11_free_coarse512_plus_native256",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "796bf738e8a396f326277ebd64c623b2c14ceb08013570d790d44b75bb845de6",
+      "a606537f7c488af64aa45e8c8db29e1193f4bf02cd7049011013e00bc95468e6"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9999560117721558,
+      "predicted_building_pixels": 4,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 1.137813160312362e-05
+    },
+    "sample_id": "PAKISTAN-FLOODING_006998",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b00",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/PAKISTAN-FLOODING_013475_b00_native256_contiguous.npz",
+    "cache_sha256": "e6da8c4e120c2031e798042349d43971d05b1d2b32868b36795e5db2dbcb98e6",
+    "coarse_rgb_sha256": null,
+    "declared_target": false,
+    "elapsed_seconds": 0.11011345800943673,
+    "event": "PAKISTAN-FLOODING",
+    "index": 75,
+    "input_mode": "native256_contiguous",
+    "input_tensor_sha256": "ff320e45ba719100ae44e7095ff9c4deca274a110dbd7104fca1909e6692914b",
+    "input_tensor_shape": [
+      1,
+      6,
+      256,
+      256
+    ],
+    "job": "PAKISTAN-FLOODING_013475_b00_native256_contiguous",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "00b0f2672755f74b65602e500d869ec5118a668b0bad694bab52478fc25222e8",
+      "c75d198c03f7593dae75998567185b5641a6009ee2f4d914e8d740d6d0a2e5e0"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9999958276748657,
+      "predicted_building_pixels": 0,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 2.752384986592915e-09
+    },
+    "sample_id": "PAKISTAN-FLOODING_013475",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b01",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/PAKISTAN-FLOODING_013475_b01_native256_contiguous.npz",
+    "cache_sha256": "e6da8c4e120c2031e798042349d43971d05b1d2b32868b36795e5db2dbcb98e6",
+    "coarse_rgb_sha256": null,
+    "declared_target": false,
+    "elapsed_seconds": 0.0847707090433687,
+    "event": "PAKISTAN-FLOODING",
+    "index": 76,
+    "input_mode": "native256_contiguous",
+    "input_tensor_sha256": "e50229b1fd29e346f2a27c4ebeaa8184c90e693fe2f7c0f4eeda322ba33c7193",
+    "input_tensor_shape": [
+      1,
+      6,
+      256,
+      256
+    ],
+    "job": "PAKISTAN-FLOODING_013475_b01_native256_contiguous",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "7eb153981649519df4e2575ab1dfffc556f47215e723b3a5e75e80c4debd08a2",
+      "4fcc7440fddfa72e92cc6aa7d27994d69cae94374c9751c02ce2b444441492ee"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9999778270721436,
+      "predicted_building_pixels": 0,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 4.078411919294922e-08
+    },
+    "sample_id": "PAKISTAN-FLOODING_013475",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b10",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/PAKISTAN-FLOODING_013475_b10_native256_contiguous.npz",
+    "cache_sha256": "e6da8c4e120c2031e798042349d43971d05b1d2b32868b36795e5db2dbcb98e6",
+    "coarse_rgb_sha256": null,
+    "declared_target": false,
+    "elapsed_seconds": 0.08883833402069286,
+    "event": "PAKISTAN-FLOODING",
+    "index": 77,
+    "input_mode": "native256_contiguous",
+    "input_tensor_sha256": "1d5fc03437363f313b7d84ac091ece777ec5308c1c661c2cd6a43f130928044c",
+    "input_tensor_shape": [
+      1,
+      6,
+      256,
+      256
+    ],
+    "job": "PAKISTAN-FLOODING_013475_b10_native256_contiguous",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "304cfefd84a55740db60464cb7c66e85d92ef0dda05f528c261abd8992980d35",
+      "f89e8ab25036f12eafea4a1b2c28c3569c1ba2721fbb56d2f1be4d56f2aa0fdd"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9999979734420776,
+      "predicted_building_pixels": 0,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 4.343712589616189e-08
+    },
+    "sample_id": "PAKISTAN-FLOODING_013475",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b11",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/PAKISTAN-FLOODING_013475_b11_native256_contiguous.npz",
+    "cache_sha256": "e6da8c4e120c2031e798042349d43971d05b1d2b32868b36795e5db2dbcb98e6",
+    "coarse_rgb_sha256": null,
+    "declared_target": false,
+    "elapsed_seconds": 0.08766004099743441,
+    "event": "PAKISTAN-FLOODING",
+    "index": 78,
+    "input_mode": "native256_contiguous",
+    "input_tensor_sha256": "147519f981662ac2b2c123fe82e1587b038a74ec34011c59f53964ac520115f1",
+    "input_tensor_shape": [
+      1,
+      6,
+      256,
+      256
+    ],
+    "job": "PAKISTAN-FLOODING_013475_b11_native256_contiguous",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "4f341401e47c4176bc6772fa5a8af34561f88e345b5b53816c1c92f84a91da0f",
+      "5b34c3841b4066130569b4fdd7ae576d9e8e21db3240588539a3184f600641f4"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9999916553497314,
+      "predicted_building_pixels": 0,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 3.294575634527064e-08
+    },
+    "sample_id": "PAKISTAN-FLOODING_013475",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b00",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/PAKISTAN-FLOODING_013475_b00_free_coarse512_plus_native256.npz",
+    "cache_sha256": "b447d7d2fcfd62f39e072849bd793ceab7473828d6e785a62fc6b5e6484ef05a",
+    "coarse_rgb_sha256": [
+      "cf85a5b6366177e99d4d5b0cebb4d309d7b65cc93640fda131e3b59745357c33",
+      "b6c04b48771e760311ae97ce530709b7e8bad4fc1ea4398c37a065711c67bf22"
+    ],
+    "declared_target": false,
+    "elapsed_seconds": 0.2768060000380501,
+    "event": "PAKISTAN-FLOODING",
+    "index": 79,
+    "input_mode": "free_coarse512_plus_native256",
+    "input_tensor_sha256": "ce5b5ea035332425f932652a03e284dc7816eb2aef8289d35ba8c21de8c06311",
+    "input_tensor_shape": [
+      1,
+      6,
+      512,
+      512
+    ],
+    "job": "PAKISTAN-FLOODING_013475_b00_free_coarse512_plus_native256",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "00b0f2672755f74b65602e500d869ec5118a668b0bad694bab52478fc25222e8",
+      "c75d198c03f7593dae75998567185b5641a6009ee2f4d914e8d740d6d0a2e5e0"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9999884366989136,
+      "predicted_building_pixels": 0,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 2.736900839295231e-08
+    },
+    "sample_id": "PAKISTAN-FLOODING_013475",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b01",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/PAKISTAN-FLOODING_013475_b01_free_coarse512_plus_native256.npz",
+    "cache_sha256": "b447d7d2fcfd62f39e072849bd793ceab7473828d6e785a62fc6b5e6484ef05a",
+    "coarse_rgb_sha256": [
+      "cf85a5b6366177e99d4d5b0cebb4d309d7b65cc93640fda131e3b59745357c33",
+      "b6c04b48771e760311ae97ce530709b7e8bad4fc1ea4398c37a065711c67bf22"
+    ],
+    "declared_target": false,
+    "elapsed_seconds": 0.2676457919878885,
+    "event": "PAKISTAN-FLOODING",
+    "index": 80,
+    "input_mode": "free_coarse512_plus_native256",
+    "input_tensor_sha256": "426244dde0d29709499a0dcbd228eaa4bf8dc5a0aa5fc56281e0c171838b1506",
+    "input_tensor_shape": [
+      1,
+      6,
+      512,
+      512
+    ],
+    "job": "PAKISTAN-FLOODING_013475_b01_free_coarse512_plus_native256",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "7eb153981649519df4e2575ab1dfffc556f47215e723b3a5e75e80c4debd08a2",
+      "4fcc7440fddfa72e92cc6aa7d27994d69cae94374c9751c02ce2b444441492ee"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9999919533729553,
+      "predicted_building_pixels": 0,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 1.410631256248962e-08
+    },
+    "sample_id": "PAKISTAN-FLOODING_013475",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b10",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/PAKISTAN-FLOODING_013475_b10_free_coarse512_plus_native256.npz",
+    "cache_sha256": "b447d7d2fcfd62f39e072849bd793ceab7473828d6e785a62fc6b5e6484ef05a",
+    "coarse_rgb_sha256": [
+      "cf85a5b6366177e99d4d5b0cebb4d309d7b65cc93640fda131e3b59745357c33",
+      "b6c04b48771e760311ae97ce530709b7e8bad4fc1ea4398c37a065711c67bf22"
+    ],
+    "declared_target": false,
+    "elapsed_seconds": 0.2605809580418281,
+    "event": "PAKISTAN-FLOODING",
+    "index": 81,
+    "input_mode": "free_coarse512_plus_native256",
+    "input_tensor_sha256": "c08756e22087fc408a20f9d6a772ce2fd3fb60426cbf8f82cb99b31748cb67e2",
+    "input_tensor_shape": [
+      1,
+      6,
+      512,
+      512
+    ],
+    "job": "PAKISTAN-FLOODING_013475_b10_free_coarse512_plus_native256",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "304cfefd84a55740db60464cb7c66e85d92ef0dda05f528c261abd8992980d35",
+      "f89e8ab25036f12eafea4a1b2c28c3569c1ba2721fbb56d2f1be4d56f2aa0fdd"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.999988317489624,
+      "predicted_building_pixels": 0,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 2.711079716277709e-08
+    },
+    "sample_id": "PAKISTAN-FLOODING_013475",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b11",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/PAKISTAN-FLOODING_013475_b11_free_coarse512_plus_native256.npz",
+    "cache_sha256": "b447d7d2fcfd62f39e072849bd793ceab7473828d6e785a62fc6b5e6484ef05a",
+    "coarse_rgb_sha256": [
+      "cf85a5b6366177e99d4d5b0cebb4d309d7b65cc93640fda131e3b59745357c33",
+      "b6c04b48771e760311ae97ce530709b7e8bad4fc1ea4398c37a065711c67bf22"
+    ],
+    "declared_target": false,
+    "elapsed_seconds": 0.25910587498219684,
+    "event": "PAKISTAN-FLOODING",
+    "index": 82,
+    "input_mode": "free_coarse512_plus_native256",
+    "input_tensor_sha256": "8c2d60ad71f39e20313585c114c3922be0fc8a6d5080cc2137709ca96b5aa038",
+    "input_tensor_shape": [
+      1,
+      6,
+      512,
+      512
+    ],
+    "job": "PAKISTAN-FLOODING_013475_b11_free_coarse512_plus_native256",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "4f341401e47c4176bc6772fa5a8af34561f88e345b5b53816c1c92f84a91da0f",
+      "5b34c3841b4066130569b4fdd7ae576d9e8e21db3240588539a3184f600641f4"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.99998939037323,
+      "predicted_building_pixels": 0,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 2.6427535715356498e-08
+    },
+    "sample_id": "PAKISTAN-FLOODING_013475",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b00",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/PAKISTAN-FLOODING_014536_b00_native256_contiguous.npz",
+    "cache_sha256": "e6da8c4e120c2031e798042349d43971d05b1d2b32868b36795e5db2dbcb98e6",
+    "coarse_rgb_sha256": null,
+    "declared_target": false,
+    "elapsed_seconds": 0.1105755420285277,
+    "event": "PAKISTAN-FLOODING",
+    "index": 83,
+    "input_mode": "native256_contiguous",
+    "input_tensor_sha256": "7e36998e6f8129b8a930fd86bc78a2862601e0fc1db1c4ff71ef412d749712d1",
+    "input_tensor_shape": [
+      1,
+      6,
+      256,
+      256
+    ],
+    "job": "PAKISTAN-FLOODING_014536_b00_native256_contiguous",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "fb44f75f9f74a7bd0929323e98f06974bb1ae8d497733b2cf30420067d3fc299",
+      "3d3555dd872af390528b4dad6322aa83c55498900540489472248775504c7ca4"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9999974966049194,
+      "predicted_building_pixels": 0,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 1.0002494388317018e-09
+    },
+    "sample_id": "PAKISTAN-FLOODING_014536",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b01",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/PAKISTAN-FLOODING_014536_b01_native256_contiguous.npz",
+    "cache_sha256": "e6da8c4e120c2031e798042349d43971d05b1d2b32868b36795e5db2dbcb98e6",
+    "coarse_rgb_sha256": null,
+    "declared_target": false,
+    "elapsed_seconds": 0.08929408399853855,
+    "event": "PAKISTAN-FLOODING",
+    "index": 84,
+    "input_mode": "native256_contiguous",
+    "input_tensor_sha256": "37dbe167695536dd264cc38b79c01424ff7c34d1421ad499aa79de618a7e4e40",
+    "input_tensor_shape": [
+      1,
+      6,
+      256,
+      256
+    ],
+    "job": "PAKISTAN-FLOODING_014536_b01_native256_contiguous",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "aba6b679d8ab4053c041c586905b63189ebd9fe729fb0c92946939fe7eee95f1",
+      "1d424a0d65d93e929112dcc60218fb91afb4da03bcc15da8092a61c3610c1c39"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9999936819076538,
+      "predicted_building_pixels": 0,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 5.5425349643201116e-08
+    },
+    "sample_id": "PAKISTAN-FLOODING_014536",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b10",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/PAKISTAN-FLOODING_014536_b10_native256_contiguous.npz",
+    "cache_sha256": "41a6665f6cb009a680ec5ad6bdb774de2a66e75e173d488593869372a397949c",
+    "coarse_rgb_sha256": null,
+    "declared_target": true,
+    "elapsed_seconds": 0.09113216702826321,
+    "event": "PAKISTAN-FLOODING",
+    "index": 85,
+    "input_mode": "native256_contiguous",
+    "input_tensor_sha256": "2eda7f5043dbdb39eb7fc116651ee99ea726407a63422f96a962f5d56f764775",
+    "input_tensor_shape": [
+      1,
+      6,
+      256,
+      256
+    ],
+    "job": "PAKISTAN-FLOODING_014536_b10_native256_contiguous",
+    "predicted_severe_pixels": 1673,
+    "purchased_rgb_sha256": [
+      "069043656d3b53c4d4a2eeb130a45df6296109672a01a63e445a4b2472e34b9a",
+      "5a63c22615608ca721f32c3f91c2af12927bd5fd1839a4fd0c6bb6ab5c505ce1"
+    ],
+    "raw_summary": {
+      "declared_target": true,
+      "mean_max_damage_probability": 0.9984042644500732,
+      "predicted_building_pixels": 2069,
+      "predicted_severe_pixels": 1673,
+      "uncalibrated_severe_score": 0.9996411204338074
+    },
+    "sample_id": "PAKISTAN-FLOODING_014536",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b11",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/PAKISTAN-FLOODING_014536_b11_native256_contiguous.npz",
+    "cache_sha256": "e6da8c4e120c2031e798042349d43971d05b1d2b32868b36795e5db2dbcb98e6",
+    "coarse_rgb_sha256": null,
+    "declared_target": false,
+    "elapsed_seconds": 0.09326400002464652,
+    "event": "PAKISTAN-FLOODING",
+    "index": 86,
+    "input_mode": "native256_contiguous",
+    "input_tensor_sha256": "5d32894cce617ed49d6ef1f6f695c19563de0c15952d558a516f097268d0127f",
+    "input_tensor_shape": [
+      1,
+      6,
+      256,
+      256
+    ],
+    "job": "PAKISTAN-FLOODING_014536_b11_native256_contiguous",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "8a14b2082266392930110ac7c98408377bcacf02f66aca43e55adb6e1459b88a",
+      "68122d1d98701f15e1cdafd8ef1fe67ab5ee941b3832adb7888a5426074fb827"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9993983507156372,
+      "predicted_building_pixels": 120,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 0.0004267904150765389
+    },
+    "sample_id": "PAKISTAN-FLOODING_014536",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b00",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/PAKISTAN-FLOODING_014536_b00_free_coarse512_plus_native256.npz",
+    "cache_sha256": "b447d7d2fcfd62f39e072849bd793ceab7473828d6e785a62fc6b5e6484ef05a",
+    "coarse_rgb_sha256": [
+      "8594dc1eb3d2d98d3edc54b706e07413a5ee8711353bbdcbdf9fd5f9938de0cc",
+      "42d04a130f9ae4eed95d4fc3d3b484d4864ca52f779d5cb17d4f5bf7cb2f2711"
+    ],
+    "declared_target": false,
+    "elapsed_seconds": 0.27048783301142976,
+    "event": "PAKISTAN-FLOODING",
+    "index": 87,
+    "input_mode": "free_coarse512_plus_native256",
+    "input_tensor_sha256": "674e8ed877283bb3db39bdf64c43521f02d1b418b7588e2418a99e189451f133",
+    "input_tensor_shape": [
+      1,
+      6,
+      512,
+      512
+    ],
+    "job": "PAKISTAN-FLOODING_014536_b00_free_coarse512_plus_native256",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "fb44f75f9f74a7bd0929323e98f06974bb1ae8d497733b2cf30420067d3fc299",
+      "3d3555dd872af390528b4dad6322aa83c55498900540489472248775504c7ca4"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9999691843986511,
+      "predicted_building_pixels": 0,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 4.5727040287601994e-07
+    },
+    "sample_id": "PAKISTAN-FLOODING_014536",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b01",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/PAKISTAN-FLOODING_014536_b01_free_coarse512_plus_native256.npz",
+    "cache_sha256": "b447d7d2fcfd62f39e072849bd793ceab7473828d6e785a62fc6b5e6484ef05a",
+    "coarse_rgb_sha256": [
+      "8594dc1eb3d2d98d3edc54b706e07413a5ee8711353bbdcbdf9fd5f9938de0cc",
+      "42d04a130f9ae4eed95d4fc3d3b484d4864ca52f779d5cb17d4f5bf7cb2f2711"
+    ],
+    "declared_target": false,
+    "elapsed_seconds": 0.2517750000115484,
+    "event": "PAKISTAN-FLOODING",
+    "index": 88,
+    "input_mode": "free_coarse512_plus_native256",
+    "input_tensor_sha256": "4f01e63458092988e2d01a4d36e24a6584278f499f3a7854003ac7d878c92bf5",
+    "input_tensor_shape": [
+      1,
+      6,
+      512,
+      512
+    ],
+    "job": "PAKISTAN-FLOODING_014536_b01_free_coarse512_plus_native256",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "aba6b679d8ab4053c041c586905b63189ebd9fe729fb0c92946939fe7eee95f1",
+      "1d424a0d65d93e929112dcc60218fb91afb4da03bcc15da8092a61c3610c1c39"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9999701976776123,
+      "predicted_building_pixels": 0,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 4.2573714154059417e-07
+    },
+    "sample_id": "PAKISTAN-FLOODING_014536",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b10",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/PAKISTAN-FLOODING_014536_b10_free_coarse512_plus_native256.npz",
+    "cache_sha256": "e21d7221f5f0b15aeec4b4140d2eef94e4c8565f289851208b9aa3e57078940d",
+    "coarse_rgb_sha256": [
+      "8594dc1eb3d2d98d3edc54b706e07413a5ee8711353bbdcbdf9fd5f9938de0cc",
+      "42d04a130f9ae4eed95d4fc3d3b484d4864ca52f779d5cb17d4f5bf7cb2f2711"
+    ],
+    "declared_target": true,
+    "elapsed_seconds": 0.2647316249785945,
+    "event": "PAKISTAN-FLOODING",
+    "index": 89,
+    "input_mode": "free_coarse512_plus_native256",
+    "input_tensor_sha256": "06a3dc58733d202b38d144ae60fd8e75cc7b171bf3ce87cdef7c9c152f287224",
+    "input_tensor_shape": [
+      1,
+      6,
+      512,
+      512
+    ],
+    "job": "PAKISTAN-FLOODING_014536_b10_free_coarse512_plus_native256",
+    "predicted_severe_pixels": 1926,
+    "purchased_rgb_sha256": [
+      "069043656d3b53c4d4a2eeb130a45df6296109672a01a63e445a4b2472e34b9a",
+      "5a63c22615608ca721f32c3f91c2af12927bd5fd1839a4fd0c6bb6ab5c505ce1"
+    ],
+    "raw_summary": {
+      "declared_target": true,
+      "mean_max_damage_probability": 0.9990108013153076,
+      "predicted_building_pixels": 2732,
+      "predicted_severe_pixels": 1926,
+      "uncalibrated_severe_score": 0.999604344367981
+    },
+    "sample_id": "PAKISTAN-FLOODING_014536",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b11",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/PAKISTAN-FLOODING_014536_b11_free_coarse512_plus_native256.npz",
+    "cache_sha256": "b447d7d2fcfd62f39e072849bd793ceab7473828d6e785a62fc6b5e6484ef05a",
+    "coarse_rgb_sha256": [
+      "8594dc1eb3d2d98d3edc54b706e07413a5ee8711353bbdcbdf9fd5f9938de0cc",
+      "42d04a130f9ae4eed95d4fc3d3b484d4864ca52f779d5cb17d4f5bf7cb2f2711"
+    ],
+    "declared_target": false,
+    "elapsed_seconds": 0.2615592500078492,
+    "event": "PAKISTAN-FLOODING",
+    "index": 90,
+    "input_mode": "free_coarse512_plus_native256",
+    "input_tensor_sha256": "02afe8dab55dcef2a4479d910f0285059fa3d6e0644b40da422819484d38f8a4",
+    "input_tensor_shape": [
+      1,
+      6,
+      512,
+      512
+    ],
+    "job": "PAKISTAN-FLOODING_014536_b11_free_coarse512_plus_native256",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "8a14b2082266392930110ac7c98408377bcacf02f66aca43e55adb6e1459b88a",
+      "68122d1d98701f15e1cdafd8ef1fe67ab5ee941b3832adb7888a5426074fb827"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.999840497970581,
+      "predicted_building_pixels": 145,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 5.7812940212897956e-05
+    },
+    "sample_id": "PAKISTAN-FLOODING_014536",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b00",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/PAKISTAN-FLOODING_017841_b00_native256_contiguous.npz",
+    "cache_sha256": "e6da8c4e120c2031e798042349d43971d05b1d2b32868b36795e5db2dbcb98e6",
+    "coarse_rgb_sha256": null,
+    "declared_target": false,
+    "elapsed_seconds": 0.09815012500621378,
+    "event": "PAKISTAN-FLOODING",
+    "index": 91,
+    "input_mode": "native256_contiguous",
+    "input_tensor_sha256": "234a0a36cf1ea39e197c58ab85adf39a7b9f31276551db9a91c30ca6b063d6bf",
+    "input_tensor_shape": [
+      1,
+      6,
+      256,
+      256
+    ],
+    "job": "PAKISTAN-FLOODING_017841_b00_native256_contiguous",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "665109000916b2339b6ae88676dcf3480c191ed137506b6b7b26123eaaab56a3",
+      "8f6e604cb337b5318017b4d2a3555896e31c3d2db46073c39bdada394c0599f0"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9999836683273315,
+      "predicted_building_pixels": 0,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 1.108844116970431e-06
+    },
+    "sample_id": "PAKISTAN-FLOODING_017841",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b01",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/PAKISTAN-FLOODING_017841_b01_native256_contiguous.npz",
+    "cache_sha256": "e6da8c4e120c2031e798042349d43971d05b1d2b32868b36795e5db2dbcb98e6",
+    "coarse_rgb_sha256": null,
+    "declared_target": false,
+    "elapsed_seconds": 0.08110741700511426,
+    "event": "PAKISTAN-FLOODING",
+    "index": 92,
+    "input_mode": "native256_contiguous",
+    "input_tensor_sha256": "705ae23336882c035edd6ba6c89b7cda03bc15064f459f9c99e2c5df96bd6613",
+    "input_tensor_shape": [
+      1,
+      6,
+      256,
+      256
+    ],
+    "job": "PAKISTAN-FLOODING_017841_b01_native256_contiguous",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "43d019c51825b9525ef750e44f9be5add9d92baa25610b0493b0578ec3873ea7",
+      "4fd96fa28c7d1e1740b76066653a370a5384a4f6b1d934b6964333463ea9f934"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9999908208847046,
+      "predicted_building_pixels": 0,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 1.8066739215782945e-09
+    },
+    "sample_id": "PAKISTAN-FLOODING_017841",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b10",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/PAKISTAN-FLOODING_017841_b10_native256_contiguous.npz",
+    "cache_sha256": "e6da8c4e120c2031e798042349d43971d05b1d2b32868b36795e5db2dbcb98e6",
+    "coarse_rgb_sha256": null,
+    "declared_target": false,
+    "elapsed_seconds": 0.08827083301730454,
+    "event": "PAKISTAN-FLOODING",
+    "index": 93,
+    "input_mode": "native256_contiguous",
+    "input_tensor_sha256": "c8d55bca905f1bbbd5f9fb68af21cc32b12ce71184e9bc97ddf1544e407fd232",
+    "input_tensor_shape": [
+      1,
+      6,
+      256,
+      256
+    ],
+    "job": "PAKISTAN-FLOODING_017841_b10_native256_contiguous",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "839cc5d39707548d50205b3a0a6aa95416bb0ed153e0c9e82e5ed0ff2df7a3b8",
+      "acaadd1ac3c6ffff5349f5b9b9c1bc0f9e31b0b3f29a6bb4f1768a49a182136e"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9999977350234985,
+      "predicted_building_pixels": 0,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 9.42531741543462e-09
+    },
+    "sample_id": "PAKISTAN-FLOODING_017841",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b11",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/PAKISTAN-FLOODING_017841_b11_native256_contiguous.npz",
+    "cache_sha256": "e6da8c4e120c2031e798042349d43971d05b1d2b32868b36795e5db2dbcb98e6",
+    "coarse_rgb_sha256": null,
+    "declared_target": false,
+    "elapsed_seconds": 0.09312783303903416,
+    "event": "PAKISTAN-FLOODING",
+    "index": 94,
+    "input_mode": "native256_contiguous",
+    "input_tensor_sha256": "32df344fb48c8908a08c120717bd1e59f0b85dd9c38e9a5a5f1c6910f0f4dd93",
+    "input_tensor_shape": [
+      1,
+      6,
+      256,
+      256
+    ],
+    "job": "PAKISTAN-FLOODING_017841_b11_native256_contiguous",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "00574c954257b6f010fa9cb190e2004184d1cf5993942336ff9d1cd2829be0b3",
+      "ec8796ac2db4c9cb343dc9f786c7a3b6f3b0c9d604702a321b88c74db3fb45a9"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9999772310256958,
+      "predicted_building_pixels": 0,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 9.307912307576771e-08
+    },
+    "sample_id": "PAKISTAN-FLOODING_017841",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b00",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/PAKISTAN-FLOODING_017841_b00_free_coarse512_plus_native256.npz",
+    "cache_sha256": "b447d7d2fcfd62f39e072849bd793ceab7473828d6e785a62fc6b5e6484ef05a",
+    "coarse_rgb_sha256": [
+      "e2be8ef0025eceba10732d2746500296431857c63863adca9af3c3b93a027ca4",
+      "02f105f14de0c3c94eaae5c2ac9844408a27f045fa1b17537b7a8a73ba83f609"
+    ],
+    "declared_target": false,
+    "elapsed_seconds": 0.2766745000262745,
+    "event": "PAKISTAN-FLOODING",
+    "index": 95,
+    "input_mode": "free_coarse512_plus_native256",
+    "input_tensor_sha256": "ccfcddb4b08c2a17aa36c6b7a9c148558aa1902c315eb59c306c61d34d13b7d2",
+    "input_tensor_shape": [
+      1,
+      6,
+      512,
+      512
+    ],
+    "job": "PAKISTAN-FLOODING_017841_b00_free_coarse512_plus_native256",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "665109000916b2339b6ae88676dcf3480c191ed137506b6b7b26123eaaab56a3",
+      "8f6e604cb337b5318017b4d2a3555896e31c3d2db46073c39bdada394c0599f0"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9999836683273315,
+      "predicted_building_pixels": 0,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 1.0825881417986238e-06
+    },
+    "sample_id": "PAKISTAN-FLOODING_017841",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b01",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/PAKISTAN-FLOODING_017841_b01_free_coarse512_plus_native256.npz",
+    "cache_sha256": "b447d7d2fcfd62f39e072849bd793ceab7473828d6e785a62fc6b5e6484ef05a",
+    "coarse_rgb_sha256": [
+      "e2be8ef0025eceba10732d2746500296431857c63863adca9af3c3b93a027ca4",
+      "02f105f14de0c3c94eaae5c2ac9844408a27f045fa1b17537b7a8a73ba83f609"
+    ],
+    "declared_target": false,
+    "elapsed_seconds": 0.26268204097868875,
+    "event": "PAKISTAN-FLOODING",
+    "index": 96,
+    "input_mode": "free_coarse512_plus_native256",
+    "input_tensor_sha256": "fa2b44374accd1a49c9b2e6e3d6444b5b7ffc1b6adedcb9c53acfa4c7ec951c0",
+    "input_tensor_shape": [
+      1,
+      6,
+      512,
+      512
+    ],
+    "job": "PAKISTAN-FLOODING_017841_b01_free_coarse512_plus_native256",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "43d019c51825b9525ef750e44f9be5add9d92baa25610b0493b0578ec3873ea7",
+      "4fd96fa28c7d1e1740b76066653a370a5384a4f6b1d934b6964333463ea9f934"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9999704360961914,
+      "predicted_building_pixels": 0,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 8.298762566028017e-08
+    },
+    "sample_id": "PAKISTAN-FLOODING_017841",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b10",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/PAKISTAN-FLOODING_017841_b10_free_coarse512_plus_native256.npz",
+    "cache_sha256": "b447d7d2fcfd62f39e072849bd793ceab7473828d6e785a62fc6b5e6484ef05a",
+    "coarse_rgb_sha256": [
+      "e2be8ef0025eceba10732d2746500296431857c63863adca9af3c3b93a027ca4",
+      "02f105f14de0c3c94eaae5c2ac9844408a27f045fa1b17537b7a8a73ba83f609"
+    ],
+    "declared_target": false,
+    "elapsed_seconds": 0.23915937502169982,
+    "event": "PAKISTAN-FLOODING",
+    "index": 97,
+    "input_mode": "free_coarse512_plus_native256",
+    "input_tensor_sha256": "f314a81af6569ac4b6bb779a158036047180df0f2c987552b848ee51bed05f9e",
+    "input_tensor_shape": [
+      1,
+      6,
+      512,
+      512
+    ],
+    "job": "PAKISTAN-FLOODING_017841_b10_free_coarse512_plus_native256",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "839cc5d39707548d50205b3a0a6aa95416bb0ed153e0c9e82e5ed0ff2df7a3b8",
+      "acaadd1ac3c6ffff5349f5b9b9c1bc0f9e31b0b3f29a6bb4f1768a49a182136e"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9999486804008484,
+      "predicted_building_pixels": 0,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 5.535683555990545e-08
+    },
+    "sample_id": "PAKISTAN-FLOODING_017841",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b11",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/PAKISTAN-FLOODING_017841_b11_free_coarse512_plus_native256.npz",
+    "cache_sha256": "b447d7d2fcfd62f39e072849bd793ceab7473828d6e785a62fc6b5e6484ef05a",
+    "coarse_rgb_sha256": [
+      "e2be8ef0025eceba10732d2746500296431857c63863adca9af3c3b93a027ca4",
+      "02f105f14de0c3c94eaae5c2ac9844408a27f045fa1b17537b7a8a73ba83f609"
+    ],
+    "declared_target": false,
+    "elapsed_seconds": 0.25594075000844896,
+    "event": "PAKISTAN-FLOODING",
+    "index": 98,
+    "input_mode": "free_coarse512_plus_native256",
+    "input_tensor_sha256": "319a45fb00637caa3f583c71e2125412b308598655e0f1d93882ba36bb355f2f",
+    "input_tensor_shape": [
+      1,
+      6,
+      512,
+      512
+    ],
+    "job": "PAKISTAN-FLOODING_017841_b11_free_coarse512_plus_native256",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "00574c954257b6f010fa9cb190e2004184d1cf5993942336ff9d1cd2829be0b3",
+      "ec8796ac2db4c9cb343dc9f786c7a3b6f3b0c9d604702a321b88c74db3fb45a9"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9999440908432007,
+      "predicted_building_pixels": 0,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 2.975100983348966e-07
+    },
+    "sample_id": "PAKISTAN-FLOODING_017841",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b00",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/TEXAS-TORNADOES_000325_b00_native256_contiguous.npz",
+    "cache_sha256": "e6da8c4e120c2031e798042349d43971d05b1d2b32868b36795e5db2dbcb98e6",
+    "coarse_rgb_sha256": null,
+    "declared_target": false,
+    "elapsed_seconds": 0.10421670798677951,
+    "event": "TEXAS-TORNADOES",
+    "index": 99,
+    "input_mode": "native256_contiguous",
+    "input_tensor_sha256": "150f9294dfad758a8f4855305e609e4f1fe48984a46f04d62e46d1ec268be6ac",
+    "input_tensor_shape": [
+      1,
+      6,
+      256,
+      256
+    ],
+    "job": "TEXAS-TORNADOES_000325_b00_native256_contiguous",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "be839eee894c85d76c66ac3b952f35434101ac01d06798c8482dffbe89a0e821",
+      "507b79a831f36da09f62f1e285e863dd4b41fa1330cf907438397aebbd5155ee"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9959478378295898,
+      "predicted_building_pixels": 3235,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 0.0001622456475161016
+    },
+    "sample_id": "TEXAS-TORNADOES_000325",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b01",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/TEXAS-TORNADOES_000325_b01_native256_contiguous.npz",
+    "cache_sha256": "e6da8c4e120c2031e798042349d43971d05b1d2b32868b36795e5db2dbcb98e6",
+    "coarse_rgb_sha256": null,
+    "declared_target": false,
+    "elapsed_seconds": 0.0867493330151774,
+    "event": "TEXAS-TORNADOES",
+    "index": 100,
+    "input_mode": "native256_contiguous",
+    "input_tensor_sha256": "ddedc4d71833019a705bef9288308367aa881680e40beed673befc04eba15719",
+    "input_tensor_shape": [
+      1,
+      6,
+      256,
+      256
+    ],
+    "job": "TEXAS-TORNADOES_000325_b01_native256_contiguous",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "3364110cd8324712284abcfed270ddf04fbf9e78a664497b9be3c05f8b67dbe1",
+      "e558d97db0083289c77e72b1fddb76f0b4d419eb28ea6b5808193044da8fa4ca"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9972140192985535,
+      "predicted_building_pixels": 1177,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 0.0001767018693499267
+    },
+    "sample_id": "TEXAS-TORNADOES_000325",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b10",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/TEXAS-TORNADOES_000325_b10_native256_contiguous.npz",
+    "cache_sha256": "e6da8c4e120c2031e798042349d43971d05b1d2b32868b36795e5db2dbcb98e6",
+    "coarse_rgb_sha256": null,
+    "declared_target": false,
+    "elapsed_seconds": 0.08160195802338421,
+    "event": "TEXAS-TORNADOES",
+    "index": 101,
+    "input_mode": "native256_contiguous",
+    "input_tensor_sha256": "b8abc6017bfdf46d719b4d1599266c76743e2c8425a0889469015b1366caf6b2",
+    "input_tensor_shape": [
+      1,
+      6,
+      256,
+      256
+    ],
+    "job": "TEXAS-TORNADOES_000325_b10_native256_contiguous",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "8582f90b25fe66bed8f7636aae847f917fe9cea01c5203fb70a1614b123de8c5",
+      "0bd0e7dc3aca9228bef25d668ad92b52e07bf091327008dfc015e2233d6ec47a"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9861449599266052,
+      "predicted_building_pixels": 9596,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 0.0002721433702390641
+    },
+    "sample_id": "TEXAS-TORNADOES_000325",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b11",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/TEXAS-TORNADOES_000325_b11_native256_contiguous.npz",
+    "cache_sha256": "e6da8c4e120c2031e798042349d43971d05b1d2b32868b36795e5db2dbcb98e6",
+    "coarse_rgb_sha256": null,
+    "declared_target": false,
+    "elapsed_seconds": 0.0874410830438137,
+    "event": "TEXAS-TORNADOES",
+    "index": 102,
+    "input_mode": "native256_contiguous",
+    "input_tensor_sha256": "b52762ebfff048dcce9db674c1d9b23be127911de3f959af58c15e4a829a7ff7",
+    "input_tensor_shape": [
+      1,
+      6,
+      256,
+      256
+    ],
+    "job": "TEXAS-TORNADOES_000325_b11_native256_contiguous",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "ff96bfe7f8ccc036deb4257a386c7dc0f6d4b8dea327b37caae9712f643e4eb6",
+      "e9ad386ed4832469bcdd9288d4d801b76b74f0cdc12b4028110a53fe9fdffb9f"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9960227012634277,
+      "predicted_building_pixels": 3910,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 0.0016011761035770178
+    },
+    "sample_id": "TEXAS-TORNADOES_000325",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b00",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/TEXAS-TORNADOES_000325_b00_free_coarse512_plus_native256.npz",
+    "cache_sha256": "b447d7d2fcfd62f39e072849bd793ceab7473828d6e785a62fc6b5e6484ef05a",
+    "coarse_rgb_sha256": [
+      "b05fa72d5476bd1d0acb229e6d276a11032933beefc50c289652f777f2152604",
+      "949c96599d58f24b9679db44ee10b97b04a2b0be6a14bad546f25f7b16e8ff4e"
+    ],
+    "declared_target": false,
+    "elapsed_seconds": 0.26210466597694904,
+    "event": "TEXAS-TORNADOES",
+    "index": 103,
+    "input_mode": "free_coarse512_plus_native256",
+    "input_tensor_sha256": "d258c55a44ab8407f7329e4ecc45388ebfb3c39b014a26ee4ca802cf044bde12",
+    "input_tensor_shape": [
+      1,
+      6,
+      512,
+      512
+    ],
+    "job": "TEXAS-TORNADOES_000325_b00_free_coarse512_plus_native256",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "be839eee894c85d76c66ac3b952f35434101ac01d06798c8482dffbe89a0e821",
+      "507b79a831f36da09f62f1e285e863dd4b41fa1330cf907438397aebbd5155ee"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9964389204978943,
+      "predicted_building_pixels": 7085,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 9.924770711222664e-05
+    },
+    "sample_id": "TEXAS-TORNADOES_000325",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b01",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/TEXAS-TORNADOES_000325_b01_free_coarse512_plus_native256.npz",
+    "cache_sha256": "b447d7d2fcfd62f39e072849bd793ceab7473828d6e785a62fc6b5e6484ef05a",
+    "coarse_rgb_sha256": [
+      "b05fa72d5476bd1d0acb229e6d276a11032933beefc50c289652f777f2152604",
+      "949c96599d58f24b9679db44ee10b97b04a2b0be6a14bad546f25f7b16e8ff4e"
+    ],
+    "declared_target": false,
+    "elapsed_seconds": 0.25961308396654204,
+    "event": "TEXAS-TORNADOES",
+    "index": 104,
+    "input_mode": "free_coarse512_plus_native256",
+    "input_tensor_sha256": "638e2d390e741882593bad161f3af9338b4ffe577f0f3cc3054523d74d395ad5",
+    "input_tensor_shape": [
+      1,
+      6,
+      512,
+      512
+    ],
+    "job": "TEXAS-TORNADOES_000325_b01_free_coarse512_plus_native256",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "3364110cd8324712284abcfed270ddf04fbf9e78a664497b9be3c05f8b67dbe1",
+      "e558d97db0083289c77e72b1fddb76f0b4d419eb28ea6b5808193044da8fa4ca"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9978123903274536,
+      "predicted_building_pixels": 2662,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 0.00014439676306210458
+    },
+    "sample_id": "TEXAS-TORNADOES_000325",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b10",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/TEXAS-TORNADOES_000325_b10_free_coarse512_plus_native256.npz",
+    "cache_sha256": "b447d7d2fcfd62f39e072849bd793ceab7473828d6e785a62fc6b5e6484ef05a",
+    "coarse_rgb_sha256": [
+      "b05fa72d5476bd1d0acb229e6d276a11032933beefc50c289652f777f2152604",
+      "949c96599d58f24b9679db44ee10b97b04a2b0be6a14bad546f25f7b16e8ff4e"
+    ],
+    "declared_target": false,
+    "elapsed_seconds": 0.259456624975428,
+    "event": "TEXAS-TORNADOES",
+    "index": 105,
+    "input_mode": "free_coarse512_plus_native256",
+    "input_tensor_sha256": "bf544d76669ba06fd25bddd27d896294d0646f4b412c47d35d954c1289a15bdc",
+    "input_tensor_shape": [
+      1,
+      6,
+      512,
+      512
+    ],
+    "job": "TEXAS-TORNADOES_000325_b10_free_coarse512_plus_native256",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "8582f90b25fe66bed8f7636aae847f917fe9cea01c5203fb70a1614b123de8c5",
+      "0bd0e7dc3aca9228bef25d668ad92b52e07bf091327008dfc015e2233d6ec47a"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9933828115463257,
+      "predicted_building_pixels": 12305,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 0.00018082059978041798
+    },
+    "sample_id": "TEXAS-TORNADOES_000325",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b11",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/TEXAS-TORNADOES_000325_b11_free_coarse512_plus_native256.npz",
+    "cache_sha256": "b447d7d2fcfd62f39e072849bd793ceab7473828d6e785a62fc6b5e6484ef05a",
+    "coarse_rgb_sha256": [
+      "b05fa72d5476bd1d0acb229e6d276a11032933beefc50c289652f777f2152604",
+      "949c96599d58f24b9679db44ee10b97b04a2b0be6a14bad546f25f7b16e8ff4e"
+    ],
+    "declared_target": false,
+    "elapsed_seconds": 0.26722608401905745,
+    "event": "TEXAS-TORNADOES",
+    "index": 106,
+    "input_mode": "free_coarse512_plus_native256",
+    "input_tensor_sha256": "590daf09dbd4edd45070b000aaf760a2238dc5081eb7f5d898fc08eacf8916cb",
+    "input_tensor_shape": [
+      1,
+      6,
+      512,
+      512
+    ],
+    "job": "TEXAS-TORNADOES_000325_b11_free_coarse512_plus_native256",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "ff96bfe7f8ccc036deb4257a386c7dc0f6d4b8dea327b37caae9712f643e4eb6",
+      "e9ad386ed4832469bcdd9288d4d801b76b74f0cdc12b4028110a53fe9fdffb9f"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9978041648864746,
+      "predicted_building_pixels": 5848,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 0.00032221974106505513
+    },
+    "sample_id": "TEXAS-TORNADOES_000325",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b00",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/TEXAS-TORNADOES_002697_b00_native256_contiguous.npz",
+    "cache_sha256": "e6da8c4e120c2031e798042349d43971d05b1d2b32868b36795e5db2dbcb98e6",
+    "coarse_rgb_sha256": null,
+    "declared_target": false,
+    "elapsed_seconds": 0.10577249998459592,
+    "event": "TEXAS-TORNADOES",
+    "index": 107,
+    "input_mode": "native256_contiguous",
+    "input_tensor_sha256": "f5dfe4cfcfeec94fbbc41af1a7ac6c21a03ef6c24e034901ddd94694f29812b3",
+    "input_tensor_shape": [
+      1,
+      6,
+      256,
+      256
+    ],
+    "job": "TEXAS-TORNADOES_002697_b00_native256_contiguous",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "48039d02efc3495d4ecbbd78fc53d85e3269e39bc2cf92b969a09c2b1f8e0c12",
+      "7a5d51a5bb99e66ff4e720f7abc7f9af08267a2f6ba200dfa6bd9e3ac6c9b961"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9999860525131226,
+      "predicted_building_pixels": 0,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 1.8440309190737025e-07
+    },
+    "sample_id": "TEXAS-TORNADOES_002697",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b01",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/TEXAS-TORNADOES_002697_b01_native256_contiguous.npz",
+    "cache_sha256": "e6da8c4e120c2031e798042349d43971d05b1d2b32868b36795e5db2dbcb98e6",
+    "coarse_rgb_sha256": null,
+    "declared_target": false,
+    "elapsed_seconds": 0.07915629196213558,
+    "event": "TEXAS-TORNADOES",
+    "index": 108,
+    "input_mode": "native256_contiguous",
+    "input_tensor_sha256": "c90b755bd5f1a33f778cb6d31decd108e56dca4860f05fbd234003c613d33d51",
+    "input_tensor_shape": [
+      1,
+      6,
+      256,
+      256
+    ],
+    "job": "TEXAS-TORNADOES_002697_b01_native256_contiguous",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "dbcc3848eeb380976f183a74b740563fecf4b9f92bc039a9c96bbd691043119f",
+      "c3c834c5954b747947aac8d6c2cb1beae733d1ff4d77b9b8bcf97331ff0183be"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9999973177909851,
+      "predicted_building_pixels": 0,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 2.2945231492599305e-08
+    },
+    "sample_id": "TEXAS-TORNADOES_002697",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b10",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/TEXAS-TORNADOES_002697_b10_native256_contiguous.npz",
+    "cache_sha256": "e6da8c4e120c2031e798042349d43971d05b1d2b32868b36795e5db2dbcb98e6",
+    "coarse_rgb_sha256": null,
+    "declared_target": false,
+    "elapsed_seconds": 0.08154650003416464,
+    "event": "TEXAS-TORNADOES",
+    "index": 109,
+    "input_mode": "native256_contiguous",
+    "input_tensor_sha256": "250d6361c59cf58ae8218048b2c81247070831f23a2f9e1d1dfe3770e3ceb81d",
+    "input_tensor_shape": [
+      1,
+      6,
+      256,
+      256
+    ],
+    "job": "TEXAS-TORNADOES_002697_b10_native256_contiguous",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "9e0fe249f326836b2e5855e0c18956d504c678324ec3cfa91f19eb4afd8dede8",
+      "2276718ef23e5ae5efd76d0bfa620991aa700c33ec6d1f417c9716ff35cd62b0"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9950317144393921,
+      "predicted_building_pixels": 2964,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 0.0009871723596006632
+    },
+    "sample_id": "TEXAS-TORNADOES_002697",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b11",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/TEXAS-TORNADOES_002697_b11_native256_contiguous.npz",
+    "cache_sha256": "e6da8c4e120c2031e798042349d43971d05b1d2b32868b36795e5db2dbcb98e6",
+    "coarse_rgb_sha256": null,
+    "declared_target": false,
+    "elapsed_seconds": 0.08677545801037923,
+    "event": "TEXAS-TORNADOES",
+    "index": 110,
+    "input_mode": "native256_contiguous",
+    "input_tensor_sha256": "13cad0fc989beca021bda91a9460fe7870008565ab03adc298afee9c27c00f57",
+    "input_tensor_shape": [
+      1,
+      6,
+      256,
+      256
+    ],
+    "job": "TEXAS-TORNADOES_002697_b11_native256_contiguous",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "80312dc7a2e50c9b0e0fb2cef001b2f21a530ebfec6c4fd0c2455355093470cd",
+      "e7cf699aa76d4445051e4a92a897a826dbe866a6e36389cd3c906ffeec8d2e70"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.997205376625061,
+      "predicted_building_pixels": 1118,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 0.00035491501330398023
+    },
+    "sample_id": "TEXAS-TORNADOES_002697",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b00",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/TEXAS-TORNADOES_002697_b00_free_coarse512_plus_native256.npz",
+    "cache_sha256": "b447d7d2fcfd62f39e072849bd793ceab7473828d6e785a62fc6b5e6484ef05a",
+    "coarse_rgb_sha256": [
+      "9304b0d20f6330d07f4bfd9bc21946f4a355029057468bdabd872d42e3f3f9ee",
+      "228506d87426e339d84a1a98dc3cc75fc993f76de30143b94e53f040b1b83192"
+    ],
+    "declared_target": false,
+    "elapsed_seconds": 0.25764608301687986,
+    "event": "TEXAS-TORNADOES",
+    "index": 111,
+    "input_mode": "free_coarse512_plus_native256",
+    "input_tensor_sha256": "638b3cc356079b1971b196606d95aeaa10bed231a00972f36bd40a73cf836ed5",
+    "input_tensor_shape": [
+      1,
+      6,
+      512,
+      512
+    ],
+    "job": "TEXAS-TORNADOES_002697_b00_free_coarse512_plus_native256",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "48039d02efc3495d4ecbbd78fc53d85e3269e39bc2cf92b969a09c2b1f8e0c12",
+      "7a5d51a5bb99e66ff4e720f7abc7f9af08267a2f6ba200dfa6bd9e3ac6c9b961"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9972386360168457,
+      "predicted_building_pixels": 4027,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 0.00026281969621777534
+    },
+    "sample_id": "TEXAS-TORNADOES_002697",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b01",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/TEXAS-TORNADOES_002697_b01_free_coarse512_plus_native256.npz",
+    "cache_sha256": "b447d7d2fcfd62f39e072849bd793ceab7473828d6e785a62fc6b5e6484ef05a",
+    "coarse_rgb_sha256": [
+      "9304b0d20f6330d07f4bfd9bc21946f4a355029057468bdabd872d42e3f3f9ee",
+      "228506d87426e339d84a1a98dc3cc75fc993f76de30143b94e53f040b1b83192"
+    ],
+    "declared_target": false,
+    "elapsed_seconds": 0.2435439170221798,
+    "event": "TEXAS-TORNADOES",
+    "index": 112,
+    "input_mode": "free_coarse512_plus_native256",
+    "input_tensor_sha256": "6c070d0a3fd0aae79700a6bda241a884a3b6c3d39732840b29a28822ca759617",
+    "input_tensor_shape": [
+      1,
+      6,
+      512,
+      512
+    ],
+    "job": "TEXAS-TORNADOES_002697_b01_free_coarse512_plus_native256",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "dbcc3848eeb380976f183a74b740563fecf4b9f92bc039a9c96bbd691043119f",
+      "c3c834c5954b747947aac8d6c2cb1beae733d1ff4d77b9b8bcf97331ff0183be"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9967533349990845,
+      "predicted_building_pixels": 5022,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 0.00028996303444728255
+    },
+    "sample_id": "TEXAS-TORNADOES_002697",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b10",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/TEXAS-TORNADOES_002697_b10_free_coarse512_plus_native256.npz",
+    "cache_sha256": "b447d7d2fcfd62f39e072849bd793ceab7473828d6e785a62fc6b5e6484ef05a",
+    "coarse_rgb_sha256": [
+      "9304b0d20f6330d07f4bfd9bc21946f4a355029057468bdabd872d42e3f3f9ee",
+      "228506d87426e339d84a1a98dc3cc75fc993f76de30143b94e53f040b1b83192"
+    ],
+    "declared_target": false,
+    "elapsed_seconds": 0.25748133403249085,
+    "event": "TEXAS-TORNADOES",
+    "index": 113,
+    "input_mode": "free_coarse512_plus_native256",
+    "input_tensor_sha256": "3c9f4a94a8c273a4d72c2139999f9c79396e558beb8674e6fa3d36963c0e1b66",
+    "input_tensor_shape": [
+      1,
+      6,
+      512,
+      512
+    ],
+    "job": "TEXAS-TORNADOES_002697_b10_free_coarse512_plus_native256",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "9e0fe249f326836b2e5855e0c18956d504c678324ec3cfa91f19eb4afd8dede8",
+      "2276718ef23e5ae5efd76d0bfa620991aa700c33ec6d1f417c9716ff35cd62b0"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9981923699378967,
+      "predicted_building_pixels": 4354,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 0.0003040831652469933
+    },
+    "sample_id": "TEXAS-TORNADOES_002697",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b11",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/TEXAS-TORNADOES_002697_b11_free_coarse512_plus_native256.npz",
+    "cache_sha256": "b447d7d2fcfd62f39e072849bd793ceab7473828d6e785a62fc6b5e6484ef05a",
+    "coarse_rgb_sha256": [
+      "9304b0d20f6330d07f4bfd9bc21946f4a355029057468bdabd872d42e3f3f9ee",
+      "228506d87426e339d84a1a98dc3cc75fc993f76de30143b94e53f040b1b83192"
+    ],
+    "declared_target": false,
+    "elapsed_seconds": 0.2567373749916442,
+    "event": "TEXAS-TORNADOES",
+    "index": 114,
+    "input_mode": "free_coarse512_plus_native256",
+    "input_tensor_sha256": "22c2c063befdda23f8f061fcd2199912ad71d00a9551a14a0b5bd0fb7fd91be4",
+    "input_tensor_shape": [
+      1,
+      6,
+      512,
+      512
+    ],
+    "job": "TEXAS-TORNADOES_002697_b11_free_coarse512_plus_native256",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "80312dc7a2e50c9b0e0fb2cef001b2f21a530ebfec6c4fd0c2455355093470cd",
+      "e7cf699aa76d4445051e4a92a897a826dbe866a6e36389cd3c906ffeec8d2e70"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.996734082698822,
+      "predicted_building_pixels": 5310,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 0.00024823209969326854
+    },
+    "sample_id": "TEXAS-TORNADOES_002697",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b00",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/TEXAS-TORNADOES_002969_b00_native256_contiguous.npz",
+    "cache_sha256": "e6da8c4e120c2031e798042349d43971d05b1d2b32868b36795e5db2dbcb98e6",
+    "coarse_rgb_sha256": null,
+    "declared_target": false,
+    "elapsed_seconds": 0.10149487503804266,
+    "event": "TEXAS-TORNADOES",
+    "index": 115,
+    "input_mode": "native256_contiguous",
+    "input_tensor_sha256": "41d205806c6bef084aa08922122fca6a65977ace4551c84d859dbefe8fe61d8e",
+    "input_tensor_shape": [
+      1,
+      6,
+      256,
+      256
+    ],
+    "job": "TEXAS-TORNADOES_002969_b00_native256_contiguous",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "d5d10077461b86f5b96cb5348800fad336f812db684bd7812f235948a1f92a4a",
+      "ee0c42ff8f2c5ae0f0ccb1624481be2c650ede8b7d650841e95d2e10d5c01ef2"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9818412065505981,
+      "predicted_building_pixels": 7173,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 0.0003581089258659631
+    },
+    "sample_id": "TEXAS-TORNADOES_002969",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b01",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/TEXAS-TORNADOES_002969_b01_native256_contiguous.npz",
+    "cache_sha256": "e6da8c4e120c2031e798042349d43971d05b1d2b32868b36795e5db2dbcb98e6",
+    "coarse_rgb_sha256": null,
+    "declared_target": false,
+    "elapsed_seconds": 0.09229870798299089,
+    "event": "TEXAS-TORNADOES",
+    "index": 116,
+    "input_mode": "native256_contiguous",
+    "input_tensor_sha256": "ac88652eb9b8d4dccbd049025c25d15b84aa8ad1a162d3d7c6c552df6d15dc9e",
+    "input_tensor_shape": [
+      1,
+      6,
+      256,
+      256
+    ],
+    "job": "TEXAS-TORNADOES_002969_b01_native256_contiguous",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "e5d753d968ade69c7722307dd11d9c09d12938878f7606aae4efe332c6a7ff11",
+      "6de51503750cebe12859af55e80b8270008192e3954f096e9c2badaf1628b591"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9975603818893433,
+      "predicted_building_pixels": 807,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 0.0006226752884685993
+    },
+    "sample_id": "TEXAS-TORNADOES_002969",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b10",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/TEXAS-TORNADOES_002969_b10_native256_contiguous.npz",
+    "cache_sha256": "e6da8c4e120c2031e798042349d43971d05b1d2b32868b36795e5db2dbcb98e6",
+    "coarse_rgb_sha256": null,
+    "declared_target": false,
+    "elapsed_seconds": 0.08459774998482317,
+    "event": "TEXAS-TORNADOES",
+    "index": 117,
+    "input_mode": "native256_contiguous",
+    "input_tensor_sha256": "1b29afa7ba88d952a6c8e3d3cd7ffa0a92976685b7cbc051036289c6fbc7e417",
+    "input_tensor_shape": [
+      1,
+      6,
+      256,
+      256
+    ],
+    "job": "TEXAS-TORNADOES_002969_b10_native256_contiguous",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "3381de4ca9f3a477f25989dfc8b744e7916046b7aa369f61a9a2f7dc0963ec9e",
+      "3381de4ca9f3a477f25989dfc8b744e7916046b7aa369f61a9a2f7dc0963ec9e"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9999983310699463,
+      "predicted_building_pixels": 0,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 6.7695432592884686e-12
+    },
+    "sample_id": "TEXAS-TORNADOES_002969",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b11",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/TEXAS-TORNADOES_002969_b11_native256_contiguous.npz",
+    "cache_sha256": "e6da8c4e120c2031e798042349d43971d05b1d2b32868b36795e5db2dbcb98e6",
+    "coarse_rgb_sha256": null,
+    "declared_target": false,
+    "elapsed_seconds": 0.08727908303262666,
+    "event": "TEXAS-TORNADOES",
+    "index": 118,
+    "input_mode": "native256_contiguous",
+    "input_tensor_sha256": "1b29afa7ba88d952a6c8e3d3cd7ffa0a92976685b7cbc051036289c6fbc7e417",
+    "input_tensor_shape": [
+      1,
+      6,
+      256,
+      256
+    ],
+    "job": "TEXAS-TORNADOES_002969_b11_native256_contiguous",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "3381de4ca9f3a477f25989dfc8b744e7916046b7aa369f61a9a2f7dc0963ec9e",
+      "3381de4ca9f3a477f25989dfc8b744e7916046b7aa369f61a9a2f7dc0963ec9e"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9999983310699463,
+      "predicted_building_pixels": 0,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 6.7695432592884686e-12
+    },
+    "sample_id": "TEXAS-TORNADOES_002969",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b00",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/TEXAS-TORNADOES_002969_b00_free_coarse512_plus_native256.npz",
+    "cache_sha256": "b447d7d2fcfd62f39e072849bd793ceab7473828d6e785a62fc6b5e6484ef05a",
+    "coarse_rgb_sha256": [
+      "e6584eb17a4d479f6438623cef31f0e2e6e9b8866e75f47be49a7a1111a266be",
+      "9a0428f8b7acf267e0d5af351f6d1221ccc2a88ac780ebc2ccc79c35c66f0803"
+    ],
+    "declared_target": false,
+    "elapsed_seconds": 0.26309729099739343,
+    "event": "TEXAS-TORNADOES",
+    "index": 119,
+    "input_mode": "free_coarse512_plus_native256",
+    "input_tensor_sha256": "504863b03547ddee36851c54b481b44646d23604ebe0c21fa02a0ec72f42b478",
+    "input_tensor_shape": [
+      1,
+      6,
+      512,
+      512
+    ],
+    "job": "TEXAS-TORNADOES_002969_b00_free_coarse512_plus_native256",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "d5d10077461b86f5b96cb5348800fad336f812db684bd7812f235948a1f92a4a",
+      "ee0c42ff8f2c5ae0f0ccb1624481be2c650ede8b7d650841e95d2e10d5c01ef2"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9940205216407776,
+      "predicted_building_pixels": 8399,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 0.0003405848692636937
+    },
+    "sample_id": "TEXAS-TORNADOES_002969",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b01",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/TEXAS-TORNADOES_002969_b01_free_coarse512_plus_native256.npz",
+    "cache_sha256": "b447d7d2fcfd62f39e072849bd793ceab7473828d6e785a62fc6b5e6484ef05a",
+    "coarse_rgb_sha256": [
+      "e6584eb17a4d479f6438623cef31f0e2e6e9b8866e75f47be49a7a1111a266be",
+      "9a0428f8b7acf267e0d5af351f6d1221ccc2a88ac780ebc2ccc79c35c66f0803"
+    ],
+    "declared_target": false,
+    "elapsed_seconds": 0.25946645898511633,
+    "event": "TEXAS-TORNADOES",
+    "index": 120,
+    "input_mode": "free_coarse512_plus_native256",
+    "input_tensor_sha256": "cbac9908303cc7168ac8e40791227572a71b65922b19aea709b2bf7e8ac0215d",
+    "input_tensor_shape": [
+      1,
+      6,
+      512,
+      512
+    ],
+    "job": "TEXAS-TORNADOES_002969_b01_free_coarse512_plus_native256",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "e5d753d968ade69c7722307dd11d9c09d12938878f7606aae4efe332c6a7ff11",
+      "6de51503750cebe12859af55e80b8270008192e3954f096e9c2badaf1628b591"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9954553842544556,
+      "predicted_building_pixels": 4703,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 0.0005343810189515352
+    },
+    "sample_id": "TEXAS-TORNADOES_002969",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b10",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/TEXAS-TORNADOES_002969_b10_free_coarse512_plus_native256.npz",
+    "cache_sha256": "b447d7d2fcfd62f39e072849bd793ceab7473828d6e785a62fc6b5e6484ef05a",
+    "coarse_rgb_sha256": [
+      "e6584eb17a4d479f6438623cef31f0e2e6e9b8866e75f47be49a7a1111a266be",
+      "9a0428f8b7acf267e0d5af351f6d1221ccc2a88ac780ebc2ccc79c35c66f0803"
+    ],
+    "declared_target": false,
+    "elapsed_seconds": 0.2669943749788217,
+    "event": "TEXAS-TORNADOES",
+    "index": 121,
+    "input_mode": "free_coarse512_plus_native256",
+    "input_tensor_sha256": "1cd89e3a6cc14d69a43291cadc0ff4b1a09ef00c8396beceda8e739c1e13c5f4",
+    "input_tensor_shape": [
+      1,
+      6,
+      512,
+      512
+    ],
+    "job": "TEXAS-TORNADOES_002969_b10_free_coarse512_plus_native256",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "3381de4ca9f3a477f25989dfc8b744e7916046b7aa369f61a9a2f7dc0963ec9e",
+      "3381de4ca9f3a477f25989dfc8b744e7916046b7aa369f61a9a2f7dc0963ec9e"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9907769560813904,
+      "predicted_building_pixels": 9963,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 0.0002863845438696444
+    },
+    "sample_id": "TEXAS-TORNADOES_002969",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b11",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/TEXAS-TORNADOES_002969_b11_free_coarse512_plus_native256.npz",
+    "cache_sha256": "b447d7d2fcfd62f39e072849bd793ceab7473828d6e785a62fc6b5e6484ef05a",
+    "coarse_rgb_sha256": [
+      "e6584eb17a4d479f6438623cef31f0e2e6e9b8866e75f47be49a7a1111a266be",
+      "9a0428f8b7acf267e0d5af351f6d1221ccc2a88ac780ebc2ccc79c35c66f0803"
+    ],
+    "declared_target": false,
+    "elapsed_seconds": 0.2409633329953067,
+    "event": "TEXAS-TORNADOES",
+    "index": 122,
+    "input_mode": "free_coarse512_plus_native256",
+    "input_tensor_sha256": "1cd89e3a6cc14d69a43291cadc0ff4b1a09ef00c8396beceda8e739c1e13c5f4",
+    "input_tensor_shape": [
+      1,
+      6,
+      512,
+      512
+    ],
+    "job": "TEXAS-TORNADOES_002969_b11_free_coarse512_plus_native256",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "3381de4ca9f3a477f25989dfc8b744e7916046b7aa369f61a9a2f7dc0963ec9e",
+      "3381de4ca9f3a477f25989dfc8b744e7916046b7aa369f61a9a2f7dc0963ec9e"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9907769560813904,
+      "predicted_building_pixels": 9963,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 0.0002863845438696444
+    },
+    "sample_id": "TEXAS-TORNADOES_002969",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b00",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/TEXAS-TORNADOES_003987_b00_native256_contiguous.npz",
+    "cache_sha256": "e6da8c4e120c2031e798042349d43971d05b1d2b32868b36795e5db2dbcb98e6",
+    "coarse_rgb_sha256": null,
+    "declared_target": false,
+    "elapsed_seconds": 0.096615209011361,
+    "event": "TEXAS-TORNADOES",
+    "index": 123,
+    "input_mode": "native256_contiguous",
+    "input_tensor_sha256": "14efd60d6ae8dc1288909e7475e33805aade9400ed8c3e680690297a6ce7503b",
+    "input_tensor_shape": [
+      1,
+      6,
+      256,
+      256
+    ],
+    "job": "TEXAS-TORNADOES_003987_b00_native256_contiguous",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "cc92729ee5b2ab34f5618f9926704d17f69917ca4ef35d04ef92e42001e79124",
+      "e3edd2e5ec72767ba14e4a76c78b8d6b260814bcd62a7b3f64708dfc7b99bed7"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9999940395355225,
+      "predicted_building_pixels": 0,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 1.3552903510571923e-07
+    },
+    "sample_id": "TEXAS-TORNADOES_003987",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b01",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/TEXAS-TORNADOES_003987_b01_native256_contiguous.npz",
+    "cache_sha256": "e6da8c4e120c2031e798042349d43971d05b1d2b32868b36795e5db2dbcb98e6",
+    "coarse_rgb_sha256": null,
+    "declared_target": false,
+    "elapsed_seconds": 0.07767479203175753,
+    "event": "TEXAS-TORNADOES",
+    "index": 124,
+    "input_mode": "native256_contiguous",
+    "input_tensor_sha256": "fcd44ec7e56f80d3e21c51c869ffd23b539af1262a040bed2f1dd685acda0436",
+    "input_tensor_shape": [
+      1,
+      6,
+      256,
+      256
+    ],
+    "job": "TEXAS-TORNADOES_003987_b01_native256_contiguous",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "fae78177bcaf4b219547be762019defe41f8a104764deb1c4ba3506e58609356",
+      "284b4516f13d43cb43aed52f1630f9aa3ca5b70b3196bde4920dc31301a832b0"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9999808669090271,
+      "predicted_building_pixels": 0,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 1.0007080675222824e-07
+    },
+    "sample_id": "TEXAS-TORNADOES_003987",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b10",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/TEXAS-TORNADOES_003987_b10_native256_contiguous.npz",
+    "cache_sha256": "e6da8c4e120c2031e798042349d43971d05b1d2b32868b36795e5db2dbcb98e6",
+    "coarse_rgb_sha256": null,
+    "declared_target": false,
+    "elapsed_seconds": 0.0826653330004774,
+    "event": "TEXAS-TORNADOES",
+    "index": 125,
+    "input_mode": "native256_contiguous",
+    "input_tensor_sha256": "4df976a66cd9bd0feb5f0925dec9beef29b548eac9f513f9ec42abe9c16b37cd",
+    "input_tensor_shape": [
+      1,
+      6,
+      256,
+      256
+    ],
+    "job": "TEXAS-TORNADOES_003987_b10_native256_contiguous",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "d83b8eb9243976c3cd38cf5ca4a247dd8afc8329cd5cf75222f3c262490c8e3a",
+      "e2d6262d465edbd0126badfacfc167fb01376cd7093982df393185fa07673ad6"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9999735355377197,
+      "predicted_building_pixels": 0,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 1.3150126676464424e-07
+    },
+    "sample_id": "TEXAS-TORNADOES_003987",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b11",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/TEXAS-TORNADOES_003987_b11_native256_contiguous.npz",
+    "cache_sha256": "e6da8c4e120c2031e798042349d43971d05b1d2b32868b36795e5db2dbcb98e6",
+    "coarse_rgb_sha256": null,
+    "declared_target": false,
+    "elapsed_seconds": 0.08895774994743988,
+    "event": "TEXAS-TORNADOES",
+    "index": 126,
+    "input_mode": "native256_contiguous",
+    "input_tensor_sha256": "e2971244ab894c0879ebf19ec171b9ac0a39aa815770baaf5b0de1f1f777884d",
+    "input_tensor_shape": [
+      1,
+      6,
+      256,
+      256
+    ],
+    "job": "TEXAS-TORNADOES_003987_b11_native256_contiguous",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "cc4b9327301b99834e3ad8eac96b3c6712362533f6c39b6039fd75b2b1eadd6f",
+      "bd1e14588820238e9116af47c5e496a6a185f2f8d36edb4b27af98c12b5670f1"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9999599456787109,
+      "predicted_building_pixels": 0,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 4.906362960355182e-08
+    },
+    "sample_id": "TEXAS-TORNADOES_003987",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b00",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/TEXAS-TORNADOES_003987_b00_free_coarse512_plus_native256.npz",
+    "cache_sha256": "b447d7d2fcfd62f39e072849bd793ceab7473828d6e785a62fc6b5e6484ef05a",
+    "coarse_rgb_sha256": [
+      "96e3b90283b0915b327813586a34205cac421fa3625eb846c95348c84c0c07ff",
+      "729daa7c5cf126c23961bcb0102d17ec4283d191ca669b6d0e77681e0a83c419"
+    ],
+    "declared_target": false,
+    "elapsed_seconds": 0.26582954195328057,
+    "event": "TEXAS-TORNADOES",
+    "index": 127,
+    "input_mode": "free_coarse512_plus_native256",
+    "input_tensor_sha256": "93e43312fd0f84cc35cb7d685c9acad8deb40086cff88d01ac0ca2a9a46fac9d",
+    "input_tensor_shape": [
+      1,
+      6,
+      512,
+      512
+    ],
+    "job": "TEXAS-TORNADOES_003987_b00_free_coarse512_plus_native256",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "cc92729ee5b2ab34f5618f9926704d17f69917ca4ef35d04ef92e42001e79124",
+      "e3edd2e5ec72767ba14e4a76c78b8d6b260814bcd62a7b3f64708dfc7b99bed7"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9999587535858154,
+      "predicted_building_pixels": 0,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 1.744117952284796e-07
+    },
+    "sample_id": "TEXAS-TORNADOES_003987",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b01",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/TEXAS-TORNADOES_003987_b01_free_coarse512_plus_native256.npz",
+    "cache_sha256": "b447d7d2fcfd62f39e072849bd793ceab7473828d6e785a62fc6b5e6484ef05a",
+    "coarse_rgb_sha256": [
+      "96e3b90283b0915b327813586a34205cac421fa3625eb846c95348c84c0c07ff",
+      "729daa7c5cf126c23961bcb0102d17ec4283d191ca669b6d0e77681e0a83c419"
+    ],
+    "declared_target": false,
+    "elapsed_seconds": 0.26751329202670604,
+    "event": "TEXAS-TORNADOES",
+    "index": 128,
+    "input_mode": "free_coarse512_plus_native256",
+    "input_tensor_sha256": "f6035f56adbbc6ee4772a37941d91a3b540ee188064a5e922465b600c6226ad6",
+    "input_tensor_shape": [
+      1,
+      6,
+      512,
+      512
+    ],
+    "job": "TEXAS-TORNADOES_003987_b01_free_coarse512_plus_native256",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "fae78177bcaf4b219547be762019defe41f8a104764deb1c4ba3506e58609356",
+      "284b4516f13d43cb43aed52f1630f9aa3ca5b70b3196bde4920dc31301a832b0"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9999645352363586,
+      "predicted_building_pixels": 0,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 9.185416871559937e-08
+    },
+    "sample_id": "TEXAS-TORNADOES_003987",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b10",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/TEXAS-TORNADOES_003987_b10_free_coarse512_plus_native256.npz",
+    "cache_sha256": "b447d7d2fcfd62f39e072849bd793ceab7473828d6e785a62fc6b5e6484ef05a",
+    "coarse_rgb_sha256": [
+      "96e3b90283b0915b327813586a34205cac421fa3625eb846c95348c84c0c07ff",
+      "729daa7c5cf126c23961bcb0102d17ec4283d191ca669b6d0e77681e0a83c419"
+    ],
+    "declared_target": false,
+    "elapsed_seconds": 0.2635880839661695,
+    "event": "TEXAS-TORNADOES",
+    "index": 129,
+    "input_mode": "free_coarse512_plus_native256",
+    "input_tensor_sha256": "8b269c37d40135925a52c2a9f41f4d48ea5bc7afda6fef987b6d3042534d7b4f",
+    "input_tensor_shape": [
+      1,
+      6,
+      512,
+      512
+    ],
+    "job": "TEXAS-TORNADOES_003987_b10_free_coarse512_plus_native256",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "d83b8eb9243976c3cd38cf5ca4a247dd8afc8329cd5cf75222f3c262490c8e3a",
+      "e2d6262d465edbd0126badfacfc167fb01376cd7093982df393185fa07673ad6"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9999628067016602,
+      "predicted_building_pixels": 0,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 1.9204492218705127e-07
+    },
+    "sample_id": "TEXAS-TORNADOES_003987",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b11",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/TEXAS-TORNADOES_003987_b11_free_coarse512_plus_native256.npz",
+    "cache_sha256": "b447d7d2fcfd62f39e072849bd793ceab7473828d6e785a62fc6b5e6484ef05a",
+    "coarse_rgb_sha256": [
+      "96e3b90283b0915b327813586a34205cac421fa3625eb846c95348c84c0c07ff",
+      "729daa7c5cf126c23961bcb0102d17ec4283d191ca669b6d0e77681e0a83c419"
+    ],
+    "declared_target": false,
+    "elapsed_seconds": 0.25352441699942574,
+    "event": "TEXAS-TORNADOES",
+    "index": 130,
+    "input_mode": "free_coarse512_plus_native256",
+    "input_tensor_sha256": "bc9d0a59cbaede73d3accd3c6144c0dfdddbfae72d49dfe9ee2ba052273d4610",
+    "input_tensor_shape": [
+      1,
+      6,
+      512,
+      512
+    ],
+    "job": "TEXAS-TORNADOES_003987_b11_free_coarse512_plus_native256",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "cc4b9327301b99834e3ad8eac96b3c6712362533f6c39b6039fd75b2b1eadd6f",
+      "bd1e14588820238e9116af47c5e496a6a185f2f8d36edb4b27af98c12b5670f1"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9999626874923706,
+      "predicted_building_pixels": 0,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 1.2600712580024265e-06
+    },
+    "sample_id": "TEXAS-TORNADOES_003987",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b00",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/TEXAS-TORNADOES_004417_b00_native256_contiguous.npz",
+    "cache_sha256": "e6da8c4e120c2031e798042349d43971d05b1d2b32868b36795e5db2dbcb98e6",
+    "coarse_rgb_sha256": null,
+    "declared_target": false,
+    "elapsed_seconds": 0.09614895796403289,
+    "event": "TEXAS-TORNADOES",
+    "index": 131,
+    "input_mode": "native256_contiguous",
+    "input_tensor_sha256": "736afce5b98db1f850a14618987eb4836269f91e614e073df7abe7c1ed393d05",
+    "input_tensor_shape": [
+      1,
+      6,
+      256,
+      256
+    ],
+    "job": "TEXAS-TORNADOES_004417_b00_native256_contiguous",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "2b4d3ca89392a24123102fcf9d26a204bee9f63b363e32b3fa9d99cd28b29446",
+      "5c4c6ed4d340c066505bccb42359a9e50aa53b508902e00c014e0e3d5ab06d2f"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.999920129776001,
+      "predicted_building_pixels": 0,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 9.143001875600021e-07
+    },
+    "sample_id": "TEXAS-TORNADOES_004417",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b01",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/TEXAS-TORNADOES_004417_b01_native256_contiguous.npz",
+    "cache_sha256": "e6da8c4e120c2031e798042349d43971d05b1d2b32868b36795e5db2dbcb98e6",
+    "coarse_rgb_sha256": null,
+    "declared_target": false,
+    "elapsed_seconds": 0.07849258300848305,
+    "event": "TEXAS-TORNADOES",
+    "index": 132,
+    "input_mode": "native256_contiguous",
+    "input_tensor_sha256": "fced9f3aa5b2d10f3b814bc2551169a8bd50915f44e83f677e25430999a61baa",
+    "input_tensor_shape": [
+      1,
+      6,
+      256,
+      256
+    ],
+    "job": "TEXAS-TORNADOES_004417_b01_native256_contiguous",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "e65af22f96b47d73b1655c0cd0bbdc2e2e53bce70a257d65e141b79b963bc846",
+      "cfe566ddd0c2887194a1b9ba13a963a2155cf8d014748326293b6a33af271b30"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9999071359634399,
+      "predicted_building_pixels": 21,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 0.0012870279606431723
+    },
+    "sample_id": "TEXAS-TORNADOES_004417",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b10",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/TEXAS-TORNADOES_004417_b10_native256_contiguous.npz",
+    "cache_sha256": "e6da8c4e120c2031e798042349d43971d05b1d2b32868b36795e5db2dbcb98e6",
+    "coarse_rgb_sha256": null,
+    "declared_target": false,
+    "elapsed_seconds": 0.08188849996076897,
+    "event": "TEXAS-TORNADOES",
+    "index": 133,
+    "input_mode": "native256_contiguous",
+    "input_tensor_sha256": "1ad2567da015a809b33a7bdbc0fe0229063923bb198fdb4280cd2eef05fb91b1",
+    "input_tensor_shape": [
+      1,
+      6,
+      256,
+      256
+    ],
+    "job": "TEXAS-TORNADOES_004417_b10_native256_contiguous",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "d3e6b875c6a96e7353d3937932bbdbca8ade82f81febaf67d7c3ea4edc426566",
+      "d99d6b88e2a7554d382f48bac5a0f8aa6236bc70b6fc9e3c2a221ffa6d371b22"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.999956488609314,
+      "predicted_building_pixels": 0,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 1.8013477642853104e-07
+    },
+    "sample_id": "TEXAS-TORNADOES_004417",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b11",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/TEXAS-TORNADOES_004417_b11_native256_contiguous.npz",
+    "cache_sha256": "e6da8c4e120c2031e798042349d43971d05b1d2b32868b36795e5db2dbcb98e6",
+    "coarse_rgb_sha256": null,
+    "declared_target": false,
+    "elapsed_seconds": 0.09508341702166945,
+    "event": "TEXAS-TORNADOES",
+    "index": 134,
+    "input_mode": "native256_contiguous",
+    "input_tensor_sha256": "e37970c3403e40479bf9fc2615a601b9f6ba9316a1057ec060b5c90cfe6ffb0a",
+    "input_tensor_shape": [
+      1,
+      6,
+      256,
+      256
+    ],
+    "job": "TEXAS-TORNADOES_004417_b11_native256_contiguous",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "54b0c46c8e71712d22eeb0c9ba997ca614abd34b1bc4eb294e2e57c60d29f068",
+      "08350c93114291b2764654e81c95fbaf7192ea0d5b06ef65e7fc165797378a73"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9995869398117065,
+      "predicted_building_pixels": 98,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 0.00029760535107925534
+    },
+    "sample_id": "TEXAS-TORNADOES_004417",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b00",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/TEXAS-TORNADOES_004417_b00_free_coarse512_plus_native256.npz",
+    "cache_sha256": "b447d7d2fcfd62f39e072849bd793ceab7473828d6e785a62fc6b5e6484ef05a",
+    "coarse_rgb_sha256": [
+      "7aba308283f42898d273b5b0ef7487ac86fc6f327d8a2186b03eddf046391d6e",
+      "81ce9d47a2abe0e544f8d30a602152a87e2824169d2e644ea6ba8bc5a17b7877"
+    ],
+    "declared_target": false,
+    "elapsed_seconds": 0.2674640409532003,
+    "event": "TEXAS-TORNADOES",
+    "index": 135,
+    "input_mode": "free_coarse512_plus_native256",
+    "input_tensor_sha256": "5f5e4b41c0efc7c02b214ff1aec5ad9abbc5f1c3fafb47a76ee328becf028d42",
+    "input_tensor_shape": [
+      1,
+      6,
+      512,
+      512
+    ],
+    "job": "TEXAS-TORNADOES_004417_b00_free_coarse512_plus_native256",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "2b4d3ca89392a24123102fcf9d26a204bee9f63b363e32b3fa9d99cd28b29446",
+      "5c4c6ed4d340c066505bccb42359a9e50aa53b508902e00c014e0e3d5ab06d2f"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9997901916503906,
+      "predicted_building_pixels": 182,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 0.0009638152550905943
+    },
+    "sample_id": "TEXAS-TORNADOES_004417",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b01",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/TEXAS-TORNADOES_004417_b01_free_coarse512_plus_native256.npz",
+    "cache_sha256": "4b19dbd2500b3a0f55d90d55c85c980d7c9e808ad54a0ffc0f5e296bbbe8e36c",
+    "coarse_rgb_sha256": [
+      "7aba308283f42898d273b5b0ef7487ac86fc6f327d8a2186b03eddf046391d6e",
+      "81ce9d47a2abe0e544f8d30a602152a87e2824169d2e644ea6ba8bc5a17b7877"
+    ],
+    "declared_target": true,
+    "elapsed_seconds": 0.24049687501974404,
+    "event": "TEXAS-TORNADOES",
+    "index": 136,
+    "input_mode": "free_coarse512_plus_native256",
+    "input_tensor_sha256": "f3b92baf09f3e56ad826102580823a6d7ac0bcd2091d6ca06a6069e9bfcd4cf3",
+    "input_tensor_shape": [
+      1,
+      6,
+      512,
+      512
+    ],
+    "job": "TEXAS-TORNADOES_004417_b01_free_coarse512_plus_native256",
+    "predicted_severe_pixels": 12,
+    "purchased_rgb_sha256": [
+      "e65af22f96b47d73b1655c0cd0bbdc2e2e53bce70a257d65e141b79b963bc846",
+      "cfe566ddd0c2887194a1b9ba13a963a2155cf8d014748326293b6a33af271b30"
+    ],
+    "raw_summary": {
+      "declared_target": true,
+      "mean_max_damage_probability": 0.9997379779815674,
+      "predicted_building_pixels": 175,
+      "predicted_severe_pixels": 39,
+      "uncalibrated_severe_score": 0.7224138379096985
+    },
+    "sample_id": "TEXAS-TORNADOES_004417",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b10",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/TEXAS-TORNADOES_004417_b10_free_coarse512_plus_native256.npz",
+    "cache_sha256": "b447d7d2fcfd62f39e072849bd793ceab7473828d6e785a62fc6b5e6484ef05a",
+    "coarse_rgb_sha256": [
+      "7aba308283f42898d273b5b0ef7487ac86fc6f327d8a2186b03eddf046391d6e",
+      "81ce9d47a2abe0e544f8d30a602152a87e2824169d2e644ea6ba8bc5a17b7877"
+    ],
+    "declared_target": false,
+    "elapsed_seconds": 0.2415857909945771,
+    "event": "TEXAS-TORNADOES",
+    "index": 137,
+    "input_mode": "free_coarse512_plus_native256",
+    "input_tensor_sha256": "b916ae1c3e67fff94e637f2977977a6fbdf0c93cd745d4a5df9b21aa53d04bc5",
+    "input_tensor_shape": [
+      1,
+      6,
+      512,
+      512
+    ],
+    "job": "TEXAS-TORNADOES_004417_b10_free_coarse512_plus_native256",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "d3e6b875c6a96e7353d3937932bbdbca8ade82f81febaf67d7c3ea4edc426566",
+      "d99d6b88e2a7554d382f48bac5a0f8aa6236bc70b6fc9e3c2a221ffa6d371b22"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9997724294662476,
+      "predicted_building_pixels": 183,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 0.0009650697465986013
+    },
+    "sample_id": "TEXAS-TORNADOES_004417",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b11",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/TEXAS-TORNADOES_004417_b11_free_coarse512_plus_native256.npz",
+    "cache_sha256": "b447d7d2fcfd62f39e072849bd793ceab7473828d6e785a62fc6b5e6484ef05a",
+    "coarse_rgb_sha256": [
+      "7aba308283f42898d273b5b0ef7487ac86fc6f327d8a2186b03eddf046391d6e",
+      "81ce9d47a2abe0e544f8d30a602152a87e2824169d2e644ea6ba8bc5a17b7877"
+    ],
+    "declared_target": false,
+    "elapsed_seconds": 0.2816697089583613,
+    "event": "TEXAS-TORNADOES",
+    "index": 138,
+    "input_mode": "free_coarse512_plus_native256",
+    "input_tensor_sha256": "e7cdabef05f20e81ba4de757a5a2739afc2d899c8681967d97ea160ad1c45208",
+    "input_tensor_shape": [
+      1,
+      6,
+      512,
+      512
+    ],
+    "job": "TEXAS-TORNADOES_004417_b11_free_coarse512_plus_native256",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "54b0c46c8e71712d22eeb0c9ba997ca614abd34b1bc4eb294e2e57c60d29f068",
+      "08350c93114291b2764654e81c95fbaf7192ea0d5b06ef65e7fc165797378a73"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9997937679290771,
+      "predicted_building_pixels": 120,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 0.0002853189071174711
+    },
+    "sample_id": "TEXAS-TORNADOES_004417",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b00",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/TEXAS-TORNADOES_004813_b00_native256_contiguous.npz",
+    "cache_sha256": "e6da8c4e120c2031e798042349d43971d05b1d2b32868b36795e5db2dbcb98e6",
+    "coarse_rgb_sha256": null,
+    "declared_target": false,
+    "elapsed_seconds": 0.11478866700781509,
+    "event": "TEXAS-TORNADOES",
+    "index": 139,
+    "input_mode": "native256_contiguous",
+    "input_tensor_sha256": "ae4d5df8b902803f88726d939525a8203b1e938446f668b32efca674dc4f6e0e",
+    "input_tensor_shape": [
+      1,
+      6,
+      256,
+      256
+    ],
+    "job": "TEXAS-TORNADOES_004813_b00_native256_contiguous",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "c3d15502e31e53358af9ebf0a97d9d6cebd68068bed10687be25d588d615b836",
+      "693e2d51efdc999eb219413b904779b8920411c445db8f61e571b48e827b7ed5"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9999969005584717,
+      "predicted_building_pixels": 0,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 1.1264384980336217e-08
+    },
+    "sample_id": "TEXAS-TORNADOES_004813",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b01",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/TEXAS-TORNADOES_004813_b01_native256_contiguous.npz",
+    "cache_sha256": "e6da8c4e120c2031e798042349d43971d05b1d2b32868b36795e5db2dbcb98e6",
+    "coarse_rgb_sha256": null,
+    "declared_target": false,
+    "elapsed_seconds": 0.09171429096022621,
+    "event": "TEXAS-TORNADOES",
+    "index": 140,
+    "input_mode": "native256_contiguous",
+    "input_tensor_sha256": "7dda52d09eaeccfd31bff84e162f3dc4f9b6e451fd537e5acc7d30daa6d2b12f",
+    "input_tensor_shape": [
+      1,
+      6,
+      256,
+      256
+    ],
+    "job": "TEXAS-TORNADOES_004813_b01_native256_contiguous",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "57a208a18903c6e1b787cf78dba7123457175692c70280adc98098d62d3370b7",
+      "c2775f286a923ed745d35065f4d2d5c86b82196fd4c1e3ea86258381472fdbc9"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9999912977218628,
+      "predicted_building_pixels": 0,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 1.323971154931769e-09
+    },
+    "sample_id": "TEXAS-TORNADOES_004813",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b10",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/TEXAS-TORNADOES_004813_b10_native256_contiguous.npz",
+    "cache_sha256": "e6da8c4e120c2031e798042349d43971d05b1d2b32868b36795e5db2dbcb98e6",
+    "coarse_rgb_sha256": null,
+    "declared_target": false,
+    "elapsed_seconds": 0.07970524998381734,
+    "event": "TEXAS-TORNADOES",
+    "index": 141,
+    "input_mode": "native256_contiguous",
+    "input_tensor_sha256": "e53703e0a6f743c663ae41d8762762bbfd5de0b93f5f4d05c0cb3dd52fd568f2",
+    "input_tensor_shape": [
+      1,
+      6,
+      256,
+      256
+    ],
+    "job": "TEXAS-TORNADOES_004813_b10_native256_contiguous",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "dd54652776633082504d9120b48a081c20d5b1cadea1a4be805fda28159d09dd",
+      "15288bf013982047b357e13e8d6d16673c46ba7324c46e6a0cd3f8eade07ca12"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.999994158744812,
+      "predicted_building_pixels": 0,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 1.0282363405167416e-08
+    },
+    "sample_id": "TEXAS-TORNADOES_004813",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b11",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/TEXAS-TORNADOES_004813_b11_native256_contiguous.npz",
+    "cache_sha256": "e6da8c4e120c2031e798042349d43971d05b1d2b32868b36795e5db2dbcb98e6",
+    "coarse_rgb_sha256": null,
+    "declared_target": false,
+    "elapsed_seconds": 0.07773062499472871,
+    "event": "TEXAS-TORNADOES",
+    "index": 142,
+    "input_mode": "native256_contiguous",
+    "input_tensor_sha256": "6181b345a55e6df64beb3b9e64e7b0ce95f66c3ffe1f218ef66f91318a447c91",
+    "input_tensor_shape": [
+      1,
+      6,
+      256,
+      256
+    ],
+    "job": "TEXAS-TORNADOES_004813_b11_native256_contiguous",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "d232175370f2fdb9226ca522c8c01dc26029e676f5da89dab961d24b72eb936e",
+      "3ddd122ddb42dc5ba18382490ce5dcf6ccad6c62cbe6ef10954649e8e29b4da8"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9999949932098389,
+      "predicted_building_pixels": 0,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 6.977543431929689e-09
+    },
+    "sample_id": "TEXAS-TORNADOES_004813",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b00",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/TEXAS-TORNADOES_004813_b00_free_coarse512_plus_native256.npz",
+    "cache_sha256": "b447d7d2fcfd62f39e072849bd793ceab7473828d6e785a62fc6b5e6484ef05a",
+    "coarse_rgb_sha256": [
+      "551941a2bdf28214c88b7bc41de73e574c9bab4dc3cd11febe4f9e9e07b6872b",
+      "98acf0010d9ef953557138acf1481d9eb7846c4cb69a6b68a40ed7164e50fde3"
+    ],
+    "declared_target": false,
+    "elapsed_seconds": 0.2549161250353791,
+    "event": "TEXAS-TORNADOES",
+    "index": 143,
+    "input_mode": "free_coarse512_plus_native256",
+    "input_tensor_sha256": "66aa11ceaa8ab42355480a4f8b3407ac5835c9c54810a762e05b8e477f73e930",
+    "input_tensor_shape": [
+      1,
+      6,
+      512,
+      512
+    ],
+    "job": "TEXAS-TORNADOES_004813_b00_free_coarse512_plus_native256",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "c3d15502e31e53358af9ebf0a97d9d6cebd68068bed10687be25d588d615b836",
+      "693e2d51efdc999eb219413b904779b8920411c445db8f61e571b48e827b7ed5"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9999483227729797,
+      "predicted_building_pixels": 0,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 1.0515155679513555e-07
+    },
+    "sample_id": "TEXAS-TORNADOES_004813",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b01",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/TEXAS-TORNADOES_004813_b01_free_coarse512_plus_native256.npz",
+    "cache_sha256": "b447d7d2fcfd62f39e072849bd793ceab7473828d6e785a62fc6b5e6484ef05a",
+    "coarse_rgb_sha256": [
+      "551941a2bdf28214c88b7bc41de73e574c9bab4dc3cd11febe4f9e9e07b6872b",
+      "98acf0010d9ef953557138acf1481d9eb7846c4cb69a6b68a40ed7164e50fde3"
+    ],
+    "declared_target": false,
+    "elapsed_seconds": 0.24219583300873637,
+    "event": "TEXAS-TORNADOES",
+    "index": 144,
+    "input_mode": "free_coarse512_plus_native256",
+    "input_tensor_sha256": "9dff6f433fd5ab110478e77f6af2b1c84d5e88bb5c1500c3962bffd473125756",
+    "input_tensor_shape": [
+      1,
+      6,
+      512,
+      512
+    ],
+    "job": "TEXAS-TORNADOES_004813_b01_free_coarse512_plus_native256",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "57a208a18903c6e1b787cf78dba7123457175692c70280adc98098d62d3370b7",
+      "c2775f286a923ed745d35065f4d2d5c86b82196fd4c1e3ea86258381472fdbc9"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9999610781669617,
+      "predicted_building_pixels": 0,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 4.714270218642014e-08
+    },
+    "sample_id": "TEXAS-TORNADOES_004813",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b10",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/TEXAS-TORNADOES_004813_b10_free_coarse512_plus_native256.npz",
+    "cache_sha256": "b447d7d2fcfd62f39e072849bd793ceab7473828d6e785a62fc6b5e6484ef05a",
+    "coarse_rgb_sha256": [
+      "551941a2bdf28214c88b7bc41de73e574c9bab4dc3cd11febe4f9e9e07b6872b",
+      "98acf0010d9ef953557138acf1481d9eb7846c4cb69a6b68a40ed7164e50fde3"
+    ],
+    "declared_target": false,
+    "elapsed_seconds": 0.25724420801270753,
+    "event": "TEXAS-TORNADOES",
+    "index": 145,
+    "input_mode": "free_coarse512_plus_native256",
+    "input_tensor_sha256": "915b3d40b766ec8004e7f8d3e00119d5cf2ac3935c43a86e375b9135a84c8192",
+    "input_tensor_shape": [
+      1,
+      6,
+      512,
+      512
+    ],
+    "job": "TEXAS-TORNADOES_004813_b10_free_coarse512_plus_native256",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "dd54652776633082504d9120b48a081c20d5b1cadea1a4be805fda28159d09dd",
+      "15288bf013982047b357e13e8d6d16673c46ba7324c46e6a0cd3f8eade07ca12"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9999678134918213,
+      "predicted_building_pixels": 0,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 1.4879512377774518e-07
+    },
+    "sample_id": "TEXAS-TORNADOES_004813",
+    "status": "COMPLETE"
+  },
+  {
+    "block_id": "b11",
+    "cache_file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_footprint18_v1/cache/TEXAS-TORNADOES_004813_b11_free_coarse512_plus_native256.npz",
+    "cache_sha256": "b447d7d2fcfd62f39e072849bd793ceab7473828d6e785a62fc6b5e6484ef05a",
+    "coarse_rgb_sha256": [
+      "551941a2bdf28214c88b7bc41de73e574c9bab4dc3cd11febe4f9e9e07b6872b",
+      "98acf0010d9ef953557138acf1481d9eb7846c4cb69a6b68a40ed7164e50fde3"
+    ],
+    "declared_target": false,
+    "elapsed_seconds": 0.24700762500287965,
+    "event": "TEXAS-TORNADOES",
+    "index": 146,
+    "input_mode": "free_coarse512_plus_native256",
+    "input_tensor_sha256": "858cf5817b4da1706ff90f79cc2955b241b2b1424b9f60c157667161878d5740",
+    "input_tensor_shape": [
+      1,
+      6,
+      512,
+      512
+    ],
+    "job": "TEXAS-TORNADOES_004813_b11_free_coarse512_plus_native256",
+    "predicted_severe_pixels": 0,
+    "purchased_rgb_sha256": [
+      "d232175370f2fdb9226ca522c8c01dc26029e676f5da89dab961d24b72eb936e",
+      "3ddd122ddb42dc5ba18382490ce5dcf6ccad6c62cbe6ef10954649e8e29b4da8"
+    ],
+    "raw_summary": {
+      "declared_target": false,
+      "mean_max_damage_probability": 0.9999688863754272,
+      "predicted_building_pixels": 0,
+      "predicted_severe_pixels": 0,
+      "uncalibrated_severe_score": 6.366975213722981e-08
+    },
+    "sample_id": "TEXAS-TORNADOES_004813",
+    "status": "COMPLETE"
+  }
+]

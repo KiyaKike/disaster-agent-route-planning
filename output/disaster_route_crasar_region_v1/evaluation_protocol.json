@@ -1,0 +1,29 @@
+{
+  "primary_target": "UAS-view major damage or destroyed building; not injured persons or ground-survey truth",
+  "eligible_geometry": "Shared IDs whose centroids lie inside fixed ROI; rasterized polygon at least90% inside ROI and at least90% supported by nonblack RGB in every source.",
+  "coverage": "RGB-nonzero image support proxy, not proof of visibility or camera footprint",
+  "eligibility_uses_labels": false,
+  "minimum_positive_targets_to_define_recall": 1,
+  "gates": "If zero eligible primary targets, do not compare severe-search efficacy or claim a method contribution.",
+  "routing_if_eligible": {
+    "actions": "4x4 disjoint32m image access windows; no measured UAV camera footprint",
+    "public_features": "Published footprint geometry, fixed model outputs on PRE/POST satellite pair; never reference labels.",
+    "paid_observation": "Fixed model PRE/UAS output only within accessed window; unrevealed UAS data private.",
+    "cost": "Euclidean motion plus observation and planning charges, paid return; all timing assumptions reported separately from measured distances.",
+    "baselines": [
+      "distance first",
+      "damage cue first",
+      "uncertainty first",
+      "exact subset static on same public utility"
+    ],
+    "candidate": "Observation-value/cost heuristic must use public inputs only; uncertainty scores are uncalibrated. No learned update without separate calibration data.",
+    "metrics": [
+      "unique severe buildings effectively checked",
+      "time to first correctly checked severe building",
+      "distance_m",
+      "elapsed_proxy_s"
+    ],
+    "fairness": "Same starts,budgets,observation footprints,detector and return constraints; full subset enumeration/static optimum and planning wall time reported."
+  },
+  "data_scope": "One training development region. No held-out generalization; satellite/UAS time gap5days; no flight telemetry."
+}

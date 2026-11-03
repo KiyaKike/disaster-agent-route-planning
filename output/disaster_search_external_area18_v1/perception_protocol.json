@@ -1,0 +1,68 @@
+{
+  "cells": [
+    "r00c00",
+    "r00c01",
+    "r00c02",
+    "r00c03",
+    "r01c00",
+    "r01c01",
+    "r01c02",
+    "r01c03",
+    "r02c00",
+    "r02c01",
+    "r02c02",
+    "r02c03",
+    "r03c00",
+    "r03c01",
+    "r03c02",
+    "r03c03"
+  ],
+  "code_commit": "190b07a2eb4c389a5dc3f72802c67f428cdfd6b7",
+  "config_sha256": "dd452bc568ff31a4706687b83d2ce0712b136f23d22705834311592d98a31d23",
+  "degradation": "Unchanged Gaussian1.5, BOX/2, bilinear restoration, both dates",
+  "fixed_observation_boolean": "At least4 predicted severe pixels; pixel-area evaluator still counts1..3 pixels without an instance threshold",
+  "free_coarse": [
+    64,
+    64
+  ],
+  "geometry_sha256": "a54bda4c1b40d14fe92c6307edbd39de29b753eadd6545c25af75308cacfc5a8",
+  "model_id": "EVER-Z/torchange_example_changeos_swint_on_xview2_best42k",
+  "model_revision": "4007dd10c5eaee67161e2d4a45a43da3ead6c722",
+  "modes": [
+    "native",
+    "blurred"
+  ],
+  "native_crop": [
+    128,
+    128
+  ],
+  "no_training_or_paid_gpu": true,
+  "observations": 576,
+  "prediction_input": "RGB crops only; no reference file contents or target counts loaded by this runner",
+  "reference_gate_sha256": "86a1f86f9bdef1a6cea201c80bbdfa758aae2cdae705aa13a7b75c7675e66399",
+  "rgb_manifest_sha256": "4857076df9a54615d023cd4308bd71e505cda70087b7ea74614245debe9379b0",
+  "runner_sha256": "295a7ed944028ac2423ee7d7235dc408bb815d2d0075751cfdc06e94d1d84693",
+  "selected_ids": [
+    "EARTHQUAKE-TURKEY_000237",
+    "EARTHQUAKE-TURKEY_003472",
+    "EARTHQUAKE-TURKEY_005459",
+    "EARTHQUAKE-TURKEY_006807",
+    "EARTHQUAKE-TURKEY_012987",
+    "EARTHQUAKE-TURKEY_015741",
+    "PAKISTAN-FLOODING_003197",
+    "PAKISTAN-FLOODING_004697",
+    "PAKISTAN-FLOODING_006998",
+    "PAKISTAN-FLOODING_013475",
+    "PAKISTAN-FLOODING_014536",
+    "PAKISTAN-FLOODING_017841",
+    "TEXAS-TORNADOES_000325",
+    "TEXAS-TORNADOES_002697",
+    "TEXAS-TORNADOES_002969",
+    "TEXAS-TORNADOES_003987",
+    "TEXAS-TORNADOES_004417",
+    "TEXAS-TORNADOES_004813"
+  ],
+  "shared_rgb_helper_sha256": "158d2dd0e87f3baa46a9fd24b55b77ef000b2921aa311df37ead01af758f00d7",
+  "stage": "18_PAIR_RGB_ONLY_4X4_SENSOR_DIAGNOSTIC",
+  "weights_sha256": "81ae6386ceebe225ab6c072cb987b57312fdcfdb2a7f72ab9b30e5e8f1041cc4"
+}

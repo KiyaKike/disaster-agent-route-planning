@@ -1,0 +1,154 @@
+{
+  "action_rules": "Original utility_table values unchanged: survey cost1; one native upgrade after blurred; no native repeat. count_survey/prior_survey disable upgrades; count_negative/prior_gate disable B+ upgrades. presence keeps original zero B+ utility rather than adding a new stopping rule.",
+  "budgets": [
+    8,
+    16,
+    32
+  ],
+  "causal_comparisons": [
+    "prior_gate_vs_prior_survey",
+    "count_negative_vs_count_survey",
+    "count_all_vs_count_negative",
+    "count_all_vs_count_survey"
+  ],
+  "computed_trajectories": 604800,
+  "diagnostic_stop": "Apply preceding frozen decision: if count positive revisits do not have consistent net primary gain over survey-only/negative-only under matched ties in both development fit scopes, stop promoting this positive-revisit policy; do not tune more heuristics on these72. Cost1-only gains do not replace primary cost2. This is not the independent-validation go criterion.",
+  "expected_threshold_scores": 2177280,
+  "expected_trajectories": 725760,
+  "fit_scopes": {
+    "development_fit": "Same frozen all72 models; entire grid; in-sample.",
+    "event_holdout": "Same other-two-development-events models; primary scenario/cost/budget only. Previously inspected data, not independent validation."
+  },
+  "limits": [
+    "Same-cell count reward is not exact global new-building utility.",
+    "Only two development events have cached detections; Mexico remains zero.",
+    "Detector has training-event exposure; full-image geographic independence unverified.",
+    "No flight-distance, energy, return path, or new-viewpoint model."
+  ],
+  "new_inference_calls": 0,
+  "new_method_selected": false,
+  "no_fit_or_tuning": true,
+  "other_comparisons": [
+    "presence_vs_count_all",
+    "presence_vs_count_negative",
+    "count_negative_vs_prior_gate",
+    "count_all_vs_prior_gate",
+    "presence_vs_prior_gate"
+  ],
+  "paid_gpu": false,
+  "policies": [
+    "prior_survey",
+    "prior_gate",
+    "count_survey",
+    "count_negative",
+    "count_all",
+    "presence"
+  ],
+  "primary": {
+    "budget": 32,
+    "scenario": "mixed_survey",
+    "threshold": 0.1,
+    "upgrade_cost": 2
+  },
+  "quality_seeds": [
+    20261025,
+    20261026,
+    20261027,
+    20261028,
+    20261029
+  ],
+  "random_order_seeds": [
+    20261030,
+    20261031,
+    20261032,
+    20261033,
+    20261034,
+    20261035,
+    20261036,
+    20261037,
+    20261038,
+    20261039
+  ],
+  "reuse": "Import only original proxy_greedy from preceding tie run with every config key matched; strip redundant greedy_utility. No inference or recomputation of its decisions. Every imported trace re-scored. planning_s=0 for reused traces means no decision computation this run, not intrinsic algorithm runtime.",
+  "reused_count_all_trajectories": 120960,
+  "scenarios": [
+    "native_survey",
+    "mixed_survey",
+    "blurred_survey"
+  ],
+  "source_code_sha256": {
+    "build_xbd_mini.py": "080c23c373b59827acf78f3bfd421c85a14e6407094ce871dfaeed5e55c3e501",
+    "cross_cell_count_smoke.py": "4312afc1ac40d33210ee15a8cc91464d6620b5fd638e437e47d1db1b5d1fbc0c",
+    "paired_count_baseline.py": "b04ea42f2e9880b67d054ae76df98b0ddb7c3f4ca49a4ff462de803cafe67818",
+    "plan_search_v2.py": "3f88219832ca8d3939d5cbc38919974d1932f4b941e1248c208534493254b83b",
+    "run_budget_planning.py": "75734fac1c2c4d65cf2980c7eb7a6749c769ebe7902c7c90f01d640c21005bd2",
+    "run_development_budget_controls.py": "baca8a89a7b1ceef36670b406fd0cbabf8a3818b72dc2c387644c3ce0afed53e",
+    "run_unified_revisit_controls.py": "5f60d12c40d946bff3552fc6cda7947b7da179883fd47c613f6eebf5b1e9e159",
+    "run_utility_tie_controls.py": "29f532e6ab62cc175398af6b8d4ad03203d42b2207818c094c30c7db0726cf4d"
+  },
+  "sources": {
+    "association": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_perception_v1/association_report.json",
+      "sha256": "59c51a09e2c46eeac0c778de1dd9af2771f72bee5ff526ac967c0a6fb75fbffc"
+    },
+    "contract": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_v2_design/experiment_contract_v2_2.json",
+      "sha256": "452de54015d0c717819553487885007d8aabc82751499387d17b0ba2044919c0"
+    },
+    "decision": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_utility_ties_v1/next_step_decision.json",
+      "sha256": "60ed6d992a369d5300c7d1cc6511bab15948429df5831958e5db0ef87a18fefb"
+    },
+    "features": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_development72_budget_controls_v1/public_features.json",
+      "sha256": "ce768154dd129816ff5ecf30042fbd60e621e04a0e93dcad90f36cdc42cb2e27"
+    },
+    "models": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_development72_budget_controls_v1/models.json",
+      "sha256": "c9566ab3c6aaa920e1baf62d3093c28e6bea121e5d85c8c78965b01d59390350"
+    },
+    "observations": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_perception_v1/observations.json",
+      "sha256": "30aca3da060f9fd6acfdc6e73efea0c593360765b455150195cbfbc02f2556e2"
+    },
+    "previous_receipt": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_development72_budget_controls_v1/completion_receipt.json",
+      "sha256": "14534c581054e6fb613cb97d0a4012fec8a6b3decfe53e26358610378094bed2"
+    },
+    "reused_trajectories": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_utility_ties_v1/trajectories.jsonl.gz",
+      "sha256": "2c886d893b3e686fb1325425fd7e9269fac349c5dab50cee7bd53a90d85a4117"
+    },
+    "selection": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_v2_design/next_development_batch.json",
+      "sha256": "0b93aa296f53276f508a4d2dd4fcfa122f93578f3f3e939ee731d350021569c8"
+    },
+    "spatial": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_cross_cell_smoke_v1/spatial_groups.json",
+      "sha256": "d8a2dc9fe8d4120ade4ccd07b6ea6411d6fda24a596f848d2823ddfba1ba654a"
+    },
+    "ties_receipt": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_utility_ties_v1/completion_receipt.json",
+      "sha256": "4c873404263ab5163b77c4e1c13f3d96a2a4c5888f6762f30c783d545b2f5e0d"
+    }
+  },
+  "stage": "DEVELOPMENT72_UNIFIED_TIE_REVISIT_CONTROLS",
+  "statistics": "Average repetitions within scene, then scenes within event, then events equally. Report all settings, all thresholds, event/spatial/train-envelope strata; retain Mexico and zero-target scenes. Seeds are not independent disasters.",
+  "thresholds": [
+    0.05,
+    0.1,
+    0.25
+  ],
+  "tie_rules": [
+    "row_major",
+    "raw_change",
+    "fixed_random"
+  ],
+  "ties": "Strict original utility comparison, exact equality only. Same fixed row/raw-change/random cell ranks as preceding tie experiment. All10 random orders and all5 quality seeds averaged within scene; no best-seed selection.",
+  "upgrade_costs": [
+    1,
+    2,
+    4
+  ],
+  "validation_or_confirmation_access": false
+}

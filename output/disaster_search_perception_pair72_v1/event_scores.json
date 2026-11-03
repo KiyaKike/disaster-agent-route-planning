@@ -1,0 +1,887 @@
+[
+  {
+    "confusion_5x5": [
+      [
+        21452926,
+        0,
+        0,
+        129224,
+        0
+      ],
+      [
+        1963030,
+        0,
+        0,
+        9560,
+        0
+      ],
+      [
+        297402,
+        0,
+        0,
+        63290,
+        0
+      ],
+      [
+        310133,
+        0,
+        0,
+        831405,
+        0
+      ],
+      [
+        28890,
+        0,
+        0,
+        58019,
+        0
+      ]
+    ],
+    "decoder": "raw_pixel",
+    "evaluated_pixels": 25143879,
+    "event": "hurricane-harvey",
+    "f1": 0.7667630051574499,
+    "false_severe_background_pixels": 129224,
+    "false_severe_other_building_pixels": 72850,
+    "false_severe_per_million_valid_pixels": 8036.707462679088,
+    "fn": 339023,
+    "fp": 202074,
+    "iou": 0.6217483000948606,
+    "model_id": "legacy_swint128",
+    "precision": 0.8148654418056652,
+    "predicted_severe_pixels_on_valid_domain": 1091498,
+    "recall": 0.724023095827496,
+    "reference_positive_scenes": 13,
+    "reference_severe_pixels": 1228447,
+    "scenes": 24,
+    "scenes_with_any_reference_overlap": 13,
+    "tn": 23713358,
+    "tp": 889424
+  },
+  {
+    "confusion_5x5": [
+      [
+        18062909,
+        0,
+        0,
+        138,
+        0
+      ],
+      [
+        7048974,
+        0,
+        0,
+        9671,
+        0
+      ],
+      [
+        32845,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        2698,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    "decoder": "raw_pixel",
+    "evaluated_pixels": 25157235,
+    "event": "mexico-earthquake",
+    "f1": 0.0,
+    "false_severe_background_pixels": 138,
+    "false_severe_other_building_pixels": 9671,
+    "false_severe_per_million_valid_pixels": 389.9077144209211,
+    "fn": 2698,
+    "fp": 9809,
+    "iou": 0.0,
+    "model_id": "legacy_swint128",
+    "precision": 0.0,
+    "predicted_severe_pixels_on_valid_domain": 9809,
+    "recall": 0.0,
+    "reference_positive_scenes": 3,
+    "reference_severe_pixels": 2698,
+    "scenes": 24,
+    "scenes_with_any_reference_overlap": 0,
+    "tn": 25144728,
+    "tp": 0
+  },
+  {
+    "confusion_5x5": [
+      [
+        22913749,
+        0,
+        0,
+        92342,
+        0
+      ],
+      [
+        1424201,
+        0,
+        0,
+        122,
+        0
+      ],
+      [
+        9534,
+        0,
+        0,
+        2232,
+        0
+      ],
+      [
+        5931,
+        0,
+        0,
+        9458,
+        0
+      ],
+      [
+        103282,
+        0,
+        0,
+        603682,
+        0
+      ]
+    ],
+    "decoder": "raw_pixel",
+    "evaluated_pixels": 25164533,
+    "event": "santa-rosa-wildfire",
+    "f1": 0.8574251375167897,
+    "false_severe_background_pixels": 92342,
+    "false_severe_other_building_pixels": 2354,
+    "false_severe_per_million_valid_pixels": 3763.0740057842518,
+    "fn": 109213,
+    "fp": 94696,
+    "iou": 0.7504323486106709,
+    "model_id": "legacy_swint128",
+    "precision": 0.8662175984267542,
+    "predicted_severe_pixels_on_valid_domain": 707836,
+    "recall": 0.8488093771327869,
+    "reference_positive_scenes": 18,
+    "reference_severe_pixels": 722353,
+    "scenes": 24,
+    "scenes_with_any_reference_overlap": 17,
+    "tn": 24347484,
+    "tp": 613140
+  },
+  {
+    "confusion_5x5": [
+      [
+        20696239,
+        481346,
+        26152,
+        375935,
+        2478
+      ],
+      [
+        81838,
+        1879029,
+        10134,
+        1092,
+        497
+      ],
+      [
+        25911,
+        142894,
+        97111,
+        94776,
+        0
+      ],
+      [
+        54553,
+        726,
+        18421,
+        1067729,
+        109
+      ],
+      [
+        8059,
+        997,
+        0,
+        75932,
+        1921
+      ]
+    ],
+    "decoder": "common_object_vote",
+    "evaluated_pixels": 25143879,
+    "event": "hurricane-harvey",
+    "f1": 0.8042996002690146,
+    "false_severe_background_pixels": 378413,
+    "false_severe_other_building_pixels": 96365,
+    "false_severe_per_million_valid_pixels": 18882.448487761176,
+    "fn": 82756,
+    "fp": 474778,
+    "iou": 0.6726598071305905,
+    "model_id": "r34",
+    "precision": 0.7070119823335096,
+    "predicted_severe_pixels_on_valid_domain": 1620469,
+    "recall": 0.9326336423142391,
+    "reference_positive_scenes": 13,
+    "reference_severe_pixels": 1228447,
+    "scenes": 24,
+    "scenes_with_any_reference_overlap": 13,
+    "tn": 23440654,
+    "tp": 1145691
+  },
+  {
+    "confusion_5x5": [
+      [
+        15886886,
+        2176161,
+        0,
+        0,
+        0
+      ],
+      [
+        471205,
+        6587440,
+        0,
+        0,
+        0
+      ],
+      [
+        7826,
+        25019,
+        0,
+        0,
+        0
+      ],
+      [
+        187,
+        2511,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    "decoder": "common_object_vote",
+    "evaluated_pixels": 25157235,
+    "event": "mexico-earthquake",
+    "f1": 0.0,
+    "false_severe_background_pixels": 0,
+    "false_severe_other_building_pixels": 0,
+    "false_severe_per_million_valid_pixels": 0.0,
+    "fn": 2698,
+    "fp": 0,
+    "iou": 0.0,
+    "model_id": "r34",
+    "precision": null,
+    "predicted_severe_pixels_on_valid_domain": 0,
+    "recall": 0.0,
+    "reference_positive_scenes": 3,
+    "reference_severe_pixels": 2698,
+    "scenes": 24,
+    "scenes_with_any_reference_overlap": 0,
+    "tn": 25154537,
+    "tp": 0
+  },
+  {
+    "confusion_5x5": [
+      [
+        22404423,
+        400946,
+        0,
+        1062,
+        199660
+      ],
+      [
+        78194,
+        1338930,
+        0,
+        2467,
+        4732
+      ],
+      [
+        97,
+        7320,
+        0,
+        0,
+        4349
+      ],
+      [
+        969,
+        1220,
+        0,
+        0,
+        13200
+      ],
+      [
+        39538,
+        8962,
+        0,
+        0,
+        658464
+      ]
+    ],
+    "decoder": "common_object_vote",
+    "evaluated_pixels": 25164533,
+    "event": "santa-rosa-wildfire",
+    "f1": 0.8362938877049991,
+    "false_severe_background_pixels": 200722,
+    "false_severe_other_building_pixels": 11548,
+    "false_severe_per_million_valid_pixels": 8435.28469214986,
+    "fn": 50689,
+    "fp": 212270,
+    "iou": 0.7186469838640821,
+    "model_id": "r34",
+    "precision": 0.7598576364298691,
+    "predicted_severe_pixels_on_valid_domain": 883934,
+    "recall": 0.9298279373104286,
+    "reference_positive_scenes": 18,
+    "reference_severe_pixels": 722353,
+    "scenes": 24,
+    "scenes_with_any_reference_overlap": 18,
+    "tn": 24229910,
+    "tp": 671664
+  },
+  {
+    "confusion_5x5": [
+      [
+        21220444,
+        209267,
+        5618,
+        145334,
+        1487
+      ],
+      [
+        229178,
+        1732962,
+        9189,
+        904,
+        357
+      ],
+      [
+        52668,
+        151343,
+        80517,
+        76164,
+        0
+      ],
+      [
+        139666,
+        156,
+        26504,
+        974198,
+        1014
+      ],
+      [
+        21431,
+        321,
+        0,
+        64307,
+        850
+      ]
+    ],
+    "decoder": "raw_pixel",
+    "evaluated_pixels": 25143879,
+    "event": "hurricane-harvey",
+    "f1": 0.8346114135950089,
+    "false_severe_background_pixels": 146821,
+    "false_severe_other_building_pixels": 77425,
+    "false_severe_per_million_valid_pixels": 8918.51253340823,
+    "fn": 188078,
+    "fp": 224246,
+    "iou": 0.7161657693676503,
+    "model_id": "r34",
+    "precision": 0.8226764667507502,
+    "predicted_severe_pixels_on_valid_domain": 1264615,
+    "recall": 0.8468977497604699,
+    "reference_positive_scenes": 13,
+    "reference_severe_pixels": 1228447,
+    "scenes": 24,
+    "scenes_with_any_reference_overlap": 13,
+    "tn": 23691186,
+    "tp": 1040369
+  },
+  {
+    "confusion_5x5": [
+      [
+        17108424,
+        953881,
+        267,
+        216,
+        259
+      ],
+      [
+        1201094,
+        5855495,
+        542,
+        1002,
+        512
+      ],
+      [
+        12023,
+        20822,
+        0,
+        0,
+        0
+      ],
+      [
+        558,
+        2140,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    "decoder": "raw_pixel",
+    "evaluated_pixels": 25157235,
+    "event": "mexico-earthquake",
+    "f1": 0.0,
+    "false_severe_background_pixels": 475,
+    "false_severe_other_building_pixels": 1514,
+    "false_severe_per_million_valid_pixels": 79.06274278552472,
+    "fn": 2698,
+    "fp": 1989,
+    "iou": 0.0,
+    "model_id": "r34",
+    "precision": 0.0,
+    "predicted_severe_pixels_on_valid_domain": 1989,
+    "recall": 0.0,
+    "reference_positive_scenes": 3,
+    "reference_severe_pixels": 2698,
+    "scenes": 24,
+    "scenes_with_any_reference_overlap": 0,
+    "tn": 25152548,
+    "tp": 0
+  },
+  {
+    "confusion_5x5": [
+      [
+        22792904,
+        136199,
+        0,
+        235,
+        76753
+      ],
+      [
+        212076,
+        1209511,
+        0,
+        1122,
+        1614
+      ],
+      [
+        966,
+        8626,
+        0,
+        1448,
+        726
+      ],
+      [
+        1744,
+        511,
+        0,
+        21,
+        13113
+      ],
+      [
+        87190,
+        7113,
+        0,
+        126,
+        612535
+      ]
+    ],
+    "decoder": "raw_pixel",
+    "evaluated_pixels": 25164533,
+    "event": "santa-rosa-wildfire",
+    "f1": 0.8752096086419597,
+    "false_severe_background_pixels": 76988,
+    "false_severe_other_building_pixels": 4910,
+    "false_severe_per_million_valid_pixels": 3254.501086906719,
+    "fn": 96558,
+    "fp": 81898,
+    "iou": 0.7781090729138043,
+    "model_id": "r34",
+    "precision": 0.8842746784269451,
+    "predicted_severe_pixels_on_valid_domain": 707693,
+    "recall": 0.8663285125139648,
+    "reference_positive_scenes": 18,
+    "reference_severe_pixels": 722353,
+    "scenes": 24,
+    "scenes_with_any_reference_overlap": 18,
+    "tn": 24360282,
+    "tp": 625795
+  },
+  {
+    "confusion_5x5": [
+      [
+        20756112,
+        433347,
+        32699,
+        357528,
+        2464
+      ],
+      [
+        110345,
+        1812914,
+        47772,
+        1061,
+        498
+      ],
+      [
+        31507,
+        117291,
+        130371,
+        81456,
+        67
+      ],
+      [
+        63017,
+        725,
+        39309,
+        1037095,
+        1392
+      ],
+      [
+        9762,
+        3280,
+        0,
+        72316,
+        1551
+      ]
+    ],
+    "decoder": "common_object_vote",
+    "evaluated_pixels": 25143879,
+    "event": "hurricane-harvey",
+    "f1": 0.7991407660185892,
+    "false_severe_background_pixels": 359992,
+    "false_severe_other_building_pixels": 83082,
+    "false_severe_per_million_valid_pixels": 17621.545187995853,
+    "fn": 116093,
+    "fp": 443074,
+    "iou": 0.6654741400197784,
+    "model_id": "swint",
+    "precision": 0.7151433560409096,
+    "predicted_severe_pixels_on_valid_domain": 1555428,
+    "recall": 0.905496126410012,
+    "reference_positive_scenes": 13,
+    "reference_severe_pixels": 1228447,
+    "scenes": 24,
+    "scenes_with_any_reference_overlap": 13,
+    "tn": 23472358,
+    "tp": 1112354
+  },
+  {
+    "confusion_5x5": [
+      [
+        15937286,
+        2125761,
+        0,
+        0,
+        0
+      ],
+      [
+        527103,
+        6531542,
+        0,
+        0,
+        0
+      ],
+      [
+        7025,
+        25820,
+        0,
+        0,
+        0
+      ],
+      [
+        141,
+        2557,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    "decoder": "common_object_vote",
+    "evaluated_pixels": 25157235,
+    "event": "mexico-earthquake",
+    "f1": 0.0,
+    "false_severe_background_pixels": 0,
+    "false_severe_other_building_pixels": 0,
+    "false_severe_per_million_valid_pixels": 0.0,
+    "fn": 2698,
+    "fp": 0,
+    "iou": 0.0,
+    "model_id": "swint",
+    "precision": null,
+    "predicted_severe_pixels_on_valid_domain": 0,
+    "recall": 0.0,
+    "reference_positive_scenes": 3,
+    "reference_severe_pixels": 2698,
+    "scenes": 24,
+    "scenes_with_any_reference_overlap": 0,
+    "tn": 25154537,
+    "tp": 0
+  },
+  {
+    "confusion_5x5": [
+      [
+        22396037,
+        412146,
+        512,
+        969,
+        196427
+      ],
+      [
+        97391,
+        1323854,
+        1011,
+        195,
+        1872
+      ],
+      [
+        320,
+        6663,
+        539,
+        0,
+        4244
+      ],
+      [
+        1010,
+        1220,
+        0,
+        0,
+        13159
+      ],
+      [
+        36418,
+        7797,
+        0,
+        4486,
+        658263
+      ]
+    ],
+    "decoder": "common_object_vote",
+    "evaluated_pixels": 25164533,
+    "event": "santa-rosa-wildfire",
+    "f1": 0.8438470681062293,
+    "false_severe_background_pixels": 197396,
+    "false_severe_other_building_pixels": 6311,
+    "false_severe_per_million_valid_pixels": 8095.004187043725,
+    "fn": 46445,
+    "fp": 203707,
+    "iou": 0.7298749541066454,
+    "model_id": "swint",
+    "precision": 0.7684134536132285,
+    "predicted_severe_pixels_on_valid_domain": 879615,
+    "recall": 0.9357031811316627,
+    "reference_positive_scenes": 18,
+    "reference_severe_pixels": 722353,
+    "scenes": 24,
+    "scenes_with_any_reference_overlap": 17,
+    "tn": 24238473,
+    "tp": 675908
+  },
+  {
+    "confusion_5x5": [
+      [
+        21183499,
+        210215,
+        8660,
+        179089,
+        687
+      ],
+      [
+        236077,
+        1713925,
+        20896,
+        1227,
+        465
+      ],
+      [
+        50496,
+        137344,
+        94289,
+        78542,
+        21
+      ],
+      [
+        123787,
+        5193,
+        26613,
+        981090,
+        4855
+      ],
+      [
+        21348,
+        258,
+        0,
+        63804,
+        1499
+      ]
+    ],
+    "decoder": "raw_pixel",
+    "evaluated_pixels": 25143879,
+    "event": "hurricane-harvey",
+    "f1": 0.8278436335258212,
+    "false_severe_background_pixels": 179776,
+    "false_severe_other_building_pixels": 80255,
+    "false_severe_per_million_valid_pixels": 10341.721736729643,
+    "fn": 177199,
+    "fp": 260031,
+    "iou": 0.706256995400671,
+    "model_id": "swint",
+    "precision": 0.8016966640966567,
+    "predicted_severe_pixels_on_valid_domain": 1311279,
+    "recall": 0.8557536466774717,
+    "reference_positive_scenes": 13,
+    "reference_severe_pixels": 1228447,
+    "scenes": 24,
+    "scenes_with_any_reference_overlap": 13,
+    "tn": 23655401,
+    "tp": 1051248
+  },
+  {
+    "confusion_5x5": [
+      [
+        16978245,
+        1084802,
+        0,
+        0,
+        0
+      ],
+      [
+        1125882,
+        5932763,
+        0,
+        0,
+        0
+      ],
+      [
+        9796,
+        23049,
+        0,
+        0,
+        0
+      ],
+      [
+        423,
+        2275,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    "decoder": "raw_pixel",
+    "evaluated_pixels": 25157235,
+    "event": "mexico-earthquake",
+    "f1": 0.0,
+    "false_severe_background_pixels": 0,
+    "false_severe_other_building_pixels": 0,
+    "false_severe_per_million_valid_pixels": 0.0,
+    "fn": 2698,
+    "fp": 0,
+    "iou": 0.0,
+    "model_id": "swint",
+    "precision": null,
+    "predicted_severe_pixels_on_valid_domain": 0,
+    "recall": 0.0,
+    "reference_positive_scenes": 3,
+    "reference_severe_pixels": 2698,
+    "scenes": 24,
+    "scenes_with_any_reference_overlap": 0,
+    "tn": 25154537,
+    "tp": 0
+  },
+  {
+    "confusion_5x5": [
+      [
+        22752406,
+        160342,
+        60,
+        268,
+        93015
+      ],
+      [
+        215713,
+        1207748,
+        525,
+        122,
+        215
+      ],
+      [
+        949,
+        8415,
+        491,
+        1848,
+        63
+      ],
+      [
+        1812,
+        939,
+        0,
+        70,
+        12568
+      ],
+      [
+        72291,
+        6842,
+        87,
+        2691,
+        625053
+      ]
+    ],
+    "decoder": "raw_pixel",
+    "evaluated_pixels": 25164533,
+    "event": "santa-rosa-wildfire",
+    "f1": 0.8782787228118876,
+    "false_severe_background_pixels": 93283,
+    "false_severe_other_building_pixels": 2248,
+    "false_severe_per_million_valid_pixels": 3796.2556269174556,
+    "fn": 81971,
+    "fp": 95531,
+    "iou": 0.7829741136884937,
+    "model_id": "swint",
+    "precision": 0.8701871009208969,
+    "predicted_severe_pixels_on_valid_domain": 735913,
+    "recall": 0.8865222405112182,
+    "reference_positive_scenes": 18,
+    "reference_severe_pixels": 722353,
+    "scenes": 24,
+    "scenes_with_any_reference_overlap": 17,
+    "tn": 24346649,
+    "tp": 640382
+  }
+]

@@ -1,0 +1,41 @@
+{
+  "decision": "PRIMARY_NATIVE256_MEASUREMENT_GATE_PASSED",
+  "domain_screens": [
+    {
+      "checks": {
+        "both_reference_positive_events_have_incremental_opportunity": true,
+        "budget8_exact_random_macro_incremental_coverage_exceeds128": true,
+        "budget8_pooled_reference_precision_not_below128": true
+      },
+      "domain": "all_published_pixels",
+      "passed": true,
+      "reference_positive_events": [
+        "EARTHQUAKE-TURKEY",
+        "PAKISTAN-FLOODING"
+      ]
+    },
+    {
+      "checks": {
+        "both_reference_positive_events_have_incremental_opportunity": true,
+        "budget8_exact_random_macro_incremental_coverage_exceeds128": true,
+        "budget8_pooled_reference_precision_not_below128": true
+      },
+      "domain": "both_dates_nonzero",
+      "passed": true,
+      "reference_positive_events": [
+        "EARTHQUAKE-TURKEY",
+        "PAKISTAN-FLOODING"
+      ]
+    }
+  ],
+  "independent_efficacy_claim": false,
+  "new_fitting_enabled": false,
+  "new_method_selected": false,
+  "next_scope": "Separately register mixed-quality measurement checks before search-method development.",
+  "primary_budget": 8,
+  "primary_condition": "native256_contiguous",
+  "primary_domain": "all_published_pixels",
+  "primary_policy": "random_exact",
+  "primary_screen_passed": true,
+  "secondary_cannot_replace_failed_primary": true
+}

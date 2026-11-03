@@ -1,0 +1,60 @@
+{
+  "version": "local_feedback_calibration_v1",
+  "split": "calibration",
+  "timing": "Exploratory follow-up designed after scope diagnostics; not preregistered before seeing calibration labels. No validation/test or hyperparameter search.",
+  "policies": [
+    "quality_gate",
+    "quality",
+    "adaptive_prior",
+    "local_residual",
+    "local_positive",
+    "neighbor_positive"
+  ],
+  "scenarios_and_seeds": {
+    "native_survey": [
+      20261024
+    ],
+    "mixed_survey": [
+      20261024,
+      20261025,
+      20261026,
+      20261027,
+      20261028
+    ],
+    "blurred_survey": [
+      20261024
+    ]
+  },
+  "budgets": [
+    8,
+    16,
+    32
+  ],
+  "scope": "Online relations use only immediate 8-connected neighbors in the same original RGB-change quartile. Never use shared-building UID exclusions online; these were evaluator diagnostic controls only.",
+  "local_residual": "For each unvisited candidate, sum latest per-neighbor (TPR-FPR)^2 * (source posterior-original source prior); logit shift clip(4*sum/(8+sum reliability),-1,1). Both signs. Original v1 constants unchanged.",
+  "local_positive": "Same local residual formula but include only latest detector-positive source neighbors; negative sources contribute neither residual nor denominator. Observation quality represented by same fixed reliability.",
+  "neighbor_positive": "Simple baseline: candidate logit +0.25 if any latest detector-positive eligible neighbor exists, otherwise zero; independent of number of positive neighbors or likelihood values. Fixed modest bias, not tuned.",
+  "cell_posteriors": "All three local policies use the unchanged quality posterior for observed cells, anchored to their original fitted prior. Only unvisited scores receive neighbor corrections.",
+  "correlation": "One registry representative per sample/cell. Upgrade replaces blurred result: recompute from frozen original cell prior using native likelihood, not previous posterior. Current peer residual replaced too.",
+  "actions": "Survey costs 1; a negative blurred survey permits one native quality upgrade costing 2. Positive regions terminal for all policies; native survey has no further upgrade. No direct native request on an unvisited region in degraded-survey conditions.",
+  "selection": "Expected target-presence detections per cost: unvisited probability * scenario-average sensitivity; upgrade latest cell probability * native sensitivity / 2. Common forecast rates across feedback methods; Euclidean distance breaks ties, no travel charge.",
+  "cost_scope": "Controlled quality-restoration proxy with declared 1:2 action costs; not measured compute, flight time, UAV viewpoints, or a claim that reprocessing recovers genuinely lost information.",
+  "paired_design": "Reuse all v1 control trajectories unchanged after hash checks. Run three new local policies on exactly the same fixed observation map and budgets; report all outcomes.",
+  "progression_rule": "Do not present a contribution or spend test events if local residual policies cannot consistently beat the simple neighbor-positive and quality-gate controls across budgets and events. Gains concentrated in a few scenes remain exploratory.",
+  "limitations": [
+    "Calibration data reused to fit sensor/prior and run these diagnostics: no held-out policy result.",
+    "Checkpoint training exposure expected; two events, no real UAV measurements.",
+    "Presence-oriented acquisition and terminal positive cells may miss additional buildings in dense positive cells.",
+    "Coverage-based building matching is an evaluator proxy, not instance AP; spatial peers are not guaranteed exchangeable.",
+    "Fixed-radius same-bin relation motivated by this calibration data, with no held-out confirmation.",
+    "Local detector-positive neighbors may refer to the same crossing building; unique discovery evaluator removes repeat counts but the planner does not know true object IDs.",
+    "The 0.25 simple-bias constant is an engineering comparator choice; no claim it is the strongest possible local heuristic."
+  ],
+  "source_hashes": {
+    "observations": "46cafc0e181e764743f1923146a3c8aa4710f3bf7e900fa855dcf69ecc8ee20f",
+    "association": "cbb2239f0c9d268085d7b765f010ae8e830c73067cd8d12494bf03faed3b9128",
+    "parameters": "db3c3a77647b18009e2e192e187084c5148f39c24fb952a0f7b40420ea3fc600"
+  },
+  "old_control_traces_sha256": "d5e4b8648a2f5e7a7118a491446ae06279b8111c176912f1975aaa33334de2a8",
+  "old_control_report_sha256": "cf6da8d7729f8da4598d387d89c78e2a5e8bf7a9dfed76614bf366821e8f5fec"
+}

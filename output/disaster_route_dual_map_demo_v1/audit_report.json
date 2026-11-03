@@ -1,0 +1,13 @@
+{
+  "budget_violations": 0,
+  "map_organization_parities": 6,
+  "new_algorithm_effect_established": false,
+  "old_frozen_outputs_unchanged": true,
+  "paid_observations": 430,
+  "paid_planning_calls": 44,
+  "private_target_or_future_bit_arrays_in_browser": false,
+  "public_frames_checked": 510,
+  "routes": 12,
+  "snapshot_continuations": 12,
+  "status": "PASS"
+}

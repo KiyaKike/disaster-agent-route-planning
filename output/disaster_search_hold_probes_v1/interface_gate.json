@@ -1,0 +1,14 @@
+{
+  "data_interface_passed": true,
+  "manifest_sha256": "46eeb5e2457e5ff556ac56ec50f82f4d5ba3b9a8d85299471c7d041dcbf2091e",
+  "sample_ids": [
+    "hurricane-harvey_00000363",
+    "hurricane-harvey_00000074",
+    "santa-rosa-wildfire_00000013",
+    "santa-rosa-wildfire_00000266",
+    "mexico-earthquake_00000145",
+    "mexico-earthquake_00000054"
+  ],
+  "scope": "Prediction gate contains no class counts or label outcomes.",
+  "version": "SIX_DEVELOPMENT_RGB_ACCESS_GATE"
+}

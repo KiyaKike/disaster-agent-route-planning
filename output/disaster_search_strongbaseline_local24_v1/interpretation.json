@@ -1,0 +1,131 @@
+{
+  "status": "DESCRIPTIVE_INTERPRETATION_NO_SCORE_CHANGE",
+  "primary_oracle_static_recall_gap_pp": 15.058842421918373,
+  "local_minus_full_precision_pp": -3.351251348157913,
+  "local_minus_full_F1_pp": -1.9084601003247048,
+  "static_vs_random_per_scene": [
+    {
+      "sample_id": "santa-rosa-wildfire_00000008",
+      "static_TP_minus_random_expected_TP": 11762.75,
+      "reference_positive": true
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000010",
+      "static_TP_minus_random_expected_TP": 18718.5,
+      "reference_positive": true
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000013",
+      "static_TP_minus_random_expected_TP": 0.0,
+      "reference_positive": false
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000025",
+      "static_TP_minus_random_expected_TP": -965.25,
+      "reference_positive": true
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000029",
+      "static_TP_minus_random_expected_TP": 32861.0,
+      "reference_positive": true
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000054",
+      "static_TP_minus_random_expected_TP": 7314.0,
+      "reference_positive": true
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000062",
+      "static_TP_minus_random_expected_TP": 1978.5,
+      "reference_positive": true
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000108",
+      "static_TP_minus_random_expected_TP": 0.0,
+      "reference_positive": false
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000112",
+      "static_TP_minus_random_expected_TP": 6587.75,
+      "reference_positive": true
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000115",
+      "static_TP_minus_random_expected_TP": 3894.0,
+      "reference_positive": true
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000122",
+      "static_TP_minus_random_expected_TP": 2044.5,
+      "reference_positive": true
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000126",
+      "static_TP_minus_random_expected_TP": 0.0,
+      "reference_positive": false
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000160",
+      "static_TP_minus_random_expected_TP": 129.75,
+      "reference_positive": true
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000188",
+      "static_TP_minus_random_expected_TP": -1925.25,
+      "reference_positive": true
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000193",
+      "static_TP_minus_random_expected_TP": 0.0,
+      "reference_positive": false
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000194",
+      "static_TP_minus_random_expected_TP": 0.0,
+      "reference_positive": false
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000227",
+      "static_TP_minus_random_expected_TP": 2673.5,
+      "reference_positive": true
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000232",
+      "static_TP_minus_random_expected_TP": 5953.0,
+      "reference_positive": true
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000255",
+      "static_TP_minus_random_expected_TP": 1506.0,
+      "reference_positive": true
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000263",
+      "static_TP_minus_random_expected_TP": -1030.75,
+      "reference_positive": true
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000266",
+      "static_TP_minus_random_expected_TP": -852.0,
+      "reference_positive": true
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000278",
+      "static_TP_minus_random_expected_TP": 586.0,
+      "reference_positive": true
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000342",
+      "static_TP_minus_random_expected_TP": 17012.75,
+      "reference_positive": true
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000352",
+      "static_TP_minus_random_expected_TP": 0.0,
+      "reference_positive": false
+    }
+  ],
+  "current_best_measured_feasible_baseline_by_pooled_TP": "static_coarse_change",
+  "adaptive_controller_tested": false,
+  "claim_scope": "One already-used development event;oracle headroom is not realizable improvement evidence."
+}

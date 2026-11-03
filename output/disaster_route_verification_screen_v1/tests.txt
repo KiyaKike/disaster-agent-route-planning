@@ -1,0 +1,11 @@
+test_equal_first_pass_rates_but_different_posterior_action (test_verification_screen.VerificationScreen.test_equal_first_pass_rates_but_different_posterior_action) ... ok
+test_insufficient_budget_never_permits_probe_or_unpaid_return (test_verification_screen.VerificationScreen.test_insufficient_budget_never_permits_probe_or_unpaid_return) ... ok
+test_persistent_miss_cannot_be_fixed_by_repeating (test_verification_screen.VerificationScreen.test_persistent_miss_cannot_be_fixed_by_repeating) ... ok
+test_primary_exact_branch_replay (test_verification_screen.VerificationScreen.test_primary_exact_branch_replay) ... ok
+test_robust_reference_matches_known_witness_and_independent_lp (test_verification_screen.VerificationScreen.test_robust_reference_matches_known_witness_and_independent_lp) ... ok
+test_uninformative_probe_never_adds_reward (test_verification_screen.VerificationScreen.test_uninformative_probe_never_adds_reward) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.003s
+
+OK

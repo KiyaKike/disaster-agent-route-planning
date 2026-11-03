@@ -1,0 +1,127 @@
+{
+  "version": "early_evidence_identifiability_v1",
+  "prefix_lengths": [
+    4,
+    8
+  ],
+  "total_survey_budgets": [
+    16,
+    32
+  ],
+  "probe_order_seeds": [
+    20261030,
+    20261031,
+    20261032,
+    20261033,
+    20261034,
+    20261035,
+    20261036,
+    20261037,
+    20261038,
+    20261039
+  ],
+  "quality_maps": {
+    "native_survey": [
+      20261024
+    ],
+    "mixed_survey": [
+      20261024,
+      20261025,
+      20261026,
+      20261027,
+      20261028
+    ],
+    "blurred_survey": [
+      20261024
+    ]
+  },
+  "timing": "Exploratory protocol frozen after all earlier calibration/validation results were inspected. No untouched-test or novelty claim.",
+  "probe": "First 4/8 distinct cells in the fixed random coverage order, costs included in total budget, no upgrades. Future quality hidden; probe features use observed quality only.",
+  "continuations": "After identical paid probe, either static fitted-prior survey ordering with original nearest tie starting at last probe position, or uniform random survey over remaining cells. No upgrades in either continuation: isolate ranking utility from quality restoration.",
+  "random_evaluator": "Exact expected new unique buildings over a uniform subset of remaining cells; remove prefix-discovered IDs first. Same frozen quality map, remaining budget and building-matching rule for both continuations.",
+  "features": {
+    "positive_count": "Count detector positives in the probe; density control, not itself a ranking-failure diagnosis.",
+    "response_surplus": "sum(z-q)/sqrt(sum q*(1-q)), q=p*TPR(mode)+(1-p)*FPR(mode), all fixed calibration parameters. A mismatch need not imply incorrect spatial ranking.",
+    "binary_alignment": "Mean sign agreement between fitted prior and binary response over probe pairs with same observed mode, unequal priors and unequal responses; null if no comparable pairs.",
+    "soft_alignment": "Same pair agreement, using frozen uncalibrated model score instead of binary response; null if no comparable pairs. No comparison across native/blurred modes.",
+    "public_prior_spread": "Whole-map variance of fitted prior, available before probing; negative-control baseline for incremental observation value."
+  },
+  "labels": "Evaluator gain=prior continuation unique discoveries minus random continuation expectation. Normalize by distinct yet-undiscovered targets reachable by any remaining survey result; null when no remaining opportunity, not an invalid-prior label.",
+  "summaries": "Primary: evaluate scene-level Spearman/AUC separately for each fixed quality-map/probe-order replicate, using ONE 4/8-cell probe per scene; average replicate diagnostics, no seed/cell independence p-values. AUC compares normalized gain >=+0.10 vs <=-0.10; also report all 0.00/0.10/0.20 margins without selecting best. No-opportunity scenes excluded. Secondary scene-averaged associations are descriptive only, cannot be read as a single short-probe classifier.",
+  "missingness": "Report all-negative probes, comparable-pair availability and scene counts for each feature. Scores computed only on available scenes cannot be treated as full-coverage diagnosis.",
+  "oracle": "Evaluator chooses the larger of prior total and random expected total after each probe. An upper bound for these two continuations in expected-utility terms, not an attainable trained selector and not oracle hindsight over random realizations. Compare with original no-probe prior baseline including the probe cost.",
+  "progression": "Do not implement a learned switcher just because response counts detect sparse scenes. Seek directional consistency within target-opportunity scenes, sufficient signal availability, and room for gains after probe cost; preserve failures or event reversals.",
+  "limitations": [
+    "Already-inspected validation, effectively one event with validation targets; weights expected to have training exposure.",
+    "Target-count and ranking utility are different; no-opportunity/low-density cases must not masquerade as evidence of prior failure.",
+    "Same-image artificial degradation and fixed observation costs are engineering proxies; no true UAV viewpoints or flight costs.",
+    "No signal tested here exhausts possible visual features or proves information-theoretic impossibility."
+  ],
+  "source_files": {
+    "parameters": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_calibration_v2/calibration_parameters.json",
+      "sha256": "db3c3a77647b18009e2e192e187084c5148f39c24fb952a0f7b40420ea3fc600"
+    },
+    "calibration_observations": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_changeos_calibration/observations.json",
+      "sha256": "46cafc0e181e764743f1923146a3c8aa4710f3bf7e900fa855dcf69ecc8ee20f"
+    },
+    "calibration_association": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_calibration_v2/association_report.json",
+      "sha256": "cbb2239f0c9d268085d7b765f010ae8e830c73067cd8d12494bf03faed3b9128"
+    },
+    "calibration_old_runs": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_local_feedback_v1/runs.json",
+      "sha256": "499d8ac2892054a964df0b7ee12d40f4acf638399fcf6a502e97a07cbe1e8bbc"
+    },
+    "calibration_old_report": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_local_feedback_v1/report.json",
+      "sha256": "4b8bdae4e73a0060ac8685e71ce9fde8f02132ae5c895abfd37606d49286669a"
+    },
+    "calibration_old_traces": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_local_feedback_v1/traces.jsonl",
+      "sha256": "1b07c2082d42ccc7305f700d25ed57bb096fad759e219dd3fa6cc03ab3a14d55"
+    },
+    "calibration_old_checks": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_local_feedback_v1/integrity_checks.json",
+      "sha256": "27efc80c5ed0f2764b5f0f1c52a81e10924461e6102f535858449a3a1c9f5ca1"
+    },
+    "validation_observations": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_changeos_validation/observations.json",
+      "sha256": "15e9395ad6375d3b89d3d2ff0615eb5ac43141740242ea833ebd63e973081ce4"
+    },
+    "validation_association": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_validation_v1/association_report.json",
+      "sha256": "22a96c61e3e2feb1a62d78b045bcd7075e0ea41f13588fef3367f07391c6615c"
+    },
+    "validation_old_runs": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_validation_v1/runs.json",
+      "sha256": "2eb65b14f513f19ae478475fd88b19eb1367cdd2f520b4a998b858ff64014514"
+    },
+    "validation_old_report": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_validation_v1/report.json",
+      "sha256": "a3de8a56e253956d60e262f15e2a5f5234611c5142c9bf68dad32531b2b36798"
+    },
+    "validation_old_traces": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_validation_v1/traces.jsonl",
+      "sha256": "9710d5c6f5c45a63563b559d090f4aaa0b6d9e1de72b00bbe3ec60783e566b25"
+    },
+    "validation_old_checks": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_validation_v1/integrity_checks.json",
+      "sha256": "c1b2d922e7e5c17bbacfc480dc1c0c5f0f5fd87b54fec2866b001210421feddf"
+    },
+    "coverage_report": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_coverage_controls_v1/report.json",
+      "sha256": "cdb1b679cde1bd2bb7c58a695a80837faadb60a604694e9966fd37ddb842cd2d"
+    },
+    "coverage_checks": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_coverage_controls_v1/integrity_checks.json",
+      "sha256": "ce5c829b8b24d576d18ac39bb0b0a4c4b6b021280de2807e42f444324b26cabf"
+    }
+  },
+  "implementation_sha256": {
+    "diagnose_early_evidence.py": "8bef4d9a9c24154e234402635ea3d7ff8e5d66e45f1dedf245b6a7c2bf6b04de",
+    "run_coverage_controls.py": "d9d5a567ab2b72a80b5a3b209e691631a4b9531fb610eb7b731a0c52993fad76",
+    "run_cached_search.py": "29059dbb824df8fd463d4ab006e4b739274c6979755d83a7c299bed0ca1e6829"
+  }
+}

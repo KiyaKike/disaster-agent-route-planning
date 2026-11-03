@@ -1,0 +1,9 @@
+{
+  "building_instances_created": 0,
+  "network_body_bytes_received": 30673,
+  "new_human_annotations": 0,
+  "new_inference": 0,
+  "reference_label_payload_read": true,
+  "reference_masks": 18,
+  "reserved_bytes": 30673
+}

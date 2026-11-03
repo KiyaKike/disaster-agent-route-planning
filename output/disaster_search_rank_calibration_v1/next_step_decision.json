@@ -1,0 +1,20 @@
+{
+  "basis_audit_sha256": "5f7915972811ddc98f97a987e257db6d91a5bda5c895bb73b904cbd4afff33b2",
+  "basis_evidence_sha256": "5f37001037df6cfa348cde3e23bdde3eaea5453370e31df26081e26eb933583a",
+  "decision": "Stop this isotonic survey-price projection variant; retain raw survey/raw negative gate as simple controls and record raw-order restoration as baseline repair.",
+  "do_not_tune_another_mapping_on_these72": true,
+  "new_inference_calls": 0,
+  "new_method_selected": false,
+  "next_work": [
+    "Freeze the simple raw baselines and the negative findings; stop adding heuristics on the same development72.",
+    "Complete evaluation-data admission: source/license evidence, full image footprint/spatial overlap, checkpoint training exposure, usable event diversity. Use metadata admission before any reserved policy scores.",
+    "Specify and implement a budget-compatible strong literature baseline before any method claim; the current batch-tail adapter is not full MF-ENS.",
+    "Only after data and baseline gates, freeze one candidate and the independent validation protocol. Do not automatically score validation/confirmation now."
+  ],
+  "not_universal_impossibility": "This rejects this fixed source-only isotonic survey-price variant, not every calibration or revisit method.",
+  "old_positive_revisit_policy_still_stopped": true,
+  "paid_gpu_needed": false,
+  "stage": "RANK_CALIBRATION_CONTROL_COMPLETE",
+  "validation_or_confirmation_access_enabled": false,
+  "variant_stopped": true
+}

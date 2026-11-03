@@ -1,0 +1,83 @@
+{
+  "status": "EXACT_EQUIVALENCE_WITNESS_VERIFIED",
+  "assumptions": [
+    "No false positives",
+    "Unknown homogeneous target prevalence p and detector sensitivity s",
+    "Independent sites,one observation per site,no informative quality side-channel",
+    "Target static within independent revisit demonstration"
+  ],
+  "worlds": {
+    "prior_overestimates_damage": {
+      "target_probability": "1/5",
+      "sensitivity": "1",
+      "first_pass_positive_probability": "1/5",
+      "target_probability_after_negative": "0"
+    },
+    "prior_high_but_detector_misses": {
+      "target_probability": "4/5",
+      "sensitivity": "1/4",
+      "first_pass_positive_probability": "1/5",
+      "target_probability_after_negative": "3/4"
+    }
+  },
+  "first_pass_observation_laws_equal": true,
+  "binomial_count_equalities_verified": 90,
+  "sample_sizes_checked": [
+    1,
+    12
+  ],
+  "formula": "P(Z=1)=p*s;first-pass outcomes alone identify the product,not its factors. This equality is algebraic for every sample size,not only the finite checks.",
+  "new_independent_revisit_law": {
+    "prior_overestimates_damage": {
+      "00": "4/5",
+      "01": "0",
+      "10": "0",
+      "11": "1/5"
+    },
+    "prior_high_but_detector_misses": {
+      "00": "13/20",
+      "01": "3/20",
+      "10": "3/20",
+      "11": "1/20"
+    }
+  },
+  "independent_revisit_total_variation": "3/10",
+  "route_witness": {
+    "remaining_budget": 2,
+    "home": "A",
+    "distance_A_B": "1/2",
+    "service_cost": 1,
+    "return_cost_counted": true,
+    "feasible_nondominated_strategies": [
+      "visit B once and return",
+      "independently reacquire A up to twice,stop after first positive"
+    ],
+    "reward": "Probability of discovering one genuine target;repeated positives not double-counted",
+    "fresh_B_reward": {
+      "prior_overestimates_damage": "1/5",
+      "prior_high_but_detector_misses": "1/5"
+    },
+    "revisit_A_reward": {
+      "prior_overestimates_damage": "0",
+      "prior_high_but_detector_misses": "21/64"
+    },
+    "best_strategy_by_world": {
+      "prior_overestimates_damage": "fresh B",
+      "prior_high_but_detector_misses": "revisit A"
+    },
+    "best_world_blind_minimax_repeat_probability": "41/105",
+    "minimax_regret_vs_world_known_reference": "41/525",
+    "scope": "Exact two-location witness conditional on initial negative;unknown-world strategies cannot choose a different first action on identical history. No real-disaster or new-theorem claim."
+  },
+  "duplicate_existing_image": "Deterministic repeated access supplies identical Z,not an independent sensing draw,and does not break the witness equivalence",
+  "boundaries": [
+    "Known sensitivity or calibrated prevalence can remove this ambiguity",
+    "Reference anchors,informative quality features or appropriately independent repeat sensing may distinguish worlds",
+    "Conditional independence and unchanged target cannot be assumed from same-day metadata",
+    "Does not prove all real disaster data non-identifiable",
+    "Does not prove an algorithmic novelty or route gain"
+  ],
+  "empirical_disaster_claim": false,
+  "new_theorem_claim": false,
+  "new_model_calls": 0
+}

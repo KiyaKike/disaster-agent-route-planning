@@ -1,0 +1,171 @@
+{
+  "dataset_id": "hold_six_frozen_development_probes_v1",
+  "files": [
+    {
+      "path": "samples/hurricane-harvey_00000363/hurricane-harvey_00000363_pre_disaster.png",
+      "pixel_sha256_rgb": "f2fc4c1cf195c8cf46c5029c2f36fc4ab293654c6920991809eaef6112ed379f",
+      "sha256": "c3de8b776ac90f7daf3d35730068452cb07f8c063e3a557313f06708cd2955bc"
+    },
+    {
+      "path": "samples/hurricane-harvey_00000363/hurricane-harvey_00000363_post_disaster.png",
+      "pixel_sha256_rgb": "20aeddb29de99bd6644f5568e25637a53ecb574e18a33ae2584964328d03fba2",
+      "sha256": "e8245dd8315422ffe4acacbe9c75157d3d1adea8d5cd24db08333fb9c95f4b36"
+    },
+    {
+      "path": "samples/hurricane-harvey_00000363/hurricane-harvey_00000363_post_disaster.json",
+      "sha256": "bd7d57ac49a79d019b80e027f952fee91dfdb8b863df188c30f15fdfd894dfc3"
+    },
+    {
+      "path": "samples/hurricane-harvey_00000074/hurricane-harvey_00000074_pre_disaster.png",
+      "pixel_sha256_rgb": "3b9ba735dd5105be16642ce886319bd37cdd1a852eb6b417a622616036fac66d",
+      "sha256": "1c336ffbce42b43cdfcd9931f722828c97b1b3289fd2c00cd3633c6e5695bfff"
+    },
+    {
+      "path": "samples/hurricane-harvey_00000074/hurricane-harvey_00000074_post_disaster.png",
+      "pixel_sha256_rgb": "26ff79bd8da60bfa0340d96e401ed5fbfe4383f0641430b9f6abc37a220575e7",
+      "sha256": "e022437b35a860a23d08471045b366cd045796fd9813c7200769c49bf33ca64c"
+    },
+    {
+      "path": "samples/hurricane-harvey_00000074/hurricane-harvey_00000074_post_disaster.json",
+      "sha256": "34245389eefe5778a507ff59558959d0674830cf52f6d4cf1b07de8134d3cf04"
+    },
+    {
+      "path": "samples/santa-rosa-wildfire_00000013/santa-rosa-wildfire_00000013_pre_disaster.png",
+      "pixel_sha256_rgb": "fe4cf71579cb8ce9c833de0edb18c50d5314d285b914e5912e14472546dd01dd",
+      "sha256": "9d648ae2c24f5fc1ca8aa01b1306089afb7325024d09a6a4ad38732aefa8f7fe"
+    },
+    {
+      "path": "samples/santa-rosa-wildfire_00000013/santa-rosa-wildfire_00000013_post_disaster.png",
+      "pixel_sha256_rgb": "20b08d997960984bd3dd8f4c0bba786362dbfd57882554f7a85307c0a3607f27",
+      "sha256": "255d64cd68505c01b44ce2dbc42757cd8c6a5f475b5a99a710a60056d41e6970"
+    },
+    {
+      "path": "samples/santa-rosa-wildfire_00000013/santa-rosa-wildfire_00000013_post_disaster.json",
+      "sha256": "4a3d3a8e424ce03bd2ed963117f474b31c8a6dd8be402609ea80449188db914c"
+    },
+    {
+      "path": "samples/santa-rosa-wildfire_00000266/santa-rosa-wildfire_00000266_pre_disaster.png",
+      "pixel_sha256_rgb": "c45e249034eb49990f9c842b79c9c36327129afb68606ca5178c77b63bebf618",
+      "sha256": "b320f03132e59f47f2a694db849b151db8776f9969eff5581b63852611896b95"
+    },
+    {
+      "path": "samples/santa-rosa-wildfire_00000266/santa-rosa-wildfire_00000266_post_disaster.png",
+      "pixel_sha256_rgb": "7d3e45bb5edb99dcfc38130596d9ace4af6000640c6d7c8528d05fa1a8d37270",
+      "sha256": "d8311e69c987821bc3f19f071ffb0cc9e35dcdf07a3bda04e6f1376de6326fba"
+    },
+    {
+      "path": "samples/santa-rosa-wildfire_00000266/santa-rosa-wildfire_00000266_post_disaster.json",
+      "sha256": "e4fb4f7cb4e2a17f39141585c09ecfedede63dd947f4216595371902f17e44b9"
+    },
+    {
+      "path": "samples/mexico-earthquake_00000145/mexico-earthquake_00000145_pre_disaster.png",
+      "pixel_sha256_rgb": "48777b6b8627c5f973f6f5d54ee1545e58c0b0aa04cbe9c11efe2f4bf4d39121",
+      "sha256": "165f39e6ebca21e17e5d166a6b53675ba16f29075fcbd45ee667303d76505c83"
+    },
+    {
+      "path": "samples/mexico-earthquake_00000145/mexico-earthquake_00000145_post_disaster.png",
+      "pixel_sha256_rgb": "a5d5b3a24a57eff6ff53005070ad79ce17d09feecbfb7004ce7ba34d87d60a76",
+      "sha256": "9e6390090628fa835f84eb0b1db847e3636106f9d6f44d619594f97ff85419bb"
+    },
+    {
+      "path": "samples/mexico-earthquake_00000145/mexico-earthquake_00000145_post_disaster.json",
+      "sha256": "3a7b45a12f6dc86080356b0a9399e3a18556c663b88980b91aa55f98cc52f46a"
+    },
+    {
+      "path": "samples/mexico-earthquake_00000054/mexico-earthquake_00000054_pre_disaster.png",
+      "pixel_sha256_rgb": "b2a0062e0dcb243357a46768d14ef0b32679a9b57df6d7ae79ee00745d31f462",
+      "sha256": "a06564a526e026ec45556d14041da14443146647b1de2cf9059f25ced607ba65"
+    },
+    {
+      "path": "samples/mexico-earthquake_00000054/mexico-earthquake_00000054_post_disaster.png",
+      "pixel_sha256_rgb": "0b4522f11d0d5cf7190c5052ef89b6d32519e65d3c505dc463dbcd3adce08858",
+      "sha256": "a7b492669982dacaa5429de75fdc231a8a09364677bdee9ef87e08030c555b1f"
+    },
+    {
+      "path": "samples/mexico-earthquake_00000054/mexico-earthquake_00000054_post_disaster.json",
+      "sha256": "08b566af857d4ddbca6468f1a5ec27d855556790cc1c3a230597f82ac942f653"
+    }
+  ],
+  "protocol_sha256": "d53e40d43d2b0f8abd27a3543603a426b649bdcd2e61f31a942465a7db3c3747",
+  "samples": [
+    {
+      "event": "hurricane-harvey",
+      "files": {
+        "post_image": "samples/hurricane-harvey_00000363/hurricane-harvey_00000363_post_disaster.png",
+        "post_label": "samples/hurricane-harvey_00000363/hurricane-harvey_00000363_post_disaster.json",
+        "pre_image": "samples/hurricane-harvey_00000363/hurricane-harvey_00000363_pre_disaster.png"
+      },
+      "interface_probe": true,
+      "sample_id": "hurricane-harvey_00000363",
+      "selection_hash": "0664cb2a31062289a4265385304da8cf301ef7211ad9da0c9a0817f2ee71cfb9",
+      "selection_rank": 1,
+      "split": "development"
+    },
+    {
+      "event": "hurricane-harvey",
+      "files": {
+        "post_image": "samples/hurricane-harvey_00000074/hurricane-harvey_00000074_post_disaster.png",
+        "post_label": "samples/hurricane-harvey_00000074/hurricane-harvey_00000074_post_disaster.json",
+        "pre_image": "samples/hurricane-harvey_00000074/hurricane-harvey_00000074_pre_disaster.png"
+      },
+      "interface_probe": true,
+      "sample_id": "hurricane-harvey_00000074",
+      "selection_hash": "077e7feae34d53070f6ead667080c57842f55b06115707d3d8b72601a91c8833",
+      "selection_rank": 2,
+      "split": "development"
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "files": {
+        "post_image": "samples/santa-rosa-wildfire_00000013/santa-rosa-wildfire_00000013_post_disaster.png",
+        "post_label": "samples/santa-rosa-wildfire_00000013/santa-rosa-wildfire_00000013_post_disaster.json",
+        "pre_image": "samples/santa-rosa-wildfire_00000013/santa-rosa-wildfire_00000013_pre_disaster.png"
+      },
+      "interface_probe": true,
+      "sample_id": "santa-rosa-wildfire_00000013",
+      "selection_hash": "02b08a426d39b952f1543fbfad078f6e863c3b94a8d109f4ace95c5ba2b88e5a",
+      "selection_rank": 1,
+      "split": "development"
+    },
+    {
+      "event": "santa-rosa-wildfire",
+      "files": {
+        "post_image": "samples/santa-rosa-wildfire_00000266/santa-rosa-wildfire_00000266_post_disaster.png",
+        "post_label": "samples/santa-rosa-wildfire_00000266/santa-rosa-wildfire_00000266_post_disaster.json",
+        "pre_image": "samples/santa-rosa-wildfire_00000266/santa-rosa-wildfire_00000266_pre_disaster.png"
+      },
+      "interface_probe": true,
+      "sample_id": "santa-rosa-wildfire_00000266",
+      "selection_hash": "047e3e75912e1b44e63097785f33badf552f1951a9f4f3352bf979d95871211d",
+      "selection_rank": 2,
+      "split": "development"
+    },
+    {
+      "event": "mexico-earthquake",
+      "files": {
+        "post_image": "samples/mexico-earthquake_00000145/mexico-earthquake_00000145_post_disaster.png",
+        "post_label": "samples/mexico-earthquake_00000145/mexico-earthquake_00000145_post_disaster.json",
+        "pre_image": "samples/mexico-earthquake_00000145/mexico-earthquake_00000145_pre_disaster.png"
+      },
+      "interface_probe": true,
+      "sample_id": "mexico-earthquake_00000145",
+      "selection_hash": "003a1855036f902c0d60ddec523abbdbd0556beeaaf60bb3a2781a63abefc526",
+      "selection_rank": 1,
+      "split": "development"
+    },
+    {
+      "event": "mexico-earthquake",
+      "files": {
+        "post_image": "samples/mexico-earthquake_00000054/mexico-earthquake_00000054_post_disaster.png",
+        "post_label": "samples/mexico-earthquake_00000054/mexico-earthquake_00000054_post_disaster.json",
+        "pre_image": "samples/mexico-earthquake_00000054/mexico-earthquake_00000054_pre_disaster.png"
+      },
+      "interface_probe": true,
+      "sample_id": "mexico-earthquake_00000054",
+      "selection_hash": "004179de0c067b67fe7fd460711e977cc11865e2b474d8feff5a5083d77933ed",
+      "selection_rank": 2,
+      "split": "development"
+    }
+  ],
+  "source_revision": "44e219dc1d88c9d0903d6b478d7f2f3c435e574f"
+}

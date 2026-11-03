@@ -1,0 +1,326 @@
+[
+  {
+    "event": "EARTHQUAKE-TURKEY",
+    "pair_pixel_sha256": "b65a960b73ba6290c675b6bf3a18386df2bcfa21c92245e6c05e25955e9a1569",
+    "sample_id": "EARTHQUAKE-TURKEY_000943",
+    "zero_rgb_fraction": {
+      "post": 0.00986480712890625,
+      "pre": 0.00017547607421875
+    }
+  },
+  {
+    "event": "EARTHQUAKE-TURKEY",
+    "pair_pixel_sha256": "6774775b752ea0eef96169ea3a7b94e53f0fcf095e4d669a8ccd767540b1f0d6",
+    "sample_id": "EARTHQUAKE-TURKEY_001258",
+    "zero_rgb_fraction": {
+      "post": 0.00106048583984375,
+      "pre": 0.0
+    }
+  },
+  {
+    "event": "EARTHQUAKE-TURKEY",
+    "pair_pixel_sha256": "be300ecc506d76c5de88168af5090906f5363708f8d7a77e5c2cce17bc5100f7",
+    "sample_id": "EARTHQUAKE-TURKEY_003096",
+    "zero_rgb_fraction": {
+      "post": 0.000881195068359375,
+      "pre": 8.7738037109375e-05
+    }
+  },
+  {
+    "event": "EARTHQUAKE-TURKEY",
+    "pair_pixel_sha256": "e41b0559da34fe628388e1035d5e4e51a97e77858a3987a99f6420fb1035096c",
+    "sample_id": "EARTHQUAKE-TURKEY_006691",
+    "zero_rgb_fraction": {
+      "post": 0.002166748046875,
+      "pre": 7.62939453125e-06
+    }
+  },
+  {
+    "event": "EARTHQUAKE-TURKEY",
+    "pair_pixel_sha256": "ea325b79083b9fba49c8241a76b36409edb7e1d189468a036505e23afea50603",
+    "sample_id": "EARTHQUAKE-TURKEY_008609",
+    "zero_rgb_fraction": {
+      "post": 0.0,
+      "pre": 0.000469207763671875
+    }
+  },
+  {
+    "event": "EARTHQUAKE-TURKEY",
+    "pair_pixel_sha256": "3b352903b68f2202095064b3cb0eee822506ff3bddc1479a84cabef03995ee8f",
+    "sample_id": "EARTHQUAKE-TURKEY_008873",
+    "zero_rgb_fraction": {
+      "post": 0.0024566650390625,
+      "pre": 0.5546798706054688
+    }
+  },
+  {
+    "event": "EARTHQUAKE-TURKEY",
+    "pair_pixel_sha256": "72afd98fd479f78f2d3889fac5192e87c2845877df0e3d97f818d7ddcf4f6003",
+    "sample_id": "EARTHQUAKE-TURKEY_009379",
+    "zero_rgb_fraction": {
+      "post": 0.00048065185546875,
+      "pre": 0.0
+    }
+  },
+  {
+    "event": "EARTHQUAKE-TURKEY",
+    "pair_pixel_sha256": "46bfe6dd146a3fd2496661ba8fd0faf29c4e48d0c59132711752686056ab8bd6",
+    "sample_id": "EARTHQUAKE-TURKEY_010027",
+    "zero_rgb_fraction": {
+      "post": 0.001270294189453125,
+      "pre": 0.0
+    }
+  },
+  {
+    "event": "EARTHQUAKE-TURKEY",
+    "pair_pixel_sha256": "93c6c82877b6b0ae09f5a43e03c2086cff5782dd9b727559499a29b833a623f2",
+    "sample_id": "EARTHQUAKE-TURKEY_013074",
+    "zero_rgb_fraction": {
+      "post": 0.000125885009765625,
+      "pre": 7.62939453125e-06
+    }
+  },
+  {
+    "event": "EARTHQUAKE-TURKEY",
+    "pair_pixel_sha256": "794f0f25a3c3e7d9ed80c6888b3f81c073d55b783d6ed6003ee91a7dfee7ecc4",
+    "sample_id": "EARTHQUAKE-TURKEY_014265",
+    "zero_rgb_fraction": {
+      "post": 0.000629425048828125,
+      "pre": 0.0
+    }
+  },
+  {
+    "event": "EARTHQUAKE-TURKEY",
+    "pair_pixel_sha256": "14852f6c9bafbb06dc48b515fa0a3dc2a808efbf0e5236439f45223a903575cf",
+    "sample_id": "EARTHQUAKE-TURKEY_015918",
+    "zero_rgb_fraction": {
+      "post": 0.002002716064453125,
+      "pre": 0.000415802001953125
+    }
+  },
+  {
+    "event": "EARTHQUAKE-TURKEY",
+    "pair_pixel_sha256": "a96fd0e5e89dbf1e38260d2b0303c2ce5c0ef63d5e054d515509e430dd3026c1",
+    "sample_id": "EARTHQUAKE-TURKEY_017525",
+    "zero_rgb_fraction": {
+      "post": 0.000202178955078125,
+      "pre": 0.0
+    }
+  },
+  {
+    "event": "PAKISTAN-FLOODING",
+    "pair_pixel_sha256": "380e0ef50b22465a6da47aa8f7812af02dc245e783fdc52c62b57353a008478a",
+    "sample_id": "PAKISTAN-FLOODING_001282",
+    "zero_rgb_fraction": {
+      "post": 0.0,
+      "pre": 0.0
+    }
+  },
+  {
+    "event": "PAKISTAN-FLOODING",
+    "pair_pixel_sha256": "19124ad2efc5238b06fe153d97d1bd0ac506627df6dafc4720201f1aabd5f8c7",
+    "sample_id": "PAKISTAN-FLOODING_003721",
+    "zero_rgb_fraction": {
+      "post": 0.0,
+      "pre": 0.0
+    }
+  },
+  {
+    "event": "PAKISTAN-FLOODING",
+    "pair_pixel_sha256": "d6e2db628601930b6a8a43df93677c652d7f6f191eab0abecb76982c3c1aff49",
+    "sample_id": "PAKISTAN-FLOODING_005310",
+    "zero_rgb_fraction": {
+      "post": 0.0,
+      "pre": 0.0
+    }
+  },
+  {
+    "event": "PAKISTAN-FLOODING",
+    "pair_pixel_sha256": "6ee0a305123b401932d7e4ea4159d2f242934672b60b3126fbf375c7d9d4e383",
+    "sample_id": "PAKISTAN-FLOODING_005905",
+    "zero_rgb_fraction": {
+      "post": 0.0,
+      "pre": 0.0
+    }
+  },
+  {
+    "event": "PAKISTAN-FLOODING",
+    "pair_pixel_sha256": "8673f0bf0ae884b8f6ecdbe91bd562a94af7800ab4bc70ecf08b7aaa942494c1",
+    "sample_id": "PAKISTAN-FLOODING_010048",
+    "zero_rgb_fraction": {
+      "post": 0.000408172607421875,
+      "pre": 0.0
+    }
+  },
+  {
+    "event": "PAKISTAN-FLOODING",
+    "pair_pixel_sha256": "721c75af0968709f30444cd43ce748f387e8c6373b0bd56fe0e0815e35a91c64",
+    "sample_id": "PAKISTAN-FLOODING_012131",
+    "zero_rgb_fraction": {
+      "post": 0.0,
+      "pre": 0.0
+    }
+  },
+  {
+    "event": "PAKISTAN-FLOODING",
+    "pair_pixel_sha256": "90f8c37a6ad6dd55ab8755ad25c0d40f3af5a0e781ce8c29aa17099be5c50de1",
+    "sample_id": "PAKISTAN-FLOODING_013076",
+    "zero_rgb_fraction": {
+      "post": 0.0,
+      "pre": 0.0
+    }
+  },
+  {
+    "event": "PAKISTAN-FLOODING",
+    "pair_pixel_sha256": "c55fd3970c405f2f5d66973c7680dd328bac58e906d090bd15c1d4476695d9fa",
+    "sample_id": "PAKISTAN-FLOODING_013624",
+    "zero_rgb_fraction": {
+      "post": 0.0,
+      "pre": 0.0
+    }
+  },
+  {
+    "event": "PAKISTAN-FLOODING",
+    "pair_pixel_sha256": "fbcab71720ecf1f449a8809f82704c3022761b90e0a0cb2cbe0f25b39e89f19d",
+    "sample_id": "PAKISTAN-FLOODING_015052",
+    "zero_rgb_fraction": {
+      "post": 0.0,
+      "pre": 0.0
+    }
+  },
+  {
+    "event": "PAKISTAN-FLOODING",
+    "pair_pixel_sha256": "402e9dd7dc25f055154ada8270fbfc67fc61e9ff0dd6dd8a15a823748b1605f6",
+    "sample_id": "PAKISTAN-FLOODING_015713",
+    "zero_rgb_fraction": {
+      "post": 0.0,
+      "pre": 0.0
+    }
+  },
+  {
+    "event": "PAKISTAN-FLOODING",
+    "pair_pixel_sha256": "e12f8f6e9049d1645ae7249e777fc07b81dbe10886cfb122104427de520566c1",
+    "sample_id": "PAKISTAN-FLOODING_017185",
+    "zero_rgb_fraction": {
+      "post": 0.0,
+      "pre": 0.0
+    }
+  },
+  {
+    "event": "PAKISTAN-FLOODING",
+    "pair_pixel_sha256": "323eb433888a692006f5bde6881adfdbd65adfb7aba815976d25f76b33b480b9",
+    "sample_id": "PAKISTAN-FLOODING_017962",
+    "zero_rgb_fraction": {
+      "post": 0.0,
+      "pre": 0.0
+    }
+  },
+  {
+    "event": "TEXAS-TORNADOES",
+    "pair_pixel_sha256": "0239f3eed01bd07c15ec90aea54bcb1d1158ec5bf1b31ca37806f79650adcb1b",
+    "sample_id": "TEXAS-TORNADOES_000403",
+    "zero_rgb_fraction": {
+      "post": 0.0,
+      "pre": 0.0
+    }
+  },
+  {
+    "event": "TEXAS-TORNADOES",
+    "pair_pixel_sha256": "80b0bbcb9ec2808c316e0c885836b13c0ee3322bc70c5a8d12881bc3ffc43904",
+    "sample_id": "TEXAS-TORNADOES_001665",
+    "zero_rgb_fraction": {
+      "post": 0.0,
+      "pre": 0.0
+    }
+  },
+  {
+    "event": "TEXAS-TORNADOES",
+    "pair_pixel_sha256": "c1552c9d67955eaa456922463e89af08bf9caad07ab0406f2309f667f10f56f0",
+    "sample_id": "TEXAS-TORNADOES_002028",
+    "zero_rgb_fraction": {
+      "post": 0.0,
+      "pre": 0.0
+    }
+  },
+  {
+    "event": "TEXAS-TORNADOES",
+    "pair_pixel_sha256": "5bdf6f9a5e8dff50c0b4d634d035636b9bebf46382e6c05dae8a6229ab23dc5a",
+    "sample_id": "TEXAS-TORNADOES_004617",
+    "zero_rgb_fraction": {
+      "post": 0.0,
+      "pre": 0.000232696533203125
+    }
+  },
+  {
+    "event": "TEXAS-TORNADOES",
+    "pair_pixel_sha256": "0ce097f100097a7f4a2d853fcae72ba262319e73b93ddcaf0a281681c3d0ecf4",
+    "sample_id": "TEXAS-TORNADOES_005210",
+    "zero_rgb_fraction": {
+      "post": 0.0,
+      "pre": 0.0
+    }
+  },
+  {
+    "event": "TEXAS-TORNADOES",
+    "pair_pixel_sha256": "d550d3e49425bf28862e11b8e655137530770806b2fa78f7a9750aa5e43a20fa",
+    "sample_id": "TEXAS-TORNADOES_005722",
+    "zero_rgb_fraction": {
+      "post": 0.0,
+      "pre": 0.0
+    }
+  },
+  {
+    "event": "TEXAS-TORNADOES",
+    "pair_pixel_sha256": "ff0b5e88f9021ce633198d01eea078704decfa166a6538430ef672e95fb00267",
+    "sample_id": "TEXAS-TORNADOES_007034",
+    "zero_rgb_fraction": {
+      "post": 0.65625,
+      "pre": 0.6562995910644531
+    }
+  },
+  {
+    "event": "TEXAS-TORNADOES",
+    "pair_pixel_sha256": "fc037820d946313e8c1ddb644d8d22053889bfaecc40a4a952b7b1101d25a042",
+    "sample_id": "TEXAS-TORNADOES_009474",
+    "zero_rgb_fraction": {
+      "post": 1.1444091796875e-05,
+      "pre": 0.0
+    }
+  },
+  {
+    "event": "TEXAS-TORNADOES",
+    "pair_pixel_sha256": "10ef6343b45a002c479f9d17afd7ade7ee6ceeb4322c677f5c83d7d3ef16c9b8",
+    "sample_id": "TEXAS-TORNADOES_009557",
+    "zero_rgb_fraction": {
+      "post": 0.0,
+      "pre": 0.000331878662109375
+    }
+  },
+  {
+    "event": "TEXAS-TORNADOES",
+    "pair_pixel_sha256": "b7347945cdf80248af2bc6943aa773e6ac1b6b5122c3296afb365336ab74d31f",
+    "sample_id": "TEXAS-TORNADOES_012106",
+    "zero_rgb_fraction": {
+      "post": 0.0,
+      "pre": 0.0
+    }
+  },
+  {
+    "event": "TEXAS-TORNADOES",
+    "pair_pixel_sha256": "1df115c55024bc9513e0658c103c1e8c95773c3e828dc976f4490122090a0fae",
+    "sample_id": "TEXAS-TORNADOES_012926",
+    "zero_rgb_fraction": {
+      "post": 0.0,
+      "pre": 0.0
+    }
+  },
+  {
+    "event": "TEXAS-TORNADOES",
+    "pair_pixel_sha256": "5c2ac8531a659c935c7d69463f0ad1c6e87b8c07821d74252bdd747402dc3eeb",
+    "sample_id": "TEXAS-TORNADOES_014048",
+    "zero_rgb_fraction": {
+      "post": 0.0,
+      "pre": 3.814697265625e-06
+    }
+  }
+]

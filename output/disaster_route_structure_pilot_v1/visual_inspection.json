@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "viewed_files_sha256": {
+    "figures/structure_pilot.png": "5c60bca90d72f736e5e5b67d575c5e78884c752c8825e74a3c1b1693a70bcb80",
+    "browser_desktop.png": "6fbfb946d274457cd2268dbc83420ceaaeb2ec838edbbf364988a0c4b0f0233f",
+    "browser_mobile.png": "0c177491e26095f0458619bc6f06ba73c5d18e0880369abc0e1fd89d6b14e1fe"
+  },
+  "checks": [
+    "Plot labels legible; Mexico null recall explicitly annotated, not zero.",
+    "Desktop real pre-building outlines, route and paid evidence visible.",
+    "Mobile390px has no horizontal overflow; panels stack and labels remain readable."
+  ],
+  "field_validity_claim": false
+}

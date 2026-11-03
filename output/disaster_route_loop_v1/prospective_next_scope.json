@@ -1,0 +1,16 @@
+{
+  "client_date": "2026-11-01",
+  "gpu_rental": false,
+  "new_perception_calls_enabled": false,
+  "old_perception_archive_preserved": true,
+  "physical_flight_authorized": false,
+  "priority_order": [
+    "Strengthen the shared closed-route static/online solver, retaining the original greedy control.",
+    "Separately evaluate time-only stopping instead of the inherited 30-visit cap.",
+    "Integrate one verified traversal or observation constraint after vehicle and available geometry are specified.",
+    "Build a traceable pre-disaster exposure prior; keep geometry and synthetic efficacy separate."
+  ],
+  "real_targets_available": false,
+  "status": "NOT_EXECUTED",
+  "training_enabled": false
+}

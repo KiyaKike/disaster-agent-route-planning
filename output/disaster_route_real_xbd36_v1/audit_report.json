@@ -1,0 +1,14 @@
+{
+  "all_local_caches_checked": 576,
+  "budget_violations": 0,
+  "distance_scope": "Image-grid units,not verified ground meters",
+  "new_independent_validation": false,
+  "new_model_calls": 0,
+  "paid_observations_replayed": 2028,
+  "paid_plans_replayed": 1526,
+  "random_target_fields_used": false,
+  "real_pairs": 36,
+  "reference_labels_passed_to_planner": false,
+  "routes_replayed": 432,
+  "status": "PASS"
+}

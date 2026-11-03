@@ -1,0 +1,702 @@
+{
+  "alternate_metadata_only": {
+    "created_time": "2025-05-13T09:30:26.367Z",
+    "current_user_can_share": null,
+    "display_url": "https://drive.google.com/file/d/1B8ZGcpZQG2QsIdWivxovnH1XNUDOybxN/view?usp=drivesdk",
+    "drive_id": null,
+    "file_or_folder": "file",
+    "has_augmented_permissions": null,
+    "id": "1B8ZGcpZQG2QsIdWivxovnH1XNUDOybxN",
+    "mime_type": "application/x-zip",
+    "modified_time": "2024-07-17T11:43:03.000Z",
+    "parent_ids": null,
+    "permissions": null,
+    "shared": true,
+    "size": "309120449",
+    "source_visibility_status": "access_not_verified",
+    "title": "disasteradaptivenet_event.pt",
+    "url": "https://drive.google.com/file/d/1B8ZGcpZQG2QsIdWivxovnH1XNUDOybxN/view?usp=drivesdk"
+  },
+  "author_checkpoint_selection": "README says median run used for qualitative results; no independent reruns.",
+  "candidate": {
+    "created_time": "2025-05-13T09:30:35.206Z",
+    "current_user_can_share": null,
+    "display_url": "https://drive.google.com/file/d/1gd3u7daWA_83EwrAl7O39M3Wbid17jzb/view?usp=drivesdk",
+    "drive_id": null,
+    "file_or_folder": "file",
+    "has_augmented_permissions": null,
+    "id": "1gd3u7daWA_83EwrAl7O39M3Wbid17jzb",
+    "mime_type": "application/x-zip",
+    "modified_time": "2025-04-21T13:40:02.000Z",
+    "parent_ids": null,
+    "permissions": null,
+    "shared": true,
+    "size": "309003425",
+    "source_visibility_status": "access_not_verified",
+    "title": "strong_baseline_event.pt",
+    "url": "https://drive.google.com/file/d/1gd3u7daWA_83EwrAl7O39M3Wbid17jzb/view?usp=drivesdk"
+  },
+  "checkpoint_binary_downloaded": false,
+  "checkpoint_sha256": null,
+  "current72_membership": [
+    {
+      "already_open_project_development": true,
+      "author_split": "val",
+      "event": "hurricane-harvey",
+      "sample_id": "hurricane-harvey_00000363",
+      "source_path": "hold/images/hurricane-harvey_00000363"
+    },
+    {
+      "already_open_project_development": true,
+      "author_split": "train",
+      "event": "hurricane-harvey",
+      "sample_id": "hurricane-harvey_00000074",
+      "source_path": "hold/images/hurricane-harvey_00000074"
+    },
+    {
+      "already_open_project_development": true,
+      "author_split": "train",
+      "event": "hurricane-harvey",
+      "sample_id": "hurricane-harvey_00000403",
+      "source_path": "hold/images/hurricane-harvey_00000403"
+    },
+    {
+      "already_open_project_development": true,
+      "author_split": "train",
+      "event": "hurricane-harvey",
+      "sample_id": "hurricane-harvey_00000121",
+      "source_path": "hold/images/hurricane-harvey_00000121"
+    },
+    {
+      "already_open_project_development": true,
+      "author_split": "train",
+      "event": "hurricane-harvey",
+      "sample_id": "hurricane-harvey_00000293",
+      "source_path": "hold/images/hurricane-harvey_00000293"
+    },
+    {
+      "already_open_project_development": true,
+      "author_split": "train",
+      "event": "hurricane-harvey",
+      "sample_id": "hurricane-harvey_00000065",
+      "source_path": "hold/images/hurricane-harvey_00000065"
+    },
+    {
+      "already_open_project_development": true,
+      "author_split": "val",
+      "event": "hurricane-harvey",
+      "sample_id": "hurricane-harvey_00000343",
+      "source_path": "hold/images/hurricane-harvey_00000343"
+    },
+    {
+      "already_open_project_development": true,
+      "author_split": "train",
+      "event": "hurricane-harvey",
+      "sample_id": "hurricane-harvey_00000386",
+      "source_path": "hold/images/hurricane-harvey_00000386"
+    },
+    {
+      "already_open_project_development": true,
+      "author_split": "train",
+      "event": "hurricane-harvey",
+      "sample_id": "hurricane-harvey_00000421",
+      "source_path": "hold/images/hurricane-harvey_00000421"
+    },
+    {
+      "already_open_project_development": true,
+      "author_split": "train",
+      "event": "hurricane-harvey",
+      "sample_id": "hurricane-harvey_00000219",
+      "source_path": "hold/images/hurricane-harvey_00000219"
+    },
+    {
+      "already_open_project_development": true,
+      "author_split": "train",
+      "event": "hurricane-harvey",
+      "sample_id": "hurricane-harvey_00000372",
+      "source_path": "hold/images/hurricane-harvey_00000372"
+    },
+    {
+      "already_open_project_development": true,
+      "author_split": "train",
+      "event": "hurricane-harvey",
+      "sample_id": "hurricane-harvey_00000459",
+      "source_path": "hold/images/hurricane-harvey_00000459"
+    },
+    {
+      "already_open_project_development": true,
+      "author_split": "train",
+      "event": "hurricane-harvey",
+      "sample_id": "hurricane-harvey_00000193",
+      "source_path": "hold/images/hurricane-harvey_00000193"
+    },
+    {
+      "already_open_project_development": true,
+      "author_split": "train",
+      "event": "hurricane-harvey",
+      "sample_id": "hurricane-harvey_00000311",
+      "source_path": "hold/images/hurricane-harvey_00000311"
+    },
+    {
+      "already_open_project_development": true,
+      "author_split": "val",
+      "event": "hurricane-harvey",
+      "sample_id": "hurricane-harvey_00000404",
+      "source_path": "hold/images/hurricane-harvey_00000404"
+    },
+    {
+      "already_open_project_development": true,
+      "author_split": "train",
+      "event": "hurricane-harvey",
+      "sample_id": "hurricane-harvey_00000013",
+      "source_path": "hold/images/hurricane-harvey_00000013"
+    },
+    {
+      "already_open_project_development": true,
+      "author_split": "train",
+      "event": "hurricane-harvey",
+      "sample_id": "hurricane-harvey_00000279",
+      "source_path": "hold/images/hurricane-harvey_00000279"
+    },
+    {
+      "already_open_project_development": true,
+      "author_split": "train",
+      "event": "hurricane-harvey",
+      "sample_id": "hurricane-harvey_00000487",
+      "source_path": "hold/images/hurricane-harvey_00000487"
+    },
+    {
+      "already_open_project_development": true,
+      "author_split": "train",
+      "event": "hurricane-harvey",
+      "sample_id": "hurricane-harvey_00000201",
+      "source_path": "hold/images/hurricane-harvey_00000201"
+    },
+    {
+      "already_open_project_development": true,
+      "author_split": "val",
+      "event": "hurricane-harvey",
+      "sample_id": "hurricane-harvey_00000014",
+      "source_path": "hold/images/hurricane-harvey_00000014"
+    },
+    {
+      "already_open_project_development": true,
+      "author_split": "train",
+      "event": "hurricane-harvey",
+      "sample_id": "hurricane-harvey_00000125",
+      "source_path": "hold/images/hurricane-harvey_00000125"
+    },
+    {
+      "already_open_project_development": true,
+      "author_split": "train",
+      "event": "hurricane-harvey",
+      "sample_id": "hurricane-harvey_00000334",
+      "source_path": "hold/images/hurricane-harvey_00000334"
+    },
+    {
+      "already_open_project_development": true,
+      "author_split": "train",
+      "event": "hurricane-harvey",
+      "sample_id": "hurricane-harvey_00000447",
+      "source_path": "hold/images/hurricane-harvey_00000447"
+    },
+    {
+      "already_open_project_development": true,
+      "author_split": "train",
+      "event": "hurricane-harvey",
+      "sample_id": "hurricane-harvey_00000236",
+      "source_path": "hold/images/hurricane-harvey_00000236"
+    },
+    {
+      "already_open_project_development": true,
+      "author_split": "test",
+      "event": "santa-rosa-wildfire",
+      "sample_id": "santa-rosa-wildfire_00000013",
+      "source_path": "hold/images/santa-rosa-wildfire_00000013"
+    },
+    {
+      "already_open_project_development": true,
+      "author_split": "test",
+      "event": "santa-rosa-wildfire",
+      "sample_id": "santa-rosa-wildfire_00000266",
+      "source_path": "hold/images/santa-rosa-wildfire_00000266"
+    },
+    {
+      "already_open_project_development": true,
+      "author_split": "test",
+      "event": "santa-rosa-wildfire",
+      "sample_id": "santa-rosa-wildfire_00000278",
+      "source_path": "hold/images/santa-rosa-wildfire_00000278"
+    },
+    {
+      "already_open_project_development": true,
+      "author_split": "test",
+      "event": "santa-rosa-wildfire",
+      "sample_id": "santa-rosa-wildfire_00000010",
+      "source_path": "hold/images/santa-rosa-wildfire_00000010"
+    },
+    {
+      "already_open_project_development": true,
+      "author_split": "test",
+      "event": "santa-rosa-wildfire",
+      "sample_id": "santa-rosa-wildfire_00000029",
+      "source_path": "hold/images/santa-rosa-wildfire_00000029"
+    },
+    {
+      "already_open_project_development": true,
+      "author_split": "test",
+      "event": "santa-rosa-wildfire",
+      "sample_id": "santa-rosa-wildfire_00000112",
+      "source_path": "hold/images/santa-rosa-wildfire_00000112"
+    },
+    {
+      "already_open_project_development": true,
+      "author_split": "test",
+      "event": "santa-rosa-wildfire",
+      "sample_id": "santa-rosa-wildfire_00000255",
+      "source_path": "hold/images/santa-rosa-wildfire_00000255"
+    },
+    {
+      "already_open_project_development": true,
+      "author_split": "test",
+      "event": "santa-rosa-wildfire",
+      "sample_id": "santa-rosa-wildfire_00000342",
+      "source_path": "hold/images/santa-rosa-wildfire_00000342"
+    },
+    {
+      "already_open_project_development": true,
+      "author_split": "test",
+      "event": "santa-rosa-wildfire",
+      "sample_id": "santa-rosa-wildfire_00000263",
+      "source_path": "hold/images/santa-rosa-wildfire_00000263"
+    },
+    {
+      "already_open_project_development": true,
+      "author_split": "test",
+      "event": "santa-rosa-wildfire",
+      "sample_id": "santa-rosa-wildfire_00000054",
+      "source_path": "hold/images/santa-rosa-wildfire_00000054"
+    },
+    {
+      "already_open_project_development": true,
+      "author_split": "test",
+      "event": "santa-rosa-wildfire",
+      "sample_id": "santa-rosa-wildfire_00000122",
+      "source_path": "hold/images/santa-rosa-wildfire_00000122"
+    },
+    {
+      "already_open_project_development": true,
+      "author_split": "test",
+      "event": "santa-rosa-wildfire",
+      "sample_id": "santa-rosa-wildfire_00000232",
+      "source_path": "hold/images/santa-rosa-wildfire_00000232"
+    },
+    {
+      "already_open_project_development": true,
+      "author_split": "test",
+      "event": "santa-rosa-wildfire",
+      "sample_id": "santa-rosa-wildfire_00000160",
+      "source_path": "hold/images/santa-rosa-wildfire_00000160"
+    },
+    {
+      "already_open_project_development": true,
+      "author_split": "test",
+      "event": "santa-rosa-wildfire",
+      "sample_id": "santa-rosa-wildfire_00000194",
+      "source_path": "hold/images/santa-rosa-wildfire_00000194"
+    },
+    {
+      "already_open_project_development": true,
+      "author_split": "test",
+      "event": "santa-rosa-wildfire",
+      "sample_id": "santa-rosa-wildfire_00000108",
+      "source_path": "hold/images/santa-rosa-wildfire_00000108"
+    },
+    {
+      "already_open_project_development": true,
+      "author_split": "test",
+      "event": "santa-rosa-wildfire",
+      "sample_id": "santa-rosa-wildfire_00000227",
+      "source_path": "hold/images/santa-rosa-wildfire_00000227"
+    },
+    {
+      "already_open_project_development": true,
+      "author_split": "test",
+      "event": "santa-rosa-wildfire",
+      "sample_id": "santa-rosa-wildfire_00000062",
+      "source_path": "hold/images/santa-rosa-wildfire_00000062"
+    },
+    {
+      "already_open_project_development": true,
+      "author_split": "test",
+      "event": "santa-rosa-wildfire",
+      "sample_id": "santa-rosa-wildfire_00000126",
+      "source_path": "hold/images/santa-rosa-wildfire_00000126"
+    },
+    {
+      "already_open_project_development": true,
+      "author_split": "test",
+      "event": "santa-rosa-wildfire",
+      "sample_id": "santa-rosa-wildfire_00000115",
+      "source_path": "hold/images/santa-rosa-wildfire_00000115"
+    },
+    {
+      "already_open_project_development": true,
+      "author_split": "test",
+      "event": "santa-rosa-wildfire",
+      "sample_id": "santa-rosa-wildfire_00000193",
+      "source_path": "hold/images/santa-rosa-wildfire_00000193"
+    },
+    {
+      "already_open_project_development": true,
+      "author_split": "test",
+      "event": "santa-rosa-wildfire",
+      "sample_id": "santa-rosa-wildfire_00000352",
+      "source_path": "hold/images/santa-rosa-wildfire_00000352"
+    },
+    {
+      "already_open_project_development": true,
+      "author_split": "test",
+      "event": "santa-rosa-wildfire",
+      "sample_id": "santa-rosa-wildfire_00000008",
+      "source_path": "hold/images/santa-rosa-wildfire_00000008"
+    },
+    {
+      "already_open_project_development": true,
+      "author_split": "test",
+      "event": "santa-rosa-wildfire",
+      "sample_id": "santa-rosa-wildfire_00000188",
+      "source_path": "hold/images/santa-rosa-wildfire_00000188"
+    },
+    {
+      "already_open_project_development": true,
+      "author_split": "test",
+      "event": "santa-rosa-wildfire",
+      "sample_id": "santa-rosa-wildfire_00000025",
+      "source_path": "hold/images/santa-rosa-wildfire_00000025"
+    },
+    {
+      "already_open_project_development": true,
+      "author_split": "train",
+      "event": "mexico-earthquake",
+      "sample_id": "mexico-earthquake_00000145",
+      "source_path": "hold/images/mexico-earthquake_00000145"
+    },
+    {
+      "already_open_project_development": true,
+      "author_split": "train",
+      "event": "mexico-earthquake",
+      "sample_id": "mexico-earthquake_00000054",
+      "source_path": "hold/images/mexico-earthquake_00000054"
+    },
+    {
+      "already_open_project_development": true,
+      "author_split": "train",
+      "event": "mexico-earthquake",
+      "sample_id": "mexico-earthquake_00000036",
+      "source_path": "hold/images/mexico-earthquake_00000036"
+    },
+    {
+      "already_open_project_development": true,
+      "author_split": "train",
+      "event": "mexico-earthquake",
+      "sample_id": "mexico-earthquake_00000116",
+      "source_path": "hold/images/mexico-earthquake_00000116"
+    },
+    {
+      "already_open_project_development": true,
+      "author_split": "train",
+      "event": "mexico-earthquake",
+      "sample_id": "mexico-earthquake_00000130",
+      "source_path": "hold/images/mexico-earthquake_00000130"
+    },
+    {
+      "already_open_project_development": true,
+      "author_split": "train",
+      "event": "mexico-earthquake",
+      "sample_id": "mexico-earthquake_00000175",
+      "source_path": "hold/images/mexico-earthquake_00000175"
+    },
+    {
+      "already_open_project_development": true,
+      "author_split": "train",
+      "event": "mexico-earthquake",
+      "sample_id": "mexico-earthquake_00000134",
+      "source_path": "hold/images/mexico-earthquake_00000134"
+    },
+    {
+      "already_open_project_development": true,
+      "author_split": "train",
+      "event": "mexico-earthquake",
+      "sample_id": "mexico-earthquake_00000077",
+      "source_path": "hold/images/mexico-earthquake_00000077"
+    },
+    {
+      "already_open_project_development": true,
+      "author_split": "train",
+      "event": "mexico-earthquake",
+      "sample_id": "mexico-earthquake_00000056",
+      "source_path": "hold/images/mexico-earthquake_00000056"
+    },
+    {
+      "already_open_project_development": true,
+      "author_split": "train",
+      "event": "mexico-earthquake",
+      "sample_id": "mexico-earthquake_00000071",
+      "source_path": "hold/images/mexico-earthquake_00000071"
+    },
+    {
+      "already_open_project_development": true,
+      "author_split": "train",
+      "event": "mexico-earthquake",
+      "sample_id": "mexico-earthquake_00000162",
+      "source_path": "hold/images/mexico-earthquake_00000162"
+    },
+    {
+      "already_open_project_development": true,
+      "author_split": "train",
+      "event": "mexico-earthquake",
+      "sample_id": "mexico-earthquake_00000170",
+      "source_path": "hold/images/mexico-earthquake_00000170"
+    },
+    {
+      "already_open_project_development": true,
+      "author_split": "train",
+      "event": "mexico-earthquake",
+      "sample_id": "mexico-earthquake_00000123",
+      "source_path": "hold/images/mexico-earthquake_00000123"
+    },
+    {
+      "already_open_project_development": true,
+      "author_split": "val",
+      "event": "mexico-earthquake",
+      "sample_id": "mexico-earthquake_00000060",
+      "source_path": "hold/images/mexico-earthquake_00000060"
+    },
+    {
+      "already_open_project_development": true,
+      "author_split": "train",
+      "event": "mexico-earthquake",
+      "sample_id": "mexico-earthquake_00000014",
+      "source_path": "hold/images/mexico-earthquake_00000014"
+    },
+    {
+      "already_open_project_development": true,
+      "author_split": "train",
+      "event": "mexico-earthquake",
+      "sample_id": "mexico-earthquake_00000099",
+      "source_path": "hold/images/mexico-earthquake_00000099"
+    },
+    {
+      "already_open_project_development": true,
+      "author_split": "train",
+      "event": "mexico-earthquake",
+      "sample_id": "mexico-earthquake_00000137",
+      "source_path": "hold/images/mexico-earthquake_00000137"
+    },
+    {
+      "already_open_project_development": true,
+      "author_split": "train",
+      "event": "mexico-earthquake",
+      "sample_id": "mexico-earthquake_00000149",
+      "source_path": "hold/images/mexico-earthquake_00000149"
+    },
+    {
+      "already_open_project_development": true,
+      "author_split": "train",
+      "event": "mexico-earthquake",
+      "sample_id": "mexico-earthquake_00000081",
+      "source_path": "hold/images/mexico-earthquake_00000081"
+    },
+    {
+      "already_open_project_development": true,
+      "author_split": "train",
+      "event": "mexico-earthquake",
+      "sample_id": "mexico-earthquake_00000038",
+      "source_path": "hold/images/mexico-earthquake_00000038"
+    },
+    {
+      "already_open_project_development": true,
+      "author_split": "train",
+      "event": "mexico-earthquake",
+      "sample_id": "mexico-earthquake_00000045",
+      "source_path": "hold/images/mexico-earthquake_00000045"
+    },
+    {
+      "already_open_project_development": true,
+      "author_split": "train",
+      "event": "mexico-earthquake",
+      "sample_id": "mexico-earthquake_00000133",
+      "source_path": "hold/images/mexico-earthquake_00000133"
+    },
+    {
+      "already_open_project_development": true,
+      "author_split": "train",
+      "event": "mexico-earthquake",
+      "sample_id": "mexico-earthquake_00000147",
+      "source_path": "hold/images/mexico-earthquake_00000147"
+    },
+    {
+      "already_open_project_development": true,
+      "author_split": "train",
+      "event": "mexico-earthquake",
+      "sample_id": "mexico-earthquake_00000156",
+      "source_path": "hold/images/mexico-earthquake_00000156"
+    }
+  ],
+  "current72_summary": {
+    "hurricane-harvey": {
+      "train": 20,
+      "val": 4
+    },
+    "mexico-earthquake": {
+      "train": 23,
+      "val": 1
+    },
+    "santa-rosa-wildfire": {
+      "test": 24
+    }
+  },
+  "future_success_condition": "No threshold/decoder/tiling sweep; report all24 cases plus event failure counts. First establish fixed detector measurement validity, then define a fresh multi-event cohort before policy comparisons.",
+  "gpu_rental": false,
+  "interpretation": "SantaRosa24 is author-training-unseen according to published lists, but already-used project development. Only one unseen event; not fresh independent or geographic validation. Lists do not independently prove checkpoint training provenance.",
+  "new_model_calls": 0,
+  "protocol_not_yet_frozen": "Exact preprocessing, allowed forwards, input tiling and metric gate require architecture review before any new predictions.",
+  "rationale": "First independent model-family candidate with author-published event split, without conditioning metadata or training. Architecture and preprocessing still require adapter review.",
+  "repository": "https://github.com/SebastianHafner/DisasterAdaptiveNet",
+  "reserved_sets_enabled": false,
+  "scope_next": "Review architecture/normalization/output decoder at pinned commit; download only strong_baseline_event.pt; inspect format/hash and load on CPU/MPS; freeze an inference protocol before scoring existing24SantaRosa. Training/validation overlap rows remain separate descriptive controls, not unseen events.",
+  "source_commit": "fada4e791766f810dc815a4e82d52f2bb27116c6",
+  "source_files_sha256": {
+    "README.md": "965396706f6c9643314fe0408e34e5e3650233e09a6d8e207042fd83d9b2981a",
+    "configs_base.yaml": "33fea45860bd83d04eb784048f72744272f4523007e33bd4e9978804f757c451",
+    "configs_disasteradaptivenet_event.yaml": "d22abfc3fd415f7e6d4f229fb37f75575d0fa080b724e95292ea08f43cd472fd",
+    "configs_strong_baseline_event.yaml": "83b3e40ca64b12248786a4fcf5fd8d8c34f19da9e2029b4e228767baf8e528ec",
+    "drive_folder_0.json": "9f5881d0862beff6c3709e4a395ca5773856454d50364ead86d39020cfa392cf",
+    "drive_folder_1.json": "8344cef8ae7bcc513ef6d447eb28d32a763b61d2d5d2a1d7d6970ad3116895b6",
+    "source_manifest.json": "b82d3efcdad8826dd154f37160432c0dc3b139604a023fa9a35f733b13cd503f",
+    "test_samples_event_split.txt": "40dd9dee75da2da0d2494bd6793a46586bff43800efcc9f620b81e8d60321cc3",
+    "train_samples_event_split.txt": "b7772fa5f9937ac176445d583c230f165110242fa1cb0b2fb0515aab4de691fa",
+    "utils_datasets.py": "e1b6e62ec2347bc32b5632148d2dda0e35500aec30d20c000eb545e2dc12c649",
+    "val_samples_event_split.txt": "51e1c105d177f45ecd3f2aff4bb37ae9233cb67f33df611e2ee6475c3071a945"
+  },
+  "split_files": [
+    {
+      "bytes": 316572,
+      "event_counts": {
+        "hurricane-florence": 491,
+        "hurricane-harvey": 470,
+        "hurricane-michael": 495,
+        "joplin-tornado": 134,
+        "lower-puna-volcano": 262,
+        "mexico-earthquake": 174,
+        "midwest-flooding": 401,
+        "moore-tornado": 204,
+        "palu-tsunami": 176,
+        "pinery-bushfire": 1660,
+        "portugal-wildfire": 1682,
+        "socal-fire": 1263,
+        "woolsey-fire": 790
+      },
+      "file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_mexico_trace3_v1/prospective_sources/train_samples_event_split.txt",
+      "sha256": "b7772fa5f9937ac176445d583c230f165110242fa1cb0b2fb0515aab4de691fa",
+      "source_metadata": {
+        "created_time": "2025-05-13T10:51:59.335Z",
+        "current_user_can_share": null,
+        "display_url": "https://drive.google.com/file/d/1WBc3my_bVk0kMxYIbNfo8PxrtVD_m5Xj/view?usp=drivesdk",
+        "drive_id": null,
+        "file_or_folder": "file",
+        "has_augmented_permissions": null,
+        "id": "1WBc3my_bVk0kMxYIbNfo8PxrtVD_m5Xj",
+        "mime_type": "text/plain",
+        "modified_time": "2025-05-13T10:00:10.000Z",
+        "parent_ids": null,
+        "permissions": null,
+        "shared": true,
+        "size": "316572",
+        "source_visibility_status": "access_not_verified",
+        "title": "train_samples_event_split.txt",
+        "url": "https://drive.google.com/file/d/1WBc3my_bVk0kMxYIbNfo8PxrtVD_m5Xj/view?usp=drivesdk"
+      },
+      "split": "train",
+      "unique_samples": 8202
+    },
+    {
+      "bytes": 35198,
+      "event_counts": {
+        "hurricane-florence": 55,
+        "hurricane-harvey": 52,
+        "hurricane-michael": 55,
+        "joplin-tornado": 15,
+        "lower-puna-volcano": 29,
+        "mexico-earthquake": 19,
+        "midwest-flooding": 44,
+        "moore-tornado": 23,
+        "palu-tsunami": 20,
+        "pinery-bushfire": 185,
+        "portugal-wildfire": 187,
+        "socal-fire": 140,
+        "woolsey-fire": 88
+      },
+      "file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_mexico_trace3_v1/prospective_sources/val_samples_event_split.txt",
+      "sha256": "51e1c105d177f45ecd3f2aff4bb37ae9233cb67f33df611e2ee6475c3071a945",
+      "source_metadata": {
+        "created_time": "2025-05-13T10:51:59.335Z",
+        "current_user_can_share": null,
+        "display_url": "https://drive.google.com/file/d/1ESFotz5pNstT9gBye-DXnhHAGNQK2O8I/view?usp=drivesdk",
+        "drive_id": null,
+        "file_or_folder": "file",
+        "has_augmented_permissions": null,
+        "id": "1ESFotz5pNstT9gBye-DXnhHAGNQK2O8I",
+        "mime_type": "text/plain",
+        "modified_time": "2025-05-13T10:00:11.000Z",
+        "parent_ids": null,
+        "permissions": null,
+        "shared": true,
+        "size": "35198",
+        "source_visibility_status": "access_not_verified",
+        "title": "val_samples_event_split.txt",
+        "url": "https://drive.google.com/file/d/1ESFotz5pNstT9gBye-DXnhHAGNQK2O8I/view?usp=drivesdk"
+      },
+      "split": "val",
+      "unique_samples": 912
+    },
+    {
+      "bytes": 77040,
+      "event_counts": {
+        "guatemala-volcano": 28,
+        "hurricane-matthew": 405,
+        "nepal-flooding": 619,
+        "santa-rosa-wildfire": 377,
+        "sunda-tsunami": 148,
+        "tuscaloosa-tornado": 343
+      },
+      "file": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_mexico_trace3_v1/prospective_sources/test_samples_event_split.txt",
+      "sha256": "40dd9dee75da2da0d2494bd6793a46586bff43800efcc9f620b81e8d60321cc3",
+      "source_metadata": {
+        "created_time": "2025-05-13T10:51:58.291Z",
+        "current_user_can_share": null,
+        "display_url": "https://drive.google.com/file/d/1MMBZ0lQXi7MzenCxbuI43bkzM0hLxNQI/view?usp=drivesdk",
+        "drive_id": null,
+        "file_or_folder": "file",
+        "has_augmented_permissions": null,
+        "id": "1MMBZ0lQXi7MzenCxbuI43bkzM0hLxNQI",
+        "mime_type": "text/plain",
+        "modified_time": "2025-05-13T10:00:13.000Z",
+        "parent_ids": null,
+        "permissions": null,
+        "shared": true,
+        "size": "77040",
+        "source_visibility_status": "access_not_verified",
+        "title": "test_samples_event_split.txt",
+        "url": "https://drive.google.com/file/d/1MMBZ0lQXi7MzenCxbuI43bkzM0hLxNQI/view?usp=drivesdk"
+      },
+      "split": "test",
+      "unique_samples": 1920
+    }
+  ],
+  "split_overlap_by_path_and_id": 0,
+  "status": "SOURCE_SPLITS_VERIFIED_WEIGHTS_NOT_ADMITTED",
+  "training": false,
+  "weights_readable_verified": false
+}

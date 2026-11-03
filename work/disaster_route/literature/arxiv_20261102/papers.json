@@ -1,0 +1,311 @@
+{
+  "date": "2026-11-02",
+  "scope": "Targeted arXiv search for this disaster pre/post inspection-route project,not an exhaustive systematic review.",
+  "papers": [
+    {
+      "id": "2505.11350",
+      "version": "v5",
+      "title": "Search-TTA: A Multimodal Test-Time Adaptation Framework for Visual Search in the Wild",
+      "first_submitted": "2025-05-16",
+      "version_date": "2025-11-07",
+      "first_author": "Derek Ming Siang Tan",
+      "venue_evidence": "CoRL2025 stated on arXiv",
+      "url": "https://arxiv.org/abs/2505.11350v5",
+      "code": "https://github.com/marmotlab/Search-TTA-RL-VLN",
+      "reviewed_sections": [
+        "5.3",
+        "6.5",
+        "8"
+      ],
+      "key_condition": "Main formulation assumes perfect binary sensor; false positive/negative handling left open. Ecological search, not disaster inspection.",
+      "use": "How observed feedback updates semantically related unvisited locations."
+    },
+    {
+      "id": "2003.09746",
+      "version": "v1",
+      "title": "Adaptive Informative Path Planning with Multimodal Sensing",
+      "first_submitted": "2020-03-21",
+      "first_author": "Shushman Choudhury",
+      "venue_evidence": "ICAPS2020",
+      "url": "https://arxiv.org/abs/2003.09746",
+      "code": "https://github.com/sisl/SBO_AIPPMS",
+      "code_note": "Successor authors' repository includes original implementation with permission; not run.",
+      "reviewed_sections": [
+        "3",
+        "4",
+        "5"
+      ],
+      "key_condition": "Known stochastic observation model; environment dependencies and sensor fidelity/range/cost assumptions.",
+      "use": "Joint movement,sensing,resource and goal feasibility."
+    },
+    {
+      "id": "2209.07660",
+      "version": "v1",
+      "title": "Sequential Bayesian Optimization for Adaptive Informative Path Planning with Multimodal Sensing",
+      "first_submitted": "2022-09-16",
+      "first_author": "Joshua Ott",
+      "venue_evidence": "ICRA2023 according to author repository",
+      "url": "https://arxiv.org/abs/2209.07660",
+      "code": "https://github.com/sisl/SBO_AIPPMS",
+      "reviewed_sections": [
+        "IV-A",
+        "IV-B"
+      ],
+      "key_condition": "GP correlated environmental belief; RockSample and Rover tasks, not damage-ground-truth evaluation.",
+      "use": "Separate task reward,information reward and cost; reference implementation."
+    },
+    {
+      "id": "2502.15961",
+      "version": "v3",
+      "title": "IA-TIGRIS: An Incremental and Adaptive Sampling-Based Planner for Online Informative Path Planning",
+      "first_submitted": "2025-02-21",
+      "version_date": "2026-04-01",
+      "first_author": "Brady Moon",
+      "url": "https://arxiv.org/abs/2502.15961v3",
+      "project": "https://ia-tigris.github.io/",
+      "reviewed_sections": [
+        "Abstract",
+        "Introduction",
+        "III",
+        "IV overview"
+      ],
+      "key_condition": "Planner improvement requires appropriate belief/reward model; platform experiments do not establish disaster task effectiveness.",
+      "use": "Incremental tree reuse and strong online-planner comparison."
+    },
+    {
+      "id": "2609.08164",
+      "version": "v1",
+      "title": "Dual-Layer Semantic-Spatial Belief Mapping for Aerial Object Goal Navigation",
+      "first_submitted": "2026-09-08",
+      "first_author": "Jianqiang Xiao",
+      "url": "https://arxiv.org/abs/2609.08164",
+      "reviewed_sections": [
+        "III-C",
+        "III-D",
+        "III-E"
+      ],
+      "key_condition": "Aerial ObjectNav with target approach/confirmation differs from cumulative inspection with return budget.",
+      "use": "Separate contextual support and qualified evidence; coverage guidance."
+    },
+    {
+      "id": "2606.11708",
+      "version": "v1",
+      "title": "Explore From Sketch: Accelerating UAV Exploration in Large-scale Environments with Prior Maps",
+      "first_submitted": "2026-06-10",
+      "first_author": "Tiancheng Lai",
+      "url": "https://arxiv.org/abs/2606.11708",
+      "reviewed_sections": [
+        "Abstract",
+        "Introduction",
+        "method outline"
+      ],
+      "key_condition": "Prior-to-LiDAR registration and exploration; needs3D localization/sensors not present in current project.",
+      "use": "Unaligned/incomplete/deformed structural priors and risk-aware hierarchical planning."
+    },
+    {
+      "id": "2411.12967",
+      "version": "v1",
+      "title": "Shrinking POMCP: A Framework for Real-Time UAV Search and Rescue",
+      "first_submitted": "2024-11-20",
+      "first_author": "Yunuo Zhang",
+      "url": "https://arxiv.org/abs/2411.12967",
+      "reviewed_sections": [
+        "III",
+        "IV"
+      ],
+      "key_condition": "2D andAirSim-ROS2 simulator evaluation; search times not cumulative damage coverage.",
+      "use": "Real-time planning latency and tree/action-sequence reuse."
+    },
+    {
+      "id": "2603.12696",
+      "version": "v2",
+      "title": "HaltNav: Reactive Visual Halting over Lightweight Topological Priors for Robust Vision-Language Navigation",
+      "first_submitted": "2026-03-13",
+      "version_date": "2026-03-19",
+      "first_author": "Zihui Yu",
+      "url": "https://arxiv.org/abs/2603.12696v2",
+      "reviewed_sections": [
+        "Abstract"
+      ],
+      "key_condition": "Indoor VLN topological obstructions; ground connectivity is not UAV airspace validity.",
+      "use": "Observation invalidates a prior route edge and triggers replanning."
+    },
+    {
+      "id": "2606.16780",
+      "version": "v2",
+      "title": "DIFF-IPPO: Diffusion-Based Informative Path Planning with Open-Vocabulary Belief Maps",
+      "first_submitted": "2026-06-15",
+      "version_date": "2026-06-18",
+      "first_author": "Sausar Karaf",
+      "url": "https://arxiv.org/abs/2606.16780v2",
+      "reviewed_sections": [
+        "Abstract",
+        "Introduction",
+        "III-A",
+        "IV overview"
+      ],
+      "key_condition": "Synthetic belief-map and simulated burning-building search; diffusion training not the present priority.",
+      "use": "Supplemental recent belief-map-to-trajectory approach."
+    }
+  ],
+  "discovered_arxiv_ids": [
+    {
+      "arxiv_id": "2003.09746",
+      "discovery_batch": "lit_search1",
+      "selected": true
+    },
+    {
+      "arxiv_id": "2203.01652",
+      "discovery_batch": "lit_search1",
+      "selected": false
+    },
+    {
+      "arxiv_id": "2302.03347",
+      "discovery_batch": "lit_search1",
+      "selected": false
+    },
+    {
+      "arxiv_id": "2609.02916",
+      "discovery_batch": "lit_search1",
+      "selected": false
+    },
+    {
+      "arxiv_id": "2007.13065",
+      "discovery_batch": "lit_search1",
+      "selected": false
+    },
+    {
+      "arxiv_id": "2402.03271",
+      "discovery_batch": "lit_search1",
+      "selected": false
+    },
+    {
+      "arxiv_id": "2406.10060",
+      "discovery_batch": "lit_search1",
+      "selected": false
+    },
+    {
+      "arxiv_id": "1905.06113",
+      "discovery_batch": "lit_search1",
+      "selected": false
+    },
+    {
+      "arxiv_id": "2606.16780",
+      "discovery_batch": "lit_search2",
+      "selected": true
+    },
+    {
+      "arxiv_id": "2102.06069",
+      "discovery_batch": "lit_search2",
+      "selected": false
+    },
+    {
+      "arxiv_id": "2411.12967",
+      "discovery_batch": "lit_search2",
+      "selected": true
+    },
+    {
+      "arxiv_id": "2409.15174",
+      "discovery_batch": "lit_search2",
+      "selected": false
+    },
+    {
+      "arxiv_id": "2403.08152",
+      "discovery_batch": "lit_search3",
+      "selected": false
+    },
+    {
+      "arxiv_id": "1810.01035",
+      "discovery_batch": "lit_search3",
+      "selected": false
+    },
+    {
+      "arxiv_id": "2206.00726",
+      "discovery_batch": "lit_search3",
+      "selected": false
+    },
+    {
+      "arxiv_id": "2006.02513",
+      "discovery_batch": "lit_search3",
+      "selected": false
+    },
+    {
+      "arxiv_id": "2508.04537",
+      "discovery_batch": "lit_search4",
+      "selected": false
+    },
+    {
+      "arxiv_id": "2505.14443",
+      "discovery_batch": "lit_search5",
+      "selected": false
+    },
+    {
+      "arxiv_id": "1906.07770",
+      "discovery_batch": "lit_search5",
+      "selected": false
+    },
+    {
+      "arxiv_id": "2609.08164",
+      "discovery_batch": "lit_search6",
+      "selected": true
+    },
+    {
+      "arxiv_id": "2603.12696",
+      "discovery_batch": "lit_search6",
+      "selected": true
+    },
+    {
+      "arxiv_id": "2412.06713",
+      "discovery_batch": "lit_search6",
+      "selected": false
+    },
+    {
+      "arxiv_id": "2512.02535",
+      "discovery_batch": "lit_search8",
+      "selected": false
+    },
+    {
+      "arxiv_id": "2508.14636",
+      "discovery_batch": "lit_search8",
+      "selected": false
+    },
+    {
+      "arxiv_id": "2606.11708",
+      "discovery_batch": "lit_search9",
+      "selected": true
+    },
+    {
+      "arxiv_id": "2601.01155",
+      "discovery_batch": "lit_search9",
+      "selected": false
+    },
+    {
+      "arxiv_id": "2505.11350",
+      "discovery_batch": "lit_search9",
+      "selected": true
+    },
+    {
+      "arxiv_id": "2309.14150",
+      "discovery_batch": "lit_search9",
+      "selected": false
+    },
+    {
+      "arxiv_id": "2404.18374",
+      "discovery_batch": "lit_read8",
+      "selected": false
+    },
+    {
+      "arxiv_id": "2209.07660",
+      "discovery_batch": "lit_read8",
+      "selected": true
+    },
+    {
+      "arxiv_id": "2502.15961",
+      "discovery_batch": "lit_read9",
+      "selected": true
+    }
+  ],
+  "new_datasets_or_models_downloaded": false,
+  "implementations_run": false,
+  "novelty_established": false
+}

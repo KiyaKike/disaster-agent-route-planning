@@ -1,0 +1,1962 @@
+[
+  {
+    "at_utc": "2026-10-28T08:14:56.309224+00:00",
+    "device": "cpu",
+    "elapsed_seconds": 0.025218249997124076,
+    "flip_index": null,
+    "index": 1,
+    "input_sha256": "aa488885ae4a48d215b9e9b4f3a076450a6a77e46b346f3a3f48db589ab9b110",
+    "input_shape": [
+      1,
+      6,
+      64,
+      64
+    ],
+    "logit_sha256": "858ded64a292a987062abcf01e7eaa59fcc93f84702ad44bd4c7a8df9d7bb090",
+    "probability_sha256": "04b54ffba475993a0765b161471a16b271bef480a3d08f59ee624856e9e5b4b2",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "synthetic_control",
+    "sample_id": null,
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:14:56.421972+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.7092401669942774,
+    "flip_index": null,
+    "index": 2,
+    "input_sha256": "aa488885ae4a48d215b9e9b4f3a076450a6a77e46b346f3a3f48db589ab9b110",
+    "input_shape": [
+      1,
+      6,
+      64,
+      64
+    ],
+    "logit_sha256": "f14993375b30bd09d9bf82f124e36cd2c24bd0d27862c8360dfa2117a142f279",
+    "probability_sha256": "a83d64663d90e2c2c9ddfa61f6ada6de5f36453de1dce28e8cefe88561375068",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "synthetic_control",
+    "sample_id": null,
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:14:57.207781+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.7911987500265241,
+    "flip_index": 0,
+    "index": 3,
+    "input_sha256": "378f99cbfe4444d8955afad49aa07b2f46b88314697661b5624f0f87c87194f3",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "35131e7cf82866d01e56f6723158d159960133e78ef310038ab8d3f12d1e4f9a",
+    "probability_sha256": "32ab22008c70e69789e05718e8955ca788d7fd9a3d10808517af2240d962e8e8",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000008",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:14:58.233103+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.37698795803589746,
+    "flip_index": 1,
+    "index": 4,
+    "input_sha256": "a3cf486e4886107391be7c60480e313e5eadef02075f7b190f726fba394d8995",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "74dff0992d5d55abc5502921646231640939e6c5f8c8443350620e240c9d3e77",
+    "probability_sha256": "ef94d54e1ead7ed1a0201e8b891afcd4a3d99c5151d3585b3840055f1ff32480",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000008",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:14:58.651911+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.3325645840377547,
+    "flip_index": 2,
+    "index": 5,
+    "input_sha256": "a59e8b7c4b245920b326d07002405769dde68a324cfa44e4c5c3fa7abb7a1910",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "052bf735b3cedc3e2108fa206cde57b4f8fa5b51f21e465f977c40613ca3343a",
+    "probability_sha256": "0c3d12a6cd420aec3efb13ea702b4401fb3f9e8983fa74b2e986a0267e8792cb",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000008",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:14:59.024675+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.3763340419973247,
+    "flip_index": 3,
+    "index": 6,
+    "input_sha256": "6c0983845765d76305c11d54384331260814401bf61ea67094e54d73a5dfe5cd",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "7815d78d3283985f9723e44cd2ec3e5802a21095180922574e397ed55f6cecf2",
+    "probability_sha256": "92e2ffea1b53c2718b05a3f287b120b12238b9df7299ccab441735a16fcd15c4",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000008",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:00.031425+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.3944361669709906,
+    "flip_index": 0,
+    "index": 7,
+    "input_sha256": "54ace76696e247265380f019d6828890d3baced531516721941c41d10ff04728",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "95afe097fe41241f4c35dc3c300366c2d88a95d2efc7183a5e7fa94e18df1bd8",
+    "probability_sha256": "b40825d4f60f3c94158963d73804685159e57b65ef12c1fce156ec165005e40b",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000010",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:00.567963+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.3752083749859594,
+    "flip_index": 1,
+    "index": 8,
+    "input_sha256": "72c2caa4f4e69ff412d1caeafca2a0029347320e7d03e4cf54e1546a1e707e02",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "69606f12b99a13ebf29c2b3c696676a50f37dfd81bf985cfb2e41b17caf1d270",
+    "probability_sha256": "57abea231a576fe325453ca1da926011cb966bfb3cfea0666b9314bf4650b55b",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000010",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:00.981316+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.37402620795182884,
+    "flip_index": 2,
+    "index": 9,
+    "input_sha256": "7649d08499e554dcb557756be054a346765c13970dffb7ae2110b0af02391159",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "00d4cbf145cebdf1657bd1cce48969844d48abe723e66f2250ec9ae33eaecacd",
+    "probability_sha256": "520effb25245a2c1b29f63d437df6c48fad50c45702fa9d765dab944320ee736",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000010",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:01.398235+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.41142395802307874,
+    "flip_index": 3,
+    "index": 10,
+    "input_sha256": "b6aee422964e6f7778b778d84f58abe84c7691c2f1805d4b459f35c785817c66",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "36d67eb5c8cdb3f2c7f4f841885e205685a77a4e2860230ecdd5d869d0104636",
+    "probability_sha256": "9c0fb8a4548d5b61d7f7a2e4c74c1b0b922504ca7411b77f9ac706df83be2dee",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000010",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:02.413169+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.5749537090305239,
+    "flip_index": 0,
+    "index": 11,
+    "input_sha256": "d5949892d50ff1c887b4afa6fd65dbd0165af4f72d7b9e2909389d97055f9e6b",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "8ffa760c042e59e212086eea6e1418df2947cba9494b41f85dc9f8e596a59ae7",
+    "probability_sha256": "4d307869c16f1a5a1a3ce8fb8bcb73c8e7d92ba1eb26812c868ecf1d2ade572d",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:03.071366+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.3543092500185594,
+    "flip_index": 1,
+    "index": 12,
+    "input_sha256": "04e5a6e24708244f9b782ccf0f84e9621260afc3b2330441353596803f27f95b",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "e4889055c73fde64e51542e6783918b41d6b7196277187fb4770ca369c748424",
+    "probability_sha256": "e635f4bf18a6235262ffeb6f685be5194ad2f65cb6d3de5c1053fbfd4cbc2962",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:03.509304+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.37196550000226125,
+    "flip_index": 2,
+    "index": 13,
+    "input_sha256": "ed7e783f227a1f97e5d86796b780281fb8e0dcbd7de1f867ef2f2985136b7d48",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "f8a69a9b419514e8e5b84f31fc1086f8963e6730a68c2cecfd8afb2a35d6ccff",
+    "probability_sha256": "7bce8bb12e2ab58f3a8b73d89232a87a564b1fd29c682a4b0297ff63f40e869b",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:03.920783+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.3628613330074586,
+    "flip_index": 3,
+    "index": 14,
+    "input_sha256": "93f33472164dc8a8449e45ded880290c63663bbe01bca4370687e7eaf8702929",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "67a0b121d22dad7443ecebb8691bdf8818303f677cc30589b0ade648b404298c",
+    "probability_sha256": "da5205dec6960f9c4a5e9edce725383f03a0dac498df2b55e992c5146f49dd69",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000013",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:05.016540+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.46299779100809246,
+    "flip_index": 0,
+    "index": 15,
+    "input_sha256": "657e3ef1dcbe7f3901a224cec190033f3870db23a0c9ada31f966a24c2a4908c",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "967abb7c23b2d3c840592be1cc810b592bad1e85ebb42c835101c056eaea320d",
+    "probability_sha256": "550f7e75fcfebc85bf90c604ec821be509023d499780f335ec11c9ba3cdcbba5",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000025",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:05.673343+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.4162584170117043,
+    "flip_index": 1,
+    "index": 16,
+    "input_sha256": "96c5720d707417264586dc35af86e4eb567fae4a2ac163cff968198a3eda4e1f",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "b3ea5ee37119dfdf39ec2d11df68ad3dad784b97b0094e4f24968e9542d61343",
+    "probability_sha256": "ddffaffbd78384f13a874632d53a9b8da0d011878d3e23faea272bc2613b90a7",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000025",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:06.153613+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.3659822909976356,
+    "flip_index": 2,
+    "index": 17,
+    "input_sha256": "18928d2d53fe20590dc9e37af8d3f08fc90a3cbd6ba8782adc74dcc88d943780",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "58aafa3033de67a948e4edac7303cc66902c7693a2de600245c6c51f94f77d7d",
+    "probability_sha256": "7ec028913f364808d9c93b89f8502d0a119cdc82366b346af77a870960808202",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000025",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:06.560025+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.34248925000429153,
+    "flip_index": 3,
+    "index": 18,
+    "input_sha256": "69c750021a37f519cdf45bd5d4cbe83b13b933f3d6ce8b09bfb9484ba013ec21",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "d1b6165aa985d80afdba6dad1f0273b0ef80e8f0da1b0556a5f9acbad1e13f68",
+    "probability_sha256": "97d0cfc6a9b476c584b01019f9cc2059adca3e0f09a3d0bed47a9f3700c2adfc",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000025",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:07.498902+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.41225820902036503,
+    "flip_index": 0,
+    "index": 19,
+    "input_sha256": "b46ebe19b695d7b637c47566cc385f17c09ee6827e5515dd225ba9d67138044b",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "e9acc29d18e6ca28d62e0d670953a56868af4e9f27b8d020cb3e372e0d981a2c",
+    "probability_sha256": "e64830817f8b298f0258d4f560a5b6a0e8ab5c4db846f7299fb71282055ba4b4",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000029",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:08.038673+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.35013483301736414,
+    "flip_index": 1,
+    "index": 20,
+    "input_sha256": "2b3553f5ce4634b5ac7b7cedc781c9c757d775ee6bd8cc70e0a7f2f62b384dd1",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "f23b3056870681e0e96b34ff69da197bcc1552f013ffe0a91760e96021c99884",
+    "probability_sha256": "eaa6807d8b178ec43deb83b5a5b8094f594497da91fc15aa2106ca31eacab7c1",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000029",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:08.423863+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.3484671249752864,
+    "flip_index": 2,
+    "index": 21,
+    "input_sha256": "a8db6d0b8ba84b49451362d658faade60f89b9f7e4d7b141341d0654b5adbf68",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "fdf15f47d0956dcf71249817ae6f46bf9fc89d2b0a1206cb4bb2fff89d17d78c",
+    "probability_sha256": "e1e26104bab6f06e44f1f41b1db76a77ef90cce2d07ea519d8b497f2c3a57666",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000029",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:08.833218+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.3483673330047168,
+    "flip_index": 3,
+    "index": 22,
+    "input_sha256": "a9bf2db413d38cfeb6d25aa2a55aa17eb808986b1f18d00631c84eac138a0084",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "d8214a42072a4492a72e6e4805be3eb9beac06e2cf586671d173f53319068792",
+    "probability_sha256": "929d6f15cf3d48c21936455042e34e192b6804a2c7e2c34d2ce22043097cfd19",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000029",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:09.763857+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.42874941701302305,
+    "flip_index": 0,
+    "index": 23,
+    "input_sha256": "e579e8635c85391fa0f52b2bc935adde97eaabe6e7150f91f2b6d3364191c8b0",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "39dc0e174936a8eeeb2bb5213db876047b48a5f5d1cbc1abe650f64323a1468d",
+    "probability_sha256": "072eb552ee7349b7eef2b7e3115524e452582165ffa5498c8cd8a5fe84986fc0",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000054",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:10.309973+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.3436031250166707,
+    "flip_index": 1,
+    "index": 24,
+    "input_sha256": "c3cb0fef7caf81f193f96e8e17fdccbf694bb0fe0c417edda75a2d346cc0df2f",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "ea331a8e79a9b968eca0dd00a2df3924e11bc594ed2a47681103550f2a75b717",
+    "probability_sha256": "f5c96fe0f900668accb5ea1ae07d248b0ddd1cf4b5bc14955f674aceeff6cabb",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000054",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:10.709024+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.35072870895965025,
+    "flip_index": 2,
+    "index": 25,
+    "input_sha256": "a3687ce5275a5368af4b9f8831d5d8280a343704f6c077e8a875a53df0cbd894",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "aad68bc8acc7583a1c8e813176ffca89ee394f41af11d879fc603ac7d92e25bc",
+    "probability_sha256": "f21dac2f7ac58f51e667a012747d3c718bd92bcded3f796088193e9138503767",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000054",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:11.122608+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.3399773749988526,
+    "flip_index": 3,
+    "index": 26,
+    "input_sha256": "be604322e5b6c4d8b403b7661a773b4810e0c00cd96327d5ef2ee59779dee4f2",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "9dbb12546c650a078fd4b251ac91271a2e0aa344c9532e5a3b75af44c846fec5",
+    "probability_sha256": "02d0edd45bb90b60b4f56af39f7dc0864a3bb468dbe3e116c703b4baee52d446",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000054",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:12.030976+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.3898237500106916,
+    "flip_index": 0,
+    "index": 27,
+    "input_sha256": "9a8f295603001def6de5489fbff2ce5dd4b0da56c30fbef81049586782bc7189",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "94bc85f42c575a37e231a8709174a9a00b5b0f902dfd4445ea97a9538f90f6cf",
+    "probability_sha256": "a7b5c1d9d02a166bbfd79f5ca6dcca07ab6b2fb84192360eb4ba4dec6f36a96e",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000062",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:12.534891+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.3484118749620393,
+    "flip_index": 1,
+    "index": 28,
+    "input_sha256": "133b299cde19e89a249c44552da161e67eb0b14d28f91805d6284813418e2524",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "743227d52769e45685fe8558d2c9fdc18154f50c6df5674b6354026b18b5849b",
+    "probability_sha256": "7bace33b86663e9902f1aefe91765134464bcb72875ee753c56a7c45b784b07e",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000062",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:12.931475+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.35025250003673136,
+    "flip_index": 2,
+    "index": 29,
+    "input_sha256": "5aa0a882304dbc23ca0e26509d2e61478f6151735cc259ed9f4e0e1279427bfa",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "345a71970a97deb97c3e2a62f170212dea4928388e00fc5c622ceaa9d0f7b6a2",
+    "probability_sha256": "ead6a35b30872a8c7524544082c5803387382f8580f3af7023d25391835f96fc",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000062",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:13.346706+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.3489049579948187,
+    "flip_index": 3,
+    "index": 30,
+    "input_sha256": "f9ef2d402df62d1c19310fb2c864e6e5ef4263297bb389ddadad496b35f34211",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "d25257802260f1504560ed4dc72822aca2ff82623b1468bb3df09f454b53def6",
+    "probability_sha256": "9e672379a9271af376b812bdb415f802b27252b49819080c97da60d514dcdd8d",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000062",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:14.306969+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.3971833750256337,
+    "flip_index": 0,
+    "index": 31,
+    "input_sha256": "40dc374816071f9483e73cc52e07b46dd5c0bc12d23ab893c7a3dc45474325c5",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "78772388dba96ee5b332374a903205c985e476ceb42f8f7918511b25a800d543",
+    "probability_sha256": "d97482eac1c8e11bdac9c58bd22b40110843dc015248b6facfa82c5972d62f9c",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000108",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:14.819319+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.3417506670230068,
+    "flip_index": 1,
+    "index": 32,
+    "input_sha256": "b5a52068e6a27257ea1ea04cb4177c3cc8b1bd7c7fe1898972a467b3a0b63056",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "2b6996fc39001ba98ff51e590ba1268a24b37a9c57a869e6c345673ad59c3868",
+    "probability_sha256": "7f91f84b3ef03aace060fc57ce1e917c1345d866589ed45dd43d23d15e80a23c",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000108",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:15.200382+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.3463986670249142,
+    "flip_index": 2,
+    "index": 33,
+    "input_sha256": "82ba8021e1718d81490609f2cacc12bed6f92ca1168b789f8018759b6a1ab834",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "ae36a5aa1a30ae88248125248365efac80300066575bb33b009eb6916465fa33",
+    "probability_sha256": "c18342be63e87d3607e4b1c84bfef99fc9d94486df0a19a039a4ce65fc9f666e",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000108",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:15.607565+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.35360229102661833,
+    "flip_index": 3,
+    "index": 34,
+    "input_sha256": "3c1fdeba29d2aba00306cf8003f8b0bb1b9acb40aeab3dfc54a5c42f6336bbad",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "9bdc991561acfa67c742e17e8a7d240af12d1d29254e053473b732b085161872",
+    "probability_sha256": "ff8a72e67199471c0f37bcffbcfe31e3b89d6e30a9e917b0f2fde077fb667b1f",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000108",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:16.587987+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.38753608299884945,
+    "flip_index": 0,
+    "index": 35,
+    "input_sha256": "f2d77ff89206709be47d81362becb3219e0e9cffba91062a2beca573e746564c",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "60de2e3c915d67bf139b01100f9e1969b39daf579fec23c3dbe9da5f3b52ce6d",
+    "probability_sha256": "8f54e3e573991d4f8406337e946c5c479f16af3542cd56fd6415880708dfc056",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000112",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:17.074107+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.3392818749998696,
+    "flip_index": 1,
+    "index": 36,
+    "input_sha256": "09e97d8594541b46fb08640edacac50323ae8d563ba3e4565dc0d7d5adc695ab",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "9b5b2af833eebd18d7958adac8c13bdef5df40259496f8d0b06cc4731a9673bf",
+    "probability_sha256": "da1b1270b05059f04740ec713c81ede148d228c52bb9e00f5fbe9c8fcfe66518",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000112",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:17.446036+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.35599433403695,
+    "flip_index": 2,
+    "index": 37,
+    "input_sha256": "5fe8f7f665c0e4eb36b09815c68b24b8dac22e85c8dcefcc6ec8ab049d444a74",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "fadab91e1678e6dd9dfdce30e538f41c03e4d25ef3573dcead22776bed50225d",
+    "probability_sha256": "3f0bbe58762215a788796aac7387a61c2568997fd334fd1a945c2fd314911938",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000112",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:17.840415+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.37660404096823186,
+    "flip_index": 3,
+    "index": 38,
+    "input_sha256": "fe07c4e09bad0f20e940514b3b20f3c48e1d58cc69b1d14c5f8d44d55257e00a",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "911de1528034afd8cd8e866aee74225f6e957440996cbc6d9a12e37800d09797",
+    "probability_sha256": "daa87f85b4e60548ed9b8e71f1a6310f0f8cc148ef44568d84cef30856e48f7f",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000112",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:18.781259+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.40425220801262185,
+    "flip_index": 0,
+    "index": 39,
+    "input_sha256": "3e0f9c17db9474c9d5b0054bb09ba82f99de33fc96389fe204bbac03e6b479a2",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "07cfc3829dfd0edaffbf1d1c9cbdef94a1fbcbd9263649402844524a672e9118",
+    "probability_sha256": "b28dd29a50d1e6a58a0b6baa0a668de1d1bcf4805a954e8ef792eb0ffeb5245f",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000115",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:19.307097+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.34580112498952076,
+    "flip_index": 1,
+    "index": 40,
+    "input_sha256": "956011b76f9e2133a69e233c2e7c7fadc3e09a5b76fb6a6a9c1890b59ded2a98",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "2092baaedbdba2d150612b43e104bf8cc9a4f60dbf3473442452b208d30f5f0b",
+    "probability_sha256": "35090513a78534990000fa9b2cd8c999550f7c4924af303291828c36fd8724f0",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000115",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:19.697065+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.3529041250003502,
+    "flip_index": 2,
+    "index": 41,
+    "input_sha256": "e6ae269db8d09a4e64f7582e608a484135e2bf24edb01f75731a48daea90e00e",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "bceac2fc9c31cead4306cb66c1a293ee530b53291f33335b75137fbdec21d9a0",
+    "probability_sha256": "175c7cd1193cb2812725835bafe255d3f26bba5c85e6a1fbf5ed6c9b5a85d3d9",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000115",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:20.096578+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.35592520801583305,
+    "flip_index": 3,
+    "index": 42,
+    "input_sha256": "36db0ebbd976bf942369576cd6b6f67648490277cd9934efa71cb3754ffc4d98",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "ad73725e8294cdf60f526d1c59990bbbbb9a2ad9b16a9e0a8e5212eb94ce8c83",
+    "probability_sha256": "291dac185fd656493318e1ea176d85ea26bc9b0c0d006f23279f4053821784c9",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000115",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:21.027425+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.3896485000150278,
+    "flip_index": 0,
+    "index": 43,
+    "input_sha256": "8ecfc7200f569526c4089078b57e35806efbd4a183157fde96106243cb97b40e",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "6e17c194a7124fd758fc59c2ef076110edbdfcfc7cc3f0a1fcfab1b0553a6d46",
+    "probability_sha256": "8f95f8b9550eb1d27ee0a289713f8e6365b0825bab1dfb4c7b9e5adaa9edac4f",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000122",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:21.567050+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.349799916963093,
+    "flip_index": 1,
+    "index": 44,
+    "input_sha256": "e5f5d10d53557af29311668114dff08a2b3798df2db3ba5d375cb8d308809ccd",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "a0d5c463139a16444702778f3fa1b582452a0f862526c5e25a984993f18c0946",
+    "probability_sha256": "9f50fd9636f05c6de8e5dde5f756b98f2e82a4a7781a768ff54081f2e4401a34",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000122",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:21.979327+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.3644546659779735,
+    "flip_index": 2,
+    "index": 45,
+    "input_sha256": "9ea677fa7a4616ef6718ff636f8e152cdd4764821416991991fb6b97fd991ea4",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "1d3dc50fe94bf8cdfb073e3db3df838e294684b261ab8f2f0f01417f82e02990",
+    "probability_sha256": "45f5429a80b6e086f81fa59713112fe5bd25256f17a1af8282c069ec984a76c5",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000122",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:22.404053+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.34231104201171547,
+    "flip_index": 3,
+    "index": 46,
+    "input_sha256": "84338ba86749f4300b7eac45674277532a26544196a16d2b64a7818e8b38447e",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "1448a30859e5d107dc8fdbc798460317092ce7a63799ff81996326b4c51b60fe",
+    "probability_sha256": "6c9acf32cbbaa46b0f728bc006993b11138878555604a7e976f88f1b9b912b85",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000122",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:23.322638+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.39961366599891335,
+    "flip_index": 0,
+    "index": 47,
+    "input_sha256": "0e76e5160797ca45f463b2078a8893108c67b6565f823c957fe081d4fb9eb78c",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "c5121d169a629ee12241c2c000fe702d8cea93f61213b153d9fcf55d0ec46b7f",
+    "probability_sha256": "c99d60d1b558c2c13aa38ddab0c121f476353a27a662528cf4352b78fc4c8df5",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000126",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:23.860652+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.3541845830040984,
+    "flip_index": 1,
+    "index": 48,
+    "input_sha256": "02f42d8bf31b72fa4e13617a06c179c6958d4a41fb6b2f76d8c853bcf8e5cd5d",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "b8b385322fc7522a7906950b0e9ef7a7ea59061dc8afa77593cd8d572bcaf6b7",
+    "probability_sha256": "82f5711801d6ba6c3c877c2e66cee56414850157448f058e6a13fb4575ed8afb",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000126",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:24.274162+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.3507214999990538,
+    "flip_index": 2,
+    "index": 49,
+    "input_sha256": "9b0c29b5b7eacba30f9976c75e8e655c5e75c9291bf9711f19cc92e644c83ad2",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "dffc98050015aafd4b724ea628b759dc6ea8d940076f644fa84f6f0e1c508fd9",
+    "probability_sha256": "1175b794dcedb5b9487f4569e396bb09da74278fa30cbce8b51f17b41f6a2dc1",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000126",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:24.690254+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.34344020899152383,
+    "flip_index": 3,
+    "index": 50,
+    "input_sha256": "e6bacb543aecd1d234af4054456ecc0e618fc1ab8eff97e936d6c400edf5ae4c",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "3fd78b8e079498bff03b626dc38c29e15c09632ba222f100cf7fae77fc6afa8f",
+    "probability_sha256": "e63ed14bd86a4f796addf513e2c873bdc00f0be9ab94179b4a13cb5d4dc40e68",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000126",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:25.650850+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.4059151660185307,
+    "flip_index": 0,
+    "index": 51,
+    "input_sha256": "a1c805f675c22720b9ed50d14ec7893e3119a0874c168a35e454e53c3561a712",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "6cf80f869afea2739503b1cb67901c08f85f2aa2301d04f9eb857349dba2b977",
+    "probability_sha256": "ff75d2e6cd0666f9544f11116a018a28fd5081837e82596d7c6a002da15105b8",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000160",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:26.168514+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.3584266660036519,
+    "flip_index": 1,
+    "index": 52,
+    "input_sha256": "9cee3609d99d46283310021795af1f62d630412fe41100b84624f5e1a3ace07e",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "ff3e44284e671ce0465a4e3bd979957e1e1428dfd22fce3ee29323e234e9ecfb",
+    "probability_sha256": "8a6841031257a069587567ef36725ff78727623f1092495bcac928f9520165cc",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000160",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:26.594448+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.3483062500017695,
+    "flip_index": 2,
+    "index": 53,
+    "input_sha256": "7b82e2d1d903c777cb62adb2a3d33093555129ae5f121f9eeb8329369215aeb7",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "3220d21586af402577dc9109ce90f2bd47b28555d3bb93303f77b793b1d30d3c",
+    "probability_sha256": "b91d7da8528632cbe2223480e05caee28b30634966682fa28287b3fee4fd0c8b",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000160",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:27.006891+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.34421508299419656,
+    "flip_index": 3,
+    "index": 54,
+    "input_sha256": "bf72be2559a8d3f776b2dc4a19e649426b617dc0f9ba1909c32b3f73420bdfcc",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "64381c4f41bf418d314368995bda28c1f01249ca110fa1e45043f36861676cd3",
+    "probability_sha256": "d82c7c2ab05a9204a3d9c7964d8272ad387497331eb74affa91abcad4f32433f",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000160",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:27.940916+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.4099179580225609,
+    "flip_index": 0,
+    "index": 55,
+    "input_sha256": "30d12efa236a87e9fb1297e4a207ab192ca8085529bb5c459b53984e34afd86c",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "88830f4e9d300a7181676f806b2d85fb02d76351187f3c2b1e0c8e39149fc03e",
+    "probability_sha256": "11ac53aee5a79f7d6a6b78071eb1c720ce226f1a3a73c873d6ab37889700141b",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000188",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:28.464392+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.34641479200217873,
+    "flip_index": 1,
+    "index": 56,
+    "input_sha256": "a3a9918971dddaf9a128b52e9c012bf0280501c30283c229e09e6a25066dd29e",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "ab7ff9aa81e92964afa622278c7c165859c5ca6b945b3bc3576bdfb50ccd1de1",
+    "probability_sha256": "c67c1e5ce2248237966894397e58e4bee71c02384f33a82ebd242dbe832447ee",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000188",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:28.876324+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.34216716699302197,
+    "flip_index": 2,
+    "index": 57,
+    "input_sha256": "8d445bf4a7f1312ca38397609e597604a92fc819146cb0b8d93cd3ea6c5693b5",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "ef1a20b883aaadb6d60bfea531bf1d3b78d5fd758c0210629b7c0a87f750272b",
+    "probability_sha256": "c4d754fd1332725224cb2bd8bdb9681ec60316717a5cd6e47be9e4b95a4674d2",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000188",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:29.257652+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.3413741249823943,
+    "flip_index": 3,
+    "index": 58,
+    "input_sha256": "652c0690960a261112a40a0f5e83c57e3cba51eddd7f216b95dc0a3ac42d18ef",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "37cf2fefabf7645504e45b191e14eeb4345ae1178a37cbec4b0e5e346c9305ae",
+    "probability_sha256": "b2e4377fb68b6c96f055df56db3cadbcefa4da194059cf66ffa8fe7d5cf29d71",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000188",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:30.511512+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.41294520802330226,
+    "flip_index": 0,
+    "index": 59,
+    "input_sha256": "d139ee7007efed1c3bd7cf146e52939b58169ca658a7230935b28d9ca9c6676b",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "5d2927811ecec1b49884bb3abd0d047ac6d3ddd167657955da3f61486cb4f105",
+    "probability_sha256": "5dd0e4410de05f7f24770e1f0bab6b95f593905e89b6315bc895db2248fe471a",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000193",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:31.000065+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.3585535840247758,
+    "flip_index": 1,
+    "index": 60,
+    "input_sha256": "5d4f5de63fe9592bba1290eeef330cb36688d775c75c5b9c25547e05c6c146bf",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "67e61e81c1c4ed4dde82365895bde582ea48f526fbf128833abbc351153f5330",
+    "probability_sha256": "15305d2aebe357df3da2c5cc6fd19656c6239c5ae24893bebc9a736bd7067781",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000193",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:31.394469+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.34296149999136105,
+    "flip_index": 2,
+    "index": 61,
+    "input_sha256": "c0c5beb547787ff71304f7c1e86bcb0d7cdcbb42b4ce635a6dca38e382796e00",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "949bc06ef8321527864960a575294c63dd5cddc30b4cf0f393e1f43680df5ec4",
+    "probability_sha256": "919bbdf9c91ac03fce3d0dcbba6fe6591fc6cf1ee73ba3db95416922c7db6720",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000193",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:31.798249+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.37116450001485646,
+    "flip_index": 3,
+    "index": 62,
+    "input_sha256": "41bd5ef83b1e6d53911c7f71f4920e0918c27a5ff0f534303d2a7efd1d67507c",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "5971774ea1df2df72d74c6e6506a05591ec3c28f18a90ae8b558384e894f37e6",
+    "probability_sha256": "9ee88a8cba269211b482de3afe1438154eab79c1b500fc699dcb7d24468217e1",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000193",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:32.819335+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.3999257910181768,
+    "flip_index": 0,
+    "index": 63,
+    "input_sha256": "97effbaad93d5faa528b221969a11e0d7ae90647337e9455cf3ab9fe1768aea1",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "e0e6f4cf224e2f079e28793e08e3b2a7a874aa96d570621e18d31b8a29e059bf",
+    "probability_sha256": "8cc71b56a5e5db30f867a6e5790577273ae3dd08a1f324ecb1bd9423a9f26daa",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000194",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:33.345509+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.3520603749784641,
+    "flip_index": 1,
+    "index": 64,
+    "input_sha256": "e38f3d4ddf987e1e32007a27c2216b51a4d7c42bca716b74ce3c1382a1233f01",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "e9acfe997e63746cfb0da4c0be9891d1074dadee41366ca53a51d6d378f62e54",
+    "probability_sha256": "4325b0fb9cfebfb0ff9fba77039288ab8383e1edafad8c6d3a343e26e3e28b1b",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000194",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:33.735419+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.3437169169774279,
+    "flip_index": 2,
+    "index": 65,
+    "input_sha256": "266153e54197c22277fbbf1d914b6360e9ee1125e49a55ef33190494c7231988",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "f6c095e088d59e30964cadd7e39a0079d4efe915b1e65db8e4ce9334c2d4c746",
+    "probability_sha256": "9d97763b7975ab171671544128cc39110362d18bfc3f7ddd40e2c1ea9029e82d",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000194",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:34.134700+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.36922858300385997,
+    "flip_index": 3,
+    "index": 66,
+    "input_sha256": "27f1dc4fdb9e20fa9f7a338987c5b8bfa0f8214e8d2fde94f33ca1a6005dc0ed",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "506ff6dfc3f1f4330d780d20f4e77174ee60ac6e488e2c425f5dc6aaef29d8b9",
+    "probability_sha256": "7cb6e36fe7508c324678b76e8ca7c6c74f79e0b0bc1962eeeec543dc2afa0bcc",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000194",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:35.118848+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.4102008330519311,
+    "flip_index": 0,
+    "index": 67,
+    "input_sha256": "3ad61dc2b840f1a8c8e0b4f969c449a9c96eb95c6f8ec6dc33c4b56a6884bc1b",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "e2eff0e91e1d5fe33d5150c3ece8ab582af346feb5907bdd643abb008a51f75b",
+    "probability_sha256": "79fc90560cdaa827f584e2551e2bae34f156e7a83904f71fe69decf2c9f24b5b",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000227",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:35.661931+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.43599162495229393,
+    "flip_index": 1,
+    "index": 68,
+    "input_sha256": "01f4bcb16c1f87a0a808c33ed255069144845aa2e8a35badc0767d59a68eb5d7",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "f7638ac4a4a03dfda767fc17ee82061183bf214864fcea8bb6cdc56e95a4b756",
+    "probability_sha256": "c46dbad61a37262a06a918daed24dd280599316afa05cadde132e20bfb92a4d3",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000227",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:36.137028+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.4224206249928102,
+    "flip_index": 2,
+    "index": 69,
+    "input_sha256": "c146ae05235b711e0c0b7fdc11057f5656b575ebce248bd209db7bd0a51b0312",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "7cc8a46a9a65ed126c2c843fd630640bf90e4220aaf3a694b3b76b426a5f5f0b",
+    "probability_sha256": "48a174adce22464fa3f52d9f0ebbf5a228849f8f1ba1fd60df723377f14ac33b",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000227",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:36.598899+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.4242797080078162,
+    "flip_index": 3,
+    "index": 70,
+    "input_sha256": "db7142647c1fc18ed9b0c258d591956b7ea4c641abfc135e03c601408e860031",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "e45da8fef18cf8db6c8f978d1707a2108f9e59c2f9894d581737058dc2fb47a3",
+    "probability_sha256": "39972b5fc257b5879ea80267795afe1f4de6d4cd3697582e1ff1ab14aaab562f",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000227",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:37.619051+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.42609437502687797,
+    "flip_index": 0,
+    "index": 71,
+    "input_sha256": "3a4be5094dd0846bc9d4d92ae63b96546fcaae97bd9e86af2957baebb640d22f",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "507e6d0052c40a2c797fc71ce50db540f50c12c85711dc4209598507574669a1",
+    "probability_sha256": "15a9558caac551ca0357ca34209c7c77d094d6b27a23c72977e6587e79282cc6",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000232",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:38.168639+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.3799608330009505,
+    "flip_index": 1,
+    "index": 72,
+    "input_sha256": "e6b3ef9c497b928ff4818f3b1be3f4c615e833b202feb22e7ff77a9694bdae52",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "e4d9417c1c779e8ade89c34a495f9271b993341b98832d9c7b2479702bb52846",
+    "probability_sha256": "5e2bc167c8eaf6b98c97254138751ef09f4dd68816b158a371da17551b0fd9f3",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000232",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:38.584809+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.33360754197929054,
+    "flip_index": 2,
+    "index": 73,
+    "input_sha256": "b5fefd36cb4fd4287cb8ff19750a00cd801239d5c8ea15eac05864074f17234c",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "da5c6ef4e2b5e19706c97f8dcdef111477895709d3a91a600e7efcf69f6e9b6c",
+    "probability_sha256": "642dbfddd874fbeef59040f6eb6f55212615caa74095b98d5d77e629d86c8064",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000232",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:38.954928+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.33934670803137124,
+    "flip_index": 3,
+    "index": 74,
+    "input_sha256": "daaf5f390d5e446d21c4e748deed8fc9d4533bde76d0db4cf195d85c344e7a89",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "036f61cf4fffa92da296980f0595ed579bdf0eca151c44bc24e39879fdfcca7f",
+    "probability_sha256": "8723f346254645af3c7a8a10b232b3f605bb82cb132f1df38616119b597bfb50",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000232",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:39.972600+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.383500375028234,
+    "flip_index": 0,
+    "index": 75,
+    "input_sha256": "7d8a9723fbc6b70b596aef5c5327f9224f6c23dd27c9b78a5742828a0d314e86",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "caf98242649922f40c0de667cb764a092f84ac330a1a4bec218ce5e661dec0d1",
+    "probability_sha256": "9f77ef2b2cb383a6d9441f64f7c782fceccbc2818851b5545cea6e0dfdbf0500",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000255",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:40.495862+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.3446568329818547,
+    "flip_index": 1,
+    "index": 76,
+    "input_sha256": "c0abcbe6c55b429c578f663a2e14235e18bb449bbc41e1f5617d5e0ca9527e48",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "1477039192c919b4913d01f3f70f3072a5e3dfefd8929a21e0483595bb6e9f74",
+    "probability_sha256": "6c29eb8e38b20c87892337c2a2ee6f5300def3b3138b4ff619001bc6b8fdce54",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000255",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:40.877638+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.36679791600909084,
+    "flip_index": 2,
+    "index": 77,
+    "input_sha256": "cc441bef0b1402725368b48f73ecc5d934a414233ecf0fac6262124c46b0a10f",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "0d618e1ac07a661c3a6721e435080b369028277e6d35ad5d295091bb4bef1d55",
+    "probability_sha256": "687ad50a4dea6b858a76e745a54a5f095a4a2bf16f9b8aeb998bd5f3077481c0",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000255",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:41.284754+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.35858070896938443,
+    "flip_index": 3,
+    "index": 78,
+    "input_sha256": "8a60714f15c02a9a6635c698f7bd53f4139fb63fab31f4a574f1db463ac62342",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "cc7fd34a08b6307e8d7d5190801b6ee7e92b0fbccceda1171905fafc2e9cec75",
+    "probability_sha256": "1c6a3ccfd9a1ef8a4100c9f84fd122b2af3baca8b145090e5eb878f057f1d0ad",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000255",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:42.256716+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.3929249159991741,
+    "flip_index": 0,
+    "index": 79,
+    "input_sha256": "445363113b7032ebb4b176e7df0a8c05844f792f0333c9de6fff0ada7d55d59c",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "a8f93011cf04284bd86822c24e6a856e0401a222e1304fbb0dcb05515b44b20c",
+    "probability_sha256": "1a8e93973c273f731fc854d3d9c32550b4326684ff689905e6a8555abe53a6f8",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000263",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:42.786295+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.3360242089838721,
+    "flip_index": 1,
+    "index": 80,
+    "input_sha256": "b7f0e8e77923222f2396003a42a03d076b48360ef03490fb93057081ae14ee0a",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "ed114aafd6bfd5feb8c78ce765321db01901545b22e63473a9e312afce312a21",
+    "probability_sha256": "3176abc9354d15337079e4c5f0c8c06941e6dc31e7f3046b0149c51f5bb0e1cd",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000263",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:43.164527+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.3362090840237215,
+    "flip_index": 2,
+    "index": 81,
+    "input_sha256": "e583c940e7b235a7569d5ab6a606a9f19b2ed95413b4331009ae21e7c48a2014",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "539f0808aeb1da1bfabc00913b71590bd35aadd4d84ba6400919883a6f3c618e",
+    "probability_sha256": "f13567b3b4521e18be152c87b13f248c7d9f0609247d44bfd61e443ccbce5ab1",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000263",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:43.539047+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.3567597910296172,
+    "flip_index": 3,
+    "index": 82,
+    "input_sha256": "88e7ae05eb7849252eabd9d57febd6e7c53dac443c64701bfce5f6688a6a9f17",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "af14b080ee36046c1effbee3bedae9b1028a782c599a51ea4602f6a374f98b8b",
+    "probability_sha256": "da0c171e3bca568aec235f3f123dab9eb6c789865f7bd0ef1066c1a639e73084",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000263",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:44.494166+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.3913831249810755,
+    "flip_index": 0,
+    "index": 83,
+    "input_sha256": "011265885cf48107efae25ce05837f32947896c5905d9faaaa02d1f7e8a99cd4",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "99459196950df7cd5e15e718ded2f18fb97dedd0a7ff3b2f21dd226dc7ee5da8",
+    "probability_sha256": "4616bcda095d5eb9cf56d3cca3f46d0b1440392907e113ed4ed1cf53cff17e09",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:45.009559+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.3322183749987744,
+    "flip_index": 1,
+    "index": 84,
+    "input_sha256": "7441c5e54909084e79814ebb1f4253bef9a8787bfbf14946b369bff402abdb1c",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "268d8b9a602477b7980aa166dbc0fb6f13f5beb4e20a067af615b6426d7cd0bc",
+    "probability_sha256": "996cdf0bf46f82ba5884f0eddf4cc44d3b7fa3da0021ecdee9d6e9e2aed0ef4f",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:45.393191+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.3381437920033932,
+    "flip_index": 2,
+    "index": 85,
+    "input_sha256": "7d28e9e34a1fed15ae0f0a63f517ac8838a45291570d22fb2286f4b0aab78255",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "4e6c7d66b4d0d47cd7533ca592524b17ed44aaa31ecd673197d455ad1f2a2f50",
+    "probability_sha256": "062e0e032c0d6d83747197a78715d357484b9b4f7b6f80a11b3de60d65f070d9",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:45.769787+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.35780970903579146,
+    "flip_index": 3,
+    "index": 86,
+    "input_sha256": "4b7b47ab60d98e7d862f9194a065de33db80f454b52c67794b282332193c36a8",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "976341d2a88e0522119462885acafb6ff04288f327c86ab15414b6b2302159df",
+    "probability_sha256": "6c4963acb8365ab7edc4f9a53a8c020f2b8ab01c0cec288017df6296c1de6fe3",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000266",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:46.699101+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.376659290981479,
+    "flip_index": 0,
+    "index": 87,
+    "input_sha256": "2144e96e77350893aa59afc44c1dc3b97665f8de92c3c7acf5357e70b2d5f87f",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "bb06c1d50944ff12f4d356cf66d1ac5fdf3c7b7078d8aec9f2daa774007b038e",
+    "probability_sha256": "e38262d8ba8d710ed39d96a628103c0aa6601d9c7a0e166279e21a447b95e813",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000278",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:47.142443+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.3377681670244783,
+    "flip_index": 1,
+    "index": 88,
+    "input_sha256": "31c6aeb4f6def9d9b10669a479e1c77addc8e92b581b578023319099be419c76",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "f8a4908fd24d40c0b4ae0b4e88fc06c7b282ffcdc51e88e6d5a7a5516894361a",
+    "probability_sha256": "b15a99944bfa959b8e123cdd8acb30ac0b459e3d4e75370d0ff9f756220ad273",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000278",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:47.524794+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.346050666004885,
+    "flip_index": 2,
+    "index": 89,
+    "input_sha256": "b7d863420d4f2e0a0901dd65e5fdd468aca1a5a91dcb1d8bb55a10c8d0a6e270",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "1d4c32f6f0dcaf117b68fe5be9275190a945991527c7065e809fc2c13f1c79ed",
+    "probability_sha256": "5c76c90cde887dc0de76a2b98dce10e6132a6e41ec8b169d97b3492dbdcc056a",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000278",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:47.910571+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.34903683298034593,
+    "flip_index": 3,
+    "index": 90,
+    "input_sha256": "66a5c261caca41f6dd12c2458c53695f92f8c37c78a1deaecac325f13b33ad00",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "cbf5c2e39b072407c14eb32fab61a4af929cf9fc25162eccdb4bbcea0a504a98",
+    "probability_sha256": "adb6f6178ea87b9b566ea2b5a2f015ad87aa495ddd5934f469ba4fbf71c5310a",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000278",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:48.832356+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.3851267089485191,
+    "flip_index": 0,
+    "index": 91,
+    "input_sha256": "2de449678027f379f2076dc716658d1cc30067dca946718c5a34ff7f7b343cdd",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "e8b06987974432af348a460c7fc55238b045828cd0c33d0a5c80d97fe3cb90ee",
+    "probability_sha256": "01aac5a28d8f884f95e61ae835c99af15886ead8350b715f353c1e6e960a77bd",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000342",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:49.281715+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.3379751670290716,
+    "flip_index": 1,
+    "index": 92,
+    "input_sha256": "90a1d26ab4dfbb648c8a455bd584aec2622118cc848c764e458b2b239ab9ad8e",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "e2233436038df247e4ad77f1a01c641429e6ecb2f820e13d615ac49a077e5fc7",
+    "probability_sha256": "0c5795787bd315ce6b1baaa5f8f5f1b4d75e8c8b6cbbefb5ce296be7ec735880",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000342",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:49.656639+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.35420262499246746,
+    "flip_index": 2,
+    "index": 93,
+    "input_sha256": "d8130a9f7168a8e056fb07fb22d79266e4c9fd841593e523fa4029e6b5dcb580",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "865bc76c536c2106aa9a78c1007b4bbd99de00e9e9c9be255a88f9f626362ab4",
+    "probability_sha256": "ac06fd9e2b9500f8a3c4cbae89fb2f0236a463f0e91292f13050718845553374",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000342",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:50.052079+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.34384304098784924,
+    "flip_index": 3,
+    "index": 94,
+    "input_sha256": "8403ebb4ea61f9451bf21235b706e0524967d97546efbedad2b4ff6093eb2b87",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "2ff3eb76b4249355f87045ea387054f71093f948cd9c473cd23ff50cace8e041",
+    "probability_sha256": "9272209a00fb2666bd90dffc8e66ab6fcbbf941f37d19da895741b921809d68e",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000342",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:50.965599+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.38913316698744893,
+    "flip_index": 0,
+    "index": 95,
+    "input_sha256": "621da04c5225394ddf1706073abd44fcf80911495cacfa0bdfe2439b9834d784",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "4a6cce784a1536f6af922fbcbcc962caa8cfb932f354130d7e0571d5acf05a17",
+    "probability_sha256": "52d0e1019efc7c924e57f169287282f1ff78c3026a543aeedf246d4cb0523789",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000352",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:51.474913+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.33953008300159127,
+    "flip_index": 1,
+    "index": 96,
+    "input_sha256": "284b1cb23516f726ecef9429d8a7b51d91a01d6f51963ec63db194896cd82ecf",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "17d7d107684d9f34340ffe2f00138d1c2196a3c820e52ee78c2eaee3680557a9",
+    "probability_sha256": "b2abdff2d8b824f7cb2a6420edc3daddad6f89a351d2ccdaa03813f535e2566c",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000352",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:51.865152+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.35205375001532957,
+    "flip_index": 2,
+    "index": 97,
+    "input_sha256": "7393f0c5f4f2f8c22fb100e4ec30e7303f7f25d71971d3cd9cf71dfcd93f87ac",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "692535bea730b6e6123d601f62012994fc42a5724282bc8fc33a973a575d31a0",
+    "probability_sha256": "3e158401a256c6ab82b9efbe91c2f3d07d8c1cc1e01a5b2d5f5fdca673125552",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000352",
+    "status": "COMPLETE"
+  },
+  {
+    "at_utc": "2026-10-28T08:15:52.253765+00:00",
+    "device": "mps",
+    "elapsed_seconds": 0.33472250000340864,
+    "flip_index": 3,
+    "index": 98,
+    "input_sha256": "3e087cbb349f7fbe07e781a6f6aae97e43280d4468662559cff7ee8ebc00b543",
+    "input_shape": [
+      1,
+      6,
+      1024,
+      1024
+    ],
+    "logit_sha256": "3528644b3ad5121cf4aa28436b7798485769ed9edd772b30449e137dc9dddad0",
+    "probability_sha256": "4972f4c22a1349da907aae9d437cae5bc11b55898981be2778db252667728a2f",
+    "protocol_sha256": "4818504de9d0be7d560062dfeb353aaa71b58032e04e1c4367d1d4acc710630e",
+    "role": "production",
+    "sample_id": "santa-rosa-wildfire_00000352",
+    "status": "COMPLETE"
+  }
+]

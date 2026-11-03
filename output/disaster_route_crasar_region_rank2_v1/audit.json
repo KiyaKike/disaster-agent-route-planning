@@ -1,0 +1,26 @@
+{
+  "status": "PASS_WITH_EXPLICIT_SCIENTIFIC_LIMITS",
+  "tests_passed": 9,
+  "routes_replayed": 36,
+  "paid_prefixes_verified": 150,
+  "budget_violations": 0,
+  "fixed_model_cache_files": 32,
+  "new_forward_calls": 128,
+  "device": "local MPS",
+  "training": false,
+  "gpu_rental": false,
+  "old_receipt_files_verified": {
+    "disaster_route_real_xbd36_v1": 257,
+    "disaster_route_structure_pilot_v1": 31,
+    "disaster_route_headroom_v1": 19,
+    "disaster_route_aippms_control_v1": 23,
+    "disaster_route_inspection_information_v1": 13,
+    "disaster_route_feedback_increment_audit_v2": 14,
+    "disaster_route_crasar_feasibility_20261103": 6
+  },
+  "registration": "Published local vector corrections and visual review; automated independent matching insufficient",
+  "primary_severe_gate": "FAIL:NO_TARGETS in both fixed regions",
+  "secondary_endpoint": "Exploratory any damage,added after inspecting prevalence,before model predictions",
+  "method_contribution": "NOT_ESTABLISHED",
+  "actual_flight_validation": "NOT_ESTABLISHED"
+}

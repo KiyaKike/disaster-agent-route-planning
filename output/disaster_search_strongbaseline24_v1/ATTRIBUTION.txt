@@ -1,0 +1,5 @@
+DisasterAdaptiveNet official implementation and StrongBaseline event checkpoint.
+https://github.com/SebastianHafner/DisasterAdaptiveNet/tree/fada4e791766f810dc815a4e82d52f2bb27116c6
+Hafner, Gerard, Sullivan, Ban (2025), IJAEOG143,104756.
+RGB and reference: existing xBD/TACO-derived project development24SantaRosa.
+Upstream root LICENSE returned404. No redistribution-rights claim.

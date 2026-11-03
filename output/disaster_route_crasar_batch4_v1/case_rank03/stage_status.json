@@ -1,0 +1,38 @@
+{
+  "rank": 2,
+  "scene": "1001-Ft-Myers-Beach-DIRT.geo.tif",
+  "history": [
+    {
+      "script": "probe_crasar_region.py",
+      "exit_code": 0,
+      "wall_seconds": 126.02992216599523
+    },
+    {
+      "script": "extract_crasar_region.py",
+      "exit_code": 1,
+      "wall_seconds": 125.3675229579967
+    },
+    {
+      "script": "extract_crasar_region.py",
+      "exit_code": 1,
+      "wall_seconds": 97.15093424999213
+    },
+    {
+      "script": "extract_crasar_region.py",
+      "exit_code": 1,
+      "wall_seconds": 1.8176712089916691
+    },
+    {
+      "script": "extract_crasar_region.py",
+      "exit_code": 0,
+      "wall_seconds": 12.186500458003138
+    },
+    {
+      "script": "qualify_crasar_region.py",
+      "exit_code": 0,
+      "wall_seconds": 1.8773447500134353
+    }
+  ],
+  "last_stage": "qualify_crasar_region.py",
+  "exit_code": 0
+}

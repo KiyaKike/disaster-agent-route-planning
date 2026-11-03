@@ -1,0 +1,226 @@
+[
+  {
+    "mode": "post",
+    "window": 0,
+    "forward_calls": 4,
+    "seconds": 1.8022740000014892,
+    "cache_sha256": "28c92283495e9b58448b63e782abe7fa6c5774862116f583ff4c831654b83e24"
+  },
+  {
+    "mode": "uas",
+    "window": 0,
+    "forward_calls": 4,
+    "seconds": 0.09777220799878705,
+    "cache_sha256": "dd9bc414d50d223e6de30ab3899cef6e0f9203479ba3b06a603854efda5f7745"
+  },
+  {
+    "mode": "post",
+    "window": 1,
+    "forward_calls": 4,
+    "seconds": 0.09424062500329455,
+    "cache_sha256": "5f45318bc86e32125f13fdd615ba8dc8ad7328e37255270d0b1ff0a038e92885"
+  },
+  {
+    "mode": "uas",
+    "window": 1,
+    "forward_calls": 4,
+    "seconds": 0.09168766699440312,
+    "cache_sha256": "4ef01e190cb83b459608a5ea241ecc962c560be2d83061e0190298504994d0ac"
+  },
+  {
+    "mode": "post",
+    "window": 2,
+    "forward_calls": 4,
+    "seconds": 0.0908472079972853,
+    "cache_sha256": "334a62ddfee24cee5bbc4fbb74047ccc67b5ad52796fda648a307141b81cef08"
+  },
+  {
+    "mode": "uas",
+    "window": 2,
+    "forward_calls": 4,
+    "seconds": 0.09374749999551568,
+    "cache_sha256": "a07b5eb3a97dd946b010ba692e42ac4793135b1f235717cbfed7897d59229e41"
+  },
+  {
+    "mode": "post",
+    "window": 3,
+    "forward_calls": 4,
+    "seconds": 0.09327979200315895,
+    "cache_sha256": "4962d2efbffd5fd723e086669bb8078589bf5fa94f5a6130b6ad9ba9431dc67b"
+  },
+  {
+    "mode": "uas",
+    "window": 3,
+    "forward_calls": 4,
+    "seconds": 0.09433387500030221,
+    "cache_sha256": "054bc2a7bb529c3a39ad53a2b982d7fe9e368c6537c940c3da134b7dd33c6a5c"
+  },
+  {
+    "mode": "post",
+    "window": 4,
+    "forward_calls": 4,
+    "seconds": 0.09501083299983293,
+    "cache_sha256": "4a0ee2f1b10c2646ffe38e91386c9695899f705b417e9f6f2128e8d132469ea4"
+  },
+  {
+    "mode": "uas",
+    "window": 4,
+    "forward_calls": 4,
+    "seconds": 0.09378087500226684,
+    "cache_sha256": "cdbb632bbf577c494e22b3d5c0fe80d3f7b1c255fb59192f35ac80945831679c"
+  },
+  {
+    "mode": "post",
+    "window": 5,
+    "forward_calls": 4,
+    "seconds": 0.09395679100271082,
+    "cache_sha256": "654e3a3bb2d269cfd30c85c1e134c7d0290faa5f0dd0763358a4d0b2675a33e1"
+  },
+  {
+    "mode": "uas",
+    "window": 5,
+    "forward_calls": 4,
+    "seconds": 0.09661720800067997,
+    "cache_sha256": "77e0597efec4094c7793607d10e45a99a1607750951ed57449e8d4c6d31f7cc7"
+  },
+  {
+    "mode": "post",
+    "window": 6,
+    "forward_calls": 4,
+    "seconds": 0.09345458300231257,
+    "cache_sha256": "e082f65d78467ba3d7a3a0c4f03b7c1d1a1d1940b5f237a206bf9e5c031c0063"
+  },
+  {
+    "mode": "uas",
+    "window": 6,
+    "forward_calls": 4,
+    "seconds": 0.09261400000104913,
+    "cache_sha256": "b421731d308b751e5a2a8e73995eee50e4e065280e99fbac55924cced45013d8"
+  },
+  {
+    "mode": "post",
+    "window": 7,
+    "forward_calls": 4,
+    "seconds": 0.09603062499809312,
+    "cache_sha256": "e7fc61661e6e50c007c14c793e0828b43825741f9de8d58eb541ee9488b32fdc"
+  },
+  {
+    "mode": "uas",
+    "window": 7,
+    "forward_calls": 4,
+    "seconds": 0.09421633400052087,
+    "cache_sha256": "1191c3eda110c165ebdf5ec9a4f27084d131ea51e164001386f47592c9e9766b"
+  },
+  {
+    "mode": "post",
+    "window": 8,
+    "forward_calls": 4,
+    "seconds": 0.09189329200307839,
+    "cache_sha256": "06cd88dd311ea0b6393f269e885c7bc20b5ea783b2bc7cb1da5e84ee1c50db75"
+  },
+  {
+    "mode": "uas",
+    "window": 8,
+    "forward_calls": 4,
+    "seconds": 0.0944905420037685,
+    "cache_sha256": "4968fce4235c5c922baa7ba74e2f8d6733b6320f1014692500e70cb9bc2e3ed6"
+  },
+  {
+    "mode": "post",
+    "window": 9,
+    "forward_calls": 4,
+    "seconds": 0.09653587500361027,
+    "cache_sha256": "4c1d0913a8cc43425d096f6eec588306af3d9f47981dc5bb6786e5c79ab1d037"
+  },
+  {
+    "mode": "uas",
+    "window": 9,
+    "forward_calls": 4,
+    "seconds": 0.0920668749968172,
+    "cache_sha256": "555f9e1271c70b886e9938e285b69a1e8b7ba9aa5ce6967d12a4a827a61ad35b"
+  },
+  {
+    "mode": "post",
+    "window": 10,
+    "forward_calls": 4,
+    "seconds": 0.09497591699619079,
+    "cache_sha256": "e27dc6e2b4567f35728c9fecfd2c06458a72e33b9c2afc97b472114ad5f06a75"
+  },
+  {
+    "mode": "uas",
+    "window": 10,
+    "forward_calls": 4,
+    "seconds": 0.09300166700268164,
+    "cache_sha256": "b3144438ef156b95a5f892211fd0945a70f17b103ecefe4e50c9010474522cff"
+  },
+  {
+    "mode": "post",
+    "window": 11,
+    "forward_calls": 4,
+    "seconds": 0.09393841700511985,
+    "cache_sha256": "e5ee8dbf8758889a7f696226fdeba11b558c9dc51c2dd1ac68efddcceb803b27"
+  },
+  {
+    "mode": "uas",
+    "window": 11,
+    "forward_calls": 4,
+    "seconds": 0.09206945899495622,
+    "cache_sha256": "bb18cbb0df9badefe8d3fa47bbdf72932423deb73c5ad21456deb55eccf56481"
+  },
+  {
+    "mode": "post",
+    "window": 12,
+    "forward_calls": 4,
+    "seconds": 0.0941364159953082,
+    "cache_sha256": "5fb1e7dcb5d5ca5811b3cedbf148dfe4956beb8f30bda671db786cf106bf9038"
+  },
+  {
+    "mode": "uas",
+    "window": 12,
+    "forward_calls": 4,
+    "seconds": 0.09370887499972014,
+    "cache_sha256": "60d533a0b4ce0c5ce6bd85408f5e190444d1a83141c33f716b79e936d784ed80"
+  },
+  {
+    "mode": "post",
+    "window": 13,
+    "forward_calls": 4,
+    "seconds": 0.09413445900281658,
+    "cache_sha256": "baf80be2621a9cf543e3b0b8ae9b1ad0e697df672a801273e7f9633a62080019"
+  },
+  {
+    "mode": "uas",
+    "window": 13,
+    "forward_calls": 4,
+    "seconds": 0.09372725000139326,
+    "cache_sha256": "a1360e54c9ea86b6732e0647890ab51094f4028087c871fd6cee1d9aec78e0da"
+  },
+  {
+    "mode": "post",
+    "window": 14,
+    "forward_calls": 4,
+    "seconds": 0.09324320800078567,
+    "cache_sha256": "db511b78d693dd9b689cf3e0631a27a26128f35577b4da06ddd542f961025693"
+  },
+  {
+    "mode": "uas",
+    "window": 14,
+    "forward_calls": 4,
+    "seconds": 0.09362400000100024,
+    "cache_sha256": "38717311fe47f0755858c41d979d8cdbf6889f9bceca29176b2fe3ef59834735"
+  },
+  {
+    "mode": "post",
+    "window": 15,
+    "forward_calls": 4,
+    "seconds": 0.0931769169983454,
+    "cache_sha256": "72caeacf8523dfc44f8e19f2ea1b84dd98df5ea4a275f814fd791c7f645b4f86"
+  },
+  {
+    "mode": "uas",
+    "window": 15,
+    "forward_calls": 4,
+    "seconds": 0.09697325000161072,
+    "cache_sha256": "50b59ece2d8aae0c6cfbb88d70dd15376c28d7d58271ec26fa3bf190f2e82ef7"
+  }
+]

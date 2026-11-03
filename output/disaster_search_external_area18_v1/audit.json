@@ -1,0 +1,24 @@
+{
+  "domain_scores_replayed": 16200,
+  "gate_vs_survey_changed_action_traces_by_budget": {
+    "8": 50,
+    "16": 380
+  },
+  "human_annotations_created": 0,
+  "independent_efficacy_claim": false,
+  "instances_created": 0,
+  "new_controller_fit": false,
+  "new_inference": 576,
+  "new_network_bytes": 30673,
+  "new_tests": 18,
+  "old_frozen_sources_unchanged": 113,
+  "old_reserved_sets_scored": false,
+  "paid_actions_verified": 74908,
+  "paid_gpu": false,
+  "reference_exact_ranges": 54,
+  "reference_masks": 18,
+  "sensor_cache_masks_verified": 576,
+  "status": "REFERENCE_RANGES_DECISIONS_AND_PIXEL_UNION_SCORES_REPLAYED",
+  "tests_passed": 262,
+  "trajectories_replayed": 8100
+}

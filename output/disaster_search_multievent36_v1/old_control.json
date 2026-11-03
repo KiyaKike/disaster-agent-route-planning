@@ -1,0 +1,33 @@
+{
+  "cache": {
+    "bounds": [
+      0,
+      0,
+      256,
+      256
+    ],
+    "cost": 4,
+    "mean_probability_sha256": "389069ab618c9c29349e7fc392ec54e6066cd01ec5f52293e21ce647d2e9d960",
+    "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_strongbaseline_local24_v1/cache/santa-rosa-wildfire_00000008_00.npz",
+    "prediction_pixel_sha256": "911996cb03daaf5c8d0fb3a7a182028e841e5cf22f521f3b8567b5c8b43517f1",
+    "sample_id": "santa-rosa-wildfire_00000008",
+    "sha256": "83b8518cdbc6b55c57b3d12870cd51d562a4d350ddd6513d63e48f5afc28b85c",
+    "tile_id": 0
+  },
+  "job": {
+    "event": "santa-rosa-wildfire",
+    "images": [
+      {
+        "mode": "pre",
+        "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000008/santa-rosa-wildfire_00000008_pre_disaster.png",
+        "sha256": "21823e41e04b6058d294fedd2a58e5b9dd68b3d98664e50bc779f82b8e82419d"
+      },
+      {
+        "mode": "post",
+        "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_v2/samples/santa-rosa-wildfire_00000008/santa-rosa-wildfire_00000008_post_disaster.png",
+        "sha256": "a457996f562ea597130994d1f7b5870b83ab19658b3f58bba93e872fb65aeacf"
+      }
+    ],
+    "sample_id": "santa-rosa-wildfire_00000008"
+  }
+}

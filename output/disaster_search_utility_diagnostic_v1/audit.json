@@ -1,0 +1,27 @@
+{
+  "all_aggregations_replayed": true,
+  "all_oracle_budgets_quality_maps_and_prerequisites_checked": true,
+  "all_saved_bound_certificates_checked": true,
+  "counts": {
+    "certified_optimal_oracles": 2160,
+    "factual_actions_replayed": 1623846,
+    "oracle_actions_replayed": 7997,
+    "oracle_threshold_replays": 6480,
+    "ranking_threshold_scores": 155520,
+    "selected_episodes_replayed": 51840,
+    "solver_certificates_checked": 319,
+    "upgrade_counterfactuals_replayed": 35034
+  },
+  "fixed_prediction_masks_verified": 9216,
+  "independent_uid_set_replay": true,
+  "new_inference_calls": 0,
+  "new_model_fits": 0,
+  "new_policy_selected": false,
+  "oracle_cases_checked": 2160,
+  "paid_gpu": false,
+  "previous_outputs_preserved": true,
+  "ranking_orders_checked": 17280,
+  "source_sha256": "a8a2a91689202124f54da9c81392b3008368af9073538b01ad81903193445e0b",
+  "stage": "UTILITY_FAILURE_AND_ORACLE_REPLAY_PASSED",
+  "validation_or_confirmation_scored": false
+}

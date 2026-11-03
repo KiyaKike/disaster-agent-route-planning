@@ -1,0 +1,91 @@
+{
+  "detectable_reference_events": 1,
+  "detectable_reference_scenes": 1,
+  "new_method_selected": false,
+  "primary_macro_per_scene": [
+    {
+      "budget": 8,
+      "covered_reference_pixels": 0.6222222222222221,
+      "domain": "all_published_pixels",
+      "events": 3,
+      "mean_pooled_recall_target_events": 0.0020527859237536657,
+      "policy": "prior_gate",
+      "reference_false_positive_pixels": 158.1888888888889,
+      "spent": 8.0,
+      "surveys": 7.833333333333333,
+      "target_events": 2,
+      "upgrades": 0.08333333333333333
+    },
+    {
+      "budget": 8,
+      "covered_reference_pixels": 0.6222222222222221,
+      "domain": "all_published_pixels",
+      "events": 3,
+      "mean_pooled_recall_target_events": 0.0020527859237536657,
+      "policy": "prior_survey",
+      "reference_false_positive_pixels": 158.1888888888889,
+      "spent": 8.0,
+      "surveys": 8.0,
+      "target_events": 2,
+      "upgrades": 0.0
+    },
+    {
+      "budget": 8,
+      "covered_reference_pixels": 5.238888888888889,
+      "domain": "all_published_pixels",
+      "events": 3,
+      "mean_pooled_recall_target_events": 0.017283724340175954,
+      "policy": "random_exact_expectation",
+      "reference_false_positive_pixels": 81.56111111111112,
+      "spent": 8.0,
+      "surveys": 8.0,
+      "target_events": 2,
+      "upgrades": 0.0
+    },
+    {
+      "budget": 8,
+      "covered_reference_pixels": 7.272222222222222,
+      "domain": "all_published_pixels",
+      "events": 3,
+      "mean_pooled_recall_target_events": 0.02399193548387097,
+      "policy": "random_survey",
+      "reference_false_positive_pixels": 82.31555555555555,
+      "spent": 8.0,
+      "surveys": 8.0,
+      "target_events": 2,
+      "upgrades": 0.0
+    }
+  ],
+  "raw_survey_over_random_exact_area_ratio": 0.1187698833510074,
+  "reference_positive_scenes": 5,
+  "reference_recall_is_not_physical_damage_accuracy": true,
+  "sensor_by_event": [
+    {
+      "blurred_covered_reference_pixels": 0,
+      "either_mode_positive_scenes": 0,
+      "event": "EARTHQUAKE-TURKEY",
+      "native_covered_reference_pixels": 0,
+      "reference_pixels": 16431,
+      "reference_positive_scenes": 3,
+      "scenes": 6
+    },
+    {
+      "blurred_covered_reference_pixels": 0,
+      "either_mode_positive_scenes": 1,
+      "event": "PAKISTAN-FLOODING",
+      "native_covered_reference_pixels": 915,
+      "reference_pixels": 2728,
+      "reference_positive_scenes": 2,
+      "scenes": 6
+    },
+    {
+      "blurred_covered_reference_pixels": 0,
+      "either_mode_positive_scenes": 0,
+      "event": "TEXAS-TORNADOES",
+      "native_covered_reference_pixels": 0,
+      "reference_pixels": 0,
+      "reference_positive_scenes": 0,
+      "scenes": 6
+    }
+  ]
+}

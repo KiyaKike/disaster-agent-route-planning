@@ -1,0 +1,13 @@
+{
+  "archive_cross_source_entry": "PIXEL_SUPPORT_CONFIRMED_ONLY",
+  "unknown_error_attribution_entry": "NOT_QUALIFIED",
+  "calibration_anchor": "NOT_ESTABLISHED",
+  "main_candidate_status": "STOPPED_AND_NOT_REOPENED",
+  "next_step": "Complete bounded admission review;do not add inference or route runs on this entry. Discuss new verifiable research scope before another algorithm candidate.",
+  "needed_to_reopen_physical_verification": [
+    "Same-building independent acquisitions with verified acquisition times/state assumptions",
+    "Common physical reference or defensible calibrated observation model",
+    "Specific method distinction beyond generic Bayesian/robust information value"
+  ],
+  "alternative_scope": "Archived cross-source evidence access under explicitly simulated motion costs;no automatic novelty or real-flight claim"
+}

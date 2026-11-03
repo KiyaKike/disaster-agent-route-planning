@@ -1,0 +1,15 @@
+{
+  "coarse_plus256_calls": 72,
+  "device": "mps",
+  "loop_seconds": 28.079042292025406,
+  "native256_calls": 72,
+  "new_calls_this_invocation": 146,
+  "new_fitting": false,
+  "new_network_bytes": 0,
+  "observations_sha256": "45d8f23ebf06fb103c5a2061bd9da3694741bfd905568c52d12f3542570fcd6a",
+  "paid_gpu": false,
+  "positive_control_calls": 2,
+  "reference_pixels_decoded_by_prediction": false,
+  "status": "COMPLETE",
+  "total_forward_calls": 146
+}

@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "split": "validation",
+  "episodes_replayed": 3024,
+  "steps_replayed": 52606,
+  "action_scores_and_neighborhood_shifts_recomputed": true,
+  "posteriors_anchored_to_original_prior": true,
+  "budget_unique_evidence_and_building_counts_recomputed": true,
+  "calibration_parameters_unchanged": true,
+  "test_used": false,
+  "source_parameters_sha256": "db3c3a77647b18009e2e192e187084c5148f39c24fb952a0f7b40420ea3fc600",
+  "report_sha256": "a3de8a56e253956d60e262f15e2a5f5234611c5142c9bf68dad32531b2b36798",
+  "traces_sha256": "9710d5c6f5c45a63563b559d090f4aaa0b6d9e1de72b00bbe3ec60783e566b25",
+  "unit_tests_passed": 58,
+  "canonical_validation_cache_checks": 3072,
+  "old_search_report_and_traces_unchanged": true
+}

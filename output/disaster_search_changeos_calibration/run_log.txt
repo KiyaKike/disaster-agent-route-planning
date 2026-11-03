@@ -1,0 +1,27 @@
+/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/.venv_inference/lib/python3.12/site-packages/torch/amp/autocast_mode.py:270: UserWarning: User provided device_type of 'cuda', but CUDA is not available. Disabling
+  warnings.warn(
+{"scene": "hurricane-harvey_00000392", "observations_done": 128, "device": "mps"}
+{"scene": "hurricane-harvey_00000406", "observations_done": 256, "device": "mps"}
+{"scene": "hurricane-harvey_00000098", "observations_done": 384, "device": "mps"}
+{"scene": "hurricane-harvey_00000242", "observations_done": 512, "device": "mps"}
+{"scene": "hurricane-harvey_00000066", "observations_done": 640, "device": "mps"}
+{"scene": "hurricane-harvey_00000158", "observations_done": 768, "device": "mps"}
+{"scene": "hurricane-harvey_00000189", "observations_done": 896, "device": "mps"}
+{"scene": "hurricane-harvey_00000008", "observations_done": 1024, "device": "mps"}
+{"scene": "hurricane-harvey_00000085", "observations_done": 1152, "device": "mps"}
+{"scene": "hurricane-harvey_00000268", "observations_done": 1280, "device": "mps"}
+{"scene": "hurricane-harvey_00000178", "observations_done": 1408, "device": "mps"}
+{"scene": "hurricane-harvey_00000505", "observations_done": 1536, "device": "mps"}
+{"scene": "santa-rosa-wildfire_00000220", "observations_done": 1664, "device": "mps"}
+{"scene": "santa-rosa-wildfire_00000125", "observations_done": 1792, "device": "mps"}
+{"scene": "santa-rosa-wildfire_00000079", "observations_done": 1920, "device": "mps"}
+{"scene": "santa-rosa-wildfire_00000023", "observations_done": 2048, "device": "mps"}
+{"scene": "santa-rosa-wildfire_00000056", "observations_done": 2176, "device": "mps"}
+{"scene": "santa-rosa-wildfire_00000196", "observations_done": 2304, "device": "mps"}
+{"scene": "santa-rosa-wildfire_00000177", "observations_done": 2432, "device": "mps"}
+{"scene": "santa-rosa-wildfire_00000151", "observations_done": 2560, "device": "mps"}
+{"scene": "santa-rosa-wildfire_00000169", "observations_done": 2688, "device": "mps"}
+{"scene": "santa-rosa-wildfire_00000182", "observations_done": 2816, "device": "mps"}
+{"scene": "santa-rosa-wildfire_00000035", "observations_done": 2944, "device": "mps"}
+{"scene": "santa-rosa-wildfire_00000039", "observations_done": 3072, "device": "mps"}
+{"stage": "COMPLETE_CALIBRATION_INFERENCE", "observations": 3072, "device": "mps", "this_run_loop_seconds": 129.5043632920133}

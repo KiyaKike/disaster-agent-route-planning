@@ -1,0 +1,76 @@
+{
+  "region": "1001-McGregor-College-Pkwy-South.1.geo.tif",
+  "capture_dates_author_catalog": {
+    "uas": "2022-10-01",
+    "pre": "2022-01-21",
+    "post": "2022-09-30"
+  },
+  "temporal_scope": "Published PRE/POST roles; UAS minus POST satellite gap1days. Dates are author metadata,not flight logs.",
+  "roi_area_m2": 16384,
+  "rgb_nonzero_support_fraction": {
+    "pre": 1.0,
+    "post": 0.9998140335083008,
+    "uas": 1.0
+  },
+  "shared_ids_all": 365,
+  "centroids_inside": 8,
+  "geometry_eligible": 6,
+  "private_eligible_label_histograms": {
+    "pre": {
+      "un-classified": 1,
+      "no damage": 5
+    },
+    "post": {
+      "no damage": 3,
+      "un-classified": 2,
+      "minor damage": 1
+    },
+    "uas": {
+      "major damage": 1,
+      "un-classified": 2,
+      "no damage": 3
+    }
+  },
+  "eligible_primary_targets": 1,
+  "internal_coordinate_checks": {
+    "pre": {
+      "median_vertex_residual_native_px": 0.7973408600384138,
+      "max_vertex_residual_native_px": 1.397952770642796,
+      "scope": "Internal polygon-coordinate consistency only, not image registration or survey accuracy"
+    },
+    "post": {
+      "median_vertex_residual_native_px": 0.7980939840229679,
+      "max_vertex_residual_native_px": 1.397952770642796,
+      "scope": "Internal polygon-coordinate consistency only, not image registration or survey accuracy"
+    },
+    "uas": {
+      "median_vertex_residual_native_px": 0.7872549934222186,
+      "max_vertex_residual_native_px": 1.39282820993897,
+      "scope": "Internal polygon-coordinate consistency only, not image registration or survey accuracy"
+    }
+  },
+  "image_feature_diagnostics": {
+    "pre_to_uas": {
+      "status": "INSUFFICIENT_CONSENSUS",
+      "matches": 7,
+      "largest_translation_consensus": 1,
+      "independent_absolute_accuracy": false
+    },
+    "post_to_uas": {
+      "status": "DIAGNOSTIC_ONLY",
+      "matches": 30,
+      "translation_consensus": 20,
+      "median_translation_m": [
+        -1.3381423950195312,
+        0.25017261505126953
+      ],
+      "median_direct_residual_m": 1.3825611539049252,
+      "independent_absolute_accuracy": false
+    }
+  },
+  "task_gate": "REGISTRATION_AND_SENSOR_REVIEW_REQUIRED",
+  "flight_execution_gate": "NOT_ESTABLISHED:no trajectory,pose,altitude,camera footprint,measured service/energy cost",
+  "new_model_calls": 0,
+  "method_gain_established": false,
+  "protocol_sha256": "14c262f44c8a0cfc623274bf6031a88b03d107af8ee1f4732e6732d9c9d3846e"
+}

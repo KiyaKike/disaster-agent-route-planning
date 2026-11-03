@@ -1,0 +1,20 @@
+{
+  "status": "PASS",
+  "region_resets_inspector": true,
+  "policy_resets_inspector": true,
+  "mobile": {
+    "width": 390,
+    "scrollWidth": 390,
+    "canvasWidth": 360
+  },
+  "js_errors": [],
+  "final_state": {
+    "region": "口岸",
+    "policy": "online_5",
+    "mode": "prior_evidence",
+    "frame": 15,
+    "observations": 10,
+    "closed": false,
+    "phase": "post"
+  }
+}

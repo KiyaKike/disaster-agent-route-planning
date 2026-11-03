@@ -1,0 +1,550 @@
+{
+  "stage": "CALIBRATION_PILOT_DIAGNOSTICS_ONLY",
+  "test_evaluation_run": false,
+  "observation_sha256": "1bbb20b1e47c61e02416192a9f1b154607242725eb75625237055402e61ed010",
+  "results_by_mode": {
+    "native": {
+      "n": 32,
+      "tp": 7,
+      "fp": 2,
+      "fn": 0,
+      "tn": 23,
+      "precision": 0.7777777777777778,
+      "recall": 1.0,
+      "false_positive_rate": 0.08,
+      "unknown_excluded": 0
+    },
+    "blurred": {
+      "n": 32,
+      "tp": 1,
+      "fp": 0,
+      "fn": 6,
+      "tn": 25,
+      "precision": 1.0,
+      "recall": 0.14285714285714285,
+      "false_positive_rate": 0.0,
+      "unknown_excluded": 0
+    }
+  },
+  "rows": [
+    {
+      "sample_id": "hurricane-harvey_00000392",
+      "cell_id": "r01c01",
+      "mode": "native",
+      "target": false,
+      "predicted": true,
+      "uncalibrated_score": 0.9986764192581177
+    },
+    {
+      "sample_id": "hurricane-harvey_00000392",
+      "cell_id": "r01c01",
+      "mode": "blurred",
+      "target": false,
+      "predicted": false,
+      "uncalibrated_score": 0.00040412606904283166
+    },
+    {
+      "sample_id": "hurricane-harvey_00000392",
+      "cell_id": "r01c05",
+      "mode": "native",
+      "target": true,
+      "predicted": true,
+      "uncalibrated_score": 0.9996640682220459
+    },
+    {
+      "sample_id": "hurricane-harvey_00000392",
+      "cell_id": "r01c05",
+      "mode": "blurred",
+      "target": true,
+      "predicted": true,
+      "uncalibrated_score": 0.9988927841186523
+    },
+    {
+      "sample_id": "hurricane-harvey_00000392",
+      "cell_id": "r03c01",
+      "mode": "native",
+      "target": false,
+      "predicted": false,
+      "uncalibrated_score": 0.0005302986828610301
+    },
+    {
+      "sample_id": "hurricane-harvey_00000392",
+      "cell_id": "r03c01",
+      "mode": "blurred",
+      "target": false,
+      "predicted": false,
+      "uncalibrated_score": 2.894633507821709e-05
+    },
+    {
+      "sample_id": "hurricane-harvey_00000392",
+      "cell_id": "r03c05",
+      "mode": "native",
+      "target": false,
+      "predicted": false,
+      "uncalibrated_score": 1.257052795189395e-10
+    },
+    {
+      "sample_id": "hurricane-harvey_00000392",
+      "cell_id": "r03c05",
+      "mode": "blurred",
+      "target": false,
+      "predicted": false,
+      "uncalibrated_score": 3.4971199547317866e-11
+    },
+    {
+      "sample_id": "hurricane-harvey_00000392",
+      "cell_id": "r05c01",
+      "mode": "native",
+      "target": false,
+      "predicted": false,
+      "uncalibrated_score": 1.8201082863100737e-09
+    },
+    {
+      "sample_id": "hurricane-harvey_00000392",
+      "cell_id": "r05c01",
+      "mode": "blurred",
+      "target": false,
+      "predicted": false,
+      "uncalibrated_score": 4.1969816511056024e-10
+    },
+    {
+      "sample_id": "hurricane-harvey_00000392",
+      "cell_id": "r05c05",
+      "mode": "native",
+      "target": false,
+      "predicted": false,
+      "uncalibrated_score": 5.06298165419139e-05
+    },
+    {
+      "sample_id": "hurricane-harvey_00000392",
+      "cell_id": "r05c05",
+      "mode": "blurred",
+      "target": false,
+      "predicted": false,
+      "uncalibrated_score": 0.0020172065123915672
+    },
+    {
+      "sample_id": "hurricane-harvey_00000392",
+      "cell_id": "r07c01",
+      "mode": "native",
+      "target": false,
+      "predicted": false,
+      "uncalibrated_score": 4.607608072859648e-09
+    },
+    {
+      "sample_id": "hurricane-harvey_00000392",
+      "cell_id": "r07c01",
+      "mode": "blurred",
+      "target": false,
+      "predicted": false,
+      "uncalibrated_score": 6.919368411573146e-10
+    },
+    {
+      "sample_id": "hurricane-harvey_00000392",
+      "cell_id": "r07c05",
+      "mode": "native",
+      "target": false,
+      "predicted": false,
+      "uncalibrated_score": 0.0005449161981232464
+    },
+    {
+      "sample_id": "hurricane-harvey_00000392",
+      "cell_id": "r07c05",
+      "mode": "blurred",
+      "target": false,
+      "predicted": false,
+      "uncalibrated_score": 2.0464932859454166e-08
+    },
+    {
+      "sample_id": "hurricane-harvey_00000406",
+      "cell_id": "r01c01",
+      "mode": "native",
+      "target": false,
+      "predicted": false,
+      "uncalibrated_score": 0.027810879051685333
+    },
+    {
+      "sample_id": "hurricane-harvey_00000406",
+      "cell_id": "r01c01",
+      "mode": "blurred",
+      "target": false,
+      "predicted": false,
+      "uncalibrated_score": 6.842634320491925e-06
+    },
+    {
+      "sample_id": "hurricane-harvey_00000406",
+      "cell_id": "r01c05",
+      "mode": "native",
+      "target": false,
+      "predicted": true,
+      "uncalibrated_score": 0.9752576947212219
+    },
+    {
+      "sample_id": "hurricane-harvey_00000406",
+      "cell_id": "r01c05",
+      "mode": "blurred",
+      "target": false,
+      "predicted": false,
+      "uncalibrated_score": 0.01325167901813984
+    },
+    {
+      "sample_id": "hurricane-harvey_00000406",
+      "cell_id": "r03c01",
+      "mode": "native",
+      "target": true,
+      "predicted": true,
+      "uncalibrated_score": 0.9997027516365051
+    },
+    {
+      "sample_id": "hurricane-harvey_00000406",
+      "cell_id": "r03c01",
+      "mode": "blurred",
+      "target": true,
+      "predicted": false,
+      "uncalibrated_score": 0.018494658172130585
+    },
+    {
+      "sample_id": "hurricane-harvey_00000406",
+      "cell_id": "r03c05",
+      "mode": "native",
+      "target": true,
+      "predicted": true,
+      "uncalibrated_score": 0.9962528347969055
+    },
+    {
+      "sample_id": "hurricane-harvey_00000406",
+      "cell_id": "r03c05",
+      "mode": "blurred",
+      "target": true,
+      "predicted": false,
+      "uncalibrated_score": 0.00045597724965773523
+    },
+    {
+      "sample_id": "hurricane-harvey_00000406",
+      "cell_id": "r05c01",
+      "mode": "native",
+      "target": true,
+      "predicted": true,
+      "uncalibrated_score": 0.9994252324104309
+    },
+    {
+      "sample_id": "hurricane-harvey_00000406",
+      "cell_id": "r05c01",
+      "mode": "blurred",
+      "target": true,
+      "predicted": false,
+      "uncalibrated_score": 0.09278728067874908
+    },
+    {
+      "sample_id": "hurricane-harvey_00000406",
+      "cell_id": "r05c05",
+      "mode": "native",
+      "target": true,
+      "predicted": true,
+      "uncalibrated_score": 0.9926722049713135
+    },
+    {
+      "sample_id": "hurricane-harvey_00000406",
+      "cell_id": "r05c05",
+      "mode": "blurred",
+      "target": true,
+      "predicted": false,
+      "uncalibrated_score": 8.981281280284747e-05
+    },
+    {
+      "sample_id": "hurricane-harvey_00000406",
+      "cell_id": "r07c01",
+      "mode": "native",
+      "target": true,
+      "predicted": true,
+      "uncalibrated_score": 0.9992894530296326
+    },
+    {
+      "sample_id": "hurricane-harvey_00000406",
+      "cell_id": "r07c01",
+      "mode": "blurred",
+      "target": true,
+      "predicted": false,
+      "uncalibrated_score": 0.01056053675711155
+    },
+    {
+      "sample_id": "hurricane-harvey_00000406",
+      "cell_id": "r07c05",
+      "mode": "native",
+      "target": false,
+      "predicted": false,
+      "uncalibrated_score": 7.710565341767506e-07
+    },
+    {
+      "sample_id": "hurricane-harvey_00000406",
+      "cell_id": "r07c05",
+      "mode": "blurred",
+      "target": false,
+      "predicted": false,
+      "uncalibrated_score": 1.9752430802100207e-09
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000220",
+      "cell_id": "r01c01",
+      "mode": "native",
+      "target": false,
+      "predicted": false,
+      "uncalibrated_score": 3.8386421818970007e-10
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000220",
+      "cell_id": "r01c01",
+      "mode": "blurred",
+      "target": false,
+      "predicted": false,
+      "uncalibrated_score": 4.1369397490997883e-11
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000220",
+      "cell_id": "r01c05",
+      "mode": "native",
+      "target": false,
+      "predicted": false,
+      "uncalibrated_score": 6.539924868320668e-08
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000220",
+      "cell_id": "r01c05",
+      "mode": "blurred",
+      "target": false,
+      "predicted": false,
+      "uncalibrated_score": 2.6987008823198266e-06
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000220",
+      "cell_id": "r03c01",
+      "mode": "native",
+      "target": false,
+      "predicted": false,
+      "uncalibrated_score": 0.00046534877037629485
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000220",
+      "cell_id": "r03c01",
+      "mode": "blurred",
+      "target": false,
+      "predicted": false,
+      "uncalibrated_score": 7.537951205449644e-07
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000220",
+      "cell_id": "r03c05",
+      "mode": "native",
+      "target": false,
+      "predicted": false,
+      "uncalibrated_score": 3.702294648633142e-08
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000220",
+      "cell_id": "r03c05",
+      "mode": "blurred",
+      "target": false,
+      "predicted": false,
+      "uncalibrated_score": 1.03446700094878e-08
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000220",
+      "cell_id": "r05c01",
+      "mode": "native",
+      "target": true,
+      "predicted": true,
+      "uncalibrated_score": 0.999834418296814
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000220",
+      "cell_id": "r05c01",
+      "mode": "blurred",
+      "target": true,
+      "predicted": false,
+      "uncalibrated_score": 0.000243567003053613
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000220",
+      "cell_id": "r05c05",
+      "mode": "native",
+      "target": false,
+      "predicted": false,
+      "uncalibrated_score": 0.00021653229487128556
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000220",
+      "cell_id": "r05c05",
+      "mode": "blurred",
+      "target": false,
+      "predicted": false,
+      "uncalibrated_score": 0.0001087129203369841
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000220",
+      "cell_id": "r07c01",
+      "mode": "native",
+      "target": false,
+      "predicted": false,
+      "uncalibrated_score": 6.969216337893158e-05
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000220",
+      "cell_id": "r07c01",
+      "mode": "blurred",
+      "target": false,
+      "predicted": false,
+      "uncalibrated_score": 0.00017052964540198445
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000220",
+      "cell_id": "r07c05",
+      "mode": "native",
+      "target": false,
+      "predicted": false,
+      "uncalibrated_score": 0.0006779756513424218
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000220",
+      "cell_id": "r07c05",
+      "mode": "blurred",
+      "target": false,
+      "predicted": false,
+      "uncalibrated_score": 5.264364517643116e-06
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000125",
+      "cell_id": "r01c01",
+      "mode": "native",
+      "target": false,
+      "predicted": false,
+      "uncalibrated_score": 1.4787977786756556e-10
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000125",
+      "cell_id": "r01c01",
+      "mode": "blurred",
+      "target": false,
+      "predicted": false,
+      "uncalibrated_score": 2.4353646210784063e-08
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000125",
+      "cell_id": "r01c05",
+      "mode": "native",
+      "target": false,
+      "predicted": false,
+      "uncalibrated_score": 5.720349236071343e-06
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000125",
+      "cell_id": "r01c05",
+      "mode": "blurred",
+      "target": false,
+      "predicted": false,
+      "uncalibrated_score": 9.390144441567827e-06
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000125",
+      "cell_id": "r03c01",
+      "mode": "native",
+      "target": false,
+      "predicted": false,
+      "uncalibrated_score": 5.63517096452415e-06
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000125",
+      "cell_id": "r03c01",
+      "mode": "blurred",
+      "target": false,
+      "predicted": false,
+      "uncalibrated_score": 4.0395806699677905e-09
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000125",
+      "cell_id": "r03c05",
+      "mode": "native",
+      "target": false,
+      "predicted": false,
+      "uncalibrated_score": 5.713619657399249e-07
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000125",
+      "cell_id": "r03c05",
+      "mode": "blurred",
+      "target": false,
+      "predicted": false,
+      "uncalibrated_score": 8.605499033365049e-07
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000125",
+      "cell_id": "r05c01",
+      "mode": "native",
+      "target": false,
+      "predicted": false,
+      "uncalibrated_score": 3.0909008685853223e-09
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000125",
+      "cell_id": "r05c01",
+      "mode": "blurred",
+      "target": false,
+      "predicted": false,
+      "uncalibrated_score": 2.2502538027380226e-11
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000125",
+      "cell_id": "r05c05",
+      "mode": "native",
+      "target": false,
+      "predicted": false,
+      "uncalibrated_score": 1.7235490759048844e-06
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000125",
+      "cell_id": "r05c05",
+      "mode": "blurred",
+      "target": false,
+      "predicted": false,
+      "uncalibrated_score": 5.440588257688006e-11
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000125",
+      "cell_id": "r07c01",
+      "mode": "native",
+      "target": false,
+      "predicted": false,
+      "uncalibrated_score": 7.609763486016163e-09
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000125",
+      "cell_id": "r07c01",
+      "mode": "blurred",
+      "target": false,
+      "predicted": false,
+      "uncalibrated_score": 7.028012394272309e-09
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000125",
+      "cell_id": "r07c05",
+      "mode": "native",
+      "target": false,
+      "predicted": false,
+      "uncalibrated_score": 1.6524589341315732e-07
+    },
+    {
+      "sample_id": "santa-rosa-wildfire_00000125",
+      "cell_id": "r07c05",
+      "mode": "blurred",
+      "target": false,
+      "predicted": false,
+      "uncalibrated_score": 1.7969324517252971e-07
+    }
+  ],
+  "limitations": [
+    "Only 32 predetermined cells from four calibration scenes; not a model benchmark.",
+    "No threshold or calibration fitted here; rule was fixed before inference.",
+    "Grid truth is assigned by building centroid, while predictions are pixel based; buildings crossing grid edges can create association mismatches.",
+    "Paired degradation modes share imagery and are correlated.",
+    "Checkpoint training exposure is expected. Do not interpret these values as unseen-event accuracy."
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "records": {
+    "pre": {
+      "annotation_path": "train/annotations/SATELLITE/building_damage_assessment/090402-DMS-Assessment-Sienna-Village.geo.tif_1030010066D17500.tif.geo.tif.json",
+      "alignment_path": "train/annotations/SATELLITE/building_alignment_adjustments/090402-DMS-Assessment-Sienna-Village.geo.tif_1030010066D17500.tif.geo.tif.json",
+      "alignment_vectors": 1,
+      "applied_alignment_vector_indices": [
+        0
+      ],
+      "alignment_rule": "Nearest published vector at each canonical destination pixel; discontinuities retained,not smoothed.",
+      "all_zero_pixel_fraction": 0.2928457260131836
+    },
+    "post": {
+      "annotation_path": "train/annotations/SATELLITE/building_damage_assessment/090402-DMS-Assessment-Sienna-Village.geo.tif_103001006F884000.tif.geo.tif.json",
+      "alignment_path": "train/annotations/SATELLITE/building_alignment_adjustments/090402-DMS-Assessment-Sienna-Village.geo.tif_103001006F884000.tif.geo.tif.json",
+      "alignment_vectors": 1,
+      "applied_alignment_vector_indices": [
+        0
+      ],
+      "alignment_rule": "Nearest published vector at each canonical destination pixel; discontinuities retained,not smoothed.",
+      "all_zero_pixel_fraction": 0.2896108627319336
+    },
+    "uas": {
+      "annotation_path": "train/annotations/UAS/building_damage_assessment/090402-DMS-Assessment-Sienna-Village.geo.tif.json",
+      "alignment_path": "train/annotations/UAS/building_alignment_adjustments/090402-DMS-Assessment-Sienna-Village.geo.tif.json",
+      "alignment_vectors": 2,
+      "roi_source": {
+        "overview_factor": 7.9986550100874245,
+        "effective_pixel_size_m": 0.15418296701713244,
+        "shape": [
+          2510,
+          4461
+        ],
+        "tile_indices": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          22,
+          23,
+          24,
+          25,
+          26,
+          40,
+          41,
+          42,
+          43,
+          44,
+          58,
+          59,
+          60,
+          61,
+          62,
+          76,
+          77,
+          78,
+          79,
+          80
+        ],
+        "additional_blocks": 0
+      },
+      "applied_alignment_vector_indices": [
+        0
+      ],
+      "alignment_rule": "Nearest published vector at each canonical destination pixel; discontinuities retained,not smoothed.",
+      "all_zero_pixel_fraction": 0.28980541229248047
+    }
+  },
+  "range_bytes": {
+    "uas": 25821184
+  },
+  "uas_total_file_bytes": 1609334905,
+  "full_uas_downloaded": false
+}

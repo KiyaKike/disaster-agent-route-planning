@@ -1,0 +1,10 @@
+{
+  "correction": "Cast audit catalogue cardinality to int64 before its integer cost calculation.",
+  "floating_solver_costs_checked": 65536,
+  "frozen_runner_sha256": "c9dfa519ef3b13127b7938bb0f448ac85565ec96eece18e7c70e37b8fd9f35d4",
+  "masks_with_wrapped_audit_cost": 697,
+  "reason": "uint8 subset cardinality times integer20 wraps for13-16visits;core solver uses float20.and is unaffected.",
+  "resumed_auditor_sha256": "16ec0c6724f035134b5ceb15b18e4688d0e1833571bea5302ec373c73af33f77",
+  "scope": "Independent audit-only integer arithmetic correction;frozen solver and all route/score inputs unchanged.",
+  "solutions_sha256_before": "991af576e0067bfa60b3524207d15cdb2c1b42753d8d603342a5912d217380e7"
+}

@@ -1,0 +1,12 @@
+{
+  "controller_fitting": false,
+  "exact_random_scene_domain_scores": 432,
+  "full512_calls_at_budget8": 0,
+  "full_coverage_scene_domain_scores": 144,
+  "old_mixed_quality_scores_reused_as_comparison": false,
+  "paid_acquisitions": 7740,
+  "ranked_acquisition_records": 2160,
+  "ranked_domain_scores": 4320,
+  "scene_domain_policy_means": 864,
+  "trajectory_sha256": "056608285c81e17b8c6cf5dac5dddda5af5d331118c1f451fea036e3647d6ce5"
+}

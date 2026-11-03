@@ -1,0 +1,13 @@
+{
+  "decision": "Released sensor GSD retained as source metadata;not used to infer PNG pixel spacing or meter distances.",
+  "interpretation": "Conservative modeling decision/inference,not a correction of publisher metadata or a claim of known conversion factor.",
+  "meters_reported": false,
+  "new_geometry_labels_downloaded": false,
+  "physical_pixel_spacing_verified": false,
+  "reason": "No verified image geotransform. Source paper describes roughly0.5m imagery while selected capture fields range1.77-2.97;their identity to PNG ground pixel spacing has not been established.",
+  "sources": [
+    "https://arxiv.org/html/1911.09296",
+    "https://huggingface.co/datasets/isp-uv-es/xview2-taco"
+  ],
+  "supersedes": "Any preliminary metric_scope wording in capture_metadata.json;main route protocol uses normalized image-grid distances only."
+}

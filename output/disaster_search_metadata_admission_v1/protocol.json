@@ -1,0 +1,116 @@
+{
+  "cache_root": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_taco_v1/ranges",
+  "event_diversity": "Reuse already published development-only sensor health; do not inspect reserved damage or targets to enlarge event diversity.",
+  "geometry_criteria": {
+    "max_even_odd_ring_cross_prediction_px": 1.0,
+    "max_in_sample_inverse_residual_px": 1.0,
+    "max_normalized_design_condition": 100.0,
+    "max_p95_in_sample_inverse_residual_px": 0.5,
+    "min_axis_span_fraction": 0.25,
+    "min_convex_hull_area_fraction": 0.1,
+    "min_distinct_vertices": 6,
+    "min_relative_overlap_area": 1e-06,
+    "min_rings": 2,
+    "padding_px": 2.0
+  },
+  "identity_roles": "Use author's exact6177 train/tier3 IDs, not the larger TACO tier3 pool; selection-test933 separate. Original hold933 remains identity-disjoint from both. Published recipe is evidence, not a per-SGD training log.",
+  "interpretation": "INFERRED post-image ranges ONLY. Residuals and cross-prediction check internal geometric consistency, not official geolocation accuracy or full pre-image alignment. Overlap flags are screening evidence; no overlap never certifies pixel independence, especially with unavailable training ranges. No candidate replacement or score-based exclusion.",
+  "license_evidence": "Inventory pinned source/model card declarations only. No legal permission or redistribution clearance inferred from a repackager's card.",
+  "network_byte_cap": 0,
+  "new_inference_calls": 0,
+  "outputs": [
+    "geometry_models.json",
+    "candidate_ledger.json",
+    "report.json",
+    "admission_gates.json"
+  ],
+  "paid_gpu": false,
+  "projected_columns": [
+    "ml:polygon_xy",
+    "ml:polygon_len",
+    "ml:polygon_lnglat",
+    "ml:polygon_lnglat_len",
+    "ml:height",
+    "ml:width"
+  ],
+  "protected_columns": [
+    "ml:damage",
+    "ml:n_buildings",
+    "ml:n_buildings_pre"
+  ],
+  "source_code_sha256": {
+    "audit_hold_spatial.py": "a09130de0449356460bcfd6e5055ad89939601ffeb64d15dddeb8baf11438a33",
+    "audit_hold_taco.py": "f348b944f4bd5331612e9fa4f47ef6463374953c3f9903daef173c5130aacf86",
+    "audit_metadata_admission.py": "ca8f6e566bfdae6ffdd316f803b846b91fc06ad2b53e64e80edd03cb0aff51a8",
+    "audit_xbd_membership.py": "1950f8b34c91392d716208dbacaa3b15acce4aa62499fb1eff76e2a66da015fd",
+    "build_xbd_mini.py": "080c23c373b59827acf78f3bfd421c85a14e6407094ce871dfaeed5e55c3e501",
+    "inferred_scene_geometry.py": "460280b82725fdb3b91faeb60f58af0ceb240d09a6c1f6ab46e877f4d187d0ed",
+    "plan_search_v2.py": "3f88219832ca8d3939d5cbc38919974d1932f4b941e1248c208534493254b83b",
+    "run_metadata_admission_audit.py": "157df48525b73ffbc57f19a4922b5e6cc88231f5a0a422e246e53986760a2084",
+    "test_inferred_scene_geometry.py": "b8f9ad886339c41a3ee83b5eacc1269390f46a5b000df2738ea9b2536a6bfc59"
+  },
+  "source_revision": "44e219dc1d88c9d0903d6b478d7f2f3c435e574f",
+  "source_scope": "Project cached paired polygon and dimension columns only. Fit geometric transforms for the exact216 candidate scenes plus author's train/tier3 and checkpoint-selection test identities. No new images, damage, counts, detector inference, controller fitting or policy scores.",
+  "sources": {
+    "author_ids": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_data_admission_v1/author_split_ids.json",
+      "sha256": "d60d89219847292051e9d96e92cb32e1ba6931f6689cc2677693e675203a83fe"
+    },
+    "cohort": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_v2_design/cohort_selection.json",
+      "sha256": "4119345fdfc0587c55cd8558ac2bc78a0a2041556e0e6fd7a4bcadcfaf011ad0"
+    },
+    "collection": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_taco_v1/collection.json",
+      "sha256": "18ae47fa8090209ec259072861c4a868f4b11d19284eabe6144b5629706539db"
+    },
+    "contract": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_v2_design/experiment_contract_v2_2.json",
+      "sha256": "452de54015d0c717819553487885007d8aabc82751499387d17b0ba2044919c0"
+    },
+    "development_health": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_fit_v1/development_health.json",
+      "sha256": "f5af1b71b9b324051266b07330e1a44164fd9f58363452bfdfb2ec69f86a1e05"
+    },
+    "identities": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_taco_v1/identity_rows.json",
+      "sha256": "58f746dc7d0f53571ae65329cad2a8091796b8072f7e0b820f958373876c7b19"
+    },
+    "membership": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_data_admission_v1/membership_report.json",
+      "sha256": "529408aca79ce3d64b1d8880264a48adfcf0802e611db3b0b092ac9854e58afc"
+    },
+    "model_card": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/changeos_swint/README.md",
+      "sha256": "3544a3ed097d47013a5d7aaa8f3a4a7faa6999d759feb7c729108c99448d0044"
+    },
+    "model_manifest": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/work/disaster_search/attachments/external/huggingface/changeos_swint/model_manifest.json",
+      "sha256": "2c1b7cda3e37d05c9f26cfa60098ea43e7aa2b7bf65cdc19dedad1396dd5c5ce"
+    },
+    "old_spatial": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_spatial_v1/report.json",
+      "sha256": "07cdee090d3a17ccd4fc168ef108010573e60983ca9a8fcdc66ea3b4ebb5a6f7"
+    },
+    "prior_receipt": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_rank_calibration_v1/completion_receipt.json",
+      "sha256": "927839863ad8bb6f9161dd7ee94b56e7724b252241ad054ff7ee80e471d13993"
+    },
+    "selection_receipt": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_v2_design/selection_receipt.json",
+      "sha256": "a7c77bddd378d0f582633c2983d9db27580d1e42da846b447746394eec5c35d0"
+    },
+    "source_card": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_taco_v1/dataset_card.md",
+      "sha256": "6241b421335368d1f3a08bca0c2868243c8cce06243b1a10aff6766dc8f7233f"
+    },
+    "source_identity_audit": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_taco_v1/report.json",
+      "sha256": "53df2aebea70690b99cab2c202d623e4804c23e1abc77eabf1bccbe62600ac84"
+    }
+  },
+  "stage": "OFFLINE_METADATA_ADMISSION_AUDIT",
+  "transform": "One affine normalized pixel-to-centered lon/lat least-squares fit using original vertex/ring order; no matching/rotation search. Object even/odd cross-prediction in both directions; inverse pixel residual and spread criteria. Corners [0,width]x[0,height], plus a separately reported2px padded screen. Thresholds fixed before fitting.",
+  "validation_or_confirmation_scoring": false,
+  "whole_cohort_automatically_admitted": false
+}

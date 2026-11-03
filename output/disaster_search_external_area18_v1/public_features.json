@@ -1,0 +1,1190 @@
+{
+  "EARTHQUAKE-TURKEY_000237": {
+    "r00c00": {
+      "change": 0.2235294117647059,
+      "coarse_nonzero_fraction": 0.0
+    },
+    "r00c01": {
+      "change": 0.5705882352941177,
+      "coarse_nonzero_fraction": 0.0
+    },
+    "r00c02": {
+      "change": 0.5588235294117647,
+      "coarse_nonzero_fraction": 0.0
+    },
+    "r00c03": {
+      "change": 0.5990196078431372,
+      "coarse_nonzero_fraction": 0.0
+    },
+    "r01c00": {
+      "change": 0.5777777777777777,
+      "coarse_nonzero_fraction": 0.0
+    },
+    "r01c01": {
+      "change": 0.6594771241830065,
+      "coarse_nonzero_fraction": 0.0
+    },
+    "r01c02": {
+      "change": 0.5437908496732026,
+      "coarse_nonzero_fraction": 0.03125
+    },
+    "r01c03": {
+      "change": 0.47091503267973855,
+      "coarse_nonzero_fraction": 0.0625
+    },
+    "r02c00": {
+      "change": 0.15098039215686276,
+      "coarse_nonzero_fraction": 0.98828125
+    },
+    "r02c01": {
+      "change": 0.18725490196078431,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r02c02": {
+      "change": 0.27712418300653596,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r02c03": {
+      "change": 0.23692810457516342,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r03c00": {
+      "change": 0.050980392156862744,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r03c01": {
+      "change": 0.07254901960784313,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r03c02": {
+      "change": 0.21209150326797385,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r03c03": {
+      "change": 0.3320261437908497,
+      "coarse_nonzero_fraction": 1.0
+    }
+  },
+  "EARTHQUAKE-TURKEY_003472": {
+    "r00c00": {
+      "change": 0.4924836601307189,
+      "coarse_nonzero_fraction": 0.0
+    },
+    "r00c01": {
+      "change": 0.3859477124183006,
+      "coarse_nonzero_fraction": 0.0
+    },
+    "r00c02": {
+      "change": 0.34444444444444444,
+      "coarse_nonzero_fraction": 0.0
+    },
+    "r00c03": {
+      "change": 0.3310457516339869,
+      "coarse_nonzero_fraction": 0.0
+    },
+    "r01c00": {
+      "change": 0.42091503267973857,
+      "coarse_nonzero_fraction": 0.0
+    },
+    "r01c01": {
+      "change": 0.41732026143790846,
+      "coarse_nonzero_fraction": 0.0
+    },
+    "r01c02": {
+      "change": 0.34411764705882353,
+      "coarse_nonzero_fraction": 0.0
+    },
+    "r01c03": {
+      "change": 0.34019607843137256,
+      "coarse_nonzero_fraction": 0.0
+    },
+    "r02c00": {
+      "change": 0.3454248366013072,
+      "coarse_nonzero_fraction": 0.0
+    },
+    "r02c01": {
+      "change": 0.33235294117647063,
+      "coarse_nonzero_fraction": 0.0
+    },
+    "r02c02": {
+      "change": 0.3310457516339869,
+      "coarse_nonzero_fraction": 0.0
+    },
+    "r02c03": {
+      "change": 0.3320261437908497,
+      "coarse_nonzero_fraction": 0.09765625
+    },
+    "r03c00": {
+      "change": 0.2366013071895425,
+      "coarse_nonzero_fraction": 0.0
+    },
+    "r03c01": {
+      "change": 0.39673202614379083,
+      "coarse_nonzero_fraction": 0.00390625
+    },
+    "r03c02": {
+      "change": 0.2823529411764706,
+      "coarse_nonzero_fraction": 0.37109375
+    },
+    "r03c03": {
+      "change": 0.13496732026143793,
+      "coarse_nonzero_fraction": 0.9296875
+    }
+  },
+  "EARTHQUAKE-TURKEY_005459": {
+    "r00c00": {
+      "change": 0.23300653594771242,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r00c01": {
+      "change": 0.20947712418300654,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r00c02": {
+      "change": 0.2647058823529412,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r00c03": {
+      "change": 0.215359477124183,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r01c00": {
+      "change": 0.32712418300653595,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r01c01": {
+      "change": 0.3212418300653595,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r01c02": {
+      "change": 0.365359477124183,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r01c03": {
+      "change": 0.2503267973856209,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r02c00": {
+      "change": 0.19901960784313724,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r02c01": {
+      "change": 0.2918300653594771,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r02c02": {
+      "change": 0.2045751633986928,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r02c03": {
+      "change": 0.2859477124183007,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r03c00": {
+      "change": 0.21274509803921568,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r03c01": {
+      "change": 0.2669934640522876,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r03c02": {
+      "change": 0.21307189542483662,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r03c03": {
+      "change": 0.3009803921568628,
+      "coarse_nonzero_fraction": 1.0
+    }
+  },
+  "EARTHQUAKE-TURKEY_006807": {
+    "r00c00": {
+      "change": 0.16993464052287582,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r00c01": {
+      "change": 0.12287581699346405,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r00c02": {
+      "change": 0.13464052287581701,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r00c03": {
+      "change": 0.15065359477124185,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r01c00": {
+      "change": 0.17908496732026144,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r01c01": {
+      "change": 0.19607843137254902,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r01c02": {
+      "change": 0.19477124183006536,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r01c03": {
+      "change": 0.040522875816993466,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r02c00": {
+      "change": 0.24215686274509804,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r02c01": {
+      "change": 0.1542483660130719,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r02c02": {
+      "change": 0.1477124183006536,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r02c03": {
+      "change": 0.12320261437908496,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r03c00": {
+      "change": 0.17385620915032682,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r03c01": {
+      "change": 0.25424836601307194,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r03c02": {
+      "change": 0.1437908496732026,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r03c03": {
+      "change": 0.17908496732026144,
+      "coarse_nonzero_fraction": 1.0
+    }
+  },
+  "EARTHQUAKE-TURKEY_012987": {
+    "r00c00": {
+      "change": 0.2473856209150327,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r00c01": {
+      "change": 0.25,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r00c02": {
+      "change": 0.26045751633986924,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r00c03": {
+      "change": 0.26013071895424833,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r01c00": {
+      "change": 0.17908496732026144,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r01c01": {
+      "change": 0.2042483660130719,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r01c02": {
+      "change": 0.19901960784313727,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r01c03": {
+      "change": 0.2908496732026144,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r02c00": {
+      "change": 0.21339869281045754,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r02c01": {
+      "change": 0.2084967320261438,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r02c02": {
+      "change": 0.24084967320261438,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r02c03": {
+      "change": 0.2725490196078431,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r03c00": {
+      "change": 0.2761437908496732,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r03c01": {
+      "change": 0.20163398692810458,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r03c02": {
+      "change": 0.25980392156862747,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r03c03": {
+      "change": 0.20163398692810458,
+      "coarse_nonzero_fraction": 1.0
+    }
+  },
+  "EARTHQUAKE-TURKEY_015741": {
+    "r00c00": {
+      "change": 0.16993464052287582,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r00c01": {
+      "change": 0.12941176470588237,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r00c02": {
+      "change": 0.17450980392156865,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r00c03": {
+      "change": 0.1437908496732026,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r01c00": {
+      "change": 0.1934640522875817,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r01c01": {
+      "change": 0.19705882352941176,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r01c02": {
+      "change": 0.1428104575163399,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r01c03": {
+      "change": 0.11372549019607843,
+      "coarse_nonzero_fraction": 0.97265625
+    },
+    "r02c00": {
+      "change": 0.25,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r02c01": {
+      "change": 0.17058823529411765,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r02c02": {
+      "change": 0.10620915032679738,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r02c03": {
+      "change": 0.18333333333333332,
+      "coarse_nonzero_fraction": 0.7578125
+    },
+    "r03c00": {
+      "change": 0.23398692810457516,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r03c01": {
+      "change": 0.10718954248366012,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r03c02": {
+      "change": 0.10196078431372549,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r03c03": {
+      "change": 0.2,
+      "coarse_nonzero_fraction": 0.4921875
+    }
+  },
+  "PAKISTAN-FLOODING_003197": {
+    "r00c00": {
+      "change": 0.20130718954248367,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r00c01": {
+      "change": 0.16405228758169935,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r00c02": {
+      "change": 0.1477124183006536,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r00c03": {
+      "change": 0.1326797385620915,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r01c00": {
+      "change": 0.1892156862745098,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r01c01": {
+      "change": 0.19607843137254902,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r01c02": {
+      "change": 0.21241830065359477,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r01c03": {
+      "change": 0.09836601307189542,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r02c00": {
+      "change": 0.20392156862745098,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r02c01": {
+      "change": 0.16993464052287582,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r02c02": {
+      "change": 0.1411764705882353,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r02c03": {
+      "change": 0.1516339869281046,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r03c00": {
+      "change": 0.21568627450980393,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r03c01": {
+      "change": 0.1931372549019608,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r03c02": {
+      "change": 0.1823529411764706,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r03c03": {
+      "change": 0.16241830065359478,
+      "coarse_nonzero_fraction": 1.0
+    }
+  },
+  "PAKISTAN-FLOODING_004697": {
+    "r00c00": {
+      "change": 0.15620915032679739,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r00c01": {
+      "change": 0.16339869281045752,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r00c02": {
+      "change": 0.1284313725490196,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r00c03": {
+      "change": 0.2366013071895425,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r01c00": {
+      "change": 0.15359477124183005,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r01c01": {
+      "change": 0.10490196078431373,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r01c02": {
+      "change": 0.2235294117647059,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r01c03": {
+      "change": 0.11895424836601307,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r02c00": {
+      "change": 0.22516339869281046,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r02c01": {
+      "change": 0.11405228758169934,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r02c02": {
+      "change": 0.12581699346405228,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r02c03": {
+      "change": 0.11274509803921569,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r03c00": {
+      "change": 0.18333333333333332,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r03c01": {
+      "change": 0.15098039215686276,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r03c02": {
+      "change": 0.17777777777777778,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r03c03": {
+      "change": 0.20751633986928103,
+      "coarse_nonzero_fraction": 1.0
+    }
+  },
+  "PAKISTAN-FLOODING_006998": {
+    "r00c00": {
+      "change": 0.21209150326797385,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r00c01": {
+      "change": 0.0784313725490196,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r00c02": {
+      "change": 0.20522875816993466,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r00c03": {
+      "change": 0.20294117647058824,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r01c00": {
+      "change": 0.2222222222222222,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r01c01": {
+      "change": 0.08921568627450979,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r01c02": {
+      "change": 0.22516339869281046,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r01c03": {
+      "change": 0.26666666666666666,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r02c00": {
+      "change": 0.2457516339869281,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r02c01": {
+      "change": 0.2774509803921569,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r02c02": {
+      "change": 0.27058823529411763,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r02c03": {
+      "change": 0.26666666666666666,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r03c00": {
+      "change": 0.08104575163398693,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r03c01": {
+      "change": 0.27875816993464053,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r03c02": {
+      "change": 0.32679738562091504,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r03c03": {
+      "change": 0.23431372549019608,
+      "coarse_nonzero_fraction": 1.0
+    }
+  },
+  "PAKISTAN-FLOODING_013475": {
+    "r00c00": {
+      "change": 0.14901960784313725,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r00c01": {
+      "change": 0.26176470588235295,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r00c02": {
+      "change": 0.2212418300653595,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r00c03": {
+      "change": 0.1568627450980392,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r01c00": {
+      "change": 0.15718954248366013,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r01c01": {
+      "change": 0.26143790849673204,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r01c02": {
+      "change": 0.2522875816993464,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r01c03": {
+      "change": 0.20784313725490197,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r02c00": {
+      "change": 0.15555555555555556,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r02c01": {
+      "change": 0.20947712418300654,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r02c02": {
+      "change": 0.26666666666666666,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r02c03": {
+      "change": 0.23594771241830065,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r03c00": {
+      "change": 0.1437908496732026,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r03c01": {
+      "change": 0.11666666666666667,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r03c02": {
+      "change": 0.20294117647058824,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r03c03": {
+      "change": 0.19771241830065361,
+      "coarse_nonzero_fraction": 1.0
+    }
+  },
+  "PAKISTAN-FLOODING_014536": {
+    "r00c00": {
+      "change": 0.11241830065359477,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r00c01": {
+      "change": 0.18366013071895423,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r00c02": {
+      "change": 0.22254901960784312,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r00c03": {
+      "change": 0.3026143790849673,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r01c00": {
+      "change": 0.18169934640522878,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r01c01": {
+      "change": 0.21437908496732025,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r01c02": {
+      "change": 0.28660130718954246,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r01c03": {
+      "change": 0.24183006535947713,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r02c00": {
+      "change": 0.18169934640522878,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r02c01": {
+      "change": 0.23169934640522877,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r02c02": {
+      "change": 0.25620915032679736,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r02c03": {
+      "change": 0.180718954248366,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r03c00": {
+      "change": 0.16470588235294117,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r03c01": {
+      "change": 0.27058823529411763,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r03c02": {
+      "change": 0.3215686274509804,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r03c03": {
+      "change": 0.23039215686274508,
+      "coarse_nonzero_fraction": 1.0
+    }
+  },
+  "PAKISTAN-FLOODING_017841": {
+    "r00c00": {
+      "change": 0.22647058823529412,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r00c01": {
+      "change": 0.18954248366013074,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r00c02": {
+      "change": 0.2718954248366013,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r00c03": {
+      "change": 0.30457516339869284,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r01c00": {
+      "change": 0.18954248366013074,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r01c01": {
+      "change": 0.253921568627451,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r01c02": {
+      "change": 0.28496732026143795,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r01c03": {
+      "change": 0.3084967320261438,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r02c00": {
+      "change": 0.23006535947712417,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r02c01": {
+      "change": 0.19248366013071896,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r02c02": {
+      "change": 0.29444444444444445,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r02c03": {
+      "change": 0.257843137254902,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r03c00": {
+      "change": 0.18562091503267975,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r03c01": {
+      "change": 0.2065359477124183,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r03c02": {
+      "change": 0.2803921568627451,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r03c03": {
+      "change": 0.24705882352941178,
+      "coarse_nonzero_fraction": 1.0
+    }
+  },
+  "TEXAS-TORNADOES_000325": {
+    "r00c00": {
+      "change": 0.115359477124183,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r00c01": {
+      "change": 0.11895424836601307,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r00c02": {
+      "change": 0.11241830065359477,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r00c03": {
+      "change": 0.11928104575163398,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r01c00": {
+      "change": 0.14673202614379086,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r01c01": {
+      "change": 0.17549019607843136,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r01c02": {
+      "change": 0.11405228758169934,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r01c03": {
+      "change": 0.13104575163398693,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r02c00": {
+      "change": 0.184640522875817,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r02c01": {
+      "change": 0.11143790849673202,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r02c02": {
+      "change": 0.08104575163398693,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r02c03": {
+      "change": 0.16209150326797386,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r03c00": {
+      "change": 0.18333333333333332,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r03c01": {
+      "change": 0.16862745098039217,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r03c02": {
+      "change": 0.13496732026143793,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r03c03": {
+      "change": 0.12973856209150328,
+      "coarse_nonzero_fraction": 1.0
+    }
+  },
+  "TEXAS-TORNADOES_002697": {
+    "r00c00": {
+      "change": 0.12679738562091505,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r00c01": {
+      "change": 0.12450980392156863,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r00c02": {
+      "change": 0.1454248366013072,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r00c03": {
+      "change": 0.14248366013071898,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r01c00": {
+      "change": 0.09084967320261438,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r01c01": {
+      "change": 0.10196078431372549,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r01c02": {
+      "change": 0.10882352941176471,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r01c03": {
+      "change": 0.1437908496732026,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r02c00": {
+      "change": 0.0892156862745098,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r02c01": {
+      "change": 0.07352941176470588,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r02c02": {
+      "change": 0.10065359477124183,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r02c03": {
+      "change": 0.15457516339869282,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r03c00": {
+      "change": 0.1480392156862745,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r03c01": {
+      "change": 0.14705882352941177,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r03c02": {
+      "change": 0.18169934640522878,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r03c03": {
+      "change": 0.19901960784313724,
+      "coarse_nonzero_fraction": 1.0
+    }
+  },
+  "TEXAS-TORNADOES_002969": {
+    "r00c00": {
+      "change": 0.09313725490196079,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r00c01": {
+      "change": 0.11895424836601307,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r00c02": {
+      "change": 0.12810457516339868,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r00c03": {
+      "change": 0.1428104575163399,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r01c00": {
+      "change": 0.026143790849673203,
+      "coarse_nonzero_fraction": 0.375
+    },
+    "r01c01": {
+      "change": 0.050980392156862744,
+      "coarse_nonzero_fraction": 0.375
+    },
+    "r01c02": {
+      "change": 0.03529411764705882,
+      "coarse_nonzero_fraction": 0.375
+    },
+    "r01c03": {
+      "change": 0.05947712418300653,
+      "coarse_nonzero_fraction": 0.375
+    },
+    "r02c00": {
+      "change": 0.0,
+      "coarse_nonzero_fraction": 0.0
+    },
+    "r02c01": {
+      "change": 0.0,
+      "coarse_nonzero_fraction": 0.0
+    },
+    "r02c02": {
+      "change": 0.0,
+      "coarse_nonzero_fraction": 0.0
+    },
+    "r02c03": {
+      "change": 0.0,
+      "coarse_nonzero_fraction": 0.0
+    },
+    "r03c00": {
+      "change": 0.0,
+      "coarse_nonzero_fraction": 0.0
+    },
+    "r03c01": {
+      "change": 0.0,
+      "coarse_nonzero_fraction": 0.0
+    },
+    "r03c02": {
+      "change": 0.0,
+      "coarse_nonzero_fraction": 0.0
+    },
+    "r03c03": {
+      "change": 0.0,
+      "coarse_nonzero_fraction": 0.0
+    }
+  },
+  "TEXAS-TORNADOES_003987": {
+    "r00c00": {
+      "change": 0.1477124183006536,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r00c01": {
+      "change": 0.19869281045751633,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r00c02": {
+      "change": 0.1477124183006536,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r00c03": {
+      "change": 0.17026143790849674,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r01c00": {
+      "change": 0.16339869281045752,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r01c01": {
+      "change": 0.20947712418300654,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r01c02": {
+      "change": 0.16633986928104577,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r01c03": {
+      "change": 0.1607843137254902,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r02c00": {
+      "change": 0.09967320261437908,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r02c01": {
+      "change": 0.0957516339869281,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r02c02": {
+      "change": 0.09836601307189542,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r02c03": {
+      "change": 0.13496732026143793,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r03c00": {
+      "change": 0.11895424836601307,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r03c01": {
+      "change": 0.11797385620915032,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r03c02": {
+      "change": 0.18594771241830066,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r03c03": {
+      "change": 0.14640522875816994,
+      "coarse_nonzero_fraction": 1.0
+    }
+  },
+  "TEXAS-TORNADOES_004417": {
+    "r00c00": {
+      "change": 0.17908496732026144,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r00c01": {
+      "change": 0.16339869281045752,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r00c02": {
+      "change": 0.18594771241830066,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r00c03": {
+      "change": 0.1584967320261438,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r01c00": {
+      "change": 0.13954248366013072,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r01c01": {
+      "change": 0.08137254901960785,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r01c02": {
+      "change": 0.17385620915032682,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r01c03": {
+      "change": 0.15294117647058825,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r02c00": {
+      "change": 0.15588235294117647,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r02c01": {
+      "change": 0.165359477124183,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r02c02": {
+      "change": 0.16111111111111112,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r02c03": {
+      "change": 0.13398692810457516,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r03c00": {
+      "change": 0.15555555555555556,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r03c01": {
+      "change": 0.19117647058823528,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r03c02": {
+      "change": 0.17418300653594773,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r03c03": {
+      "change": 0.1130718954248366,
+      "coarse_nonzero_fraction": 1.0
+    }
+  },
+  "TEXAS-TORNADOES_004813": {
+    "r00c00": {
+      "change": 0.13986928104575164,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r00c01": {
+      "change": 0.13333333333333333,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r00c02": {
+      "change": 0.06830065359477124,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r00c03": {
+      "change": 0.20588235294117646,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r01c00": {
+      "change": 0.1477124183006536,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r01c01": {
+      "change": 0.1392156862745098,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r01c02": {
+      "change": 0.09836601307189542,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r01c03": {
+      "change": 0.2522875816993464,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r02c00": {
+      "change": 0.11764705882352941,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r02c01": {
+      "change": 0.12712418300653597,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r02c02": {
+      "change": 0.09836601307189542,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r02c03": {
+      "change": 0.13464052287581701,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r03c00": {
+      "change": 0.1084967320261438,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r03c01": {
+      "change": 0.13202614379084968,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r03c02": {
+      "change": 0.11928104575163398,
+      "coarse_nonzero_fraction": 1.0
+    },
+    "r03c03": {
+      "change": 0.17777777777777778,
+      "coarse_nonzero_fraction": 1.0
+    }
+  }
+}

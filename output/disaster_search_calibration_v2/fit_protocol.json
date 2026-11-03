@@ -1,0 +1,10 @@
+{
+  "version": "real_calibration_fit_v1",
+  "split": "calibration",
+  "sensor": "Separate native/blurred likelihoods from fixed declared_target vs raster-visible presence; exclude null truth. Beta(0.5,0.5) posterior means for sensitivity and false-positive rate.",
+  "prior": "Four equal-frequency raw-change bins, quantile edges computed from image-only scores for all calibration cells. Each bin presence frequency shrunk toward the global Jeffreys-smoothed prevalence with 8 pseudo-observations. Null truths excluded from rate fitting.",
+  "correlation": "Each base cell occurs once per mode. Modes are not pooled as independent evidence; image registry keeps one representative per base cell. No binomial confidence intervals across correlated cells.",
+  "quality": "Mode is a controlled image degradation, not a measured real-world image-quality estimator. Do not use unknown future observation quality to select actions.",
+  "validation": "No threshold tuning, no validation/test labels. Event-specific diagnostics do not change chosen parameters. Calibrated parameter name means fitted on calibration split, not verified out of sample.",
+  "boundary_protocol": "raster_visibility_v2, motivated posthoc by pilot. Cell presence includes visible boundary fragments of >=4 pixels; unique building discovery uses separate deduplicated evaluator."
+}

@@ -1,0 +1,162 @@
+{
+  "authorized_new_fit": "Only aggregate source-model isotonic projection. Prior decision no-fit flags described its completed stage; this follow-up was authorized by the user's continue instruction. No new detector/controller training.",
+  "budgets": [
+    8,
+    16,
+    32
+  ],
+  "cross_action_ties": "Strict per-cost score; only exact equality uses the fixed cell tie rank. No EPS, no zero-utility stop, no new native shortcut.",
+  "expected_threshold_scores": 1088640,
+  "expected_trajectories": 362880,
+  "fit_scopes": {
+    "development_fit": "Project frozen all72 aggregate means; entire grid; in-sample.",
+    "event_holdout": "Project ONLY other-two-development-events frozen aggregate means; mixed,cost2,B32. Already inspected development data, not independent validation."
+  },
+  "interpretation_and_stop": "Rank-only recovery is baseline repair. If isotonic pricing has no positive held-development primary gain over both unprojected rank control and raw negative gate, stop this calibration variant; do not tune another mapping on these72. Any positive development gain remains provisional and requires event/tie sensitivity, strong related baselines and independent-data admission; it does not select a new method or reopen validation automatically.",
+  "limits": [
+    "Only two development events yield cached detections; keep Mexico and all empty scenes.",
+    "Raw-change monotonicity is a control constraint, not an established property of held truth.",
+    "Full-image independence unverified, detector training-event exposure, synthetic quality and observation-only costs remain."
+  ],
+  "new_inference_calls": 0,
+  "new_method_selected": false,
+  "paid_gpu": false,
+  "policies": [
+    "rank_survey",
+    "rank_negative_unprojected",
+    "rank_negative_isotonic"
+  ],
+  "policy_definitions": {
+    "rank_negative_isotonic": "Same raw survey order; projected monotone survey prices and unchanged negative-upgrade prices. Difference from unprojected isolates price projection.",
+    "rank_negative_unprojected": "Restore raw survey order; original nonmonotone count survey prices and original negative-upgrade prices.",
+    "rank_survey": "Isotonic values, no upgrades; must reproduce original raw-survey actions/outcomes exactly, ignoring changed utility field."
+  },
+  "positive_revisit_policy_still_stopped": true,
+  "primary": {
+    "budget": 32,
+    "scenario": "mixed_survey",
+    "threshold": 0.1,
+    "tie_rule": "fixed_random",
+    "upgrade_cost": 2
+  },
+  "projection": "Separately by native/blurred: weighted least squares nondecreasing isotonic projection of four frozen shrunken survey means, weights known_cells+8; frozen quantile edges. No outcome-based hyperparameter selection.",
+  "quality_seeds": [
+    20261025,
+    20261026,
+    20261027,
+    20261028,
+    20261029
+  ],
+  "random_order_seeds": [
+    20261030,
+    20261031,
+    20261032,
+    20261033,
+    20261034,
+    20261035,
+    20261036,
+    20261037,
+    20261038,
+    20261039
+  ],
+  "references": [
+    "prior_survey",
+    "prior_gate",
+    "count_survey",
+    "count_negative"
+  ],
+  "scenarios": [
+    "native_survey",
+    "mixed_survey",
+    "blurred_survey"
+  ],
+  "source_code_sha256": {
+    "audit_development_budget_controls.py": "d911b1847a5464fe392f2b76b7689f294f3d84b086f1956f746172e98bcaa2ef",
+    "audit_rank_calibration_control.py": "7c072a9b8912cc24a48058bf17afea0d3c318fa7ffa5e98d35cc7cafefc39521",
+    "build_xbd_mini.py": "080c23c373b59827acf78f3bfd421c85a14e6407094ce871dfaeed5e55c3e501",
+    "cross_cell_count_smoke.py": "4312afc1ac40d33210ee15a8cc91464d6620b5fd638e437e47d1db1b5d1fbc0c",
+    "paired_count_baseline.py": "b04ea42f2e9880b67d054ae76df98b0ddb7c3f4ca49a4ff462de803cafe67818",
+    "plan_search_v2.py": "3f88219832ca8d3939d5cbc38919974d1932f4b941e1248c208534493254b83b",
+    "rank_preserving_calibration.py": "b05648db94afa8aeca125d557625d27eaa5c4ffb5213fab6c208a0b0230d6997",
+    "run_budget_planning.py": "75734fac1c2c4d65cf2980c7eb7a6749c769ebe7902c7c90f01d640c21005bd2",
+    "run_development_budget_controls.py": "baca8a89a7b1ceef36670b406fd0cbabf8a3818b72dc2c387644c3ce0afed53e",
+    "run_rank_calibration_control.py": "c0fd2a267e491b09633e86c87a2aa34783d92104260ef9642dbae6110bb3ac9e",
+    "run_unified_revisit_controls.py": "5f60d12c40d946bff3552fc6cda7947b7da179883fd47c613f6eebf5b1e9e159",
+    "run_utility_tie_controls.py": "29f532e6ab62cc175398af6b8d4ad03203d42b2207818c094c30c7db0726cf4d",
+    "test_rank_preserving_calibration.py": "8434f72e765cea274f5564d4bd4e8cb5081584ce19fc72308f301343429fa7ca"
+  },
+  "sources": {
+    "association": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_perception_v1/association_report.json",
+      "sha256": "59c51a09e2c46eeac0c778de1dd9af2771f72bee5ff526ac967c0a6fb75fbffc"
+    },
+    "contract": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_v2_design/experiment_contract_v2_2.json",
+      "sha256": "452de54015d0c717819553487885007d8aabc82751499387d17b0ba2044919c0"
+    },
+    "diagnostic_receipt": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_utility_diagnostic_v1/completion_receipt.json",
+      "sha256": "99eb0e0349a570ba82b34000ca2d4d728e014ef5da122201a9dbf38e6f2a1de8"
+    },
+    "features": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_development72_budget_controls_v1/public_features.json",
+      "sha256": "ce768154dd129816ff5ecf30042fbd60e621e04a0e93dcad90f36cdc42cb2e27"
+    },
+    "model_receipt": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_development72_budget_controls_v1/completion_receipt.json",
+      "sha256": "14534c581054e6fb613cb97d0a4012fec8a6b3decfe53e26358610378094bed2"
+    },
+    "models": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_development72_budget_controls_v1/models.json",
+      "sha256": "c9566ab3c6aaa920e1baf62d3093c28e6bea121e5d85c8c78965b01d59390350"
+    },
+    "observations": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_hold_development72_perception_v1/observations.json",
+      "sha256": "30aca3da060f9fd6acfdc6e73efea0c593360765b455150195cbfbc02f2556e2"
+    },
+    "previous_decision": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_utility_diagnostic_v1/next_step_decision.json",
+      "sha256": "4e343694fa7063574f8fd1a900402f3ef2fb498f411f6263fb6d5950ab1fb1dc"
+    },
+    "reference_trajectories": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_unified_revisit_v1/trajectories.jsonl.gz",
+      "sha256": "007d92587c5d33b1209c782677129eea2a1440cf75faea28802575157269f933"
+    },
+    "references": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_unified_revisit_v1/scene_means.json",
+      "sha256": "9d367b94fe4de157d29803ee69629979ed584747f6b54c3fdc95f12fc9d2836b"
+    },
+    "selection": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_v2_design/next_development_batch.json",
+      "sha256": "0b93aa296f53276f508a4d2dd4fcfa122f93578f3f3e939ee731d350021569c8"
+    },
+    "spatial": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_cross_cell_smoke_v1/spatial_groups.json",
+      "sha256": "d8a2dc9fe8d4120ade4ccd07b6ea6411d6fda24a596f848d2823ddfba1ba654a"
+    },
+    "unified_receipt": {
+      "path": "/Users/bethany/Documents/ChatGPT/复现论文/output/disaster_search_unified_revisit_v1/completion_receipt.json",
+      "sha256": "fe607694e42d453f166f659b051c675c0de578ad3cc3b0cb744279a922425c08"
+    }
+  },
+  "stage": "DEVELOPMENT72_RANK_PRESERVING_CALIBRATION_CONTROL",
+  "statistics": "Average all quality/order repetitions within scene, scenes within event, then events equally. All thresholds and settings reported. No seeds treated as independent disasters.",
+  "survey_rank": "Hard constraint: every survey subsequence is a prefix of descending public raw change, with the established tie permutation for EXACT raw ties. Always offer only next unseen raw-ranked survey, including in the nonmonotone unprojected control.",
+  "thresholds": [
+    0.05,
+    0.1,
+    0.25
+  ],
+  "tie_rules": [
+    "row_major",
+    "raw_change",
+    "fixed_random"
+  ],
+  "upgrade_costs": [
+    1,
+    2,
+    4
+  ],
+  "upgrade_model": "Unchanged source-fitted conditional B-negative native-minus-blurred same-cell count divided by upgrade cost. This is NOT a new global opportunity-cost estimator. B-positive upgrades remain disabled.",
+  "validation_or_confirmation_access": false
+}

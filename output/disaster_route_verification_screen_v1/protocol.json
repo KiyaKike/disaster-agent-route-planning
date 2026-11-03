@@ -1,0 +1,36 @@
+{
+  "status": "FROZEN_BEFORE_COMPUTATION",
+  "problem_sha256": "bdaae73467bc25f43890c25d3561de4087c268b656351c958fd37fc44c3aabaf",
+  "grid": {
+    "budget": [
+      3,
+      4,
+      5
+    ],
+    "rho": [
+      "0",
+      "1/2",
+      "1"
+    ],
+    "probe_cost": [
+      "0",
+      "1/2",
+      "1",
+      "2"
+    ],
+    "probe_accuracy": [
+      "1/2",
+      "4/5",
+      "1"
+    ]
+  },
+  "primary": [
+    4,
+    "0",
+    "0",
+    "1"
+  ],
+  "new_method_claim": false,
+  "real_observation_model": false,
+  "scope": "Exact within two-tail,at-most-one-calibration policy family;not unrestricted POMDP optimality"
+}

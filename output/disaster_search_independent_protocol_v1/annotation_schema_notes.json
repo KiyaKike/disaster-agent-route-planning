@@ -1,0 +1,20 @@
+{
+  "building_example_SCHEMA_NOT_OBSERVATION": {
+    "damage": "no-damage OR minor-damage OR major-damage OR destroyed OR unknown",
+    "identity_source": "human_traced OR original_polygon_human_verified",
+    "instance_id": "scene-local-derived-ID",
+    "notes": "uncertainty, boundary truncation and source evidence",
+    "post_polygon_xy": "list of at least3 [x,y] vertices, coordinates0..512"
+  },
+  "limitation": "Structural validation cannot prove a person reviewed the scene or establish expert annotation quality; record real provenance and independently examine geometry/matching.",
+  "review_required": [
+    "whole-scene building inventory",
+    "visible post-damage grade including unknown",
+    "individual post-image polygon and scene-local instance ID",
+    "pre/post image hashes",
+    "first and distinct second reviewer",
+    "prediction-blind review and adjudication"
+  ],
+  "review_status": "NOT_STARTED -> REVIEWED only after actual whole-scene review; second_review status ADJUDICATED requires distinct actual reviewer.",
+  "status": "SPECIFICATION_ONLY_NO_HUMAN_ANNOTATIONS"
+}

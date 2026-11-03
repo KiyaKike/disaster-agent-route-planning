@@ -1,0 +1,11 @@
+{
+  "plot_viewed": true,
+  "plot_sha256": "1efa791cb5635e13254afcf916c5e77b11f035021c307f6b7ab504bb342361b4",
+  "checks": [
+    "Both pooled and positive-scene mean curves visible",
+    "All four acquisition budgets shown;primary25% marked",
+    "Labels and legends legible",
+    "Oracle explicitly labelled diagnostic bound"
+  ],
+  "new_damage_annotations": 0
+}

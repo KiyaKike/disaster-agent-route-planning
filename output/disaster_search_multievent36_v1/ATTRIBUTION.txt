@@ -1,0 +1,4 @@
+xBD/TACO source representation,isp-uv-es/xview2-taco@44e219dc1d88c9d0903d6b478d7f2f3c435e574f.
+DisasterAdaptiveNet authors StrongBaseline event checkpoint,code@fada4e791766f810dc815a4e82d52f2bb27116c6.
+Published label references only;originalUID/prelocalization truth not recovered;no new human annotations.
+No redistribution-rights claim.

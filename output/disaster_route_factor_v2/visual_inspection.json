@@ -1,0 +1,10 @@
+{
+  "client_date": "2026-11-02",
+  "all_three_figures_viewed": true,
+  "files": {
+    "figures/factor_budget.png": "645da660dd881c97a141139836a67f32193722a19a62e8419df8d9f06cd7ed32",
+    "figures/factor_feedback_deltas.png": "5c66ae7f659df36875d00aba6d9f70561ed02e32a5feb331a1ec8b5a48467b94",
+    "figures/strong_route_examples.png": "3b88692530642e391e6cc4f110434fea3fddaf0b56a25c2e4ba445a1ddeddc1d"
+  },
+  "inspection": "Viewed all three PNGs. Axes,titles,legends and18-condition annotations are legible without material clipping. All figures explicitly label simulation. The fixed Port example retains zero detections for post static and online. Both capped and time-only budget curves are shown."
+}

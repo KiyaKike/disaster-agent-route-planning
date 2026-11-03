@@ -1,0 +1,23 @@
+{
+  "all_36_case_options_available": true,
+  "asset_files_verified": 216,
+  "browser_and_figure_verified": true,
+  "browser_configuration_checks": 33,
+  "browser_screenshots_viewed": 2,
+  "checks": [
+    "Real imagery,model evidence and evaluator reference distinguished.",
+    "All3 events retained,including all-zero detector opportunity.",
+    "Two map organizations switch without route changes.",
+    "Proxy grid/time units and missing physical constraints labeled.",
+    "All cached browser image assets decode."
+  ],
+  "client_date": "2026-11-02",
+  "figure_and_screenshot_sha256": {
+    "browser_checks/real_geometry_semantic.png": "86ea225d5d2274ee12515471ea5c4d18acb7d2a9269d9aa0e02ead8cbbaedf6d",
+    "browser_checks/real_nepal_end.png": "9e0368ad61d78137a805ddb2d9263a91f7308fea7a5d1b0440b9d8030ac75f25",
+    "figures/fixed_real_examples.png": "8685265aeb4c982c4c454c0cf74ed1026e62708f25b4d2f0d10f393ddb54b677",
+    "figures/real_route_budget.png": "35427644e90deca1094a1585b00e68a9e3fb5396f1451be9192b3a3308310e34"
+  },
+  "reference_toggle_changes_route": false,
+  "scientific_figures_viewed": 2
+}

@@ -1,0 +1,17 @@
+{
+  "coarse_only_calls": 18,
+  "device": "mps",
+  "loop_seconds_this_invocation": 231.04107620898867,
+  "native_patch_calls": 864,
+  "new_calls_this_invocation": 884,
+  "new_fitting": false,
+  "new_network_bytes": 0,
+  "new_search_trajectories": 0,
+  "observations": 882,
+  "observations_sha256": "9d39eaf1447e0f8188d24e2ee476e1df81c56df63e0fb6b4d7e5390daabaa5c1",
+  "paid_gpu": false,
+  "positive_control_calls": 2,
+  "reference_pixels_decoded_by_prediction": false,
+  "status": "COMPLETE",
+  "total_forward_calls": 884
+}

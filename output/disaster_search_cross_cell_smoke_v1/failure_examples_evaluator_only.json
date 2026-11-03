@@ -1,0 +1,2114 @@
+[
+  {
+    "boundary_distinct_found": 3,
+    "boundary_evaluator_only_actions": [
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r00c02",
+        "cost": 1,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r00c03",
+        "cost": 2,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r00c04",
+        "cost": 3,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r00c05",
+        "cost": 4,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r00c06",
+        "cost": 5,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r00c07",
+        "cost": 6,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r01c02",
+        "cost": 7,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 1
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r01c03",
+        "cost": 8,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r01c04",
+        "cost": 9,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r01c05",
+        "cost": 10,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r01c06",
+        "cost": 11,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r01c07",
+        "cost": 12,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r02c03",
+        "cost": 13,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r02c04",
+        "cost": 14,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r02c05",
+        "cost": 15,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r02c06",
+        "cost": 16,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r02c07",
+        "cost": 17,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r03c04",
+        "cost": 18,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r03c05",
+        "cost": 19,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r03c06",
+        "cost": 20,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r03c07",
+        "cost": 21,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r04c05",
+        "cost": 22,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r04c06",
+        "cost": 23,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r05c01",
+        "cost": 24,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 2
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r05c03",
+        "cost": 25,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r05c04",
+        "cost": 26,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r05c05",
+        "cost": 27,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r05c06",
+        "cost": 28,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r05c07",
+        "cost": 29,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r06c04",
+        "cost": 30,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r06c06",
+        "cost": 31,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r06c07",
+        "cost": 32,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      }
+    ],
+    "boundary_selected_cell": "r02c03",
+    "common_prefix_cost": 12,
+    "first_divergence_action_number": 13,
+    "local_candidate_boundary_contact": true,
+    "local_candidate_discount_if_boundary_policy": 0.6055555555555555,
+    "local_distinct_found": 5,
+    "local_evaluator_only_actions": [
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r00c02",
+        "cost": 1,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r00c03",
+        "cost": 2,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r00c04",
+        "cost": 3,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r00c05",
+        "cost": 4,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r00c06",
+        "cost": 5,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r00c07",
+        "cost": 6,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r01c02",
+        "cost": 7,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 1
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r01c03",
+        "cost": 8,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r01c04",
+        "cost": 9,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r01c05",
+        "cost": 10,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r01c06",
+        "cost": 11,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r01c07",
+        "cost": 12,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 1,
+        "cell_id": "r02c02",
+        "cost": 13,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 2
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r02c03",
+        "cost": 14,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r02c04",
+        "cost": 15,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r02c05",
+        "cost": 16,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r02c06",
+        "cost": 17,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r02c07",
+        "cost": 18,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r03c04",
+        "cost": 19,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r03c05",
+        "cost": 20,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r03c06",
+        "cost": 21,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r03c07",
+        "cost": 22,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r04c05",
+        "cost": 23,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r04c06",
+        "cost": 24,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r05c01",
+        "cost": 25,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 2
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r05c03",
+        "cost": 26,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r05c04",
+        "cost": 27,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r05c05",
+        "cost": 28,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r05c06",
+        "cost": 29,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r05c07",
+        "cost": 30,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r06c04",
+        "cost": 31,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r06c06",
+        "cost": 32,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      }
+    ],
+    "local_selected_cell": "r02c02",
+    "quality_seed": 20261025,
+    "sample_id": "santa-rosa-wildfire_00000266"
+  },
+  {
+    "boundary_distinct_found": 1,
+    "boundary_evaluator_only_actions": [
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r00c02",
+        "cost": 1,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r00c03",
+        "cost": 2,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r00c04",
+        "cost": 3,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r00c05",
+        "cost": 4,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r00c06",
+        "cost": 5,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r00c07",
+        "cost": 6,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r01c02",
+        "cost": 7,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 1
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r01c03",
+        "cost": 8,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r01c04",
+        "cost": 9,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r01c05",
+        "cost": 10,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r01c06",
+        "cost": 11,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r01c07",
+        "cost": 12,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r02c03",
+        "cost": 13,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r02c04",
+        "cost": 14,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r02c05",
+        "cost": 15,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r02c06",
+        "cost": 16,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r02c07",
+        "cost": 17,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r03c04",
+        "cost": 18,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r03c05",
+        "cost": 19,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r03c06",
+        "cost": 20,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r03c07",
+        "cost": 21,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r04c05",
+        "cost": 22,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r04c06",
+        "cost": 23,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r05c01",
+        "cost": 24,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r05c03",
+        "cost": 25,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r05c04",
+        "cost": 26,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r05c05",
+        "cost": 27,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r05c06",
+        "cost": 28,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r05c07",
+        "cost": 29,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r06c04",
+        "cost": 30,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r06c06",
+        "cost": 31,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r06c07",
+        "cost": 32,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      }
+    ],
+    "boundary_selected_cell": "r02c03",
+    "common_prefix_cost": 12,
+    "first_divergence_action_number": 13,
+    "local_candidate_boundary_contact": true,
+    "local_candidate_discount_if_boundary_policy": 0.6055555555555555,
+    "local_distinct_found": 3,
+    "local_evaluator_only_actions": [
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r00c02",
+        "cost": 1,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r00c03",
+        "cost": 2,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r00c04",
+        "cost": 3,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r00c05",
+        "cost": 4,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r00c06",
+        "cost": 5,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r00c07",
+        "cost": 6,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r01c02",
+        "cost": 7,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 1
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r01c03",
+        "cost": 8,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r01c04",
+        "cost": 9,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r01c05",
+        "cost": 10,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r01c06",
+        "cost": 11,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r01c07",
+        "cost": 12,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 1,
+        "cell_id": "r02c02",
+        "cost": 13,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 2
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r02c03",
+        "cost": 14,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r02c04",
+        "cost": 15,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r02c05",
+        "cost": 16,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r02c06",
+        "cost": 17,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r02c07",
+        "cost": 18,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r03c04",
+        "cost": 19,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r03c05",
+        "cost": 20,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r03c06",
+        "cost": 21,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r03c07",
+        "cost": 22,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r04c05",
+        "cost": 23,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r04c06",
+        "cost": 24,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r05c01",
+        "cost": 25,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r05c03",
+        "cost": 26,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r05c04",
+        "cost": 27,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r05c05",
+        "cost": 28,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r05c06",
+        "cost": 29,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r05c07",
+        "cost": 30,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r06c04",
+        "cost": 31,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r06c06",
+        "cost": 32,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      }
+    ],
+    "local_selected_cell": "r02c02",
+    "quality_seed": 20261026,
+    "sample_id": "santa-rosa-wildfire_00000266"
+  },
+  {
+    "boundary_distinct_found": 3,
+    "boundary_evaluator_only_actions": [
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r00c02",
+        "cost": 1,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r00c03",
+        "cost": 2,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r00c04",
+        "cost": 3,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r00c05",
+        "cost": 4,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r00c06",
+        "cost": 5,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r00c07",
+        "cost": 6,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r01c02",
+        "cost": 7,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 1
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r01c03",
+        "cost": 8,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r01c04",
+        "cost": 9,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r01c05",
+        "cost": 10,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r01c06",
+        "cost": 11,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r01c07",
+        "cost": 12,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r02c03",
+        "cost": 13,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r02c04",
+        "cost": 14,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r02c05",
+        "cost": 15,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r02c06",
+        "cost": 16,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r02c07",
+        "cost": 17,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r03c04",
+        "cost": 18,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r03c05",
+        "cost": 19,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r03c06",
+        "cost": 20,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r03c07",
+        "cost": 21,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r04c05",
+        "cost": 22,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r04c06",
+        "cost": 23,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r05c01",
+        "cost": 24,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 2
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r05c03",
+        "cost": 25,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r05c04",
+        "cost": 26,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r05c05",
+        "cost": 27,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r05c06",
+        "cost": 28,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r05c07",
+        "cost": 29,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r06c04",
+        "cost": 30,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r06c06",
+        "cost": 31,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r06c07",
+        "cost": 32,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      }
+    ],
+    "boundary_selected_cell": "r02c03",
+    "common_prefix_cost": 12,
+    "first_divergence_action_number": 13,
+    "local_candidate_boundary_contact": true,
+    "local_candidate_discount_if_boundary_policy": 0.6055555555555555,
+    "local_distinct_found": 3,
+    "local_evaluator_only_actions": [
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r00c02",
+        "cost": 1,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r00c03",
+        "cost": 2,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r00c04",
+        "cost": 3,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r00c05",
+        "cost": 4,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r00c06",
+        "cost": 5,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r00c07",
+        "cost": 6,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r01c02",
+        "cost": 7,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 1
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r01c03",
+        "cost": 8,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r01c04",
+        "cost": 9,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r01c05",
+        "cost": 10,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r01c06",
+        "cost": 11,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r01c07",
+        "cost": 12,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r02c02",
+        "cost": 13,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r02c03",
+        "cost": 14,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r02c04",
+        "cost": 15,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r02c05",
+        "cost": 16,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r02c06",
+        "cost": 17,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r02c07",
+        "cost": 18,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r03c04",
+        "cost": 19,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r03c05",
+        "cost": 20,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r03c06",
+        "cost": 21,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r03c07",
+        "cost": 22,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r04c05",
+        "cost": 23,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r04c06",
+        "cost": 24,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r05c01",
+        "cost": 25,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 2
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r05c03",
+        "cost": 26,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r05c04",
+        "cost": 27,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r05c05",
+        "cost": 28,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r05c06",
+        "cost": 29,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r05c07",
+        "cost": 30,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r06c04",
+        "cost": 31,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r06c06",
+        "cost": 32,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      }
+    ],
+    "local_selected_cell": "r02c02",
+    "quality_seed": 20261027,
+    "sample_id": "santa-rosa-wildfire_00000266"
+  },
+  {
+    "boundary_distinct_found": 1,
+    "boundary_evaluator_only_actions": [
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r00c02",
+        "cost": 1,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r00c03",
+        "cost": 2,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r00c04",
+        "cost": 3,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r00c05",
+        "cost": 4,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r00c06",
+        "cost": 5,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r00c07",
+        "cost": 6,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r01c02",
+        "cost": 7,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 1
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r01c03",
+        "cost": 8,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r01c04",
+        "cost": 9,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r01c05",
+        "cost": 10,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r01c06",
+        "cost": 11,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r01c07",
+        "cost": 12,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r02c03",
+        "cost": 13,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r02c04",
+        "cost": 14,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r02c05",
+        "cost": 15,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r02c06",
+        "cost": 16,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r02c07",
+        "cost": 17,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r03c04",
+        "cost": 18,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r03c05",
+        "cost": 19,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r03c06",
+        "cost": 20,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r03c07",
+        "cost": 21,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r04c05",
+        "cost": 22,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r04c06",
+        "cost": 23,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r05c01",
+        "cost": 24,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r05c03",
+        "cost": 25,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r05c04",
+        "cost": 26,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r05c05",
+        "cost": 27,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r05c06",
+        "cost": 28,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r05c07",
+        "cost": 29,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r06c04",
+        "cost": 30,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r06c06",
+        "cost": 31,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r06c07",
+        "cost": 32,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      }
+    ],
+    "boundary_selected_cell": "r02c03",
+    "common_prefix_cost": 12,
+    "first_divergence_action_number": 13,
+    "local_candidate_boundary_contact": true,
+    "local_candidate_discount_if_boundary_policy": 0.6055555555555555,
+    "local_distinct_found": 1,
+    "local_evaluator_only_actions": [
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r00c02",
+        "cost": 1,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r00c03",
+        "cost": 2,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r00c04",
+        "cost": 3,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r00c05",
+        "cost": 4,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r00c06",
+        "cost": 5,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r00c07",
+        "cost": 6,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r01c02",
+        "cost": 7,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 1
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r01c03",
+        "cost": 8,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r01c04",
+        "cost": 9,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r01c05",
+        "cost": 10,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r01c06",
+        "cost": 11,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r01c07",
+        "cost": 12,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r02c02",
+        "cost": 13,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r02c03",
+        "cost": 14,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r02c04",
+        "cost": 15,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r02c05",
+        "cost": 16,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r02c06",
+        "cost": 17,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r02c07",
+        "cost": 18,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r03c04",
+        "cost": 19,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r03c05",
+        "cost": 20,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r03c06",
+        "cost": 21,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r03c07",
+        "cost": 22,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r04c05",
+        "cost": 23,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r04c06",
+        "cost": 24,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r05c01",
+        "cost": 25,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r05c03",
+        "cost": 26,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r05c04",
+        "cost": 27,
+        "kind": "survey",
+        "mode": "blurred",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r05c05",
+        "cost": 28,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r05c06",
+        "cost": 29,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r05c07",
+        "cost": 30,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r06c04",
+        "cost": 31,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      },
+      {
+        "already_found_matches_evaluator_only": 0,
+        "cell_id": "r06c06",
+        "cost": 32,
+        "kind": "survey",
+        "mode": "native",
+        "new_buildings_evaluator_only": 0
+      }
+    ],
+    "local_selected_cell": "r02c02",
+    "quality_seed": 20261029,
+    "sample_id": "santa-rosa-wildfire_00000266"
+  }
+]

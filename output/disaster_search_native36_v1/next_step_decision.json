@@ -1,0 +1,70 @@
+{
+  "cohort_scope": "NEW36_ONLY_OLD18_NOT_POOLED",
+  "decision": "STOP_SOURCE_CHECKPOINT_VARIANTS_REPLICATION_NOT_ESTABLISHED",
+  "domain_screens": [
+    {
+      "checks": {
+        "at_least_six_detectable_new_scenes": false,
+        "at_least_two_detectable_scenes_in_each_of_two_events": false,
+        "at_least_two_reference_positive_events": true,
+        "budget8_pooled_reference_precision_does_not_fall": true,
+        "budget8_random_macro_incremental_coverage_increases": false,
+        "every_reference_positive_event_nondecreasing": false,
+        "strict_event_gains_in_at_least_two_reference_positive_events": false
+      },
+      "detectable_new_scenes": 1,
+      "detectable_scenes_by_reference_positive_event": {
+        "PAKISTAN-FLOODING": 0,
+        "TEXAS-TORNADOES": 1
+      },
+      "domain": "all_published_pixels",
+      "event_incremental_pixel_differences": {
+        "PAKISTAN-FLOODING": 0.0,
+        "TEXAS-TORNADOES": -115.0
+      },
+      "evidence_sufficient": false,
+      "passed": false,
+      "reference_positive_events": [
+        "PAKISTAN-FLOODING",
+        "TEXAS-TORNADOES"
+      ]
+    },
+    {
+      "checks": {
+        "at_least_six_detectable_new_scenes": false,
+        "at_least_two_detectable_scenes_in_each_of_two_events": false,
+        "at_least_two_reference_positive_events": true,
+        "budget8_pooled_reference_precision_does_not_fall": true,
+        "budget8_random_macro_incremental_coverage_increases": false,
+        "every_reference_positive_event_nondecreasing": false,
+        "strict_event_gains_in_at_least_two_reference_positive_events": false
+      },
+      "detectable_new_scenes": 1,
+      "detectable_scenes_by_reference_positive_event": {
+        "PAKISTAN-FLOODING": 0,
+        "TEXAS-TORNADOES": 1
+      },
+      "domain": "both_dates_nonzero",
+      "event_incremental_pixel_differences": {
+        "PAKISTAN-FLOODING": 0.0,
+        "TEXAS-TORNADOES": -115.0
+      },
+      "evidence_sufficient": false,
+      "passed": false,
+      "reference_positive_events": [
+        "PAKISTAN-FLOODING",
+        "TEXAS-TORNADOES"
+      ]
+    }
+  ],
+  "evidence_sufficient": false,
+  "independent_geographic_or_human_validation": false,
+  "new_fitting_enabled": false,
+  "new_method_selected": false,
+  "old18_used_to_rescue_screen": false,
+  "primary_budget": 8,
+  "primary_condition": "native256_contiguous",
+  "primary_domain": "all_published_pixels",
+  "primary_policy": "random_exact",
+  "primary_screen_passed": false
+}

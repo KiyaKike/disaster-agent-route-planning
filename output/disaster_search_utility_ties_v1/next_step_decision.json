@@ -1,0 +1,40 @@
+{
+  "basis_audit_sha256": "bd9204b8addf64528f81231d5e630e83996025426912d85897744ad5f30c3b5b",
+  "basis_protocol_sha256": "4ada8d34b69e9ff04c1aac8d5cf9d2ac35c5005724329e0e6d3674bcdaf480f3",
+  "basis_report_sha256": "692250f592f40574e516041aa1b9fd78751c811288581e6d11dc7f73aac4b072",
+  "decision": "Do not deepen planning or promote a random-tie baseline as a new method. Complete simple revisit ablations under matched tie rules before interpreting planning or positive-revisit gains.",
+  "diagnostic_stop_rule": "If positive revisits do not provide a consistent net primary gain over survey-only or negative-only controls under matched ties in both development fit scopes, stop promoting this count-based positive-revisit policy; do not add further heuristics on the same72. This does not replace the frozen independent-validation continuation criteria.",
+  "evidence": [
+    "At the primary setting, full-fit greedy row/raw/random gives 5.666667/5.663889/6.048611. Raw-change tie alone does not explain the shortfall.",
+    "Matched random ties reverse the full-fit batch-tail advantage: 5.996111 vs greedy6.048611. Held-development-event batch5.211111 exceeds greedy5.065 but remains below raw ranking6.105556; Santa Rosa does not benefit from batch planning.",
+    "All ten random orders are averaged; order range is descriptive sensitivity, not independent evidence or a confidence interval."
+  ],
+  "execution_started": false,
+  "limits": [
+    "Previously inspected development scenes, not independent validation.",
+    "Only two events with cached detected targets; Mexico retained at zero.",
+    "Model training-event exposure and unverified full-image spatial independence remain.",
+    "Not a complete MF-ENS implementation or an exact global distinct-building reward model."
+  ],
+  "new_inference_needed": false,
+  "new_method_selected": false,
+  "next_hypothesis": "With tied candidate ordering matched, do survey-only, negative-only upgrades, all upgrades or presence utility provide a net gain under the fixed budget?",
+  "no_extra_model_or_parameter_tuning": true,
+  "paid_gpu_needed": false,
+  "required_controls": [
+    "count_survey",
+    "count_negative",
+    "count_all",
+    "presence",
+    "prior_survey",
+    "prior_gate"
+  ],
+  "required_settings": "Same fixed72, models, outcomes, costs, all full-fit grid/thresholds and primary held-development-event config. Preserve all previous outputs; reuse current count_all only where configuration and action rules match exactly.",
+  "required_tie_rules": [
+    "row_major",
+    "raw_change",
+    "fixed_random_all_10_established_orders"
+  ],
+  "stage": "NEXT_UNIFIED_TIE_SIMPLE_CONTROLS_PLANNED_NOT_RUN",
+  "validation_or_confirmation_access_enabled": false
+}
