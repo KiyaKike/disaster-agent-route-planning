@@ -1,0 +1,3 @@
+2026-11-03
+Command: work/disaster_search/.venv_inference/bin/python -m unittest discover -s work/disaster_route -p test_boone_*.py -v
+14 tests passed in0.037s; includes affine channel invariance, undefined constant correlation and known NDCG case.

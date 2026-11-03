@@ -1,0 +1,20 @@
+{
+  "status": "STRUCTURE_AND_TOP3_CHECK_COMPLETE",
+  "files": {
+    "README.md": "dc42941162b03036007ae9a9743b15dea8bc6b397297f5268cb3931d2aea4c07",
+    "audit.json": "d4b6a45da289cba5676f96eebdde38741cd1e95f310b6ee149c458a580f06e03",
+    "execution_recipe.json": "9bd0bee9425ce77bd7226b701decb8c9810909e5fbeae32c651990dd2d5987ad",
+    "per_anchor_comparisons.json": "bf7d980ab17f5dfc9bab22bd37ef73be2b717a0cb9bddb38bb2876cb63a4a636",
+    "per_anchor_scores.json": "4ec792d0e22c752a5ee62f27403b9085335688177bbd349bf25fd1fdc4949262",
+    "prediction_rows.json": "d7731b0020e5b2c65c6e3ad7b647f60101fa6847e15cd3038c457afc949ab4c6",
+    "source_snapshots/audit_boone_structure_check.py": "83008f7d5dc291e506ac8f2d3454087aafabd8f84fb7099518be9dd1f954c2e2",
+    "source_snapshots/run_boone_structure_check.py": "56001d41a3f5268ab3bc574f256cbedd46d1478aa95feb873f3462c22ca0c036",
+    "source_snapshots/test_boone_structure_check.py": "4730527c980c4dd54465369b93098bcfbc70b72e71f2e25c29ea228577bd55d8",
+    "strength_matches.json": "b3af9c4a86f89c0197d84f936c8f88428d64f075e7861ba47d307e501404be8b",
+    "structure_features.json": "1b9e24af9d685d83ed81477734401a214f82ab1803776d066b856b28050500ea",
+    "summary.csv": "cadb393fb6813256e2c5d1d99e00d95760265a5609f3ec37acde25e23d71fba6",
+    "summary.json": "f71b8afdbbdc64134a500cf34dc9cb6161ff6692870fbd1a3b0cf5bd6c06545d",
+    "target_ranks.json": "8b0c426c66ccf88c01f07f186339a867e4c242279f3f7f0b8551a9db1300f356",
+    "tests.txt": "709d6e0f399e9f1122f7e1e1f1a53807bcaacc51f50d15824c7518d724ffbebd"
+  }
+}

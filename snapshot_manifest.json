@@ -10,8 +10,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4242,
-      "sha256": "58fb56551342665c279f74e579a991fca1425dccb0a9ac79eab17794b99a2082"
+      "bytes": 4429,
+      "sha256": "509fcae77e5c1189348445b55bcf2b950adb4d2fcb3b4c1fd008b601c0d8aa46"
     },
     {
       "path": "docs/REPRODUCIBILITY.md",
@@ -25,8 +25,8 @@
     },
     {
       "path": "docs/archive_availability.json",
-      "bytes": 684833,
-      "sha256": "806dac0bf98ee2294d50a46473e2295f6489ea4dbf8d9d60751f653a48dca22e"
+      "bytes": 685149,
+      "sha256": "2fc8dfa2f91b109b00dce493d5b91f677e9b7867a4b732c0fd28dcda059095cd"
     },
     {
       "path": "docs/third_party/CrossViewGate_LICENSE.txt",
@@ -1862,6 +1862,86 @@
       "path": "output/disaster_route_boone_strength_control_v1/tests.txt",
       "bytes": 251,
       "sha256": "e46a74fab2012893d0720c0c253ca5ec156e0ee5376b52d88f20017defe0abc0"
+    },
+    {
+      "path": "output/disaster_route_boone_structure_check_v1/README.md",
+      "bytes": 6382,
+      "sha256": "dc42941162b03036007ae9a9743b15dea8bc6b397297f5268cb3931d2aea4c07"
+    },
+    {
+      "path": "output/disaster_route_boone_structure_check_v1/audit.json",
+      "bytes": 263,
+      "sha256": "d4b6a45da289cba5676f96eebdde38741cd1e95f310b6ee149c458a580f06e03"
+    },
+    {
+      "path": "output/disaster_route_boone_structure_check_v1/completion_receipt.json",
+      "bytes": 1549,
+      "sha256": "31e40c99af5eb57d532b5534c67c9d02a2d8e4b32f37480f2e439fc5b871eba0"
+    },
+    {
+      "path": "output/disaster_route_boone_structure_check_v1/execution_recipe.json",
+      "bytes": 2736,
+      "sha256": "9bd0bee9425ce77bd7226b701decb8c9810909e5fbeae32c651990dd2d5987ad"
+    },
+    {
+      "path": "output/disaster_route_boone_structure_check_v1/per_anchor_comparisons.json",
+      "bytes": 61478,
+      "sha256": "bf7d980ab17f5dfc9bab22bd37ef73be2b717a0cb9bddb38bb2876cb63a4a636"
+    },
+    {
+      "path": "output/disaster_route_boone_structure_check_v1/per_anchor_scores.json",
+      "bytes": 117073,
+      "sha256": "4ec792d0e22c752a5ee62f27403b9085335688177bbd349bf25fd1fdc4949262"
+    },
+    {
+      "path": "output/disaster_route_boone_structure_check_v1/prediction_rows.json",
+      "bytes": 237248,
+      "sha256": "d7731b0020e5b2c65c6e3ad7b647f60101fa6847e15cd3038c457afc949ab4c6"
+    },
+    {
+      "path": "output/disaster_route_boone_structure_check_v1/source_snapshots/audit_boone_structure_check.py",
+      "bytes": 4973,
+      "sha256": "83008f7d5dc291e506ac8f2d3454087aafabd8f84fb7099518be9dd1f954c2e2"
+    },
+    {
+      "path": "output/disaster_route_boone_structure_check_v1/source_snapshots/run_boone_structure_check.py",
+      "bytes": 9491,
+      "sha256": "56001d41a3f5268ab3bc574f256cbedd46d1478aa95feb873f3462c22ca0c036"
+    },
+    {
+      "path": "output/disaster_route_boone_structure_check_v1/source_snapshots/test_boone_structure_check.py",
+      "bytes": 1220,
+      "sha256": "4730527c980c4dd54465369b93098bcfbc70b72e71f2e25c29ea228577bd55d8"
+    },
+    {
+      "path": "output/disaster_route_boone_structure_check_v1/strength_matches.json",
+      "bytes": 2240,
+      "sha256": "b3af9c4a86f89c0197d84f936c8f88428d64f075e7861ba47d307e501404be8b"
+    },
+    {
+      "path": "output/disaster_route_boone_structure_check_v1/structure_features.json",
+      "bytes": 7520,
+      "sha256": "1b9e24af9d685d83ed81477734401a214f82ab1803776d066b856b28050500ea"
+    },
+    {
+      "path": "output/disaster_route_boone_structure_check_v1/summary.csv",
+      "bytes": 2710,
+      "sha256": "cadb393fb6813256e2c5d1d99e00d95760265a5609f3ec37acde25e23d71fba6"
+    },
+    {
+      "path": "output/disaster_route_boone_structure_check_v1/summary.json",
+      "bytes": 6696,
+      "sha256": "f71b8afdbbdc64134a500cf34dc9cb6161ff6692870fbd1a3b0cf5bd6c06545d"
+    },
+    {
+      "path": "output/disaster_route_boone_structure_check_v1/target_ranks.json",
+      "bytes": 333848,
+      "sha256": "8b0c426c66ccf88c01f07f186339a867e4c242279f3f7f0b8551a9db1300f356"
+    },
+    {
+      "path": "output/disaster_route_boone_structure_check_v1/tests.txt",
+      "bytes": 248,
+      "sha256": "709d6e0f399e9f1122f7e1e1f1a53807bcaacc51f50d15824c7518d724ffbebd"
     },
     {
       "path": "output/disaster_route_crasar_batch4_v1/README.md",
@@ -7225,8 +7305,8 @@
     },
     {
       "path": "work/disaster_route/README.md",
-      "bytes": 11163,
-      "sha256": "d1a09c18376306203bb787bb9ec2bc0ec26fb72f39528584b1a8c07684b486ac"
+      "bytes": 11538,
+      "sha256": "8256b5ac38246521c0a93c6643cc88aafa951c5584f087031d571860d1c6c4f3"
     },
     {
       "path": "work/disaster_route/acquire_xbd_route_metadata.py",
@@ -7252,6 +7332,11 @@
       "path": "work/disaster_route/audit_boone_context_experiment.py",
       "bytes": 5336,
       "sha256": "0813f2b634394a5c748dc48699a5ab6322299bbfb526d8b904d0a65799b99ba0"
+    },
+    {
+      "path": "work/disaster_route/audit_boone_structure_check.py",
+      "bytes": 4973,
+      "sha256": "83008f7d5dc291e506ac8f2d3454087aafabd8f84fb7099518be9dd1f954c2e2"
     },
     {
       "path": "work/disaster_route/audit_dual_map_demo_resumed.py",
@@ -7380,8 +7465,8 @@
     },
     {
       "path": "work/disaster_route/export_github_snapshot.py",
-      "bytes": 13779,
-      "sha256": "086edc6120e31c7be48d5e358fa199dd7f670b33158d3b4d5e03e74b0f7acd53"
+      "bytes": 13966,
+      "sha256": "2442396b5ff8fa683ed06f1255c251d80bda33c527111590f32a5a59b2bbce37"
     },
     {
       "path": "work/disaster_route/extract_crasar_region.py",
@@ -7554,6 +7639,11 @@
       "sha256": "59fc1e06ac433236885084e3f179cd6cf61d376ddf8f7b74d26ab44f2d5c0389"
     },
     {
+      "path": "work/disaster_route/run_boone_structure_check.py",
+      "bytes": 9491,
+      "sha256": "56001d41a3f5268ab3bc574f256cbedd46d1478aa95feb873f3462c22ca0c036"
+    },
+    {
       "path": "work/disaster_route/run_crasar_batch.py",
       "bytes": 6366,
       "sha256": "86e2ed169fdce00b33a885debd3f55cec0e25065d0bad503d9f92fe5faf26202"
@@ -7652,6 +7742,11 @@
       "path": "work/disaster_route/test_boone_strength_control.py",
       "bytes": 1411,
       "sha256": "bab1573748ef01b42a924d4d43ea9d73117777732d92d54fef62bb123859eac9"
+    },
+    {
+      "path": "work/disaster_route/test_boone_structure_check.py",
+      "bytes": 1220,
+      "sha256": "4730527c980c4dd54465369b93098bcfbc70b72e71f2e25c29ea228577bd55d8"
     },
     {
       "path": "work/disaster_route/test_crasar_alignment.py",
@@ -7800,8 +7895,8 @@
     },
     {
       "path": "work/disaster_route/在线上下文反馈_学习与实验路线.md",
-      "bytes": 12209,
-      "sha256": "a96f1e404bfa20b541efff6ce763b9e284129bfe1b5d12e79b03e78f63460af9"
+      "bytes": 12554,
+      "sha256": "7c8a29ff646afc9512c266900fc93a105861dbc55574a9bbf95d1a2c094d0c67"
     },
     {
       "path": "work/disaster_route/在线上下文反馈_第一课.md",
@@ -7810,8 +7905,8 @@
     },
     {
       "path": "work/disaster_route/研究目标与接手计划.md",
-      "bytes": 8574,
-      "sha256": "6744c21f99251b2685edf1d9cdf9dd5dad21f278de4733fcfe5dbc4bad977d48"
+      "bytes": 9063,
+      "sha256": "d089ab26a35b28ae1940ff379d32646574d7c6f3e7a294b7f683c63d4c4b7baf"
     },
     {
       "path": "work/disaster_route/研究记录/20261103_旧复核候选接手计划.md",

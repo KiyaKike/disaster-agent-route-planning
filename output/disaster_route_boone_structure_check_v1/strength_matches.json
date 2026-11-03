@@ -1,0 +1,74 @@
+[
+  {
+    "anchor_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "gain": 0.34887589706773603,
+    "desired_mean_abs_change": 0.08687298877048341,
+    "absolute_error": 2.7755575615628914e-17
+  },
+  {
+    "anchor_id": "0dc64e37785b4a468be551153e403ebe",
+    "gain": 0.3402354955432465,
+    "desired_mean_abs_change": 0.08385605979785868,
+    "absolute_error": 4.163336342344337e-17
+  },
+  {
+    "anchor_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "gain": 0.10499779111974758,
+    "desired_mean_abs_change": 0.03156705986848583,
+    "absolute_error": 6.938893903907228e-18
+  },
+  {
+    "anchor_id": "456e6368a048451090081f0aebfc6c65",
+    "gain": 0.3129899315390955,
+    "desired_mean_abs_change": 0.05668266977370794,
+    "absolute_error": 6.938893903907228e-18
+  },
+  {
+    "anchor_id": "635289b3a1854c73b0c9685397e13e72",
+    "gain": 0.28188826494086816,
+    "desired_mean_abs_change": 0.04510825450131973,
+    "absolute_error": 0.0
+  },
+  {
+    "anchor_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "gain": 0.30360907147637783,
+    "desired_mean_abs_change": 0.046970492739059025,
+    "absolute_error": 2.0816681711721685e-17
+  },
+  {
+    "anchor_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "gain": 0.3463581714176813,
+    "desired_mean_abs_change": 0.08933797091272391,
+    "absolute_error": 0.0
+  },
+  {
+    "anchor_id": "96caf68be1db41e58ba409062ca05cec",
+    "gain": 0.13221136890177482,
+    "desired_mean_abs_change": 0.017577792719471373,
+    "absolute_error": 0.0
+  },
+  {
+    "anchor_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "gain": 0.3073954450281544,
+    "desired_mean_abs_change": 0.09228449047391524,
+    "absolute_error": 1.3877787807814457e-17
+  },
+  {
+    "anchor_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "gain": 0.27480372176178636,
+    "desired_mean_abs_change": 0.06176963160718729,
+    "absolute_error": 6.938893903907228e-18
+  },
+  {
+    "anchor_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "gain": 0.3580142920449554,
+    "desired_mean_abs_change": 0.05989694848718856,
+    "absolute_error": 1.3877787807814457e-17
+  },
+  {
+    "anchor_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "gain": 0.2757641775586783,
+    "desired_mean_abs_change": 0.0353636034830069,
+    "absolute_error": 6.938893903907228e-18
+  }
+]

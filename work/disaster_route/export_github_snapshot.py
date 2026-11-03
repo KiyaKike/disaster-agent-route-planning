@@ -79,7 +79,7 @@ def main():
 5. [最小机制筛选及止损](output/disaster_route_verification_screen_v1/README.md)
 6. [四区域强对照与观测增量诊断](output/disaster_route_crasar_batch4_v1/README.md)
 
-已完成[Boone真实切片与本地小VLM对照](output/disaster_route_boone_context_run_v2/README.md)：60张切片、276次正式前向；UAS视角AP不更新0.377、空间0.460、视觉统计0.436、VLM完整历史0.342。当前小VLM配置没有收益。新增[逐建筑错误分析](output/disaster_route_boone_feature_error_audit_v1/README.md)：视觉统计组净AP差距主要来自B09，已执行[6维差分消融](output/disaster_route_boone_change6_v1/README.md)：重估核宽AP0.363、固定旧核宽0.474；新增[强度匹配对照](output/disaster_route_boone_strength_control_v1/README.md)：6维组0.474，匹配空间控制0.476；下一项固定语义差分嵌入，不继续搜索低阶核宽。
+已完成[Boone真实切片与本地小VLM对照](output/disaster_route_boone_context_run_v2/README.md)：60张切片、276次正式前向；UAS视角AP不更新0.377、空间0.460、视觉统计0.436、VLM完整历史0.342。当前小VLM配置没有收益。新增[逐建筑错误分析](output/disaster_route_boone_feature_error_audit_v1/README.md)：视觉统计组净AP差距主要来自B09，已执行[6维差分消融](output/disaster_route_boone_change6_v1/README.md)：重估核宽AP0.363、固定旧核宽0.474；新增[强度匹配对照](output/disaster_route_boone_strength_control_v1/README.md)：6维组0.474，匹配空间控制0.476；新增[归一化结构与Top-3检查](output/disaster_route_boone_structure_check_v1/README.md)：Pearson核AP0.553对匹配控制0.445、NDCG@3提升，Top-3为10对11且B11/B09未修复；下一项冻结候选接路线回放，不继续搜索核宽。
 
 ## 当前结论（2026-11-03快照）
 

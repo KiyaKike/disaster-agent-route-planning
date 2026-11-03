@@ -1,0 +1,45 @@
+{
+  "representation": "1 - mean(per-RGB-channel Pearson(pre,post)) on original footprint pixels",
+  "invariance": "Independent positive affine intensity change per channel; not registration invariant",
+  "kernel": "Gaussian on standardized1D feature; std floor0.05; median positive distance",
+  "feature_count": 1,
+  "space_scale_m": 50,
+  "residual_gain": 0.5,
+  "feature_uses_uas_or_noaa": false,
+  "target_labels_used_to_choose_gain": false,
+  "new_model_calls": 0,
+  "script_sha256": "56001d41a3f5268ab3bc574f256cbedd46d1478aa95feb873f3462c22ca0c036",
+  "top_metrics_status": "Retrospective development diagnostics, not new independent test endpoints",
+  "ndcg_definition": "Binary relevance; discount1/log2(rank+1); ideal uses unvisited positives",
+  "input_hashes": {
+    "output/disaster_route_boone_context_run_v2/satellite_features.json": "e2342a58b382a0d999bae9bcdfe9e83e6d79faae66bc0206911cda41b2b93d6e",
+    "output/disaster_route_boone_context_run_v2/vlm_initial_scores.json": "5a856ea7685d87391c61e5613207572980aa1a5c4a63bf506f7ae94d492ecbf8",
+    "output/disaster_route_boone_context_run_v2/crop_manifest.json": "5882faf8914c07d0fa947c922f4d9a5de265dc3f43887fbbf5d8a9c0430fe935",
+    "output/disaster_route_boone_strength_control_v1/prediction_rows.json": "0858e81b38b0c3f89e453f2e6ca9135ea23823b712daca061c8116393b7205a2",
+    "output/disaster_route_boone_context_pilot_v1/evaluator_only_view_references.json": "54961da64b8de2e390ff017785b4370c17dac6719f524fb909ae76a319d17aa5",
+    "output/disaster_route_boone_context_pilot_v1/public_case_index.json": "d48ec5f6c5a4b8e6136dce8a01163601c2ff66db23550fe9d29af9c2708ee504"
+  },
+  "source_images": {
+    "pre": {
+      "path": "output/disaster_route_crasar_region_rank2_v1/pre_roi.png",
+      "sha256": "2ba92834c39412ea83ff4fe12da8388568735dd24f8832a3ad5acf6e77121ae3"
+    },
+    "post": {
+      "path": "output/disaster_route_crasar_region_rank2_v1/post_roi.png",
+      "sha256": "1ce695b0814b63c206f075a8fd30f9d86fc3fd9896af9049056ea1ead9ab01ad"
+    },
+    "uas": {
+      "path": "output/disaster_route_crasar_region_rank2_v1/uas_roi.png",
+      "sha256": "6e71c4d25158b9fc2c07dfe37b692bb6ccdbee651b1d7cdb245d730bc935731b"
+    },
+    "noaa_raw_qa_only": {
+      "path": "output/disaster_route_noaa_entry_v1/crewed_raw_georef_roi.png",
+      "sha256": "1e31486840724317ce4099757b1ff8c1fd9a83fe3525017f8cdb39b0c6ef9b6e"
+    },
+    "noaa_aligned_qa_only": {
+      "path": "output/disaster_route_noaa_entry_v1/crewed_aligned_roi.png",
+      "sha256": "e0cab07afb9321338c2b450794fc5f033df69c57adea6db22841222cd62d54ff"
+    }
+  },
+  "cross_source_disagreement_status": "Not run: no frozen legal NOAA prior; target NOAA pixels QA/evaluator-only under existing main protocol"
+}

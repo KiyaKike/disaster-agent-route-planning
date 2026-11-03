@@ -16401,5 +16401,11 @@
     "present_verified_entries": 13,
     "absent_original_entries": [],
     "scope": "Full lightweight strength-control diagnostic, including predictions and source snapshots; no new images or model weights."
+  },
+  {
+    "receipt": "output/disaster_route_boone_structure_check_v1/completion_receipt.json",
+    "present_verified_entries": 15,
+    "absent_original_entries": [],
+    "scope": "Complete lightweight Pearson-change and top-three development diagnostic; satellite source images remain in original local archive."
   }
 ]
