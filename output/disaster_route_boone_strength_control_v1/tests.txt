@@ -1,0 +1,3 @@
+2026-11-03
+Command: work/disaster_search/.venv_inference/bin/python -m unittest discover -s work/disaster_route -p test_boone_*.py -v
+Result: 11 tests passed (0.043s). Includes clipped-magnitude matching, unit-gate reduction and zero-residual checks.

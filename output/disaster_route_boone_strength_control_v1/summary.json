@@ -1,0 +1,136 @@
+{
+  "table": [
+    {
+      "reference_source": "uas",
+      "method": "S0_no_update",
+      "ap": 0.3774470899470899,
+      "brier": 0.20292746698474662,
+      "log_loss": 0.5970406687651741,
+      "top3_positive": 0.9166666666666666
+    },
+    {
+      "reference_source": "uas",
+      "method": "S1_spatial",
+      "ap": 0.4597723264389931,
+      "brier": 0.20914480699585192,
+      "log_loss": 0.60669160355684,
+      "top3_positive": 0.9166666666666666
+    },
+    {
+      "reference_source": "uas",
+      "method": "S2_visual_spatial",
+      "ap": 0.43594075677409005,
+      "brier": 0.20612832130693617,
+      "log_loss": 0.6027718300656418,
+      "top3_positive": 0.9166666666666666
+    },
+    {
+      "reference_source": "uas",
+      "method": "S3_change6",
+      "ap": 0.3628477232643899,
+      "brier": 0.2088018534473889,
+      "log_loss": 0.6088985734601916,
+      "top3_positive": 0.5833333333333334
+    },
+    {
+      "reference_source": "uas",
+      "method": "S4_change6_old_tau",
+      "ap": 0.4742233846400512,
+      "brier": 0.20873266281789335,
+      "log_loss": 0.606762963754507,
+      "top3_positive": 1.0
+    },
+    {
+      "reference_source": "uas",
+      "method": "C2_matched36",
+      "ap": 0.46714065255731924,
+      "brier": 0.2052176874942636,
+      "log_loss": 0.6001813813152814,
+      "top3_positive": 1.0
+    },
+    {
+      "reference_source": "uas",
+      "method": "C3_matched6",
+      "ap": 0.4562279541446208,
+      "brier": 0.20502613853514404,
+      "log_loss": 0.600092748819436,
+      "top3_positive": 1.0
+    },
+    {
+      "reference_source": "uas",
+      "method": "C4_matched6_old_tau",
+      "ap": 0.4764389931056597,
+      "brier": 0.2080391219287955,
+      "log_loss": 0.6048429877065716,
+      "top3_positive": 0.9166666666666666
+    },
+    {
+      "reference_source": "crewed",
+      "method": "S0_no_update",
+      "ap": 0.1773809523809524,
+      "brier": 0.18681740935261823,
+      "log_loss": 0.5644099191752471,
+      "top3_positive": 0.0
+    },
+    {
+      "reference_source": "crewed",
+      "method": "S1_spatial",
+      "ap": 0.382674963924964,
+      "brier": 0.18483363908126205,
+      "log_loss": 0.5542551601118929,
+      "top3_positive": 0.5
+    },
+    {
+      "reference_source": "crewed",
+      "method": "S2_visual_spatial",
+      "ap": 0.28298911736411736,
+      "brier": 0.1850406436189225,
+      "log_loss": 0.5584228324591027,
+      "top3_positive": 0.3333333333333333
+    },
+    {
+      "reference_source": "crewed",
+      "method": "S3_change6",
+      "ap": 0.23336940836940834,
+      "brier": 0.18779576125842443,
+      "log_loss": 0.5647600857158683,
+      "top3_positive": 0.08333333333333333
+    },
+    {
+      "reference_source": "crewed",
+      "method": "S4_change6_old_tau",
+      "ap": 0.4015241702741703,
+      "brier": 0.1851331710368654,
+      "log_loss": 0.5561569664141585,
+      "top3_positive": 0.5833333333333334
+    },
+    {
+      "reference_source": "crewed",
+      "method": "C2_matched36",
+      "ap": 0.35982142857142857,
+      "brier": 0.18422699959657599,
+      "log_loss": 0.5564091912189001,
+      "top3_positive": 0.5
+    },
+    {
+      "reference_source": "crewed",
+      "method": "C3_matched6",
+      "ap": 0.3419642857142857,
+      "brier": 0.18444573895283115,
+      "log_loss": 0.5572138831000648,
+      "top3_positive": 0.5
+    },
+    {
+      "reference_source": "crewed",
+      "method": "C4_matched6_old_tau",
+      "ap": 0.40489718614718617,
+      "brier": 0.18451315371449387,
+      "log_loss": 0.554494495129663,
+      "top3_positive": 0.5
+    }
+  ],
+  "anchor_cases": 12,
+  "new_model_calls": 0,
+  "new_route_runs": 0,
+  "cost": "CPU only; no API or GPU rental"
+}

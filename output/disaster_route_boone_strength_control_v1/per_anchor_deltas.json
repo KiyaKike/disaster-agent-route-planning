@@ -1,0 +1,326 @@
+[
+  {
+    "anchor_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "anchor_display": "B01",
+    "gated_method": "S2_visual_spatial",
+    "control_method": "C2_matched36",
+    "gated_ap": 0.5888888888888888,
+    "control_ap": 0.4666666666666667,
+    "gated_minus_control_ap": 0.12222222222222212
+  },
+  {
+    "anchor_id": "0dc64e37785b4a468be551153e403ebe",
+    "anchor_display": "B02",
+    "gated_method": "S2_visual_spatial",
+    "control_method": "C2_matched36",
+    "gated_ap": 0.25,
+    "control_ap": 0.33730158730158727,
+    "gated_minus_control_ap": -0.08730158730158727
+  },
+  {
+    "anchor_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "anchor_display": "B03",
+    "gated_method": "S2_visual_spatial",
+    "control_method": "C2_matched36",
+    "gated_ap": 0.325,
+    "control_ap": 0.26666666666666666,
+    "gated_minus_control_ap": 0.05833333333333335
+  },
+  {
+    "anchor_id": "456e6368a048451090081f0aebfc6c65",
+    "anchor_display": "B04",
+    "gated_method": "S2_visual_spatial",
+    "control_method": "C2_matched36",
+    "gated_ap": 0.36507936507936506,
+    "control_ap": 0.5888888888888888,
+    "gated_minus_control_ap": -0.22380952380952374
+  },
+  {
+    "anchor_id": "635289b3a1854c73b0c9685397e13e72",
+    "anchor_display": "B05",
+    "gated_method": "S2_visual_spatial",
+    "control_method": "C2_matched36",
+    "gated_ap": 0.3409090909090909,
+    "control_ap": 0.34074074074074073,
+    "gated_minus_control_ap": 0.00016835016835015093
+  },
+  {
+    "anchor_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "anchor_display": "B06",
+    "gated_method": "S2_visual_spatial",
+    "control_method": "C2_matched36",
+    "gated_ap": 0.2316498316498316,
+    "control_ap": 0.2407407407407407,
+    "gated_minus_control_ap": -0.009090909090909094
+  },
+  {
+    "anchor_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "anchor_display": "B07",
+    "gated_method": "S2_visual_spatial",
+    "control_method": "C2_matched36",
+    "gated_ap": 1.0,
+    "control_ap": 1.0,
+    "gated_minus_control_ap": 0.0
+  },
+  {
+    "anchor_id": "96caf68be1db41e58ba409062ca05cec",
+    "anchor_display": "B08",
+    "gated_method": "S2_visual_spatial",
+    "control_method": "C2_matched36",
+    "gated_ap": 0.5888888888888888,
+    "control_ap": 0.5888888888888888,
+    "gated_minus_control_ap": 0.0
+  },
+  {
+    "anchor_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "anchor_display": "B09",
+    "gated_method": "S2_visual_spatial",
+    "control_method": "C2_matched36",
+    "gated_ap": 0.41666666666666663,
+    "control_ap": 0.45,
+    "gated_minus_control_ap": -0.03333333333333338
+  },
+  {
+    "anchor_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "anchor_display": "B10",
+    "gated_method": "S2_visual_spatial",
+    "control_method": "C2_matched36",
+    "gated_ap": 0.273015873015873,
+    "control_ap": 0.2757936507936508,
+    "gated_minus_control_ap": -0.0027777777777778234
+  },
+  {
+    "anchor_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "anchor_display": "B11",
+    "gated_method": "S2_visual_spatial",
+    "control_method": "C2_matched36",
+    "gated_ap": 0.5138888888888888,
+    "control_ap": 0.6388888888888888,
+    "gated_minus_control_ap": -0.125
+  },
+  {
+    "anchor_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "anchor_display": "B12",
+    "gated_method": "S2_visual_spatial",
+    "control_method": "C2_matched36",
+    "gated_ap": 0.33730158730158727,
+    "control_ap": 0.4111111111111111,
+    "gated_minus_control_ap": -0.07380952380952382
+  },
+  {
+    "anchor_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "anchor_display": "B01",
+    "gated_method": "S3_change6",
+    "control_method": "C3_matched6",
+    "gated_ap": 0.4583333333333333,
+    "control_ap": 0.44285714285714284,
+    "gated_minus_control_ap": 0.015476190476190477
+  },
+  {
+    "anchor_id": "0dc64e37785b4a468be551153e403ebe",
+    "anchor_display": "B02",
+    "gated_method": "S3_change6",
+    "control_method": "C3_matched6",
+    "gated_ap": 0.30277777777777776,
+    "control_ap": 0.33730158730158727,
+    "gated_minus_control_ap": -0.03452380952380951
+  },
+  {
+    "anchor_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "anchor_display": "B03",
+    "gated_method": "S3_change6",
+    "control_method": "C3_matched6",
+    "gated_ap": 0.325,
+    "control_ap": 0.26666666666666666,
+    "gated_minus_control_ap": 0.05833333333333335
+  },
+  {
+    "anchor_id": "456e6368a048451090081f0aebfc6c65",
+    "anchor_display": "B04",
+    "gated_method": "S3_change6",
+    "control_method": "C3_matched6",
+    "gated_ap": 0.4027777777777778,
+    "control_ap": 0.5888888888888888,
+    "gated_minus_control_ap": -0.186111111111111
+  },
+  {
+    "anchor_id": "635289b3a1854c73b0c9685397e13e72",
+    "anchor_display": "B05",
+    "gated_method": "S3_change6",
+    "control_method": "C3_matched6",
+    "gated_ap": 0.24831649831649827,
+    "control_ap": 0.34074074074074073,
+    "gated_minus_control_ap": -0.09242424242424246
+  },
+  {
+    "anchor_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "anchor_display": "B06",
+    "gated_method": "S3_change6",
+    "control_method": "C3_matched6",
+    "gated_ap": 0.2316498316498316,
+    "control_ap": 0.2407407407407407,
+    "gated_minus_control_ap": -0.009090909090909094
+  },
+  {
+    "anchor_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "anchor_display": "B07",
+    "gated_method": "S3_change6",
+    "control_method": "C3_matched6",
+    "gated_ap": 0.45,
+    "control_ap": 1.0,
+    "gated_minus_control_ap": -0.55
+  },
+  {
+    "anchor_id": "96caf68be1db41e58ba409062ca05cec",
+    "anchor_display": "B08",
+    "gated_method": "S3_change6",
+    "control_method": "C3_matched6",
+    "gated_ap": 0.4444444444444444,
+    "control_ap": 0.5888888888888888,
+    "gated_minus_control_ap": -0.14444444444444438
+  },
+  {
+    "anchor_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "anchor_display": "B09",
+    "gated_method": "S3_change6",
+    "control_method": "C3_matched6",
+    "gated_ap": 0.3666666666666667,
+    "control_ap": 0.3666666666666667,
+    "gated_minus_control_ap": 0.0
+  },
+  {
+    "anchor_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "anchor_display": "B10",
+    "gated_method": "S3_change6",
+    "control_method": "C3_matched6",
+    "gated_ap": 0.2507936507936508,
+    "control_ap": 0.2757936507936508,
+    "gated_minus_control_ap": -0.025000000000000022
+  },
+  {
+    "anchor_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "anchor_display": "B11",
+    "gated_method": "S3_change6",
+    "control_method": "C3_matched6",
+    "gated_ap": 0.5138888888888888,
+    "control_ap": 0.6388888888888888,
+    "gated_minus_control_ap": -0.125
+  },
+  {
+    "anchor_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "anchor_display": "B12",
+    "gated_method": "S3_change6",
+    "control_method": "C3_matched6",
+    "gated_ap": 0.3595238095238095,
+    "control_ap": 0.38730158730158726,
+    "gated_minus_control_ap": -0.027777777777777735
+  },
+  {
+    "anchor_id": "06162f1f87754cc0b9de8f61c00911a5",
+    "anchor_display": "B01",
+    "gated_method": "S4_change6_old_tau",
+    "control_method": "C4_matched6_old_tau",
+    "gated_ap": 0.5317460317460316,
+    "control_ap": 0.5333333333333333,
+    "gated_minus_control_ap": -0.0015873015873016927
+  },
+  {
+    "anchor_id": "0dc64e37785b4a468be551153e403ebe",
+    "anchor_display": "B02",
+    "gated_method": "S4_change6_old_tau",
+    "control_method": "C4_matched6_old_tau",
+    "gated_ap": 0.3206349206349206,
+    "control_ap": 0.3206349206349206,
+    "gated_minus_control_ap": 0.0
+  },
+  {
+    "anchor_id": "24fd756ce06b4f75adbc71d39946b8ba",
+    "anchor_display": "B03",
+    "gated_method": "S4_change6_old_tau",
+    "control_method": "C4_matched6_old_tau",
+    "gated_ap": 0.29166666666666663,
+    "control_ap": 0.26666666666666666,
+    "gated_minus_control_ap": 0.024999999999999967
+  },
+  {
+    "anchor_id": "456e6368a048451090081f0aebfc6c65",
+    "anchor_display": "B04",
+    "gated_method": "S4_change6_old_tau",
+    "control_method": "C4_matched6_old_tau",
+    "gated_ap": 0.5888888888888888,
+    "control_ap": 0.5888888888888888,
+    "gated_minus_control_ap": 0.0
+  },
+  {
+    "anchor_id": "635289b3a1854c73b0c9685397e13e72",
+    "anchor_display": "B05",
+    "gated_method": "S4_change6_old_tau",
+    "control_method": "C4_matched6_old_tau",
+    "gated_ap": 0.27609427609427606,
+    "control_ap": 0.27609427609427606,
+    "gated_minus_control_ap": 0.0
+  },
+  {
+    "anchor_id": "696be859b1fb46d7aec707f2a299b6c2",
+    "anchor_display": "B06",
+    "gated_method": "S4_change6_old_tau",
+    "control_method": "C4_matched6_old_tau",
+    "gated_ap": 0.2316498316498316,
+    "control_ap": 0.2316498316498316,
+    "gated_minus_control_ap": 0.0
+  },
+  {
+    "anchor_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+    "anchor_display": "B07",
+    "gated_method": "S4_change6_old_tau",
+    "control_method": "C4_matched6_old_tau",
+    "gated_ap": 1.0,
+    "control_ap": 1.0,
+    "gated_minus_control_ap": 0.0
+  },
+  {
+    "anchor_id": "96caf68be1db41e58ba409062ca05cec",
+    "anchor_display": "B08",
+    "gated_method": "S4_change6_old_tau",
+    "control_method": "C4_matched6_old_tau",
+    "gated_ap": 0.5333333333333333,
+    "control_ap": 0.5333333333333333,
+    "gated_minus_control_ap": 0.0
+  },
+  {
+    "anchor_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+    "anchor_display": "B09",
+    "gated_method": "S4_change6_old_tau",
+    "control_method": "C4_matched6_old_tau",
+    "gated_ap": 0.41666666666666663,
+    "control_ap": 0.41666666666666663,
+    "gated_minus_control_ap": 0.0
+  },
+  {
+    "anchor_id": "d9396c94b4a747e0bc91d7cd234908eb",
+    "anchor_display": "B10",
+    "gated_method": "S4_change6_old_tau",
+    "control_method": "C4_matched6_old_tau",
+    "gated_ap": 0.2777777777777778,
+    "control_ap": 0.2777777777777778,
+    "gated_minus_control_ap": 0.0
+  },
+  {
+    "anchor_id": "ee1662cd6cbd4f4bbaca03d6250a0a68",
+    "anchor_display": "B11",
+    "gated_method": "S4_change6_old_tau",
+    "control_method": "C4_matched6_old_tau",
+    "gated_ap": 0.5888888888888888,
+    "control_ap": 0.6388888888888888,
+    "gated_minus_control_ap": -0.050000000000000044
+  },
+  {
+    "anchor_id": "eeb2077a2d8a447a8020fd1dea437511",
+    "anchor_display": "B12",
+    "gated_method": "S4_change6_old_tau",
+    "control_method": "C4_matched6_old_tau",
+    "gated_ap": 0.6333333333333333,
+    "control_ap": 0.6333333333333333,
+    "gated_minus_control_ap": 0.0
+  }
+]

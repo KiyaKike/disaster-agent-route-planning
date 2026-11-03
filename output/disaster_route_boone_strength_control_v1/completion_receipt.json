@@ -1,0 +1,18 @@
+{
+  "status": "STRENGTH_CONTROL_COMPLETE",
+  "files": {
+    "README.md": "87c18c454ad55335f0be86e434ed6fee6792d3c21c922b51a7979c6ef1213036",
+    "audit.json": "ade70c9230380ac5c9ab542004a39ddb67d0ed29f9ac242c7bf8ae56f33e3d59",
+    "execution_recipe.json": "40713f5355e65b3bcb7d725e54aaf2726b75ef2fdcf41ce14ca67ec3d9dd6944",
+    "per_anchor_deltas.json": "68fee924137830a7890bb043602ff300ff24ba152d931bcbd86b2399eec6a77d",
+    "per_anchor_scores.json": "be6201b886dfbad912b12f290ab9738ee416add392e8003fc56f5c76bb91bdad",
+    "prediction_rows.json": "0858e81b38b0c3f89e453f2e6ca9135ea23823b712daca061c8116393b7205a2",
+    "source_snapshots/run_boone_strength_control.py": "59fc1e06ac433236885084e3f179cd6cf61d376ddf8f7b74d26ab44f2d5c0389",
+    "source_snapshots/test_boone_strength_control.py": "bab1573748ef01b42a924d4d43ea9d73117777732d92d54fef62bb123859eac9",
+    "strength_matches.json": "5910e4e3af3af564c21253cba26a3f50638bf289abf5ffe24550bb4b47f276bc",
+    "summary.csv": "96e43c8f7bebd723bcce49c439a834839f4b5f0f43df495153385c62d7d932bb",
+    "summary.json": "11b0367e4fcbd68efcc29a6f7ff4fb729bbabb60469924077f5cc76670d0f8ef",
+    "target_rank_changes.json": "86967132bd2cdb79def18ba166a3aee8a65c28269bcffc5b57120628acaab0e7",
+    "tests.txt": "e46a74fab2012893d0720c0c253ca5ec156e0ee5376b52d88f20017defe0abc0"
+  }
+}

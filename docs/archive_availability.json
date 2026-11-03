@@ -16395,5 +16395,11 @@
     "present_verified_entries": 13,
     "absent_original_entries": [],
     "scope": "Complete lightweight cached feature ablation;source image and VLM input availability governed by prior entries."
+  },
+  {
+    "receipt": "output/disaster_route_boone_strength_control_v1/completion_receipt.json",
+    "present_verified_entries": 13,
+    "absent_original_entries": [],
+    "scope": "Full lightweight strength-control diagnostic, including predictions and source snapshots; no new images or model weights."
   }
 ]
