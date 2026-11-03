@@ -1,0 +1,13 @@
+test_change_only_kernel_cannot_read_discarded_color_dimensions (test_boone_context_experiment.ExperimentTests.test_change_only_kernel_cannot_read_discarded_color_dimensions) ... ok
+test_identical_features_reduce_visual_update_to_spatial_update (test_boone_context_experiment.ExperimentTests.test_identical_features_reduce_visual_update_to_spatial_update) ... ok
+test_tied_ap_and_known_brier (test_boone_context_experiment.ExperimentTests.test_tied_ap_and_known_brier) ... ok
+test_unobserved_background_cannot_change_crop_or_features (test_boone_context_experiment.ExperimentTests.test_unobserved_background_cannot_change_crop_or_features) ... ok
+test_visual_statistics_can_distinguish_equal_distance_targets (test_boone_context_experiment.ExperimentTests.test_visual_statistics_can_distinguish_equal_distance_targets) ... ok
+test_anchor_never_appears_in_its_target_set (test_boone_context_pilot.CaseBoundaryTests.test_anchor_never_appears_in_its_target_set) ... ok
+test_label_changes_do_not_change_cohort_or_cases (test_boone_context_pilot.CaseBoundaryTests.test_label_changes_do_not_change_cohort_or_cases) ... ok
+test_unknown_does_not_become_negative (test_boone_context_pilot.CaseBoundaryTests.test_unknown_does_not_become_negative) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.028s
+
+OK

@@ -43,7 +43,27 @@ def masked_crop(image, polygon):
     return square, original, list(box), int((~outside).sum())
 
 
-def prepare(root, out):
+def feature_kernel(features, feature_mode='all', tau_override=None):
+    features = np.asarray(features, dtype=np.float64)
+    if feature_mode == 'change-only':
+        if features.shape[1] != 36:
+            raise ValueError('Expected the original36-dimensional feature matrix')
+        features = features[:, 30:]
+    elif feature_mode != 'all':
+        raise ValueError(feature_mode)
+    standardized = (features - features.mean(axis=0)) / np.maximum(features.std(axis=0), .05)
+    distances = np.linalg.norm(standardized[:, None] - standardized[None, :], axis=-1)
+    positive = distances[distances > 0]
+    tau = float(np.median(positive)) if len(positive) else 1.
+    if tau_override is not None:
+        tau = float(tau_override)
+    if tau <= 0:
+        raise ValueError('Kernel width must be positive')
+    similarity = np.exp(-distances**2 / (2*tau**2))
+    return features, standardized, similarity, tau
+
+
+def prepare(root, out, feature_mode='all'):
     pilot = root / 'output/disaster_route_boone_context_pilot_v1'
     public = json.loads((pilot / 'public_case_index.json').read_text())
     region = root / 'output/disaster_route_crasar_region_rank2_v1'
@@ -81,11 +101,7 @@ def prepare(root, out):
                             delta.mean(axis=0), delta.std(axis=0)])
         features.append(f)
         rows.append({'building_id': uid, 'display_id': f'B{i+1:02d}', 'crops': crops})
-    features = np.asarray(features)
-    standardized = (features - features.mean(axis=0)) / np.maximum(features.std(axis=0), .05)
-    distances = np.linalg.norm(standardized[:, None] - standardized[None, :], axis=-1)
-    tau = float(np.median(distances[distances > 0]))
-    similarity = np.exp(-distances ** 2 / (2 * tau ** 2))
+    features, standardized, similarity, tau = feature_kernel(features, feature_mode)
     dump(out / 'crop_manifest.json', {'rows': rows, 'source_images': {
         k: {'path': str(p.relative_to(root)), 'sha256': sha(p)} for k, p in paths.items()},
         'scope': 'Footprint-masked crops; no independent registration certification'})
@@ -93,6 +109,7 @@ def prepare(root, out):
         'building_ids': ids, 'xy_m': centers, 'features': features.tolist(),
         'standardized_features': standardized.tolist(), 'similarity': similarity.tolist(),
         'tau': tau, 'feature_scope': '24 post RGB histogram bins + 6 post mean/std + 6 pre-post delta mean/std',
+        'feature_mode': feature_mode, 'active_feature_dimensions': int(features.shape[1]),
         'normalization': 'Unlabelled full satellite cohort; std floor0.05; median positive pairwise distance',
         'uses_uas_or_noaa_pixels': False})
     for start in (0, 6):
@@ -147,6 +164,92 @@ def score_statistics(p0, anchor, feedback, xy, similarity):
     return {'S0_no_update': p0.copy(),
             'S1_spatial': np.clip(p0 + .5 * spatial * residual, 0, 1),
             'S2_visual_spatial': np.clip(p0 + .5 * spatial * similarity[anchor] * residual, 0, 1)}
+
+
+def run_feature_ablation(root, source, out, feature_mode):
+    """Reuse frozen VLM p0 and observed anchor labels; do not call any model."""
+    if out.exists():
+        raise FileExistsError('Use a new output directory for the ablation')
+    if feature_mode != 'change-only':
+        raise ValueError('This cached ablation is defined for change-only features')
+    f = json.loads((source/'satellite_features.json').read_text())
+    ids = f['building_ids']
+    initial = json.loads((source/'vlm_initial_scores.json').read_text())
+    p0 = np.array([initial[uid] for uid in ids])
+    ref_path = root/'output/disaster_route_boone_context_pilot_v1/evaluator_only_view_references.json'
+    refs = json.loads(ref_path.read_text())['rows']
+    labels = {r['building_id']: r['view_binary'] for r in refs}
+    active, z, similarity, tau = feature_kernel(f['features'], feature_mode)
+    _, _, fixed_width_similarity, _ = feature_kernel(f['features'], feature_mode, f['tau'])
+    np.testing.assert_allclose(z, np.asarray(f['standardized_features'])[:, 30:], rtol=0, atol=1e-12)
+    xy = np.asarray(f['xy_m'])
+    original = {}
+    for row in json.loads((source/'prediction_rows.json').read_text()):
+        original.setdefault((row['anchor_id'], row['method']), {})[row['target_id']] = row['score']
+    original_methods = ('S0_no_update', 'S1_spatial', 'S2_visual_spatial')
+    per_anchor, details, ranks, aggregates = [], [], [], {}
+    for a, anchor in enumerate(ids):
+        target_ids = [uid for uid in ids if uid != anchor]
+        predictions = {method: original[anchor, method] for method in original_methods}
+        for name, sim in [('S3_change6', similarity), ('S4_change6_old_tau', fixed_width_similarity)]:
+            scores = score_statistics(p0, a, labels[anchor]['uas'], xy, sim)['S2_visual_spatial']
+            predictions[name] = {uid: float(scores[i]) for i, uid in enumerate(ids) if uid != anchor}
+        order = {method: sorted(target_ids, key=lambda uid: (-scores[uid], uid))
+                 for method, scores in predictions.items()}
+        for method, scores in predictions.items():
+            for uid in target_ids:
+                details.append({'anchor_id': anchor, 'target_id': uid, 'method': method, 'score': scores[uid]})
+            for view in ('uas', 'crewed'):
+                m = metrics([scores[uid] for uid in target_ids], [labels[uid][view] for uid in target_ids])
+                per_anchor.append({'anchor_id': anchor, 'method': method, 'reference_source': view, **m})
+                aggregates.setdefault((view, method), []).append(m)
+        for i, uid in enumerate(ids):
+            if uid == anchor:
+                continue
+            row = {'anchor_id': anchor, 'target_id': uid, 'target_uas_label': labels[uid]['uas'],
+                   'similarity36': f['similarity'][a][i], 'similarity6': float(similarity[a, i]),
+                   'similarity6_old_tau': float(fixed_width_similarity[a, i])}
+            for method, scores in predictions.items():
+                row[method+'_rank'] = order[method].index(uid)+1
+                row[method+'_score'] = scores[uid]
+            ranks.append(row)
+    table = []
+    for (view, method), items in aggregates.items():
+        table.append({'reference_source': view, 'method': method,
+                      **{key: float(np.mean([m[key] for m in items if m[key] is not None]))
+                         for key in ('brier', 'log_loss', 'ap', 'top3_positive')}})
+    baseline = json.loads((source/'summary.json').read_text())
+    for row in table:
+        if row['method'] in original_methods:
+            expected = next(r for r in baseline['table'] if r['method']==row['method']
+                            and r['reference_source']==row['reference_source'])
+            for key in ('brier', 'log_loss', 'ap', 'top3_positive'):
+                assert abs(row[key]-expected[key]) < 1e-12
+    out.mkdir(parents=True)
+    dump(out/'execution_recipe.json', {'mode': 'cached_change_only_ablation',
+         'feature_slice': '[:, 30:]', 'space_scale_m': 50, 'residual_gain': .5,
+         'primary_tau_rule': 'median positive feature distance, unchanged rule',
+         'secondary_tau': 'same numeric tau as36-dimensional baseline',
+         'script_sha256': sha(Path(__file__)),
+         'input_hashes': {name: sha(source/name) for name in
+                          ('satellite_features.json', 'vlm_initial_scores.json', 'prediction_rows.json', 'summary.json')},
+         'reference_sha256': sha(ref_path), 'new_model_calls': 0})
+    dump(out/'satellite_features.json', {'building_ids': ids, 'features': active.tolist(),
+         'standardized_features': z.tolist(), 'similarity': similarity.tolist(),
+         'similarity_old_tau': fixed_width_similarity.tolist(), 'tau': tau,
+         'old_tau': f['tau'], 'feature_scope': '6 pre-post delta mean/std only'})
+    dump(out/'per_anchor_scores.json', per_anchor)
+    dump(out/'prediction_rows.json', details)
+    dump(out/'target_rank_changes.json', ranks)
+    with (out/'summary.csv').open('w', newline='') as file:
+        writer = csv.DictWriter(file, fieldnames=list(table[0]), lineterminator='\n')
+        writer.writeheader()
+        writer.writerows(table)
+    summary = {'status': 'CACHED_CHANGE_ONLY_ABLATION_COMPLETE', 'table': table,
+               'tau6': tau, 'tau36': f['tau'], 'anchor_cases': len(ids),
+               'new_model_calls': 0, 'new_route_claims': False}
+    dump(out/'summary.json', summary)
+    print(json.dumps(summary, ensure_ascii=False, indent=2))
 
 
 def run_vlm(root, out, revision, limit):
@@ -299,13 +402,19 @@ def main():
     parser.add_argument('--prepare-only', action='store_true')
     parser.add_argument('--revision')
     parser.add_argument('--limit-anchors', type=int)
+    parser.add_argument('--feature-mode', choices=('all', 'change-only'), default='all')
+    parser.add_argument('--statistics-only-from', type=Path)
     args = parser.parse_args()
     out = args.output.resolve()
+    if args.statistics_only_from:
+        run_feature_ablation(args.workspace.resolve(), args.statistics_only_from.resolve(), out, args.feature_mode)
+        return
     out.mkdir(parents=True, exist_ok=True)
     # Freeze the executable recipe before inspecting prediction results.
     recipe = {'model': MODEL, 'revision': args.revision,
               'spatial_scale_m': 50, 'residual_gain': .5,
               'features': '24 RGB histogram + post mean/std + pre/post delta mean/std',
+              'feature_mode': args.feature_mode,
               'feature_std_floor': .05, 'visual_tau': 'median positive unlabelled distance',
               'score': 'next-token class probability combining bare and leading-space A/B tokens',
               'label_only_ablation': True,
@@ -319,7 +428,7 @@ def main():
     else:
         dump(previous, recipe)
     if not (out / 'crop_manifest.json').exists():
-        prepare(args.workspace.resolve(), out)
+        prepare(args.workspace.resolve(), out, args.feature_mode)
     if not args.prepare_only:
         if not args.revision:
             raise ValueError('Pin a model revision')

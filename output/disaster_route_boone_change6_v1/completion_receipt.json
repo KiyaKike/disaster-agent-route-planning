@@ -1,0 +1,18 @@
+{
+  "status": "CHANGE6_ABLATION_COMPLETE",
+  "files": {
+    "README.md": "4a7a220ffbb11845ddf62f5c1cdcfb6e61ee6ad17429e9fd8aa152e7a4b70216",
+    "audit.json": "3e5ba68a3e95741d67f8e1098950e231733d179ec16145648e77a94c8bcc1c39",
+    "execution_recipe.json": "8019721083f5b0d0b13f0a3845e0db2dd9be730134ae66575308ba5af6b0f583",
+    "kernel_diagnostic.json": "23be3c5251059977c6011285bf049e12bdd80a8f7b02871a055b339106418217",
+    "per_anchor_scores.json": "9105552eea1a661a1dab8de96ba2989cde9256c354177b0fd6242c9967146a97",
+    "prediction_rows.json": "483cf255f7937d8a4a780b6b0f3eb25ad681b7ef3276a219a28387b1fe6525f2",
+    "satellite_features.json": "2f84448431e6fbc439b704b96066441f2219ee0da16e9994df9068028fc4e476",
+    "source_snapshots/run_boone_context_experiment.py": "2e7d20d6aa64f2e9c2bac4258a64444cbc026559b4ee0f59bdb3966c7035e22d",
+    "source_snapshots/test_boone_context_experiment.py": "5057a09fdbca1048e4a028f84b52f7aaf81e956428bb589857bd5d230d91a14c",
+    "summary.csv": "e2dc9cab805fe05fbcee7b01af3cb8533bc77d6c4011146698eab8badbcea231",
+    "summary.json": "940fa0e6884371d54bb7b714882207876d56894f77f244171cc4922f7373569a",
+    "target_rank_changes.json": "589fecc5696460f36ec732346655c15fcb850ecec64065fa8a1019a51e949ef5",
+    "tests.txt": "c59735b033aa2cf027855442793a2823e322375c1940cbc776cad2b855e6e0fe"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "original_experiment_files_verified": 358,
+  "independent_metric_checks": 40,
+  "feature_dimensions": 6,
+  "new_model_calls": 0,
+  "baseline_scores_unchanged": true
+}

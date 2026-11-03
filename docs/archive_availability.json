@@ -16389,5 +16389,11 @@
     "present_verified_entries": 10,
     "absent_original_entries": [],
     "scope": "Complete lightweight post-hoc audit;input experiment and individual source crops remain governed by their own availability entries."
+  },
+  {
+    "receipt": "output/disaster_route_boone_change6_v1/completion_receipt.json",
+    "present_verified_entries": 13,
+    "absent_original_entries": [],
+    "scope": "Complete lightweight cached feature ablation;source image and VLM input availability governed by prior entries."
   }
 ]

@@ -1,0 +1,90 @@
+{
+  "status": "CACHED_CHANGE_ONLY_ABLATION_COMPLETE",
+  "table": [
+    {
+      "reference_source": "uas",
+      "method": "S0_no_update",
+      "brier": 0.20292746698474662,
+      "log_loss": 0.5970406687651741,
+      "ap": 0.3774470899470899,
+      "top3_positive": 0.9166666666666666
+    },
+    {
+      "reference_source": "crewed",
+      "method": "S0_no_update",
+      "brier": 0.18681740935261823,
+      "log_loss": 0.5644099191752471,
+      "ap": 0.1773809523809524,
+      "top3_positive": 0.0
+    },
+    {
+      "reference_source": "uas",
+      "method": "S1_spatial",
+      "brier": 0.20914480699585192,
+      "log_loss": 0.60669160355684,
+      "ap": 0.4597723264389931,
+      "top3_positive": 0.9166666666666666
+    },
+    {
+      "reference_source": "crewed",
+      "method": "S1_spatial",
+      "brier": 0.18483363908126205,
+      "log_loss": 0.5542551601118929,
+      "ap": 0.382674963924964,
+      "top3_positive": 0.5
+    },
+    {
+      "reference_source": "uas",
+      "method": "S2_visual_spatial",
+      "brier": 0.20612832130693617,
+      "log_loss": 0.6027718300656418,
+      "ap": 0.43594075677409005,
+      "top3_positive": 0.9166666666666666
+    },
+    {
+      "reference_source": "crewed",
+      "method": "S2_visual_spatial",
+      "brier": 0.1850406436189225,
+      "log_loss": 0.5584228324591027,
+      "ap": 0.28298911736411736,
+      "top3_positive": 0.3333333333333333
+    },
+    {
+      "reference_source": "uas",
+      "method": "S3_change6",
+      "brier": 0.2088018534473889,
+      "log_loss": 0.6088985734601916,
+      "ap": 0.3628477232643899,
+      "top3_positive": 0.5833333333333334
+    },
+    {
+      "reference_source": "crewed",
+      "method": "S3_change6",
+      "brier": 0.18779576125842443,
+      "log_loss": 0.5647600857158683,
+      "ap": 0.23336940836940834,
+      "top3_positive": 0.08333333333333333
+    },
+    {
+      "reference_source": "uas",
+      "method": "S4_change6_old_tau",
+      "brier": 0.20873266281789335,
+      "log_loss": 0.606762963754507,
+      "ap": 0.4742233846400512,
+      "top3_positive": 1.0
+    },
+    {
+      "reference_source": "crewed",
+      "method": "S4_change6_old_tau",
+      "brier": 0.1851331710368654,
+      "log_loss": 0.5561569664141585,
+      "ap": 0.4015241702741703,
+      "top3_positive": 0.5833333333333334
+    }
+  ],
+  "tau6": 3.1525818320172165,
+  "tau36": 8.630570080423464,
+  "anchor_cases": 12,
+  "new_model_calls": 0,
+  "new_route_claims": false
+}

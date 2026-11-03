@@ -10,8 +10,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3964,
-      "sha256": "3cb6a647e8924087a905defaf35f0812c337cac8b78e163129ade4667975a44d"
+      "bytes": 4089,
+      "sha256": "674a4dae7c2c9571786ed3e0561633a565f2a43910592e066c0aadcd7fffcbfb"
     },
     {
       "path": "docs/REPRODUCIBILITY.md",
@@ -25,8 +25,8 @@
     },
     {
       "path": "docs/archive_availability.json",
-      "bytes": 684238,
-      "sha256": "8290afd0f0a6533c82a23c185b2ee8306ef8ff807e3a0ddf04c0e80c5250c246"
+      "bytes": 684526,
+      "sha256": "36ee081e2eb156b41702003ad319d6046543dd116f854f6401abc322ca5910fc"
     },
     {
       "path": "docs/third_party/CrossViewGate_LICENSE.txt",
@@ -152,6 +152,76 @@
       "path": "output/disaster_route_aippms_control_v1/visual_inspection.json",
       "bytes": 423,
       "sha256": "05ea480df619aed7431001f644e418c5bb2b8d4a5b1897e77b6ecbc87547402a"
+    },
+    {
+      "path": "output/disaster_route_boone_change6_v1/README.md",
+      "bytes": 3562,
+      "sha256": "4a7a220ffbb11845ddf62f5c1cdcfb6e61ee6ad17429e9fd8aa152e7a4b70216"
+    },
+    {
+      "path": "output/disaster_route_boone_change6_v1/audit.json",
+      "bytes": 191,
+      "sha256": "3e5ba68a3e95741d67f8e1098950e231733d179ec16145648e77a94c8bcc1c39"
+    },
+    {
+      "path": "output/disaster_route_boone_change6_v1/completion_receipt.json",
+      "bytes": 1329,
+      "sha256": "f5a93381340ce5820f9e41493d13a78a8fd690ef2e586cad8e8c08fed337ca44"
+    },
+    {
+      "path": "output/disaster_route_boone_change6_v1/execution_recipe.json",
+      "bytes": 868,
+      "sha256": "8019721083f5b0d0b13f0a3845e0db2dd9be730134ae66575308ba5af6b0f583"
+    },
+    {
+      "path": "output/disaster_route_boone_change6_v1/kernel_diagnostic.json",
+      "bytes": 402,
+      "sha256": "23be3c5251059977c6011285bf049e12bdd80a8f7b02871a055b339106418217"
+    },
+    {
+      "path": "output/disaster_route_boone_change6_v1/per_anchor_scores.json",
+      "bytes": 29504,
+      "sha256": "9105552eea1a661a1dab8de96ba2989cde9256c354177b0fd6242c9967146a97"
+    },
+    {
+      "path": "output/disaster_route_boone_change6_v1/prediction_rows.json",
+      "bytes": 117940,
+      "sha256": "483cf255f7937d8a4a780b6b0f3eb25ad681b7ef3276a219a28387b1fe6525f2"
+    },
+    {
+      "path": "output/disaster_route_boone_change6_v1/satellite_features.json",
+      "bytes": 12280,
+      "sha256": "2f84448431e6fbc439b704b96066441f2219ee0da16e9994df9068028fc4e476"
+    },
+    {
+      "path": "output/disaster_route_boone_change6_v1/source_snapshots/run_boone_context_experiment.py",
+      "bytes": 23908,
+      "sha256": "2e7d20d6aa64f2e9c2bac4258a64444cbc026559b4ee0f59bdb3966c7035e22d"
+    },
+    {
+      "path": "output/disaster_route_boone_change6_v1/source_snapshots/test_boone_context_experiment.py",
+      "bytes": 2826,
+      "sha256": "5057a09fdbca1048e4a028f84b52f7aaf81e956428bb589857bd5d230d91a14c"
+    },
+    {
+      "path": "output/disaster_route_boone_change6_v1/summary.csv",
+      "bytes": 977,
+      "sha256": "e2dc9cab805fe05fbcee7b01af3cb8533bc77d6c4011146698eab8badbcea231"
+    },
+    {
+      "path": "output/disaster_route_boone_change6_v1/summary.json",
+      "bytes": 2448,
+      "sha256": "940fa0e6884371d54bb7b714882207876d56894f77f244171cc4922f7373569a"
+    },
+    {
+      "path": "output/disaster_route_boone_change6_v1/target_rank_changes.json",
+      "bytes": 86234,
+      "sha256": "589fecc5696460f36ec732346655c15fcb850ecec64065fa8a1019a51e949ef5"
+    },
+    {
+      "path": "output/disaster_route_boone_change6_v1/tests.txt",
+      "bytes": 1341,
+      "sha256": "c59735b033aa2cf027855442793a2823e322375c1940cbc776cad2b855e6e0fe"
     },
     {
       "path": "output/disaster_route_boone_context_pilot_v1/README.md",
@@ -7085,8 +7155,8 @@
     },
     {
       "path": "work/disaster_route/README.md",
-      "bytes": 10603,
-      "sha256": "c74aed5dde90624d43a84fde105bc3786a8e5335cb8af03162f8dfa5aeb6f5f6"
+      "bytes": 10781,
+      "sha256": "c861b9d337dc1ed4532e6659c1d75e2d909ac7b44cdc372601a0a011772570ca"
     },
     {
       "path": "work/disaster_route/acquire_xbd_route_metadata.py",
@@ -7240,8 +7310,8 @@
     },
     {
       "path": "work/disaster_route/export_github_snapshot.py",
-      "bytes": 13501,
-      "sha256": "af5e4031914215076651828e7a90c5870f9db10c1d7cebbde2519eeaeed10ae2"
+      "bytes": 13626,
+      "sha256": "6351756b923a6d9ca817764df1630509a41ba0ea09965c9cf5de18304d53e100"
     },
     {
       "path": "work/disaster_route/extract_crasar_region.py",
@@ -7405,8 +7475,8 @@
     },
     {
       "path": "work/disaster_route/run_boone_context_experiment.py",
-      "bytes": 17222,
-      "sha256": "90748f47450a99a2e230db2ac9be1b3fa290fa36ed970debb8697c89fe61c11b"
+      "bytes": 23908,
+      "sha256": "2e7d20d6aa64f2e9c2bac4258a64444cbc026559b4ee0f59bdb3966c7035e22d"
     },
     {
       "path": "work/disaster_route/run_crasar_batch.py",
@@ -7495,8 +7565,8 @@
     },
     {
       "path": "work/disaster_route/test_boone_context_experiment.py",
-      "bytes": 1586,
-      "sha256": "04c050c75104be75bc972840df9201cb997aefa01bc15e51f643df83782548ac"
+      "bytes": 2826,
+      "sha256": "5057a09fdbca1048e4a028f84b52f7aaf81e956428bb589857bd5d230d91a14c"
     },
     {
       "path": "work/disaster_route/test_boone_context_pilot.py",
@@ -7650,8 +7720,8 @@
     },
     {
       "path": "work/disaster_route/在线上下文反馈_学习与实验路线.md",
-      "bytes": 11684,
-      "sha256": "4c3891238ebee8b1c6cfa6a991e8e0d906ab7c9d738834e05e2f14c3a7f6a74b"
+      "bytes": 11833,
+      "sha256": "305370181d8b0f60cde8da210797f7b77e709e5bfd17d5675507f5d59cc41b49"
     },
     {
       "path": "work/disaster_route/在线上下文反馈_第一课.md",
@@ -7660,8 +7730,8 @@
     },
     {
       "path": "work/disaster_route/研究目标与接手计划.md",
-      "bytes": 7756,
-      "sha256": "dda719568ba3215813eb130b8c61dce635e0e8f3c0c0e660c172fd5cbb70c90b"
+      "bytes": 8196,
+      "sha256": "e271594f7b7cb9ec2cfd6055844748e698dbfd5d688ae8b35abd21d3c63695cb"
     },
     {
       "path": "work/disaster_route/研究记录/20261103_旧复核候选接手计划.md",
@@ -8572,10 +8642,10 @@
   "original_scientific_records_rewritten": false,
   "credential_pattern_scan": "No known credential patterns found in included text files;not a guarantee for arbitrary secrets",
   "original_copied_files": 1377,
-  "total_included_bytes": 65524392,
+  "total_included_bytes": 65817433,
   "latest_update": {
     "date": "2026-11-03",
-    "scope": "Post-hoc per-building attribution of visual-spatial versus spatial AP gap;no new model predictions.",
-    "added_file_count": 12
+    "scope": "Cached last6-feature ablation;original bandwidth rule and fixed numeric bandwidth both reported;no new VLM calls.",
+    "added_file_count": 14
   }
 }

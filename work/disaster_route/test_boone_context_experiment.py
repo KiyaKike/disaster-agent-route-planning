@@ -4,10 +4,31 @@ import unittest
 import numpy as np
 from PIL import Image
 
-from run_boone_context_experiment import grouped_ap, masked_crop, metrics, score_statistics
+from run_boone_context_experiment import feature_kernel, grouped_ap, masked_crop, metrics, score_statistics
 
 
 class ExperimentTests(unittest.TestCase):
+    def test_change_only_kernel_cannot_read_discarded_color_dimensions(self):
+        rng = np.random.default_rng(42)
+        features = rng.normal(size=(12, 36))
+        altered = features.copy()
+        altered[:, :30] = rng.normal(size=(12, 30))*100
+        for original, changed in zip(feature_kernel(features, 'change-only'),
+                                     feature_kernel(altered, 'change-only')):
+            np.testing.assert_allclose(original, changed, rtol=0, atol=0)
+        _, full_z, _, _ = feature_kernel(features)
+        active, change_z, _, _ = feature_kernel(features, 'change-only')
+        self.assertEqual(active.shape, (12, 6))
+        np.testing.assert_allclose(change_z, full_z[:, 30:], rtol=0, atol=1e-12)
+
+    def test_identical_features_reduce_visual_update_to_spatial_update(self):
+        _, _, similarity, tau = feature_kernel(np.zeros((3, 36)), 'change-only')
+        np.testing.assert_array_equal(similarity, np.ones((3, 3)))
+        self.assertGreater(tau, 0)
+        p0, xy = np.array([.8, .7, .6]), np.array([[0, 0], [1, 0], [2, 0]])
+        scores = score_statistics(p0, 0, 0, xy, similarity)
+        np.testing.assert_array_equal(scores['S1_spatial'], scores['S2_visual_spatial'])
+
     def test_unobserved_background_cannot_change_crop_or_features(self):
         first = np.zeros((24, 24, 3), dtype=np.uint8)
         second = np.full_like(first, 255)

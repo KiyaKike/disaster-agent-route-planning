@@ -1,0 +1,17 @@
+{
+  "mode": "cached_change_only_ablation",
+  "feature_slice": "[:, 30:]",
+  "space_scale_m": 50,
+  "residual_gain": 0.5,
+  "primary_tau_rule": "median positive feature distance, unchanged rule",
+  "secondary_tau": "same numeric tau as36-dimensional baseline",
+  "script_sha256": "2e7d20d6aa64f2e9c2bac4258a64444cbc026559b4ee0f59bdb3966c7035e22d",
+  "input_hashes": {
+    "satellite_features.json": "e2342a58b382a0d999bae9bcdfe9e83e6d79faae66bc0206911cda41b2b93d6e",
+    "vlm_initial_scores.json": "5a856ea7685d87391c61e5613207572980aa1a5c4a63bf506f7ae94d492ecbf8",
+    "prediction_rows.json": "6c577c558484e7beb30cbab405e22bc2d2866be6262946d1faee91f69527f061",
+    "summary.json": "de6d0497b5a3e44862d53d73d90eafc07e1f3f0712b6ee14ec9fe4938be03ba4"
+  },
+  "reference_sha256": "54961da64b8de2e390ff017785b4370c17dac6719f524fb909ae76a319d17aa5",
+  "new_model_calls": 0
+}
