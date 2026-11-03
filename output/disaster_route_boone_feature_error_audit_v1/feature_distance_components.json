@@ -1,0 +1,34 @@
+[
+  {
+    "anchor_name": "B11",
+    "target_name": "B09",
+    "post_RGB_histogram_squared_distance": 19.294218446263883,
+    "post_mean_std_squared_distance": 3.251578378521124,
+    "pre_post_delta_mean_std_squared_distance": 0.5652294299225357,
+    "total_squared_distance": 23.111026254707543
+  },
+  {
+    "anchor_name": "B11",
+    "target_name": "B10",
+    "post_RGB_histogram_squared_distance": 55.015535900647606,
+    "post_mean_std_squared_distance": 18.463420440304674,
+    "pre_post_delta_mean_std_squared_distance": 9.127099963415244,
+    "total_squared_distance": 82.60605630436753
+  },
+  {
+    "anchor_name": "B04",
+    "target_name": "B01",
+    "post_RGB_histogram_squared_distance": 107.56422718805524,
+    "post_mean_std_squared_distance": 44.14824139239097,
+    "pre_post_delta_mean_std_squared_distance": 60.02156797583476,
+    "total_squared_distance": 211.73403655628096
+  },
+  {
+    "anchor_name": "B04",
+    "target_name": "B07",
+    "post_RGB_histogram_squared_distance": 27.595979138955936,
+    "post_mean_std_squared_distance": 1.946729203098595,
+    "pre_post_delta_mean_std_squared_distance": 5.170645322245825,
+    "total_squared_distance": 34.71335366430036
+  }
+]

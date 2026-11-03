@@ -16383,5 +16383,11 @@
       "crops/eeb2077a2d8a447a8020fd1dea437511/uas.png"
     ],
     "scope": "Actual local experiment receipt;60 individual building crops remain local,while report panels and logs are included."
+  },
+  {
+    "receipt": "output/disaster_route_boone_feature_error_audit_v1/completion_receipt.json",
+    "present_verified_entries": 10,
+    "absent_original_entries": [],
+    "scope": "Complete lightweight post-hoc audit;input experiment and individual source crops remain governed by their own availability entries."
   }
 ]

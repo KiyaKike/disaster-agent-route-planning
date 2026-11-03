@@ -1,0 +1,40 @@
+{
+  "analysis_type": "post_hoc_error_audit_not_new_experiment",
+  "spatial_ap": 0.4597723264389931,
+  "visual_ap": 0.43594075677409005,
+  "delta": -0.02383156966490302,
+  "improved_anchor_cases": 4,
+  "worse_anchor_cases": 5,
+  "tied_anchor_cases": 3,
+  "positive_target_contributions": [
+    {
+      "target_id": "24fd756ce06b4f75adbc71d39946b8ba",
+      "target_name": "B03",
+      "spatial_macro_ap_contribution": 0.16035353535353536,
+      "visual_macro_ap_contribution": 0.15340909090909088,
+      "delta": -0.006944444444444475
+    },
+    {
+      "target_id": "8b22dfaa54eb4bd09bfd31a68e5dd2c9",
+      "target_name": "B07",
+      "spatial_macro_ap_contribution": 0.13271604938271603,
+      "visual_macro_ap_contribution": 0.13643077601410933,
+      "delta": 0.0037147266313933003
+    },
+    {
+      "target_id": "9c11b326de2a4e4aa731385dc2fb3baf",
+      "target_name": "B09",
+      "spatial_macro_ap_contribution": 0.1667027417027417,
+      "visual_macro_ap_contribution": 0.14610088985088984,
+      "delta": -0.02060185185185187
+    }
+  ],
+  "reference": "Published UAS-view labels",
+  "new_model_calls": 0,
+  "input_hashes": {
+    "prediction_rows.json": "6c577c558484e7beb30cbab405e22bc2d2866be6262946d1faee91f69527f061",
+    "satellite_features.json": "e2342a58b382a0d999bae9bcdfe9e83e6d79faae66bc0206911cda41b2b93d6e",
+    "crop_manifest.json": "5882faf8914c07d0fa947c922f4d9a5de265dc3f43887fbbf5d8a9c0430fe935",
+    "summary.json": "de6d0497b5a3e44862d53d73d90eafc07e1f3f0712b6ee14ec9fe4938be03ba4"
+  }
+}

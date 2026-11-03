@@ -10,8 +10,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3841,
-      "sha256": "e1d92198fbeafdb63ac4f572f071542016ab78bcf30f3aa37268cddc90bf9203"
+      "bytes": 3964,
+      "sha256": "3cb6a647e8924087a905defaf35f0812c337cac8b78e163129ade4667975a44d"
     },
     {
       "path": "docs/REPRODUCIBILITY.md",
@@ -25,8 +25,8 @@
     },
     {
       "path": "docs/archive_availability.json",
-      "bytes": 683918,
-      "sha256": "6ee80376ddc7e65cf91fab376403b1c2ad86d35235de6b49b2cb99465deebc43"
+      "bytes": 684238,
+      "sha256": "8290afd0f0a6533c82a23c185b2ee8306ef8ff807e3a0ddf04c0e80c5250c246"
     },
     {
       "path": "docs/third_party/CrossViewGate_LICENSE.txt",
@@ -1667,6 +1667,61 @@
       "path": "output/disaster_route_boone_context_run_v2/vlm_initial_scores.json",
       "bytes": 701,
       "sha256": "5a856ea7685d87391c61e5613207572980aa1a5c4a63bf506f7ae94d492ecbf8"
+    },
+    {
+      "path": "output/disaster_route_boone_feature_error_audit_v1/README.md",
+      "bytes": 4008,
+      "sha256": "5df1d0ef50b50c37602162f315ae336ae07f71f4459a13a575e83e65317140a5"
+    },
+    {
+      "path": "output/disaster_route_boone_feature_error_audit_v1/audit.json",
+      "bytes": 276,
+      "sha256": "ce326baee3e1d2946879798ee99b443cdf68f71d5e7f76c024e3d7cc95b417e8"
+    },
+    {
+      "path": "output/disaster_route_boone_feature_error_audit_v1/case_B04_panel.png",
+      "bytes": 363366,
+      "sha256": "7033b897d82e2bf94bb42f1820b2f6a5086dabe4b59a62ec83d56eccc60cd9ba"
+    },
+    {
+      "path": "output/disaster_route_boone_feature_error_audit_v1/case_B11_panel.png",
+      "bytes": 348698,
+      "sha256": "a8a1357bb65d000e8de8fcf3a4c0840c0b03360c4cef05bca8af7c90eabaab0c"
+    },
+    {
+      "path": "output/disaster_route_boone_feature_error_audit_v1/case_B12_panel.png",
+      "bytes": 258231,
+      "sha256": "f66383ccebb5caada55abc15f54881f350fc91cf1a51ae3a2159712f710f55dd"
+    },
+    {
+      "path": "output/disaster_route_boone_feature_error_audit_v1/completion_receipt.json",
+      "bytes": 1028,
+      "sha256": "0809548e34ee327e3ff1328e3bca4e4fb4686a6ef54d0a928e34e785295cabcc"
+    },
+    {
+      "path": "output/disaster_route_boone_feature_error_audit_v1/feature_distance_components.json",
+      "bytes": 1191,
+      "sha256": "0526c20a5bac3c3ca7183983012f6fad438d3c24246a3558b1c00fe1a433698e"
+    },
+    {
+      "path": "output/disaster_route_boone_feature_error_audit_v1/per_anchor.json",
+      "bytes": 6708,
+      "sha256": "1b43310daa4dbbac5da7215adb639deec6d55aed9ef90325490b9f170ba53ad5"
+    },
+    {
+      "path": "output/disaster_route_boone_feature_error_audit_v1/source_snapshots/inspect_boone_feature_errors.py",
+      "bytes": 8319,
+      "sha256": "66e6d01d6679589ab0da9b38c8b63a9912a749627c52ae030ee4b02b6f640906"
+    },
+    {
+      "path": "output/disaster_route_boone_feature_error_audit_v1/summary.json",
+      "bytes": 1517,
+      "sha256": "cb88e80780f0796d953f73aefa52ca11e8893b7aa0b918363483cda287f428b2"
+    },
+    {
+      "path": "output/disaster_route_boone_feature_error_audit_v1/target_rank_changes.csv",
+      "bytes": 24899,
+      "sha256": "3988513547b365ea0d1c715d2fa2fa5d9768d71f1cf14119396d9169286a4189"
     },
     {
       "path": "output/disaster_route_crasar_batch4_v1/README.md",
@@ -7030,8 +7085,8 @@
     },
     {
       "path": "work/disaster_route/README.md",
-      "bytes": 10390,
-      "sha256": "2615d5697d42b6f6e0088270cb3566f547c7ec99845ae14dafa4dbfff499ae66"
+      "bytes": 10603,
+      "sha256": "c74aed5dde90624d43a84fde105bc3786a8e5335cb8af03162f8dfa5aeb6f5f6"
     },
     {
       "path": "work/disaster_route/acquire_xbd_route_metadata.py",
@@ -7185,8 +7240,8 @@
     },
     {
       "path": "work/disaster_route/export_github_snapshot.py",
-      "bytes": 13378,
-      "sha256": "784d2409cbaf36fa943de00a163dec6c3fa449325812f9671bf6a9cea1beaff5"
+      "bytes": 13501,
+      "sha256": "af5e4031914215076651828e7a90c5870f9db10c1d7cebbde2519eeaeed10ae2"
     },
     {
       "path": "work/disaster_route/extract_crasar_region.py",
@@ -7227,6 +7282,11 @@
       "path": "work/disaster_route/finish_xbd_capture_metadata.py",
       "bytes": 2785,
       "sha256": "43a6a348a092fae439ba6074972d8336d265bcb8a2c5c4e0277269aec09660ce"
+    },
+    {
+      "path": "work/disaster_route/inspect_boone_feature_errors.py",
+      "bytes": 8319,
+      "sha256": "66e6d01d6679589ab0da9b38c8b63a9912a749627c52ae030ee4b02b6f640906"
     },
     {
       "path": "work/disaster_route/inspection_information_core.py",
@@ -7600,8 +7660,8 @@
     },
     {
       "path": "work/disaster_route/研究目标与接手计划.md",
-      "bytes": 7321,
-      "sha256": "abc74b7e1d8e830b2d3dcbe8d81bd1ef274a22ed2a09b7d3597f1444f0859447"
+      "bytes": 7756,
+      "sha256": "dda719568ba3215813eb130b8c61dce635e0e8f3c0c0e660c172fd5cbb70c90b"
     },
     {
       "path": "work/disaster_route/研究记录/20261103_旧复核候选接手计划.md",
@@ -8512,10 +8572,10 @@
   "original_scientific_records_rewritten": false,
   "credential_pattern_scan": "No known credential patterns found in included text files;not a guarantee for arbitrary secrets",
   "original_copied_files": 1377,
-  "total_included_bytes": 64496618,
+  "total_included_bytes": 65524392,
   "latest_update": {
     "date": "2026-11-03",
-    "scope": "Completed Boone local SmolVLM experiment;276 valid forwards; statistical and label-only controls; individual crops and model weights stay local.",
-    "added_file_count": 303
+    "scope": "Post-hoc per-building attribution of visual-spatial versus spatial AP gap;no new model predictions.",
+    "added_file_count": 12
   }
 }

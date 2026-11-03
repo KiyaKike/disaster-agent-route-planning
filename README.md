@@ -13,7 +13,7 @@
 5. [最小机制筛选及止损](output/disaster_route_verification_screen_v1/README.md)
 6. [四区域强对照与观测增量诊断](output/disaster_route_crasar_batch4_v1/README.md)
 
-已完成[Boone真实切片与本地小VLM对照](output/disaster_route_boone_context_run_v2/README.md)：60张切片、276次正式前向；UAS视角AP不更新0.377、空间0.460、视觉统计0.436、VLM完整历史0.342。当前配置没有收益；下一项复用同一切片做较强VLM的固定锚点复核。
+已完成[Boone真实切片与本地小VLM对照](output/disaster_route_boone_context_run_v2/README.md)：60张切片、276次正式前向；UAS视角AP不更新0.377、空间0.460、视觉统计0.436、VLM完整历史0.342。当前小VLM配置没有收益。新增[逐建筑错误分析](output/disaster_route_boone_feature_error_audit_v1/README.md)：视觉统计组净AP差距主要来自B09，下一项优先检验外观门控表征。
 
 ## 当前结论（2026-11-03快照）
 

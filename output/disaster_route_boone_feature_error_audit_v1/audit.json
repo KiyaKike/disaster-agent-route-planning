@@ -1,0 +1,11 @@
+{
+  "old_run_sealed_files_verified": 358,
+  "macro_ap_reconstructed": true,
+  "positive_contributions_sum_to_macro_delta": true,
+  "new_model_calls": 0,
+  "panels_selected_post_hoc": true,
+  "manually_viewed_panels": [
+    "case_B11_panel.png",
+    "case_B04_panel.png"
+  ]
+}
