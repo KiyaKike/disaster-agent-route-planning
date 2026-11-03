@@ -13,6 +13,8 @@
 5. [最小机制筛选及止损](output/disaster_route_verification_screen_v1/README.md)
 6. [四区域强对照与观测增量诊断](output/disaster_route_crasar_batch4_v1/README.md)
 
+当前开发准备：[Boone最小对照协议](work/disaster_route/boone_context_pilot_v1.md)／[案例索引与状态](output/disaster_route_boone_context_pilot_v1/README.md)。协议和索引已完成；合法切片、视觉条件统计参考及VLM预测尚未完成。
+
 ## 当前结论（2026-11-03快照）
 
 - 泛化的“路线分歧时考虑复核”在108个受控条件下与同策略空间精确贝叶斯参考收益一致，停止作为独立新方法扩展。

@@ -1,0 +1,43 @@
+{
+  "unique_regions": 1,
+  "unique_buildings": 12,
+  "overlapping_anchor_cases": 12,
+  "target_prediction_rows_not_independent": 132,
+  "positive_labels_by_source": {
+    "satellite": 4,
+    "uas": 3,
+    "crewed": 2
+  },
+  "label_histograms": {
+    "satellite": {
+      "no damage": 8,
+      "minor damage": 4
+    },
+    "uas": {
+      "no damage": 9,
+      "minor damage": 3
+    },
+    "crewed": {
+      "no damage": 10,
+      "minor damage": 2
+    }
+  },
+  "legacy_score_range": [
+    5.519974318699153e-07,
+    0.04136443954357333
+  ],
+  "legacy_score_semantics": "Damage model pixel fraction; not building probability",
+  "common_field_truth_established": false,
+  "common_state_established": false,
+  "status": "PROTOCOL_AND_CASE_INDEX_ONLY",
+  "new_model_calls": 0,
+  "gpu_rental": false,
+  "method_comparison_performed": false,
+  "next": "Prepare footprint-masked crops and inspect correspondence; freeze visual statistical baseline before model comparison",
+  "input_sha256": {
+    "output/disaster_route_crasar_region_rank2_v1/public_geometry.json": "5804300b841b6b089cb723f0e5e7a8e0a6ff022c2eb9b61703672d9ab3af001e",
+    "output/disaster_route_crasar_region_rank2_v1/public_planning_inputs_any_damage.json": "ac9ca08156587a1c89031fd019ecf696987b1d7dd4ad8fd3f52f6479c58ef770",
+    "output/disaster_route_noaa_entry_v1/private_view_reference_comparison.json": "01570c35265b79d4babf6af15c6636f258a64884334362cac8e1301ad6734e1b",
+    "output/disaster_route_noaa_entry_v1/entry_assessment.json": "cd96b1315897e47f8678d3d55ca08ab54395c574a38085a4cb86d678ae0e971f"
+  }
+}

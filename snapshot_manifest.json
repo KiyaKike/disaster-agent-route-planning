@@ -10,8 +10,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3487,
-      "sha256": "7ec40fc037998041c5604bfc4ae2669057af41fe4e8a5ad51c4c500e82c42df3"
+      "bytes": 3760,
+      "sha256": "436ca622d0d8e0f9c19084e27577a6b9a8ab1cb9facd2d657f6a3278cf900808"
     },
     {
       "path": "docs/REPRODUCIBILITY.md",
@@ -152,6 +152,26 @@
       "path": "output/disaster_route_aippms_control_v1/visual_inspection.json",
       "bytes": 423,
       "sha256": "05ea480df619aed7431001f644e418c5bb2b8d4a5b1897e77b6ecbc87547402a"
+    },
+    {
+      "path": "output/disaster_route_boone_context_pilot_v1/README.md",
+      "bytes": 1854,
+      "sha256": "2ee76c2515bf49fd014b1ea232663bd5a6b558265433b64baec2e1d95784dfa4"
+    },
+    {
+      "path": "output/disaster_route_boone_context_pilot_v1/evaluator_only_view_references.json",
+      "bytes": 3561,
+      "sha256": "54961da64b8de2e390ff017785b4370c17dac6719f524fb909ae76a319d17aa5"
+    },
+    {
+      "path": "output/disaster_route_boone_context_pilot_v1/preparation_summary.json",
+      "bytes": 1575,
+      "sha256": "a5428c8736968791386559246cb35cbeb419fd1ef4b089714f27d53075958180"
+    },
+    {
+      "path": "output/disaster_route_boone_context_pilot_v1/public_case_index.json",
+      "bytes": 23666,
+      "sha256": "d48ec5f6c5a4b8e6136dce8a01163601c2ff66db23550fe9d29af9c2708ee504"
     },
     {
       "path": "output/disaster_route_crasar_batch4_v1/README.md",
@@ -5515,8 +5535,8 @@
     },
     {
       "path": "work/disaster_route/README.md",
-      "bytes": 10010,
-      "sha256": "5081d27051eb0a8adacfc21066dd625cb104f14d4d94744f6e97007b37028785"
+      "bytes": 10172,
+      "sha256": "0fc2faa3c935ad1218d2170762cc5c5fb17dd2361f9cdb006c779c26775b0ab9"
     },
     {
       "path": "work/disaster_route/acquire_xbd_route_metadata.py",
@@ -5582,6 +5602,11 @@
       "path": "work/disaster_route/audit_verification_feasibility.py",
       "bytes": 4662,
       "sha256": "0baf4543d5b5c7f1bae97fe747547ff8e224a1ca4c2e46325f8a7a4f9d30b414"
+    },
+    {
+      "path": "work/disaster_route/boone_context_pilot_v1.md",
+      "bytes": 8551,
+      "sha256": "3cde6d988267be2ed20df2d38a792738117f535dce57f2939a1614bb3358673a"
     },
     {
       "path": "work/disaster_route/build_advisor_brief.py",
@@ -5655,8 +5680,8 @@
     },
     {
       "path": "work/disaster_route/export_github_snapshot.py",
-      "bytes": 13038,
-      "sha256": "34c8ce61f177f82a4884adb1bb11bbefe53cc3eeb598935f27fa3d127afbf7bb"
+      "bytes": 13311,
+      "sha256": "7519abb3798da427896fe4d9f5385fc207d06c0547746081e1f27b249298ef83"
     },
     {
       "path": "work/disaster_route/extract_crasar_region.py",
@@ -5727,6 +5752,11 @@
       "path": "work/disaster_route/postprocess_dual_map_viewer.py",
       "bytes": 1203,
       "sha256": "574f6a044984e8f1d0fe71f8ed65139f5929dc121007c152fb64ed3600680b6c"
+    },
+    {
+      "path": "work/disaster_route/prepare_boone_context_pilot.py",
+      "bytes": 5089,
+      "sha256": "2bb63f33d5eb7515f3f3cd72077c75a3f73c6f7eea73ec70f8fa53c12ba7e05d"
     },
     {
       "path": "work/disaster_route/probe_crasar_region.py",
@@ -5894,6 +5924,11 @@
       "sha256": "43b94eef91f64778f54dc78178b5cde9ff852798af627f0e9eb64c63f15ed7c2"
     },
     {
+      "path": "work/disaster_route/test_boone_context_pilot.py",
+      "bytes": 1603,
+      "sha256": "6988a236d6938b0790af96f0eafcf7564538c9745ac6ed99064b4a836f9611bf"
+    },
+    {
       "path": "work/disaster_route/test_crasar_alignment.py",
       "bytes": 1140,
       "sha256": "17366064cf4b231f197bc0144eb0348293bd32c86b2c010912b7e0ff618a1ad9"
@@ -6040,8 +6075,8 @@
     },
     {
       "path": "work/disaster_route/在线上下文反馈_学习与实验路线.md",
-      "bytes": 10764,
-      "sha256": "95ef2dd527594ad68476af925a07c2f88fde4c642fe5e0d19d50b2886389aa07"
+      "bytes": 11390,
+      "sha256": "fb3980de5f61feccb8a47da31d1a21203a324527f645843d7d9bf12c6fc51488"
     },
     {
       "path": "work/disaster_route/在线上下文反馈_第一课.md",
@@ -6050,8 +6085,8 @@
     },
     {
       "path": "work/disaster_route/研究目标与接手计划.md",
-      "bytes": 5844,
-      "sha256": "3dd15e478f5fef110242c40990865125562c19a12ff75631c39753b1d83fdeaf"
+      "bytes": 6786,
+      "sha256": "7c49ac5e2a7e458a3de40e1db094dcfabe420d818dfd1628c68d0bc17a487b73"
     },
     {
       "path": "work/disaster_route/研究记录/20261103_旧复核候选接手计划.md",
@@ -6962,15 +6997,18 @@
   "original_scientific_records_rewritten": false,
   "credential_pattern_scan": "No known credential patterns found in included text files;not a guarantee for arbitrary secrets",
   "original_copied_files": 1377,
-  "total_included_bytes": 62928499,
+  "total_included_bytes": 62976674,
   "latest_update": {
     "date": "2026-11-03",
-    "scope": "Beginner learning plan for fixed-VLM online contextual feedback; no new experiments or model calls; old handoff archived verbatim.",
+    "scope": "Boone development protocol and case index only; no new images, model calls or method scores.",
     "added_files": [
-      "work/disaster_route/在线上下文反馈_学习与实验路线.md",
-      "work/disaster_route/在线上下文反馈_第一课.md",
-      "work/disaster_route/在线上下文反馈_候选初审.md",
-      "work/disaster_route/研究记录/20261103_旧复核候选接手计划.md"
+      "output/disaster_route_boone_context_pilot_v1/README.md",
+      "output/disaster_route_boone_context_pilot_v1/evaluator_only_view_references.json",
+      "output/disaster_route_boone_context_pilot_v1/preparation_summary.json",
+      "output/disaster_route_boone_context_pilot_v1/public_case_index.json",
+      "work/disaster_route/boone_context_pilot_v1.md",
+      "work/disaster_route/prepare_boone_context_pilot.py",
+      "work/disaster_route/test_boone_context_pilot.py"
     ]
   }
 }
