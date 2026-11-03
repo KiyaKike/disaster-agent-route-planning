@@ -7,16 +7,17 @@
 ## 接手入口
 
 1. [研究目标与最新执行决定](work/disaster_route/研究目标与接手计划.md)
-2. [项目进展索引](work/disaster_route/README.md)
-3. [NOAA实际数据入口审查](output/disaster_route_noaa_entry_v1/README.md)
-4. [最小机制筛选及止损](output/disaster_route_verification_screen_v1/README.md)
-5. [四区域强对照与观测增量诊断](output/disaster_route_crasar_batch4_v1/README.md)
+2. [初学者学习与实验路线](work/disaster_route/在线上下文反馈_学习与实验路线.md)／[第一课](work/disaster_route/在线上下文反馈_第一课.md)
+3. [项目进展索引](work/disaster_route/README.md)
+4. [NOAA实际数据入口审查](output/disaster_route_noaa_entry_v1/README.md)
+5. [最小机制筛选及止损](output/disaster_route_verification_screen_v1/README.md)
+6. [四区域强对照与观测增量诊断](output/disaster_route_crasar_batch4_v1/README.md)
 
 ## 当前结论（2026-11-03快照）
 
 - 泛化的“路线分歧时考虑复核”在108个受控条件下与同策略空间精确贝叶斯参考收益一致，停止作为独立新方法扩展。
 - NOAA影像实际覆盖已有Boone区域，但共同现场真值、可靠校准模型和同状态UAS复访尚未建立；不能替代受控实验中的校准信号。
-- 保留灾前灾后路线规划主题。下一项是明确真实复核资源或收缩实证范围／更换研究命题，不恢复旧传播、触发器或价值／成本启发式调参。
+- 用户本轮选择新的“在线上下文反馈”学习与筛选路线：固定VLM权重，用已付历史更新未访问建筑判断。当前从第一课开始，5节点教学程序、VLM调用及路线增益均尚未验证；不恢复旧传播或复核规则调参。
 - 当前真实区域结果属于档案图像访问回放；运动与服务成本含假设，不宣称真实飞行验证。
 
 ## 代码和材料
@@ -47,4 +48,4 @@ python tools/verify_snapshot.py
 
 上传文件由[快照清单](snapshot_manifest.json)逐项记录SHA256。旧完成收据中缺失的原始文件见[归档可用性清单](docs/archive_availability.json)；不能将旧收据当成GitHub端完整数据归档证明。
 
-未替项目统一指定开源许可证。第三方来源和数据许可见[来源说明](docs/THIRD_PARTY.md)；私有上传不改变其许可和引用要求。
+未替项目统一指定开源许可证。第三方来源和数据许可见[来源说明](docs/THIRD_PARTY.md)；公开托管不改变其许可和引用要求。

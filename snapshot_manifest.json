@@ -10,8 +10,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3228,
-      "sha256": "81799921778936385f5c1ca92699f6edaf56801fbf44672da12574f547070c59"
+      "bytes": 3487,
+      "sha256": "7ec40fc037998041c5604bfc4ae2669057af41fe4e8a5ad51c4c500e82c42df3"
     },
     {
       "path": "docs/REPRODUCIBILITY.md",
@@ -5515,8 +5515,8 @@
     },
     {
       "path": "work/disaster_route/README.md",
-      "bytes": 9647,
-      "sha256": "5972c2fbb20c405b21be66311b0b408143763cb8a5ad74d3861fbd3ea45f6756"
+      "bytes": 10010,
+      "sha256": "5081d27051eb0a8adacfc21066dd625cb104f14d4d94744f6e97007b37028785"
     },
     {
       "path": "work/disaster_route/acquire_xbd_route_metadata.py",
@@ -5655,8 +5655,8 @@
     },
     {
       "path": "work/disaster_route/export_github_snapshot.py",
-      "bytes": 12779,
-      "sha256": "f9b87dd2bc90e096ad6f72196aefdb5671ca5a589007c941e0ec0c1eba366cef"
+      "bytes": 13038,
+      "sha256": "34c8ce61f177f82a4884adb1bb11bbefe53cc3eeb598935f27fa3d127afbf7bb"
     },
     {
       "path": "work/disaster_route/extract_crasar_region.py",
@@ -6034,7 +6034,27 @@
       "sha256": "8544fc5446f3797ecf08e232af08b0806132c8897d8ccc7e34d4556f533260e5"
     },
     {
+      "path": "work/disaster_route/在线上下文反馈_候选初审.md",
+      "bytes": 3482,
+      "sha256": "910d1bc03860afada0d5e158c2b29243e998f7d2741a453937135f59bc852dff"
+    },
+    {
+      "path": "work/disaster_route/在线上下文反馈_学习与实验路线.md",
+      "bytes": 10764,
+      "sha256": "95ef2dd527594ad68476af925a07c2f88fde4c642fe5e0d19d50b2886389aa07"
+    },
+    {
+      "path": "work/disaster_route/在线上下文反馈_第一课.md",
+      "bytes": 3191,
+      "sha256": "35a8768955bbe0e2b5d18e6ec369451c0dfee8c8bcf8fc6176a8d1c028a93919"
+    },
+    {
       "path": "work/disaster_route/研究目标与接手计划.md",
+      "bytes": 5844,
+      "sha256": "3dd15e478f5fef110242c40990865125562c19a12ff75631c39753b1d83fdeaf"
+    },
+    {
+      "path": "work/disaster_route/研究记录/20261103_旧复核候选接手计划.md",
       "bytes": 9984,
       "sha256": "fee2b2955fffff59f0dd0926cfeb33c44c6a068f370dc43837ff0f2bcfbd1ad1"
     },
@@ -6942,5 +6962,15 @@
   "original_scientific_records_rewritten": false,
   "credential_pattern_scan": "No known credential patterns found in included text files;not a guarantee for arbitrary secrets",
   "original_copied_files": 1377,
-  "total_included_bytes": 62904337
+  "total_included_bytes": 62928499,
+  "latest_update": {
+    "date": "2026-11-03",
+    "scope": "Beginner learning plan for fixed-VLM online contextual feedback; no new experiments or model calls; old handoff archived verbatim.",
+    "added_files": [
+      "work/disaster_route/在线上下文反馈_学习与实验路线.md",
+      "work/disaster_route/在线上下文反馈_第一课.md",
+      "work/disaster_route/在线上下文反馈_候选初审.md",
+      "work/disaster_route/研究记录/20261103_旧复核候选接手计划.md"
+    ]
+  }
 }
