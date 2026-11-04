@@ -16484,5 +16484,11 @@
       "case_rank06/crops/fea8cc3548eb40818e499eb3589b70fd/pre.png"
     ],
     "scope": "Full lightweight fixed-operator hard-budget results and32 prior call records;64 building satellite crops retained locally, as are original ROI inputs, local environment and cached model weights."
+  },
+  {
+    "receipt": "output/disaster_route_iona_ranking_diagnostic_v1/completion_receipt.json",
+    "present_verified_entries": 16,
+    "absent_original_entries": [],
+    "scope": "Complete lightweight frozen-log Iona decision diagnosis,12 matched-history ranking/route points, black-and-white PNG/SVG figures and public-snapshot reproduction check; no new imagery or model calls."
   }
 ]

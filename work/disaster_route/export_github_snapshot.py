@@ -81,6 +81,8 @@ def main():
 
 已完成[固定Pearson算子的区域外同预算检验](output/disaster_route_crasar_pearson_isobudget_v1/README.md)：3区域、54条闭合路线、32次本机先验前向。主预算100代理秒下，Pearson／幅度空间／纯空间／精确静态累计核查阳性为3／3／4／5；未建立稳定方法增量。算子保留为标准对照，不继续调Boone特征。全部源标签、代理成本与配准边界见报告。此前[Boone两步初筛](output/disaster_route_boone_two_step_v1/README.md)及[小VLM结果](output/disaster_route_boone_context_run_v2/README.md)保持原字节。
 
+补充[Iona轨迹与排序—收益诊断](output/disaster_route_iona_ranking_diagnostic_v1/README.md)：已定位第三次阴性反馈后的选点分叉，并提供同首访截面的AP—路线命中图；公开日志可独立重画，无需模型或原始影像。当前只补分析，写稿后置。
+
 ## 当前结论（2026-11-03快照）
 
 - 泛化的“路线分歧时考虑复核”在108个受控条件下与同策略空间精确贝叶斯参考收益一致，停止作为独立新方法扩展。

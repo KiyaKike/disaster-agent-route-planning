@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "ranking_points": 12,
+  "independent_metrics_checked": 48,
+  "fork_candidate_updates_checked": 5,
+  "budget_exclusion_end_s": 103.681048040722,
+  "historical_sealed_files_verified": 132,
+  "declared_missing_historical_crops": 0,
+  "figures_svg_valid": 2,
+  "new_model_calls": 0,
+  "new_route_executions": 0
+}

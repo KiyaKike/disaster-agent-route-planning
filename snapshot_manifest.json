@@ -1,5 +1,5 @@
 {
-  "snapshot_date": "2026-11-03",
+  "snapshot_date": "2026-11-05",
   "scope": "Disaster before/after Agent route-planning research only;unrelated GR-PTA project excluded",
   "is_full_data_archive": false,
   "files": [
@@ -10,8 +10,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4078,
-      "sha256": "c8d6ba9eb317448c3ed4fc5d5471ca44806945bf913d8c973818b4f33ce66bb2"
+      "bytes": 4382,
+      "sha256": "e00fda156a05523029b3205b0ea4dd1f3439a0d9dc155f5b51c29853f1bf14f9"
     },
     {
       "path": "docs/REPRODUCIBILITY.md",
@@ -25,8 +25,8 @@
     },
     {
       "path": "docs/archive_availability.json",
-      "bytes": 690255,
-      "sha256": "0e40f77bec19cbf2e978f082ade189584f4543a29d5a0c605558d576b11dea64"
+      "bytes": 690641,
+      "sha256": "8161b6569eea0e01ad597130297088df605c478e7d85f6272d43ea8830c78dbb"
     },
     {
       "path": "docs/third_party/CrossViewGate_LICENSE.txt",
@@ -4029,6 +4029,91 @@
       "sha256": "6a52642deb1347141da62f834a2d97705776db9dc9437b1372d7a0f72554e220"
     },
     {
+      "path": "output/disaster_route_iona_ranking_diagnostic_v1/README.md",
+      "bytes": 5377,
+      "sha256": "c06823c4974b6ef2cc751f17b4ac06fe874bdcd998926d5cb9c1d64539bd4add"
+    },
+    {
+      "path": "output/disaster_route_iona_ranking_diagnostic_v1/audit.json",
+      "bytes": 333,
+      "sha256": "aaef737363153575acd081df2a25ba22921d14c7a3939f16b3372b9273e99de1"
+    },
+    {
+      "path": "output/disaster_route_iona_ranking_diagnostic_v1/completion_receipt.json",
+      "bytes": 1672,
+      "sha256": "c7631245f92c08a0717b3ed5d406b8c890f6df189132fe21e06e0073e525f5bd"
+    },
+    {
+      "path": "output/disaster_route_iona_ranking_diagnostic_v1/execution_recipe.json",
+      "bytes": 2474,
+      "sha256": "b83c5166ef8d33300af3274438358bbac385e4603644e643cb3ee0c34e107264"
+    },
+    {
+      "path": "output/disaster_route_iona_ranking_diagnostic_v1/iona_candidates_at_fork.csv",
+      "bytes": 1265,
+      "sha256": "1ad18ffe6236244b4475a6459c9ea44e28d2c978133ba48a0208e9c30fd266d4"
+    },
+    {
+      "path": "output/disaster_route_iona_ranking_diagnostic_v1/iona_fork.json",
+      "bytes": 4689,
+      "sha256": "c3ae0125be7d459df39aa76e76cfd9dd80f986732ad6c1a5105261f163871793"
+    },
+    {
+      "path": "output/disaster_route_iona_ranking_diagnostic_v1/iona_fork.png",
+      "bytes": 180592,
+      "sha256": "762be71c0554a6f2e04ca6f5d49a69c180297cedf27b6fa6bd732b68da80be82"
+    },
+    {
+      "path": "output/disaster_route_iona_ranking_diagnostic_v1/iona_fork.svg",
+      "bytes": 32942,
+      "sha256": "9723f2c19c83ff6a1e386eb1c19e594f022ff625c7fbbd38dcd9a9f349514152"
+    },
+    {
+      "path": "output/disaster_route_iona_ranking_diagnostic_v1/iona_local_id_map.json",
+      "bytes": 691,
+      "sha256": "72ad0006fa255e61c90a98b58b56a6e0bf9b76ada3f41cec5af17bb43949b4be"
+    },
+    {
+      "path": "output/disaster_route_iona_ranking_diagnostic_v1/public_reproduction_check.json",
+      "bytes": 880,
+      "sha256": "a6a873dcbd8f5020ff71625b38e2c342714b9e2fe840318bb75e79147c8ec5f8"
+    },
+    {
+      "path": "output/disaster_route_iona_ranking_diagnostic_v1/ranking_route_points.csv",
+      "bytes": 2429,
+      "sha256": "fde6a93c91be7b343139999714bbd5cc19abc54bde003f1caeeaaad5f6677cf3"
+    },
+    {
+      "path": "output/disaster_route_iona_ranking_diagnostic_v1/ranking_route_points.json",
+      "bytes": 7641,
+      "sha256": "153e1d24ac879a94982c18bc6f689527a13acb51faa9e69eb61e9afddde526bc"
+    },
+    {
+      "path": "output/disaster_route_iona_ranking_diagnostic_v1/ranking_route_scatter.png",
+      "bytes": 99050,
+      "sha256": "da6895388f93ba89c80de9351443963296c4c9f0851f77511e44c595f901a269"
+    },
+    {
+      "path": "output/disaster_route_iona_ranking_diagnostic_v1/ranking_route_scatter.svg",
+      "bytes": 28747,
+      "sha256": "67da262d8583a9fd676c3c473c0b76c42e00307dffb8fce48d991a5e2f0bff73"
+    },
+    {
+      "path": "output/disaster_route_iona_ranking_diagnostic_v1/source_snapshots/audit_iona_ranking_diagnostic.py",
+      "bytes": 4915,
+      "sha256": "7d823c1144ca45cb97f16990e31c1db860547ef37915fbeb7161dfbbbbe41c92"
+    },
+    {
+      "path": "output/disaster_route_iona_ranking_diagnostic_v1/source_snapshots/diagnose_iona_ranking_route.py",
+      "bytes": 16424,
+      "sha256": "ce49c34958966f62d522df704e951922d47722af47e3eb2b973fd411a04b56e1"
+    },
+    {
+      "path": "output/disaster_route_iona_ranking_diagnostic_v1/within_region_comparisons.json",
+      "bytes": 1759,
+      "sha256": "30b35b1e1df7cff5fa49f1e8e5e28636c5f8cf63809cda6e04b25d8e472574a5"
+    },
+    {
       "path": "output/disaster_route_loop_v1/PS_geometry_static_routes.json",
       "bytes": 51171,
       "sha256": "5840f36f5b930b7c82c225931e67b4f00c9bae612e45c07c89c4dffa02b7269d"
@@ -7740,8 +7825,8 @@
     },
     {
       "path": "work/disaster_route/README.md",
-      "bytes": 10908,
-      "sha256": "7be035a4301d4e0a4245adcc95fe8c389dd18a40c054ece7cda28b6c9bb78c94"
+      "bytes": 11382,
+      "sha256": "1dbca31fbcda5b376943928b2bc321498667eadffaed5aae8a18f46ccbcc7481"
     },
     {
       "path": "work/disaster_route/acquire_xbd_route_metadata.py",
@@ -7792,6 +7877,11 @@
       "path": "work/disaster_route/audit_feedback_increment.py",
       "bytes": 5964,
       "sha256": "263723fd94a6e9f9f862be687ad3e1c19840654767aedb2beda4bf5a8312f455"
+    },
+    {
+      "path": "work/disaster_route/audit_iona_ranking_diagnostic.py",
+      "bytes": 4915,
+      "sha256": "7d823c1144ca45cb97f16990e31c1db860547ef37915fbeb7161dfbbbbe41c92"
     },
     {
       "path": "work/disaster_route/audit_route_factor.py",
@@ -7899,6 +7989,11 @@
       "sha256": "3ce3b34fd925ed926a20f5548beeb1d2059afc76dcf3cb179ef7c17f61db23fb"
     },
     {
+      "path": "work/disaster_route/diagnose_iona_ranking_route.py",
+      "bytes": 16424,
+      "sha256": "ce49c34958966f62d522df704e951922d47722af47e3eb2b973fd411a04b56e1"
+    },
+    {
       "path": "work/disaster_route/dual_map_core.py",
       "bytes": 12388,
       "sha256": "0df59df5372eff8838b02237d5c15e046fb022b7c550219fc98c6e9eb4a8eeb5"
@@ -7915,8 +8010,8 @@
     },
     {
       "path": "work/disaster_route/export_github_snapshot.py",
-      "bytes": 13615,
-      "sha256": "5112e7bd721b1b746d2ab75dba58c0a63acc0125566a7c5592064231b24d3446"
+      "bytes": 13919,
+      "sha256": "7369d3b9468ab86ab8384f196c0fdc08115dc178603a4f2d8c5b9106c117ef90"
     },
     {
       "path": "work/disaster_route/extract_crasar_region.py",
@@ -8380,8 +8475,8 @@
     },
     {
       "path": "work/disaster_route/研究目标与接手计划.md",
-      "bytes": 10332,
-      "sha256": "fcb7147ee0fd16eb986239b01ed78d2275d08ef65119662c626741be1b4a8795"
+      "bytes": 10871,
+      "sha256": "8fe84a3c09d9be9665bfdf1cdf94b642c562879e9fc906bd71e9010fee263e08"
     },
     {
       "path": "work/disaster_route/研究记录/20261103_旧复核候选接手计划.md",

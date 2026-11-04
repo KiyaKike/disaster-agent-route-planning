@@ -1,0 +1,31 @@
+{
+  "status": "PASS",
+  "same_content_from_public_snapshot": {
+    "iona_fork.json": true,
+    "iona_candidates_at_fork.csv": true,
+    "ranking_route_points.csv": true,
+    "ranking_route_points.json": true,
+    "within_region_comparisons.json": true,
+    "iona_fork.png": true,
+    "iona_fork.svg": true,
+    "ranking_route_scatter.png": true,
+    "ranking_route_scatter.svg": true
+  },
+  "public_snapshot_reproduction_audit": {
+    "status": "PASS",
+    "ranking_points": 12,
+    "independent_metrics_checked": 48,
+    "fork_candidate_updates_checked": 5,
+    "budget_exclusion_end_s": 103.681048040722,
+    "historical_sealed_files_verified": 68,
+    "declared_missing_historical_crops": 64,
+    "figures_svg_valid": 2,
+    "new_model_calls": 0,
+    "new_route_executions": 0
+  },
+  "runtime": {
+    "python": "3.12.14",
+    "numpy": "2.5.4",
+    "matplotlib": "3.11.2"
+  }
+}

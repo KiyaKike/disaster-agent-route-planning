@@ -4,6 +4,8 @@ GitHub公开快照：[KiyaKike/disaster-agent-route-planning](https://github.com
 
 **当前接手入口：[研究目标与接手计划](研究目标与接手计划.md)。** 灾前线索／沿途证据双层地图与预算闭环保留。最新完成[Boone外同预算检验](../../output/disaster_route_crasar_pearson_isobudget_v1/README.md)：原四区域保留单通道排除，3处完成54条闭合路线。100代理秒下Pearson／幅度空间／纯空间／精确静态合计3／3／4／5，Pearson对幅度控制1胜1平1负。60／140秒合计分别为Pearson2／7、精确静态3／8；未建立稳定增量。算子固化为对照，停止本批视觉核主方法扩展；下一项先核验何种已付信息能带来强静态无法替代的路线收益。
 
+2026-11-05补充：[Iona轨迹与排序—路线收益诊断](../../output/disaster_route_iona_ranking_diagnostic_v1/README.md)：I08阴性反馈使I07／I01优先级反转，先访问I01后再核查I07并返程需103.68s；Pearson航程更短但漏掉阳性。相同首访截面下，Iona AP0.143→0.200而命中1→0，DIRT AP0.724→0.416而命中2→3。两张黑白图、12个排序—收益点及独立核验已保存。只补分析，未改策略或撰写论文。
+
 Boone历史链路：[小VLM对照](../../output/disaster_route_boone_context_run_v2/README.md) → [逐栋错误](../../output/disaster_route_boone_feature_error_audit_v1/README.md) → [6维消融](../../output/disaster_route_boone_change6_v1/README.md) → [幅度匹配](../../output/disaster_route_boone_strength_control_v1/README.md) → [Pearson与Top-3](../../output/disaster_route_boone_structure_check_v1/README.md) → [两步反馈初筛](../../output/disaster_route_boone_two_step_v1/README.md)。两步初筛通过后，已按固定方法执行区域外检验，不再追Boone最高分。初学者材料见[学习路线](在线上下文反馈_学习与实验路线.md)和[第一课](在线上下文反馈_第一课.md)；历史“下一步”与当前状态冲突时，以当前接手计划为准。
 
 2026-11-03研究立项审查：[付费复核、可辨识性与路线决策](../../output/disaster_route_research_admission_v1/README.md)。用户指出工程推进未形成创新后，停止将泛化的“可靠性＋付费复核”视作新方法：CrossViewGate论文及固定公开commit已覆盖灾损视角门控、付费下一视角开发与路线队列。新增24场景纯元数据审查：18个有与灾后卫星同日的有人机候选，0个有与UAS同日的额外来源记录；尚未建立同状态独立UAS复访或共同现场真值。精确反例核验90个首访等式及64个条件分支：两种不可由首访区分的世界，其最优后续行动分别为搜索新地点和原处复核。该反例不主张新定理；更窄的“能改变路线的歧义与复核价值”仍是未确认候选，不直接开发算法。下一步仅核验独立复核数据入口和最接近方法差异；无新增影像／标签下载、模型推理、训练或GPU租赁。此前3631个封存文件哈希核验保持一致。
