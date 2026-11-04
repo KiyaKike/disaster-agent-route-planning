@@ -10,8 +10,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4382,
-      "sha256": "e00fda156a05523029b3205b0ea4dd1f3439a0d9dc155f5b51c29853f1bf14f9"
+      "bytes": 5921,
+      "sha256": "d61828d3b2325629b60992d1e14d954044e9cb4d2cb048c719eb91481cc2afab"
     },
     {
       "path": "docs/REPRODUCIBILITY.md",
@@ -25,8 +25,8 @@
     },
     {
       "path": "docs/archive_availability.json",
-      "bytes": 690641,
-      "sha256": "8161b6569eea0e01ad597130297088df605c478e7d85f6272d43ea8830c78dbb"
+      "bytes": 690989,
+      "sha256": "a572f8c9a69e83fce71c274a9662a93f6cb4a8109fa626b04b9b8cede1113cbc"
     },
     {
       "path": "docs/third_party/CrossViewGate_LICENSE.txt",
@@ -3862,6 +3862,151 @@
       "path": "output/disaster_route_feedback_increment_v1/table.json",
       "bytes": 14768,
       "sha256": "822ff6bcfff627879e94267f3287f0ce805422bc506d29367cbf37c2bd0e1c16"
+    },
+    {
+      "path": "output/disaster_route_four_stage_evidence_v1/README.md",
+      "bytes": 3228,
+      "sha256": "ad5bea67a1ac0c8390c1e103188fd5abd6a4976f90ca7b3a2700a65d0370a536"
+    },
+    {
+      "path": "output/disaster_route_four_stage_evidence_v1/boone_prediction_metrics.csv",
+      "bytes": 1848,
+      "sha256": "2e9e227764bb333e8f059db56a61f3052a80d0159b120c09f7dca2f45ca03ca4"
+    },
+    {
+      "path": "output/disaster_route_four_stage_evidence_v1/boone_topk_node_sensitivity.csv",
+      "bytes": 786,
+      "sha256": "f85ea1319c1ee1e918e4c69ff03c37eb705b03b8bf6811d67ea30c033e5437b2"
+    },
+    {
+      "path": "output/disaster_route_four_stage_evidence_v1/boone_two_step.csv",
+      "bytes": 440,
+      "sha256": "539f3664de0abfd3738266aab124e2a686a2ad8e148c07eedb3ad42b970b68ae"
+    },
+    {
+      "path": "output/disaster_route_four_stage_evidence_v1/completion_receipt.json",
+      "bytes": 2973,
+      "sha256": "90f31608ceb2549b3614d61905f75974830af717e06773291d9912d1f85baf66"
+    },
+    {
+      "path": "output/disaster_route_four_stage_evidence_v1/controlled_counts.csv",
+      "bytes": 107,
+      "sha256": "12531966c0b6fdda642c061645da11723423c0ab3f43c8537982018048abb3c4"
+    },
+    {
+      "path": "output/disaster_route_four_stage_evidence_v1/execution.json",
+      "bytes": 8862,
+      "sha256": "b77e2a55391697a66df10690f9dda1747e6fa331ff1f30b9e686d58080e491a6"
+    },
+    {
+      "path": "output/disaster_route_four_stage_evidence_v1/external_budget_totals.csv",
+      "bytes": 120,
+      "sha256": "00c895f6c5af3c76d4b9a1c7b746f038f2b6e7e032275f4511670160500e46bd"
+    },
+    {
+      "path": "output/disaster_route_four_stage_evidence_v1/external_routes.csv",
+      "bytes": 3827,
+      "sha256": "ed46c90baf40cb91db7d5e9396d54967e265f3f44d09c78f0149410268785e95"
+    },
+    {
+      "path": "output/disaster_route_four_stage_evidence_v1/figures/audit.json",
+      "bytes": 333,
+      "sha256": "aaef737363153575acd081df2a25ba22921d14c7a3939f16b3372b9273e99de1"
+    },
+    {
+      "path": "output/disaster_route_four_stage_evidence_v1/figures/execution_recipe.json",
+      "bytes": 2474,
+      "sha256": "cc9bea7423ab1613d122ae0846eee42533de71679eebfae1caedf837b8f06efd"
+    },
+    {
+      "path": "output/disaster_route_four_stage_evidence_v1/figures/iona_candidates_at_fork.csv",
+      "bytes": 1265,
+      "sha256": "1ad18ffe6236244b4475a6459c9ea44e28d2c978133ba48a0208e9c30fd266d4"
+    },
+    {
+      "path": "output/disaster_route_four_stage_evidence_v1/figures/iona_fork.json",
+      "bytes": 4689,
+      "sha256": "c3ae0125be7d459df39aa76e76cfd9dd80f986732ad6c1a5105261f163871793"
+    },
+    {
+      "path": "output/disaster_route_four_stage_evidence_v1/figures/iona_fork.png",
+      "bytes": 180592,
+      "sha256": "762be71c0554a6f2e04ca6f5d49a69c180297cedf27b6fa6bd732b68da80be82"
+    },
+    {
+      "path": "output/disaster_route_four_stage_evidence_v1/figures/iona_fork.svg",
+      "bytes": 32942,
+      "sha256": "9723f2c19c83ff6a1e386eb1c19e594f022ff625c7fbbd38dcd9a9f349514152"
+    },
+    {
+      "path": "output/disaster_route_four_stage_evidence_v1/figures/iona_local_id_map.json",
+      "bytes": 691,
+      "sha256": "72ad0006fa255e61c90a98b58b56a6e0bf9b76ada3f41cec5af17bb43949b4be"
+    },
+    {
+      "path": "output/disaster_route_four_stage_evidence_v1/figures/ranking_route_points.csv",
+      "bytes": 2429,
+      "sha256": "fde6a93c91be7b343139999714bbd5cc19abc54bde003f1caeeaaad5f6677cf3"
+    },
+    {
+      "path": "output/disaster_route_four_stage_evidence_v1/figures/ranking_route_points.json",
+      "bytes": 7641,
+      "sha256": "153e1d24ac879a94982c18bc6f689527a13acb51faa9e69eb61e9afddde526bc"
+    },
+    {
+      "path": "output/disaster_route_four_stage_evidence_v1/figures/ranking_route_scatter.png",
+      "bytes": 99050,
+      "sha256": "da6895388f93ba89c80de9351443963296c4c9f0851f77511e44c595f901a269"
+    },
+    {
+      "path": "output/disaster_route_four_stage_evidence_v1/figures/ranking_route_scatter.svg",
+      "bytes": 28747,
+      "sha256": "67da262d8583a9fd676c3c473c0b76c42e00307dffb8fce48d991a5e2f0bff73"
+    },
+    {
+      "path": "output/disaster_route_four_stage_evidence_v1/figures/within_region_comparisons.json",
+      "bytes": 1759,
+      "sha256": "30b35b1e1df7cff5fa49f1e8e5e28636c5f8cf63809cda6e04b25d8e472574a5"
+    },
+    {
+      "path": "output/disaster_route_four_stage_evidence_v1/public_reproduction_check.json",
+      "bytes": 930,
+      "sha256": "b69775ba6e2a0d66af6b6b640654a63a247df2ff215c951096776c04cbacb7eb"
+    },
+    {
+      "path": "output/disaster_route_four_stage_evidence_v1/resources.json",
+      "bytes": 406,
+      "sha256": "670130f21437fc96cc5f81589e7a31505e39bcf97456f451550de26734173130"
+    },
+    {
+      "path": "output/disaster_route_four_stage_evidence_v1/source_snapshots/audit_iona_ranking_diagnostic.py",
+      "bytes": 4915,
+      "sha256": "7d823c1144ca45cb97f16990e31c1db860547ef37915fbeb7161dfbbbbe41c92"
+    },
+    {
+      "path": "output/disaster_route_four_stage_evidence_v1/source_snapshots/diagnose_iona_ranking_route.py",
+      "bytes": 16424,
+      "sha256": "ce49c34958966f62d522df704e951922d47722af47e3eb2b973fd411a04b56e1"
+    },
+    {
+      "path": "output/disaster_route_four_stage_evidence_v1/source_snapshots/reproduce_diagnostic_evidence.py",
+      "bytes": 11423,
+      "sha256": "b14d775c7e5c10ac3b0a01499d632a99cbe398fc08597a018234e4b29b5b9893"
+    },
+    {
+      "path": "output/disaster_route_four_stage_evidence_v1/summary.json",
+      "bytes": 888,
+      "sha256": "bbce8676490d11af0fcccfeade2efaffd52ee9515810b6140055df3100772ac8"
+    },
+    {
+      "path": "output/disaster_route_four_stage_evidence_v1/vlm_direction_diagnostic.csv",
+      "bytes": 621,
+      "sha256": "ab27e2f5de9421f88e3e95bd30a3c0a2fbddf246d030a74ba12bc03ced5eccd8"
+    },
+    {
+      "path": "output/disaster_route_four_stage_evidence_v1/结论核验与边界.md",
+      "bytes": 3440,
+      "sha256": "b334b5fbac65e52dc06f8f6feacbe2be5c7756c362efc62f100f856642d82f88"
     },
     {
       "path": "output/disaster_route_headroom_v1/README.md",
@@ -7819,14 +7964,19 @@
       "sha256": "3e7c285201aa9d481b7473f4b49a9dac75af78fbc0111d9666c7733d096f0735"
     },
     {
+      "path": "requirements-diagnostics.txt",
+      "bytes": 107,
+      "sha256": "9b585287a043ab3de855e4fc4db2c647f99c727807f3a810e0dc83cbab863faf"
+    },
+    {
       "path": "tools/verify_snapshot.py",
       "bytes": 563,
       "sha256": "667c909319a5d6f7bf679e22ae1ec6f7b39503ef0b93f706ceeb44b02b1f4efb"
     },
     {
       "path": "work/disaster_route/README.md",
-      "bytes": 11382,
-      "sha256": "1dbca31fbcda5b376943928b2bc321498667eadffaed5aae8a18f46ccbcc7481"
+      "bytes": 11830,
+      "sha256": "530fe38bfd937245f70d89baf3a909f135e7bf791549a069ac36fcb4b5980017"
     },
     {
       "path": "work/disaster_route/acquire_xbd_route_metadata.py",
@@ -8010,8 +8160,8 @@
     },
     {
       "path": "work/disaster_route/export_github_snapshot.py",
-      "bytes": 13919,
-      "sha256": "7369d3b9468ab86ab8384f196c0fdc08115dc178603a4f2d8c5b9106c117ef90"
+      "bytes": 15504,
+      "sha256": "9533239abb02d5cf5ce1c727643a8c715d5c743b260e3c7ca4c192096b670686"
     },
     {
       "path": "work/disaster_route/extract_crasar_region.py",
@@ -8142,6 +8292,11 @@
       "path": "work/disaster_route/report_route_trigger.py",
       "bytes": 18549,
       "sha256": "4ba94b81b60dd0aaff46efec14bd92d11652c8453ce97bb33f68437ac8f00e49"
+    },
+    {
+      "path": "work/disaster_route/reproduce_diagnostic_evidence.py",
+      "bytes": 11423,
+      "sha256": "b14d775c7e5c10ac3b0a01499d632a99cbe398fc08597a018234e4b29b5b9893"
     },
     {
       "path": "work/disaster_route/restyle_advisor_brief_bw.py",
@@ -8475,8 +8630,8 @@
     },
     {
       "path": "work/disaster_route/研究目标与接手计划.md",
-      "bytes": 10871,
-      "sha256": "8fe84a3c09d9be9665bfdf1cdf94b642c562879e9fc906bd71e9010fee263e08"
+      "bytes": 11313,
+      "sha256": "164a175b8570e56a2bfb6760d3d987e66fb579e88d6338b5f1f4afe1e9f0c1d0"
     },
     {
       "path": "work/disaster_route/研究记录/20261103_旧复核候选接手计划.md",

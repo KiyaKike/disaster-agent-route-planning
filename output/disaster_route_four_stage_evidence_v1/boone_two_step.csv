@@ -1,0 +1,9 @@
+selector,method,hit_sum,hit_sum_excluding_B03_credit,closed_distance_sum_m
+score_per_distance,pearson,8,4,1198.8665114422356
+score_per_distance,matched_spatial,5,3,1145.4769942421915
+score_per_distance,spatial,6,3,1236.360363062501
+score_per_distance,no_update,5,3,1143.614912746818
+score,pearson,9,2,2155.9744813308553
+score,matched_spatial,2,1,2804.514946457517
+score,spatial,2,1,2781.725932744076
+score,no_update,11,0,1898.3975377151075

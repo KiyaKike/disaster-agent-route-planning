@@ -1,0 +1,26 @@
+{
+  "status": "PASS",
+  "full_public_snapshot_numeric_files_byte_identical": {
+    "boone_prediction_metrics.csv": true,
+    "boone_topk_node_sensitivity.csv": true,
+    "boone_two_step.csv": true,
+    "controlled_counts.csv": true,
+    "external_budget_totals.csv": true,
+    "external_routes.csv": true,
+    "vlm_direction_diagnostic.csv": true,
+    "summary.json": true,
+    "resources.json": true
+  },
+  "full_public_figures_byte_identical": {
+    "iona_fork.png": true,
+    "iona_fork.svg": true,
+    "ranking_route_scatter.png": true,
+    "ranking_route_scatter.svg": true
+  },
+  "standard_library_cross_python_numeric_tolerance": 1e-10,
+  "standard_library_max_absolute_difference": 4.547473508864641e-13,
+  "floating_point_cells_differing_in_last_digits": 63,
+  "full_public_elapsed_seconds": 0.5059641249827109,
+  "stdlib_elapsed_seconds": 0.019751500000000005,
+  "installation_and_interpreter_startup_included": false
+}

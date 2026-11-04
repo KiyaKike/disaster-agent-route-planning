@@ -1,0 +1,3 @@
+# Saved-score statistics and scientific figure reproduction; no model runtime.
+numpy>=1.26
+matplotlib>=3.8

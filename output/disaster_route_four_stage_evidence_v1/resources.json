@@ -1,0 +1,12 @@
+{
+  "boone_vlm_calls": 276,
+  "boone_forward_seconds": 329.61310267448425,
+  "boone_elapsed_seconds": 348.71091079711914,
+  "boone_device": "MPS (local Apple GPU)",
+  "external_vlm_calls": 32,
+  "external_forward_seconds": 14.369875377989956,
+  "external_device": "MPS (local Apple GPU)",
+  "reproduction_device": "CPU; saved-score statistics and plots only",
+  "paid_api_cost": 0,
+  "rented_gpu": false
+}

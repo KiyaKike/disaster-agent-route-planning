@@ -1,0 +1,86 @@
+[
+  {
+    "region": "DIRT",
+    "method_a": "pearson",
+    "method_b": "no_update",
+    "ap_delta": -0.308233892333157,
+    "route_hit_delta": 1
+  },
+  {
+    "region": "DIRT",
+    "method_a": "pearson",
+    "method_b": "spatial",
+    "ap_delta": -0.31763392857142847,
+    "route_hit_delta": 0
+  },
+  {
+    "region": "DIRT",
+    "method_a": "spatial",
+    "method_b": "no_update",
+    "ap_delta": 0.009400036238271459,
+    "route_hit_delta": 1
+  },
+  {
+    "region": "DIRT",
+    "method_a": "pearson",
+    "method_b": "matched_spatial",
+    "ap_delta": -0.2827380952380951,
+    "route_hit_delta": 1
+  },
+  {
+    "region": "Iona",
+    "method_a": "pearson",
+    "method_b": "no_update",
+    "ap_delta": 0.05714285714285716,
+    "route_hit_delta": -1
+  },
+  {
+    "region": "Iona",
+    "method_a": "pearson",
+    "method_b": "spatial",
+    "ap_delta": -0.1333333333333333,
+    "route_hit_delta": -1
+  },
+  {
+    "region": "Iona",
+    "method_a": "spatial",
+    "method_b": "no_update",
+    "ap_delta": 0.19047619047619047,
+    "route_hit_delta": 0
+  },
+  {
+    "region": "Iona",
+    "method_a": "pearson",
+    "method_b": "matched_spatial",
+    "ap_delta": -0.1333333333333333,
+    "route_hit_delta": -1
+  },
+  {
+    "region": "McGregor",
+    "method_a": "pearson",
+    "method_b": "no_update",
+    "ap_delta": 0.0,
+    "route_hit_delta": 0
+  },
+  {
+    "region": "McGregor",
+    "method_a": "pearson",
+    "method_b": "spatial",
+    "ap_delta": 0.0,
+    "route_hit_delta": 0
+  },
+  {
+    "region": "McGregor",
+    "method_a": "spatial",
+    "method_b": "no_update",
+    "ap_delta": 0.0,
+    "route_hit_delta": 0
+  },
+  {
+    "region": "McGregor",
+    "method_a": "pearson",
+    "method_b": "matched_spatial",
+    "ap_delta": 0.0,
+    "route_hit_delta": 0
+  }
+]

@@ -1,0 +1,153 @@
+{
+  "rows": [
+    {
+      "local_id": "I01",
+      "index": 0,
+      "building_id": "00278e0a430549e6b5c4ab093c0ffa9a",
+      "distance_from_I08_m": 41.43273071841778,
+      "feature_similarity_to_I08": 0.07386416450637162,
+      "spatial_weight": 0.7094010652965869,
+      "score_before": 0.3480635397914064,
+      "score_after": 0.3401918360583975,
+      "score_change": -0.007871703733008939,
+      "priority_before": 0.008400690317925012,
+      "priority_after": 0.00821070275020938,
+      "observe_and_return_end_s": 81.96285658450505
+    },
+    {
+      "local_id": "I02",
+      "index": 1,
+      "building_id": "17b22c58f18942cdbb0fa30aae7687d2",
+      "distance_from_I08_m": 53.305611461153326,
+      "feature_similarity_to_I08": 0.9421902083569418,
+      "spatial_weight": 0.5664889850043779,
+      "score_before": 0.35400663556811085,
+      "score_after": 0.27382532133777976,
+      "score_change": -0.08018131423033109,
+      "priority_before": 0.006641076349458904,
+      "priority_after": 0.005136894856507387,
+      "observe_and_return_end_s": 90.74892975227914
+    },
+    {
+      "local_id": "I03",
+      "index": 2,
+      "building_id": "5773f1ca4318469fbf187c6a915c6043",
+      "distance_from_I08_m": 57.97591787743249,
+      "feature_similarity_to_I08": 0.39873111440275033,
+      "spatial_weight": 0.5105629131135888,
+      "score_before": 0.18674585176220632,
+      "score_after": 0.15616338549073874,
+      "score_change": -0.030582466271467573,
+      "priority_before": 0.003221093491904824,
+      "priority_after": 0.0026935905667053936,
+      "observe_and_return_end_s": 78.20946140803369
+    },
+    {
+      "local_id": "I04",
+      "index": 3,
+      "building_id": "5eaad76070fe4f98be2e50d7d078a195",
+      "distance_from_I08_m": 45.296118437245674,
+      "feature_similarity_to_I08": 0.06394355866753315,
+      "spatial_weight": 0.6634195595579794,
+      "score_before": 0.30278050615681984,
+      "score_after": 0.2964077369836638,
+      "score_change": -0.006372769173156045,
+      "priority_before": 0.006684469146651036,
+      "priority_after": 0.006543777860222486,
+      "observe_and_return_end_s": 79.09045430850382
+    },
+    {
+      "local_id": "I07",
+      "index": 6,
+      "building_id": "e81d393265a34842bdfe680c5c7549db",
+      "distance_from_I08_m": 26.866176998075503,
+      "feature_similarity_to_I08": 0.41371068967004776,
+      "spatial_weight": 0.86557756185406,
+      "score_before": 0.256807214728314,
+      "score_after": 0.20301172735371062,
+      "score_change": -0.05379548737460341,
+      "priority_before": 0.009558755410072294,
+      "priority_after": 0.007556405489633039,
+      "observe_and_return_end_s": 80.07540795505604
+    }
+  ],
+  "common_prefix_indices": [
+    4,
+    5,
+    7
+  ],
+  "fork_decision": 4,
+  "paid_negative_anchor": "I08",
+  "fork_elapsed_s": 46.76161761919989,
+  "choice_without_this_last_update": "I07",
+  "actual_choice": "I01",
+  "late_I07_observe_and_return_end_s": 103.681048040722,
+  "late_I07_budget_excess_s": 3.681048040722004,
+  "pearson_route": [
+    "I05",
+    "I06",
+    "I08",
+    "I01",
+    "I04"
+  ],
+  "spatial_route": [
+    "I05",
+    "I06",
+    "I08",
+    "I07",
+    "I01"
+  ],
+  "pearson_hits": 0,
+  "spatial_hits": 1,
+  "pearson_elapsed_s": 95.2376292405558,
+  "spatial_elapsed_s": 99.74187518203408,
+  "pearson_distance_m": 196.18814620277902,
+  "spatial_distance_m": 223.70937591017042,
+  "matched_spatial_same_route": true,
+  "comparative_branch_scores": [
+    {
+      "method": "spatial",
+      "target": "I07",
+      "score": 0.1651950283448514,
+      "distance_m": 26.866176998075503,
+      "priority": 0.006148810392959324
+    },
+    {
+      "method": "spatial",
+      "target": "I01",
+      "score": 0.21305821921423443,
+      "distance_m": 41.43273071841778,
+      "priority": 0.005142268335201118
+    },
+    {
+      "method": "matched_spatial",
+      "target": "I07",
+      "score": 0.2399089326880158,
+      "distance_m": 26.866176998075503,
+      "priority": 0.008929775632208524
+    },
+    {
+      "method": "matched_spatial",
+      "target": "I01",
+      "score": 0.28099540312550464,
+      "distance_m": 41.43273071841778,
+      "priority": 0.006781966774895574
+    },
+    {
+      "method": "pearson",
+      "target": "I07",
+      "score": 0.20301172735371062,
+      "distance_m": 26.866176998075503,
+      "priority": 0.007556405489633039
+    },
+    {
+      "method": "pearson",
+      "target": "I01",
+      "score": 0.3401918360583975,
+      "distance_m": 41.43273071841778,
+      "priority": 0.00821070275020938
+    }
+  ],
+  "static_exact_100s_hits": 0,
+  "scope": "Within-log one-update decision lookback and feasibility arithmetic; not a new counterfactual route run"
+}

@@ -16490,5 +16490,11 @@
     "present_verified_entries": 16,
     "absent_original_entries": [],
     "scope": "Complete lightweight frozen-log Iona decision diagnosis,12 matched-history ranking/route points, black-and-white PNG/SVG figures and public-snapshot reproduction check; no new imagery or model calls."
+  },
+  {
+    "receipt": "output/disaster_route_four_stage_evidence_v1/completion_receipt.json",
+    "present_verified_entries": 28,
+    "absent_original_entries": [],
+    "scope": "Complete four-stage evidence reconciliation, standard-library table reproduction, frozen-log scientific plots and claim boundary ledger; no model or new policy runs."
   }
 ]

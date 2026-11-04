@@ -1,0 +1,43 @@
+{
+  "controlled": {
+    "conditions": 108,
+    "candidate_equals_bayes": 108,
+    "optional_calibration_positive_gain": 11,
+    "forced_calibration_harm": 60
+  },
+  "vlm_same_direction_anchor_cases": 12,
+  "pearson_top1": 9,
+  "matched_top1": 1,
+  "pearson_top1_without_B03": 3,
+  "matched_top1_without_B03": 1,
+  "external_totals": [
+    {
+      "budget_s": 60,
+      "distance": 2,
+      "static_exact": 3,
+      "no_update": 2,
+      "spatial": 2,
+      "matched_spatial": 2,
+      "pearson": 2
+    },
+    {
+      "budget_s": 100,
+      "distance": 3,
+      "static_exact": 5,
+      "no_update": 3,
+      "spatial": 4,
+      "matched_spatial": 3,
+      "pearson": 3
+    },
+    {
+      "budget_s": 140,
+      "distance": 5,
+      "static_exact": 8,
+      "no_update": 5,
+      "spatial": 7,
+      "matched_spatial": 5,
+      "pearson": 7
+    }
+  ],
+  "reconciled_numeric_checks": 282
+}

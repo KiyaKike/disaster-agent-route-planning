@@ -1,0 +1,33 @@
+{
+  "status": "FOUR_STAGE_EVIDENCE_AND_REPRODUCTION_COMPLETE",
+  "files": {
+    "README.md": "ad5bea67a1ac0c8390c1e103188fd5abd6a4976f90ca7b3a2700a65d0370a536",
+    "boone_prediction_metrics.csv": "2e9e227764bb333e8f059db56a61f3052a80d0159b120c09f7dca2f45ca03ca4",
+    "boone_topk_node_sensitivity.csv": "f85ea1319c1ee1e918e4c69ff03c37eb705b03b8bf6811d67ea30c033e5437b2",
+    "boone_two_step.csv": "539f3664de0abfd3738266aab124e2a686a2ad8e148c07eedb3ad42b970b68ae",
+    "controlled_counts.csv": "12531966c0b6fdda642c061645da11723423c0ab3f43c8537982018048abb3c4",
+    "execution.json": "b77e2a55391697a66df10690f9dda1747e6fa331ff1f30b9e686d58080e491a6",
+    "external_budget_totals.csv": "00c895f6c5af3c76d4b9a1c7b746f038f2b6e7e032275f4511670160500e46bd",
+    "external_routes.csv": "ed46c90baf40cb91db7d5e9396d54967e265f3f44d09c78f0149410268785e95",
+    "figures/audit.json": "aaef737363153575acd081df2a25ba22921d14c7a3939f16b3372b9273e99de1",
+    "figures/execution_recipe.json": "cc9bea7423ab1613d122ae0846eee42533de71679eebfae1caedf837b8f06efd",
+    "figures/iona_candidates_at_fork.csv": "1ad18ffe6236244b4475a6459c9ea44e28d2c978133ba48a0208e9c30fd266d4",
+    "figures/iona_fork.json": "c3ae0125be7d459df39aa76e76cfd9dd80f986732ad6c1a5105261f163871793",
+    "figures/iona_fork.png": "762be71c0554a6f2e04ca6f5d49a69c180297cedf27b6fa6bd732b68da80be82",
+    "figures/iona_fork.svg": "9723f2c19c83ff6a1e386eb1c19e594f022ff625c7fbbd38dcd9a9f349514152",
+    "figures/iona_local_id_map.json": "72ad0006fa255e61c90a98b58b56a6e0bf9b76ada3f41cec5af17bb43949b4be",
+    "figures/ranking_route_points.csv": "fde6a93c91be7b343139999714bbd5cc19abc54bde003f1caeeaaad5f6677cf3",
+    "figures/ranking_route_points.json": "153e1d24ac879a94982c18bc6f689527a13acb51faa9e69eb61e9afddde526bc",
+    "figures/ranking_route_scatter.png": "da6895388f93ba89c80de9351443963296c4c9f0851f77511e44c595f901a269",
+    "figures/ranking_route_scatter.svg": "67da262d8583a9fd676c3c473c0b76c42e00307dffb8fce48d991a5e2f0bff73",
+    "figures/within_region_comparisons.json": "30b35b1e1df7cff5fa49f1e8e5e28636c5f8cf63809cda6e04b25d8e472574a5",
+    "public_reproduction_check.json": "b69775ba6e2a0d66af6b6b640654a63a247df2ff215c951096776c04cbacb7eb",
+    "resources.json": "670130f21437fc96cc5f81589e7a31505e39bcf97456f451550de26734173130",
+    "source_snapshots/audit_iona_ranking_diagnostic.py": "7d823c1144ca45cb97f16990e31c1db860547ef37915fbeb7161dfbbbbe41c92",
+    "source_snapshots/diagnose_iona_ranking_route.py": "ce49c34958966f62d522df704e951922d47722af47e3eb2b973fd411a04b56e1",
+    "source_snapshots/reproduce_diagnostic_evidence.py": "b14d775c7e5c10ac3b0a01499d632a99cbe398fc08597a018234e4b29b5b9893",
+    "summary.json": "bbce8676490d11af0fcccfeade2efaffd52ee9515810b6140055df3100772ac8",
+    "vlm_direction_diagnostic.csv": "ab27e2f5de9421f88e3e95bd30a3c0a2fbddf246d030a74ba12bc03ced5eccd8",
+    "结论核验与边界.md": "b334b5fbac65e52dc06f8f6feacbe2be5c7756c362efc62f100f856642d82f88"
+  }
+}

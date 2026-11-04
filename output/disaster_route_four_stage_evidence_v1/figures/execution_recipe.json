@@ -1,0 +1,31 @@
+{
+  "source": "Frozen region logs only; no original imagery, inference or policy replay",
+  "budget_proxy_s": 100,
+  "scatter_state": "Decision2, after exactly one common paid observation; remaining known-label targets",
+  "scatter_y": "Total route hits including identical first-visit credit within each region",
+  "methods": [
+    "no_update",
+    "spatial",
+    "matched_spatial",
+    "pearson"
+  ],
+  "static_exact_omission": "Different initial route/history; not a matched first-feedback comparison",
+  "unknowns": "Excluded from ranking metric, retained and charged in original routes",
+  "ap_ties": "Grouped thresholds",
+  "ndcg": "Binary,log2 discounts,unvisited-reference ideal; stable ID tie-break",
+  "local_lookback": "Remove only last I08 update at logged state; no alternative multi-step route generated",
+  "script_sha256": "ce49c34958966f62d522df704e951922d47722af47e3eb2b973fd411a04b56e1",
+  "elapsed_seconds": 0.23091525002382696,
+  "input_hashes": {
+    "output/disaster_route_crasar_pearson_isobudget_v1/summary.json": "3c03b64e52828685f6f78bd5bd61751620ed5d00c84d0bcb7b04f3ed81ef7b5f",
+    "output/disaster_route_crasar_pearson_isobudget_v1/case_rank03/routes.json": "0de4c591863149d8bc784f23452f2d257dcc6156f916ba4f2f7febb466e7016b",
+    "output/disaster_route_crasar_pearson_isobudget_v1/case_rank03/public_inputs.json": "bec857de865e04be8f2f6e623dae698b31609377be6258e92ce6a9375a159ce4",
+    "output/disaster_route_crasar_pearson_isobudget_v1/case_rank04/routes.json": "781b7d22e352b24ea9bb578513a225c052bb5c4d266d3511a4712cecf3bcc31c",
+    "output/disaster_route_crasar_pearson_isobudget_v1/case_rank04/public_inputs.json": "c27805e35abb0b7651f11d6140b27b4043a1648c5cdb397352ae3a3bd7bf8ae6",
+    "output/disaster_route_crasar_pearson_isobudget_v1/case_rank06/routes.json": "a63ffc7dbfb35ec1bb6ae0ae6ba1cfbf576c3fbfe38e8ff039c6ec12760b3d7f",
+    "output/disaster_route_crasar_pearson_isobudget_v1/case_rank06/public_inputs.json": "8711104d170d1e44d7b89988b25c4b25ad8b361f78e159cba43abcb66233649e",
+    "output/disaster_route_crasar_batch4_v1/case_rank03/private_reference.json": "948333bc7897bac8ad23321cb4162a61699e28ed8c985ad03005c5d7b8f00957",
+    "output/disaster_route_crasar_batch4_v1/case_rank04/private_reference.json": "823a4ea636eaf9301b2b11e6beace9429b6a37ce9892c0fb807fccb4908e0d38",
+    "output/disaster_route_crasar_batch4_v1/case_rank06/private_reference.json": "c1c73a9e6d8582b4d1d5841474eded472e262fbb5784ff1ba13fbb63c18a518a"
+  }
+}

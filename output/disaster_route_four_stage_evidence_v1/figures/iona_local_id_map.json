@@ -1,0 +1,34 @@
+[
+  {
+    "local_id": "I01",
+    "building_id": "00278e0a430549e6b5c4ab093c0ffa9a"
+  },
+  {
+    "local_id": "I02",
+    "building_id": "17b22c58f18942cdbb0fa30aae7687d2"
+  },
+  {
+    "local_id": "I03",
+    "building_id": "5773f1ca4318469fbf187c6a915c6043"
+  },
+  {
+    "local_id": "I04",
+    "building_id": "5eaad76070fe4f98be2e50d7d078a195"
+  },
+  {
+    "local_id": "I05",
+    "building_id": "6cb4c4506f1c475fb21c50af0c54c995"
+  },
+  {
+    "local_id": "I06",
+    "building_id": "a16d15374bb3402c9d7437def99a0a04"
+  },
+  {
+    "local_id": "I07",
+    "building_id": "e81d393265a34842bdfe680c5c7549db"
+  },
+  {
+    "local_id": "I08",
+    "building_id": "f7c50254e0614d5cae1668233aad9256"
+  }
+]

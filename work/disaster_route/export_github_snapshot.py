@@ -62,6 +62,7 @@ def main():
                 included+=1
         partial.append({'receipt':str(receipt.relative_to(dest)),'present_verified_entries':included,'absent_original_entries':missing,
           'scope':'Original receipt is historical provenance,not a claim that this Git snapshot contains all original experimental inputs.'})
+    copy(ROOT/'requirements-diagnostics.txt')
     (dest/'docs').mkdir(exist_ok=True)
     (dest/'docs/archive_availability.json').write_text(json.dumps(partial,ensure_ascii=False,indent=2)+'\n')
     (dest/'README.md').write_text('''# 灾前灾后 Agent 搜查路线规划
@@ -82,6 +83,24 @@ def main():
 已完成[固定Pearson算子的区域外同预算检验](output/disaster_route_crasar_pearson_isobudget_v1/README.md)：3区域、54条闭合路线、32次本机先验前向。主预算100代理秒下，Pearson／幅度空间／纯空间／精确静态累计核查阳性为3／3／4／5；未建立稳定方法增量。算子保留为标准对照，不继续调Boone特征。全部源标签、代理成本与配准边界见报告。此前[Boone两步初筛](output/disaster_route_boone_two_step_v1/README.md)及[小VLM结果](output/disaster_route_boone_context_run_v2/README.md)保持原字节。
 
 补充[Iona轨迹与排序—收益诊断](output/disaster_route_iona_ranking_diagnostic_v1/README.md)：已定位第三次阴性反馈后的选点分叉，并提供同首访截面的AP—路线命中图；公开日志可独立重画，无需模型或原始影像。当前只补分析，写稿后置。
+
+## 四层证据与快速复现
+
+|层次|原实验脚本（work/disaster_route/）|已记录资源与耗时|核心结论|
+|---|---|---|---|
+|受控机制|`run_verification_screen.py`|CPU精确枚举；原总耗时未记录|强制校准60/108更差，可选11/108改善；非一般理论|
+|VLM／低阶表征|`run_boone_context_experiment.py`|本机MPS，276次前向329.61s；总348.71s|完整历史AP0.342低于不更新0.377；低阶核未超幅度控制|
+|局部与单点诊断|`run_boone_structure_check.py`、`run_boone_two_step.py`|CPU缓存计算；原总耗时未记录|Top-1 9:1，去B03后3:1；两步8:5非同航程|
+|区域外同预算|`run_crasar_pearson_isobudget.py`|32次本机MPS先验14.37s；路线CPU计算|100s合计静态5、纯空间4、Pearson3|
+
+无API费用、无GPU租赁；本机MPS属于本地GPU，不是CPU。运行下列命令只复算已发布表格和两张诊断图，不重新执行模型或原路线实验：
+
+```bash
+python -m pip install -r requirements-diagnostics.txt
+python work/disaster_route/reproduce_diagnostic_evidence.py --output output/reproduced_diagnostic_evidence
+```
+
+仅需表格时可用`--tables-only`，无第三方依赖。输出目录须不存在。本机公开快照完整复现约0.51s、标准库表格约0.02s，不含安装与Python启动；无需影像、权重或网络。见[证据包](output/disaster_route_four_stage_evidence_v1/README.md)与[结论核验](output/disaster_route_four_stage_evidence_v1/结论核验与边界.md)。当前先收敛证据，写稿后置。
 
 ## 当前结论（2026-11-03快照）
 
