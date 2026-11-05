@@ -16496,5 +16496,11 @@
     "present_verified_entries": 28,
     "absent_original_entries": [],
     "scope": "Complete four-stage evidence reconciliation, standard-library table reproduction, frozen-log scientific plots and claim boundary ledger; no model or new policy runs."
+  },
+  {
+    "receipt": "output/disaster_route_story_review_v1/completion_receipt.json",
+    "present_verified_entries": 4,
+    "absent_original_entries": [],
+    "scope": "Complete four-stage claim review separating observations, logged computation and unverified physical causes; numeric premises and reproducible standard-library checker."
   }
 ]

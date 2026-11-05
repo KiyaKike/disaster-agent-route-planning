@@ -84,6 +84,8 @@ def main():
 
 补充[Iona轨迹与排序—收益诊断](output/disaster_route_iona_ranking_diagnostic_v1/README.md)：已定位第三次阴性反馈后的选点分叉，并提供同首访截面的AP—路线命中图；公开日志可独立重画，无需模型或原始影像。当前只补分析，写稿后置。
 
+补充[四层故事线审定](output/disaster_route_story_review_v1/四层故事线审定.md)：现象与计算机制已核验，配准／区域异构等物理归因未确认；四层作为递进诊断，不视为统一失败定理。
+
 ## 四层证据与快速复现
 
 |层次|原实验脚本（work/disaster_route/）|已记录资源与耗时|核心结论|

@@ -1,0 +1,172 @@
+{
+  "status": "PASS",
+  "claim_groups_checked": 8,
+  "checks": [
+    {
+      "claim_id": "L1",
+      "numeric_premise": "VERIFIED",
+      "values": {
+        "conditions": 108,
+        "forced_calibration_harm": 60,
+        "optional_gain": 11,
+        "candidate_bayes_equal": 108
+      }
+    },
+    {
+      "claim_id": "L2_VLM",
+      "numeric_premise": "VERIFIED",
+      "values": {
+        "forward_calls": 276,
+        "history_ap": 0.3419642857142857,
+        "no_update_ap": 0.3774470899470899,
+        "all_targets_follow_anchor_cases": 12
+      }
+    },
+    {
+      "claim_id": "L2_FEATURES",
+      "numeric_premise": "VERIFIED",
+      "values": {
+        "ap_pairs": [
+          {
+            "S2_visual_spatial": 0.43594075677409005,
+            "C2_matched36": 0.46714065255731924
+          },
+          {
+            "S3_change6": 0.3628477232643899,
+            "C3_matched6": 0.4562279541446208
+          },
+          {
+            "S4_change6_old_tau": 0.4742233846400512,
+            "C4_matched6_old_tau": 0.4764389931056597
+          }
+        ],
+        "counterexample_top3_old_tau": [
+          12,
+          11
+        ]
+      }
+    },
+    {
+      "claim_id": "L2_APPEARANCE",
+      "numeric_premise": "VERIFIED",
+      "values": {
+        "B11_B09_post_color_distance_fraction": 0.9755428675605696,
+        "B10_mean_pearson": -0.1239045899696311,
+        "physical_cause_verified": false
+      }
+    },
+    {
+      "claim_id": "L3_HEAD",
+      "numeric_premise": "VERIFIED",
+      "values": {
+        "heads": {
+          "S5_pearson_change": {
+            "original": 9,
+            "without_B03": 3,
+            "B03_chosen": 7
+          },
+          "C5_matched_pearson": {
+            "original": 1,
+            "without_B03": 1,
+            "B03_chosen": 0
+          }
+        },
+        "ap": [
+          0.5534752284752285,
+          0.44544753086419764
+        ],
+        "top3": [
+          10,
+          11
+        ]
+      }
+    },
+    {
+      "claim_id": "L3_TWO_STEP",
+      "numeric_premise": "VERIFIED",
+      "values": {
+        "distance_rule_hits": {
+          "pearson": 8,
+          "matched_spatial": 5
+        },
+        "closed_distances_m": {
+          "pearson": 1198.8665114422358,
+          "matched_spatial": 1145.4769942421915
+        },
+        "score_only_counterexample": {
+          "pearson": 9,
+          "no_update": 11
+        }
+      }
+    },
+    {
+      "claim_id": "L4",
+      "numeric_premise": "VERIFIED",
+      "values": {
+        "routes": 54,
+        "budget_totals": {
+          "60": {
+            "distance": 2,
+            "static_exact": 3,
+            "no_update": 2,
+            "spatial": 2,
+            "matched_spatial": 2,
+            "pearson": 2
+          },
+          "100": {
+            "distance": 3,
+            "static_exact": 5,
+            "no_update": 3,
+            "spatial": 4,
+            "matched_spatial": 3,
+            "pearson": 3
+          },
+          "140": {
+            "distance": 5,
+            "static_exact": 8,
+            "no_update": 5,
+            "spatial": 7,
+            "matched_spatial": 5,
+            "pearson": 7
+          }
+        },
+        "Iona_100s_counterexample": {
+          "distance": 1,
+          "static_exact": 0,
+          "no_update": 1,
+          "spatial": 1,
+          "matched_spatial": 1,
+          "pearson": 0
+        }
+      }
+    },
+    {
+      "claim_id": "MECHANISM_VS_CAUSE",
+      "numeric_premise": "VERIFIED",
+      "values": {
+        "Iona_priority_reversal": "Verified at fixed logged state",
+        "Iona_late_return_end_s": 103.681048040722,
+        "registration_cause_verified": false,
+        "heterogeneity_cause_verified": false
+      }
+    }
+  ],
+  "input_hashes": {
+    "output/disaster_route_verification_screen_v1/results.json": "5e04a03b9862d4169aeb24d278c4d2f6f4c52a08a355c38ecfdfce4834823564",
+    "output/disaster_route_boone_context_run_v2/summary.json": "de6d0497b5a3e44862d53d73d90eafc07e1f3f0712b6ee14ec9fe4938be03ba4",
+    "output/disaster_route_boone_context_run_v2/score_shift_diagnostic.json": "9511ec628efe8ada7a0b692495ab38b50b219ad56832c239ba878dd97fc4a32d",
+    "output/disaster_route_boone_structure_check_v1/summary.json": "f71b8afdbbdc64134a500cf34dc9cb6161ff6692870fbd1a3b0cf5bd6c06545d",
+    "output/disaster_route_boone_feature_error_audit_v1/feature_distance_components.json": "0526c20a5bac3c3ca7183983012f6fad438d3c24246a3558b1c00fe1a433698e",
+    "output/disaster_route_boone_structure_check_v1/structure_features.json": "1b9e24af9d685d83ed81477734401a214f82ab1803776d066b856b28050500ea",
+    "output/disaster_route_boone_context_pilot_v1/evaluator_only_view_references.json": "54961da64b8de2e390ff017785b4370c17dac6719f524fb909ae76a319d17aa5",
+    "output/disaster_route_boone_structure_check_v1/prediction_rows.json": "d7731b0020e5b2c65c6e3ad7b647f60101fa6847e15cd3038c457afc949ab4c6",
+    "output/disaster_route_boone_two_step_v1/episodes.json": "4b48b2d2bdf1011b59f5204173fba4b23cd795b4c346f8e1241108a9a0ccd27f",
+    "output/disaster_route_crasar_pearson_isobudget_v1/summary.json": "3c03b64e52828685f6f78bd5bd61751620ed5d00c84d0bcb7b04f3ed81ef7b5f",
+    "output/disaster_route_iona_ranking_diagnostic_v1/iona_fork.json": "c3ae0125be7d459df39aa76e76cfd9dd80f986732ad6c1a5105261f163871793",
+    "output/disaster_route_iona_ranking_diagnostic_v1/ranking_route_points.json": "153e1d24ac879a94982c18bc6f689527a13acb51faa9e69eb61e9afddde526bc"
+  },
+  "script_sha256": "fd12450e745fe891b5302a9c1e5753c505011b94558e0d6321c8b19ac4187508",
+  "scope": "Numerical premises verified; physical cause and generalization explicitly not certified",
+  "new_model_calls": 0,
+  "new_policy_runs": 0
+}

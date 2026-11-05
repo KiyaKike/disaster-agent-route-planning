@@ -1,0 +1,9 @@
+{
+  "status": "FOUR_STAGE_STORY_REVIEW_COMPLETE",
+  "files": {
+    "README.md": "55b948cef3f488ba8f34b6e7471b1100cf2d22ad9fcb987173d12ec742f7ec13",
+    "numeric_audit.json": "f0d9dff8d084f53f26683cfbc69a625f2537134ac9fc8149098fbc8fb5e874eb",
+    "source_snapshots/verify_four_stage_story.py": "fd12450e745fe891b5302a9c1e5753c505011b94558e0d6321c8b19ac4187508",
+    "四层故事线审定.md": "c8e5b9f5b18046f0153ecf980caddab00625ad36b662519801f01abc667242e4"
+  }
+}

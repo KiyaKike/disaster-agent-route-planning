@@ -10,8 +10,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 5921,
-      "sha256": "d61828d3b2325629b60992d1e14d954044e9cb4d2cb048c719eb91481cc2afab"
+      "bytes": 6157,
+      "sha256": "151a3a03c6f754ca109eb8b130b9ca2f87e388a7b92a4a295094e0a79f389c64"
     },
     {
       "path": "docs/REPRODUCIBILITY.md",
@@ -25,8 +25,8 @@
     },
     {
       "path": "docs/archive_availability.json",
-      "bytes": 690989,
-      "sha256": "a572f8c9a69e83fce71c274a9662a93f6cb4a8109fa626b04b9b8cede1113cbc"
+      "bytes": 691332,
+      "sha256": "ddc47ac043ae51ab17b1a80f89e405392807864b9759f7e86cb103d1f416bc2e"
     },
     {
       "path": "docs/third_party/CrossViewGate_LICENSE.txt",
@@ -4834,6 +4834,31 @@
       "sha256": "a04f224f555a1c8a3a01f91b5dc57d1f853131639c455280bfcac713ed170e37"
     },
     {
+      "path": "output/disaster_route_story_review_v1/README.md",
+      "bytes": 374,
+      "sha256": "55b948cef3f488ba8f34b6e7471b1100cf2d22ad9fcb987173d12ec742f7ec13"
+    },
+    {
+      "path": "output/disaster_route_story_review_v1/completion_receipt.json",
+      "bytes": 466,
+      "sha256": "0d633f00b38a685475d0520c42306ec3d1c2940a09af7251011d85b4e8e9f6c9"
+    },
+    {
+      "path": "output/disaster_route_story_review_v1/numeric_audit.json",
+      "bytes": 5678,
+      "sha256": "f0d9dff8d084f53f26683cfbc69a625f2537134ac9fc8149098fbc8fb5e874eb"
+    },
+    {
+      "path": "output/disaster_route_story_review_v1/source_snapshots/verify_four_stage_story.py",
+      "bytes": 8460,
+      "sha256": "fd12450e745fe891b5302a9c1e5753c505011b94558e0d6321c8b19ac4187508"
+    },
+    {
+      "path": "output/disaster_route_story_review_v1/四层故事线审定.md",
+      "bytes": 9742,
+      "sha256": "c8e5b9f5b18046f0153ecf980caddab00625ad36b662519801f01abc667242e4"
+    },
+    {
       "path": "output/disaster_route_structure_pilot_v1/README.md",
       "bytes": 6871,
       "sha256": "2cf9ab9e2b1def62367283de245275882144400158e59c3b98c5e6a0c4d56043"
@@ -7975,8 +8000,8 @@
     },
     {
       "path": "work/disaster_route/README.md",
-      "bytes": 11830,
-      "sha256": "530fe38bfd937245f70d89baf3a909f135e7bf791549a069ac36fcb4b5980017"
+      "bytes": 12316,
+      "sha256": "71ed361055f685eb607be54985900a21265366eafa52338b0afd8386104ea0dc"
     },
     {
       "path": "work/disaster_route/acquire_xbd_route_metadata.py",
@@ -8160,8 +8185,8 @@
     },
     {
       "path": "work/disaster_route/export_github_snapshot.py",
-      "bytes": 15504,
-      "sha256": "9533239abb02d5cf5ce1c727643a8c715d5c743b260e3c7ca4c192096b670686"
+      "bytes": 15740,
+      "sha256": "0aa7e8fbc9b7c9b4e203ac52ee81cea7c4ff03c7fa93d0c4ea1644c9f6294201"
     },
     {
       "path": "work/disaster_route/extract_crasar_region.py",
@@ -8609,6 +8634,11 @@
       "sha256": "afe673a4002d2b48cba38bca7442dda12590d3157950439854faa57f6e20f03f"
     },
     {
+      "path": "work/disaster_route/verify_four_stage_story.py",
+      "bytes": 8460,
+      "sha256": "fd12450e745fe891b5302a9c1e5753c505011b94558e0d6321c8b19ac4187508"
+    },
+    {
       "path": "work/disaster_route/verify_research_admission.py",
       "bytes": 4337,
       "sha256": "8544fc5446f3797ecf08e232af08b0806132c8897d8ccc7e34d4556f533260e5"
@@ -8630,8 +8660,8 @@
     },
     {
       "path": "work/disaster_route/研究目标与接手计划.md",
-      "bytes": 11313,
-      "sha256": "164a175b8570e56a2bfb6760d3d987e66fb579e88d6338b5f1f4afe1e9f0c1d0"
+      "bytes": 11793,
+      "sha256": "70bb85fc583479b1abae7efa3c1c86a0b10ed13d9aaa59f0713b6af698948107"
     },
     {
       "path": "work/disaster_route/研究记录/20261103_旧复核候选接手计划.md",

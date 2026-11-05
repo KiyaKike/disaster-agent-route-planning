@@ -8,6 +8,8 @@ GitHub公开快照：[KiyaKike/disaster-agent-route-planning](https://github.com
 
 2026-11-05证据整理：[四层证据与轻量复现](../../output/disaster_route_four_stage_evidence_v1/README.md)已完成：从存档重算282项数值，提供7份CSV、资源记录与结论边界表。单命令重画两张图；公开快照约0.51秒，标准库表格约0.02秒，不含安装。没有模型／新路线调用，也未写论文。下一项审定研究问题、贡献范围和仍需的独立证据，再决定写作安排。
 
+2026-11-05结论审定：[四层故事线审定](../../output/disaster_route_story_review_v1/四层故事线审定.md)：逐层区分现象、确定的计算关系与未确认的物理原因。四层保留为递进诊断，不称统一证伪定理；颜色／配准导致失败、主导节点即过拟合、静态普遍最稳健均未获验证。明确AP与其他指标例外、静态精确求解和在线贪心／规划费差异。8组数值前提核对通过，写稿继续后置。
+
 Boone历史链路：[小VLM对照](../../output/disaster_route_boone_context_run_v2/README.md) → [逐栋错误](../../output/disaster_route_boone_feature_error_audit_v1/README.md) → [6维消融](../../output/disaster_route_boone_change6_v1/README.md) → [幅度匹配](../../output/disaster_route_boone_strength_control_v1/README.md) → [Pearson与Top-3](../../output/disaster_route_boone_structure_check_v1/README.md) → [两步反馈初筛](../../output/disaster_route_boone_two_step_v1/README.md)。两步初筛通过后，已按固定方法执行区域外检验，不再追Boone最高分。初学者材料见[学习路线](在线上下文反馈_学习与实验路线.md)和[第一课](在线上下文反馈_第一课.md)；历史“下一步”与当前状态冲突时，以当前接手计划为准。
 
 2026-11-03研究立项审查：[付费复核、可辨识性与路线决策](../../output/disaster_route_research_admission_v1/README.md)。用户指出工程推进未形成创新后，停止将泛化的“可靠性＋付费复核”视作新方法：CrossViewGate论文及固定公开commit已覆盖灾损视角门控、付费下一视角开发与路线队列。新增24场景纯元数据审查：18个有与灾后卫星同日的有人机候选，0个有与UAS同日的额外来源记录；尚未建立同状态独立UAS复访或共同现场真值。精确反例核验90个首访等式及64个条件分支：两种不可由首访区分的世界，其最优后续行动分别为搜索新地点和原处复核。该反例不主张新定理；更窄的“能改变路线的歧义与复核价值”仍是未确认候选，不直接开发算法。下一步仅核验独立复核数据入口和最接近方法差异；无新增影像／标签下载、模型推理、训练或GPU租赁。此前3631个封存文件哈希核验保持一致。
